@@ -1,0 +1,351 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Aghazadeh-Attari, J
+   EntezarMahdi, R
+   Ahmadzadeh, J
+   Mobaraki, K
+   Mansorian, B
+   Karimi, H
+   Mirghaffarzadeh, S
+   Hajimohammadian, M
+   Mohebbi, I
+AF Aghazadeh-Attari, Javad
+   EntezarMahdi, Rasool
+   Ahmadzadeh, Jamal
+   Mobaraki, Kazhal
+   Mansorian, Behnam
+   Karimi, Hasan
+   Mirghaffarzadeh, Shamsi
+   Hajimohammadian, Mahnaz
+   Mohebbi, Iraj
+TI The Burden of Premature Mortality Related to Suicide in West Azerbaijan
+   From 2014 to 2016 A Death Registry System-Based Study
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; premature mortality; life expectancy; burden of suicide; years
+   of potential (YPLL)
+ID SELF-IMMOLATION; EPIDEMIOLOGY; SMOKING; IMPACT; GENDER
+AB Background: Examining the premature death rate represents the first step in estimating the overall burden of disease. reflecting a full picture of how different causes affect population health and providing a way of monitoring and evaluating population health. Aims: This study was conducted to assess the burden of premature mortality from suicides in West Azerbaijan Province, northwest of Iran from 2014 to 2016. Method: To calculate years of potential life lost (YPLL), we categorized all methods of suicide, then we subtracted actual age at death by suicide from the relevant age-based life table produced by the World Health Organization in 2015, after which we added the results for each type of suicide in a particular year. Results: We analyzed 638 suicides. Overall, during the 3-year study period for both sexes. the greatest sources of premature death among all methods of suicide were: hanging, strangulation, and suffocation (X70); smoke, fire, and flames (X76); and poisoning by narcotics and psychodysleptics (X62). Limitations: Limitations of the study include a lack of accurate, systematic recording and reporting of all cases of suicide, which might lead to measurement bias. Conclusion: This study identified and highlighted the most common methods of suicide in West Azerbaijan.
+C1 [Aghazadeh-Attari, Javad] Urmia Univ Med Sci, Dept Neurosurg, Social Determinants Hlth Res Ctr, Orumiyeh, Iran.
+   [EntezarMahdi, Rasool; Ahmadzadeh, Jamal; Mobaraki, Kazhal; Mansorian, Behnam; Karimi, Hasan; Mirghaffarzadeh, Shamsi; Hajimohammadian, Mahnaz; Mohebbi, Iraj] Urmia Univ Med Sci, Social Determinants Hlth Res Ctr, Orumiyeh, Iran.
+C3 Urmia University of Medical Sciences; Urmia University of Medical
+   Sciences
+RP Mohebbi, I (corresponding author), Urmia Univ Med Sci, Social Determinants Hlth Res Ctr, Occupat Med Ctr, Resalat St, Orumiyeh, Iran.
+EM irajmohebbi@umsu.ac.ir
+RI Ahmadzadeh, Jamal/C-2056-2018; karimi, hasan/GRJ-0295-2022;
+   Entezarmahdi, Rasool Entezar-mahdi/O-4331-2017; Mohebbi,
+   Iraj/G-1494-2017
+OI Ahmadzadeh, Jamal/0000-0001-8170-0460; Entezarmahdi, Rasool
+   Entezar-mahdi/0000-0003-2261-150X; Mohebbi, Iraj/0000-0001-9158-5742
+FU Urmia University of Medical Sciences [2100]
+FX This study was supported by grant no. 2100 and funding from the Urmia
+   University of Medical Sciences. The funders had no role in the design
+   and conduct of the study; collection, management, analysis, and
+   interpretation of the data; preparation, review, or approval of the
+   manuscript; and decision to submit the manuscript for publication.
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 0
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD NOV
+PY 2019
+VL 40
+IS 6
+BP 407
+EP 412
+DI 10.1027/0227-5910/a000581
+PG 6
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA JT2IX
+UT WOS:000500820600005
+PM 30888228
+DA 2023-12-06
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; King Abdullah International Medical Research Center
+   (KAIMRC); Ministry of National Guard - Health Affairs; Universitas Islam
+   Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Khan, Aqeel/B-5208-2010; Eskin, Mehmet/AAG-9269-2020; Harlak,
+   Hacer/ABC-5916-2020; Khan, Murad/AAE-5134-2020; Noor, Isa
+   Multazam/AAQ-2726-2020; Rezaeian, Mohsen/C-6513-2008; Hamdan,
+   Motasem/AAB-3940-2019; Khader, Yousef Saleh/AAE-9620-2019
+OI Khan, Aqeel/0000-0001-9338-9323; Rezaeian, Mohsen/0000-0003-3070-0166;
+   Khader, Yousef Saleh/0000-0002-7830-6857; Eskin,
+   Mehmet/0000-0001-9916-9268; Isayeva, Ulker/0000-0003-3927-4810;
+   Hendarmin, Laifa A./0000-0001-5281-395X; Hamdan,
+   Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-06
+ER
+
+PT J
+AU Aghazadeh, J
+   Motlagh, ME
+   EntezarMahdi, R
+   Eslami, M
+   Mohebbi, I
+   Yousefzadeh, H
+   Farrokh-Eslamlou, H
+AF Aghazadeh, Javad
+   Motlagh, Mohammad Esmaeil
+   EntezarMahdi, Rasool
+   Eslami, Mohammad
+   Mohebbi, Iraj
+   Yousefzadeh, Hasan
+   Farrokh-Eslamlou, Hamidreza
+TI Cause-specific mortality among women of reproductive age: Results from a
+   population-based study in an Iranian community
+SO SEXUAL & REPRODUCTIVE HEALTHCARE
+LA English
+DT Article
+ID MATERNAL MORTALITY; CANCER-MORTALITY; SELF-IMMOLATION; BURNS;
+   EPIDEMIOLOGY; DEATH
+AB Purpose of study: This study was conducted to evaluate the levels, patterns, and causes of mortality among women of reproductive age in Northwestern Iran.
+   Methods: Deaths were determined for females resident in West Azerbaijan Province of Iran and who died between March 2013 to February 2014 using reproductive age mortality survey (RAMOS). Causes of death were ascertained by verbal autopsy (VA) and classified based on the International Classification of Diseases, tenth revision (ICD-10). Overall and cause-specific mortality rates (MRs) per 100,000 women with 95% confidence intervals were calculated.
+   Results: A total of 510 deaths were detected, and VA interviews were conducted with the relatives of the deceased Cases; overall MR was 56.59 per 100,000 women (95% CI: 56.49-56.69). The highest MR was observed in suicide cases (MR = 10.21 per 100,000 women, 95% CI: 10.15-10.27), accounting for 18% of all deaths. The most common method of suicide was self-inflicted burns (45.6%), followed by deaths due to breast cancer (MR = 4.22 per 100,000 women, 95% CI: 4.18-4.26), which accounted for the most cancer-related mortality. All-cause mortality was associated with age, area of residence, marital status, level of education, and ethnic (religious) status relationship (P < 0.001).
+   Conclusion: Suicide, especially self-immolation, was the main cause of death among women of reproductive age, and both suicides and breast cancer are major public health problems for this group of women. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Aghazadeh, Javad] Urmia Univ Med Sci, Orumiyeh, Iran.
+   [Motlagh, Mohammad Esmaeil] Ahvaz Jundishapur Univ Med Sci, Dept Pediat, Ahvaz, Iran.
+   [EntezarMahdi, Rasool] Urmia Univ Med Sci, Dept Biostat & Epidemiol, Orumiyeh, Iran.
+   [Eslami, Mohammad] Minist Hlth & Med Educ, Family & Sch Hlth Dept, Tehran, Iran.
+   [Mohebbi, Iraj] Urmia Univ Med Sci, Dept Occupat Hlth, Orumiyeh, Iran.
+   [Yousefzadeh, Hasan] Urmia Univ Med Sci, Dept Publ Hlth, Orumiyeh, Iran.
+   [Farrokh-Eslamlou, Hamidreza] Urmia Univ Med Sci, Sch Publ Hlth, Reprod Hlth Res Ctr, Nazloo Rd, Orumiyeh, Iran.
+C3 Urmia University of Medical Sciences; Ahvaz Jundishapur University of
+   Medical Sciences (AJUMS); Urmia University of Medical Sciences; Ministry
+   of Health & Medical Education (MOHME); Urmia University of Medical
+   Sciences; Urmia University of Medical Sciences; Urmia University of
+   Medical Sciences
+RP Farrokh-Eslamlou, H (corresponding author), Urmia Univ Med Sci, Sch Publ Hlth, Reprod Hlth Res Ctr, Nazloo Rd, Orumiyeh, Iran.
+EM aghazadehj@umsu.ac.ir; mohammad-motlagh1389@yahoo.com;
+   r_entezar_mahndi@yahoo.com; parhamii@hotmail.com;
+   mohebbi_iraj@yahoo.co.uk; yousefzadeh.ha@gmail.com;
+   Hamidfarrokh@gmail.com
+RI Farrokh-Eslamlou, Hamidreza/G-7456-2017; motlagh, Mohammad
+   Esmaiel/AAC-2653-2019; yusefzadeh, hasan/F-9850-2017; Entezarmahdi,
+   Rasool Entezar-mahdi/O-4331-2017; Eslami, Mohammad/Y-6039-2018;
+   mirzaaghazadeh, javad/M-8412-2017; Mohebbi, Iraj/G-1494-2017
+OI Farrokh-Eslamlou, Hamidreza/0000-0002-9603-5632; motlagh, Mohammad
+   Esmaiel/0000-0002-2971-8660; yusefzadeh, hasan/0000-0001-9919-0235;
+   Entezarmahdi, Rasool Entezar-mahdi/0000-0003-2261-150X; Eslami,
+   Mohammad/0000-0001-6474-8876; mirzaaghazadeh, javad/0000-0002-1582-9087;
+   eslami, mohammad/0000-0001-5490-3131
+FU World Health Organization, East Mediterranean Region Office (EMRO)
+   [2015/556477-0]; Ministry of Health and Medical Education, Population
+   and Family Health Department of Iran
+FX This survey was supported in part by the World Health Organization, East
+   Mediterranean Region Office (EMRO) [grant number 2015/556477-0, 2014-15]
+   and the Ministry of Health and Medical Education, Population and Family
+   Health Department of Iran.
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 12
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1877-5756
+EI 1877-5764
+J9 SEX REPROD HEALTHC
+JI Sex. Reprod. Healthc.
+PD DEC
+PY 2017
+VL 14
+BP 7
+EP 12
+DI 10.1016/j.srhc.2017.08.003
+PG 6
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FR3KT
+UT WOS:000418966300002
+PM 29195638
+DA 2023-12-06
+ER
+
+PT J
+AU Akbari-Zardkhaneh, S
+   Shahvarani, SM
+   Mansurkiaie, N
+   Zanganeh, A
+   Jallalat-Danesh, M
+   Garmtani, ST
+   Zareian, M
+AF Akbari-Zardkhaneh, Saeed
+   Shahvarani, Seyed Mohammad
+   Mansurkiaie, Nader
+   Zanganeh, Alimohammad
+   Jallalat-Danesh, Mohsen
+   Garmtani, Siamak Tahmasebi
+   Zareian, Masoud
+TI Psychometric Properties of Electronic Mental Health Assessment Device
+   for High School Students: Teacher and Parent Form
+SO IRANIAN JOURNAL OF PSYCHIATRY AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE Electronic device; Factor analysis; Student's mental health; Teacher
+   form; Parent form
+ID PREVALENCE; CHILDREN; METAANALYSIS; ADOLESCENTS; SUICIDE
+AB Objectives To the importance of screening students' mental health and lack of a customized tool based on prevalent psychopathological problems in students, the present study aims to develop and examine the psychometric properties of electronic mental health assessment device for high school students-parent form and teacher form.
+   Methods The study sample included 1697 teachers and 1186 parents of high school students of Alborz, Kermanshah, Eastern Azerbaijan, Sistan and Baluchistan, Fars, and Khorasan Razavi. Parent form and teacher form consisted of 118 and 133 items, respectively.
+   Results Items analysis based on 8 criteria showed that all items of teacher form and parent form had proper qualification. Explanatory factor analysis showed that the most proper structure for teacher form and parent form are 6-factor structure and 5-factor structure, respectively. Internal consistency was sufficiently good and alpha coefficients were ranged between 0.77 and 0.97 for teacher form and between 0.85 and 0.92 for parent form.
+   Conclusion In general, psychometric properties of both scales indicate their suitability for screening and research.
+C1 [Akbari-Zardkhaneh, Saeed] Shahid Beheshti Univ, Fac Educ & Psychol, Dept Educ, Tehran, Iran.
+   [Shahvarani, Seyed Mohammad] Shahid Beheshti Univ, Fac Educ & Psychol, Dept Psychol, Tehran, Iran.
+   [Mansurkiaie, Nader] Allameh Tabatabai Univ, Fac Commun Sci, Dept Commun Studies, Commun Sci, Tehran, Iran.
+   [Zanganeh, Alimohammad; Jallalat-Danesh, Mohsen] Social & Crime Prevent Directorate Judiciary, Tehran, Iran.
+   [Garmtani, Siamak Tahmasebi] Univ Rehabil Sci & Social Welf, Dept Preschool Educ, Clin Psychol, Tehran, Iran.
+   [Zareian, Masoud] Islamic Azad Univ, Fac Math & Comp, Cent Tehran Branch, Dept Comp Sci, Tehran, Iran.
+C3 Shahid Beheshti University; Shahid Beheshti University; Allameh
+   Tabataba'i University; Islamic Azad University
+RP Akbari-Zardkhaneh, S (corresponding author), Shahid Beheshti Univ, Fac Educ & Psychol, Dept Educ, Tehran, Iran.
+EM akbari76ir@yahoo.com
+NR 48
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IRAN UNIV MEDICAL SCIENCES
+PI TEHRAN
+PA COOPERATION IRAN NEUROSCIENCE SOC, NEGAH INST SCIENTIFIC COMMUNICATION,
+   SHAHID HEMMAT HIGHWAY, TEHRAN, 1449614535, IRAN
+SN 1735-4315
+EI 2228-7515
+J9 IRAN J PSYCHIAT CLIN
+JI Iran. J. Psychiat. Clin. Psychol.
+PD FAL
+PY 2018
+VL 24
+IS 3
+BP 324
+EP 339
+DI 10.32598/ijpcp.24.3.324
+PG 16
+WC Psychiatry
+WE Emerging Sources Citation Index (ESCI)
+SC Psychiatry
+GA JW8BH
+UT WOS:000503271600007
+OA gold, Green Submitted
+DA 2023-12-06
+ER
+
+EF

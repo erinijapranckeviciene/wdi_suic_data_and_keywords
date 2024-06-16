@@ -1,0 +1,417 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fajkic, A
+   Lepara, O
+   Voracek, M
+   Kapusta, N
+   Niederkrotenthaler, T
+   Amiri, L
+   Sonneck, G
+   Dervic, K
+AF Fajkic, Almir
+   Lepara, Orhan
+   Voracek, Martin
+   Kapusta, NestorD.
+   Niederkrotenthaler, Thomas
+   Amiri, Leena
+   Sonneck, Gernot
+   Dervic, Kanita
+TI Child and Adolescent Suicides in Bosnia and Herzegovina Before and After
+   the War (1992-1995)
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; children; adolescents; war; Bosnia
+ID RATES; OWNERSHIP; FIREARMS; YOUTH; STRATEGIES; ATTITUDES; HOMICIDE; RISK
+AB Background: Evidence on youth suicides from Southeastern Europe is scarce. We are not aware of previous reports from Bosnia and Herzegovina, which experienced war from 1992 to 1995. Durkheim's theory of suicide predicts decreased suicide rates in wartime and increased rates afterward. Aims: To compare child and adolescent suicides in Bosnia and Herzegovina before and after the war. Methods: Data on youth suicide for prewar (1986-90) and postwar (2002-06) periods were analyzed with respect to prevalence, sex and age differences, and suicide methods. Suicide data from 1991 through 2001 were not available. Results: Overall youth suicide rates were one-third lower in the postwar than in the prewar period. This effect was most pronounced for girls, whose postwar suicide rates almost halved, and for 15-19-year-old boys, whose rates decreased by about a one-fourth. Suicides increased among boys aged 14 or younger. Firearm suicides almost doubled proportionally and were the predominant postwar method, while the most common prewar method had been hanging. Conclusions: The findings from this study indicate the need for public education in Bosnia and Herzegovina on the role of firearm accessibility in youth suicide and for instructions on safe storage in households. Moreover, raising societal awareness about suicide risk factors and suicide prevention is needed.
+C1 [Amiri, Leena; Dervic, Kanita] United Arab Emirates Univ, Fac Med & Hlth Sci, Dept Psychiat, Al Ain, U Arab Emirates.
+   [Fajkic, Almir] Univ Sarajevo, Fac Med, Inst Pathophysiol, Sarajevo 71000, Bosnia & Herceg.
+   [Lepara, Orhan] Univ Sarajevo, Fac Med, Inst Physiol & Biochem, Sarajevo 71000, Bosnia & Herceg.
+   [Voracek, Martin] Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+   [Kapusta, NestorD.] Med Univ Vienna, Dept Psychoanal & Psychotherapy, Vienna, Austria.
+   [Niederkrotenthaler, Thomas] Med Univ Vienna, Ctr Publ Hlth, Dept Family Med & Gen Practice, Vienna, Austria.
+   [Niederkrotenthaler, Thomas; Sonneck, Gernot] Med Univ Vienna, Inst Med Psychol, Vienna, Austria.
+   [Sonneck, Gernot] Ludwig Boltzmann Inst Social Psychiat, Vienna, Austria.
+   [Dervic, Kanita] Med Univ Vienna, Dept Child & Adolescent Psychiat, Vienna, Austria.
+C3 United Arab Emirates University; University of Sarajevo; University of
+   Sarajevo; University of Vienna; Medical University of Vienna; Medical
+   University of Vienna; Medical University of Vienna; Ludwig Boltzmann
+   Institute; Medical University of Vienna
+RP Dervic, K (corresponding author), United Arab Emirates Univ, Fac Med & Hlth Sci, Dept Psychiat, POB 17666, Al Ain, U Arab Emirates.
+EM kanitadervic@uaeu.ac.ae
+RI Lepara, Orhan/AAM-5752-2021; Amiri, Leena/HKN-1631-2023; Kapusta, Nestor
+   D/C-9368-2009; Voracek, Martin/S-5865-2016
+OI Kapusta, Nestor D/0000-0002-0970-4341; Voracek,
+   Martin/0000-0001-6109-6155; Niederkrotenthaler,
+   Thomas/0000-0001-9550-628X
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 7
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+J9 CRISIS
+JI Crisis
+PY 2010
+VL 31
+IS 3
+BP 160
+EP 164
+DI 10.1027/0227-5910/a000021
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 615DV
+UT WOS:000279114400007
+PM 20573610
+DA 2023-12-05
+ER
+
+PT J
+AU Music, E
+   Jacobsson, L
+   Renberg, ES
+AF Music, Emina
+   Jacobsson, Lars
+   Renberg, Ellinor Salander
+TI Suicide in Bosnia and Herzegovina and the City of Sarajevo With Special
+   Reference to Ethnicity
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; war; ethnicity; Bosnia and Herzegovina; Sarajevo
+ID RELIGION; WAR
+AB Background: Besides the war experience (1992-1995), Bosnia and Herzegovina (BiH) constitutes an interesting area for studies on suicidal behavior from an ethnic and religious perspective with its mixed ethnic population of Bosniaks, Serbs, and Croats. Aims: The study investigates suicide in BiH and the capital city of Sarajevo before (1985-1991) and after the war (1998-2006), with special reference to gender and ethnicity. Method: Official suicide data were gathered for the two periods with regard to gender, ethnicity, and suicide methods used. Results: No differences in suicide rates were found in BiH and Sarajevo before and after the war. The male-to-female suicide rate ratio in BiH was significantly higher after the war than before the war, with an opposite tendency seen in Sarajevo. Before and after the war, the highest and stable suicide rates were among Serbs in BiH. In Sarajevo the highest suicide rates were found among Croats after the war. Hanging was the most common suicide method used, both before and after the war, while firearms were more commonly used after the war. Poisoning was a rarely used method in both periods. Conclusion: The stable suicide rates in BiH over the pre- and postwar periods indicate no evident influence of the Bosnian war on the postwar level of suicide rates, except for women in Sarajevo. Beside this exception, the findings indicate a long-established underlying pattern in suicide rates that was not immediately changed, even by war. The study supports earlier findings that the accessibility of means influences the choice of suicide method used.
+C1 [Music, Emina; Jacobsson, Lars; Renberg, Ellinor Salander] Umea Univ, Div Psychiat, Dept Clin Sci, S-90187 Umea, Sweden.
+C3 Umea University
+RP Renberg, ES (corresponding author), Umea Univ, Div Psychiat, Dept Clin Sci, S-90187 Umea, Sweden.
+EM ellinor.salander.renberg@psychiat.umu.se
+NR 30
+TC 2
+Z9 2
+U1 0
+U2 3
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2014
+VL 35
+IS 1
+BP 42
+EP 50
+DI 10.1027/0227-5910/a000232
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 292RQ
+UT WOS:000329920300007
+PM 24197489
+DA 2023-12-05
+ER
+
+PT J
+AU Klanjsek, R
+   Vazsonyi, AT
+   Trejos-Castillo, E
+AF Klanjsek, Rudi
+   Vazsonyi, Alexander T.
+   Trejos-Castillo, Elizabeth
+TI Religious orientation, low self-control, and deviance: Muslims,
+   Catholics, Eastern Orthodox-, and "Bible Belt" Christians
+SO JOURNAL OF ADOLESCENCE
+LA English
+DT Article
+DE Problem behaviors; Delinquency; Cross-cultural; Cross-national; Religion
+ID GENERAL-THEORY; MENTAL-HEALTH; ALCOHOL-USE; CRIME; DELINQUENCY;
+   HELLFIRE; METAANALYSIS; ADOLESCENCE; COMMITMENT; SUICIDE
+AB Using adolescent samples from four cultures, the current study tested whether effects by religiosity on deviance varied by the nature of religiosity (intrinsic versus extrinsic) and by the cultural context (Bosnia & Herzegovina, Serbia, Slovenia, and the U.S.). Results indicated: a) that not every type of religiosity has a buffering effect on deviance - if one's religiousness is predominately instrumental (i.e. extrinsic), then its inhibiting effect is weak or does not exist; b) that the effect of intrinsic religiosity seemed more pronounced in the two surroundings that expressed the highest mean religiosity (U.S., Bosnia & Herzegovina) although results from follow-up analysis (Z-tests) largely supported a cultural invariance hypothesis. In addition, the intrinsic religiosity-deviance link was moderated by low self-control in each sample, except the Slovenian one. Finally, results indicated that low self-control only partially mediated the religiosity-deviance link. (C) 2011 The Foundation for Professionals in Services for Adolescents. Published by Elsevier Ltd. All rights reserved.
+C1 [Klanjsek, Rudi] Univ Maribor, SLO-2000 Maribor, Slovenia.
+   [Vazsonyi, Alexander T.] Univ Kentucky, Lexington, KY 40506 USA.
+   [Trejos-Castillo, Elizabeth] Texas Tech Univ, Lubbock, TX 79409 USA.
+C3 University of Maribor; University of Kentucky; Texas Tech University
+   System; Texas Tech University
+RP Klanjsek, R (corresponding author), Univ Maribor, Koroska Cesta 160, SLO-2000 Maribor, Slovenia.
+EM rudi.klanjsek@uni-mb.si; vazsonyi@uky.edu
+RI Klanjšek, Rudi/D-1649-2009; Vazsonyi, Alexander T/B-1229-2008
+OI Vazsonyi, Alexander/0000-0001-7163-1705
+FU Direct For Social, Behav & Economic Scie; Divn Of Social and Economic
+   Sciences [GRANTS:13874965] Funding Source: National Science Foundation;
+   Direct For Social, Behav & Economic Scie; Divn Of Social and Economic
+   Sciences [0925068] Funding Source: National Science Foundation
+NR 87
+TC 30
+Z9 38
+U1 0
+U2 48
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0140-1971
+EI 1095-9254
+J9 J ADOLESCENCE
+JI J. Adolesc.
+PD JUN
+PY 2012
+VL 35
+IS 3
+BP 671
+EP 682
+DI 10.1016/j.adolescence.2011.09.003
+PG 12
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Psychology
+GA 966EN
+UT WOS:000305820500018
+PM 21993144
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Definis-Gojanovic, M
+   Gugic, D
+   Sutlovic, D
+AF Definis-Gojanovic, Marija
+   Gugic, Dijana
+   Sutlovic, Davorka
+TI Suicide and Emo Youth Subculture - A Case Analysis
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicide; teenagers; Emo subculture; Bosnia and Herzegovina
+ID MUSIC; ADOLESCENTS; DEPRESSION
+AB Depression and suicide present a serious health problem especially for teenagers as they are increasingly diagnosed with mood disorders of different severity, possibly leading to suicidal activity. Reported here is a misfortunate young girl who committed suicide by jumping from high altitude. She left a suicide note which, together with her behavior in the death-preceding period, pointed to her apparently belonging to an Emo subculture. Although few and scarce, most existing articles and reports on Emo subculture found that its members like to focus on negative things, dark premonitions and deprivation of enjoyment, like self harm and suicide but no scientific information are available about the characteristics, trends and possible suicidal tendencies of children and adolescents who belong to this subgroup. It is for the future researches to answer whether this type of behavior and music preference are causal factors for increased suicidal vulnerability, or personal characteristics and anamnesis, upbringing and mental health status are actual sources of the problem.
+C1 [Definis-Gojanovic, Marija] Univ Mostar, Dept Forens Med, Sch Med, Bijeli Brijeg Bb 88000, Mostar, Bosnia & Herceg.
+   [Definis-Gojanovic, Marija; Gugic, Dijana; Sutlovic, Davorka] Univ Split, Sch Med, Dept Pathol Forens Med & Cytol, Split, Croatia.
+C3 University of Mostar; University of Split
+RP Definis-Gojanovic, M (corresponding author), Univ Mostar, Dept Forens Med, Sch Med, Bijeli Brijeg Bb 88000, Mostar, Bosnia & Herceg.
+EM marija.definis-gojanovic@st.t-com.hr
+RI Sutlovic, Davorka/E-1509-2017; Sutlovic, Davorka/AAA-1432-2019
+OI Sutlovic, Davorka/0000-0002-0102-7251; 
+NR 15
+TC 11
+Z9 14
+U1 0
+U2 21
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RES, P O BOX 290, ULICA GRADA VUKOVARA 72/IV, 10000
+   ZAGREB, CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD DEC
+PY 2009
+VL 33
+SU 2
+BP 173
+EP 175
+PG 3
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 543CF
+UT WOS:000273546800029
+PM 20120408
+DA 2023-12-05
+ER
+
+PT J
+AU Nikolaidis, G
+   Petroulaki, K
+   Zarokosta, F
+   Tsirigoti, A
+   Hazizaj, A
+   Cenko, E
+   Brkic-Smigoc, J
+   Vajzovic, E
+   Stancheva, V
+   Chincheva, S
+   Ajdukovic, M
+   Rajter, M
+   Raleva, M
+   Trpcevska, L
+   Roth, M
+   Antal, I
+   Ispanovic, V
+   Hanak, N
+   Olmezoglu-Sofuoglu, Z
+   Umit-Bal, I
+   Bianchi, D
+   Meinck, F
+   Browne, K
+AF Nikolaidis, George
+   Petroulaki, Kiki
+   Zarokosta, Foteini
+   Tsirigoti, Antonia
+   Hazizaj, Altin
+   Cenko, Enila
+   Brkic-Smigoc, Jelena
+   Vajzovic, Emir
+   Stancheva, Vaska
+   Chincheva, Stefka
+   Ajdukovic, Marina
+   Rajter, Miro
+   Raleva, Marija
+   Trpcevska, Liljana
+   Roth, Maria
+   Antal, Imola
+   Ispanovic, Veronika
+   Hanak, Natasha
+   Olmezoglu-Sofuoglu, Zeynep
+   Umit-Bal, Ismail
+   Bianchi, Donata
+   Meinck, Franziska
+   Browne, Kevin
+TI Lifetime and past-year prevalence of children's exposure to violence in
+   9 Balkan countries: the BECAN study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Violence against children; Child abuse and neglect; Child maltreatment;
+   Violence; Epidemiology; Balkans
+ID ADVERSE CHILDHOOD EXPERIENCES; PHYSICAL ABUSE; SEXUAL-ABUSE; ICAST-CH;
+   NEGLECT; MALTREATMENT; CONSEQUENCES; ASSOCIATIONS; METAANALYSIS; SUICIDE
+AB Background: Children's exposure to violence is a major public health issue. The Balkan epidemiological study on Child Abuse and Neglect project aimed to collect internationally comparable data on violence exposures in childhood.
+   Methods: A three stage stratified random sample of 42,194 school-attending children (response rate: 66.7%) in three grades (aged 11, 13 and 16 years) was drawn from schools in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Former Yugoslavian Republic of Macedonia (FYROM), Greece, Romania, Serbia and Turkey. Children completed the ICAST-C questionnaire, which measures children's exposure to violence by any perpetrator.
+   Results: Exposure rates for psychological violence were between 64.6% (FYROM) and 83.2% (Greece) for lifetime and 59.62% (Serbia) and 70.0% (Greece) for past-year prevalence. Physical violence exposure varied between 50.6% (FYROM) and 76.3% (Greece) for lifetime and 42.5% (FYROM) and 51.0% (Bosnia) for past-year prevalence. Sexual violence figures were highest for lifetime prevalence in Bosnia (18.6%) and lowest in FYROM (7.6%). Lifetime contact sexual violence was highest in Bosnia (9.8%) and lowest in Romania (3.6%). Past-year sexual violence and contact sexual violence prevalence was lowest in Romania (5.0 and 2.1%) and highest in Bosnia (13.6 and 7.7% respectively). Self-reported neglect was highest for both past-year and lifetime prevalence in Bosnia (48.0 and 20.3%) and lowest in Romania (22.6 and 16.7%). Experiences of positive parental practices were reported by most participating children in all countries.
+   Conclusions: Where significant differences in violence exposure by sex were observed, males reported higher exposure to past-year and lifetime sexual violence and females higher exposure to neglect. Children in Balkan countries experience a high burden of violence victimization and national-level programming and child protection policy making is urgently needed to address this.
+C1 [Nikolaidis, George; Petroulaki, Kiki; Zarokosta, Foteini; Tsirigoti, Antonia] Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+   [Hazizaj, Altin; Cenko, Enila] Childrens Human Rights Ctr Albania, Tirana, Albania.
+   [Brkic-Smigoc, Jelena; Vajzovic, Emir] Univ Sarajevo, Fac Polit Sci, Sarajevo, Bosnia & Herceg.
+   [Stancheva, Vaska; Chincheva, Stefka] South West Univ N Rilski, Dept Med Social Sci, Blagoevgrad, Bulgaria.
+   [Ajdukovic, Marina; Rajter, Miro] Univ Zagreb, Fac Law, Dept Social Work, Zagreb, Croatia.
+   [Raleva, Marija; Trpcevska, Liljana] Univ Skopje, Univ Clin Psychiat, Skopje, Macedonia.
+   [Roth, Maria; Antal, Imola] Babes Bolyai Univ, Social Work Dept, Fac Sociol & Social Work, Cluj Napoca, Romania.
+   [Ispanovic, Veronika; Hanak, Natasha] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Olmezoglu-Sofuoglu, Zeynep; Umit-Bal, Ismail] Assoc Emergency Ambulance Phys, Izmir, Turkey.
+   [Bianchi, Donata] Inst Innocenti, Florence, Italy.
+   [Meinck, Franziska] Univ Oxford, Ctr Evidence Based Intervent, Oxford, England.
+   [Meinck, Franziska] North West Univ, Sch Behav Sci, Vanderbeijlpark, South Africa.
+   [Browne, Kevin] Univ Nottingham, Sch Med, Ctr Forens & Family Psychol, Div Psychiat & Appl Psychol, Nottingham, England.
+   [Zarokosta, Foteini] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Tsirigoti, Antonia] The Smile Child, Athens, Greece.
+   [Cenko, Enila] Univ New York Tirana, Humanities & Social Sci Dept, Tirana, Albania.
+   [Hanak, Natasha] AWO Clearinghaus Unaccompanied Minor Refugees, Dortmund, North Rhine Wes, Germany.
+C3 University of Sarajevo; South-West University - Bulgaria; University of
+   Zagreb; Saints Cyril & Methodius University of Skopje; Babes Bolyai
+   University from Cluj; University of Belgrade; Istituto degli Innocenti;
+   University of Oxford; North West University - South Africa; University
+   of Nottingham; Technical University of Denmark; University of New York
+   in Tirana
+RP Nikolaidis, G (corresponding author), Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+EM gnikolaidis@ich-mhsw.gr
+RI Stancheva-Popkostadinova, Vaska Sl/N-5753-2014; Roth, Maria/H-6760-2019;
+   Antal, Imola/IAM-0424-2023; Brkić Šmigoc, Jelena/GNN-1106-2022;
+   Sofuoglu, Zeynep/AAA-9584-2021; Vajzović, Emir/AAR-1233-2021; Meinck,
+   Franziska/C-7694-2014; Rajter, Miroslav/A-3619-2016
+OI Roth, Maria/0000-0002-8284-8798; Brkić Šmigoc,
+   Jelena/0000-0002-8632-1520; Meinck, Franziska/0000-0002-5234-3799;
+   Rajter, Miroslav/0000-0002-2608-3196; Nikolaidis,
+   George/0000-0001-7017-0660; Vajzovic, Emir/0000-0003-4189-0946;
+   Stancheva-Popkostadinova, Vaska/0000-0002-9302-7282
+FU European Research Council under the EU's 7th Framework Programme for
+   Research and Innovation [223478/HEALTH/CALL 2007-B]; Economic and Social
+   Research Council in the UK [ES/N017447/1]; ESRC [ES/N017447/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/N017447/1]
+   Funding Source: researchfish
+FX The research leading to this manuscript was funded by the European
+   Research Council under the EU's 7th Framework Programme for Research and
+   Innovation (ID: 223478/HEALTH/CALL 2007-B). FM received writing support
+   from the Economic and Social Research Council in the UK (ES/N017447/1).
+NR 49
+TC 40
+Z9 40
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD JAN 2
+PY 2018
+VL 12
+AR 1
+DI 10.1186/s13034-017-0208-x
+PG 15
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR8KC
+UT WOS:000419322600001
+PM 29308086
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Novakovic, M
+   Babic, D
+   Dedic, G
+   Leposavic, L
+   Milovanovic, A
+   Novakovic, M
+AF Novakovic, Milan
+   Babic, Dragan
+   Dedic, Gordana
+   Leposavic, Ljubica
+   Milovanovic, Aleksanadar
+   Novakovic, Mitar
+TI Euthanasia of Patients with the Chronic Renal Failure
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE euthanasia; dialysis; chronic renal failure; patients
+ID COMPASSIONATE CARE; DIALYSIS; WITHDRAWAL; SUICIDE
+AB This study deals with frequency and form of euthanasia in dialysis patients with chronic renal failure (CRF) in Bosnia and Herzegovina (B&H) within the period from 2000 to 2006. Of total number of 2700 patients on dialysis we examined n=753 of them. Examinees with the Balkan Endemic Nephropathy (BEN) (n=348) were in the first group, and the Control group was formed of patients with other diseases (n=405). In this study the following methods were used: adapted Questionnaire from the Renal Registry of B&H, Beck's Anxiety Inventory (BAI), Hamilton's Depression Rating Scale (HDRS) and Mini-Mental Scale of Estimation (MMSE). Age of the BEN group of patients ranged: 64.77 +/- 8.86 and the control one 53.85 +/- 3.60. Multivariate analysis for the BEN group with passive euthanasia was: 0.760 (95%, CI=0.590-0.71 0) (p=0.001) and for the active one was 0.450 (95%, CI=0.125-0.510 (p =0.001). Euthanasia is associated with the rural life and renal heredity, and psychological BAI scale-total, HDRS-total and MMSE-total. For the BEN group passive euthanasia is 3.75% as well as active 0.86%. The findings stressed that euthanasia of dialysis patients requires better nephrological-psychiatric control and social care in B&H as well as complete program for the CRF samples protection too.
+C1 [Novakovic, Milan] Fac Med, Dept Psychiat, Foca, Bosnia & Herceg.
+   [Babic, Dragan] Fac Med, Dept Psychiat, Mostar, Bosnia & Herceg.
+   [Dedic, Gordana] Mil Med Acad, Psychiat Clin, Belgrade, Serbia.
+   [Leposavic, Ljubica] Fac Med, Inst Psychiat, Belgrade, Serbia.
+   [Milovanovic, Aleksanadar] Fac Med, Inst Occupat Hlth, Belgrade, Serbia.
+   [Novakovic, Mitar] Teacher Training Sch, Dept Biol, Bijeljina, Bosnia & Herceg.
+C3 University of Belgrade; University of Belgrade
+RP Novakovic, M (corresponding author), Fac Med, Vojvode Putnika 7, Bijeljina 76300, Bosnia & Herceg.
+EM milanov@telrad.net
+NR 43
+TC 1
+Z9 1
+U1 0
+U2 4
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD MAR
+PY 2009
+VL 33
+IS 1
+BP 179
+EP 185
+PG 7
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 436WZ
+UT WOS:000265448100027
+PM 19408623
+DA 2023-12-05
+ER
+
+EF

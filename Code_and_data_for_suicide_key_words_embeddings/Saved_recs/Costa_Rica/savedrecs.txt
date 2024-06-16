@@ -1,0 +1,369 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Castillo-Guerrero, MM
+   Gómez-Vargas, M
+   Scarpa, B
+   Arias-Mora, F
+AF Castillo-Guerrero, M. M.
+   Gomez-Vargas, M.
+   Scarpa, B.
+   Arias-Mora, F.
+TI Suicides and suicide attempts by antidepressant drug poisonings reported
+   in Costa Rica from 2007 to 2014
+SO TOXICOLOGY LETTERS
+LA English
+DT Meeting Abstract
+CT 14th International Congress of Toxicology in conjunction with the 10th
+   Mexican Congress of Toxicology
+CY OCT 02-09, 2016
+CL Merida, MEXICO
+C1 [Castillo-Guerrero, M. M.; Gomez-Vargas, M.; Arias-Mora, F.] Univ Costa Rica, Dept Pharmacol Toxicol & Pharmacodependence, San Jose, Costa Rica.
+   [Scarpa, B.] Univ Padua, Dept Stat Sci, Padua, Italy.
+C3 Universidad Costa Rica; University of Padua
+RI Scarpa, Bruno/AAK-1087-2021
+OI Scarpa, Bruno/0000-0002-9628-5164
+FU Universidad de Costa Rica, Costa Rica
+FX Universidad de Costa Rica, Costa Rica.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-4274
+EI 1879-3169
+J9 TOXICOL LETT
+JI Toxicol. Lett.
+PD OCT
+PY 2016
+VL 259
+SU S
+MA PP12.1
+BP S140
+EP S141
+DI 10.1016/j.toxlet.2016.07.596
+PG 3
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Toxicology
+GA EO7CF
+UT WOS:000396848100353
+DA 2023-12-06
+ER
+
+PT J
+AU Modrek, S
+   Ahern, J
+AF Modrek, Sepideh
+   Ahern, Jennifer
+TI Longitudinal relation of community-level income inequality and mortality
+   in Costa Rica
+SO HEALTH & PLACE
+LA English
+DT Article
+DE Costa Rica; Inequalities; Mortality; Socio-economic; Small-area study
+ID YORK-CITY NEIGHBORHOODS; SELF-RATED HEALTH; POPULATION HEALTH;
+   SOCIOECONOMIC-STATUS; MULTILEVEL; ASSOCIATION; DETERMINANT; ENVIRONMENT;
+   RISK
+AB The controversy regarding the direct relationship between income distribution and health remains unresolved. Empirical evidence has often failed to advance our understanding because in the countries studied there was limited ability to distinguish hypotheses. This study examines the relation between inequality and mortality in the context of Costa Rica. Costa Rica's unique social and political structure makes confounding through resource and political channels less likely, thus any effects would work predominantly through direct psychosocial channels. Using mortality data extracted from the Vital Statistics Registry, we evaluate the longitudinal relations between lagged and contemporaneous income inequality and cause-specific mortality in Costa Rica from 1995 to 2005. For those aged 15-60, results indicate that there is a significant adverse relation between increases in lagged inequality and mortality from liver disease, and marginal adverse relations with mortality from diabetes and suicide. For those aged 60 and over, there is a limited evidence of a relation between inequality and health. These results suggest increases in inequality may impact health behavior of the working aged population in Costa Rica. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Modrek, Sepideh] Stanford Univ, Palo Alto, CA 94304 USA.
+   [Ahern, Jennifer] Univ Calif Berkeley, Sch Publ Hlth, Div Epidemiol, Berkeley, CA 94720 USA.
+C3 Stanford University; University of California System; University of
+   California Berkeley
+RP Modrek, S (corresponding author), Stanford Univ, 1070 Arastradero Rd, Palo Alto, CA 94304 USA.
+EM smodrek@stanford.edu; jahern@berkeley.edu
+OI Modrek, Sepideh/0000-0003-4557-7156; Ahern, Jennifer/0000-0002-3853-9760
+FU NIA NIH HHS [T32 AG000246, T32 AG000246-13] Funding Source: Medline
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1353-8292
+J9 HEALTH PLACE
+JI Health Place
+PD NOV
+PY 2011
+VL 17
+IS 6
+BP 1249
+EP 1257
+DI 10.1016/j.healthplace.2011.07.006
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 843KU
+UT WOS:000296671500009
+PM 21873102
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Castro, FL
+   Rubio, VO
+AF Llorca Castro, Fernando
+   Orton Rubio, Vicente
+TI Unnecessary premature and avoidable mortality in Costa Rica
+SO REVISTA ESPANOLA DE SALUD PUBLICA
+LA Spanish
+DT Article
+DE Inequalities; Evaluations; Mortality; Costa Rica
+ID HEALTH-CARE; INEQUALITY; QUALITY; OBESITY; CANCER; INCOME; RISK; HIV
+AB Backgrounds: With the intention of establishing economic inequities, the article analyzes the variations of the Unnecessarily Premature and Sanitarily Avoidable Mortality (MIPSE) of each of the 81 cantons of Costa Rica during 2000-2005. It is important to identify those inequities, to establish policies and strategies trying to mitigate them.
+   Method: It applies the MIPSE classification proposed by members of the Information and Studies Service, of the Catalunya's Sanitary Resources Headquarter, Spain. By an Indicator of Socioeconomic Development (IDSE) of a University of Costa Rica economist's team, it organised each canton in groups of quintiles (I for the richest, V. for the poorest), previous people standardization.
+   Results: We found as a major causes of mortality MIPSE in the country: Heart Isquemic Disease (19,55% MIPSE causes), Traffic Accidents with Motor Vehicles (11,60%), Brain Vascular Disease (6,95%), Perinatal (6,92%) and Suicide (5,14%).
+   Conclusion: The VIH infection - AIDS mortality, the Best Cancer in Women, Uterus Cancer, Skin Cancer and Hepatic Disease Secondary to Alcohol Consumption, affects more the cantons with better financial conditions and the Prostate Benign Hyperplasia mortality, Mothers mortality related with Pregnancy, Childbirth or Puerperal Stage and the Abdominal Hernia mortality, affects more to those with worst economic level. Two MIPSE groups were identified with similar inequality: Leukaemia and Congenital Cardiovascular Disease.
+C1 [Llorca Castro, Fernando] Fdn ACTIVA Int, Madrid 28080, Spain.
+   [Orton Rubio, Vicente] Univ Pompeu Fabra, Dept Econ & Empresa, Barcelona, Spain.
+   [Orton Rubio, Vicente] Univ Pompeu Fabra, Ctr Invest Econ & Salud, Barcelona, Spain.
+C3 Pompeu Fabra University; Pompeu Fabra University
+RP Castro, FL (corresponding author), Fdn ACTIVA Int, Apartado Postal 200, Madrid 28080, Spain.
+EM fllorca@activainternacional.org
+RI Ortun, Vicente R/A-2078-2009
+OI Ortun, Vicente R/0000-0001-9754-4116
+NR 56
+TC 3
+Z9 4
+U1 0
+U2 12
+PU MINISTERIO DE SANIDAD Y CONSUMO
+PI MADRID
+PA PASEO DEL PRADO 18-20, MADRID, 28071, SPAIN
+SN 1135-5727
+J9 REV ESP SALUD PUBLIC
+JI Rev. Esp. Salud Publica
+PD NOV-DEC
+PY 2010
+VL 84
+IS 6
+BP 771
+EP 787
+DI 10.1590/S1135-57272010000600008
+PG 17
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 704FG
+UT WOS:000286035900008
+PM 21327312
+OA Green Submitted, gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Romo, ML
+   Kelvin, EA
+AF Romo, Matthew L.
+   Kelvin, Elizabeth A.
+TI Impact of bullying victimization on suicide and negative health
+   behaviors among adolescents in Latin America
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE Bullying; adolescent; suicide; tobacco; alcohol drinking; aggression;
+   sexual behavior; school health; Latin America
+ID MIDDLE-SCHOOL STUDENTS; SUBSTANCE USE; DEPRESSION; RISK; ASSOCIATION;
+   CHILDHOOD; IDEATION; MEXICO
+AB Objective. To compare the prevalence of bullying victimization, suicidal ideation, suicidal attempts, and negative health behaviors (current tobacco use, recent heavy alcohol use, truancy, involvement in physical fighting, and unprotected sexual intercourse) in five different Latin American countries and determine the association of bullying victimization with these outcomes, exploring both bullying type and frequency.
+   Methods. Study data were from Global School-based Student Health Surveys from Bolivia, Costa Rica, Honduras, Peru, and Uruguay, which covered nationally representative samples of school-going adolescents. The surveys used a two-stage clustered sample design, sampling schools and then classrooms. Logistic regression models were run to determine the statistical significance of associations with bullying.
+   Results. Among the 14 560 school-going adolescents included in this study, the prevalence of any bullying victimization in the past 30 days was 37.8%. Bullying victimization was associated with greater odds of suicidal ideation with planning (adjusted odds ratio (AOR): 3.12; P < 0.0001) and at least one suicide attempt (AOR: 3.07; P < 0.0001). An increasing exposure-response effect of increasing days of bullying victimization on suicide outcomes was also observed. Bullying victimization was associated with higher odds of current tobacco use (AOR: 2.14; P < 0.0001); truancy (AOR: 1.76; P < 0.0001); physical fighting (AOR: 2.40; P < 0.0001); and unprotected sexual intercourse (AOR: 1.77; P < 0.0001).
+   Conclusions. Although the prevalence of bullying victimization varied by country, its association with suicidal ideation and behavior and negative health behaviors remained relatively consistent. Addressing bullying needs to be made a priority in Latin America, and an integrated approach that also includes mental and physical health promotion is needed.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+EM elizabeth.kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Kelvin,
+   Elizabeth/0000-0002-0566-8697
+NR 28
+TC 36
+Z9 44
+U1 1
+U2 17
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD NOV
+PY 2016
+VL 40
+IS 5
+BP 347
+EP 355
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EJ4UT
+UT WOS:000393213100009
+PM 28076584
+DA 2023-12-06
+ER
+
+PT J
+AU Contreras, J
+   Hernández, S
+   Quezada, P
+   Dassori, A
+   Walss-Bass, C
+   Escamilla, M
+   Raventos, H
+AF Contreras, Javier
+   Hernandez, Sandra
+   Quezada, Paulina
+   Dassori, Albana
+   Walss-Bass, Consuelo
+   Escamilla, Michael
+   Raventos, Henriette
+TI Association of Serotonin Transporter Promoter Gene Polymorphism
+   (5-HTTLPR) With Depression in Costa Rican Schizophrenic Patients
+SO JOURNAL OF NEUROGENETICS
+LA English
+DT Article
+DE depression; schizophrenia; serotonin transporter gene; suicidal behavior
+ID SUICIDAL-BEHAVIOR; MENTAL-ILLNESS; STRESS; MODERATION; EVENTS; RISK;
+   INTERVIEW; SYMPTOMS; DISORDER
+AB Depression and suicidal behavior are frequently observed in patients with schizophrenia. The serotonin transporter protein regulates serotonergic signaling at synapses and is encoded by a single gene (SLC6A4; Locus Link ID: 6532), located at 17q11.1-q12 with two polymorphic variants (the short and the long allele). The short allele of serotonin transporter gene has been associated with depression and suicidality in individuals who suffered negative life events and with depression in individuals with chronic psychosis.. Subjects were recruited from a genetic study of schizophrenia conducted in Costa Rica. The authors replicated their previous research, using a more narrow phenotype (only schizophrenic subjects) and a more ethnically homogenous sample (only Costa Rican schizophrenic individuals who were not included in the previous study). The authors hypothesized that subjects with at least one copy of the serotonin transporter promoter gene polymorphism (5-HTTLPR) "s" allele would have a greater history of lifetime depression and suicidability rate than those who had an "l/l" genotype. The authors analyzed 155 subjects with a DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition) diagnosis of schizophrenia (73% male, age at interview 38.3, SD = 11.23). The genotype distribution was "ss" 58 (37%), "sl" 69 (45%), and "ll" 28 (18%). In the secondary analysis, the authors explored association of the "s" allele with lifetime history of suicide behavior in 173 subjects (18 more subjects than primary analysis because schizophrenic individuals were included regardless of history of depression). The authors found that subjects carrying at least one short allele had a significant increased lifetime risk for depressive syndromes (chi(2) = 5.4, df = 1, P = 0.02; odds ratio [ OR] = 2.7, 95% confidence interval [CI] = 1.15-6.3). No association was found for suicidal behavior in the same sample (chi(2) = 0.928, P = 0.629). In conclusion, the genotype at the 5-HTTLPR promoter polymorphic locus increases the risk of developing major depression but not suicidal behavior during the course of the schizophrenia in these patients. Due to the small sample size, these results should be followed by definitive replication.
+C1 [Contreras, Javier; Quezada, Paulina; Dassori, Albana; Walss-Bass, Consuelo] Univ Texas Hlth Sci Ctr San Antonio, Dept Psychiat, Psychiat Genet Res Ctr, San Antonio, TX 78229 USA.
+   Univ Texas Hlth Sci Ctr San Antonio, Dept Cellular & Struct Biol, San Antonio, TX 78229 USA.
+   [Contreras, Javier; Hernandez, Sandra; Raventos, Henriette] Univ Costa Rica, Ctr Invest Biol Celular & Mol, San Jose, Costa Rica.
+   [Raventos, Henriette] Univ Costa Rica, Sch Biol, Dept Genet, San Jose, Costa Rica.
+   [Escamilla, Michael] Texas Tech Univ, Hlth Sci Ctr, Paul L Foster Sch Med, Neurosci Ctr Excellence, El Paso, TX USA.
+C3 University of Texas System; University of Texas Health Science Center at
+   San Antonio; University of Texas System; University of Texas Health
+   Science Center at San Antonio; Universidad Costa Rica; Universidad Costa
+   Rica; Texas Tech University System; Texas Tech University
+RP Contreras, J (corresponding author), Univ Texas Hlth Sci Ctr San Antonio, Dept Psychiat, Psychiat Genet Res Ctr, 7703 Floyd Curl Dr, San Antonio, TX 78229 USA.
+EM dr.javiercontreras@gmail.com
+RI Raventos, Henriette/GVS-4816-2022; Walss-Bass, Consuelo/K-5702-2015
+OI Raventos, Henriette/0000-0001-9423-8308; Walss-Bass,
+   Consuelo/0000-0003-2474-5448; Hernandez-Salon, Sandra
+   Liliana/0000-0001-6049-1639
+FU National Institute of Mental Health [R01 MH60881, R01 MH60875]; US/CR
+   Psychiatric Genetic Research [D43 TW006152-04, 115887]; Fogarty
+   Foundation; National Institute of Mental Health
+FX This work was supported by grants R01 MH60881 and R01 MH60875 from the
+   National Institute of Mental Health and the US/CR Psychiatric Genetic
+   Research Training Grant D43 TW006152-04 (PGID no. 115887). We are also
+   grateful for the support of the Fogarty Foundation and the National
+   Institute of Mental Health for funding support. The authors report no
+   conflicts of interest. The authors alone are responsible for the content
+   and writing of the paper.
+NR 43
+TC 13
+Z9 16
+U1 0
+U2 9
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0167-7063
+EI 1563-5260
+J9 J NEUROGENET
+JI J. Neurogenet.
+PD JUL
+PY 2010
+VL 24
+IS 2
+BP 83
+EP 89
+DI 10.3109/01677060903583994
+PG 7
+WC Genetics & Heredity; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Genetics & Heredity; Neurosciences & Neurology
+GA 628HE
+UT WOS:000280105100004
+PM 20397838
+DA 2023-12-06
+ER
+
+PT J
+AU Wesseling, C
+   de Joode, BV
+   Keifer, M
+   London, L
+   Mergler, D
+   Stallones, L
+AF Wesseling, Catharina
+   van Wendel de Joode, Berna
+   Keifer, Matthew
+   London, Leslie
+   Mergler, Donna
+   Stallones, Lorann
+TI Symptoms of psychological distress and suicidal ideation among banana
+   workers with a history of poisoning by organophosphate or n-methyl
+   carbamate pesticides
+SO OCCUPATIONAL AND ENVIRONMENTAL MEDICINE
+LA English
+DT Article
+ID CHRONIC NEUROLOGICAL SEQUELAE; LONG-TERM EXPOSURE; MORTALITY;
+   NEUROTOXICITY; SYSTEM; CHLORPYRIFOS; INSECTICIDES; APPLICATORS;
+   THRESHOLD; PARATHION
+AB Objectives Neuropsychiatric disorders and increased suicide rates have been associated with exposure to cholinesterase inhibiting organophosphates. This study examined symptoms of psychological distress, including suicidal ideation, among banana workers in Costa Rica previously exposed to a cholinesterase inhibiting pesticide.
+   Methods 78 workers who had received medical attention 1-3 years previously for occupational pesticide poisoning were recruited: 54 had been exposed to organophosphate, 24 to carbamate, and 43 and 35, respectively, had single and multiple poisoning episodes with a cholinesterase inhibitor. Referents were 130 non-poisoned workers randomly selected from company payrolls. Psychological distress symptoms during the month prior to interview were obtained using the Brief Symptom Inventory (BSI), which has a general severity index and nine subscale scores. Differences in abnormal BSI scores (T score >= 63) were assessed through multivariate logistic regression for all poisoned and for subcategories of poisoned as compared to non-poisoned workers.
+   Results Organophosphate poisoned workers reported significantly more symptoms than non-poisoned on all but one symptom dimension. Significant trends of increasing symptoms with increasing number of previous poisonings were seen for somatisation, obsessive-compulsiveness, interpersonal sensitivity, depression and anxiety. Carbamate poisoned workers only had increased scores for somatisation. The ORs for suicidal thoughts were: all poisoned 3.58 (95% CI 1.45 to 8.84); organophosphate poisoned 3.72 (1.41 to 9.81); carbamate poisoned 2.57 (0.73 to 9.81); and 2.65 and 4.98, respectively for 1 and >= 2 poisonings (trend p=0.01).
+   Conclusions This cross-sectional study showed a relationship between acute occupational poisoning with organophosphates and psychological distress including suicidal ideation. Stronger designs are needed to address causality.
+C1 [Wesseling, Catharina; van Wendel de Joode, Berna] Univ Nacl, Cent Amer Inst Studies Toxic Subst, Heredia, Costa Rica.
+   [Keifer, Matthew] Univ Washington, Seattle, WA 98195 USA.
+   [London, Leslie] Univ Cape Town, Occupat & Environm Hlth Res Unit, ZA-7925 Cape Town, South Africa.
+   [Mergler, Donna] Univ Quebec, CINBIOSE, Montreal, PQ H3C 3P8, Canada.
+   [Stallones, Lorann] Colorado State Univ, Dept Psychol, Colorado Injury Control Res Ctr, Ft Collins, CO 80523 USA.
+C3 Universidad Nacional Costa Rica; University of Washington; University of
+   Washington Seattle; University of Cape Town; University of Quebec;
+   University of Quebec Montreal; Colorado State University
+RP Wesseling, C (corresponding author), Univ Nacl, Cent Amer Inst Studies Tox Subst IRET, POB 86-3000, Heredia, Costa Rica.
+EM Ineke_wesseling@yahoo.com
+RI Stallones, Lorann/AAC-6248-2021; London, Leslie/G-6061-2011
+OI Stallones, Lorann/0000-0001-7616-582X; Wesseling,
+   Catharina/0000-0001-5523-9981
+FU Department of Research Cooperation of the Swedish International
+   Development Cooperation Agency (Sida/SAREC); Colorado Injury Control
+   Research Center at Colorado State University
+FX The original study was funded by a grant from the Department of Research
+   Cooperation of the Swedish International Development Cooperation Agency
+   (Sida/SAREC), and later received additional support from the Colorado
+   Injury Control Research Center at Colorado State University.
+NR 40
+TC 73
+Z9 79
+U1 0
+U2 33
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1351-0711
+EI 1470-7926
+J9 OCCUP ENVIRON MED
+JI Occup. Environ. Med.
+PD NOV
+PY 2010
+VL 67
+IS 11
+BP 778
+EP 784
+DI 10.1136/oem.2009.047266
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 667EM
+UT WOS:000283175500010
+PM 20798019
+OA hybrid
+DA 2023-12-06
+ER
+
+EF

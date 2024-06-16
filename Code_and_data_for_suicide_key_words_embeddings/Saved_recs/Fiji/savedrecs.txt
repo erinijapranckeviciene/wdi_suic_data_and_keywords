@@ -1,0 +1,955 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Adinkrah, M
+AF Adinkrah, M
+TI Homicide-suicides in Fiji: Offense patterns, situational factors, and
+   sociocultural contexts
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID MURDER-SUICIDE; TYPOLOGY
+AB Although there is growing literature on lethal violence in developing nations, homicide-suicides have rarely been studied. Addressing this issue, this paper analyzes all homicide-suicides that occurred in Fiji between 1982 and 1992. The study's results are consistent with prior research in Western developed nations, demonstrating that homicide-suicides constitute a minuscule proportion of all homicides, occur primarily between intimate relations, are precipitated by intra-familial discord, and occur in the domestic setting. Contrary to prior research, however, perpetrators of homicide-suicide were equally divided between men and women and no firearms were utilized.
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 138 Anspach Hall, Mt Pleasant, MI 48859 USA.
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 26
+TC 23
+Z9 25
+U1 0
+U2 7
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 72 SPRING STREET, NEW YORK, NY 10012 USA
+SN 0363-0234
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD SPR
+PY 2003
+VL 33
+IS 1
+BP 65
+EP 73
+DI 10.1521/suli.33.1.65.22791
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 667ME
+UT WOS:000182235300008
+PM 12710541
+DA 2023-12-06
+ER
+
+PT J
+AU Forster, PM
+   Kuruleca, SC
+   Auxier, CR
+AF Forster, Peter M.
+   Kuruleca, Selina C.
+   Auxier, C. R.
+TI A note on recent trends in suicide in Fiji
+SO JOURNAL OF PACIFIC RIM PSYCHOLOGY
+LA English
+DT Article
+AB The incidence of suicides and attempted suicides is one indicator of mental health and life satisfaction within the population. The trends in suicidal behaviour vary with sex and ethnicity within the population, and underscore the impact of culture on people's lives and wellbeing. Although incidence of suicide provides important information, there has been no systematic reporting of data within the country. The only source of national data is the statistics unit of Fiji's police force, who record all deaths that were not caused by disease, along with such data as the sex and ethnicity of the deceased. The police are willing to provide information on suicide to researchers and government bodies, within the constraints of having the staff and other resources needed to provide such information. The present article explores what we know about this important social issue, and investigates some potential ways forward for dealing with it at individual and group levels.
+C1 [Forster, Peter M.] Univ Gloucestershire, Cheltenham GL50 4AZ, Glos, England.
+   [Kuruleca, Selina C.] Univ S Pacific, Suva, Fiji.
+   [Auxier, C. R.] Capella Univ, San Francisco, CA USA.
+C3 University of Gloucestershire; University of the South Pacific
+RP Forster, PM (corresponding author), Univ Gloucestershire, Francis Close Campus, Cheltenham GL50 4AZ, Glos, England.
+EM pforster@glos.ac.uk
+NR 12
+TC 4
+Z9 4
+U1 0
+U2 2
+PU AUSTRALIAN ACAD PRESS
+PI BOWEN HILLS
+PA 32 JEAYS ST, BOWEN HILLS, QLD 4006, AUSTRALIA
+SN 1834-4909
+J9 J PAC RIM PSYCHOL
+JI J. Pac. Rim Psychol.
+PY 2007
+VL 1
+IS 1
+BP 1
+EP 4
+DI 10.1375/prp.1.1.1
+PG 4
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 356XB
+UT WOS:000259809800001
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Aghanwa, HS
+AF Aghanwa, HS
+TI The characteristics of suicide attempters admitted to the main general
+   hospital in Fiji Islands
+SO JOURNAL OF PSYCHOSOMATIC RESEARCH
+LA English
+DT Article
+DE attempted suicide; characteristics; general hospital; Fiji Islands
+ID DELIBERATE SELF-HARM; FOLLOW-UP; TRENDS; PARASUICIDE; PREVENTION;
+   EPIDEMIOLOGY; UNEMPLOYMENT; ILLNESS; ENGLAND; PEOPLE
+AB Objective: To study the characteristics of suicide attempters attending the main general hospital in Fiji Islands. Method: Consecutive suicide attempters were clinically evaluated, and their sociodemographic and clinical characteristics were compared with those of other patients seen in the psychiatric service between January 15, 1999 and January 14, 2000. Results: Thirty-nine suicide attempters were seen, representing 36.8% of all the cases referred to the psychiatric service. The prevalence of attempted suicide in the Greater Suva Area was 34.8 per 100,000. Majority (56.4%) were young (16-25 years), Indians (59%), female (61.5%), students (41%), never married (74.4%) and of Hindi faith (48.7%). The commonly used methods were ingestion of drugs and pesticides. The intention to die was present in 20 (51.3%) of the population. Social problems and/or psychiatric comorbidity were present in over 60% of cases. Suicide attempters were significantly younger, more of single persons (P<.0001), and fewer were in employment (P<.001) than nonsuicidal cases seen. The difference was not significant when the two groups were compared regarding gender, race or religion. Conclusions: Young people attempt suicide in disturbed psychosocial milieu, using available poisoning methods with strong desire to die. Apparently, high proportion of female Indians in this group reflects high rate of service utilization by them. Unemployment is an insignificant predisposing factor. (C) 2001 Elsevier Science Inc. All rights reserved.
+C1 Fiji Sch Med, Sch Med Sci, Dept Psychiat, Suva, Fiji.
+RP Aghanwa, HS (corresponding author), Fiji Sch Med, Sch Med Sci, Dept Psychiat, Suva, Fiji.
+RI Aghanwa, Henry S/F-9687-2012
+OI Aghanwa, Henry S/0000-0003-2492-5350
+NR 31
+TC 16
+Z9 17
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0022-3999
+J9 J PSYCHOSOM RES
+JI J. Psychosomat. Res.
+PD DEC
+PY 2000
+VL 49
+IS 6
+BP 439
+EP 445
+DI 10.1016/S0022-3999(00)00193-8
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 404RP
+UT WOS:000167114700008
+PM 11182438
+DA 2023-12-06
+ER
+
+PT J
+AU Herman, J
+   Peiris-John, R
+   Wainiqolo, I
+   Kafoa, B
+   Laginikoro, P
+   McCaig, E
+   Ameratunga, S
+AF Herman, Josephine
+   Peiris-John, Roshini
+   Wainiqolo, Iris
+   Kafoa, Berlin
+   Laginikoro, Paul
+   McCaig, Eddie
+   Ameratunga, Shanthi
+TI Epidemiology of fatal and hospitalised injuries among youth in Fiji
+   (TRIP 15)
+SO JOURNAL OF PAEDIATRICS AND CHILD HEALTH
+LA English
+DT Article
+DE accident; adolescent; developing country; Pacific Island; wound and
+   injury
+ID YOUNG-PEOPLE; GLOBAL BURDEN; DEVELOPING-COUNTRIES; MIDDLE-INCOME;
+   SUICIDE; HEALTH; POPULATION; SURVEILLANCE; MORTALITY; PATTERNS
+AB AimTo determine the burden and characteristics of fatal and hospitalised injuries among youth in Fiji.
+   MethodsWe conducted a cross-sectional analysis of the Fiji Injury Surveillance in Hospitals database - a prospective population-based trauma registry - to examine the incidence and epidemiological characteristics associated with injury-related deaths and hospital admissions among youth aged 15-24 years. The study base was Viti Levu, Fiji, during the 12-month period concluding on 30 September 2006.
+   ResultsOne in four injuries in the Fiji Injury Surveillance in Hospitals database occurred among youth (n = 515, incidence rate 400/100 000). Injury rates were higher among men, those aged 20-24 years compared with 15- to 19-year-olds, and indigenous Fijians (iTaukei) compared with Indians. The leading causes among indigenous Fijians were being hit by a person/object (men) and falls (women), whereas for Indians, it was road traffic injuries (men) and intentional poisoning (women). Most injuries occurred at home (39%) or on the road (22%). Of the 63 fatal events, 57% were intentional injuries, and most deaths (73%) occurred prior to hospitalisation. Homicide rates were four times higher among indigenous Fijians than Indians, whereas suicide rates were five times higher among Indians compared with indigenous Fijians.
+   ConclusionsImportant ethnic-specific differences in the epidemiology of fatal and serious non-fatal injuries are apparent among youth in Fiji. Efforts to prevent the avoidable burden of injury among Fiji youth thus requires inter-sectoral cooperation that takes account of important sociocultural, environmental and health system factors such as unmet mental healthcare needs and effective pre-hospital trauma services.
+C1 [Herman, Josephine; Peiris-John, Roshini; Wainiqolo, Iris; Ameratunga, Shanthi] Univ Auckland, Sch Populat Hlth, Sect Epidemiol & Biostat, Private Bag 92019, Auckland, New Zealand.
+   [Kafoa, Berlin; Laginikoro, Paul; McCaig, Eddie] Fiji Natl Univ, Coll Med Nursing & Hlth Sci, Suva, Fiji.
+C3 University of Auckland; Fiji National University (FNU)
+RP Herman, J (corresponding author), Univ Auckland, Sch Populat Hlth, Sect Epidemiol & Biostat, Private Bag 92019, Auckland, New Zealand.
+EM j.herman@auckland.ac.nz
+OI Ameratunga, Shanthi/0000-0001-8042-2251; Peiris-John,
+   Roshini/0000-0001-7812-2268; Herman, Josephine/0000-0002-0856-7381
+FU international collaborative research grant - Wellcome Trust of the
+   United Kingdom [GR071671AIA]; Health Research Council of New Zealand
+   [04/498]; Fiji Ministry of Health
+FX This study was funded by an international collaborative research grant
+   awarded by the Wellcome Trust of the United Kingdom (GR071671AIA) and
+   the Health Research Council of New Zealand (04/498).; The authors
+   acknowledge the support of the Fiji Ministry of Health including the
+   former Permanent Secretary Dr Lepani Waqatakirewa, Fiji Police Force and
+   Land Transport Authority, and all staff and students of the Fiji Medical
+   School. We gratefully acknowledge members of the TRIP project team
+   including Professor Rod Jackson, Professor Sitaleki Finau, Dr Robyn
+   McIntyre, Asilika Naisaki, Mabel Taoi, Ravi Reddy, Ramneek Goundar,
+   Litia Vuniduvu and Nola Vanualailai.
+NR 44
+TC 4
+Z9 4
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1034-4810
+EI 1440-1754
+J9 J PAEDIATR CHILD H
+JI J. Paediatr. Child Health
+PD NOV
+PY 2016
+VL 52
+IS 11
+BP 1026
+EP 1031
+DI 10.1111/jpc.13250
+PG 6
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA EB5GJ
+UT WOS:000387401800009
+PM 27565748
+OA Green Published, hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Lowe, ED
+AF Lowe, Edward D.
+TI Social Change and Micronesian Suicide Mortality: A Test of Competing
+   Hypotheses
+SO CROSS-CULTURAL RESEARCH
+LA English
+DT Article
+DE suicide; social change; Micronesia; youth
+ID EPIDEMIC SUICIDE; BLOOD-PRESSURE; LIFE-STYLE; CONTEXT; ADOLESCENTS;
+   PACIFIC; FIJI
+AB How do modernizing social changes affect suicide risks for youths in small economically developing societies? Since Durkheim, social researchers have hypothesized that processes of social disintegration and processes of normative cultural disequilibrium can increase suicide rates. A lifestyle incongruity hypothesis has also been proposed. This article tests these competing hypotheses for the epidemic of suicide that occurred on culturally diverse communities of the Pacific Islands of Micronesia. The sample includes 74 municipalities of the Federated States of Micronesia. Multiple regression analyses suggest that the best analytic model includes the degree of urbanization, the levels of social integration, and the incongruity between modern economic resources and achieved modern material lifestyle. These results suggest that researchers should attend more to the way communities aspire to and participate in global markets as opposed to shifting adult role structures and occupations as a site for understanding the relationship between rapid social change and suicide.
+C1 [Lowe, Edward D.] Soka Univ Amer, Anthropol, 1 Univ Dr, Aliso Viejo, CA 92656 USA.
+RP Lowe, ED (corresponding author), Soka Univ Amer, Anthropol, 1 Univ Dr, Aliso Viejo, CA 92656 USA.
+EM elowe@soka.edu
+FU Soka University of America; President's Research Assistant Program at
+   Soka University of America
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was funded by Soka University of America. Ms. Houghton's work
+   was supported by the President's Research Assistant Program at Soka
+   University of America.
+NR 48
+TC 2
+Z9 2
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1069-3971
+EI 1552-3578
+J9 CROSS-CULT RES
+JI Cross-Cult. Res.
+PD FEB
+PY 2019
+VL 53
+IS 1
+BP 3
+EP 32
+DI 10.1177/1069397118759004
+PG 30
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA HH0JM
+UT WOS:000455402300001
+DA 2023-12-06
+ER
+
+PT J
+AU Aghanwa, HS
+AF Aghanwa, HS
+TI Attempted suicide by drug overdose and by poison-ingestion methods seen
+   at the main general hospital in the Fiji islands: a comparative study
+SO GENERAL HOSPITAL PSYCHIATRY
+LA English
+DT Article
+DE deliberate self-poisoning; characteristics; general hospital; Fiji
+   Islands
+ID DELIBERATE SELF-HARM; WHO/EURO MULTICENTER; DEVELOPING-WORLD; FOLLOW-UP;
+   PARASUICIDE; IDEATION; TRENDS; AVAILABILITY; REPETITION; PREVENTION
+AB Objective: This study examined the prevalence and the characteristics of deliberate self-poisoning patients seen at the main general hospital in the Fiji Islands.
+   Method: Thirty-one consecutive patients with deliberate drug-overdose and 27 others with nonoverdosed self-poisoning were compared on sociodemographic and clinical variables.
+   Results: Deliberate self-poisoning cases represented 0.3% of the hospital admissions, and had a rate of 25.9 per 100,000 population. The overdose group was significantly older (P < .05), whereas the poison-ingestion group had significantly greater proportion of males (P < .03). The rate of psychiatric morbidity was significantly higher in the overdose group (P=.04), whereas the history of alcohol abuse was significantly higher in the other group (P=.04). Paracetamol (35.5%) and paraquat (29.7%) were the most commonly used agents.
+   Conclusions: Age, gender, rate of psychiatric morbidity, or history of alcohol abuse could be predictive of whether drug overdose or poison ingestion would be used for deliberate self-poisoning. This information could be relevant in the formulation of suicide preventive strategies. (C) 2001 Elsevier Science Inc. All rights reserved.
+C1 Fiji Sch Med, Sch Med Sci, Dept Psychiat, Suva, Fiji.
+RP Aghanwa, HS (corresponding author), Fiji Sch Med, Sch Med Sci, Dept Psychiat, Brown St,PMB, Suva, Fiji.
+RI Aghanwa, Henry S/F-9687-2012
+OI Aghanwa, Henry S/0000-0003-2492-5350
+NR 38
+TC 10
+Z9 11
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 655 AVENUE OF THE AMERICAS, NEW YORK, NY 10010 USA
+SN 0163-8343
+J9 GEN HOSP PSYCHIAT
+JI Gen. Hosp. Psych.
+PD SEP-OCT
+PY 2001
+VL 23
+IS 5
+BP 266
+EP 271
+DI 10.1016/S0163-8343(01)00156-6
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 483CL
+UT WOS:000171616100004
+PM 11600168
+DA 2023-12-06
+ER
+
+PT S
+AU Roberts, GJ
+   Leckie, J
+   Chang, O
+AF Roberts, Graham J.
+   Leckie, Jacqueline
+   Chang, Odille
+BE Minas, H
+   Lewis, M
+TI The History of Mental Health in Fiji
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID SUICIDE; ISLANDS; INDIANS; MADNESS; GENDER
+AB That cultural transition entailed risks of mental illness remained a favoured theory well into the twentieth century and effected the early development of mental health services across the Pacific. Fiji has a distinct form of Melanesian culture, although ontological beliefs are based on a similar integrative physical and metaphysical model of life where spirits and ancestors play an active part according to the conduct of the people. In the early years of British Administration Fijian secret societies and cannibalism were outlawed, but many still believe in and fear the sorcery of 'drua ni kau', which means 'a leaf' and refers metaphorically to personal items left behind that could be used in ritual sorcery to generate a curse to induce weakness, insanity, illness or death. The colonial administration sought to protect the indigenous population from the effects of cultural transition and brought indentured Indian labourers to Fiji's sugar farms between 1879 and 1920. The plurality of Indian deities and cultural beliefs found resonance with i-Taukei beliefs of heath and illness, including the potential to incite malicious spirits. This highly exploitative labour scheme entailed profound disruption to the lives of people from disparate regions, castes and cultures. In 1890, suicide rates among indentured labourers were close to 16 times those in the Indian provinces from whence they had come. Now, after 100 years of cultural interaction, many folk beliefs are held in common. That the metaphysical world is potentially malevolent, all of the major communities of Fiji agree. During the colonial era, Fiji became a major regional hub as the headquarters of the British Western Pacific High Commission (1877-1953) and the major regional provider of health practitioner training. The introduction of psychiatric hospitalization in 1884 shaped Fiji's mental health services during the entire colonial era and beyond. Fijian villagers had long experience of mental distress and had been unable or unwilling to cope with the severely mentally ill. Hospitalization provided a new alternative based on the authority of the administration and its legitimization of medical interventions. For the last 130 years, St. Giles Hospital has been the locus of changing psychiatric practice. There is little evidence of traditional concepts of aetiology having any influence on the application of psychiatry in Fiji; however, at the community level, 'witchcraft' is often the first-line treatment for mental disorders, while demonic possession, not fulfilling customary obligations or being cursed, is still thought to be the common causes of mental illness. Recent mental health policy favours the establishment of general hospital psychiatric units and community care, now articulated in the 2010 Fiji Mental Health Decree (MHD). Incrementally, Fiji is moving towards a more humane and integrative approach to treating the mentally ill. Recent legislative and reform developments have been supported by training and capacity building and active membership of international mental health advocacy groups, resulting in strengthened consumer and caregiver rights and the application of principles of international practice.
+C1 [Roberts, Graham J.] Univ New South Wales, Fac Med, Sch Publ Hlth & Community Med, Sydney, NSW 2052, Australia.
+   [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Chang, Odille] Fiji Natl Univ, Dept Med Sci, Suva, Fiji.
+C3 University of New South Wales Sydney; University of Otago; Fiji National
+   University (FNU)
+RP Roberts, GJ (corresponding author), Univ New South Wales, Fac Med, Sch Publ Hlth & Community Med, Sydney, NSW 2052, Australia.
+EM g.roberts@unsw.edu.au; jacqui.leckie@otago.ac.nz; odille.chang@fnu.ac.fj
+NR 53
+TC 4
+Z9 4
+U1 0
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 237
+EP 251
+DI 10.1007/978-1-4899-7999-5_16
+D2 10.1007/978-1-4899-7999-5
+PG 15
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000016
+DA 2023-12-06
+ER
+
+PT J
+AU Aghanwa, H
+AF Aghanwa, H
+TI The determinants of attempted suicide in a general hospital setting in
+   Fiji Islands: a gender-specific study
+SO GENERAL HOSPITAL PSYCHIATRY
+LA English
+DT Article
+DE attempted suicide; characteristics; gender-specific; general hospital;
+   Fiji
+ID SELF-HARM; TRENDS; ADOLESCENTS; DEPRESSION; BEHAVIOR; RATES; WOMEN
+AB The objective of the study was to examine the sociodemographic and clinical factors influencing gender-specific attempted suicide. Suicide attempters, 40 males and 88 females, seen on a consultation-liaison psychiatric service over a period of 42 months (from January 1, 1999 to June 30, 2002) were compared on sociodemographic and clinical variables. The female attempters [22.99 years (SD 8.1)] were younger than their male counterparts [25.15 years (SD 9.5)] [P = 0.0002]. A higher proportion of the male attempters were engaged in outside occupations, compared with their female counterparts who were mainly full-time housewives or engaged in domestic duties [P = 0.003]. Alcohol misuse was more associated with male suicide attempts [P = 0.001]. Ninety percent of male attempters and 54.6% of the female attempters had the intention to die [P = 0.001]. Although depressive episode was the most common psychiatric disorder in male attempters, followed by neurotic and stress-related disorders, while neurotic and stress-related disorders ranked first in female attempters followed closely by depressive episode, the difference was not significant. However, significantly more male attempters required pharmacotherapy and psychological intervention than their female counterparts [P = 0.002]. More females had marital difficulties, although comparing the two groups on social difficulties did not yield a significant difference. Method used, personality disorders, previous attempt, repeat attempt, race, religion, and marital status were not significant distinguishing factors. Younger age, lack of employment outside home, marital problems, and nondeath motives were more influential in female attempted suicide, while alcohol misuse and severe psychiatric morbidity were more frequently associated with male attempted suicide. The findings support gender-specific preventive and interventional strategies. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Fiji Sch Med, Sch Med Sci, Dept Psychiat, Suva, Fiji.
+RP Aghanwa, H (corresponding author), Fiji Sch Med, Sch Med Sci, Dept Psychiat, Suva, Fiji.
+EM haghanwa@yahoo.com
+RI Aghanwa, Henry S/F-9687-2012
+OI Aghanwa, Henry S/0000-0003-2492-5350
+NR 40
+TC 24
+Z9 26
+U1 0
+U2 6
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0163-8343
+EI 1873-7714
+J9 GEN HOSP PSYCHIAT
+JI Gen. Hosp. Psych.
+PD JAN-FEB
+PY 2004
+VL 26
+IS 1
+BP 63
+EP 69
+DI 10.1016/j.genhosppsych.2003.07.003
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 772AW
+UT WOS:000188819000012
+PM 14757305
+DA 2023-12-06
+ER
+
+PT J
+AU Mishara, BL
+AF Mishara, Brian L.
+TI Prevention of deaths from intentional pesticide poisoning
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE pesticide; suicide; suicide attempts; prevention; poisoning
+ID RISK-FACTORS; SRI-LANKA; ATTEMPTED-SUICIDE; DEVELOPING-COUNTRIES;
+   DEVELOPING-WORLD; FIJI ISLANDS; SOUTH-INDIA; HIGH-RATES; SURVEILLANCE;
+   CHINA
+AB Ingestion of pesticides is the most common suicide method worldwide, accounting for one third of all suicides, predominantly in Asia, Africa, Central and South America. Case fatalities are high, particularly in rural areas. This high case fatality may explain the similar numbers of male and female suicides in Asia, since more women die from their attempts. In Asia, pesticide suicides are mostly impulsive acts with little advance planning and they are less often associated with mental illness than in Western countries. Pesticides are generally chosen for their easy access. Prevention strategies include treating the problems leading to suicidal behaviors involving pesticides; changing attitudes, knowledge, and beliefs about pesticides; controlling access to dangerous pesticides, including developing secure storage practices (which are currently being evaluated); and improving the medical treatment of poisonings. More research is needed to better understand suicides involving pesticides in their cultural contexts and to evaluate the effectiveness of intervention programs, including assessment of possible substitution of methods. Also, more knowledge about protective factors may help suggest innovative prevention strategies.
+C1 Univ Quebec, Ctr Res & Intervent Suicide & Euthanasia, Montreal, PQ H3C 3P8, Canada.
+C3 University of Quebec; University of Quebec Montreal
+RP Mishara, BL (corresponding author), Univ Quebec, Ctr Res & Intervent Suicide & Euthanasia, CP 888,Succ Ctr Ville, Montreal, PQ H3C 3P8, Canada.
+EM mishara.brian@uqam.ca
+NR 59
+TC 27
+Z9 30
+U1 0
+U2 6
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2007
+VL 28
+SU 1
+BP 10
+EP 20
+DI 10.1027/0227-5910.28.S1.10
+PG 11
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 211OX
+UT WOS:000249534200003
+PM 26212190
+DA 2023-12-06
+ER
+
+PT J
+AU Peiris-John, R
+   Kafoa, B
+   Wainiqolo, I
+   Reddy, RK
+   McCaig, E
+   Ameratunga, SN
+AF Peiris-John, Roshini
+   Kafoa, Berlin
+   Wainiqolo, Iris
+   Reddy, Ravi Krishnan
+   McCaig, Eddie
+   Ameratunga, Shanthi N.
+TI Population-based characteristics of fatal and hospital admissions for
+   poisoning in Fiji: TRIP Project-11
+SO INJURY PREVENTION
+LA English
+DT Article
+ID SUICIDE; AUTOPSIES; PATTERN; DRUG
+AB This study investigated the incidence and characteristics of poisoning fatalities and hospital admissions among indigenous Fijians and Indians in Viti Levu, Fiji. Individuals with a mechanism of injury classified as poisoning were identified using the Fiji injury surveillance in hospitals system, a population-based registry established for 12months in Viti Levu, and analysed using population-based denominators. The mean annual rates of fatalities and hospitalisations were 2.3 and 26.0 per 100000, respectively. Over two-thirds of poisonings occurred among people of Indian ethnicity. Most intentional poisoning admissions occurred among women (58.3%) and in 15-29-year-old individuals (73.8%). Unintentional poisoning admission rates were highest among Indian boys aged 0-14years. While over 75% of events occurred at home, the substances involved were not systematically identified. The findings indicate the need for a strategy that addresses the differing contexts across age group, gender and ethnicity, and a lead agency responsible for implementing and monitoring its effectiveness.
+C1 [Peiris-John, Roshini; Ameratunga, Shanthi N.] Univ Auckland, Sch Populat Hlth, Sect Epidemiol & Biostat, Auckland 1042, New Zealand.
+   [Kafoa, Berlin; Wainiqolo, Iris] Fiji Natl Univ, Coll Med Nursing & Hlth Sci, Suva, Fiji.
+   [Reddy, Ravi Krishnan] Univ Auckland, Sch Populat Hlth, Sect Audiol, Auckland 1042, New Zealand.
+   [McCaig, Eddie] Fiji Natl Univ, Dept Surg, Coll Med Nursing & Hlth Sci, Suva, Fiji.
+C3 University of Auckland; Fiji National University (FNU); University of
+   Auckland; Fiji National University (FNU)
+RP Ameratunga, SN (corresponding author), Univ Auckland, Sch Populat Hlth, Sect Epidemiol & Biostat, Fac Med & Hlth Sci, Private Bag 92019, Auckland 1042, New Zealand.
+EM s.ameratunga@auckland.ac.nz
+RI Reddy, Ravi/AAK-1587-2020; Reddy, Ravi/AAR-1717-2020
+OI Reddy, Ravi/0000-0003-0306-5902; Reddy, Ravi/0000-0003-0306-5902;
+   Peiris-John, Roshini/0000-0001-7812-2268; Ameratunga,
+   Shanthi/0000-0001-8042-2251
+FU Wellcome Trust (UK) [GR071671MA]; Health Research Council of New Zealand
+   [04/498]
+FX This study was funded by an international collaborative research grant
+   from The Wellcome Trust (UK) (grant no GR071671MA) and the Health
+   Research Council of New Zealand (grant no 04/498). The funders had no
+   involvement in the study design, collection, analysis and interpretation
+   of the study data, the writing of the manuscript or the decision to
+   submit the manuscript for publication. Views and/or conclusions in this
+   article are those of the authors and may not reflect the position of The
+   Wellcome Trust or Health Research Council of New Zealand.
+NR 20
+TC 4
+Z9 4
+U1 0
+U2 0
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD OCT
+PY 2013
+VL 19
+IS 5
+BP 355
+EP 357
+DI 10.1136/injuryprev-2012-040651
+PG 3
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 224LX
+UT WOS:000324888800011
+PM 23353079
+OA hybrid, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Wainiqolo, I
+   Kafoa, B
+   Kool, B
+   Herman, J
+   McCaig, E
+   Ameratunga, S
+AF Wainiqolo, Iris
+   Kafoa, Berlin
+   Kool, Bridget
+   Herman, Josephine
+   McCaig, Eddie
+   Ameratunga, Shanthi
+TI A profile of Injury in Fiji: findings from a population-based injury
+   surveillance system (TRIP-10)
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Injuries; Epidemiology; Injury surveillance; Fiji
+ID ROAD-TRAFFIC INJURIES; DEVELOPING-COUNTRIES; TRAUMA REGISTRY; MORTALITY
+AB Background: Over 90% of injury deaths occur in low-and middle-income countries. However, the epidemiological profile of injuries in Pacific Islands has received little attention. We used a population-based-trauma registry to investigate the characteristics of all injuries in Viti Levu, Fiji.
+   Method: The Fiji Injury Surveillance in Hospitals (FISH) database prospectively collected data on all injury-related deaths and primary admissions to hospital (>= 12 hours stay) in Viti Levu during 12 months commencing October 2005.
+   Results: The 2167 injury-related deaths and hospitalisations corresponded to an annual incidence rate of 333 per 100,000, with males accounting for twice as many cases as females. Almost 80% of injuries involved people aged less than 45 years, and 74% were deemed unintentional. There were 244 fatalities (71% died before admission) and 1994 hospitalisations corresponding to crude annual rates of 37.5 per 100,000 and 306 per 100,000 respectively. The leading cause of fatal injury was road traffic injury (29%) and the equivalent for injury admissions was falls (30%). The commonest type of injury resulting in death and admission to hospital was asphyxia and fractures respectively. Alcohol use was documented as a contributing factor in 13% of deaths and 12% of admissions. In general, indigenous Fijians had higher rates of injury admission, especially for interpersonal violence, while those of Indian ethnicity had higher rates of fatality, especially from suicide.
+   Conclusions: Injury is an important public health problem that disproportionately affects young males in Fiji, with a high proportion of deaths prior to hospital presentation. This study highlights key areas requiring priority attention to reduce the burden of potentially life-threatening injuries in Fiji.
+C1 [Wainiqolo, Iris; Kafoa, Berlin; McCaig, Eddie] Fiji Natl Univ, Coll Med Nursing & Hlth Sci, Suva, Fiji.
+   [Kool, Bridget; Herman, Josephine; Ameratunga, Shanthi] Univ Auckland, Sch Populat Hlth, Epidemiol & Biostat Sect, Auckland 92019, New Zealand.
+C3 Fiji National University (FNU); University of Auckland
+RP Wainiqolo, I (corresponding author), Fiji Natl Univ, Coll Med Nursing & Hlth Sci, Suva, Fiji.
+EM iris.wainiqolo@fnu.ac.fj
+OI Ameratunga, Shanthi/0000-0001-8042-2251; Herman,
+   Josephine/0000-0002-0856-7381
+FU Wellcome Trust (UK); Health Research Council of New Zealand; Permanent
+   Secretary of Health
+FX This study was funded by an International Collaborative Research Grant
+   awarded by the Wellcome Trust (UK) and the Health Research Council of
+   New Zealand.; The authors gratefully acknowledge the support of the
+   Permanent Secretary of Health, Dr. Lepani Waqatakirewa and the Fiji
+   Ministry of Health staff, doctors and nurses at national, divisional and
+   sub divisional levels, the pathologists at Lautoka and CWM hospitals,
+   the TRIP research team including Professors Sitaleki Finau and Rod
+   Jackson, Dr Robyn McIntyre, Asilika Naisaki, Mabel Taoi, Ravi Reddy,
+   Ramneek Gounder, Litia Vuniduvu, and Nola Vanualailai, and
+   biostatistical advice from Elizabeth Robinson.
+NR 37
+TC 14
+Z9 13
+U1 0
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD DEC 12
+PY 2012
+VL 12
+AR 1074
+DI 10.1186/1471-2458-12-1074
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 069NP
+UT WOS:000313443500001
+PM 23234597
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Vijayakumar, L
+   John, S
+AF Vijayakumar, Lakshmi
+   John, Sujit
+TI Is Hinduism ambivalent about suicide?
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Hinduism; suicide; religion; India
+AB Background: Hinduism is one of the oldest religions in the world and has over 1.1billion adherents comprising about 16% of the global population living mainly in India and Nepal. The stand of Hinduism on suicide has been ambiguous through the ages, on one hand, condemning general suicides, while condoning religious suicides on the other. This ambiguity is reflected in contemporary India and among the Indian diaspora.
+   Aims: To examine the stand of Hinduism as a religion in the context of suicide.
+   Method: A selected review of literature covering the major Hindu religious texts, cultural practices and suicide.
+   Results: People who follow Hinduism have a suicide rate of about 21 per 100,000 population compared to the global average of 11.4. Hindu countries have higher rates of suicide compared to Islamic and Christian countries, but these rates are lower when compared to Atheist and Buddhist countries. This is reflected in the Indian diaspora as well with reports from Fiji, the Caribbean, Malaysia and the United Kingdom, indicating that suicide was disproportionately high among those of Indian origin. However, a strong faith in Hinduism acts as protective factor. The Hindu belief in karma fosters a sense of acceptance of the vicissitudes of life with equanimity, and the belief in the cycle of births and deaths renders suicide meaningless, as one's soul continues after death. Their religious beliefs makes the Hindus tolerate and accept hardships and calamities stoically.
+   Conclusion: In certain situations, the Hindu religion acts as a protective factor, whereas at other times, it may increase the risk of suicide. It is important to understand these different nuances in the Hindu religion in formulating a culturally appropriate suicide prevention strategy.
+C1 [Vijayakumar, Lakshmi] Voluntary Hlth Serv Chennai, Madras, Tamil Nadu, India.
+   [Vijayakumar, Lakshmi] Sneha Suicide Prevent Ctr, 11 Pk View Rd, Madras 600028, Tamil Nadu, India.
+   [Vijayakumar, Lakshmi] Univ Melbourne, Melbourne, Vic, Australia.
+   [Vijayakumar, Lakshmi] Griffith Univ, Nathan, Qld, Australia.
+   [John, Sujit] Schizophrenia Res Fdn, Madras, Tamil Nadu, India.
+C3 University of Melbourne; Griffith University
+RP Vijayakumar, L (corresponding author), Sneha Suicide Prevent Ctr, 11 Pk View Rd, Madras 600028, Tamil Nadu, India.
+EM lakshmi@vijayakumars.com
+OI John, Sujit/0000-0001-7157-3533
+NR 22
+TC 4
+Z9 4
+U1 0
+U2 9
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD AUG
+PY 2018
+VL 64
+IS 5
+BP 443
+EP 449
+DI 10.1177/0020764018777523
+PG 7
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GO5DU
+UT WOS:000440039300005
+PM 29783869
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, M
+TI When parents kill: An analysis of filicides in Fiji
+SO INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY
+LA English
+DT Article
+ID HOMICIDE; CHILDHOOD; CHILDREN; MOTHERS; NEONATICIDE; MURDER
+AB Despite the burgeoning literature on filicide, little research crisis on parental murders in small, non-Western societies. This study adds to the scant extant information and contributes to a full understanding of the topic by examining offense patterns and victim and offender characteristics in the South Pacific island of Fiji. The findings indicate that filicidal parents were overwhelmingly female, young, and of low socioeconomic background. Filicide offenses were the culmination of excessive corporal child-control strategies, unwanted pregnancy, and stresses and strains associated with severe marital disharmony. Posthomicidal suicide attempts occurred in 10% of the cases. These findings are discussed in relation to the growing literature in the field. The author concludes that further research in other societies is necessary if we are to understand the full range of factors that contribute to parents' homicidal assaults on their offspring.
+C1 Metropolitan State Univ, Sch Law Enforcement Criminal Justice & Publ Safet, St Paul, MN 55108 USA.
+C3 Minnesota State Colleges & Universities; Metropolitan State University
+RP Adinkrah, M (corresponding author), Metropolitan State Univ, Sch Law Enforcement Criminal Justice & Publ Safet, 1450 Energy Pk Dr, St Paul, MN 55108 USA.
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 47
+TC 19
+Z9 22
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0306-624X
+EI 1552-6933
+J9 INT J OFFENDER THER
+JI Int. J. Offender Ther. Comp. Criminol.
+PD APR
+PY 2001
+VL 45
+IS 2
+BP 144
+EP 158
+DI 10.1177/0306624X01452002
+PG 15
+WC Criminology & Penology; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology
+GA 419MG
+UT WOS:000167952400002
+DA 2023-12-06
+ER
+
+PT J
+AU Opoliner, A
+   Blacker, D
+   Fitzmaurice, G
+   Becker, A
+AF Opoliner, April
+   Blacker, Deborah
+   Fitzmaurice, Garrett
+   Becker, Anne
+TI Challenges in assessing depressive symptoms in Fiji: A psychometric
+   evaluation of the CES-D
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE CES-D; Fiji; validity; reliability; cross-cultural
+ID GLOBAL MENTAL-HEALTH; DISORDERS; SCALE; RELIABILITY; VALIDITY; JAPANESE;
+   SUICIDE
+AB Background and Aim: The CES-D is a commonly used self-report assessment for depressive symptomatology. However, its psychometric properties have not been evaluated in Fiji. This study aims to evaluate the reliability and validity of English language and Fijian vernacular versions in ethnic Fijian adolescent schoolgirls.
+   Methods: As part of the HEALTHY Fiji study, ethnic Fijian female adolescents (N = 523) completed the CES-D. Participants selected to respond in English or the local vernacular. Reliability (internal consistency, item-total score correlation, and test-retest estimates), validity (associations with other proxies for depression) and factor structure were assessed. Evaluations considered differences between language versions.
+   Results: In this sample, the CES-D had a Cronbach's of 0.81 and item-total score correlation coefficients ranged between 0.2 and 0.63. One week test-retest reliability (ICC(2)) was 0.57. CES-D scores were higher among individuals who endorsed feelings of depression and suicidality compared to those who did not. ROC analyses of the CES-D versus binary depression and suicidality variables produced AUCs around 0.70 and did not support a discrete cut-off for significant disturbance. Findings were similar across the two language groups.
+   Conclusions: The CES-D has acceptable reliability and validity among ethnic Fijian female adolescents in English and in the Fijian vernacular language. Findings support its utility as a dimensional measure for depressive symptomatology in this study population. Further examination of its clinical utility for case finding for depression in Fijian school-based and community populations is warranted.
+C1 [Opoliner, April; Blacker, Deborah] Harvard Univ, Dept Epidemiol, Sch Publ Hlth, Boston, MA 02155 USA.
+   [Blacker, Deborah; Becker, Anne] Massachusetts Gen Hosp, Dept Psychiat, Boston, MA 02114 USA.
+   [Fitzmaurice, Garrett] Harvard Univ, Dept Biostat, Sch Publ Hlth, Boston, MA 02155 USA.
+   [Fitzmaurice, Garrett] McLean Hosp, Belmont, MA 02178 USA.
+   [Becker, Anne] Harvard Univ, Dept Global Hlth & Social Med, Sch Med, Boston, MA 02155 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health; Harvard
+   University; Massachusetts General Hospital; Harvard University; Harvard
+   T.H. Chan School of Public Health; Harvard University; McLean Hospital;
+   Harvard University; Harvard Medical School
+RP Opoliner, A (corresponding author), Harvard Univ, Dept Epidemiol, Sch Publ Hlth, 677 Huntington Ave, Boston, MA 02155 USA.
+EM aopoline@hsph.harvard.edu
+OI Becker, Anne/0000-0001-9129-6510
+FU NIMH NIH HHS [K23 MH068575, K23MH068575] Funding Source: Medline
+NR 36
+TC 8
+Z9 9
+U1 0
+U2 8
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD JUN
+PY 2014
+VL 60
+IS 4
+BP 367
+EP 376
+DI 10.1177/0020764013490871
+PG 10
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AI3VE
+UT WOS:000336792300007
+PM 23877336
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Naidu, S
+   Pandaram, A
+   Chand, A
+   Dayal, M
+AF Naidu, Suwastika
+   Pandaram, Atishwar
+   Chand, Anand
+   Dayal, Maureen
+TI People's Perceptions of the Role of Education on Sexual Behaviour of
+   Youths in Fiji
+SO SEXUALITY & CULTURE-AN INTERDISCIPLINARY JOURNAL
+LA English
+DT Article
+DE Sexual behavior; Condoms; Youths; Education; Attitude; Mindset
+ID SOCIAL-LEARNING THEORY; REASONED ACTION; RISK BEHAVIOR; HEALTH; SCHOOL;
+   ADOLESCENTS; TRANSITION; ALCOHOL; SUICIDE; MODEL
+AB The main aim of this paper was to explore people's perceptions of the role of education on youth's sexual behaviour. The findings from this study confirmed that people perceive that education can change the behaviour of youths in both positive and negative ways. People perceive that education has helped youths to make informed choices, adopt safe sex practice and realise the importance of using contraceptives but it has also exposed youths to live-in relationships and different types of sexual behaviour. Education has also changed the mindset and attitude of youths on sexual behavior. This study has implications for policy makers and academics.
+C1 [Naidu, Suwastika; Pandaram, Atishwar; Chand, Anand; Dayal, Maureen] Univ South Pacific, Suva, Fiji.
+C3 University of the South Pacific
+RP Naidu, S (corresponding author), Univ South Pacific, Suva, Fiji.
+EM naidu_s@usp.ac.fj; pandaram_a@usp.ac.fj; chand_a@usp.ac.fj;
+   dayal_m@usp.ac.fj
+OI Naidu, Suwastika/0000-0003-3657-4033
+NR 68
+TC 1
+Z9 1
+U1 1
+U2 8
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1095-5143
+EI 1936-4822
+J9 SEX CULT
+JI Sex. Cult.
+PD DEC
+PY 2019
+VL 23
+IS 4
+BP 1188
+EP 1207
+DI 10.1007/s12119-019-09609-3
+PG 20
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA JD9ER
+UT WOS:000490290000009
+DA 2023-12-06
+ER
+
+PT J
+AU Samberkar, PN
+AF Samberkar, Prashant Naresh
+TI Motor Vehicle-Assisted Ligature Strangulation Causing Complete
+   Decapitation <i>An Autopsy Report</i>
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE motor vehicle-assisted suicide; decapitation; ligature strangulation;
+   crime scene; forensic pathology
+AB The victim, a 63-year-old prosperous businessman from Labasa, of the Northern Island (Vanua Levu) of Fiji Islands, was found completely decapitated in the early hours of morning in 2004. Initial police investigation did not reveal any history of any medical or family calamity. Further inquiry by the police revealed that on the previous day the deceased had visited all his friends and relatives, and his behavior was not out of the ordinary. The police suspected it to be a case of homicide. On visit to the scene, a completely decapitated body was found in a van on a downhill road. Tire marks were found on the road. A nylon rope was used for ligature strangulation. At autopsy, the decapitation wound of the head and the torso articulated well. The face was congested, and there was tongue bite. Wound margins were clear-cut, with well-demarcated abrasion and multiple imprints of the nylon rope on the neck. The upper one third of the larynx was attached to the head. No other injuries were found on the body. From the findings, it was obvious that asphyxiation was involved in the death before decapitation.
+C1 Univ Malaya, Fac Med, Dept Pathol, Forens Unit, Kuala Lumpur, Malaysia.
+C3 Universiti Malaya
+RP Samberkar, PN (corresponding author), Univ Malaya, Fac Med, Dept Pathol, Forens Unit, Kuala Lumpur, Malaysia.
+EM samberkarprashant@hotmail.com
+RI SAMBERKAR, PRASHANT/B-9504-2010
+OI SAMBERKAR, PRASHANT/0000-0002-6725-2259
+NR 4
+TC 8
+Z9 8
+U1 1
+U2 12
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-7910
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD MAR
+PY 2012
+VL 33
+IS 1
+BP 86
+EP 87
+DI 10.1097/PAF.0b013e3182186d72
+PG 2
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine; Pathology
+GA 897CH
+UT WOS:000300618300025
+PM 21455053
+DA 2023-12-06
+ER
+
+PT J
+AU Fathelrahman, AI
+   Ab Rahman, AF
+   Zain, ZM
+   Tengku, MA
+AF Fathelrahman, AI
+   Ab Rahman, AF
+   Zain, ZM
+   Tengku, MA
+TI Factors associated with adult poisoning in Northern Malaysia: a
+   case-control study
+SO HUMAN & EXPERIMENTAL TOXICOLOGY
+LA English
+DT Article
+DE adult; case-control; Malaysia; poisoning; risk
+ID RISK-FACTORS; FIJI ISLANDS; SUICIDE; CHILDREN; PARASUICIDE; OVERDOSE;
+   ILLNESS; DENMARK; PEOPLE; DRUG
+AB Data on adult risk factors associated with drug or chemical poisonings in Malaysia are scarce. The objective of the study was to identify possible risk factors associated with adult admissions to the Penang General Hospital (PGH) due to chemical poisoning and/or drug overdose. The present study was a case-control study, conducted over 18 weeks. One hundred acutely poisoned adult patients admitted to PGH during the period from September 2003 to February 2004 were considered as cases. Two hundred patients admitted to the same medical wards for other illnesses, during the same period, were matched for age and gender with the poisoned cases and thus selected as controls. McNemar test and binary logistic were used for univariate analysis and logistic regression analysis for multivariate analyses. The odds ratio ( OR) and its 95% confidence interval ( 95% CI) were calculated for each predictor variable. Positive histories of psychiatric illness and previous poisoning, problems in boy/girl friend relationships, family problems, marital problems, Indian ethnicity, Chinese ethnicity, living in rented houses and living in a household with less than five people were significant risk factors associated with adult admissions due to poisoning.
+C1 Univ Sains Malaysia, Sch Pharmaceut Sci, Penang 11800, Malaysia.
+   Minist Hlth Khartoum State, Drug Informat Ctr, Directorate Pharm, Khartoum, Sudan.
+   Hosp Pulau Pinang, George Town 10990, Malaysia.
+   Univ Sains Malaysia, Sch Med Sci, Dept Community Med, Kubang Kerian 16150, Kelantan, Malaysia.
+C3 Universiti Sains Malaysia; Universiti Sains Malaysia
+RP Ab Rahman, AF (corresponding author), Univ Sains Malaysia, Sch Pharmaceut Sci, Penang 11800, Malaysia.
+EM fatah@usm.my
+RI Fathelrahman, Ahmed Ibrahim/C-9449-2012; Rahman, Fatah Ab/A-6900-2011
+OI Fathelrahman, Ahmed Ibrahim/0000-0002-5689-5769; Rahman, Fatah
+   Ab/0000-0002-2491-1875
+NR 26
+TC 9
+Z9 10
+U1 0
+U2 2
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0960-3271
+EI 1477-0903
+J9 HUM EXP TOXICOL
+JI Hum. Exp. Toxicol.
+PD APR
+PY 2006
+VL 25
+IS 4
+BP 167
+EP 173
+DI 10.1191/0960327106ht606oa
+PG 7
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 034JD
+UT WOS:000236924300001
+PM 16696291
+DA 2023-12-06
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-06
+ER
+
+EF

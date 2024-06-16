@@ -1,0 +1,61 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gleich, S
+   Domingo, O
+   Ackermann, N
+   Schwerer, M
+   Graw, M
+   Schöpfer, J
+AF Gleich, S.
+   Domingo, O.
+   Ackermann, N.
+   Schwerer, M.
+   Graw, M.
+   Schoepfer, J.
+TI A post-mortem study of the cause of death and concomitant diseases of
+   refugees in Munich (2014-2015)
+SO RECHTSMEDIZIN
+LA English
+DT Article
+DE Asylum applicants; Forensic autopsy; Cause of death; Infectious
+   diseases; Histological analysis
+AB Background. There was a clear increase in the influx of refugees in Germany in 2014 and 2015. The majority of them came from countries without regular access to medical care. There are often precarious hygienic conditions during the flight. An above-average prevalence for infectious diseases, such as tuberculosis and blood-borne viral diseases is described for this group of persons. There are no available data on the causes of death and concomitant diseases in this group. In the Institute of Forensic Medicine at the University of Munich autopsies were carried out on a significant number of refugees for the first time.
+   Material and methods. The macromorphological findings during the autopsies and the prosecution files were evaluated. Blood and urine samples were analyzed for alcohol and drugs by chromatography and mass spectrometry. Femoral vein blood samples (whole blood) were analyzed for human immunodeficiency virus (HIV), hepatitis B and C by the polymerase chain reaction (PCR). The formalin-fixed parenchymatous organs were histologically examined and assessed. The statistical evaluation of the obtained data was carried out using SPSS (version 23).
+   Results. A total of 20 deceased refugees were autopsied during the investigation period and the average age was 26 years. The main countries of origin were Syria, Afghanistan and Eritrea. In 14 cases an unnatural death was detected, in 2 a natural death and in 4 cases the cause of death remained unclear. The cases of unnatural death were caused by drowning accidents, suicide, traffic accidents, drug abuse and one homicide and the cases of natural death by pneumonia and heart failure. In three cases an infectious or parasitic accompanying disease was diagnosed (tuberculosis or roundworm disease). In 12 of the deceased there were non-infectious concomitant diseases, 6 of which were psychiatric diseases.
+   Conclusion. According to our knowledge for the first time a professional overview of autopsies of refugees, their causes of death and existing concomitant diseases can be given. The indications for a medicolegal autopsy of this group are no different from the general German population. Striking was the low average age of the deceased and the leading cause of death in this small study was drowning of non-swimmers during the summer. None of the autopsied refugees had a contagious disease which could be transmitted to third parties. Despite the young age more than half of the cases were caused by internal diseases, which were the cause of death in two cases. No particular danger for infection existed for the personnel involved in the autopsies of the subjects.
+C1 [Gleich, S.; Domingo, O.; Schwerer, M.; Graw, M.; Schoepfer, J.] Ludwig Maximilian Univ Munich, Inst Forens Med, Munich, Germany.
+   [Gleich, S.] City Munich, Dept Hlth & Environm, Bayerstr 28a, D-80335 Munich, Germany.
+   [Ackermann, N.] Bavarian State Off Hlth & Food Safety, Munich, Germany.
+C3 University of Munich; Bavarian Health & Food Safety Authority
+RP Gleich, S (corresponding author), City Munich, Dept Hlth & Environm, Bayerstr 28a, D-80335 Munich, Germany.
+EM sabine.gleich@muenchen.de
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0937-9819
+EI 1434-5196
+J9 RECHTSMEDIZIN
+JI Rechtsmedizin
+PD FEB
+PY 2018
+VL 28
+IS 1
+BP 25
+EP 32
+DI 10.1007/s00194-017-0214-6
+PG 8
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA FT7ZL
+UT WOS:000423371600004
+DA 2023-12-05
+ER
+
+EF

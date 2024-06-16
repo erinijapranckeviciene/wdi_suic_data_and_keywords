@@ -1,0 +1,685 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gerstner, RMF
+   Soriano, I
+   Sanhueza, A
+   Caffe, S
+   Kestel, D
+AF Gerstner, Rebekka Maria F.
+   Soriano, Ismael
+   Sanhueza, Antonio
+   Caffe, Sonia
+   Kestel, Devora
+TI Epidemiology of suicide among adolescents and young adults in Ecuador
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA Spanish
+DT Article
+DE Suicide; adolescent; epidemiology; Ecuador
+ID GENDER; PREVENTION; MORTALITY
+AB Objective. To collect information - and provide it to decision-makers in health programs in general and mental health programs in particular - on epidemiological patterns in suicide deaths among young adults and adolescents in Ecuador.
+   Methods. A cross-sectional ecological study was conducted using data obtained from records of deaths by suicide among young adults and adolescents in Ecuador from 2001 to 2014. For analysis, results were disaggregated by geographic region, sex, age, ethnic group and suicide method. Rates of death by suicide (per 100,000 population) and relative risks (RR) for suicide were estimated by sex and region.
+   Results. Between 2001 and 2014, 4,855 suicides were recorded among adolescents and young adults. The highest estimated risk was found among males aged 15 to 24 years and adolescents living in the Amazon region, followed by those living in the Andean region. Mestizos were the ethnic group with the greatest number of suicides, although 40% of young people who commit suicide in the Amazon region are indigenous. The most frequent method was by hanging, followed by pesticide poisoning.
+   Conclusions. Suicide among adolescents and young adults is an important public health problem in Ecuador. Since various psychological, social, and cultural influences come into play, there is wide variation among regions, age groups, and ethnic groups. Restricting access to pesticides and other chemical products, implementing universal prevention programs and programs in education centers in the areas with the highest rates, and targeting vulnerable populations for specific interventions could help reduce the suicide rate among young people in Ecuador.
+C1 [Gerstner, Rebekka Maria F.] Pontificia Univ Catolica Ecuador, Sede Santo Domingo, Santo Domingo, Ecuador.
+   [Soriano, Ismael] Pan Amer Hlth Org, Nutr & Family Gender & Life Course, Quito, Ecuador.
+   [Sanhueza, Antonio; Caffe, Sonia; Kestel, Devora] Pan Amer Hlth Org, Ringgold Standard Inst, Washington, DC USA.
+C3 Pontificia Universidad Catolica del Ecuador; Pan American Health
+   Organization; Pan American Health Organization
+RP Gerstner, RMF (corresponding author), Pontificia Univ Catolica Ecuador, Sede Santo Domingo, Santo Domingo, Ecuador.
+EM remgerstner@gmail.com
+NR 32
+TC 5
+Z9 6
+U1 0
+U2 13
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PY 2018
+VL 42
+AR e100
+DI 10.26633/RPSP.2018.100
+PG 7
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HR6JN
+UT WOS:000463257000003
+PM 31093128
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Valdez, V
+   Santana, C
+   Cajas, M
+   Avila, E
+   Reyes, D
+AF Valdez, V.
+   Santana, C.
+   Cajas, M.
+   Avila, E.
+   Reyes, D.
+TI Suicide attempts associated with sexual violence: Women - Ecuador
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+DE Women; Sexual violence; Suicide
+OI Santana-Veliz, Carlos/0000-0001-9948-7514
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2016
+VL 33
+SU S
+MA EV1430
+BP S642
+EP S643
+DI 10.1016/j.eurpsy.2016.01.2415
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA VI5UY
+UT WOS:000497501502478
+DA 2023-12-06
+ER
+
+PT J
+AU Ortiz-Prado, E
+   Simbaña, K
+   Gómez, L
+   Henriquez-Trujillo, AR
+   Cornejo-Leon, F
+   Vasconez, E
+   Castillo, D
+   Viscor, G
+AF Ortiz-Prado, Esteban
+   Simbana, Katherine
+   Gomez, Lenin
+   Henriquez-Trujillo, Aquiles R.
+   Cornejo-Leon, Fernando
+   Vasconez, Eduardo
+   Castillo, Diana
+   Viscor, Gines
+TI The disease burden of suicide in Ecuador, a 15 years' geodemographic
+   cross-sectional study (2001-2015)
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Self-inflicted injury; Pesticides; Hanging; Firearms; Ecuador;
+   DALY
+ID RISK-FACTORS; SELF-HARM; MORTALITY; MIGRATION; ALTITUDE; GENDER;
+   ADOLESCENTS; DEPRESSION; BEHAVIOR; PEOPLE
+AB Background: Suicide affects people from different backgrounds, ethnical groups, socio-economic status and geographical locations. In Latin America, suicide reports arescarce, specially in Andean countries. In Ecuador, very few reports have partially described this phenomenon, nonetheless, estimation of the burden of disease (BoD) hasnever been reported in the country.
+   Methods: A country-wide comparison was performed using the Ministry of Public Health's national databases of overall mortality, Hospital Discharges Database, and the Population Census of the National Institute of Census and Statistics (INEC). The study variables analyzed were age, geographical distribution to provincial level, sex, means of suicide, educational attainment, marital status and mortality. Linear Regression and relative Risk analysis were used to predict outcome and the likelihood that suicide occur among study variables.
+   Results: In the last 15 years, 13,024 suicides were officially reported. Men were 3 times more likely than women to die by suicide. The overall age-adjusted suicide ratio in Ecuador corresponds to 7.1 per 100,000 per year. The sex-specific rates were 5.3 in women and 13.2 in men. The primary mean of suicide was hanging X70 (51.1%), followed by self-poisoning X68-X69 (35.2%) and firearms X72-X74 (7.6%). Provinces located at higher altitude reported higher rates than those located at sea level (9 per 100,000 vs 4.5 per 100.000). The total economic loss due to suicide was estimated to be $852.6 million during the 15 years' analysis.
+   Conclusions: This is the first geodemographic study exploring the complete burden of suicide in Ecuador and one of the very few in Latin-America. In the last 15 years of available data, Ecuador ranks above the regional average with an adjusted suicide rate of 7.1 per 100,000 inhabitants. An important finding is that Suicide affects rather younger populations, adding more than 10,000 years of premature years of life lost (YYL) between 2001 and 2015, becoming the first and fourth leading cause of death among adolescent women and men respectively. Suicide affects people from different backgrounds, socioeconomic status and educational attainment. The mean of suicide changed over time showing that gun and pesticides related deaths decreased significantly since 2001, while hanging and suffocation increased in more than 50%.
+C1 [Ortiz-Prado, Esteban; Henriquez-Trujillo, Aquiles R.; Vasconez, Eduardo; Castillo, Diana] Univ Amer, Fac Med, OneHlth Res Grp, Quito, Ecuador.
+   [Ortiz-Prado, Esteban; Viscor, Gines] Univ Barcelona, Dept Cell Biol Physiol & Immunol, Barcelona, Spain.
+   [Simbana, Katherine; Gomez, Lenin] Univ Cent Ecuador, Fac Med, Quito, Ecuador.
+   [Cornejo-Leon, Fernando] Univ Tecnol Equinoccial, Fac Med, Quito, Ecuador.
+   [Ortiz-Prado, Esteban] Univ Amer, One Hlth Res Grp, Calle Colimes & Ave Granados, Quito 170137, Ecuador.
+C3 Universidad de Las Americas - Ecuador; University of Barcelona;
+   Universidad Central del Ecuador; Universidad de Las Americas - Ecuador
+RP Ortiz-Prado, E (corresponding author), Univ Amer, Fac Med, OneHlth Res Grp, Quito, Ecuador.; Ortiz-Prado, E (corresponding author), Univ Barcelona, Dept Cell Biol Physiol & Immunol, Barcelona, Spain.
+EM e.ortizprado@gmail.com
+RI Henriquez-Trujillo, Aquiles/G-3645-2011; Ortiz-Prado,
+   Esteban/C-9550-2014; Viscor, Ginés/A-9519-2008; Simbaña Rivera,
+   Katherine/ITW-1706-2023
+OI Henriquez-Trujillo, Aquiles/0000-0002-3094-4438; Ortiz-Prado,
+   Esteban/0000-0002-1895-7498; Viscor, Ginés/0000-0003-4942-2346; Simbaña
+   Rivera, Katherine/0000-0002-8130-5361; Vasconez,
+   Eduardo/0000-0003-4573-6217; Gomez, Lenin/0000-0002-4499-0304
+NR 69
+TC 23
+Z9 26
+U1 0
+U2 22
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD OCT 10
+PY 2017
+VL 17
+AR 342
+DI 10.1186/s12888-017-1502-0
+PG 11
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FJ4BG
+UT WOS:000412678000003
+PM 29017474
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Gerstner, RM
+   Lara, F
+AF Gerstner, R. M.
+   Lara Lara, F.
+TI Trend analysis of suicide among children, adolescent and young adults in
+   Ecuador between 1990 and 2017
+SO ANALES DEL SISTEMA SANITARIO DE NAVARRA
+LA Spanish
+DT Article
+DE Suicide; Epidemiology; Adolescent; Child; Ecuador
+ID GENDER
+AB Background. Analyze the long-term sex specific trends in suicide rates for Ecuadorian children, adolescents and young people, as well as to describe the evolution of the male/female ratio between 1990 and 2017.
+   Method. Population and mortality data were obtained from the National Institute of Statistics and Censuses of Ecuador. Suicide rates were calculated for each year, age group (10-14, 15-19, 20-24 years) and sex. We used the Joinpoint Regression Program 4.6.0.2 to analyze temporal trends and report annual percent change (APC) by each age group and sex.
+   Results. An average of 313 suicides per year happened in Ecuador between 1990 and 2017, with increases of 480% in young boys and 322 % in girls aged between 10-14, 111% in male adolescents and 57% in young adults, while there was a decrease in adolescent girls (19%) and young adults (37%). The suicide rate increased annually among boys (APC = 5.10%) and girls (2.57%), as well as for male adolescents (3.07%) and young adults (10.42%), while for female adolescents (0.81%, not significant) and young women (1.16%) the trend decreased after reaching a peak around 2006. While up until the beginning of the XXI century young females aged between 10 and 19 years had higher suicide rates, during the last decade men had higher rates across all age groups (between 1.5: 1 and 4.3: 1 in 2017).
+   Conclusions. Suicide in the population under 25 years in Ecuador is a major public health issue and increased between 1990 and 2017, particularly among children, and males between 15-24 years. The intersectorial strategy proposed in 2018 in order to reduce suicide is pending further evaluation and interpretation.
+C1 [Gerstner, R. M.; Lara Lara, F.] Pontificia Univ Catolica Ecuador, Sede Santo Domingo, Ecuador.
+C3 Pontificia Universidad Catolica del Ecuador
+RP Gerstner, RM; Lara, F (corresponding author), Via Chone Km 2,C San Cristobal e Isla Santa Cruz, Santo Domingo 3702868, Ecuador.
+EM sicoetica@pucesd.edu.ec; llf@pucesd.edu.ec
+RI LARA LARA, FERNANDO/GRJ-9964-2022; Lara, Fernando Lara/AAJ-9750-2020
+OI Lara Lara, Fernando/0000-0003-1545-9132
+NR 46
+TC 3
+Z9 5
+U1 0
+U2 5
+PU GOBIERNO DE NAVARRA
+PI PAMPLONA
+PA NAVAS TOLOSA 21, PAMPLONA, 31002, SPAIN
+SN 1137-6627
+J9 AN SIST SANIT NAVAR
+JI An. Sist. Sanit. Navar.
+PD JAN-APR
+PY 2019
+VL 42
+IS 1
+BP 9
+EP 18
+DI 10.23938/ASSN.0394
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HU8VE
+UT WOS:000465568300002
+PM 30720006
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Smith, RL
+   Valarezo, MA
+AF Smith, Robert L.
+   Valarezo, Maria Alexandra
+TI The Foundation of Counseling in the Republic of Ecuador
+SO JOURNAL OF COUNSELING AND DEVELOPMENT
+LA English
+DT Article
+AB Counseling is at an early stage of development in the Republic of Ecuador. A turbulent history, poverty, and unemployment have affected the growth of mental health services and counselor preparation programs. Yet, this country experiences problems of addictions, domestic violence, depression, suicide, gender inequity, and drug trafficking. The future of counseling will be influenced by economic conditions and leadership provided from within and outside the Republic of Ecuador.
+C1 [Smith, Robert L.; Valarezo, Maria Alexandra] Texas A&M Univ, Dept Counseling & Educ Psychol, Corpus Christi, TX 78412 USA.
+C3 Texas A&M University System
+RP Smith, RL (corresponding author), Texas A&M Univ, Dept Counseling & Educ Psychol, 6300 Ocean Dr,Unit 5843, Corpus Christi, TX 78412 USA.
+EM robert.smith@tamucc.edu
+NR 7
+TC 0
+Z9 2
+U1 0
+U2 6
+PU WILEY PERIODICALS, INC
+PI SAN FRANCISCO
+PA ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, CA 94104 USA
+SN 0748-9633
+J9 J COUNS DEV
+JI J. Couns. Dev.
+PD JAN
+PY 2013
+VL 91
+IS 1
+BP 120
+EP 124
+DI 10.1002/j.1556-6676.2013.00080.x
+PG 5
+WC Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 072SL
+UT WOS:000313692400017
+DA 2023-12-06
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-06
+ER
+
+PT J
+AU Romo, ML
+   Abril-Ulloa, V
+   Kelvin, EA
+AF Romo, Matthew L.
+   Abril-Ulloa, Victoria
+   Kelvin, Elizabeth A.
+TI The relationship between hunger and mental health outcomes among
+   school-going Ecuadorian adolescents
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Adolescent; Depression; Food security; Ecuador; Hunger; Suicidal
+   ideation
+ID RISK BEHAVIOR SURVEY; FOOD INSECURITY; SOUTHWEST ETHIOPIA; JIMMA ZONE;
+   SUICIDE; DEPRESSION; SYMPTOMS; CHILDREN; INCOME; INSUFFICIENCY
+AB Mental health and food insecurity are major public health issues among adolescents in Ecuador. Our objective was to determine the relationship between hunger, symptoms of depression, and suicidal ideation among school-going Ecuadorian adolescents.
+   We conducted crude and multivariable logistic regression models using data from the 2007 Global School-based Student Health Survey from Quito, Guayaquil, and Zamora, Ecuador (N = 5524). Hunger was defined as having gone hungry in the past 30 days due to lack of food in the home. Outcomes of interest were symptoms of depression and suicidal ideation with or without planning in the past year.
+   Overall, 41.2 % (2200/5467) of students reported experiencing hunger. In multivariable logistic regression models, hunger had an increasing exposure-response relationship with symptoms of depression [sometimes hungry odds ratio (OR) 1.80, P = 0.0001; most of the time or always hungry OR 2.01, P < 0.0001] and suicidal ideation with planning (sometimes hungry OR 1.55, P = 0.04; most of the time or always hungry OR 2.63, P = 0.001).
+   Hunger was associated with increased odds of symptoms of depression and suicidal ideation with planning. Strategies to improve mental health among adolescents in Ecuador should consider the potential contribution of hunger and food insecurity.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY Hunter Coll, Epidemiol & Biostat Program, Sch Urban Publ Hlth, 2180 Third Ave, New York, NY 10035 USA.
+   [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, New York, NY USA.
+   [Romo, Matthew L.; Abril-Ulloa, Victoria] Univ Cuenca, Direcc Invest, Fac Ciencias Med, Cuenca, Ecuador.
+   [Kelvin, Elizabeth A.] CUNY, Publ Hlth Program, Grad Ctr, New York, NY USA.
+C3 City University of New York (CUNY) System; Hunter College (CUNY); City
+   University of New York (CUNY) System; Universidad de Cuenca; City
+   University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY Hunter Coll, Epidemiol & Biostat Program, Sch Urban Publ Hlth, 2180 Third Ave, New York, NY 10035 USA.; Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, New York, NY USA.; Kelvin, EA (corresponding author), CUNY, Publ Hlth Program, Grad Ctr, New York, NY USA.
+EM Elizabeth.Kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023; Abril, Victoria/AAH-2702-2020
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Abril-Ulloa,
+   Victoria/0000-0002-4083-8401; Kelvin, Elizabeth/0000-0002-0566-8697
+NR 40
+TC 18
+Z9 20
+U1 0
+U2 13
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD JUN
+PY 2016
+VL 51
+IS 6
+BP 827
+EP 837
+DI 10.1007/s00127-016-1204-9
+PG 11
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DN7IQ
+UT WOS:000377249200006
+PM 27083901
+DA 2023-12-06
+ER
+
+PT J
+AU Schnell, T
+   Gerstner, R
+   Krampe, H
+AF Schnell, Tatjana d
+   Gerstner, Rebekka
+   Krampe, Henning
+TI Crisis of Meaning Predicts Suicidality in Youth Independently of
+   Depression
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE crisis of meaning; suicidal ideation; meaning in life; adolescence;
+   family functioning
+ID SELF-ESTEEM; LIFE; IDEATION; RISK; QUESTIONNAIRE; HOPELESSNESS;
+   PERSPECTIVE; PREVALENCE; SEARCH; SAMPLE
+AB Background: At times, the question for meaning comes to nothing and a crisis of meaning ensues. This state is very painful, but difficult to account. Both those who suffer from it and care professionals find themselves at a loss for words. Aims: This study introduces an operationalization of a crisis of meaning. It aims to distinguish the concept from depression, and to investigate whether a crisis of meaning can explain suicidality beyond the known protective and risk factors self-esteem, family functioning, life-event load, and depression. Method: Final-year school pupils in Ecuador (N = 300) completed questionnaires assessing the above variables. Data were analyzed using chi-square, hierarchic multiple regression, serial mediation, and moderator analyses. Results: Crisis of meaning was distinguished from depression. It explained a significant amount of variance in suicidality beyond the mentioned protective and risk factors. For males, crisis of meaning was the only significant risk factor, and the strongest predictor overall. The acute risk factors depression and crisis of meaning mediated the effects of the baseline factors self-esteem, family functioning, and life-event load on suicidality. Limitations: The study was cross-sectional; assessed factors predicted variance in suicidal thoughts, plans, and past suicide attempts, while their relevance cannot be generalized to actual future suicide attempts. Conclusion: A crisis of meaning is an important factor to take into account in further research on the prevention and treatment of people at risk of suicide.
+C1 [Schnell, Tatjana d] Univ Innsbruck, Inst Psychol, Innsbruck, Austria.
+   [Gerstner, Rebekka] Pontifical Catholic Univ Ecuador, Area Sicoet, Univ Counseling Ctr, Santo Domingo Tsachilas, Ecuador.
+   [Krampe, Henning] Charite, Dept Anesthesiol & Intens Care Med, Berlin, Germany.
+C3 University of Innsbruck; Pontificia Universidad Catolica del Ecuador;
+   Free University of Berlin; Humboldt University of Berlin; Charite
+   Universitatsmedizin Berlin
+RP Schnell, T (corresponding author), Univ Innsbruck, Inst Psychol, Psychol Personal & Individual Differences, Innrain 52, A-6020 Innsbruck, Austria.
+EM tatjana.schnell@uibk.ac.at
+RI Schnell, Tatjana/AAG-9527-2019
+OI Schnell, Tatjana/0000-0002-7991-2242
+NR 57
+TC 33
+Z9 41
+U1 6
+U2 36
+PU HOGREFE PUBLISHING CORP
+PI BOSTON
+PA 361 NEWBURY ST, 5 FL, BOSTON, MA, UNITED STATES
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD JUL
+PY 2018
+VL 39
+IS 4
+BP 294
+EP 303
+DI 10.1027/0227-5910/a000503
+PG 10
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA GM2PY
+UT WOS:000437932800008
+PM 29473473
+DA 2023-12-06
+ER
+
+PT J
+AU González-Andrade, F
+   López-Pulles, R
+AF Gonzalez-Andrade, Fabricio
+   Lopez-Pulles, Ramiro
+TI White phosphorus poisoning by oral ingestion of firecrackers or little
+   devils: Current experience in Ecuador
+SO CLINICAL TOXICOLOGY
+LA English
+DT Article
+DE Poisoning; Phosphorus; White phosphorus; Oral ingestion; Suicides;
+   Toxicology; Epidemiology; Mental health; Ecuador
+ID FIREWORKS
+AB Background. aEuro integral White phosphorus (WP) is widely used illicitly in fireworks in South America. We report our experience in seven Ecuadorian hospitals. Methods. aEuro integral A cross-sectional study of patients presented during 2009. Inclusion criteria included: reported oral ingestion of firecrackers (little devils) in any age. Data were gathered using inpatient records and a written survey of the victims. Results. aEuro integral The mean age of the patients was 21.6 aEuroS +/-+/- aEuroS7.1 years (women 63.5%%); 64.7%% of cases occurred in November, December and January. In 46%% of cases, the number of units ingested was between 1 and 5 (similar to 0.3 to 1.5 g WP), maximum 40 (similar to 12 g). Forty-seven cases attended within 12 hours (55.3%); 5.9% died and 2.4% were readmitted. The remainder were eventually discharged well. Clinical features included: abdominal pain, cramps, diarrhoea, jaundice, nausea and vomiting, abnormal liver enzymes, and coagulation times and hypoglycaemia. Conclusions. aEuro integral The typical case was an adolescent woman between 16 and 19 years with self-harm around Christmas. There was no specific treatment, but early attendance was associated with improved prognosis. Further studies are necessary to establish an adequate protocol of treatment.</.
+C1 [Gonzalez-Andrade, Fabricio] Cent Univ Ecuador, Fac Med Sci, Sch Med, Quito, Ecuador.
+   [Lopez-Pulles, Ramiro] Minist Publ Hlth, Sci & Technol Unit, Quito, Ecuador.
+C3 Universidad Central del Ecuador
+RP González-Andrade, F (corresponding author), Cent Univ Ecuador, Fac Med Sci, Sch Med, Quito, Ecuador.
+EM fabriciogonzaleza@yahoo.es
+RI González-Andrade, Fabricio/I-6132-2018
+OI González-Andrade, Fabricio/0000-0002-2091-9095
+NR 28
+TC 10
+Z9 11
+U1 0
+U2 8
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD JAN
+PY 2011
+VL 49
+IS 1
+BP 29
+EP 33
+DI 10.3109/15563650.2010.547860
+PG 5
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 716DL
+UT WOS:000286945300005
+PM 21288149
+DA 2023-12-06
+ER
+
+PT J
+AU Torres, C
+   Otero, P
+   Bustamante, B
+   Blanco, V
+   Díaz, O
+   Vázquez, FL
+AF Torres, Claudia
+   Otero, Patricia
+   Bustamante, Byron
+   Blanco, Vanessa
+   Diaz, Olga
+   Vazquez, Fernando L.
+TI Mental Health Problems and Related Factors in Ecuadorian College
+   Students
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE mental health; prevalence; correlates; college students
+ID LOW SELF-ESTEEM; SOCIAL SUPPORT; PSYCHIATRIC-DISORDERS;
+   EATING-DISORDERS; UNIVERSITY-STUDENTS; DEPRESSIVE SYMPTOMS; SCOFF
+   QUESTIONNAIRE; PERSONALITY-TRAITS; SUICIDE IDEATION; MAJOR DEPRESSION
+AB Although the mental health problems of college students have been the subject of increasing research, there are no studies about its prevalence in Ecuadorian college students. The aim of this study was to determine the mental health problems and their associated factors in Ecuadorian freshmen university students. A sample of 1092 students (53.7% women; mean age = 18.3 years) were recruited from the Technical Particular University of Loja (Ecuador). Socio-demographic, academic, and clinical characteristics were gathered, as well as information on the participants' mental health through a number of mental health screens. Prevalence of positive screens was 6.2% for prevalence of major depressive episodes, 0.02% for generalized anxiety disorders, 2.2% for panic disorders, 32.0% for eating disorders, 13.1% for suicidal risk. Mental health problems were significantly associated with sex, area of study, self-esteem, social support, personality and histories of mental health problems. The findings offer a starting point for identifying useful factors to target prevention and intervention strategies aimed at university students.
+C1 [Torres, Claudia; Bustamante, Byron] Univ Tecn Particular Loja, Dept Psychol, Loja 1101608, Ecuador.
+   [Otero, Patricia] Univ A Coruna, Dept Psychol, La Coruna 15071, Spain.
+   [Blanco, Vanessa] Univ Santiago de Compostela, Dept Evolut & Educ Psychol, Santiago De Compostela 15782, Spain.
+   [Diaz, Olga; Vazquez, Fernando L.] Univ Santiago de Compostela, Dept Clin Psychol & Psychobiol, Santiago De Compostela 15782, Spain.
+C3 Universidad Tecnica Particular de Loja; Universidade da Coruna;
+   Universidade de Santiago de Compostela; Universidade de Santiago de
+   Compostela
+RP Torres, C (corresponding author), Univ Tecn Particular Loja, Dept Psychol, Loja 1101608, Ecuador.
+EM ctorres@utpl.edu.ec; patricia.otero.otero@udc.es;
+   bfbustamante@utpl.edu.ec; vanessa.blanco@usc.es;
+   olga.diaz.fernandez@usc.es; fernandolino.vazquez@usc.es
+RI Granda, Byron Fernando Bustamante/AAV-3352-2021; Váquez, Fernando
+   L./W-4173-2018
+OI Granda, Byron Fernando Bustamante/0000-0002-9308-5095; Váquez, Fernando
+   L./0000-0002-5868-4025; Diaz Fernandez, Olga/0000-0002-0082-9834; Blanco
+   Seoane, Vanessa/0000-0002-6277-0671
+FU Universidad Tecnica Particular de Loja (Ecuador) [PY250]
+FX This study was funded by grant PY250 from the Universidad Tecnica
+   Particular de Loja (Ecuador).
+NR 78
+TC 20
+Z9 24
+U1 6
+U2 20
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD MAY
+PY 2017
+VL 14
+IS 5
+AR 530
+DI 10.3390/ijerph14050530
+PG 14
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA EY6PT
+UT WOS:000404106400078
+PM 28505139
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Poggetti, RS
+AF Poggetti, Renato Sergio
+TI Acute care surgeon South American model
+SO WORLD JOURNAL OF SURGERY
+LA English
+DT Article
+AB Background In the World Health Organization book by Murray and Lopez (The Global Burden of Disease), the authors make the point that there are major regional differences across the world for death from injury. In the European market economies, injuries accounted for 6% of all deaths, of which the majority were the result of road traffic accidents. In stark contrast, in Latin America and the Caribbean, injuries account for 12-13% of all deaths, and most of these are the result of violence. An estimated 30% of all male deaths are from external causes, and road traffic accidents are the number two cause of death. Within South American countries, trauma is the second most common cause of death in Columbia, Venezuela, Ecuador, and Brazil. In other South American countries, it is the third or fourth most common cause of death. If one examines the Disability Adjusted Life Years, South America is the third highest in the world. Death from injury primarily affects people in the middle- and low-income group. Traffic accidents and suicide are the main causes of trauma in the high-income population. South America is made up of developing and poor countries that have trauma as a very important cause of death and disability.
+   Methods The author has reviewed information on injury from the World Health Organization, Pan American Health Organization, and Brazilian Health Ministry. In addition, a search of injury was performed through MEDLINE.
+   Results and Conclusions The results of this review show that trauma is a major public health problem in South America. At the present time, there is a lack of statewide system development. In addition, there are difficulties in training surgeons to cope with these problems.
+C1 Univ Sao Paulo, Sch Med, Hosp Clin, Div Surg Clin 3, Sao Paulo, Brazil.
+C3 Universidade de Sao Paulo
+RP Poggetti, RS (corresponding author), Univ Sao Paulo, Sch Med, Hosp Clin, Div Surg Clin 3, Sao Paulo, Brazil.
+EM poggetti@terra.com.br
+NR 0
+TC 4
+Z9 4
+U1 0
+U2 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0364-2313
+J9 WORLD J SURG
+JI World J.Surg.
+PD AUG
+PY 2008
+VL 32
+IS 8
+BP 1626
+EP 1629
+DI 10.1007/s00268-008-9659-9
+PG 4
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Surgery
+GA 332PC
+UT WOS:000258093900008
+PM 18574624
+DA 2023-12-06
+ER
+
+PT J
+AU Suarez-Lopez, JR
+   Hood, N
+   Suárez-Torres, J
+   Gahagan, S
+   Gunnar, MR
+   López-Paredes, D
+AF Suarez-Lopez, Jose R.
+   Hood, Naomi
+   Suarez-Torres, Jose
+   Gahagan, Sheila
+   Gunnar, Megan R.
+   Lopez-Paredes, Dolores
+TI Associations of acetylcholinesterase activity with depression and
+   anxiety symptoms among adolescents growing up near pesticide spray sites
+SO INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE Depression; Anxiety; Pesticides; Agriculture; Adolescents; Ecuador
+ID CHLORPYRIFOS EXPOSURE; ORGANOPHOSPHATE PESTICIDES; DEVELOPMENTAL
+   EXPOSURE; AGRICULTURAL-WORKERS; NERVOUS-SYSTEM; ANIMAL-MODELS;
+   UNITED-STATES; MENTAL-HEALTH; CHILDREN; SUICIDE
+AB Background: The cholinergic system has an important role in mood regulation. Cholinesterase inhibitor pesticides (e.g. organophosphates) appear to increase depression and anxiety symptoms in the few existing animal and human studies. Human studies have not described such associations using biomarkers of exposure and studies among children are needed.
+   Methods: We studied 529 adolescents (ages 11-17y) in agricultural communities in the Ecuadorian Andes (ESPINA study). Acetylcholinesterase (AChE) activity was measured in a finger-stick sample. Anxiety and depression symptoms were assessed using the CDI-2 and MASC-2 (greater scores reflect greater internalizing symptoms). Models adjusted for age, gender, hemoglobin, income among others.
+   Results: The median age was 14.38y and 51% were female. The mean (SD) of the following parameters were: AChE 3.7 U/mL (0.55), depression T-score 53.0 (9.4) and anxiety T-score: 57.6 (9.8). Lower AChE activity (reflecting greater cholinesterase inhibitor exposure) was associated with higher depression symptoms (difference per SD decrease of AChE [beta [95% CI:]]: 1.09 [0.02, 2.16]), was stronger among girls (beta = 1.61) than boys (beta = 0.69), and among younger (<14.38y, beta = 1.61) vs. older children (beta = 0.57). The associations were strongest among girls <14.38y (beta = 3.30 [0.54, 6.05], OR for elevated symptoms per SD decrease in AChE = 2.58 [1.26, 5.27]). No associations were observed with anxiety scores. Analyses of AChE change between 2008 and 2016 concurred with these findings.
+   Discussion: We observed associations between a biomarker of pesticide exposure and children's depression symptoms. Lower AChE activity may create risk for depression in teenagers, particularly among girls during early adolescence.
+C1 [Suarez-Lopez, Jose R.; Hood, Naomi; Gahagan, Sheila] Univ Calif San Diego, La Jolla, CA 92093 USA.
+   [Suarez-Torres, Jose; Lopez-Paredes, Dolores] Fdn Cimas Ecuador, Quito, Ecuador.
+   [Gunnar, Megan R.] Univ Minnesota, Minneapolis, MN 55455 USA.
+C3 University of California System; University of California San Diego;
+   University of Minnesota System; University of Minnesota Twin Cities
+RP Suarez-Lopez, JR (corresponding author), Univ Calif San Diego, La Jolla, CA 92093 USA.
+EM jrsuarez@ucsd.edu; nrh.red@gmail.com; jsuarez@cimas.edu.ec;
+   sgahagan@ucsd.edu; Gunnar@umn.edu; dlopez@cimas.edu.ec
+FU National Institute for Occupational Safety and Health [1R36OH009402];
+   National Institute of Environmental Health Sciences [R01ES025792,
+   R21ES026084]; Fundacidn CIMAS del Ecuador; Parish Governments of Pedro
+   Moncayo County; Education District of Pichincha-Cayambe-Pedro Moncayo
+   counties
+FX The ESPINA study received funding from the National Institute for
+   Occupational Safety and Health (1R36OH009402) and the National Institute
+   of Environmental Health Sciences (R01ES025792, R21ES026084). We thank
+   Fundacidn CIMAS del Ecuador, the Parish Governments of Pedro Moncayo
+   County, community members of Pedro Moncayo and the Education District of
+   Pichincha-Cayambe-Pedro Moncayo counties for their support on this
+   project.
+NR 89
+TC 40
+Z9 40
+U1 4
+U2 17
+PU ELSEVIER GMBH
+PI MUNICH
+PA HACKERBRUCKE 6, 80335 MUNICH, GERMANY
+SN 1438-4639
+EI 1618-131X
+J9 INT J HYG ENVIR HEAL
+JI Int. J. Hyg. Environ. Health.
+PD AUG
+PY 2019
+VL 222
+IS 7
+BP 981
+EP 990
+DI 10.1016/j.ijheh.2019.06.001
+PG 10
+WC Public, Environmental & Occupational Health; Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA JN4XC
+UT WOS:000496901300001
+PM 31202795
+OA Green Submitted, Green Accepted
+DA 2023-12-06
+ER
+
+EF

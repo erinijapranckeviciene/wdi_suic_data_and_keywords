@@ -1,0 +1,2938 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Karlovic, D
+   Gale, R
+   Thaller, V
+   Martinac, M
+   Katinic, K
+   Matosic, A
+AF Karlovic, D
+   Gale, R
+   Thaller, V
+   Martinac, M
+   Katinic, K
+   Matosic, A
+TI Epidemiological study of suicide in Croatia (1993-2003) - Comparison of
+   Mediterranean and continental areas
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicide; Croatia; mediterranean area; continental area;
+   socio-demographic characteristics; suicide method; suicide motive
+ID RISK-FACTORS; TRENDS; UNEMPLOYMENT; ENGLAND; RATES
+AB The aim of this study is to analyze eventual differences in characteristic of suicide between two areas of the Republic of Croatia, mediterranean and continental, according to the following variables: suicidal rates, season, month, day, method, places, socioeconomic variables such as gender, ages, marital status, employment, education, and psychiatric or medical characteristic. Data were collected from the Suicide register of the Ministry of Interior, and Croatian Bureau of Statistic, Analysis was done on all suicide cases committed in the period 1993-2003. According to the Suicide Register of Ministry of Interior 11,359 suicides were reported in period between 1993 and 2003. The average suicide rate in the Mediterranean area was lower (16.44 suicides per year) than in continental area of Croatia (26.34 suicides per year). Suicide committers in the Mediterranean area was statistically significant younger than suicide committers in the continental area of Croatia. In the continental area male suicide committers were more often than in the Mediterranean area of Croatia. In the Mediterranean area suicide committers were in most cases with high school education while in continental area of Croatia most cases of suicide committers were with elementary school education. Alcohol dependence, family conflicts, and medical disorders were more often present as suicidal motive in suicide committers in continental area of Croatia than in the Mediterranean area where undefined and unknown reason of suicide is present in majority of suicide cases. Cold steel, drowning, and jumping from height were more often present as suicidal method in the Mediterranean area of Croatia opposite to continental area of Croatia where jumping in front of car or train and suicide with firearms and explosive were more often. Also, in the Mediterranean area of Croatia suicides was mostly committed on open spaces and public places while in continental area of Croatia suicides was mostly committed in private plot.
+C1 Univ Hosp Sestre Milosrdnice, Dept Psychiat, Zagreb 10000, Croatia.
+   Minist Interior, Police Acad, Dept Criminol, Zagreb, Croatia.
+RP Karlovic, D (corresponding author), Univ Hosp Sestre Milosrdnice, Dept Psychiat, Vinogradska Cesta 29, Zagreb 10000, Croatia.
+EM dalibor.karlovic@zg.htnet.hr
+NR 39
+TC 6
+Z9 7
+U1 0
+U2 2
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD DEC
+PY 2005
+VL 29
+IS 2
+BP 519
+EP 525
+PG 7
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 000JG
+UT WOS:000234457000021
+PM 16417155
+DA 2023-12-06
+ER
+
+PT J
+AU Coklo, M
+   Stemberga, V
+   Cuculic, D
+   Sosa, I
+   Jerkovic, R
+   Bosnar, A
+AF Coklo, Miran
+   Stemberga, Valter
+   Cuculic, Drazen
+   Sosa, Ivan
+   Jerkovic, Romana
+   Bosnar, Alan
+TI The Methods of Committing and Alcohol Intoxication of Suicides in
+   Southwestern Croatia from 1996 to 2005
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicide; manner; alcohol intoxication; Croatia
+ID WAR; SUICIDALITY; OSIJEK
+AB Alcohol is the psychoactive substance most frequently associated with suicidal behavior. We hypothesized that the level of alcohol intoxication and the choice of specific methods of committing suicide are related. Suicides in the Southwestern Croatia in a 10-year period, especially regarding the method of committing and alcohol intoxication, were analyzed. Ten various methods of committing suicide were recorded. The average blood alcohol concentration at the moment of suicide was 0.68 g/kg with male, and 0.29 g/kg with female victims. The highest blood alcohol levels at the moment of suicide were recorded with suicides by explosive device (with the average blood alcohol concentration of 1.71 g/kg). This especially drastic method of suicide was rare in Croatia in a period prior to the Croatian Independence War (1991-1995), but its incidence significantly increased during the war and in a post-war period. These victims were not chronic alcoholics, but the excessive alcohol consumption occurred as a result of psychiatric disorders as a consequence of war stress they suffered.
+C1 [Coklo, Miran; Stemberga, Valter; Cuculic, Drazen; Sosa, Ivan; Bosnar, Alan] Univ Rijeka, Sch Med, Dept Forens Med, Rijeka 51000, Croatia.
+   [Jerkovic, Romana] Univ Rijeka, Sch Med, Dept Anat, Rijeka 51000, Croatia.
+C3 University of Rijeka; University of Rijeka
+RP Coklo, M (corresponding author), Univ Rijeka, Sch Med, Dept Forens Med, B Branchetta 20, Rijeka 51000, Croatia.
+EM mcoklo@yahoo.com
+RI Cuculić, Dražen/Q-2620-2018; Šoša, Ivan/I-6327-2013; Sosa,
+   Ivan/F-3562-2011
+OI Cuculić, Dražen/0000-0003-4056-0478; Šoša, Ivan/0000-0002-6869-3734; 
+NR 17
+TC 4
+Z9 5
+U1 0
+U2 3
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD OCT
+PY 2008
+VL 32
+SU 2
+BP 123
+EP 125
+PG 3
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 380WK
+UT WOS:000261496600026
+PM 19140274
+DA 2023-12-06
+ER
+
+PT J
+AU Pavlovic, E
+   Marusic, A
+AF Pavlovic, E
+   Marusic, A
+TI Suicide in Croatia and in croatian immigrant groups in Australia and
+   Slovenia
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Australia; Croatia; cross-cultural comparison; emigration and
+   immigration; epidemiologic methods; registries; Slovenia; suicide
+ID RATES; MIGRANTS; COUNTRY
+AB Aim. To compare suicide rates in Australia, Slovenia, and Croatia with suicide rates in Croatian immigrant groups in Australia and Slovenia in a 10-year period.
+   Method. We analyzed records for completed suicides of the residents of Australia in a decade between 1988 and 1997 and Croatia and Slovenia in a decade between 1985 and 1994. The Croatian Catholic Centers in Australia had 31 completed suicides reported in their Parish Registries in the decade between 1985 and 1994, In Slovenia, 141 completed suicides of Croats were reported in the same decade by the Institute of Public Health of Republic of Slovenia.
+   Results. The suicide rate and method of suicide in the Croatian immigrant group in Slovenia (26.01/100,000/year; 60% of hanging) converged towards those of the host country (31.43/100,000/year; 76% of hanging), perhaps as a function of the years since migration from Croatia (22.53/100,000/year, 42% of hanging). Somewhat higher male-female ratio in this immigration group (3.55) could be explained by their lower social status. Surprisingly low suicide rate was calculated for the immigration group in Australia (3.10/100,000/year).
+   Conclusion. Croat immigrants to Australia have the lowest suicide rate, but the highest male-female suicide ratio, which could be a consequence of underreporting of suicides by Croatian Catholic Centers in Australia. Different suicide data sources can be a source of significant bias in cross-cultural comparison of suicide behavior.
+C1 Rijeka Univ, Ctr Hosp, Dept Psychiat, Rijeka 51000, Croatia.
+   SGDP Res Ctr, Inst Psychiat Maudsley, London, England.
+C3 University of Rijeka; University of London; King's College London
+RP Pavlovic, E (corresponding author), Rijeka Univ, Ctr Hosp, Dept Psychiat, Brace Branchetta 20, Rijeka 51000, Croatia.
+EM edopav@excite.com
+NR 33
+TC 10
+Z9 10
+U1 0
+U2 4
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD DEC
+PY 2001
+VL 42
+IS 6
+BP 669
+EP 672
+PG 4
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 515UG
+UT WOS:000173514600014
+PM 11740852
+DA 2023-12-06
+ER
+
+PT J
+AU Radic, MS
+   Hrabak-Zerjavic, V
+   Jelavic, M
+AF Radic, MS
+   Hrabak-Zerjavic, V
+   Jelavic, M
+TI Epidemiological review of suicides in Croatia
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 Natl Publ Hlth Inst, Chron Noncomunicable Dis Epidemiol Serv, Zagreb, Croatia.
+EM maja.silobrcic-radic@hzjz.hr
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2005
+VL 15
+SU 1
+BP 120
+EP 121
+PG 2
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 001UI
+UT WOS:000234567800315
+DA 2023-12-06
+ER
+
+PT J
+AU Bocina, I
+   Nincevic, J
+   Tripkovic, I
+AF Bocina, Ivana
+   Nincevic, Jasna
+   Tripkovic, Ingrid
+TI SUICIDES IN SPLIT AND DALMATIA COUNTY, CROATIA, 2004-2013
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+C1 [Bocina, Ivana; Nincevic, Jasna; Tripkovic, Ingrid] Publ Hlth Inst Split & Dalmatia Cty, Split, Croatia.
+OI Nincevic, Jasna/0000-0002-3891-8306
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD SEP
+PY 2016
+VL 22
+SU 2
+MA 566
+BP A203
+EP A204
+DI 10.1136/injuryprev-2016-042156.566
+PG 2
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EZ9RF
+UT WOS:000405066801252
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Bosnar, A
+   Stemberga, V
+   Coklo, M
+   Koncar, GZ
+   Definis-Gojanovic, M
+   Sendula-Jengic, V
+   Katic, P
+AF Bosnar, A
+   Stemberga, V
+   Coklo, M
+   Koncar, GZ
+   Definis-Gojanovic, M
+   Sendula-Jengic, V
+   Katic, P
+TI Suicide and the war in Croatia
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article; Proceedings Paper
+CT 12th International Meeting on Forensic Medicine Alpe Adria Pannonia
+CY MAY 29-31, 2003
+CL Rogaska Slatina, SLOVENIA
+DE Croatia; suicide; war
+ID RISK-FACTORS; ASSOCIATION
+AB Analyzing data from the Institute of Forensic Medicine (IFM) in Rijeka, a total of 853 suicides were recorded in a 15 years period (1986-2000). Quantitative and qualitative features of suicides were analyzed in three intervals: pre-wartime, wartime and post-wartime. In the wartime period (1991-1995), the suicide rate increased by 20.9% in comparison with the pre-war period. In the post-wartime period, the suicide rate dropped by 26.2% in comparison with the war period. The results show a significant increase in suicide rates in the wartime. During the wartime period, a large number of suicide victims under the age of forty increased-45.3% in comparison with the pre-war period and 56.6% in comparison with the post-war period. The use of firearms as a means of committing suicide quadrupled during the war in comparison with the pre-war period. The level of alcohol intoxication of perpetrators at the moment of suicide significantly increased in the wartime period. War had a direct impact on quantitative and qualitative characteristics of suicides in Croatia. (C) 2004 Elsevier Ireland Ltd. All rights reserved.
+C1 Fac Med Rijeka, Inst Forens Med, Rijeka 51000, Croatia.
+   Fac Med Rijeka, Dept Pathol, Rijeka 51000, Croatia.
+   Clin Hosp Split, Dept Forens Pathol, Split 21000, Croatia.
+   Psychiat Hosp Kampor Rab, Rab 51280, Croatia.
+C3 University of Rijeka; University of Rijeka; University of Split;
+   University of Rijeka
+RP Bosnar, A (corresponding author), Fac Med Rijeka, Inst Forens Med, Braca Branchetta 20, Rijeka 51000, Croatia.
+EM alanbosnar@yahoo.com
+RI Sendula Jengic, Vesna/U-2499-2018; Zamolo, Gordana/S-2515-2018
+OI Sendula Jengic, Vesna/0000-0003-2126-3793; Zamolo,
+   Gordana/0000-0002-7702-1876
+NR 14
+TC 16
+Z9 16
+U1 0
+U2 2
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+EI 1872-6283
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD JAN 17
+PY 2005
+VL 147
+SU S
+BP S13
+EP S16
+DI 10.1016/j.forsciint.2004.09.086
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Legal Medicine
+GA 902DD
+UT WOS:000227330800004
+PM 15694719
+DA 2023-12-06
+ER
+
+PT J
+AU Sklebar, D
+   Vrabec-Matkovic, D
+   Catipovic, M
+   Sklebar, I
+AF Sklebar, Duska
+   Vrabec-Matkovic, Dragica
+   Catipovic, Marija
+   Sklebar, Ivan
+TI Diagnoses of <i>Suicidum</i> and <i>Tentamen Suicidi</i> in The
+   Registers of Patients of The Kingdom of Yugoslavia's Banovina Public
+   General Hospital in Bjelovar from 1931-1940
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicide; suicide attempt; epidemiology; history; Bjelovar; Croatia
+ID SEROTONIN; BEHAVIOR; SYSTEM
+AB Suicide has been a subject of research of philosophy, ethics, religion and medicine for centuries. Attitudes towards it changed during the history, from condemnation of suicide as an unethical act to the theory of suicide as the utmost expression of a human as an individual. Croatia, with the annual suicide rate above 20 percent belongs to the high-risk countries. Suicide frequency varies from region to region, while the suicide rates for the County Bjelovarsko-bilogorska have been well above Croatia's average for decades. The aim of this retrospective study was to establish some epidemiological features of hospital patients with the diagnoses of "suicidum" and "tentamen suicidi" on the basis of records available in the registers of patients of General Hospital in Bjelovar in the period between 1931 and 1940. In the observed period, thirty-three people were treated in hospital for suicide attempt, seven of them dying. An equal number of men and women attempted suicide (13:13), while in the group of those who died, the ratio was more in favour of women (4:3). Suicide incidence was highest in November, followed by May and June, with the most common method for suicide being acetic acid.
+C1 [Sklebar, Duska] Bjelovar Gen Hosp, Dept Neurol, HR-43000 Bjelovar, Croatia.
+   [Vrabec-Matkovic, Dragica] Varazdinske Toplice Special Med Rehabil Hosp, Varazdinske Toplice, Croatia.
+   [Catipovic, Marija] Marija Catipovic Children Outpatient Clin, Bjelovar, Croatia.
+   [Sklebar, Ivan] Univ Zagreb, Sveti Duh Univ Hosp Ctr, Dept Anesthesiol Resuscitat & Intens Care, Zagreb 41000, Croatia.
+   [Sklebar, Ivan] Tech Coll Bjelovar, Study Nursing, Bjelovar, Croatia.
+C3 University of Zagreb
+RP Sklebar, D (corresponding author), Bjelovar Gen Hosp, Dept Neurol, Mihanoviceva 8, HR-43000 Bjelovar, Croatia.
+EM dsklebar@gmail.com
+RI Šklebar, Ivan/AAM-4802-2021
+OI catipovic, marija/0000-0003-4352-6419
+NR 18
+TC 2
+Z9 2
+U1 1
+U2 5
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD DEC
+PY 2012
+VL 36
+IS 4
+BP 1205
+EP 1209
+PG 5
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 076ZY
+UT WOS:000313998900017
+PM 23390812
+DA 2023-12-06
+ER
+
+PT J
+AU Kozaric-Kovacic, D
+   Grubisic-Ilic, M
+   Grubisic, F
+   Kovacic, Z
+AF Kozaric-Kovacic, D
+   Grubisic-Ilic, M
+   Grubisic, F
+   Kovacic, Z
+TI Suicide: Rates and methods before, during and after the war in Croatia
+   (1985-2000)
+SO NATIONAL MEDICAL JOURNAL OF INDIA
+LA English
+DT Editorial Material
+C1 Univ Zagreb, Dubrava Univ Hosp, Dept Psychiat, Natl Ctr Psychotrauma, Zagreb, Croatia.
+   Police Coll, Zagreb, Croatia.
+   Univ Zagreb, Sch Med, Zagreb 41001, Croatia.
+   Sch Med, Split, Croatia.
+C3 University of Zagreb; University of Zagreb; University of Split
+RP Kozaric-Kovacic, D (corresponding author), Univ Zagreb, Dubrava Univ Hosp, Dept Psychiat, Natl Ctr Psychotrauma, Zagreb, Croatia.
+EM dkozaric_kovacic@yahoo.com
+NR 14
+TC 6
+Z9 6
+U1 0
+U2 0
+PU ALL INDIA INST MEDICAL SCIENCES
+PI NEW DELHI
+PA ANSARI NAGAR, NEW DELHI 110 029, INDIA
+SN 0970-258X
+J9 NATL MED J INDIA
+JI Natl. Med. J. India
+PD NOV-DEC
+PY 2002
+VL 15
+IS 6
+BP 356
+EP 357
+PG 2
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 638LT
+UT WOS:000180573000012
+PM 12540072
+DA 2023-12-06
+ER
+
+PT J
+AU Cengija, M
+   Cuculic, D
+   Petaros, A
+   Sosa, I
+   Bosnar, A
+AF Cengija, Morana
+   Cuculic, Drazen
+   Petaros, Anja
+   Sosa, Ivan
+   Bosnar, Alan
+TI Homicide-suicide events in Southwestern Croatia, 1986-2009
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+ID MURDER-SUICIDE; DYADIC DEATH; EPIDEMIOLOGY; TYPOLOGY; WAR
+AB The aim of this study was to investigate the occurrence and characteristics of homicide-suicide events in Southwestern Croatia from 1986-2009 relying on autopsy reports of the Department of Forensic Medicine and Criminalistics, Rijeka and police records. A total of 17 cases involving 19 victims were identified. The perpetrators were most often men (82%), living in a spousal relationship with the victim. In 76.5% cases, suicide was committed immediately after homicide, and the same mean (most often an illegal firearm) was used for both. After examining the belongings of those involved in homicide-suicides, two factors differentiated our study from others, i.e. more victims and perpetrators were from the lower socioeconomic class and explosives were used in two homicide-suicide (12%) cases. The greater frequency of explosive used in homicide-suicide events may be a result of factors associated with the recent war fought in Croatia. These data prove the influence of sociological, historical and also political factors on the characteristics of a rare event such as homicide-suicide. Med Sci Law 2012; 52:217-222. DOI: 10.1258/msl.2012.012006
+C1 [Cengija, Morana; Cuculic, Drazen; Petaros, Anja; Sosa, Ivan; Bosnar, Alan] Rijeka Univ, Sch Med, Dept Forens Med & Criminalist, Rijeka 51000, Croatia.
+C3 University of Rijeka
+RP Cengija, M (corresponding author), Rijeka Univ, Sch Med, Dept Forens Med & Criminalist, Brace Branchetta 20, Rijeka 51000, Croatia.
+EM mengija@yahoo.com
+RI Cuculić, Dražen/Q-2620-2018; Petaros, Anja/JMP-5052-2023; Sosa,
+   Ivan/F-3562-2011; Sosa, Ivan/I-6327-2013
+OI Cuculić, Dražen/0000-0003-4056-0478; Petaros, Anja/0000-0001-7003-6488;
+   Sosa, Ivan/0000-0002-6869-3734
+NR 31
+TC 7
+Z9 7
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD OCT
+PY 2012
+VL 52
+IS 4
+BP 217
+EP 222
+DI 10.1258/msl.2012.012006
+PG 6
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 053QH
+UT WOS:000312287400007
+PM 22875795
+DA 2023-12-06
+ER
+
+PT J
+AU Bosnar, A
+   Stemberg, V
+   Zamolo, G
+   Stifter, S
+AF Bosnar, A
+   Stemberg, V
+   Zamolo, G
+   Stifter, S
+TI Increased suicide rate before and during the war in southwestern Croatia
+SO ARCHIVES OF MEDICAL RESEARCH
+LA English
+DT Article
+DE Croatia; war; suicide; forensic medicine
+AB Background. This paper analyzes the impact of war, with special regard for the intensity of changes in the suicide rate in wartime in the southwestern region of Croatia. The investigated region has an area of 7,993 km(2) with a population of 322,964. Most of the population lives in the city of Rijeka, the regional center.
+   Methods. During the 10-year period from 1986-1995, a total of 4,172 deaths were investigated at the Institute of Forensic Medicine in Rijeka. Official reports based on forensic autopsies performed on the corpses note 602 cases of suicide, which have been confirmed by police investigation and forensic examination. As the investigated 10-year period encompasses two distinctly specific intervals-the peacetime 1986-1990 interval and wartime 1991-1995-the differences in respective quantitative and qualitative features of suicides during these two intervals were analyzed.
+   Results. A total of 262 suicides were committed in peacetime at the rate of 16.22/100,000 inhabitants, as opposed to 340 suicides in wartime at a rate of 19.61/100,000 inhabitants. This increase in the wartime suicide rate was primarily due to the 83% increase in the number of suicide victims <40 years of age. The number of suicides by firearms in wartime was almost fourfold the number in peacetime.
+   Conclusions. Wartime conditions had a direct impact on the change of quantitative and qualitative features of suicides. (C) 2002 IMSS. Published by Elsevier Science Inc.
+C1 Inst Forens Med, Dept Forens Med, Rijeka, Croatia.
+   Univ Rijeka, Inst Pathol, Dept Pathol & Pathol Anat, Rijeka, Croatia.
+C3 University of Rijeka
+RP Bosnar, A (corresponding author), Univ Rijeka, Dept Forens Med, B Branchetta 20, Rijeka 51000, Croatia.
+RI Zamolo, Gordana/S-2515-2018; Stifter-vretenar, Sanja/S-5734-2018
+OI Zamolo, Gordana/0000-0002-7702-1876; Stifter-vretenar,
+   Sanja/0000-0001-8678-5483
+NR 11
+TC 8
+Z9 8
+U1 0
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0188-4409
+J9 ARCH MED RES
+JI Arch. Med. Res.
+PD MAY-JUN
+PY 2002
+VL 33
+IS 3
+BP 301
+EP 304
+AR PII S0188-4409(02)00364-8
+DI 10.1016/S0188-4409(02)00364-8
+PG 4
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine
+GA 552QF
+UT WOS:000175630500012
+PM 12031638
+DA 2023-12-06
+ER
+
+PT J
+AU Bosnar, A
+   Stemberga, V
+   Cuculic, D
+   Zamolo, G
+   Stifter, S
+   Coklo, M
+AF Bosnar, A
+   Stemberga, V
+   Cuculic, D
+   Zamolo, G
+   Stifter, S
+   Coklo, M
+TI Suicide rate after the 1991-1995 war in southwestern Croatia
+SO ARCHIVES OF MEDICAL RESEARCH
+LA English
+DT Article
+DE war; suicide; Croatia; forensic medicine
+AB Background. The paper analyzed the impact of war, the most pernicious of social evils, taking into consideration intensity of change in rate of suicide in the southwestern region of Croatia during the war and including three distinctly specific intervals, two peacetime-one pre-war (1986-1990) and one post-war (1996-2000) as well as the period of the war itself (1991-1995).
+   Methods. From 853 cases of suicide committed during the period under review, age and gender of suicide victims, level of alcohol intoxication at suicide, means used in committing suicide, and suicide rate in years under review were analyzed. Quantitative characteristics of suicides were compared with other types of violent deaths, e.g., homicides and accidents. Frequencies of different features are shown graphically. Statistica 4.0 for Windows 98 was used in data processing.
+   Results. Of a total of 2,925 violent deaths in the period under review (1986-2000), 29.16% or 853 suicides (29.1%) were recorded. A total of 513 suicides were committed in the peace-time period-262 prior to the war (1986-1990) and 251 after the war (19962000)-while 340 suicides were recorded during the war (1991-1995). Means of committing suicide also changed drastically during the war, when 64 cases of firearm use were recorded compared with 18 cases during the pre-war interval and 36 cases in the postwar interval.
+   Conclusions. Three parameters, namely, suicide rate, use of firearms, and intoxication, suffered the greatest changes in the war compared with the pre- and post-war period in the region under review. (C) 2004 IMSS. Published by Elsevier Inc.
+C1 Univ Rijeka, Fac Med, Dept Forens Med, Inst Forens Med, Rijeka 51000, Croatia.
+   Univ Rijeka, Inst Pathol, Dept Pathol, Rijeka, Croatia.
+C3 University of Rijeka; University of Rijeka
+RP Bosnar, A (corresponding author), Univ Rijeka, Fac Med, Dept Forens Med, Inst Forens Med, B Branchetta 20, Rijeka 51000, Croatia.
+EM alanbosnar@yahoo.com
+RI Cuculić, Dražen/Q-2620-2018; Stifter-vretenar, Sanja/S-5734-2018;
+   Zamolo, Gordana/S-2515-2018
+OI Cuculić, Dražen/0000-0003-4056-0478; Stifter-vretenar,
+   Sanja/0000-0001-8678-5483; Zamolo, Gordana/0000-0002-7702-1876
+NR 9
+TC 16
+Z9 16
+U1 0
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0188-4409
+EI 1873-5487
+J9 ARCH MED RES
+JI Arch. Med. Res.
+PD JUL-AUG
+PY 2004
+VL 35
+IS 4
+BP 344
+EP 347
+DI 10.1016/j.arcmed.2004.03.001
+PG 4
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA 852ZC
+UT WOS:000223794500014
+PM 15325510
+DA 2023-12-06
+ER
+
+PT J
+AU Grubisic-Ilic, M
+   Kozaric-Kovacic, D
+   Grubisic, F
+   Kovacic, Z
+AF Grubisic-Ilic, M
+   Kozaric-Kovacic, D
+   Grubisic, F
+   Kovacic, Z
+TI Epidemiological study of suicide in the Republic of Croatia - comparison
+   of war and post-war periods and areas directly and indirectly affected
+   by war
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Article
+DE suicide-epidemiology; cause of death; war; Croatia-epidemiology
+ID RATES; FRANCE
+AB We examined the differences in the suicide. characteristics between areas directly and indirectly affected by war activities and in war and post-war periods according to the following variables: suicide rate, sex, age and method of suicide. Analysis was done on 5349 suicides committed in the period 1993-1998 (war and post-war years). The suicide rates in the Republic of Croatia oscillated in the pre-war, war and post-war periods (1985-2000) but without significant differences. In the areas directly affected by war, the suicide rate was significantly lower than in other areas during the study period 1993-1998 (chi-square = 10.3245; P = 0.0017). The number of suicides in both sexes declined in the areas directly affected by war-more in men than in women; the difference between sexes was statistically significant (chi-square = 3.6697; P = 0,055). Middle- and old-aged people were the population with high suicide risk in both areas (t = 1.76; P = 0.078). There were significant differences in the methods of suicides between war and non-war areas (chi-square = 108.8473; P = 0.001). Firearms or explosive devices were the methods used more significantly for suicides in the areas directly affected by war than in other areas, whereas hanging was more frequently used in the areas indirectly affected by war. (C) 2002 Editions scientifiques et medicales Elsevier SAS.
+C1 Univ Split, Sch Med, Split, Croatia.
+   Police Coll, Police Acad, Dept Appl Psychol & Forens Med, Zagreb, Croatia.
+   Univ Zagreb, Univ Hosp Dubrava, Dept Psychiat, Natl Ctr Psychotrauma, Zagreb, Croatia.
+   Univ Zagreb, Sestre Milosrdnice Univ Hosp, Zagreb, Croatia.
+C3 University of Split; University of Zagreb; University of Zagreb
+RP Grubisic, F (corresponding author), Univ Split, Sch Med, Split, Croatia.
+EM frane.grubisic@zg.tel.hr
+NR 33
+TC 16
+Z9 16
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD SEP
+PY 2002
+VL 17
+IS 5
+BP 259
+EP 264
+DI 10.1016/S0924-9338(02)00679-X
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 606DK
+UT WOS:000178718100003
+PM 12381495
+DA 2023-12-06
+ER
+
+PT J
+AU Bosnar, A
+   Stemberga, V
+   Coklo, M
+   Grgurevic, E
+   Zamolo, G
+   Cucic, T
+   di Nunno, N
+AF Bosnar, A
+   Stemberga, V
+   Coklo, M
+   Grgurevic, E
+   Zamolo, G
+   Cucic, T
+   di Nunno, N
+TI War and suicidal deaths by explosives in southwestern Croatia
+SO ARCHIVES OF MEDICAL RESEARCH
+LA English
+DT Article
+DE forensic science; war; Croatia; suicide; explosives
+AB A total of 853 Suicides, from which 29 were committed by explosives, were recorded in the examined region during three distinctly specific intervals-peace time (1986-1990), wartime (1991-1995), and the postwar time (1996-2000). Suicides caused by explosives, without a terrorist background, from 1986-2000 were reviewed. Out of 29 suicides by explosives committed in the examined period, the age and sex of suicide victims and alcohol intoxication at the time of suicide were analyzed. In the prewar period no suicides by explosives were recorded, in distinction from wartime and the postwar period when 20 and 9 such suicides were recorded, respectively. Alcohol testing was performed in 76% of the cases. showing the highest alcohol concentration in suicides' blood in wartime with an average value of 1.58 g/kg of absolute alcohol. As to the suicides' sex, 93% of the victims were male and 7% female. The paper emphasizes the drastically increased number of suicides commited by explosives in wartime. (c) 2006 IMSS. Published by Elsevier Inc.
+C1 Univ Rijeka, Dept Forens Med, Fac Med, Inst Forens Med, Rijeka, Croatia.
+   Croatian Inst Publ Hlth, Rijeka, Croatia.
+   Univ Rijeka, Inst Pathol, Rijeka, Croatia.
+   Univ Bari, Inst Med Legale & Assicuraz, I-70121 Bari, Italy.
+C3 University of Rijeka; University of Rijeka; Universita degli Studi di
+   Bari Aldo Moro
+RP Bosnar, A (corresponding author), Univ Rijeka, Dept Forens Med, Fac Med, Inst Forens Med, B Branchetta 20, Rijeka, Croatia.
+EM alanbosnar@yahoo.com
+RI Di Nunno, Nunzio/L-6907-2015; Zamolo, Gordana/S-2515-2018
+OI Di Nunno, Nunzio/0000-0001-9409-1369; Zamolo,
+   Gordana/0000-0002-7702-1876
+NR 9
+TC 7
+Z9 7
+U1 0
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0188-4409
+J9 ARCH MED RES
+JI Arch. Med. Res.
+PD APR
+PY 2006
+VL 37
+IS 3
+BP 392
+EP 394
+DI 10.1016/j.arcmed.2005.06.007
+PG 3
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA 024HA
+UT WOS:000236184900016
+PM 16513491
+DA 2023-12-06
+ER
+
+PT J
+AU Ferencic, A
+   Sosa, I
+   Cuculic, D
+   Stemberga, V
+   Byard, RW
+AF Ferencic, Antun
+   Sosa, Ivan
+   Cuculic, Drazen
+   Stemberga, Valter
+   Byard, Roger W.
+TI Temporal Trends in Rainwater Tank Suicides in Rijeka, CroatiaA 30-year
+   Study
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; rainwater tanks; drowning; suicide; methods;
+   availability
+AB Although drowning in rainwater tanks is a generally rare phenomenon, this method for suicide has been observed in parts of Croatia. Review of autopsy records at the University of Rijeka, Croatia, was undertaken from 1987 to 2016 to examine this phenomenon. Of 469 drowning deaths, there were 35 suicides in rainwater tanks (7.5%). Overall drowning deaths showed no temporal trends. In contrast, suicidal drownings in rain water tanks showed a marked decline over the years, with 15 cases in 1987-1991, seven in 1992-1996, six in 1997-2001, six in 2002-2006, one in 2007-2011, and none in 2012-2016. Thus, suicidal drowning cases as a percentage of overall drownings dropped from 18% to zero (p<0.001). This study reports a very unusual method of suicide that may have occurred because of the ready availability of large water reservoirs in homes. The recent fall in numbers may relate to less reliance on domestic reservoirs of water.
+C1 [Ferencic, Antun; Sosa, Ivan; Cuculic, Drazen; Stemberga, Valter] Univ Rijeka, Fac Med, Dept Forens Med & Criminalist, Brace Branchetta 20, Rijeka 51000, Croatia.
+   [Byard, Roger W.] Univ Adelaide, Sch Med, Frome Rd, Adelaide, SA 5005, Australia.
+C3 University of Rijeka; University of Adelaide
+RP Byard, RW (corresponding author), Univ Adelaide, Sch Med, Frome Rd, Adelaide, SA 5005, Australia.
+EM roger.byard@sa.gov.au
+RI Ferenčić, Antun/AAY-6973-2021; Cuculić, Dražen/Q-2620-2018; Sosa,
+   Ivan/F-3562-2011; Byard, Roger/JDD-8801-2023; Ferenčić,
+   Antun/T-1920-2018; Sosa, Ivan/I-6327-2013
+OI Ferenčić, Antun/0000-0002-2166-7264; Cuculić,
+   Dražen/0000-0003-4056-0478; Ferenčić, Antun/0000-0002-2166-7264; Sosa,
+   Ivan/0000-0002-6869-3734
+NR 13
+TC 4
+Z9 4
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD JUL
+PY 2018
+VL 63
+IS 4
+BP 1168
+EP 1170
+DI 10.1111/1556-4029.13683
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA GL2HF
+UT WOS:000436939200021
+PM 29105777
+DA 2023-12-06
+ER
+
+PT J
+AU Kozaric-Kovacic, D
+   Grubisic-Ilic, M
+   Grubisic, F
+   Kovacic, Z
+AF Kozaric-Kovacic, D
+   Grubisic-Ilic, M
+   Grubisic, F
+   Kovacic, Z
+TI Epidemiological indicators of suicides in the Republic of Croatia
+SO DRUSTVENA ISTRAZIVANJA
+LA English
+DT Article
+ID RISK-FACTORS; COMPLETED SUICIDE; AGE; RATES; COMORBIDITY; PREVALENCE;
+   IDEATION; WORLD
+AB The aim of the study was to investigate possible shifts of the suicide rate during the last 15 years in the Republic of Croatia (1985-2000), the distribution of male and female suicides according to age and some other characteristics according to sex in the 1990-2000 period, and the distribution of male and female suicides during the war and post-war period. Data were collected from the Suicide Register of the Ministry of the Interior. According to the Register, 9987 suicides had been reported in 1990-2000. The suicide rates in the lost 15 years did not change as well as during the war and post-war period. The suicide rate was 19.26. The highest suicide rate was in the 15-30 age group and in those older than 65 years. The women were on average five years older than men. Hanging was the most frequent method of suicide (50%). Men used firearms and explosives more often than women. Medical problems were more often present among women than men, as opposed to alcoholism, which was more present among men. Almost 80% of the victims had previously verbally announced suicide. Prevention efforts should be focused on alcoholism, drug abuse, family crisis, reduction of firearms and explosives possession, and improvement of economic status among men, and toward previous suicide attempts, mental disorders and unemployment among women. Among both sex groups prevention must be directed toward the youth and the elderly and verbal suicide announcement must be seriously estimated.
+C1 Univ Zagreb, Dubrava Univ Hosp, Natl Ctr Psychotrauma, Dept Psychiat, Zagreb 10000, Croatia.
+   Police Coll, Zagreb, Croatia.
+   Univ Zagreb, Sch Med, Zagreb, Croatia.
+   Sch Med, Split, Croatia.
+C3 University of Zagreb; University of Zagreb; University of Split
+RP Kozaric-Kovacic, D (corresponding author), Univ Zagreb, Dubrava Univ Hosp, Natl Ctr Psychotrauma, Dept Psychiat, Avenija Gojka Suska 6, Zagreb 10000, Croatia.
+EM dkozaric_kovacic@yahoo.com
+NR 29
+TC 4
+Z9 4
+U1 0
+U2 3
+PU INST OF SOCIAL SCIENCES IVO PILAR
+PI ZAGREB
+PA MARULICEV TRG 19/1, 10001 ZAGREB, CROATIA
+SN 1330-0288
+J9 DRUS ISTRAZ
+JI Drus. Istraz.
+PD JAN-FEB
+PY 2002
+VL 11
+IS 1
+BP 155
+EP 170
+PG 16
+WC Social Issues; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Sociology
+GA 534PA
+UT WOS:000174593700008
+DA 2023-12-06
+ER
+
+PT J
+AU Marcikic, M
+   Ugljarevic, M
+   Dijanic, T
+   Dumencic, B
+   Pozgain, I
+AF Marcikic, M
+   Ugljarevic, M
+   Dijanic, T
+   Dumencic, B
+   Pozgain, I
+TI Epidemiological features of suicides in Osijek County, Croatia, from
+   1986 to 2000
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicide; epidemiology; forensic pathology; psychiatry
+ID HOMICIDE; YOUTH; RATES; AGE
+AB Suicide is a devastating tragedy associated with social, cultural and psychological factors. It takes approximately 1,060 lives in the Republic of Croatia each year We retrospectively reviewed all cases referred to in the Registrar office and Police Department at Osijek County from 1986 to 2000. The cases of suicide totaled 1,017. All of the cases were analyzed as to age, gender, marital status, occupation, place and time of suicide and method of suicide. The suicide rate for the entire population of the County averaged 20.5/100,000 inhabitants per annum. The age of the suicides ranged from 15 to 92. The male to female ratio was 2.1:1. The highest suicide incidence was among the age groups from 55 to 64 (19.27%), followed by age group from 45 to 54 (16.12%). The lowest suicide incidence was among the age group <19 (3.4%). The incidence in the group 85> years was also low (2.06%). The suicide was frequent among people who live alone: single, widowed, divorced (47.29%). Eighty percent of victims were found in surroundings familiar to them. These included various premises of their residences. The retired, the laborers and the unemployed (67.36%) were predominant among suicide victims. The most common methods of suicide were hanging (43010), followed by firearms (24%). No correlation was found with the day of the week or the month of the year The study showed a slightly increased rate of suicide, from 21 cases at the beginning of the investigation (in 1986) to 22.3/100,000 population fifteen years later (in 2000).
+C1 Univ Hosp Osijek, Dept Pathol & Forens Med, Osijek, Croatia.
+   Univ Hosp Osijek, Dept Psychiat, Osijek, Croatia.
+RP Marcikic, M (corresponding author), Univ Hosp Osijek, Dept Pathol & Forens Med, Osijek, Croatia.
+NR 26
+TC 14
+Z9 16
+U1 0
+U2 3
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RES, P O BOX 290, ULICA GRADA VUKOVARA 72/IV, 10000
+   ZAGREB, CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PY 2003
+VL 27
+SU 1
+BP 101
+EP 110
+PG 10
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 710LW
+UT WOS:000184682500015
+PM 12955899
+DA 2023-12-06
+ER
+
+PT B
+AU Loncar, C
+   Franic, T
+AF Loncar, Caslav
+   Franic, Tomislav
+BE Sher, L
+   Vilens, A
+TI MENTAL DISORDER, WAR AND SUICIDE
+SO WAR AND SUICIDE
+SE Psychiatry Theory Applications and Treatment
+LA English
+DT Article; Book Chapter
+ID SOUTHWESTERN CROATIA; PSYCHIATRIC-PATIENTS; MORTALITY; COHORT; RATES;
+   RISK
+AB Suicide was found to be significantly associated with different mental disorders, and people who suffer from mental disorder are more likely to attempt or commit this act. The war also was found to have impact on suicide rates. Patients who were hospitalized in any time of their live might represent distinct vulnerable group because of intensity of their disorder or lack of social network. Possible associations of war and suicide in this group of patients were in focus of this work. The association of war period with higher suicide rate in both genders was found with significantly stronger impact in females.
+C1 [Loncar, Caslav; Franic, Tomislav] Univ Hosp Split, Split, Croatia.
+C3 University of Split
+RP Loncar, C (corresponding author), Univ Hosp Split, Split, Croatia.
+RI Franić, Tomislav/H-1367-2017; Franic, Tomislav/AAW-7084-2021
+OI Franić, Tomislav/0000-0002-5240-7166; 
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 2
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60741-978-5
+J9 PSYCHIAT THEOR APPL
+PY 2009
+BP 57
+EP 62
+PG 6
+WC Psychiatry; Sociology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Psychiatry; Sociology
+GA BPH09
+UT WOS:000278838600005
+DA 2023-12-06
+ER
+
+PT J
+AU Marcikic, M
+   Vuksic, Z
+   Dumencic, B
+   Matuzalem, E
+   Cacinovic, V
+AF Marcikic, Mladen
+   Vuksic, Zeljka
+   Dumencic, Boris
+   Matuzalem, Elizabeta
+   Cacinovic, Vesna
+TI Double Suicide
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE suicide; double suicide; hanging
+ID PACTS; ENGLAND; WALES
+AB Most suicides are solitary and private; but few result from a pact between 2 people to die together. Two young men made a pact to commit suicide by hanging from a tree. It was the first case among 1320 single suicides in more than 2 decades in eastern Croatia. Double suicide between people of the same gander is an unusual event. It is predominantly made by male-female partners and by less violent methods. One of the 2 members experienced depression. He may have been the initiator and the other partner may have been the dependent. The initiator usually plans the act and stimulates the other party.
+   Whether the decision was evenly shared by both partners and initiative came from one of the two or it was result of 2 independent decisions remains open for analysis. Double suicide is also very interesting from the perspective of medical examiners. They need to make comprehensive postmortem examination to finally conclude the proper cause and the manner of death.
+C1 [Marcikic, Mladen; Vuksic, Zeljka; Dumencic, Boris; Matuzalem, Elizabeta; Cacinovic, Vesna] Univ Osijek, Fac Med, Osijek, Croatia.
+C3 University of JJ Strossmayer Osijek
+RP Marcikic, M (corresponding author), Univ Osijek, Fac Med, Osijek, Croatia.
+EM mladen.marcikic@os.htnet.hr
+NR 11
+TC 14
+Z9 15
+U1 2
+U2 6
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-7910
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD SEP
+PY 2011
+VL 32
+IS 3
+BP 200
+EP 201
+DI 10.1097/PAF.0b013e31821a553f
+PG 2
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine; Pathology
+GA 808DK
+UT WOS:000293956200003
+PM 21540722
+DA 2023-12-06
+ER
+
+PT J
+AU Hecimovic, H
+   Bosnjak, J
+   Demarin, V
+AF Hecimovic, Hrvoje
+   Bosnjak, Jelena
+   Demarin, Vida
+TI Prevalence of mood dysfunction in epilepsy patients in Croatia
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article; Proceedings Paper
+CT 2nd Croatian Congress of Neuroscience
+CY MAY 18-19, 2007
+CL Univ Zagreb, Croatian Inst Brain Res, Sch Med, Zagreb, CROATIA
+SP Croatian Soc Neurosci
+HO Univ Zagreb, Croatian Inst Brain Res, Sch Med
+DE epilepsy; mood; depression; suicide; Beck Depression Inventory; Zagreb
+   Epilepsy Center; Croatia
+ID QUALITY-OF-LIFE; MAJOR DEPRESSION; ANXIETY; PHENOMENOLOGY; COMMUNITY;
+   PEOPLE
+AB Fifty consecutive and consenting epilepsy patients from the Zagreb Epilepsy Center were examined for the presence of depressive symptoms using the Beck Depression Inventory (BDI). This questionnaire has been previously validated for use in the Croatian population. Mean age of the patients was 30.8 +/- 13.5 years, 60.4% were females. Majority of them were employed (72.9%) and single (62.5%), and 35.4% had a university degree. Most of them had complex partial seizures (n=40, 80%), and 6 (12%) were diagnosed with idiopathic generalized epilepsy. Assessment with the BDI showed that 33.3% of patients had recent depressive symptoms: 6.3% had mild depressive symptoms, 8.4% moderate and 18.6% severe depressive symptoms. Three patients (6.4%) attempted suicide in the past, two of them had current suicidal ideation, and all of them were severely depressed. This is the first and preliminary study assessing mood dysfunction in epilepsy patients in Croatia. Increased prevalence of depression in epilepsy patients suggests specific approach and need for early treatment.
+C1 [Hecimovic, Hrvoje; Bosnjak, Jelena; Demarin, Vida] Univ Hosp Sestre Milosrdnice, Zagreb Epilepsy Ctr, Dept Neurol, Zagreb, Croatia.
+RP Hecimovic, H (corresponding author), Univ Hosp Sestre Milosrdnice, Zagreb Epilepsy Ctr, Dept Neurol, Zagreb, Croatia.
+RI Hecimovic, Hrvoje/AAQ-2039-2020; Demarin, Vida/AAX-2395-2021
+OI Demarin, Vida/0000-0003-4942-259X; Hecimovic, Hrvoje/0000-0002-6567-8571
+NR 21
+TC 9
+Z9 9
+U1 0
+U2 4
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD JAN
+PY 2008
+VL 32
+SU 1
+BP 65
+EP 68
+PG 4
+WC Anthropology
+WE Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Anthropology
+GA 269VY
+UT WOS:000253679900011
+PM 18405060
+DA 2023-12-06
+ER
+
+PT J
+AU Kusevic, Z
+   Cusa, BV
+   Babic, G
+   Marcinko, D
+AF Kusevic, Zorana
+   Cusa, Bjanka Vuksan
+   Babic, Goran
+   Marcinko, Darko
+TI COULD ALEXITHYMIA PREDICT SUICIDE ATTEMPTS - A STUDY OF CROATIAN WAR
+   VETERANS WITH POST-TRAUMATIC STRESS DISORDER
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE alexithymia; suicide; post traumatic stress disorder; PTSD
+ID PTSD; AFGHANISTAN; IDEATION; IRAQ
+AB Background: To investigate the possibility if alexithymia could be used as a predictor of attempted suicide among patients suffering from post-traumatic stress disorder.
+   Subjects and methods: The study was based on 127 veterans from the 1991-1995 war in Croatia. All the patients involved in this study were previously diagnosed with PTSD. The questionnaires (socio-demographic questionnaire, Mississippi scale for combat related PTSD questionnaire, and 20-item Toronto Alexithymia Scale questionnaire) were administered by investigators.
+   Results: The results suggest that alexithymia was significantly associated with attempted suicide (P=0.020). Furthermore, alexithymia remained a significant predictor of an attempted suicide even in the multivariate regression model, which yielded an odds ratio (OR) of 2.87 (95% confidence intervals 1.18-7.00).
+   Conclusions: These results point out that alexithymia can be considered as a potential risk factor for suicide in this population, suggesting that it may also be used as an indicator of worsening psychological status and attempted suicide in other population groups with higher alexithymia prevalence.
+C1 [Kusevic, Zorana; Marcinko, Darko] Univ Zagreb, Sch Med, Zagreb 41001, Croatia.
+   [Kusevic, Zorana] Univ Hosp Ctr Zagreb, Dept Psychol Med, Kispaticeva 12, Zagreb 10000, Croatia.
+   [Cusa, Bjanka Vuksan] Univ Osijek, Sch Med, Osijek, Croatia.
+   [Cusa, Bjanka Vuksan; Marcinko, Darko] Univ Hosp Ctr Zagreb, Dept Psychiat, Zagreb, Croatia.
+C3 University of Zagreb; University of Zagreb; University of JJ Strossmayer
+   Osijek; University of Zagreb
+RP Kusevic, Z (corresponding author), Univ Hosp Ctr Zagreb, Dept Psychol Med, Kispaticeva 12, Zagreb 10000, Croatia.
+EM zkusevic@kbc-zagreb.hr
+NR 25
+TC 13
+Z9 16
+U1 0
+U2 10
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PY 2015
+VL 27
+IS 4
+BP 420
+EP 423
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DE5BZ
+UT WOS:000370647100012
+PM 26609656
+DA 2023-12-06
+ER
+
+PT J
+AU Stemberga, V
+   Bralic, M
+   Coklo, M
+   Cuculic, D
+   Bosnar, A
+AF Stemberga, Valter
+   Bralic, Marina
+   Coklo, Miran
+   Cuculic, Drazen
+   Bosnar, Alan
+TI Suicidal Drowning in Southwestern Croatia <i>A 25-Year Review</i>
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE drowning; forensic science; suicide; water wells
+AB We designed a retrospective study to analyze suicidal drowning deaths occurring between 1981 and 2005. During the study period there were 134 cases of suicidal drowning accounting 10% of all suicides, and 31% of all drowning deaths. Of the 134 drowning suicides, 76 (57%) incidents occurred in the sea, 46 (34%) in water wells, 8 (6%) in rivers, and 4 (3%) in bathtubs. During the study period, cases of suicidal drowning were not identified in males and females under the age of 20. In females aged 65 years and older, drowning represents the most common type of suicide. Commonly, the victims were sober at the time of the incident. Cases of suicidal drowning committed in water wells are unexpectedly high, considering abundance of salt water.
+C1 [Stemberga, Valter; Coklo, Miran; Cuculic, Drazen; Bosnar, Alan] Univ Rijeka, Dept Forens Med, Sch Med, Rijeka 51000, Croatia.
+   [Bralic, Marina] Univ Hosp Rijeka, Dept Neurol, Rijeka, Croatia.
+C3 University of Rijeka; University of Rijeka
+RP Stemberga, V (corresponding author), Univ Rijeka, Dept Forens Med, Sch Med, B Branchetta 20, Rijeka 51000, Croatia.
+EM valter.stemberga@pu.t-com.hr
+RI Cuculić, Dražen/Q-2620-2018; Bralic, Marina/AAH-2886-2022; Bralic,
+   Marina/AFM-0513-2022
+OI Cuculić, Dražen/0000-0003-4056-0478; Bralic, Marina/0000-0003-4206-2405
+NR 9
+TC 20
+Z9 20
+U1 2
+U2 3
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0195-7910
+EI 1533-404X
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD MAR
+PY 2010
+VL 31
+IS 1
+BP 52
+EP 54
+DI 10.1097/PAF.0b013e3181c215c8
+PG 3
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine; Pathology
+GA 564XD
+UT WOS:000275250900012
+PM 19918158
+DA 2023-12-06
+ER
+
+PT J
+AU Dodig-Curkovic, K
+   Curkovic, M
+   Radic, J
+   Degmecic, D
+   Filekovic, P
+AF Dodig-Curkovic, Katarina
+   Curkovic, Mario
+   Radic, Josipa
+   Degmecic, Dunja
+   Filekovic, Pavo
+TI Suicidal Behavior and Suicide among Children and Adolescents-Risk
+   Factors and Epidemiological Characteristics
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE suicides; youngsters; self-harm behaviors; risk factors
+ID DELIBERATE SELF-HARM; INJURIOUS-BEHAVIOR; FAMILY-HISTORY; SUBSTANCE USE;
+   CHILDHOOD; ABUSE; ANTIDEPRESSANTS; ASSOCIATIONS; DISORDERS; GENETICS
+AB In last decade suicide attempts and suicides among youngsters are increasing greatly and are one of the leading causes of mortality in this age group. Epidemiological data are pointing on more frequent trend of self-destructive behavior among youngsters in the world as well as in our country. Risk factors which influence on increasing number of suicide attempts and suicides in this age are different in etiology: interference of genetic influences, family dynamics and external environment (school, friends, social environment, peers, television, video, and internet). Croatia as a country in transition is also following trends in the world according to epidemiological data, what is for sure great challenge for all who participate in dealing with youngsters, especially psychiatric services. In the planning of treatment is very important to include family with intention to accomplish optimal therapeutic effect. Also, it is very important to warn parents on their part of responsibility in upbringing and developing of their adolescent.
+C1 [Dodig-Curkovic, Katarina] Osijek Univ, Ctr Hosp, Univ Dept Child & Adolescent Psychiat, Osijek 31000, Croatia.
+   [Curkovic, Mario] Osijek Hlth Ctr, Family Med Off, Osijek, Croatia.
+   [Radic, Josipa] Split Univ, Ctr Hosp, Univ Dept Internal Med, Split, Croatia.
+   [Degmecic, Dunja; Filekovic, Pavo] Osijek Univ, Ctr Hosp, Univ Dept Psychiat, Osijek 31000, Croatia.
+C3 University of JJ Strossmayer Osijek; University of Split; University of
+   JJ Strossmayer Osijek
+RP Dodig-Curkovic, K (corresponding author), Osijek Univ, Ctr Hosp, Univ Dept Child & Adolescent Psychiat, J Huttlera 4, Osijek 31000, Croatia.
+EM kdodig@yahoo.com
+RI Radic, Josipa/H-3321-2017; Radic, Mislav/H-3306-2017
+OI Radic, Josipa/0000-0003-2645-7597; Radic, Mislav/0000-0003-0350-6800
+NR 68
+TC 11
+Z9 12
+U1 0
+U2 26
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD JUN
+PY 2010
+VL 34
+IS 2
+BP 771
+EP 777
+PG 7
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 634IV
+UT WOS:000280575200070
+PM 20698169
+DA 2023-12-06
+ER
+
+PT J
+AU Dumencic, B
+   Rajc, J
+   Marjanovic, K
+   Pozgain, I
+   Pavokovic, D
+AF Dumencic, Boris
+   Rajc, Jasmina
+   Marjanovic, Ksenija
+   Pozgain, Ivan
+   Pavokovic, Dino
+TI IMPACT OF METEOROLOGICAL FACTORS ON SUICIDE ATTEMPTS AND COMPLETED
+   SUICIDES IN CROATIA, OSIJEK-BARANJA COUNTY
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE suicide; suicide attempt; meteorological parameters
+ID VIOLENT; RATES; PRESSURE
+AB Backgraund: Significant changes in the values of temperature, pressure, humidity and cloud cover can participate in the human behaviour including the mood disorders (especially depression and bipolar disorders) which can trigger suicidal ideas or their realization. The aim of this study is to estimate the connection between the aforesaid weather changes and a committed suicide along with the suicide attempts.
+   Subjects and methods: We conducted a retrospective study in Osijek-Baranja County in the period from 2000 to 2011. Meteorological, demographic and epidemiological analysis was performed on 569 suicides and 478 suicide attempts (total of 1047 events). We analyzed the values of the above-mentioned meteorological parameters at the exact time when the event had happened, as well as three days before the event and one day after the event, comparing it with the monthly mean values.
+   Results: The results showed that the changes of temperature and pressure were significantly related with the suicides i.e. suicide attempts in general, while by separating genders, a connection with all examined meteorological factors was found by woman whereas men expressed significance only in the matter of temperature changes.
+   Conclusions: Despite the fact that suicidality is caused by numerous factors, this study confirms that a sudden change of weather in the days preceding the suicide can be a trigger to suicidal behaviour. The study also suggests that in the matter of suicidal behaviour, female population is more susceptible to sudden weather changes.
+C1 [Dumencic, Boris; Rajc, Jasmina; Marjanovic, Ksenija; Pozgain, Ivan] Univ Osijek, Fac Med, J Huttlera 4, Osijek 31000, Croatia.
+   [Dumencic, Boris; Rajc, Jasmina; Marjanovic, Ksenija] Osijek Univ Hosp, Clin Dept Pathol & Forens Med, Osijek, Croatia.
+   [Pozgain, Ivan] Osijek Univ Hosp, Clin Dept Psychiat, Osijek, Croatia.
+   [Pavokovic, Dino] Gen Hosp Virovitica, Virovitica, Croatia.
+C3 University of JJ Strossmayer Osijek
+RP Dumencic, B (corresponding author), Univ Osijek, Fac Med, J Huttlera 4, Osijek 31000, Croatia.
+EM bdumencic29@gmail.com
+NR 32
+TC 9
+Z9 9
+U1 0
+U2 1
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PY 2019
+VL 31
+IS 4
+BP 405
+EP 412
+DI 10.24869/psyd.2019.405
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA JK6IW
+UT WOS:000494946800004
+PM 31698396
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Stasevic, I
+   Derk, D
+   Poda, I
+AF Stasevic, Ina
+   Derk, Dubravko
+   Poda, Ilda
+TI Violent Death and Other Forms of Violence in the World and the Republic
+   of Croatia
+SO POLICIJA I SIGURNOST-POLICE AND SECURITY
+LA Croatian
+DT Article
+DE violent deaths; forms of violence; causes of violence; indicators;
+   prevention
+ID CHILD SEXUAL-ABUSE; JUVENILE-DELINQUENCY; PREVENTION; PREVALENCE
+AB This paper aims to present the significance of violent deaths in the Republic of Croatia with a special focus on deaths because of violence and to present the main causes of violence and preference. Violence incidence data in Croatia are compared to those from surrounding countries, as well as to data from other European countries and the world. This paper analyses the data for the period from 2015 to 2018. An average of 2,850 violent deaths is recorded annually in Croatia, of which 74% are accidents (death rate is 50 / 100,000). Accidents include frequent falls (30 / 100,000), followed by traffic accidents (10 / 100,000). The standardized mortality rate caused by violence in Croatia is low (1.6 / 100,000), while the suicide rate is medium-high (12.1 / 100,000). Among the killings, half refer to women killed by partners. Due to violence in families, the police annually report about 10,000 offences and about 5,000 criminal offences, of which 1,600 pertain to crimes against life and body. The number of reported crimes against sexual freedom and sexual abuse and exploitation of a child in the Republic of Croatia shows fluctuations from 775 (2015) to 836 (2018). Prevention measures and the need for a multidisciplinary approach are also discussed.
+   The paper emphasized the importance of creating a positive social environment, defining clear preventive social policies and the inclusion of all available potentials.
+C1 [Stasevic, Ina; Derk, Dubravko] Evropski Univ, Fak Zdravstvenih Nauka, Brcko Dist, Bosnia & Herceg.
+   [Poda, Ilda] Minist Rada & Socijalnih Poslova & Jednakih Moguc, Tirana, Albania.
+RP Stasevic, I (corresponding author), Evropski Univ, Fak Zdravstvenih Nauka, Brcko Dist, Bosnia & Herceg.
+NR 69
+TC 0
+Z9 0
+U1 1
+U2 2
+PU MINISTRY INTERIOR REPUBLIC CROATIA, POLICE ACAD
+PI ZAGREB
+PA AV GOJKA SUSKA 1, ZAGREB, 10090, CROATIA
+SN 1330-0229
+EI 1848-428X
+J9 POLIC SIGUR
+JI Polic. Sigur.
+PY 2019
+VL 28
+IS 4
+BP 557
+EP 572
+PG 16
+WC Criminology & Penology
+WE Emerging Sources Citation Index (ESCI)
+SC Criminology & Penology
+GA JX4UJ
+UT WOS:000503730900008
+DA 2023-12-06
+ER
+
+PT J
+AU Coklo, M
+   Stemberga, V
+   Cuculic, D
+   Sosa, I
+   Bosnar, A
+AF Coklo, Miran
+   Stemberga, Valter
+   Cuculic, Drazen
+   Sosa, Ivan
+   Bosnar, Alan
+TI Toxicology and methods of committing suicide other than overdose
+SO MEDICAL HYPOTHESES
+LA English
+DT Article
+ID SOUTHWESTERN CROATIA; ALCOHOL; WAR
+AB Suicide represents a serious public health problem throughout the world. Toxicology plays a crucial role in the investigation of suicide. Psychoactive substances are recognized in the literature as the main suicide-generating stimuli. Ethanol is known to produce disinhibition and increased self-confidence. Other psychoactive substances can predominantly be central nervous system (CNS) stimulants or depressors. In cases of overdose as a method of suicide, the link between toxicology and the method of suicide is a matter of common sense and requires no additional explanation. On the other hand, in cases of non-overdose suicides this link is much more complex, and has not yet been extensively elucidated.
+   We hypothesize a close relationship between toxicology and the choice of the method of committing suicide other than overdose. Negative findings may reflect either poor prescribed drug compliance in psychiatric patients, or suggest the role of other (non-toxicological) suicide-generating stimuli. On the other hand, positive findings influence the choice of the suicide method in a way that it depends on the prevalence of either stimulation or depression of the CNS, and consequent degree of behavioral aggression. Simplified, if the prevailing effect is CNS stimulation (with an increase in aggression), the method would be more drastic and more immediately fatal one, while with the CNS depression the method would be less immediately fatal and less drastic.
+   There are only a few studies on the prevalence of psychoactive substances amongst completed suicides and even fewer studies have attempted to examine the relationship between substances used and the circumstances surrounding suicide.
+   In evaluation of our hypothesis, we suggest thorough studies of toxicology and the choice of methods of committing suicides other than overdose. The scientific knowledge gained this way will eventually make toxicology a useful target in suicide prevention, especially amongst younger population. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Coklo, Miran; Stemberga, Valter; Cuculic, Drazen; Sosa, Ivan; Bosnar, Alan] Rijeka Univ, Sch Med, Dept Forens Med, Rijeka 51000, Croatia.
+C3 University of Rijeka
+RP Coklo, M (corresponding author), Rijeka Univ, Sch Med, Dept Forens Med, B Branchetta 20, Rijeka 51000, Croatia.
+EM mcoklo@yahoo.com
+RI Šoša, Ivan/I-6327-2013; Cuculić, Dražen/Q-2620-2018; Sosa,
+   Ivan/F-3562-2011
+OI Šoša, Ivan/0000-0002-6869-3734; Cuculić, Dražen/0000-0003-4056-0478; 
+FU Ministry of Science, Education and Sports of the Republic of Croatia
+   [062-0000000-0073]
+FX This paper is published as a part of the research Project No.
+   062-0000000-0073 financed by the Ministry of Science, Education and
+   Sports of the Republic of Croatia.
+NR 11
+TC 3
+Z9 3
+U1 0
+U2 8
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0306-9877
+J9 MED HYPOTHESES
+JI Med. Hypotheses
+PD NOV
+PY 2009
+VL 73
+IS 5
+BP 809
+EP 810
+DI 10.1016/j.mehy.2009.03.047
+PG 2
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA 516QS
+UT WOS:000271558000041
+PM 19447567
+DA 2023-12-06
+ER
+
+PT J
+AU Dudeck, M
+   Drenkhahn, K
+   Spitzer, C
+   Barnow, S
+   Kopp, D
+   Kuwert, P
+   Freyberger, HJ
+   Dünkel, F
+AF Dudeck, Manuela
+   Drenkhahn, Kirstin
+   Spitzer, Carsten
+   Barnow, Sven
+   Kopp, Daniel
+   Kuwert, Philipp
+   Freyberger, Harald J.
+   Duenkel, Frieder
+TI Traumatization and mental distress in long-term prisoners in Europe
+SO PUNISHMENT & SOCIETY-INTERNATIONAL JOURNAL OF PENOLOGY
+LA English
+DT Article
+DE long-term imprisonment; mental health; psychopathology; PTSD; suicide
+ID POSTTRAUMATIC-STRESS-DISORDER; PSYCHIATRIC MORBIDITY; JAIL DETAINEES;
+   SEXUAL-ABUSE; PREVALENCE; TRAUMA; HEALTH; RISK; METAANALYSIS;
+   PSYCHOPATHY
+AB This article investigates the prevalence of traumatization and mental distress in a sample of 1055 male European long-term prisoners as part of a wider study of the living conditions of prisoners serving sentences of at least five years in Belgium, Croatia, Denmark, England, Finland, France, Germany, Lithuania, Poland, Spain and Sweden. Data were collected in a written survey using the Posttraumatic Diagnostic Scale (PDS), the Brief Symptom Inventory (BSI) as well as questions on attempted suicide and auto-aggressive behaviour. Participants experienced a mean of three traumatic events, with 14 per cent developing a Posttraumatic Stress Disorder (PTSD) subsequently. In each national sample, more than 50 per cent of the participants were in need of treatment because of psychological symptoms and nearly one-third had attempted suicide.
+C1 [Dudeck, Manuela] Ernst Moritz Arndt Univ Greifswald, Klin & Poliklin Psychiat & Psychotherapie, Hanseklinikum Stralsund, D-18435 Stralsund, Germany.
+   [Drenkhahn, Kirstin] Free Univ Berlin, Sch Law, D-1000 Berlin, Germany.
+   [Spitzer, Carsten] Univ Med Ctr Hamburg Eppendorf, Dept Psychosomat Med & Psychotherapy, Hamburg, Germany.
+   [Barnow, Sven] Heidelberg Univ, Head Sect Clin Psychol, D-6900 Heidelberg, Germany.
+   [Kopp, Daniel; Freyberger, Harald J.] Ernst Moritz Arndt Univ Greifswald, Clin Psychiat & Psychotherapy, D-18435 Stralsund, Germany.
+   [Kuwert, Philipp] Ernst Moritz Arndt Univ Greifswald, Dept Psychiat, D-18435 Stralsund, Germany.
+C3 Universitat Greifswald; Free University of Berlin; University of
+   Hamburg; University Medical Center Hamburg-Eppendorf; Ruprecht Karls
+   University Heidelberg; Universitat Greifswald; Universitat Greifswald
+RP Dudeck, M (corresponding author), Ernst Moritz Arndt Univ Greifswald, Klin & Poliklin Psychiat & Psychotherapie, Hanseklinikum Stralsund, Rostocker Chaussee 70, D-18435 Stralsund, Germany.
+EM manuela.dudeck@uni-greifswald.de
+RI Duenkel, Frieder/AAI-1222-2019
+NR 65
+TC 34
+Z9 44
+U1 1
+U2 36
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1462-4745
+EI 1741-3095
+J9 PUNISHM SOC
+JI Punishm. Soc.
+PD OCT
+PY 2011
+VL 13
+IS 4
+BP 403
+EP 423
+DI 10.1177/1462474511414782
+PG 21
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 839US
+UT WOS:000296395500002
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Henderson, R
+   Stark, C
+   Humphry, RW
+   Selvaraj, S
+AF Henderson, Rob
+   Stark, Cameron
+   Humphry, Roger W.
+   Selvaraj, Sivasubramaniam
+TI Changes in Scottish suicide rates during the Second World War
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID SOUTHWESTERN CROATIA; UNITED-STATES; WAR
+AB Background: It is believed that total reported suicide rates tend to decrease during wartime. However, analysis of suicide rates during recent conflicts suggests a more complex picture, with increases in some age groups and changes in method choice. As few age and gender specific analyses of more distant conflicts have been conducted, it is not clear if these findings reflect a change in the epidemiology of suicide in wartime. Therefore, we examined suicide rates in Scotland before, during and after the Second World War to see if similar features were present.
+   Methods: Data on deaths in Scotland recorded as suicide during the period 1931-1952, and population estimates for each of these years, were obtained from the General Register Office for Scotland. Using computer spreadsheets, suicide rates by gender, age and method were calculated. Forward stepwise logistic regression was used to assess the effect of gender, war and year on suicide rates using SAS V8.2.
+   Results: The all-age suicide rate among both men and women declined during the period studied. However, when this long-term decline is taken into account, the likelihood of suicide during the Second World War was higher than during both the pre-War and post-War periods. Suicide rates among men aged 15-24 years rose during the Second World War, peaking at 148 per million (41 deaths) during 1942 before declining to 39 per million (10 deaths) by 1945, while the rate among men aged 25-34 years reached 199 per million (43 deaths) during 1943 before falling to 66 per million (23 deaths) by 1946. This was accompanied by an increase in male suicides attributable to firearms and explosives during the War years which decreased following its conclusion.
+   Conclusion: All age male and female suicide rates decreased in Scotland during World War II. However, once the general background decrease in suicide rates over the whole period is accounted for, the likelihood of suicide among the entire Scottish population during the Second World War was elevated. The overall decrease in suicide rates concealed large increases in younger male age groups during the War years, and an increase in male suicides recorded as due to the use of firearms. We conclude that the effects of war on younger people, reported in recent conflicts in Central Europe, were also seen in Scotland during the Second World War. The results support the findings of studies of recent conflicts which have found a heterogeneous picture with respect to age specific suicide rates during wartime.
+C1 Dept Publ Hlth, NHS Highland, Inverness IV2 3HG, Scotland.
+   Univ Aberdeen, Ctr Rural Hlth, Inverness IV2 3ED, Scotland.
+   Scottish Agr Coll, Epidemiol Res Unit, Inverness IV2 4JZ, Scotland.
+C3 University of Aberdeen; Scottish Agricultural College
+RP Stark, C (corresponding author), Dept Publ Hlth, NHS Highland, Assynt House,Beechwood Pk, Inverness IV2 3HG, Scotland.
+EM robert.henderson@hhb.scot.nhs.uk; c.stark@abdn.ac.uk;
+   roger.humphry@scri.ac.uk; s.selvaraj@abdn.ac.uk
+RI Humphry, Roger W/A-2203-2014; Stark, Cameron R/D-5874-2017
+OI Humphry, Roger W/0000-0003-3987-0284; Stark, Cameron
+   R/0000-0003-1255-7415
+NR 31
+TC 22
+Z9 22
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUN 23
+PY 2006
+VL 6
+AR 167
+DI 10.1186/1471-2458-6-167
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 074HM
+UT WOS:000239803300001
+PM 16796751
+OA Green Published, gold, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Fang, YX
+   He, M
+   Lin, JY
+   Ma, KJ
+   Zhao, H
+   Hong, Z
+   Li, BX
+AF Fang, You-Xin
+   He, Meng
+   Lin, Jun-Yi
+   Ma, Kai-Jun
+   Zhao, Hai
+   Hong, Zhen
+   Li, Bei-Xu
+TI Suicidal Drownings with Psychiatric Disorders in Shanghai: A
+   Retrospective Study from 2010.1 to 2014.6
+SO PLOS ONE
+LA English
+DT Article
+ID SEASONAL-VARIATION; SCHIZOPHRENIA; RISK; MORTALITY; PSYCHOSIS; AUTOPSY;
+   CHINA
+AB Psychiatric disorders exhibited in 13% suicidal drownings in Southwestern Croatia and 63% in Milan, but in China is unknown. This study is committed to outline the feature of a suicidal drowning with psychiatric disorder, show mental status and reveal key factor to high incidence in China. Immersed corpses were handled by SPSBMPH in its jurisdiction range. Half of immersed corpses were suicidal, and nearly half of suicides had psychiatric disorders. 104 suicidal drownings with psychiatric disorders cases from 2010.1 to 2014.6 were reviewed (21.5% of all immersed corpses, 42.1% of suicides). Most victims clothed normally, and only 2 fastened attached weights. Male victims were more and younger than female. Psycho were prone to commit suicidal drowning in warm and hot season. Psycho were prone to choose familiar area to commit suicide, 45 decedents were found in their familiar areas. Suicidal drowings were occult without suicide attempts, suicide note or abnormal clothing, but showed abnormal mental or behavior changes prior to suicide. The three leading psychiatric disorders were depression (33.7%), depression status (30.8%) and schizophrenia (20.2%). Only 44.2% decedents had visited psychiatric disorder specialist, and merely less than 10% patients could adhere to regular medication. No regular medication on psychiatric disorder was the key factor contributing to high incidence of suicide in psycho. Professional psychiatric and psychological intervention should be taken as soon as possible when they had psychiatric symptoms or suffered misfortune. Guardians should be alert to patients' abnormality to detect their suicidal ideation and intervene, especially in warm season.
+C1 [Fang, You-Xin; Hong, Zhen] Fudan Univ, Huashan Hosp, Dept Neurol, Shanghai 200433, Peoples R China.
+   [He, Meng; Lin, Jun-Yi; Li, Bei-Xu] Fudan Univ, Sch Basic Med Sci, Dept Forens Med, Shanghai 200433, Peoples R China.
+   [Ma, Kai-Jun] Shanghai Publ Secur Bur, Inst Forens Sci, Shanghai Key Lab Crime Scene Evidence, Shanghai, Peoples R China.
+   [Zhao, Hai] Shanghai Publ Secur Bur, Shanghai Publ Secur Bur Marine Police Headquarter, Shanghai, Peoples R China.
+C3 Fudan University; Fudan University; Institute of Forensic Science
+   Ministry of Justice PRC
+RP Li, BX (corresponding author), Fudan Univ, Sch Basic Med Sci, Dept Forens Med, Shanghai 200433, Peoples R China.
+EM libeixu@gmail.com
+FU Funds for Youth in Department of Forensic Medicine, School of Basic
+   Medical Sciences, Fudan University [FY2014-04]
+FX This study is supported by Funds for Youth in Department of Forensic
+   Medicine, School of Basic Medical Sciences, Fudan University
+   (FY2014-04). The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+NR 24
+TC 6
+Z9 7
+U1 1
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 27
+PY 2015
+VL 10
+IS 4
+AR e0121050
+DI 10.1371/journal.pone.0121050
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA CG9SB
+UT WOS:000353659100005
+PM 25915853
+OA gold, Green Submitted, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Stemberga, V
+   Bralic, M
+   Bosnar, A
+   Coklo, M
+AF Stemberga, Valter
+   Bralic, Marina
+   Bosnar, Alan
+   Coklo, Miran
+TI Propane-associated autoerotic asphyxiation: Accident or suicide?
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE autoerotic death; asphyxia; propane inhalation
+ID DEATH; CROATIA
+AB Autoerotic fatalities refer to a death resulting from the participation in a sex-related activity designed to heighten sexual arousal. The overwhelming majority of these deaths are due to asphyxia, most often by hanging or ligature compression of the neck. Here we report a case of 'atypical' autoerotic fatality in which death was not induced by ligature compression. Unusual death of a 24-year-old man, involving propane inhalation and plastic bag suffocation, is described. The special characteristics of propane gas as an asphyxiant agent are discussed, as well as its effect on the human body.
+C1 Sch Med, Dept Forens Med, Rijeka 51000, Croatia.
+C3 University of Rijeka
+RP Bralic, M (corresponding author), Sch Med, Dept Forens Med, Vukovarska 11, Rijeka 51000, Croatia.
+EM bralic_marina@yahoo.com
+RI Bralic, Marina/AAH-2886-2022; Bralic, Marina/AFM-0513-2022
+OI Bralic, Marina/0000-0003-4206-2405
+NR 12
+TC 5
+Z9 5
+U1 0
+U2 2
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RES, P O BOX 290, ULICA GRADA VUKOVARA 72/IV, 10000
+   ZAGREB, CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD JUN
+PY 2007
+VL 31
+IS 2
+BP 625
+EP 627
+PG 3
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 188ID
+UT WOS:000247912700039
+PM 17847949
+DA 2023-12-06
+ER
+
+PT J
+AU Franic, T
+   Kardum, G
+   Prizmic, IM
+   Pavletic, N
+   Marcinko, D
+AF Franic, Tomislav
+   Kardum, Goran
+   Prizmic, Iris Marin
+   Pavletic, Nevia
+   Marcinko, Darko
+TI Parental involvement in the war in Croatia 1991-1995 and suicidality in
+   Croatian male adolescents
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+ID POSTTRAUMATIC-STRESS-DISORDER; CHILDRENS-DEPRESSION-INVENTORY;
+   AUSTRALIAN VIETNAM VETERANS; SLEEP-RELATED PROBLEMS; QUALITY-OF-LIFE;
+   RISK-FACTORS; UNINTENTIONAL INJURY; YOUNG ADULTHOOD; SCHOOL-STUDENTS;
+   IDEATION
+AB Aim To investigate the association between parental war involvement and different indicators of psychosocial distress in a community sample of early adolescents ten years after the war in Croatia 1991-1995.
+   Methods A total of 695 adolescents were screened with a self-report questionnaire assessing parental war involvement, sociodemographic characteristics, and alcohol and drug consumption. Personality traits were assessed with the Junior Eysenck Personality Questionnaire; depressive symptoms with the Children's Depression Inventory (CDI); and unintentional injuries, physical fighting, and bullying with the World Health Organization survey Health Behavior in School-aged Children. Suicidal ideation was assessed with three dichotomous items. Suicidal attempts were assessed with one dichotomous item.
+   Results Out of 348 boys and 347 girls who were included in the analysis, 57.7% had at least one veteran parent. Male children of war veterans had higher rates of unintentional injuries (odds ratio [OR], 1.2; 95% confidence interval [CI], 0.56 to 2.63) and more frequent affirmative responses across the full suicidal spectrum (thoughts about death OR, 2.1; 95% CI, 1.02 to 4.3; thoughts about suicide - OR, 5; 95% CI, 1.72 to 14.66; suicide attempts - OR, 3.6; 95% CI, 1.03 to 12.67). In boys, thoughts about suicide and unintentional injuries were associated with parental war involvement even after logistic regression. However, girls were less likely to be affected by parental war involvement, and only exhibited signs of psychopathology on the CDI total score.
+   Conclusion Parental war involvement was associated with negative psychosocial sequels for male children. This relationship is possibly mediated by some kind of identification or secondary traumatization. Suicidality and unintentional injuries are nonspecific markers for a broad range of psychosocial distresses, which is why the suggested target group for preventive interventions should be veteran parents as vectors of this distress.
+C1 [Franic, Tomislav; Prizmic, Iris Marin] Univ Split, Sch Med, Univ Hosp Split, Dept Psychiat, Split 21000, Croatia.
+   [Kardum, Goran] Univ Split, Fac Philosophy, Split 21000, Croatia.
+   [Pavletic, Nevia] NIMH, Bethesda, MD 20892 USA.
+   [Marcinko, Darko] Univ Zagreb, Sch Med, Univ Hosp Zagreb, Dept Psychiat, Zagreb 41001, Croatia.
+C3 University of Split; University of Split; National Institutes of Health
+   (NIH) - USA; NIH National Institute of Mental Health (NIMH); University
+   of Zagreb
+RP Franic, T (corresponding author), Univ Split, Sch Med, Univ Hosp Ctr Split, Dept Child & Adolescent Psychiat, Spinciceva 1, Split 21000, Croatia.
+EM tomislav.franic@mefst.hr
+RI Franic, Tomislav/AAW-7084-2021; Kardum, Goran/G-9526-2017; Franić,
+   Tomislav/H-1367-2017
+OI Kardum, Goran/0000-0002-5766-361X; Franić, Tomislav/0000-0002-5240-7166
+NR 69
+TC 10
+Z9 12
+U1 0
+U2 13
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD JUN
+PY 2012
+VL 53
+IS 3
+BP 244
+EP 253
+DI 10.3325/cmj.2012.53.244
+PG 10
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 964XA
+UT WOS:000305728800008
+PM 22661138
+OA Green Published, Green Accepted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Jaksic, N
+   Aukst-Margetic, B
+   Marcinko, D
+   Brajkovic, L
+   Loncar, M
+   Jakovljevic, M
+AF Jaksic, Nenad
+   Aukst-Margetic, Branka
+   Marcinko, Darko
+   Brajkovic, Lovorka
+   Loncar, Mladen
+   Jakovljevic, Miro
+TI TEMPERAMENT, CHARACTER, AND SUICIDALITY AMONG CROATIAN WAR VETERANS WITH
+   POSTTRAUMATIC STRESS DISORDER
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE temperament; character; personality; suicide; war veterans; PTSD;
+   Croatia
+ID PERSONALITY-TRAITS; PTSD; BEHAVIORS; IDEATION; MODEL; RISK
+AB Background: The occurrence of suicidal thoughts and behaviors is rather frequent among war veterans, particularly those suffering from posttraumatic stress disorder (PTSD). Understanding factors present within these individuals that increase suicide risk may inform prevention efforts. The present study aimed to determine whether the dimensions of temperament and character are associated with various aspects of suicidality among Croatian war veterans with PTSD.
+   Subjects and methods: A sample of 72 Croatian male war veterans (mean age 52.33 years) diagnosed with PTSD was gathered at the National Center for Psychotrauma between May and October 2014. The participants completed the Temperament and Character Inventory - Revised (TCI-R) and the Suicidal Behaviors Questionnaire - Revised (SBQ-R).
+   Results: Zero-order analyses revealed that temperament dimension Harm avoidance and character dimension Self-directedness were moderately associated with the total risk for suicide (i.e., the SBQ-R total score), while Persistence and Cooperativeness showed significant but weaker relations. Different dimensions of suicidality were associated with different personality traits. Harm Avoidance was shown to be significantly increased among the subgroup of war veterans with high suicidal risk.
+   Conclusions: Notwithstanding some limitations of this study, these findings could help extend our understanding of the elevated suicide risk in war veterans with PTSD. Detection of individuals displaying high Harm Avoidance and low Self-Directedness might facilitate prevention of suicidal behaviors in this population.
+C1 [Jaksic, Nenad; Aukst-Margetic, Branka; Loncar, Mladen] Univ Hosp Ctr Zagreb, Dept Psychiat, Natl Ctr Psychotrauma, Zagreb 10000, Croatia.
+   [Marcinko, Darko; Brajkovic, Lovorka; Jakovljevic, Miro] Univ Hosp Ctr Zagreb, Dept Psychiat, Zagreb 10000, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Jaksic, N (corresponding author), Univ Hosp Ctr Zagreb, Dept Psychiat, Natl Ctr Psychotrauma, Kispaticeva 12, Zagreb 10000, Croatia.
+EM nenad_jaksic@yahoo.com
+RI Aukst Margetic, Branka/GNW-5632-2022; B, L/AAC-4480-2022
+OI Aukst Margetic, Branka/0000-0002-7830-224X; B, L/0000-0003-1228-6459;
+   Jaksic, Nenad/0000-0002-5286-720X
+NR 20
+TC 16
+Z9 16
+U1 1
+U2 4
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PY 2015
+VL 27
+IS 1
+BP 60
+EP 63
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CD2HK
+UT WOS:000350896300008
+PM 25751432
+DA 2023-12-06
+ER
+
+PT J
+AU Sardelic, S
+   Fournier, PE
+   Polic, VP
+   Bradaric, N
+   Grgic, D
+   Ivic, I
+   Ledina, D
+   Luksic, B
+   Milas, I
+   Raoult, D
+AF Sardelic, S
+   Fournier, PE
+   Polic, VP
+   Bradaric, N
+   Grgic, D
+   Ivic, I
+   Ledina, D
+   Luksic, B
+   Milas, I
+   Raoult, D
+TI First isolation of <i>Rickettsia conorii</i> from human blood in Croatia
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE boutonneuse fever; polymerase chain reaction; Rickettsia conorii;
+   rickettsia infections; sequence analysis; serology
+ID MEDITERRANEAN SPOTTED-FEVER; SHELL VIAL TECHNIQUE; PHYLOGENETIC
+   ANALYSIS; PROTEIN ROMPA; DIAGNOSIS; DISEASES; DNA; PREVALENCE;
+   MARSEILLES; ANTIBODIES
+AB Aim. To detect and isolate rickettsial strains from blood samples of patients with presumptive diagnosis of Mediterranean spotted fever (MSF) in the coastal region of south Croatia, and to compare the results with routine serology.
+   Methods. A "suicide" polymerase chain reaction (PCR), and a shell vial culture were done on samples of ethylenediamine tetra-acetic acid (EDTA) and citrate-anticoagulated blood samples. Indirect immunofluorescence was performed on sera collected from 17 patients clinically diagnosed with MSF during summer in three consecutive years, from 1998 to 2000.
+   Results. The primers used in PCR amplified the expected part of the rickettsia genomic DNA and Rickettsia conorii grew from the shell vial-cultured blood of a single patient. In 13 patients, the diagnosis was confirmed serologically by paired sera, whereas in 4 patients the diagnosis remained presumptive, since no paired sera were available. Analyzing sequences of the ompA and citrate synthase gene, respectively, derived from the shell vial isolate, a 100% similarity with Rickettsia conorii, strain Seven (Malish), was found.
+   Conclusion. To the best of our knowledge, this is the first isolation of Rickettsia conorii from a human sample in Croatia, and the first proof of a causative agent of MSF in the country. Beside PCR-based methods and isolation, correct diagnosis of MSF could be still routinely reached by serology.
+C1 Split Univ Hosp, Dept Clin Microbiol, Split, Croatia.
+   Univ Marseille, Sch Med, WHO, Rickettsial Reference Ctr, Marseille, France.
+   Split Univ Hosp, Dept Infect Dis, Split, Croatia.
+C3 University of Split; World Health Organization; Aix-Marseille
+   Universite; University of Split
+RP Sardelic, S (corresponding author), Split Univ Hosp, Dept Clin Microbiol & Parasitol, Spinciceva 1, Split 21000, Croatia.
+EM sanda.sardelic@st.hinet.hr
+RI Sardelic, Sanda/JQV-8434-2023; Ivić, Ivo/E-4940-2017; Ledina,
+   Dragan/H-7038-2017; Fournier, Pierre-Edouard/AAC-6155-2021; RAOULT,
+   Didier/A-8434-2008; Lukšić, Boris/E-4071-2017; Grgic, Dora/ABE-2194-2021
+OI Ivić, Ivo/0000-0003-2236-9848; Ledina, Dragan/0000-0002-7574-9273;
+   Fournier, Pierre-Edouard/0000-0001-8463-8885; RAOULT,
+   Didier/0000-0002-0633-5974; Lukšić, Boris/0000-0002-3823-457X; Sardelic,
+   Sanda/0000-0001-7023-680X
+NR 38
+TC 13
+Z9 13
+U1 0
+U2 2
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD OCT
+PY 2003
+VL 44
+IS 5
+BP 630
+EP 634
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 733YD
+UT WOS:000186027500022
+PM 14515427
+DA 2023-12-06
+ER
+
+PT J
+AU Malicki, M
+   Markovic, D
+   Marusic, M
+AF Malicki, Mario
+   Markovic, Domagoj
+   Marusic, Matko
+TI Association of trait and specific hopes: cross sectional study on
+   students and workers of health professions in Split, Croatia
+SO PEERJ
+LA English
+DT Article
+DE Instrument validation; Visual analog scaling; Croatia; Health personnel;
+   Hope
+ID OF-THE-LITERATURE
+AB Introduction. Hope (hoping) is most commonly assessed as a dispositional trait and associated with quality of life, self-care agency and non-attempts of suicide. However, little research has been conducted on hoping for specific events.
+   Materials and Methods. We distributed a survey consisting of Integrative Hope Scale (IHS) and visual analogue scales on which respondents could declare their levels (intensity) of hope for specific events, to all first year health students enrolled at the University Department of Health Studies, Split, Croatia in 2011/2012, as well as to working health professionals attending a nursing conference in April 2012.
+   Results. A total of 161 (89.4%) students and 88 (89.8%) working health professionals returned the completed questionnaires. We found high trait hope scores of students and working health professionals (Md = 111, 95% CI [109-113] vs. Md = 115, 95% CI [112-119]; U = 5,353, P = 0 : 065), and weak to moderate correlations of trait and specific hopes (r = 0.18-0.48, Spearman's rank correlation coefficient). Students and workers reported 31 different things they hoped for most in life, of which the most prevalent were being healthy and happy. There was very little agreement between participants' reported influence of the four factors compromising the trait hope (self-confidence, ambition, optimism, and social support) on their specific hopes.
+   Conclusions. Our findings, while strengthening the validity of hope as a trait, indicate that specific hopes of individuals are moderated by factors not captured by the IHS trait scale. Further research should explore specific hoping in detail, as well as the effectiveness of interventions aimed at increasing specific or generalized hoping.
+C1 [Malicki, Mario; Markovic, Domagoj; Marusic, Matko] Univ Split, Sch Med, Dept Res Biomed & Hlth, Split, Croatia.
+C3 University of Split
+RP Malicki, M (corresponding author), Univ Split, Sch Med, Dept Res Biomed & Hlth, Split, Croatia.
+EM mario.malicki@mefst.hr
+RI Malički, Mario/E-8621-2016; Marusic, Matko/E-1834-2017
+OI Malički, Mario/0000-0003-0698-1930; Marusic, Matko/0000-0001-5562-1777
+NR 25
+TC 7
+Z9 7
+U1 1
+U2 6
+PU PEERJ INC
+PI LONDON
+PA 341-345 OLD ST, THIRD FLR, LONDON, EC1V 9LL, ENGLAND
+SN 2167-8359
+J9 PEERJ
+JI PeerJ
+PD JAN 19
+PY 2016
+VL 4
+AR e1604
+DI 10.7717/peerj.1604
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DB3LN
+UT WOS:000368413200008
+PM 26819851
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Klobucar, I
+   Potocnjak, I
+   Dumancic, J
+   Stemberger, K
+   Cupic, M
+   Kokotovic, T
+   Kucijan, Z
+   Degoricija, V
+AF Klobucar, Iva
+   Potocnjak, Ines
+   Dumancic, Jelena
+   Stemberger, Karlo
+   Cupic, Miriam
+   Kokotovic, Tomislav
+   Kucijan, Zdravka
+   Degoricija, Vesna
+TI Acute poisonings in Croatia: differences in epidemiology, associated
+   comorbidities and final outcomes - a single-centre 15-year follow-up
+SO CLINICAL TOXICOLOGY
+LA English
+DT Article
+DE Poisoning; intoxication; overdose; emergency department; ethanol
+ID ACUTE INTOXICATION; TRENDS
+AB Purpose: To determine the demographic and social characteristics of acutely intoxicated patients in the emergency department (ED), intention of drug/chemical intake, main toxic agents, outcomes and time trends for all variables. Methods: This prospective, observational study included acutely intoxicated patients treated in the ED of the University Hospital Centre Sisters of Charity, Zagreb, Croatia, during the years 2001, 2010 and 2015. The diagnosis was derived from patient's self-report, clinical observations and laboratory test results (quantitative test for serum ethanol levels and qualitative tests for drugs in urine). Results: A total of 1593 patients were enrolled in the study (331 in 2001, 618 in 2010, 644 in 2015), with a predominance of men (55.9%, 65.2%, 70.7%, respectively). The median age was 28 [18-89], 39 [18-92] and 40 years [18-95], respectively. There was a decline in the number of suicide attempts during the study (46.2%, 22.2%, 17.1% of patients, respectively) with a predominance of women (64.1-68.2%), and an escalation in the number of unintentional overdoses by substances of abuse (50.2%, 72.3%, 81.7% of patients, respectively) with a predominance of men (74.1-79.1%). Ethanol was the main toxic agent (40.2%, 69.4%, 75.8% of patients, respectively), used primarily as a substance of unintentional overdose. Anxiolytics were the most frequently implicated pharmaceuticals among all patients (46.5%, 32.0%, 18.5% of patients, respectively) and the main substance used in suicide attempts. The number of patients hospitalized in the Intensive Care Unit (ICU) decreased during the study from 20.2% of all patients in 2001 to 7.9% in 2010 and 6.8% in 2015. They accounted for 7.2%, 5.8% and 5.6% of all ICU-treated patients, respectively. In-hospital mortality (ED and ICU) caused by acute intoxications was low (0.9%, 0.8%, 0.8%, respectively). Conclusions: The escalation of overdoses by ethanol was a major medical and public concern in Zagreb. Anxiolytics were the main substance used in suicide attempts, with a low death rate due to their good safety profile.
+C1 [Klobucar, Iva] Univ Hosp Ctr Sisters Charity, Dept Cariol, Viogradska Cesta 29, Zagreb 10000, Croatia.
+   [Potocnjak, Ines; Dumancic, Jelena; Cupic, Miriam; Degoricija, Vesna] Univ Hosp Ctr Sisters Charity, Dept Med, Zagreb, Croatia.
+   [Dumancic, Jelena; Cupic, Miriam] Neuropsychiat Hosp Dr Ivan Barbot, Popovaca, Croatia.
+   [Stemberger, Karlo; Degoricija, Vesna] Univ Zagreb, Sch Med, Zagreb, Croatia.
+   [Kokotovic, Tomislav; Kucijan, Zdravka] Inst Emergency Med Istrian Cty, Pula, Croatia.
+C3 University of Zagreb
+RP Klobucar, I; Degoricija, V (corresponding author), Univ Hosp Ctr Sisters Charity, Dept Cariol, Viogradska Cesta 29, Zagreb 10000, Croatia.
+EM iva.klobucar@gmail.com; vesna.degoricija@gmail.com
+RI Klobučar, Iva/JHS-6524-2023
+OI Klobučar, Iva/0000-0002-0640-7149; Degoricija,
+   Vesna/0000-0001-6226-4018; Kokotovic, Tomislav/0000-0002-9302-206X
+NR 21
+TC 6
+Z9 7
+U1 1
+U2 4
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD MAR 4
+PY 2019
+VL 57
+IS 3
+BP 181
+EP 188
+DI 10.1080/15563650.2018.1506129
+PG 8
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA HQ3OE
+UT WOS:000462319600005
+PM 30318932
+DA 2023-12-06
+ER
+
+PT J
+AU Beker, M
+AF Beker, M
+TI Defeatism in the Croatian novel around the turn of the century
+   (19th-20th)
+SO NEOHELICON
+LA German
+DT Article
+AB Basing his analysis on a representative selection of Croatian novels from the last two decades of the 19th century the author reaches the conclusion that a feeling of frustration and defeatism are among the salient features of these works. The protagonists in Sandor Gjalski's novels are ambitious young men finally forced to compromises and in some cases even to suicide. The hero of Janko Leskovar's masterpiece ends in total disillusionment, while Vjenceslav Novak's main character in The Last Stipancices has given up his family and his nation for the sake of a better career. The author claims that the principal reasons for the pusilanimity of the protagonists in the above novels should be sought in the political plight of Croatia in the second half of the 19th century which sensitive individuals frequently thought was hopeless.
+C1 Univ Zagreb, Fac Philosophy, HR-10000 Zagreb, Croatia.
+C3 University of Zagreb
+RP Beker, M (corresponding author), Univ Zagreb, Fac Philosophy, Ivana Lucica 3, HR-10000 Zagreb, Croatia.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0324-4652
+J9 NEOHELICON
+JI Neohelicon
+PY 2000
+VL 27
+IS 1
+BP 147
+EP 158
+DI 10.1023/A:1007172030578
+PG 12
+WC Literature
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA 328PW
+UT WOS:000087860100016
+DA 2023-12-06
+ER
+
+PT J
+AU Roje, V
+   Sutalo, P
+AF Roje, Vibor
+   Sutalo, Petar
+TI Trace and major elements in Croatian bottled waters
+SO JOURNAL OF GEOCHEMICAL EXPLORATION
+LA English
+DT Article
+DE Bottled waters; Heavy metals; Trace elements; Major elements; ICP
+ID POLYETHYLENE TEREPHTHALATE PET; BIGGEST ARSENIC CALAMITY;
+   DRINKING-WATER; MINERAL WATERS; QUALITY ASSESSMENT; SUICIDE RATES;
+   WEST-BENGAL; 6 DISTRICTS; TAP WATER; ANTIMONY
+AB The determination of the mass concentration values of selected trace and major elements in bottled drinking water has been done. The bottled waters of various brands - mineral still waters as well as sparkling waters labelled with the Made in Croatia were selected for this study. The products were collected in numerous supermarkets in Zagreb, Republic of Croatia. Drinking water stored both in PET and glass bottles were included in the research. The list of the elements that were analyzed in the bottle water samples is the following: Al, As, B, Ba, Ca, Cd, Co, Cr, Cu, Fe, K, Li, Mg, Mn, Mo, Na, Ni, Pb, Sb, Sr, and Zn. The selected metals and metalloids were quantified by direct ICP-AES measurements. The obtained results are compared to the maximum allowable concentration values of these metals and metalloids in drinking waters prescribed by the WHO and by the Croatian directives as well as to the scientific literature data. The results obtained in this study reveal that, in terms of the analyzed elements content, all Croatian bottled waters are safe for use as drinking water, especially within their expiration dates before which the analyses were conducted.
+C1 [Roje, Vibor; Sutalo, Petar] Univ Zagreb, Fac Forestry, Svetosimunska Cesta 25, HR-10002 Zagreb, Croatia.
+   [Sutalo, Petar] Univ Zagreb, Fac Food Technol & Biotechnol, Pierottijeva Ulica 6, HR-10000 Zagreb, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Roje, V (corresponding author), Univ Zagreb, Fac Forestry, Svetosimunska Cesta 25, HR-10002 Zagreb, Croatia.
+EM vroje@sumfak.hr
+RI Roje, Vibor/G-6445-2019
+OI Roje, Vibor/0000-0001-9142-4607
+FU Development Fund of the University of Zagreb, Republic of Croatia
+FX This work was financially supported by the Development Fund of the
+   University of Zagreb, Republic of Croatia (project: Development and
+   implementation of methods for the determination of analytes of the
+   ecological interest by mean of ICP-AES; head of project: V. Roje). The
+   results and conclusions are given by authors and do not necessarily
+   reflect the opinion of the University.
+NR 52
+TC 10
+Z9 10
+U1 3
+U2 28
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0375-6742
+EI 1879-1689
+J9 J GEOCHEM EXPLOR
+JI J. Geochem. Explor.
+PD JUN
+PY 2019
+VL 201
+BP 79
+EP 87
+DI 10.1016/j.gexplo.2019.03.015
+PG 9
+WC Geochemistry & Geophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+GA HS4IC
+UT WOS:000463824400007
+DA 2023-12-06
+ER
+
+PT J
+AU Mujkic, A
+   Peek-Asa, C
+   Young, T
+   Rodin, U
+AF Mujkic, Aida
+   Peek-Asa, Corinne
+   Young, Tracy
+   Rodin, Urelija
+TI Effect of war on weapon-related deaths in Croatian children and youth
+SO ARCHIVES OF PEDIATRICS & ADOLESCENT MEDICINE
+LA English
+DT Article
+ID ADOLESCENTS; INJURIES
+AB Objective: To identify trends in weapon-related deaths associated with the Homeland War ( 1991-1995) among children in Croatia.
+   Design: Retrospective review.
+   Participants: Croatian children aged from birth through 19 years who died as the result of a weapon-related injury from 1986 through 2005.
+   Main Exposure: Injury deaths of children by intent ( homicide, suicide, operations of war, and unintentional), cause, and age.
+   Outcome Measures: Number and rate of injury deaths among Croatian children before, during, and after the war.
+   Results: Compared with the period before the war, weapon-related homicide and suicide rates increased by more than 3-fold, and unintentional weapon-related deaths increased by more than 6-fold during the war. These increases persisted for 5 years following the end of the war and decreased more than 5 years after the war. Death rates from nonweapon causes did not increase during this period. Overall, 81.9% of the weapon-related deaths were caused by firearms and 18.1% were caused by explosive devices.
+   Conclusions: The Homeland War led to an increase in weapon-related deaths of all intents. Programs that focus on the prevention of weapon-related injuries should be integrated into programs that assist countries in rebuilding after political unrest.
+C1 [Peek-Asa, Corinne; Young, Tracy] Univ Iowa, Inst Rural Environm Mental Hlth, Dept Environm & Occupat Hlth, Iowa City, IA 52242 USA.
+   [Mujkic, Aida] Univ Zagreb, Andrija Stamper Sch Publ Hlth, Zagreb, Croatia.
+   [Rodin, Urelija] Croatian Natl Inst Publ Hlth, Zagreb, Croatia.
+C3 University of Iowa; University of Zagreb
+RP Peek-Asa, C (corresponding author), Univ Iowa, Inst Rural Environm Mental Hlth, Dept Environm & Occupat Hlth, 100 Oakdale Blvd,Room 114, Iowa City, IA 52242 USA.
+EM corinne-peek-asa@uiowa.edu
+FU FIC NIH HHS [5D43TW007261] Funding Source: Medline
+NR 18
+TC 9
+Z9 9
+U1 0
+U2 4
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 515 N STATE ST, CHICAGO, IL 60654-0946 USA
+SN 1072-4710
+J9 ARCH PEDIAT ADOL MED
+JI Arch. Pediatr. Adolesc. Med.
+PD FEB
+PY 2008
+VL 162
+IS 2
+BP 140
+EP 144
+DI 10.1001/archpediatrics.2007.31
+PG 5
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA 258HU
+UT WOS:000252859800007
+PM 18250238
+DA 2023-12-06
+ER
+
+PT J
+AU Molnar, S
+   Mihanovic, M
+   Grah, M
+   Kezic, S
+   Filakovic, P
+   Degmecic, D
+AF Molnar, Sven
+   Mihanovic, Mate
+   Grah, Majda
+   Kezic, Slobodanka
+   Filakovic, Pavo
+   Degmecic, Dunja
+TI Comparative Study on Gene Tags of the Neurotransmission System in
+   Schizophrenic and Suicidal Subjects
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE association; candidate-genes; Croatia; polymorphisms; schizophrenia
+ID POPULATION; HYPOTHESIS; RISK; DNA
+AB Schizophrenia and suicidal behaviour are sever and complex mental disorders, largely determined by factors of inheritance. Both disorders present pathological changes in the catecholamine neurotransmitter system. The study was conducted on three groups; a group of subjects suffering from schizophrenia, a second compounded by individuals who attempted suicide and a third group of phenotypically healthy examinees. The blood samples of schizophrenic patients as of those who attempted suicide were obtained at the Psychiatric Hospital "Sveti Ivan" in Zagreb in the year 2004. Tests were conducted on the statistic relation between a total of 18 SNPs within three candidate-genes of the dopamine and adrenergic system (DRD4, SLC6A3 and ADRA2B) and the manifestation of schzophrenia and suicidal behaviour. Cases were genotyped by use of SNPlex system. Statistically significant differences were determined in the allelic frequency between the mentioned groups. Findings show a siginficant connection between 4 SNPs (ADRA2B rs749457, SLC6A3 rs464094, DRD4 rs11246226 and rs4331145) and schizophrenia, and 2 SNPs with suicidal attempt (ADRA2B rs1018351 i SLC6A3 rs403636). In addition, this is the first study that highlights the potential role/effect of polymorphisms in ADRA2B on the manifestation of schizophrenia, as on suicidal behaviour
+C1 [Molnar, Sven; Mihanovic, Mate; Grah, Majda; Kezic, Slobodanka] Sveti Ivan Psychiat Hosp, Zagreb 10090, Croatia.
+   [Filakovic, Pavo; Degmecic, Dunja] JJ Strossmayer Univ, Osijek Univ Hosp Ctr, Dept Psychiat, Osijek, Croatia.
+C3 University of JJ Strossmayer Osijek
+RP Molnar, S (corresponding author), Sveti Ivan Psychiat Hosp, Jankomir 11, Zagreb 10090, Croatia.
+EM pbsvi@pbsvi.hr
+NR 25
+TC 9
+Z9 9
+U1 1
+U2 9
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD DEC
+PY 2010
+VL 34
+IS 4
+BP 1427
+EP 1432
+PG 6
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 721VK
+UT WOS:000287385700034
+PM 21874733
+DA 2023-12-06
+ER
+
+PT J
+AU Roje, V
+   Dukic, J
+   Sutalo, P
+AF Roje, Vibor
+   Dukic, Jovan
+   Sutalo, Petar
+TI The first example of multi-elemental analysis of water samples from
+   urban monumental fountainsa case study from Zagreb (Croatia)
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Urban water; Heavy metals; Trace elements; Major elements; ICP; pH
+ID DRINKING-WATER; TRACE-ELEMENTS; SUICIDE RATES; HEAVY-METALS; LITHIUM;
+   CITY; EXPOSURE; COPPER; AREA; LEAD
+AB Water fountains are usually present in the urban public places and often draw the attention of citizens and tourists. Their water is often, in various ways, used by adults and children, but water from fountains is not usually a subject of researchers' interest. This paper describes the analytical procedure and the results of the multi-elemental characterisation of the waters from the selected public water fountains in the city of Zagreb, Republic of Croatia. Twenty-eight chemical elements (Al, As, B, Ba, Be, Cd, Co, Cr, Cu, Fe, Li, Mn, Mo, Ni, P, Pb, S, Sb, Se, Sr, Ti, Tl, V, Zn and Ca, K, Mg and Na) were quantified by means of ICP-AES technique. In addition to the multi-elemental analysis, determination of pH values was performed too. Pearson's correlation coefficients suggest that Al, Cu, Fe, Mn and Pb originate from the plumbing system and their leaching is strongly negatively correlated with the pH values of the tested samples. On the other hand, alkali and alkaline-earth metals as well as Mo, Ti, Zn and B, P and S are most probably of a natural origin in the water samples tested in this study. The results lead to the conclusions that (i) trace and major element content in squirt of a monumental water fountain is analogous to their content in water of the same origin and (ii) a pool of a fountain which is made of a high-quality stone, in the context of the herein performed testings, generally does not affect the quality of water which is contained in it.
+C1 [Roje, Vibor; Dukic, Jovan; Sutalo, Petar] Univ Zagreb, Fac Forestry, Svetosimunska Cesta 23, HR-10002 Zagreb, Croatia.
+   [Sutalo, Petar] Univ Zagreb, Fac Food Technol & Biotechnol, Pierottijeva Ulica 6, HR-10000 Zagreb, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Roje, V (corresponding author), Univ Zagreb, Fac Forestry, Svetosimunska Cesta 23, HR-10002 Zagreb, Croatia.
+EM vroje@sumfak.hr
+RI Roje, Vibor/G-6445-2019
+OI Roje, Vibor/0000-0001-9142-4607
+FU Zagreb Municipal Administration
+FX The functioning of the Laboratory for Ecology and Pedology at Faculty of
+   Forestry, University of Zagreb, where this research has been conducted,
+   was partially financially supported by the Zagreb Municipal
+   Administration.
+NR 35
+TC 2
+Z9 2
+U1 0
+U2 10
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD JAN
+PY 2019
+VL 26
+IS 3
+BP 2635
+EP 2648
+DI 10.1007/s11356-018-3809-x
+PG 14
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA HI1II
+UT WOS:000456198400050
+PM 30478771
+DA 2023-12-06
+ER
+
+PT J
+AU Vujevic, M
+AF Vujevic, Miroslav
+TI National identification in Croatia
+SO DRUSTVENA ISTRAZIVANJA
+LA Croatian
+DT Article
+DE national identification; patriotism; nationalism; chauvinism; national
+   awareness; national feeling
+AB Croatians established their state a long time ago and managed to retain elements of their sovereignty within the countries they joined of their own free will throughout history. However, Croatian identity was suppressed in them. National revival defined the difference among Croats, Austrians and Hungarians, but not among the Croats and other South Slavs. As a result, Croats joined the unitarian South-Slavic state without their identity and lost all the elements of sovereignty for the first time in history. This led to the conflict between the Croats and Serbs and Croats amongst themselves. The greatest conflicts occurred in the Second World War. After this war Yugoslavia was reconstructed, but the national conflicts continued. Although the Croatian contribution to the victory of antifascism was the greatest, a complex of quilt arose due to the former existence of the NDH (Independent State of Croatia) and patriotism came to be regarded as something negative, while nationalism was equated to chauvinism. The establishment of the independent Croatian state, which was supposed to protect its national and cultural values, began to pose a threat to them again. Unity yielded, giving way once more to conflicts, criminal activities within the process of transition, a decrease in birth rate, growth of debt, banks and successful companies being sold for nothing, the Liberation War and its soldiers becoming criminalised and the latter committing suicides... National values cannot be protected solely with the establishment of an independent state unless necessary changes occur in the political culture as well. Among other things, the concept of patriotism should be distinguished from chauvinism, while the terms patriotism and national pride should be freed from the negative connotation they were given in a society which prohibited them.
+C1 Fak Politickih Znanosti, Zagreb 10000, Croatia.
+RP Vujevic, M (corresponding author), Fak Politickih Znanosti, Lepusiceva 6, Zagreb 10000, Croatia.
+EM miroslav.vujevic@zg.htnet.hr
+NR 47
+TC 1
+Z9 1
+U1 0
+U2 6
+PU INST OF SOCIAL SCIENCES IVO PILAR
+PI ZAGREB
+PA MARULICEV TRG 19/1, 10001 ZAGREB, CROATIA
+SN 1330-0288
+J9 DRUS ISTRAZ
+JI Drus. Istraz.
+PD MAY-JUN
+PY 2007
+VL 16
+IS 3
+BP 379
+EP 404
+PG 26
+WC Social Issues; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Sociology
+GA 202HN
+UT WOS:000248892700003
+DA 2023-12-06
+ER
+
+PT J
+AU Sorta-Bilajac, I
+   Bazdaric, K
+   Brozovic, B
+   Agich, GJ
+AF Sorta-Bilajac, I.
+   Bazdaric, K.
+   Brozovic, B.
+   Agich, G. J.
+TI Croatian physicians' and nurses' experience with ethical issues in
+   clinical practice
+SO JOURNAL OF MEDICAL ETHICS
+LA English
+DT Article
+ID HEALTH-CARE; MEDICAL-ETHICS; COMMITTEES; DIFFICULTIES; CONSULTATION;
+   ATTITUDES; DILEMMAS
+AB Aim: To assess ethical issues in everyday clinical practice among physicians and nurses of the University Hospital Rijeka, Rijeka, Croatia.
+   Subjects and methods: We surveyed the entire population of internal medicine, oncology and intensive care specialists and associated nurses employed at the University Hospital Rijeka, Rijeka, Croatia (n=532). An anonymous questionnaire was used to explore the type and frequency of ethical dilemmas, rank of their difficulty, access to and use of ethics support services, training in ethics and confidence about knowledge in ethics. Physicians (n=113, 55% of them female) ranged in age from 27 to 61 years, and nurses (n=251, 95% female), from 20 to 52.
+   Results: The most frequent ethical dilemmas concerned uncertain or impaired decision-making capacity (66% of physicians, 47% of nurses, p=0.008), limitation of treatment at the end of life (60% of physicians, 31% of nurses, p < 0.001) and disagreements among family members (47% of physicians, 31% of nurses, p=0.025). The most difficult dilemmas concerned euthanasia and physician-assisted suicide (49% of physicians, 52% of nurses) and limitation of treatment at the end of life (14% of physicians, 18% of nurses). Only a minority reported ever using any kind of ethics support services (12% of physicians, 3% of nurses, p=0.001) or being very confident about knowledge in ethics (5% of physicians, 6% of nurses).
+   Conclusions: Similar ethical difficulties are present in the clinical practice of both physicians and nurses, with important differences in access and use of ethics support services. A need for systematic ethics educational activities was identified. Inclusion of individual ethics consultants in Croatian healthcare ethics support services is strongly advised.
+C1 [Sorta-Bilajac, I.] Univ Rijeka, Fac Med, Dept Social Sci, Rijeka 51000, Croatia.
+   [Bazdaric, K.; Brozovic, B.] Univ Rijeka, Fac Med, Dept Med Informat, Rijeka, Croatia.
+   [Agich, G. J.] Bowling Green State Univ, BGeXperience Program, Bowling Green, OH 43403 USA.
+C3 University of Rijeka; University of Rijeka; University System of Ohio;
+   Bowling Green State University
+RP Sorta-Bilajac, I (corresponding author), Univ Rijeka, Fac Med, Dept Social Sci, B Branchetta 22, Rijeka 51000, Croatia.
+EM iva.sorta@medri.hr
+RI Brozovic, Boris/S-3969-2018; Bazdaric, Ksenija/O-3160-2018; Agich,
+   George/C-2732-2008
+OI Brozovic, Boris/0000-0002-9945-0305; Bazdaric,
+   Ksenija/0000-0002-2977-3686; Agich, George/0000-0003-2650-762X
+NR 35
+TC 23
+Z9 23
+U1 0
+U2 14
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0306-6800
+EI 1473-4257
+J9 J MED ETHICS
+JI J. Med. Ethics
+PD JUN
+PY 2008
+VL 34
+IS 6
+BP 450
+EP 455
+DI 10.1136/jme.2007.021402
+PG 6
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA 307BV
+UT WOS:000256293600009
+PM 18511618
+DA 2023-12-06
+ER
+
+PT J
+AU Sorta-Bilajac, I
+   Bazdaric, K
+   Zagrovic, MB
+   Jancic, E
+   Brozovic, B
+   Cengic, T
+   Corluka, S
+   Agich, GJ
+AF Sorta-Bilajac, Iva
+   Bazdaric, Ksenija
+   Zagrovic, Morana Brkljacic
+   Jancic, Ervin
+   Brozovic, Boris
+   Cengic, Tomislav
+   Corluka, Stipe
+   Agich, George J.
+TI How Nurses and physicians face ethical dilemmas - the Croatian
+   experience
+SO NURSING ETHICS
+LA English
+DT Article
+DE bioethical issues; clinical ethics; Croatia; ethics consultation;
+   questionnaire
+ID GENDER DIFFERENCES; HEALTH-CARE; ISSUES; CONSULTATIONS; DIFFICULTIES;
+   COMMITTEES; ATTITUDES; ETHNICITY
+AB The aim of this study was to assess nurses' and physicians' ethical dilemmas in clinical practice. Nurses and physicians of the Clinical Hospital Centre Rijeka were surveyed (N = 364). A questionnaire was used to identify recent ethical dilemma, primary ethical issue in the situation, satisfaction with the resolution, perceived usefulness of help, and usage of clinical ethics consultations in practice. Recent ethical dilemmas include professional conduct for nurses (8%), and near-the-end-of-life decisions for physicians (27%). The main ethical issue is limiting life-sustaining therapy (nurses 15%, physicians 24%) and euthanasia and physician-assisted suicide (nurses 16%, physicians 9%). The types of help available are similar for nurses and physicians: obtaining complete information about the patient (37% vs. 50%) and clarifying ethical issues (31% vs. 39%). Nurses and physicians experience similar ethical dilemmas in clinical practice. The usage of clinical ethics consultations is low. It is recommended that the individual and team consultations should be introduced in Croatian clinical ethics consultations services.
+C1 [Sorta-Bilajac, Iva] Univ Rijeka, Dept Social Sci & Med Humanities, Sch Med, Rijeka 51000, Croatia.
+   [Jancic, Ervin] Gen Hosp Karlovac, Karlovac, Croatia.
+   [Agich, George J.] Bowling Green State Univ, Bowling Green, OH 43403 USA.
+C3 University of Rijeka; University System of Ohio; Bowling Green State
+   University
+RP Sorta-Bilajac, I (corresponding author), Univ Rijeka, Dept Social Sci & Med Humanities, Sch Med, B Branchetta 20, Rijeka 51000, Croatia.
+EM iva.sorta@medri.hr
+RI Brozovic, Boris/S-3969-2018; Jancic, Ervin j/S-5612-2018; Ćorluka,
+   Stipe/JCO-9897-2023; Bazdaric, Ksenija/O-3160-2018
+OI Brozovic, Boris/0000-0002-9945-0305; Jancic, Ervin
+   j/0000-0003-1432-8923; Bazdaric, Ksenija/0000-0002-2977-3686; Corluka,
+   Stipe/0000-0002-5732-1150
+NR 52
+TC 12
+Z9 17
+U1 0
+U2 21
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0969-7330
+EI 1477-0989
+J9 NURS ETHICS
+JI Nurs. Ethics
+PD MAY
+PY 2011
+VL 18
+IS 3
+BP 341
+EP 355
+DI 10.1177/0969733011398095
+PG 15
+WC Ethics; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Nursing
+GA 761ET
+UT WOS:000290379500006
+PM 21558110
+DA 2023-12-06
+ER
+
+PT J
+AU Petrovic, ZK
+   Peraica, T
+   Kozaric-Kovacic, D
+AF Petrovic, Zrnka Kovacic
+   Peraica, Tina
+   Kozaric-Kovacic, Dragica
+TI Comparison of ego strength between aggressive and non-aggressive
+   alcoholics: a cross-sectional study
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+ID PERSONALITY; VIOLENCE; RISK
+AB Aim To determine the differences between aggressive and non-aggressive alcoholics in sociodemographic and clinical characteristics and ego strength.
+   Methods This cross-sectional study included 111 aggressive and 123 non-aggressive male alcoholics aged between 25 and 60 years who were admitted to the Department for Alcoholism, University Psychiatric Hospital Vrapce, Zagreb, Croatia, from January to December 2016. All participants met the diagnostic criteria for alcohol dependence according to the Croatian Mini International Neuropsychiatric Interview (MINI), 4th revised edition of Diagnostic and Statistical Manual of Mental Disorders, and the International Classification of Diseases. Participants were clinically as sessed by an experienced psychiatrist using a clinical interview, MINI, Questionnaire from the Brown-Goodwin Lifetime History of Aggression, and Ego Identity Scale (EIS) according to Erikson. A clinical psychologist performed cognitive function measurements. EIS scores were analyzed using one-way analysis of variance.
+   Results In comparison with non-aggressive alcoholics, aggressive alcoholics were more often divorced, unemployed, hospitalized, and first treated for alcoholism at an earlier age (P < 0.05 for all). They more frequently experienced depression (42.4% vs 19.4%, P = 0.013) and attempted suicide (34.7% vs 6.2%, P = 0.003), achieved a lower level of maturity at the second stage of psychosocial development related to shame and doubt (14.0 +/- 4.1 vs 17.4 +/- 3.7, P = 0.013) and at the fourth stage related to inferiority (13.1 +/- 6.8 vs 18.1 +/- 9.3, P = 0.011), and had lower total EIS score (75.8 +/- 20.4 vs 852 +/- 215, P < 0.012) than non-aggressive alcoholics.
+   Conclusion Aggressive alcoholics had weaker ego-strength than non-aggressive alcoholics, experienced more depressive reactions and suicide attempts, and showed poorer psychosocial functioning.
+C1 [Petrovic, Zrnka Kovacic] Univ Zagreb, Sch Med, Zagreb, Croatia.
+   [Petrovic, Zrnka Kovacic] Univ Psychiat Hosp Vrapce, Zagreb, Croatia.
+   [Peraica, Tina] Minist Hlth Republ Croatia, Dept Psychiat, Univ Hosp Dubrava, Referral Ctr Stress related Disorders, Zagreb, Croatia.
+   [Kozaric-Kovacic, Dragica] Univ Split, Univ Dept Forens Sci, Split, Croatia.
+C3 University of Zagreb; University of Split
+RP Petrovic, ZK (corresponding author), Univ Hosp Vrapce, Bolnicka 32, Zagreb 10000, Croatia.
+EM zrnka.kovacic@gmail.com
+RI Peraica, Tina/AAH-9215-2021
+OI Peraica, Tina/0000-0001-7098-3282
+NR 55
+TC 2
+Z9 5
+U1 1
+U2 5
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD AUG
+PY 2018
+VL 59
+IS 4
+BP 156
+EP 164
+DI 10.3325/cmj.2018.59.156
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA GZ1WD
+UT WOS:000449165000003
+PM 30203629
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Degmecic, D
+   Filakovic, P
+AF Degmecic, Dunja
+   Filakovic, Pavo
+TI Depression and suicidality in the adolescents in Osijek, Croatia
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE depression; suicidality; adolescents
+ID DISORDER
+AB Mood disorders in children and adolescents and their treatments have received increasing attention and clinical investigation over the last few decades. The core features of mood disorders are essentially the same across the life span. Developmental level, however, appears to influence the expression of certain mood symptoms with greater frequency than other within the framework of depressive disorders. Suicide is the fourth leading cause of death in children between the ages of 10 and 15 years and the third leading cause of death among the adolescents and young adults 15-25 years. In this article the authors presents cross-sectional study done on the sample of 286 adolescents. Adolescents fulfilled self-rating scale Beck Depression Inventory for the screening of the depression and suicidality. In our sample 3.85% of the adolescents fulfilled the criteria for severe depressive episode and the 5.94% of the adolescents fulfilled criteria for moderate depressive episode. Also on the item of suicidality (Item 9) 0.7 % of the adolescents had very high score, while 8.4 had significant score for the suicidal risk. Our results are in concordance with similar epidemiological studies done world while.
+C1 [Degmecic, Dunja; Filakovic, Pavo] Univ JJ Strossmayer, Univ Dept Psychiat, Sch Med, Osijek Univ Hosp, Osijek 31000, Croatia.
+C3 University of JJ Strossmayer Osijek
+RP Degmecic, D (corresponding author), Univ JJ Strossmayer, Univ Dept Psychiat, Sch Med, Osijek Univ Hosp, J Huttlera 4, Osijek 31000, Croatia.
+EM ddegmecic@vip.hr
+NR 18
+TC 8
+Z9 8
+U1 1
+U2 3
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD MAR
+PY 2008
+VL 32
+IS 1
+BP 143
+EP 145
+PG 3
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 285AB
+UT WOS:000254748600023
+PM 18496908
+DA 2023-12-06
+ER
+
+PT J
+AU Tripkovic, M
+   Franciskovic, T
+   Grgic, N
+   Ercegovic, N
+   Graovac, M
+   Zecevic, I
+AF Tripkovic, Mara
+   Franciskovic, Tanja
+   Grgic, Neda
+   Ercegovic, Nela
+   Graovac, Mirjana
+   Zecevic, Iva
+TI Family Factors Associated with Auto-aggressiveness in Adolescents in
+   Croatia
+SO COLLEGIUM ANTROPOLOGICUM
+LA English
+DT Article
+DE auto-aggressiveness; deliberate self-harm; adolescents; family factors;
+   family cohesion
+ID DELIBERATE SELF-HARM; ATTEMPTED-SUICIDE; RISK-FACTORS; CHILDHOOD ABUSE;
+   BEHAVIOR; DEPRESSION; FUTURE; PEOPLE; EUROPE
+AB The aim of this research is to look into the roles of families' social situation and cohesion in adolescent auto-aggressiveness in Croatia. The research was conducted on a sample of Zagreb high school students which encompassed 701 pupils of both genders aged 14-19. The basic demographic data were obtained using the Structured Demographic and Family Data Questionnaire. Auto-aggressiveness was tested using a section of the Report on Youth Aged 11-18 and the Scale of Auto-destructiveness - SAD, whereas the family cohesion was tested with the Family Adaptability and Cohesion Evaluation Scales FACES III. The obtained results show differences according to the gender: girls are more prone to auto-aggressiveness than boys (t=-3.385, df=565, p=0.001) and girls more often show symptoms of destructiveness (t=-3.809, df=637, p<0.001) and anxiety (t=-6.562, df=640, p<0.001), while boys show pronounced aggressiveness (t=2.655, df=653, p=0.008). Significant family factors associated with auto-aggressiveness are parents' marital status (chi(2)=18.039, df=4, p=0.001), their financial situation (F(2.548)=4.604, p=0.010), alcoholic father (chi(2)=9.270, df=2, p=0.010), mentally ill mother (t=5.264, df=541, p<0.001), as well as mentally ill father (t=4.744, df=529, p<0.001), and corporal punishment by mother (F(2.542)=8.132, p<0.001) or father (F(2.530)=5.341, p=0.005). Adolescents from split families show more auto-aggressiveness. Family cohesion appears to be considerably associated with auto-aggressiveness and the adolescents that see their families as less cohesive have more mental problems (chi(2)=29.98, df=2, p<0.001). There is a connection between auto-destructive behavior in adolescents and family factors. Knowledge of family's social situation and cohesion may help understand, prevent and treat auto-aggressiveness in adolescents.
+C1 [Tripkovic, Mara; Grgic, Neda; Ercegovic, Nela; Zecevic, Iva] Psychiat Hosp Children & Youth, Zagreb 10000, Croatia.
+   [Franciskovic, Tanja] Univ Rijeka, Sch Med, Dept Psychiat & Psychol Med, Rijeka, Croatia.
+   [Graovac, Mirjana] Univ Rijeka, Psychiat Clin, Rijeka, Croatia.
+C3 University of Rijeka; University of Rijeka
+RP Tripkovic, M (corresponding author), Psychiat Hosp Children & Youth, Kukuljeviceva 11, Zagreb 10000, Croatia.
+EM mara.tripkovic@djecja-psihijatrija.hr
+NR 42
+TC 2
+Z9 2
+U1 1
+U2 15
+PU COLLEGIUM ANTROPOLOGICUM
+PI ZAGREB
+PA INST ANTHROPOLOGICAL RESEARCH, GAJEVA 32, PO BOX 290, HR-10000 ZAGREB,
+   CROATIA
+SN 0350-6134
+J9 COLLEGIUM ANTROPOL
+JI Coll. Anthropol.
+PD DEC
+PY 2013
+VL 37
+IS 4
+BP 1081
+EP 1088
+PG 8
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 301UG
+UT WOS:000330557000005
+PM 24611318
+DA 2023-12-06
+ER
+
+PT J
+AU Cifric, I
+   Jerolimov, DM
+AF Cifric, Ivan
+   Jerolimov, Dinka Marinovic
+TI Abortion as a bioethical challenge
+SO SOCIOLOGIJA I PROSTOR
+LA Croatian
+DT Article
+DE abortion; religious feelings; dying; life; euthanasia
+AB Abortion is an indicator of some controversial bioethical issues of the modern society It indicates both the social and personal attitude towards unborn life. Two basic attitudes and their own arguments are shown in the contemporary discourse. One attitude allows abortion in certain cases: a heavily damaged foetus, an unmarried woman, a couple who do not want any more children or a particularly difficult financial situation. The other attitude forbids abortion because it is a crime, it is immoral, it puts a woman's life in danger and it threatens the birth rate of a country. The question is: who is to decide about it? Some people believe abortion should be regulated by law, whether it forbids it or allows it in some cases. Others believe there is no need for legislation because a woman alone should decide. In,this paper are shown the results of an empirical survey conducted in 2004 by the institute for Social Research in Zagreb for the project "Social and Religious Changes in Croatia". The survey was carried out on a representative sample of adult population (N=2.220) and a special instrument for the perception of abortion was applied. The aim of the paper is to examine how the respondents' attitude to abortion relates to their religious beliefs (or lack of them), their views on life after death, euthanasia, suicide and cloning as well as their sociodemographical characteristics. The results show that only one third of respondents think abortion should be forbidden by law. 46% think abortion should not be regulated by law. A remarkable number of respondents (62%) believe the decision should be made by women. in cases when respondents think abortion should be allowed, they mostly choose medical reasons for it. Regarding religious self-identification, "true believers" oppose abortion much more strongly than other (un)religious groups and the same is true for those respondents who believe in the Christian afterlife, do not accept suicide, euthanasia and human cloning. Regarding sociodemographical characterisics, respondents with lower education, advanced in age and from smaller (rural) areas where religion plays an important part in life - oppose abortion. Again this points to the established system of traditional values in some population segments (the most religious people) and the modern, liberal system of values in less religious or unreligious segments of population.
+C1 [Cifric, Ivan] Univ Zagreb, Fac Philosophy, Dept Sociol, Zagreb 41000, Croatia.
+   [Jerolimov, Dinka Marinovic] Inst Social Res, Zagreb, Croatia.
+C3 University of Zagreb; Institute for Social Research Zagreb
+RP Cifric, I (corresponding author), Univ Zagreb, Fac Philosophy, Dept Sociol, Zagreb 41000, Croatia.
+EM icifric@ffzg.hr; dinka@idi.hr
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 11
+PU INST SOCIAL RES ZAGREB
+PI ZAGREB
+PA AMRUSEVA 11-II, PO BOX 280, ZAGREB, HR-100001, CROATIA
+SN 1846-5226
+J9 SOCIOL PROST
+JI Sociol. Prost.
+PD JUL-DEC
+PY 2007
+VL 45
+IS 177-78
+BP 247
+EP 268
+PG 22
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 336RO
+UT WOS:000258382500001
+DA 2023-12-06
+ER
+
+PT J
+AU Jevsek, A
+AF Jevsek, Aleksander
+TI The Concept of an Optimum Model of Criminal Post-Mortem Diagnostics
+SO REVIJA ZA KRIMINALISTIKO IN KRIMINOLOGIJO
+LA English
+DT Article
+DE post-mortem examination service; criminal investigation errors; forensic
+   medicine; cognitive factors; organisational factors; suicides; causes of
+   death; fatal accidents; fatalities; medical errors; forensic pathology;
+   criminal differential diagnosis; post-mortem diagnosis
+AB The establishment of the exact time and cause of death plays an important role in criminal investigation and criminal law. In violent deaths, where a suspicion that a criminal offence has been committed arises, investigation often focuses on a specific suspect on the basis of a clearly established time and cause of death, or on the examination of other important circumstances surrounding the death in order to close the circle of alleged suspects. An exact post-mortem diagnosis of the time and cause of death requires multidisciplinary cooperation between the police, who establish relevant circumstances surrounding the death, and a physician, who performs a post-mortem examination of the body. This is why the present paper considers post-mortem diagnostics both as part of criminal differential diagnosis and as part of medical post-mortem diagnostics. The competent and quality performance of post-mortem diagnostics is in many ways affected by organisational and cognitive factors.
+   This study presents an analysis of legal arrangements governing the work of post-mortem examination services in Germany, Austria, Croatia and Slovenia, and identifies good and bad practices on the basis of professional opinions expressed by experts working in the field of criminal investigation and forensic medicine in comparable countries. Results and findings represent a useful basis for the formulation of a proposal for a new model of post-mortem examination service presented in the last section of this paper. The proposed model provides a basis for achieving qualitative progress in the field of post-mortem diagnostics not only in Slovenia but also in other countries of continental Europe.
+C1 [Jevsek, Aleksander] Univ Maribor, Fac Criminal Justice & Secur, Maribor, Slovenia.
+C3 University of Maribor
+RP Jevsek, A (corresponding author), Univ Maribor, Fac Criminal Justice & Secur, Maribor, Slovenia.
+EM aleksander.jevsek@telemach.net
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 1
+PU MINISTRY INTERIOR REPUBLIC SLOVENIA
+PI LJUBLJANA
+PA STEFANOVA ULICA 2, LJUBLJANA, 1501, SLOVENIA
+SN 0034-690X
+J9 REV KRIMINALISTIKO K
+JI Rev. Kriminalistiko Kriminol.
+PD OCT-DEC
+PY 2014
+VL 65
+IS 4
+BP 336
+EP 346
+PG 11
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA CA7ZI
+UT WOS:000349135900009
+DA 2023-12-06
+ER
+
+PT J
+AU Petaros, A
+   Slaus, M
+   Coklo, M
+   Sosa, I
+   Cengija, M
+   Bosnar, A
+AF Petaros, Anja
+   Slaus, Mario
+   Coklo, Miran
+   Sosa, Ivan
+   Cengija, Morana
+   Bosnar, Alan
+TI Retrospective analysis of free-fall fractures with regard to height and
+   cause of fall
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article
+DE Accident; Blunt force trauma; Fall; Forensic anthropology; Suicide
+ID VERTICAL DECELERATION INJURIES; HIGH-VELOCITY IMPACT; FATAL FALLS;
+   PATTERNS; TRAUMA; DISCRIMINATION; SEVERITY; MODELS; WATER; JUMPS
+AB Free-fall fractures represent a specific form of blunt force trauma that can be hard to interpret because of the numerous factors that affect it. The aim of this study is to focus on skeletal injury patterns resulting from free-falls and to analyse the relationship between specific skeletal fractures, and the height and cause (accidental vs. suicidal) of the fall.
+   A total of 179 autopsy reports of fatal free-falls from known heights were analysed at the Department of Forensic Medicine and Criminalistics, in Rijeka, Croatia. The location, type and frequency of fractures, as well as the number and distribution of fractured regions were analysed with regard to height and cause of fall.
+   Height was found to be the major factor influencing fracture patterns in free-falls. In our sample, the frequencies of thoracic fractures, fractures to the extremities and those to the pelvis increased with height. Head fractures show no such relationship. However, types of fractures recorded in different anatomical regions, including the cranium, differ between height groups suggesting different injury mechanisms in each. Victims of falls generally sustained fractures in more than one body region, and the number of injured regions correlates significantly with height. Although no statistical difference was found in the number of fractured regions or frequency of fractures between accidental fallers and suicidal jumpers, jumpers showed a significantly higher number of bilateral extremity fractures when compared to victims of accidental falls. Logistic regression analyses also demonstrate a significant relationship between lower extremity fractures, and the cause of the fall.
+   Our results highlight the need for further investigations of the influence that behaviour and height have in free-fall fractures. (C) 2013 Elsevier Ireland Ltd. All rights reserved.
+C1 [Petaros, Anja; Coklo, Miran; Sosa, Ivan; Cengija, Morana; Bosnar, Alan] Rijeka Univ, Sch Med, Dept Forens Med & Criminalist, Rijeka 51000, Croatia.
+   [Slaus, Mario] Croatian Acad Sci & Arts, Anthropol Ctr, Zagreb 10000, Croatia.
+C3 University of Rijeka; Croatian Academy of Sciences & Arts
+RP Petaros, A (corresponding author), Rijeka Univ, Sch Med, Dept Forens Med & Criminalist, Brace Branchetta 20, Rijeka 51000, Croatia.
+EM anja.petaros@yahoo.com
+RI Petaros, Anja/JMP-5052-2023; Sosa, Ivan/F-3562-2011; Šoša,
+   Ivan/I-6327-2013
+OI Petaros, Anja/0000-0001-7003-6488; Šoša, Ivan/0000-0002-6869-3734
+NR 37
+TC 53
+Z9 64
+U1 0
+U2 31
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD MAR 10
+PY 2013
+VL 226
+IS 1-3
+BP 290
+EP 295
+DI 10.1016/j.forsciint.2013.01.044
+PG 6
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 115DF
+UT WOS:000316792100052
+PM 23422164
+DA 2023-12-06
+ER
+
+PT J
+AU Susnjara, IM
+   Gojanovic, MD
+   Vodopija, D
+   Capkun, V
+   Smoljanovic, A
+AF Susnjara, Ivana Marasovic
+   Gojanovic, Marija Definis
+   Vodopija, Davor
+   Capkun, Vesna
+   Smoljanovic, Ankica
+TI Influence of war on quantitative and qualitative changes in drug-induced
+   mortality in Split-Dalmatia County, Croatia
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+ID HEROIN-RELATED DEATHS; NEW-YORK-CITY; OVERDOSE DEATHS; OPIATE OVERDOSE;
+   ADULT MORTALITY; UNITED-STATES; TRENDS; AUSTRALIA; USERS; ABUSE
+AB Aim To study drug-induced mortality and characteristics of overdose deaths in the war (1991-1995), pre-war (1986-1990), and post-war period (1996-2000) in Split-Dalmatia County.
+   Methods We retrospectively searched through Databases of the Department of Forensic Medicine, University Hospital Split, the national register of death records, the archives of the Split-Dalmatia County Police, and the Register of Treated Drug Addicts of the Croatian National Institute of Public Health, covering the period from 1986 to 2000, according to drug poisoning codes IX and X of the International Classification of Diseases. The indicators were statistically analyzed.
+   Results There were 146 registered drug-induced deaths, with 136 (93%) deceased being men. The median age of all cases was 27 years (interquartile range 8). Most of them were single (70.6%), unemployed (44.6%), and secondary school graduates (69.2%). In the war period, there were 4.8 times more deaths than in the pre-war period (P = 0.014), and in the post-war period there were 5.2 times more deaths than in the pre-war period (P = 0.008). The most common site of death was the deceased person's home. The toxicological analyses showed that 59 (61%) deaths were heroin related, alcohol use was found in 62 cases (42.5%), and multi-substance use was found in more than a half of the cases. In 133 (91.1%) cases, deaths were classified as unintentional, whereas 13 (8.9%) were classified as suicides.
+   Conclusion The war, along with other risk factors, contributed to unfavorable developments related to drug abuse in Split-Dalmatia County, including the increase in the drug-induced mortality rate.
+C1 [Susnjara, Ivana Marasovic; Smoljanovic, Ankica] Pubc Hlth Inst Split & Dalmatian Cty, Split 21000, Croatia.
+   [Gojanovic, Marija Definis] Split Univ Hosp, Dept Pathol & Forens Med, Split, Croatia.
+   [Vodopija, Davor] Croatian Mil Acad, Split, Croatia.
+   [Capkun, Vesna] Split Univ Hosp, Dept Nucl Med, Split, Croatia.
+C3 University of Split; University of Split
+RP Susnjara, IM (corresponding author), Pubc Hlth Inst Split & Dalmatian Cty, Vukovarska 46, Split 21000, Croatia.
+NR 54
+TC 1
+Z9 2
+U1 0
+U2 3
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD OCT
+PY 2011
+VL 52
+IS 5
+BP 629
+EP 636
+DI 10.3325/cmj.2011.52.629
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 848UG
+UT WOS:000297080000007
+PM 21990081
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolaidis, G
+   Petroulaki, K
+   Zarokosta, F
+   Tsirigoti, A
+   Hazizaj, A
+   Cenko, E
+   Brkic-Smigoc, J
+   Vajzovic, E
+   Stancheva, V
+   Chincheva, S
+   Ajdukovic, M
+   Rajter, M
+   Raleva, M
+   Trpcevska, L
+   Roth, M
+   Antal, I
+   Ispanovic, V
+   Hanak, N
+   Olmezoglu-Sofuoglu, Z
+   Umit-Bal, I
+   Bianchi, D
+   Meinck, F
+   Browne, K
+AF Nikolaidis, George
+   Petroulaki, Kiki
+   Zarokosta, Foteini
+   Tsirigoti, Antonia
+   Hazizaj, Altin
+   Cenko, Enila
+   Brkic-Smigoc, Jelena
+   Vajzovic, Emir
+   Stancheva, Vaska
+   Chincheva, Stefka
+   Ajdukovic, Marina
+   Rajter, Miro
+   Raleva, Marija
+   Trpcevska, Liljana
+   Roth, Maria
+   Antal, Imola
+   Ispanovic, Veronika
+   Hanak, Natasha
+   Olmezoglu-Sofuoglu, Zeynep
+   Umit-Bal, Ismail
+   Bianchi, Donata
+   Meinck, Franziska
+   Browne, Kevin
+TI Lifetime and past-year prevalence of children's exposure to violence in
+   9 Balkan countries: the BECAN study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Violence against children; Child abuse and neglect; Child maltreatment;
+   Violence; Epidemiology; Balkans
+ID ADVERSE CHILDHOOD EXPERIENCES; PHYSICAL ABUSE; SEXUAL-ABUSE; ICAST-CH;
+   NEGLECT; MALTREATMENT; CONSEQUENCES; ASSOCIATIONS; METAANALYSIS; SUICIDE
+AB Background: Children's exposure to violence is a major public health issue. The Balkan epidemiological study on Child Abuse and Neglect project aimed to collect internationally comparable data on violence exposures in childhood.
+   Methods: A three stage stratified random sample of 42,194 school-attending children (response rate: 66.7%) in three grades (aged 11, 13 and 16 years) was drawn from schools in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Former Yugoslavian Republic of Macedonia (FYROM), Greece, Romania, Serbia and Turkey. Children completed the ICAST-C questionnaire, which measures children's exposure to violence by any perpetrator.
+   Results: Exposure rates for psychological violence were between 64.6% (FYROM) and 83.2% (Greece) for lifetime and 59.62% (Serbia) and 70.0% (Greece) for past-year prevalence. Physical violence exposure varied between 50.6% (FYROM) and 76.3% (Greece) for lifetime and 42.5% (FYROM) and 51.0% (Bosnia) for past-year prevalence. Sexual violence figures were highest for lifetime prevalence in Bosnia (18.6%) and lowest in FYROM (7.6%). Lifetime contact sexual violence was highest in Bosnia (9.8%) and lowest in Romania (3.6%). Past-year sexual violence and contact sexual violence prevalence was lowest in Romania (5.0 and 2.1%) and highest in Bosnia (13.6 and 7.7% respectively). Self-reported neglect was highest for both past-year and lifetime prevalence in Bosnia (48.0 and 20.3%) and lowest in Romania (22.6 and 16.7%). Experiences of positive parental practices were reported by most participating children in all countries.
+   Conclusions: Where significant differences in violence exposure by sex were observed, males reported higher exposure to past-year and lifetime sexual violence and females higher exposure to neglect. Children in Balkan countries experience a high burden of violence victimization and national-level programming and child protection policy making is urgently needed to address this.
+C1 [Nikolaidis, George; Petroulaki, Kiki; Zarokosta, Foteini; Tsirigoti, Antonia] Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+   [Hazizaj, Altin; Cenko, Enila] Childrens Human Rights Ctr Albania, Tirana, Albania.
+   [Brkic-Smigoc, Jelena; Vajzovic, Emir] Univ Sarajevo, Fac Polit Sci, Sarajevo, Bosnia & Herceg.
+   [Stancheva, Vaska; Chincheva, Stefka] South West Univ N Rilski, Dept Med Social Sci, Blagoevgrad, Bulgaria.
+   [Ajdukovic, Marina; Rajter, Miro] Univ Zagreb, Fac Law, Dept Social Work, Zagreb, Croatia.
+   [Raleva, Marija; Trpcevska, Liljana] Univ Skopje, Univ Clin Psychiat, Skopje, Macedonia.
+   [Roth, Maria; Antal, Imola] Babes Bolyai Univ, Social Work Dept, Fac Sociol & Social Work, Cluj Napoca, Romania.
+   [Ispanovic, Veronika; Hanak, Natasha] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Olmezoglu-Sofuoglu, Zeynep; Umit-Bal, Ismail] Assoc Emergency Ambulance Phys, Izmir, Turkey.
+   [Bianchi, Donata] Inst Innocenti, Florence, Italy.
+   [Meinck, Franziska] Univ Oxford, Ctr Evidence Based Intervent, Oxford, England.
+   [Meinck, Franziska] North West Univ, Sch Behav Sci, Vanderbeijlpark, South Africa.
+   [Browne, Kevin] Univ Nottingham, Sch Med, Ctr Forens & Family Psychol, Div Psychiat & Appl Psychol, Nottingham, England.
+   [Zarokosta, Foteini] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Tsirigoti, Antonia] The Smile Child, Athens, Greece.
+   [Cenko, Enila] Univ New York Tirana, Humanities & Social Sci Dept, Tirana, Albania.
+   [Hanak, Natasha] AWO Clearinghaus Unaccompanied Minor Refugees, Dortmund, North Rhine Wes, Germany.
+C3 University of Sarajevo; South-West University - Bulgaria; University of
+   Zagreb; Saints Cyril & Methodius University of Skopje; Babes Bolyai
+   University from Cluj; University of Belgrade; Istituto degli Innocenti;
+   University of Oxford; North West University - South Africa; University
+   of Nottingham; Technical University of Denmark; University of New York
+   in Tirana
+RP Nikolaidis, G (corresponding author), Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+EM gnikolaidis@ich-mhsw.gr
+RI Stancheva-Popkostadinova, Vaska Sl/N-5753-2014; Roth, Maria/H-6760-2019;
+   Antal, Imola/IAM-0424-2023; Brkić Šmigoc, Jelena/GNN-1106-2022;
+   Sofuoglu, Zeynep/AAA-9584-2021; Vajzović, Emir/AAR-1233-2021; Meinck,
+   Franziska/C-7694-2014; Rajter, Miroslav/A-3619-2016
+OI Roth, Maria/0000-0002-8284-8798; Brkić Šmigoc,
+   Jelena/0000-0002-8632-1520; Meinck, Franziska/0000-0002-5234-3799;
+   Rajter, Miroslav/0000-0002-2608-3196; Nikolaidis,
+   George/0000-0001-7017-0660; Vajzovic, Emir/0000-0003-4189-0946;
+   Stancheva-Popkostadinova, Vaska/0000-0002-9302-7282
+FU European Research Council under the EU's 7th Framework Programme for
+   Research and Innovation [223478/HEALTH/CALL 2007-B]; Economic and Social
+   Research Council in the UK [ES/N017447/1]; ESRC [ES/N017447/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/N017447/1]
+   Funding Source: researchfish
+FX The research leading to this manuscript was funded by the European
+   Research Council under the EU's 7th Framework Programme for Research and
+   Innovation (ID: 223478/HEALTH/CALL 2007-B). FM received writing support
+   from the Economic and Social Research Council in the UK (ES/N017447/1).
+NR 49
+TC 40
+Z9 40
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD JAN 2
+PY 2018
+VL 12
+AR 1
+DI 10.1186/s13034-017-0208-x
+PG 15
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR8KC
+UT WOS:000419322600001
+PM 29308086
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Stojanovic-Spehar, S
+   Blazekovic-Milakovic, S
+   Amerl-Sakic, V
+   Kolic, N
+   Supe, S
+AF Stojanovic-Spehar, Stanislava
+   Blazekovic-Milakovic, Sanja
+   Amerl-Sakic, Vjekoslava
+   Kolic, Nejra
+   Supe, Svjetlana
+TI DEPRESSION PREVALENCE AND ESTIMATION OF PSYCHOSOCIAL PARAMETERS WITHIN
+   ADULT POPULATION IN CITY OF ZAGREB
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE depression; psychosocial factors; family physicians
+ID CORONARY-HEART-DISEASE; CARDIOVASCULAR-DISEASE; RISK; DISORDERS;
+   RECURRENCE; SUICIDE
+AB Background. There is no data on depression prevalence in Croatia. The aim of this study was to establish the prevalence and psychosocial risk factors of depression in the adult population of the Croatian capital Zagreb, particularly in patients suffering from Depressive episode (F32) and Recurrent depressive disorder (F33).
+   Subjects and methods: A cross-sectional study was preformed on a representative sample for city of Zagreb drawn from 10 family physicians' offices with 17290 patients. From standardized medical files, the family physicians sorted out data of patients with depression, both Depressive episodes (F32) and Recurrent depressive disorder (F33), classified according to ICD 10. Psychosocial parameters were assessed according to the core questions for the management of psychosocial risk factors recommended by the European Guidelines on Cardiovascular Disease Prevention in Clinical Practice.
+   Results: The prevalence of depression was 2.2%. Recognized socioeconomical parameters were: female sex (74.7%), middle age 45-65 years (40.7%), married (55.3%), high school education (59.2%), retired (54.5%), and average economical status (73.6%). As regards social isolation: depressive patients were not living alone (71.5%), they had help in case of illness (80.9%), and had no problems with their partner (36.8%). Work stress parameters were estimated between 5 and 6 Life satisfaction was estimated mean +/- SD=4.57+/-1.72. Logistic regression analysis showed a significant association between higher education and physicians' perception as "more depressed and more difficult" patients with Recurrent depressive disorder (F33). Family physicians were unfamiliar with the genealogical disease burden for 45% of depressive patients, whether they had closed confident for 21.93% and problems with partner for 30.80%.
+   Conclusion: Depression had a prevalence of 2.2%. It was poorly recognized as were some psychosocial factors especially genealogical disease burden. This suggests the need for implementation of special intervention methods of developing the family physicians' skills in adopting the psychosocial approach to depressive patients with a focus on recognized psychosocial risk factors.
+C1 [Stojanovic-Spehar, Stanislava; Blazekovic-Milakovic, Sanja; Amerl-Sakic, Vjekoslava; Kolic, Nejra] Univ Zagreb, Sch Med, Andrija Stampar Sch Publ Hlth, Zagreb 41001, Croatia.
+   [Supe, Svjetlana] Univ Zagreb, Ctr Hosp, Dept Neurol, Zagreb 41000, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Stojanovic-Spehar, S (corresponding author), Ordinacija Obiteljske Med Stanislava Stojanovic S, Zagreb 10000, Croatia.
+EM stanislava.stojanovic-spehar@zg.htnet.hr
+NR 34
+TC 3
+Z9 4
+U1 0
+U2 2
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PD DEC
+PY 2009
+VL 21
+IS 4
+BP 497
+EP 507
+PG 11
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 527DN
+UT WOS:000272347000008
+PM 19935483
+DA 2023-12-06
+ER
+
+PT J
+AU Cavard, S
+   Alvarez, JC
+   De Mazancourt, P
+   Tilotta, F
+   Brousseau, P
+   de la Grandmaison, GL
+   Charlier, P
+AF Cavard, S.
+   Alvarez, J. C.
+   De Mazancourt, P.
+   Tilotta, F.
+   Brousseau, P.
+   de la Grandmaison, G. Lorin
+   Charlier, P.
+TI Forensic and police identification of "X" bodies. A 6-years French
+   experience
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article
+DE Identification; Police investigation; Molecular biology; Fingerprints;
+   Odontology
+ID HUMAN REMAINS; PERSONAL IDENTIFICATION; DENTAL IDENTIFICATION; MASS
+   DISASTERS; WAR VICTIMS; CROATIA; ACCIDENT; GRAVES; CRASH
+AB The identification of X bodies is an everyday preoccupation in forensic pathology. This retrospective analysis studied all methods of identification and characteristics of unidentified bodies arrived in the Department of Forensic Medicine and Pathology (University Hospital R. Poincare, Garches, France) during a 6-years period (2003-2009).
+   The aim was to determine the identification methods used during all the forensic investigations, but also to study causes and manner of death in this sample of the population.
+   A total of 9.1% of all autopsies were on X cadavers (217 cases out of 2384). On this total, only 134 of them have been included in our series after exclusion of archaeological and animal samples, but also of unidentified individuals or incomplete data available. Almost 28% of them have been identified with molecular biology (DNA), 23% with odontological examination, 7.5% with fingerprinting and 6.7% with autopsy data.
+   Manner of death was mainly suicide (40.3%) especially by asphyxia following drowning, then accidental death (17.9%) especially consecutive to multiple trauma after traffic accident, acute carbon monoxide intoxication or carbonization in a fire. A total of 11.9% natural deaths were found (50% of them being of cardio-vascular origin) and 11.2% of homicides (with the use of firearm in a third of them). For 18.7% of X cadavers, the mode of death was undetermined.
+   46.4% of all unidentified bodies in our series were only identified by the police investigations, using physical recognition (direct or with photographs) or personal effects or identity documents in close relationship with the body. Our study highlights the fact that quite half of all unidentified bodies are inhumed with an identity not scientifically proved.
+   Bodies which remained unidentified after all investigations represent 10.2% of X cadavers (if we consider a group of 176 cases composed of our study sample of 134 cases plus 24 subjects identified just before the autopsy and the 18 cases which remained unidentified) and 0.8% of all autopsies performed in the department. (C) 2010 Elsevier Ireland Ltd. All rights reserved.
+C1 [Cavard, S.; Tilotta, F.; Brousseau, P.; de la Grandmaison, G. Lorin; Charlier, P.] UVSQ, Univ Hosp R Poincare, AP HP, Dept Forens Med & Pathol, F-92380 Garches, France.
+   [Alvarez, J. C.] UVSQ, Univ Hosp R Poincare, AP HP, Dept Toxicol, F-92380 Garches, France.
+   [De Mazancourt, P.] UVSQ, Univ Hosp R Poincare, AP HP, Dept Mol Genet, F-92380 Garches, France.
+C3 Universite Paris Saclay; Assistance Publique Hopitaux Paris (APHP);
+   Hopital Universitaire Paul-Brousse - APHP; Universite Paris Cite;
+   Hopital Universitaire Hotel-Dieu - APHP; Hopital Universitaire
+   Raymond-Poincare - APHP; Assistance Publique Hopitaux Paris (APHP);
+   Hopital Universitaire Paul-Brousse - APHP; Universite Paris Cite;
+   Hopital Universitaire Hotel-Dieu - APHP; Universite Paris Saclay;
+   Hopital Universitaire Raymond-Poincare - APHP; Universite Paris Saclay;
+   Assistance Publique Hopitaux Paris (APHP); Hopital Universitaire
+   Paul-Brousse - APHP; Hopital Universitaire Raymond-Poincare - APHP;
+   Universite Paris Cite; Hopital Universitaire Hotel-Dieu - APHP
+RP Charlier, P (corresponding author), UVSQ, Univ Hosp R Poincare, AP HP, Dept Forens Med & Pathol, R Poincare Blvd, F-92380 Garches, France.
+EM ph_charlier@yahoo.fr
+RI Alvarez, Jean Claude/AGN-3028-2022; Tilotta, Françoise/IAP-0968-2023
+OI Alvarez, Jean Claude/0000-0001-5344-9475; Tilotta,
+   Françoise/0000-0003-3500-2551
+NR 29
+TC 11
+Z9 13
+U1 1
+U2 14
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD JAN 30
+PY 2011
+VL 204
+IS 1-3
+BP 139
+EP 143
+DI 10.1016/j.forsciint.2010.05.022
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 703PS
+UT WOS:000285991900028
+PM 20576370
+DA 2023-12-06
+ER
+
+EF

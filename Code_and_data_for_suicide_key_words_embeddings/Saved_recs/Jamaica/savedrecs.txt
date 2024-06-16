@@ -1,0 +1,1180 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Abel, WD
+   James, K
+   Bridgelal-Nagassar, R
+   Holder-Nevins, D
+   Eldemire, H
+   Thompson, E
+   Sewell, C
+AF Abel, W. D.
+   James, K.
+   Bridgelal-Nagassar, R.
+   Holder-Nevins, D.
+   Eldemire, H.
+   Thompson, E.
+   Sewell, C.
+TI The Epidemiology of Suicide in Jamaica 2002-2010: Rates and Patterns
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Developing country; epidemiology; Jamaica; suicide rates
+ID PUBLIC-HEALTH
+AB Objective: Suicide is increasingly recognized as a worldwide problem. There is a paucity of quality data pertaining to suicide in developing countries. Epidemiological analysis of suicide data elucidates prevailing patterns that facilitate risk factor identification and the development of germane programmatic responses. This paper analyses temporal variations in suicide rates for the years 2002-2010 in Jamaica and describes the sociodemographic profile of cases and method of suicide for the latter four years.
+   Method: Data pertaining to suicides were extracted from the police (The Jamaica Constabulary Force) records. These were summarized and analysed with respect to person, place and time. Population statistics for the computation of rates were obtained from publications of the Statistical Institute of Jamaica. Age-standardized rates were generated for comparison of trends over time. Poisson and binomial probabilities were used to determine statistically significant differences in rates.
+   Results: Suicide rates in Jamaica have remained relatively stable for the period reviewed with mean overall annual incidence of 2.1 per 100 000 population. Rates for males were significantly higher than those for females. The majority (90.4%) of suicide cases were males. A trend for higher rates of suicide was generally noted in the 25-34-year and the 75-year and over age groups. Hanging was the main method used to commit suicide (77.5%).
+   Conclusions: Age-adjusted rates of suicide indicate no significant changes in Jamaica over the period 2002 to 2010. Continued surveillance of suicide as well as improved recording of the circumstances surrounding suicides are recommended to promote greater understanding of suicides and this will ultimately inform intervention strategies.
+C1 [Abel, W. D.; James, K.; Bridgelal-Nagassar, R.; Holder-Nevins, D.; Eldemire, H.; Sewell, C.] Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+   [Thompson, E.] No Caribbean Univ, Manchester, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Abel, WD (corresponding author), Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM wendelabel@hotmail.com
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 16
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD AUG
+PY 2012
+VL 61
+IS 5
+SI SI
+BP 509
+EP 515
+DI 10.7727/wimj.2011.121
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 091WM
+UT WOS:000315080500008
+PM 23441374
+DA 2023-12-03
+ER
+
+PT J
+AU Kukoyi, OY
+   Shuaib, FM
+   Campbell-Forrester, S
+   Crossman, L
+   Jolly, PE
+AF Kukoyi, Omobolawa Y.
+   Shuaib, Faisal M.
+   Campbell-Forrester, Sheila
+   Crossman, Lisabeth
+   Jolly, Pauline E.
+TI Suicidal Ideation and Suicide Attempt Among Adolescents in Western
+   Jamaica A Preliminary Study
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; adolescent; Jamaica
+ID RISK-FACTORS; BEHAVIOR; HEALTH; PREVALENCE; RATES
+AB Background: Although extensive studies on adolescent suicidal behavior have been conducted in developed countries such as the United States, little data exist on risk factors for suicide among adolescents in culturally and socially disadvantages settings, such as Jamaica. Aims: To conduct a preliminary investigation of risk factors associated with suicide ideation and attempt among youths in Western Jamaica. Methods: We conducted a cross-sectional study of 342 adolescents aged 10-19 years from 19 schools. Results: Multivariate analysis showed that a history of self-violence, violent thoughts toward others, mental health diagnoses other than depression, and a history of sexual abuse were positively associated with suicide attempt. Sexual abuse, mental health diagnoses other than depression, self-violence, and ease of access to lethal substances/weapons were positively associated with suicide ideation. Conclusions: We found a relatively high prevalence of suicide ideation and suicide attempts among adolescents living in Western Jamaica. An accurate understanding of the prevailing risk factors for suicide attempts will promote a more sympathetic approach to victims and facilitate prevention efforts.
+C1 [Jolly, Pauline E.] Univ Alabama Birmingham, Sch Publ Hlth, Dept Epidemiol, Birmingham, AL 35294 USA.
+   [Campbell-Forrester, Sheila; Crossman, Lisabeth] Minist Hlth, Montego Bay, Jamaica.
+   [Shuaib, Faisal M.] Univ Alabama Birmingham, Div Prevent Med, Birmingham, AL 35294 USA.
+C3 University of Alabama System; University of Alabama Birmingham;
+   University of Alabama System; University of Alabama Birmingham
+RP Jolly, PE (corresponding author), Univ Alabama Birmingham, Sch Publ Hlth, Dept Epidemiol, Birmingham, AL 35294 USA.
+EM jollyp@uab.edu
+FU NIMHD NIH HHS [T37 MD001448] Funding Source: Medline
+NR 38
+TC 17
+Z9 18
+U1 0
+U2 19
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2010
+VL 31
+IS 6
+BP 317
+EP 327
+DI 10.1027/0227-5910/a000038
+PG 11
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 710HM
+UT WOS:000286501800005
+PM 21190930
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Holder-Nevins, D
+   James, K
+   Bridgelal-Nagassar, R
+   Bailey, A
+   Thompson, E
+   Eldemire, H
+   Sewell, C
+   Abel, WD
+AF Holder-Nevins, D.
+   James, K.
+   Bridgelal-Nagassar, R.
+   Bailey, A.
+   Thompson, E.
+   Eldemire, H.
+   Sewell, C.
+   Abel, W. D.
+TI Suicide among Adolescents in Jamaica: What Do We Know?
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Adolescents; Jamaica; suicide
+ID RISK; DEPRESSION; BEHAVIOR
+AB Suicide is increasingly acknowledged as a global problem. Yet little is known worldwide about suicide rates among adolescents. Several social factors that exist in Jamaica present as stressors and may predispose to suicide. Ascertaining prevailing patterns and associated factors is important for crafting interventions. This paper establishes adolescent suicide rates for the years 2007-2010 in Jamaica and provides related epidemiological data.
+   Method: Data pertaining to suicides were extracted from standardized data collected by the police. Information regarding the number of suicides among adolescents, 9-19 years of age, was reviewed for the years 2007-2010. Sociodemographic characteristics of cases: gender, location and occupation along with related variables were also examined. Variation of rates over time was ascertained. Statistically significant associations were determined by reference to p-values and confidence intervals.
+   Results: The incidence for suicide in adolescents was 1.1 per 100 000. Rates for males were significantly higher than females. Most suicide cases were students and the majority of cases was from rural areas (65%). Hanging was the main method used to commit suicide (96.2%). Items of clothing were commonly used for this purpose.
+   Conclusion: Male adolescent suicide rates showed an upward trend in contrast to the downward trend for females in the four-year period studied. Continued surveillance is needed for greater understanding of adolescent suicides. Collaboration among health services, parents, schools and communities is integral in prevention efforts. Recent media coverage of suicides provides a window of opportunity to galvanize support for research and the development of intervention strategies.
+C1 [Holder-Nevins, D.; James, K.; Bridgelal-Nagassar, R.; Bailey, A.; Eldemire, H.; Sewell, C.; Abel, W. D.] Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+   [Thompson, E.] No Caribbean Univ, Manchester, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Abel, WD (corresponding author), Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM wendelabel@hotmail.com
+RI Bailey, Althea/AAT-4018-2021
+NR 35
+TC 9
+Z9 11
+U1 0
+U2 17
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD AUG
+PY 2012
+VL 61
+IS 5
+SI SI
+BP 516
+EP 520
+DI 10.7727/wimj.2011.133
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 091WM
+UT WOS:000315080500009
+PM 23441375
+DA 2023-12-03
+ER
+
+PT J
+AU White, YRG
+   Barnaby, L
+   Swaby, A
+   Sandfort, T
+AF White, Yohann R. G.
+   Barnaby, Loraine
+   Swaby, Antoneal
+   Sandfort, Theo
+TI Mental Health Needs of Sexual Minorities in Jamaica
+SO INTERNATIONAL JOURNAL OF SEXUAL HEALTH
+LA English
+DT Article
+DE Depression; Jamaica; LGBT; mental health; minority; suicide; stress
+ID GAY MEN; ORIENTATION; STRESS; SUICIDALITY; DISORDERS; LATINO;
+   DISCRIMINATION; BEHAVIOR; LESBIANS; ADULTS
+AB This study examined the prevalence of Axis I disorders and associated risk factors in a sample of sexual minority men and women in Jamaica, a country that is widely known for its high societal rejection of homosexuality. Poor relationships with family, negative or abusive experiences related to one's sexual orientation, and greater openness about one's sexual orientation were independent risk factors for Axis I disorders. Prevention of mental disorders in sexual minorities in Jamaica should focus on rebuilding family support and promoting social acceptance of sexual minorities.
+C1 [White, Yohann R. G.] Kagoshima Univ, Grad Sch Med & Dent Sci, Kagoshima 8908544, Japan.
+   [White, Yohann R. G.] Univ W Indies, Fac Med Sci, Kingston 7, Jamaica.
+   [Barnaby, Loraine] Univ W Indies, Sect Psychiat, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+   [Swaby, Antoneal] Widener Univ, Inst Grad Clin Psychol, Chester, PA 19013 USA.
+   [Swaby, Antoneal] Univ W Indies, Dept Sociol Psychol & Social Work, Kingston 7, Jamaica.
+   [Sandfort, Theo] New York State Psychiat Inst & Hosp, HIV Ctr Clin & Behav Studies, New York, NY 10032 USA.
+   [Sandfort, Theo] Columbia Univ, New York, NY USA.
+C3 Kagoshima University; University West Indies Mona Jamaica; University
+   West Indies Mona Jamaica; Widener University; University West Indies
+   Mona Jamaica; New York State Psychiatry Institute; Columbia University
+RP White, YRG (corresponding author), Kagoshima Univ, Grad Sch Med & Dent Sci, Sakuragaoka 8-35-1, Kagoshima 8908544, Japan.
+EM yohann@m2.kufm.kagoshima-u.ac.jp
+RI Sandfort, Theo/D-1796-2011
+OI Sandfort, Theo/0000-0002-4986-1739
+FU NIMH NIH HHS [P30 MH043520-17] Funding Source: Medline
+NR 31
+TC 14
+Z9 14
+U1 0
+U2 20
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1931-7611
+EI 1931-762X
+J9 INT J SEX HEALTH
+JI Int. J. Sex. Health
+PY 2010
+VL 22
+IS 2
+BP 91
+EP 102
+DI 10.1080/19317611003648195
+PG 12
+WC Psychology, Clinical; Public, Environmental & Occupational Health;
+   Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Social Sciences
+   - Other Topics
+GA 669AS
+UT WOS:000283319400004
+PM 21052478
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Abell, WD
+   Sewell, C
+   Martin, JS
+   Bailey-Davidson, Y
+   Fox, K
+AF Abell, W. D.
+   Sewell, C.
+   Martin, J. S.
+   Bailey-Davidson, Y.
+   Fox, K.
+TI Suicide Ideation in Jamaican Youth: Sociodemographic Prevalence,
+   Protective and Risk Factors
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Jamaica; suicide ideation; youth
+ID DEPRESSIVE SYMPTOMS; ADOLESCENT SUICIDE; BEHAVIOR; CHILDREN; HEALTH;
+   ABUSE
+AB Objective: To determine the prevalence of suicidal ideation and examine the association between suicidal ideation and sociodemographic characteristics, protective and risk factors among Jamaican youth.
+   Method: In this cross-sectional study, an interviewer administered school-based survey was conducted among 2997 students 10-15 years old in Jamaica. Although there were a number of questions on suicide, this paper focusses on one question "During the past year, did you ever seriously consider attempting suicide?" as the measure of suicidal ideation.
+   Results: The prevalence rate of suicidal ideation was 9.7%. Logistic regression analysis revealed that significant correlates of suicidal ideation were being female (odds ratio = 1.49), being depressed (odds ratio = 5.78), living in a rural area (odds ratio = 0.62), likes oneself (odds ratio = 0.58), indulging in aggressive behaviour (odds ratio = 1.43), has considered harming others (odds ratio = 3.11), protective factors in the home (odds ratio = 0.62), involvement in risky behaviour (odds ratio = 1.56) and being teased/bullied (odds ratio = 1.69).
+   Conclusion: These findings have implication for prevention and treatment of suicidal behaviour in children and adolescents.
+C1 [Abell, W. D.; Sewell, C.; Martin, J. S.] Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+   [Bailey-Davidson, Y.] Bellevue Hosp, Kingston 2, Jamaica.
+   [Fox, K.] Univ W Indies, Sir Arthur Lewis Inst Social & Econ Studies, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica; University West Indies Mona Jamaica
+RP Abell, WD (corresponding author), Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM wendelabel@hotmail.com
+NR 32
+TC 17
+Z9 21
+U1 0
+U2 9
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD AUG
+PY 2012
+VL 61
+IS 5
+SI SI
+BP 521
+EP 525
+DI 10.7727/wimj.2011.144
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 091WM
+UT WOS:000315080500010
+PM 23441376
+DA 2023-12-03
+ER
+
+PT J
+AU Emmanuel, MK
+   Campbell, MH
+AF Emmanuel, Maisha K.
+   Campbell, Michael H.
+TI Commentary: Homicide-Suicide in the Caribbean
+SO JOURNAL OF THE AMERICAN ACADEMY OF PSYCHIATRY AND THE LAW
+LA English
+DT Editorial Material
+AB With the exception of Guyana and Trinidad, suicide rates in the Caribbean are relatively low compared with those in other countries. Homicide rates, however, have increased over the past 15 years, especially in Jamaica and Trinidad. The link between suicide, homicide, and homicide followed by suicide (H-S) is not well established. A newspaper review of H-S events in a selection of Caribbean territories revealed a surprising number of these events. Characteristics of perpetrators were similar to those documented in the literature. The authors agree with Roma et al. that national tracking systems for H-S are needed. Empirical research on this topic in the Caribbean is also desperately needed. J Am Acad Psychiatry Law 40:469-71, 2012
+C1 [Emmanuel, Maisha K.; Campbell, Michael H.] Univ W Indies, Cave Hill, Barbados.
+C3 University West Indies Mona Jamaica; University West Indies Cave Hill
+   Campus
+RP Emmanuel, MK (corresponding author), Univ W Indies, Cave Hill, Cave Hill, Barbados.
+EM e.maisha@gmail.com
+RI Campbell, Michael H/GQQ-7134-2022; Campbell, Michael H/AAN-2401-2021
+OI Campbell, Michael H/0000-0002-5927-2612; Campbell, Michael
+   H/0000-0002-5927-2612; Emmanuel, Maisha/0000-0002-3449-9669
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 7
+PU AMER ACAD PSYCHIATRY & LAW
+PI BLOOMFIELD
+PA ONE REGENCY DR, PO BOX 30, BLOOMFIELD, CT 06002 USA
+SN 1093-6793
+EI 1943-3662
+J9 J AM ACAD PSYCHIATRY
+JI J. Am. Acad. Psychiatry Law
+PY 2012
+VL 40
+IS 4
+BP 469
+EP 471
+PG 3
+WC Law; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Psychiatry
+GA 060GN
+UT WOS:000312764600003
+PM 23233466
+DA 2023-12-03
+ER
+
+PT J
+AU Matthews, CN
+AF Matthews, Christopher N.
+TI Gilded Ages and Gilded Archaeologies of American Exceptionalism
+SO INTERNATIONAL JOURNAL OF HISTORICAL ARCHAEOLOGY
+LA English
+DT Article
+DE Race suicide; Historic preservation; King Manor; Jamaica Queens;
+   Theodore Roosevelt
+AB Archaeology's ties to an interest in America's natural and cultural resources, enshrined in the Antiquities Act of 1906, can be tied to the development of the presumed entitlements associated with gilded age-era conceptions of America's cultural and racial exceptionalism. Archaeology, historic preservation, and related interests in the materiality of America's past were in fact among the mechanisms used to legitimize America's global emergence in the modern era. Considering elite ideas about race and a fear of "race suicide" as well as the rise of the environmental conservation and the historic house movement, this paper argues that archaeology and related pursuits of historic materiality have been regularly deployed to enforce Anglo-Saxon racial values. Explicitly formed in the historical context of mass-immigration, this dynamic is explored in a discussion of two archaeological sites in Jamaica, Queens connected to gilded-age discourse on Americanization.
+C1 Montclair State Univ, Dept Anthropol, Montclair, NJ 07043 USA.
+C3 Montclair State University
+RP Matthews, CN (corresponding author), Montclair State Univ, Dept Anthropol, 1 Normal Ave, Montclair, NJ 07043 USA.
+EM matthewsc@mail.montclair.edu
+NR 30
+TC 2
+Z9 5
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1092-7697
+EI 1573-7748
+J9 INT J HIST ARCHAEOL
+JI Int. J. Hist. Archaeol.
+PD DEC
+PY 2012
+VL 16
+IS 4
+BP 717
+EP 744
+DI 10.1007/s10761-012-0199-5
+PG 28
+WC Archaeology
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Archaeology
+GA 040BK
+UT WOS:000311294000006
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Parental involvement and mental health among school-going adolescents in
+   five Caribbean countries
+SO JOURNAL OF PSYCHOLOGY IN AFRICA
+LA English
+DT Article
+DE adolescents; Caribbean; mental health; parental involvement
+ID DEPRESSIVE SYMPTOMS; SUICIDAL IDEATION; RISK; CONNECTEDNESS; BEHAVIORS;
+   ASSOCIATIONS; METAANALYSIS; CHILDREN; VIOLENCE; JAMAICA
+AB The aim of this study was to assess the association between parental involvement and mental health among adolescents in five Caribbean countries: Antigua and Barbuda, Bahamas, Saint Kitts and Nevis, Jamaica and Trinidad, and Tobago. Data were from the cross-sectional Global School-Based Student Health Survey (GSHS) which sampled 10 063 adolescents (mean age 14.3 years, SD = 1.3) from 2009 to 2013. In multivariable logistic regression analyses (adjusted for age, sex, and socioeconomic status), bullied, having close friends and peer support, and higher levels of parental involvement were negatively associated with loneliness, anxiety, and suicidal ideation in all five countries. In Jamaica, parental involvement was not associated with suicide attempt. Parental involvement interventions for improving mental health among the Caribbean adolescents should consider peer influences.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhonpathom, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.; Peltzer, K (corresponding author), Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+EM kpeltzer@hsrc.ac.za
+RI Peltzer, Karl/Q-7334-2019; Peltzer, Karl/D-1518-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 30
+TC 9
+Z9 10
+U1 2
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1433-0237
+EI 1815-5626
+J9 J PSYCHOL AFR
+JI J. Psychol. Afr.
+PY 2018
+VL 28
+IS 5
+BP 394
+EP 399
+DI 10.1080/14330237.2018.1501916
+PG 6
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GY7EQ
+UT WOS:000448769100008
+DA 2023-12-03
+ER
+
+PT J
+AU Escoffery, CT
+   Shirley, SE
+AF Escoffery, CT
+   Shirley, SE
+TI Fatal poisoning in Jamaica: A coroner's autopsy study from the
+   University Hospital of the West Indies
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+ID PACKER SYNDROME; SUICIDE; TRINIDAD
+AB This study reviewed cases of fatal poisoning in a coroner's autopsy series at the University Hospital of the West Indies and represented the first such study reported from Jamaica. The autopsy protocols of all coroner's autopsies performed over the 20-year period January 1980 to December 1999 were reviewed retrospectively; 22 (1.0%) cases were identified and relevant clinical and pathological data analysed.
+   There were 13 males and nine females (MY ratio 1.4:1) with an age range of 2-69 years (mean +/- SD = 27 +/- 16.1 years). The 20-29 year group was most commonly affected and five patients (22.7%) were children (<18 years of age). Pesticides (herbicides/ insecticides) were implicated in nine (41%) cases: paraquat was the most common, found in six (27%) cases. Prescription drugs were the next most prevalent group with six (27%) cases, followed by anti-psychotic drugs in four (18%) cases. Cocaine and ackee were each implicated in two (9%) cases.
+   The manner of death was suicidal in 14 (64%) cases and accidental in eight (36%) cases. Seven patients had documented psychiatric illnesses, six of whom committed suicide. Autopsy findings were largely non-specific. The relatively small number of cases was consistent with the low incidence of fatal poisoning in Jamaica.
+C1 Univ W Indies, Dept Pathol, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Escoffery, CT (corresponding author), Univ W Indies, Dept Pathol, Kingston 7, Jamaica.
+EM cescoffy@cjamaica.com
+NR 24
+TC 11
+Z9 11
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD APR
+PY 2004
+VL 44
+IS 2
+BP 116
+EP 120
+DI 10.1258/rsmmsl.44.2.116
+PG 5
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 824LF
+UT WOS:000221687400003
+PM 15176623
+DA 2023-12-03
+ER
+
+PT J
+AU Blum, RW
+   Halcón, L
+   Beuhring, T
+   Pate, E
+   Campell-Forrester, S
+   Venema, A
+AF Blum, RW
+   Halcón, L
+   Beuhring, T
+   Pate, E
+   Campell-Forrester, S
+   Venema, A
+TI Adolescent health in the Caribbean:: Risk and protective factors
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID HIGH-SCHOOL-STUDENTS; SUICIDE ATTEMPTS; BEHAVIOR; JAMAICA; YOUTH; DRUGS
+AB Objectives. This study sought to identify, among youths, factors associated with characteristics such as poor health status, substance use, and suicide risk and to explore the extent to which the risk and protective factors identified cut across health-compromising behaviors.
+   Methods. A survey was administered to representative samples of young people from 9 Caribbean countries.
+   Results. Physical/sexual abuse and having a friend or relative who had attempted suicide were associated with an increased prevalence of health-compromising behaviors. Connectedness with parents and school and attendance at religious services were associated with fewer health risk behaviors.
+   Conclusions. When the identified risk and protective factors were compared with those seen among young people in the United States, similarities as well as important differences were found.
+C1 Univ Minnesota, Div Gen Pediat & Adolescent Hlth, Minneapolis, MN 55455 USA.
+   Univ Minnesota, Sch Nursing, Minneapolis, MN 55455 USA.
+   Pan Amer Hlth Org, Dept Family Hlth, Washington, DC USA.
+   Minist Hlth, Montego Bay, Jamaica.
+   Pan Amer Hlth Org, Dept Family Hlth, Bridgetown, Barbados.
+C3 University of Minnesota System; University of Minnesota Twin Cities;
+   University of Minnesota System; University of Minnesota Twin Cities; Pan
+   American Health Organization; Pan American Health Organization
+RP Blum, RW (corresponding author), Univ Minnesota, Div Gen Pediat & Adolescent Hlth, 200 Oak St SE,Suite 260, Minneapolis, MN 55455 USA.
+NR 18
+TC 88
+Z9 120
+U1 0
+U2 6
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 1015 FIFTEENTH ST NW, WASHINGTON, DC 20005 USA
+SN 0090-0036
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PD MAR
+PY 2003
+VL 93
+IS 3
+BP 456
+EP 460
+DI 10.2105/AJPH.93.3.456
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 649KM
+UT WOS:000181207500028
+PM 12604495
+OA Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Maynard, MJ
+   Rosato, M
+   Teyhan, A
+   Harding, S
+AF Maynard, Maria J.
+   Rosato, Michael
+   Teyhan, Alison
+   Harding, Seeromanie
+TI Trends in suicide among migrants in England and Wales 1979-2003
+SO ETHNICITY & HEALTH
+LA English
+DT Article
+DE suicide; migrants; England and Wales
+ID RISK-FACTORS; MENTAL-HEALTH; RATES; IMMIGRANTS
+AB Objective. Trends in suicide death rates among migrants to England and Wales 1979-2003 were examined.
+   Methods. Age-standardised rates derived for eight country of birth groups.
+   Results. For men born in Jamaica, suicide death rates increased in 1999-2003. There were declines in rates for men and women from India and from Scotland, men from East Africa and Northern Ireland and women from the Republic of Ireland. For both men and women born in Scotland or the Irish Republic, despite declines for some, rates remained higher than for England and Wales born. Rates among men from Pakistan were consistently lower than men born in England and Wales.
+   Conclusion. These analyses indicate declining trends for most migrant groups and for England and Wales-born women, but adverse trends in death rates for some country of birth groups.
+C1 [Maynard, Maria J.; Harding, Seeromanie] MRC, Social & Publ Hlth Sci Unit, Glasgow G12 8RZ, Lanark, Scotland.
+   [Rosato, Michael] Queens Univ Belfast, Sch Geog Archeol & Palaeoecol, Belfast BT7 1NN, Antrim, North Ireland.
+   [Teyhan, Alison] Univ Bristol, Fac Med & Dent, Bristol BS8 2BN, Avon, England.
+C3 MRC/CSO SOCIAL AND PUBLIC HEALTH SCIENCES UNIT; Queens University
+   Belfast; University of Bristol
+RP Maynard, MJ (corresponding author), MRC, Social & Publ Hlth Sci Unit, 4 Lilybank Gardens, Glasgow G12 8RZ, Lanark, Scotland.
+EM m.maynard@sphsu.mrc.ac.uk
+OI Teyhan, Alison/0000-0002-4965-3139; Maynard, Maria/0000-0002-0011-752X
+FU Medical Research Council WBS [U.1300.00.003.00002.01]; MRC
+   [MC_U130015185, MC_EX_G0701943] Funding Source: UKRI; Medical Research
+   Council [MC_EX_G0701943, MC_U130015185] Funding Source: researchfish
+FX The authors would like to acknowledge The Office for National Statistics
+   for provision of the data. All authors were involved in the formulation
+   of the research question. MR conducted the analyses, MM produced the
+   first draft of the manuscript and all authors contributed to subsequent
+   drafts of the manuscript. This study was funded by the Medical Research
+   Council WBS code U.1300.00.003.00002.01.
+NR 22
+TC 5
+Z9 5
+U1 2
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1355-7858
+EI 1465-3419
+J9 ETHNIC HEALTH
+JI Ethn. Health
+PY 2012
+VL 17
+IS 1-2
+SI SI
+BP 135
+EP 140
+DI 10.1080/13557858.2012.655265
+PG 6
+WC Ethnic Studies; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Ethnic Studies; Public, Environmental & Occupational Health
+GA 955ES
+UT WOS:000305000500011
+PM 22288722
+OA Green Published, Green Accepted, Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Hickling, FW
+AF Hickling, FW
+TI The epidemiology of schizophrenia and other common mental health
+   disorders in the English-speaking Caribbean
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE epidemiology; mental health disorders; English-speaking Caribbean
+ID HOSPITAL ADMISSION RATES; TRINIDAD; SUICIDE; LONDON
+AB Objective. To report on the epidemiology of schizophrenia and other common mental health disorders in the English-speaking Caribbean.
+   Methods. The MEDLINE, MEDCARIB and West Indiana electronic databases were searched with the phrases Caribbean AND psychiatry OR mental OR suicide, and items with specific reference to epidemiology were culled and reviewed.
+   Results. The age-corrected incidence rate for schizophrenia per 10 000 is 2.09 in Jamaica, 2.2 per 1000 in Trinidad, and 2.92 in Barbados. These rates are lower than the incidence rates reported for white British people, and significantly lower that the 6- to 18-fold higher risk ratio incidence reported for African Caribbeans living in Britain. A comparative diagnostic study carried out in the United Kingdom (UK) suggests that misdiagnosis plays a significant role in this difference. Relatively low incidence figures for affective disorders, anxiety states, suicide and attempted suicide have been reported for Jamaica, Trinidad, and Barbados.
+   Discussion. Most published epidemiological studies of Caribbean populations center on schizophrenia, because of the startling findings of a large increase in risk ratios for African Caribbean people living in England compared to the white native British people. The etiological evidence is shifting toward factors of racism and social alienation experienced by black people in the UK, and to misdiagnosis by white British psychiatrists. Studies of the role of colonial enslavement and social engineering raise the etiological possibility of a role for social and structural community organization in the genesis of schizophrenia. The Caribbean thus represents a rich crucible for research in the epidemiology and etiology of mental health disorders.
+C1 Univ W Indies, Fac Med Sci, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Hickling, FW (corresponding author), Univ W Indies, Fac Med Sci, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM frederick.hickling@uwimona.edu.jm
+NR 41
+TC 15
+Z9 15
+U1 1
+U2 13
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD OCT-NOV
+PY 2005
+VL 18
+IS 4-5
+BP 256
+EP 262
+DI 10.1590/S1020-49892005000900005
+PG 7
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 992RC
+UT WOS:000233900500005
+PM 16354422
+OA gold
+DA 2023-12-03
+ER
+
+PT J
+AU Toussaint, L
+   Wilson, CM
+   Wilson, LC
+   Williams, DR
+AF Toussaint, Loren
+   Wilson, Colwick M.
+   Wilson, Leon C.
+   Williams, David R.
+TI Religiousness and suicide in a nationally representative sample of
+   Trinidad and Tobago adolescents and young adults
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Religiousness; Suicide; Adolescents and young adults; Trinidad and
+   Tobago
+ID SERVICE ATTENDANCE; AFRICAN-AMERICANS; BEHAVIOR; IDEATION; HEALTH;
+   ASSOCIATIONS; INVOLVEMENT; CULTURE; JAMAICA; SLAVERY
+AB The present study examines religiousness and its connection to suicidal thoughts, plans, and attempts among Trinidad and Tobago adolescents and young adults.
+   Data are from Trend Research Empowering National Development on adolescents and young adults in Trinidad and Tobago (N = 4448). Religious affiliation, self-perceived religiousness, attendance at religious services, prayer frequency, socio-demographic variables, and suicidal thoughts, plans, and attempts were assessed.
+   Compared to nonreligious, Catholics (OR 0.63, p < 0.05) and Seventh-day Adventists (OR 0.47, p < 0.01) were less likely to think about suicide, and hindus (OR 5.81, p < 0.05) and other affiliates (OR 7.28, p < 0.01) were more likely to be treated for suicide. Higher self-rated religiosity was related to lower likelihood of thinking about suicide (OR 0.86, p < 0.01) and lower likelihood of planning suicide (OR 0.78, p < 0.001). Attendance at religious services was related to lower likelihood of thinking about suicide (OR 0.94, p < 05) and fewer suicide attempts (beta = -0.11, p < 0.01). More frequent prayer was related to lower likelihood of thinking about suicide (OR 0.92, p < 0.01) and lower likelihood of planning suicide (OR 0.90, p < 0.001).
+   Religiousness may offer benefits for adolescents and young adults in Trinidad and Tobago by reducing the likelihood that they engage in suicide thoughts and behaviors. Results may hold implications for counselors, clergy, teachers, and others working with adolescents and young adults in Trinidad and Tobago.
+C1 [Toussaint, Loren] Luther Coll, Dept Psychol, Decorah, IA 52101 USA.
+   [Wilson, Colwick M.] Loma Linda Univ, Social Work & Social Ecol, Acad Affairs, Sch Behav Hlth, Loma Linda, CA 92350 USA.
+   [Wilson, Leon C.] Alabama State Univ, Montgomery, AL 36101 USA.
+   [Williams, David R.] Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, Boston, MA USA.
+   [Williams, David R.] Harvard Univ, Dept African & African Amer Studies, Cambridge, MA USA.
+C3 Loma Linda University; Alabama State University; Harvard University;
+   Harvard T.H. Chan School of Public Health; Harvard University
+RP Toussaint, L (corresponding author), Luther Coll, Dept Psychol, Decorah, IA 52101 USA.
+EM touslo01@luther.edu
+RI Wilson, Colwick/ABD-9078-2020; Williams, David/HKN-3732-2023
+NR 44
+TC 9
+Z9 12
+U1 0
+U2 14
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD SEP
+PY 2015
+VL 50
+IS 9
+BP 1441
+EP 1450
+DI 10.1007/s00127-015-1045-y
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CS1KA
+UT WOS:000361821700013
+PM 25805599
+DA 2023-12-03
+ER
+
+PT J
+AU Williams-Johnson, J
+   Williams, E
+   Gossell-Williams, M
+   Sewell, CA
+   Abel, WD
+   Whitehome-Smith, PA
+AF Williams-Johnson, J.
+   Williams, E.
+   Gossell-Williams, M.
+   Sewell, C. A.
+   Abel, W. D.
+   Whitehome-Smith, P. A.
+TI Suicide Attempt by Self-poisoning: Characteristics of Suicide Attempters
+   Seen at the Emergency Room at the University Hospital of the West Indies
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Jamaica; self-poisoning; suicide attempt
+ID RISK-FACTORS; PREVALENCE; IDEATION; PLANS; RATES; CHINA; CARE
+AB Objective: To document the characteristics of self-poisoning suicide attempters who were brought to the University Hospital of the West Indies (UHWI) Emergency Room and to outline the type of drug used in the attempt.
+   Method: This was a retrospective study conducted over the period 2005-2009. Data were gathered from patients' case records, log books and the hospital records using a questionnaire developed for this study The questionnaire examined demographics, parameters of the drug ingested, patient's disposition, and reasons for attempt, final outcome and the type of discharge of patients who reported to the UHWI Emergency Room due to a suicide attempt by self-poisoning.
+   Results: Over the five-year period, 127 cases of suicide attempt by self-poisoning were reported. Significantly more females than males presented to the hospital due to self-poisoning (3:1, chi(2) = 33.37; p < 0.001). Of this amount, 96 cases (75.6%) were females and 31(24.4%) were males. The age group most recorded was 16-30 years (70.8%). The most common reason for the suicide attempt was an interpersonal conflict (52%). The drug category most often used in self-poisoning was analgesics (52%) with acetaminophens being the most common (26.2%).
+   Conclusion: These findings are consistent with global suicide trends and indicate an urgent need to develop and implement national preventative and treatment measures for groups known to be at risk of suicidal attempts.
+C1 [Williams-Johnson, J.; Williams, E.] Univ W Indies, Dept Surg Radiol Anaesthesia & Intens Care, Kingston 7, Jamaica.
+   [Gossell-Williams, M.] Univ W Indies, Dept Basic Med Sci, Kingston 7, Jamaica.
+   [Sewell, C. A.; Abel, W. D.; Whitehome-Smith, P. A.] Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica; University West Indies Mona
+   Jamaica; University West Indies Mona Jamaica
+RP Abel, WD (corresponding author), Univ W Indies, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM wendelabel@hotmail.com
+RI Gossell-Williams, Maxine/Q-9269-2019
+OI Gossell-Williams, Maxine/0000-0003-4268-5960; Whitehorne-Smith,
+   Patrice/0000-0001-5102-0261
+NR 25
+TC 11
+Z9 14
+U1 0
+U2 11
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD AUG
+PY 2012
+VL 61
+IS 5
+SI SI
+BP 526
+EP 531
+DI 10.7727/wimj.2012.209
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 091WM
+UT WOS:000315080500011
+PM 23441377
+DA 2023-12-03
+ER
+
+PT J
+AU Bhatt-Poulose, K
+   James, K
+   Reid, M
+   Harrison, A
+   Asnani, M
+AF Bhatt-Poulose, Komal
+   James, Kenneth
+   Reid, Marvin
+   Harrison, Abigail
+   Asnani, Monika
+TI Increased rates of body dissatisfaction, depressive symptoms, and
+   suicide attempts in Jamaican teens with sickle cell disease
+SO PEDIATRIC BLOOD & CANCER
+LA English
+DT Article
+DE adolescence; body image; Jamaica; risk for depression; sickle cell
+   disease; suicide attempts; weight perception
+ID ADOLESCENT GIRLS; PERCEIVED WEIGHT; CHRONIC ILLNESS; SELF-ESTEEM; MASS
+   INDEX; IMAGE; IDEATION; PERCEPTION; BEHAVIORS; CHILDREN
+AB BackgroundThis study aims to examine the association of body image and weight perceptions with risk of depression and suicidal attempts in Jamaican adolescents with sickle cell disease (SCD).
+   MethodsAdolescents with SCD and a national sample of Jamaican adolescents completed a questionnaire examining body image, weight perceptions, and risk for depression.
+   ResultsPerceived and desired body images were similar for both groups. Adolescents with SCD had higher levels of negative body satisfaction (43.9% vs. 33.9%; P = 0.03), risk for depression (28.7% vs. 19.3%; P = 0.01), and attempted suicide (12.4% vs. 6.6%; P = 0.02) than national sample. Risk of depression was higher in those who perceived themselves to be over or underweight, and lower in those with more friends and attending school. Females and those with body image dissatisfaction were more likely to have attempted suicide. Within the SCD adolescents, girls were at greater odds of having mental health issues.
+   ConclusionsJamaican adolescents with SCD have significantly higher rates of negative body satisfaction and depressive symptoms, and nearly twice the rate of attempted suicide, compared with their healthy peers. This underscores the need for healthcare professionals to better explore and discuss healthy weight, body satisfaction, and coping with the demands and uncertainties of having a chronic illness with Jamaican adolescents with SCD, even while promoting body acceptance and good self-esteem. Screening for mood disorders is strongly recommended and gender-specific interventions should be developed. Healthcare professionals need to encourage positive social interactions that improve adolescents' mental health.
+C1 [Bhatt-Poulose, Komal; Asnani, Monika] Univ West Indies, Res Inst Trop Med, Sickle Cell Unit, Mona, Jamaica.
+   [James, Kenneth] Univ West Indies, Dept Community Hlth & Psychiat, Mona, Jamaica.
+   [Reid, Marvin] Univ West Indies, Trop Metab Res Unit, Mona, Jamaica.
+   [Harrison, Abigail] Univ West Indies, Dept Child & Adolescent Hlth, Mona, Jamaica.
+C3 University West Indies Mona Jamaica; University West Indies Mona
+   Jamaica; University West Indies Mona Jamaica; University West Indies
+   Mona Jamaica
+RP Asnani, M (corresponding author), Univ West Indies, Res Inst Trop Med, Sickle Cell Unit, Mona Campus, Kingston 7, Jamaica.
+EM monika.parshadasnani@uwimona.edu.jm
+RI Reid, Marvin/J-2884-2014
+OI Reid, Marvin/0000-0003-4005-9384
+NR 36
+TC 26
+Z9 29
+U1 0
+U2 25
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-5009
+EI 1545-5017
+J9 PEDIATR BLOOD CANCER
+JI Pediatr. Blood Cancer
+PD DEC
+PY 2016
+VL 63
+IS 12
+BP 2159
+EP 2166
+DI 10.1002/pbc.26091
+PG 8
+WC Oncology; Hematology; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology; Hematology; Pediatrics
+GA EB0HE
+UT WOS:000387023900013
+PM 27393908
+DA 2023-12-03
+ER
+
+PT J
+AU Wilson-Mitchell, K
+   Bennett, J
+   Stennett, R
+AF Wilson-Mitchell, Karline
+   Bennett, Joanna
+   Stennett, Rosain
+TI Psychological Health and Life Experiences of Pregnant Adolescent Mothers
+   in Jamaica
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE adolescent; pregnancy; psychosocial distress; abuse; resilience;
+   antenatal care; social support
+ID IMPACT
+AB A recent Jamaican school-based survey revealed that 23.1% of 13-15 year-olds, had attempted suicide one or more times during the last 12 months. Research that links adolescent pregnancy and suicidal behaviour is lacking in Jamaica. Psychological distress and suicidal behaviours amongst pregnant adolescents elsewhere in the Americas has been documented at prevalence of between 13.3%-20%. The purpose of the study was to explore the experiences and the impact of pregnancy on pregnant adolescent psychological health. Individual interviews and focus groups were conducted with adolescents in two Jamaican antenatal clinics. One clinic was designed as a 'Teen Pregnancy Clinic' and the other used the standard antenatal clinic design. The following themes were identified: decision-making, resilience, social support, community support system, distress, and perceptions of service. Participants reported positively on the specific interventions tailored to their needs at the Teen Clinic. Although motherhood is valued, none of the pregnancies in this study were planned by the mother. Of the 30 adolescents interviewed, seven cases were referred for counseling due to their need for emotional and psychological support. One of the adolescents reported recent sexual violence and another reported having experienced childhood sexual abuse. Historically, Jamaican adolescent mothers faced barriers to education, self determination, and family planning. Empowering, adolescent-centred healthcare and comprehensive reproductive health education may mitigate psychosocial distress.
+C1 [Wilson-Mitchell, Karline] Ryerson Univ, Midwifery Educ Program, Toronto, ON M5B 2K3, Canada.
+   [Bennett, Joanna; Stennett, Rosain] Univ W Indies, UWI Sch Nursing, Kingston 7, Jamaica.
+C3 Toronto Metropolitan University; University West Indies Mona Jamaica
+RP Wilson-Mitchell, K (corresponding author), Ryerson Univ, Midwifery Educ Program, 350 Victoria St, Toronto, ON M5B 2K3, Canada.
+EM k.wilsonmitchell@ryerson.ca; joanna.bennett03@uwimona.edu.jm;
+   rosain.stennett@uwimona.edu.jm
+RI Wilson-Mitchell, Karline/H-5339-2011
+OI Stennett, Rosain/0000-0003-3386-2558
+FU International Development Research Centre (IDRC), Canada Latin America;
+   Caribbean Research Exchange Grants Program (LACREG); Faculty of
+   Community Services, Ryerson Seed Grant
+FX The authors gratefully acknowledge research funding from: the
+   International Development Research Centre (IDRC), Canada Latin America
+   and the Caribbean Research Exchange Grants Program (LACREG); and the
+   Faculty of Community Services, Ryerson Seed Grant. In addition the
+   following collaborators and partners comprised our research team.
+   Research assistants: Rosain Stennett, MPH; Uki Atkinson MSc; Hospital
+   partners: Rudolph Stevens MD, Senior Medical Officer, Victoria Jubilee
+   Hospital; Alex Onyonyor, MD, Consultant Obstetrician and Gynaecologist,
+   Spanish Town Hospital.
+NR 31
+TC 21
+Z9 28
+U1 1
+U2 22
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD MAY
+PY 2014
+VL 11
+IS 5
+BP 4729
+EP 4744
+DI 10.3390/ijerph110504729
+PG 16
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA AI9KQ
+UT WOS:000337251900012
+PM 24785743
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Elledge, LC
+   Smith, DE
+   Kilpatrick, CT
+   McClain, CM
+   Moore, TM
+AF Elledge, L. Christian
+   Smith, Delores E.
+   Kilpatrick, Colton T.
+   McClain, Cara M.
+   Moore, Todd M.
+TI The associations between bullying victimization and internalizing
+   distress, suicidality, and substance use in Jamaican adolescents: The
+   moderating role of parental involvement
+SO JOURNAL OF SOCIAL AND PERSONAL RELATIONSHIPS
+LA English
+DT Article
+DE Adolescents; bullying; internalizing distress; Jamaica; parental
+   involvement; substance use
+ID HEALTH OUTCOMES; MENTAL-HEALTH; SCHOOL; BEHAVIORS; VIOLENCE; RISK; LIFE;
+   PERPETRATION; PREVALENCE; CHILDREN
+AB The present study investigated whether bullying victimization and parental involvement were associated with internalizing distress, suicidal thoughts and behavior, and substance use in Jamaican adolescents as well as whether parental involvement moderated the relation between bullying victimization and measures of psychological and behavioral distress. Analyses were based on a sample of 1,595 adolescents who were participating in the 2010 Global School-Based Student Health Survey. Data were collected using a complex survey design. Regression models were estimated using weighted data, which allowed us to draw conclusions about the population of Jamaican adolescents. Consistent with findings from international studies, bullying victimization was uniquely and positively associated with feelings of loneliness, sleep difficulties due to worry, smoking frequency, and suicidality for both male and female adolescents as well as with alcohol use frequency for female adolescents. Our pattern of findings also suggested that parental involvement is a more robust correlate of psychological and behavioral adjustment for female adolescents. Female adolescents who reported higher levels of parental involvement were less lonely and less likely to consider or plan suicide. For boys, parental involvement was only negatively related to loneliness. Finally, we found evidence that parental involvement moderated the relation between bullying victimization and cigarette use and considering suicide, although the latter finding was at the level of a nonsignificant trend. Our findings suggest parental involvement may attenuate the relation between bullying victimization and considering suicide but may strengthen the relation between bullying victimization and smoking. We discuss our findings in the context of Jamaican cultural socialization and with an appreciation for the social challenges faced by adolescents experiencing bullying victimization.
+C1 [Elledge, L. Christian; Smith, Delores E.; Kilpatrick, Colton T.; McClain, Cara M.; Moore, Todd M.] Univ Tennessee, Knoxville, TN USA.
+C3 University of Tennessee System; University of Tennessee Knoxville
+RP Elledge, LC (corresponding author), Univ Tennessee, Dept Psychol, Austin Peay Bldg,Room 301F, Knoxville, TN 37996 USA.
+EM lelledge@utk.edu
+NR 46
+TC 8
+Z9 9
+U1 6
+U2 33
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0265-4075
+EI 1460-3608
+J9 J SOC PERS RELAT
+JI J. Soc. Pers. Relatsh.
+PD JUL
+PY 2019
+VL 36
+IS 7
+BP 2202
+EP 2220
+DI 10.1177/0265407518786804
+PG 19
+WC Communication; Family Studies; Psychology, Social
+WE Social Science Citation Index (SSCI)
+SC Communication; Family Studies; Psychology
+GA HZ6ZO
+UT WOS:000469001500015
+DA 2023-12-03
+ER
+
+PT J
+AU Escoffery, CT
+   Shirley, SE
+AF Escoffery, CT
+   Shirley, SE
+TI Traumatic deaths in Jamaica: A coroner's (medico-legal) autopsy study
+   from the University Hospital of the West Indies.
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+ID NECROPSY; VIOLENCE
+AB This study reviewed the trauma-related deaths in a coroner's (medico-legal) autopsy series at the University Hospital of the West Indies and represents only the second such study reported from Jamaica. The autopsy protocols of all coroner's autopsies performed during the 15-year period January 1, 1983 to December 31, 1997 were reviewed retrospectively, and the clinico-pathological characteristics of trauma-related deaths were analysed.
+   Trauma accounted for 470 (28.7%) of the 1,640 coroner's autopsies and the causes of death in descending order of frequency were motor vehicle accidents [MVAs] (44.9%), blunt injuries (17.7%), burns (16.8%), firearm injuries (13.6%) and stab injuries (7.0%). The 21-30 age group was the most commonly affected and the overall male: female ratio was 4:1. The distribution of injuries (excluding burns) by anatomical region was head and neck (43.8%), chest (8.9%), abdomen and pelvis (4.3%), extremities (0.9%) and multiple sites (25.3%). Forty-nine (23.2%) of the victims of MVAs were documented to have been pedestrians. Blunt trauma was most commonly due to accidental falls followed by assaults. Flame burns accounted for 90% of burn cases. There were seven (1.5%) cases of suicide overall.
+   In this series the majority of trauma-related deaths occurred in young males and were due to MVAs. Strategies aimed at reducing trauma-related mortality should therefore emphasize road traffic safety programmes, particularly targeting the young.
+C1 Univ W Indies, Dept Pathol, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Escoffery, CT (corresponding author), Univ W Indies, Dept Pathol, Kingston 7, Jamaica.
+NR 24
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD JUL
+PY 2002
+VL 42
+IS 3
+BP 185
+EP 191
+DI 10.1177/002580240204200301
+PG 7
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 583CL
+UT WOS:000177388100001
+PM 12201062
+DA 2023-12-03
+ER
+
+PT J
+AU Pottinger, AM
+   Milbourn, PE
+   Leiba, J
+AF Pottinger, AM
+   Milbourn, PE
+   Leiba, J
+TI Suicidal behaviour and risk factors in children and adolescents in
+   Jamaica
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+AB Suicidal attempts and ideation were examined in children attending child and adolescent mental health clinics in the Kingston Metropolitan Area during October 1998 to September 1999. The case records of fifty-seven 6-18 year-olds were selected for review in order to identity) social and familial factors that place Jamaican children and adolescents at risk for suicidal behaviour. In addition, in order to examine the consistency of risk factors, data from child and adolescent mental health clinics were compared over a ten-year period between 1989 and 1999. The results indicated that having a poor relationship with the primary caregiver was significantly associated with suicidal behaviour (p < 0.01) as well as experiencing abuse (p < 0.05). These children also tended to externalize their behaviours (p < 0.01). The findings suggest that, over the ten-year period, Jamaican children seem to be more readily talking about, contemplating and attempting, suicide. The importance of managing intrafamilial issues affecting children is highlighted.
+C1 Univ W Indies, Dept Obstet Gynaecol & Child Hlth, Sect Child, Kingston 7, Jamaica.
+   Bustamante Hosp Children, Kingston 5, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Pottinger, AM (corresponding author), Univ W Indies, Dept Obstet Gynaecol & Child Hlth, Sect Child, Kingston 7, Jamaica.
+EM pottsie@cwjamaica.com
+NR 15
+TC 10
+Z9 10
+U1 0
+U2 10
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD JUN
+PY 2003
+VL 52
+IS 2
+BP 127
+EP 130
+PG 4
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 713DC
+UT WOS:000184839700008
+PM 12974063
+DA 2023-12-03
+ER
+
+PT J
+AU Barton-Gooden, A
+   Grindley, M
+   Knight-Madden, J
+   Asnani, M
+AF Barton-Gooden, A.
+   Grindley, M.
+   Knight-Madden, J.
+   Asnani, M.
+TI Gender influences on the health of adolescents with sickle cell disease
+SO PSYCHOLOGY HEALTH & MEDICINE
+LA English
+DT Article
+DE Gender differentiation; quality of life; disease knowledge; sickle cell
+   disease; Jamaican adolescents
+ID QUALITY-OF-LIFE; SEEKING BEHAVIOR; SEX-DIFFERENCES; PAINFUL CRISIS;
+   RISK-FACTORS; CHILDREN; KNOWLEDGE; UNDERACHIEVEMENT; CHILDHOOD; SUICIDE
+AB The current study examines gender effects on disease knowledge and quality of life in adolescents with sickle cell disease (SCD) in Jamaica. We report the baseline results on 76 girls and 74 boys with mean age (16.9 +/- 1.8 vs. 16.2 +/- 2.0 years), recruited in a larger intervention study. Girls had higher knowledge scores (15.3 +/- 4.2 vs. 13.3 +/- 4.2 p=.004), poorer overall QOL scores (70.1 +/- 19.6 vs. 77.2 +/- 17.8 p=0.02) but similar severity scores to boys. Girls also had significantly lower scores on many QOL domain scores: Pain occurrences over the course the past month (Pain and Hurt:77.49 +/- 23.3 vs. 85.37 +/- 17.13); concerns about seeking health services for pain (Worry1:63.73 +/- 26.21 vs. 75.33 +/- 24.62); confidence in self-management & treatment effects (Treatment: 72.25 +/- 23.6 vs. 80.73 +/- 18.90) and SCD disclosure & empathy from others (Communication II: 47.44 +/- 1.02 vs. 61.71 +/- 29.41). Knowledge was positively predicted by age, higher education, greater household possessions and was higher in girls; whereas QOL was lower in girls and those with greater disease severity and higher with higher education. In conclusion, there is a significant gender differential in disease knowledge and QOL among adolescents with SCD. Interventions will need to address the lower QOL in girls and lower disease knowledge among boys.
+C1 [Barton-Gooden, A.] Univ West Indies, Fac Med Sci, Sch Nursing, Mona Campus, Kingston 7, Jamaica.
+   [Grindley, M.; Knight-Madden, J.; Asnani, M.] Univ West Indies, Caribbean Inst Hlth Res, Sickle Cell Unit, Kingston, Jamaica.
+C3 University West Indies Mona Jamaica; University West Indies Mona Jamaica
+RP Barton-Gooden, A (corresponding author), Univ West Indies, Fac Med Sci, Sch Nursing, Mona Campus, Kingston 7, Jamaica.
+EM antoinette.bartongooden@uwimona.edu.jm
+RI Barton-Gooden, Antoinette/AAT-4453-2020
+FU The Principal's New Initiative Grant, The University of the West Indies
+FX This work was supported by The Principal's New Initiative Grant, The
+   University of the West Indies.
+NR 47
+TC 13
+Z9 13
+U1 0
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1354-8506
+EI 1465-3966
+J9 PSYCHOL HEALTH MED
+JI Psychol. Health Med.
+PD APR 21
+PY 2019
+VL 24
+IS 4
+BP 470
+EP 480
+DI 10.1080/13548506.2018.1533985
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HJ8NA
+UT WOS:000457455000008
+PM 30318923
+DA 2023-12-03
+ER
+
+PT J
+AU Fox, K
+   Gordon-Strachan, G
+   Johnson, A
+   Ashley, D
+AF Fox, K.
+   Gordon-Strachan, G.
+   Johnson, A.
+   Ashley, D.
+TI Jamaican Youth Health Status 2005
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+AB The purpose of this survey is to determine health-seeking behaviour; nutritional status and lifestyles of adolescents aged 10-15 years. A random sample of 3003 (I 422 males and 1 581 females) schoolchildren, aged 10-15 years, was studied in a cross-sectional, interviewer-administered school-based survey conducted in all school types islandwide in a nationally representative sample of Jamaican children currently attending school. Some 3003 youths, 1422 males and 1581 females were interviewed. Males and females had similar healthcare-seeking behaviour but fewer students attending schools in rural areas reported having their eyes or hearing checked, or had seen a dentist than those attending urban schools. Some twelve per cent of adolescents were overweight/ obese. More females than males and more urban than rural students were overweight or obese. More boys (86.3%) were physically active in the last week than girls (75%). Physical activity peaked at age 13 years and was lowest at ages 11 and 14-15 years.
+   Some 13% of adolescents 10-15 years old reported having had sexual intercourse, with boys being four times as likely as girls to report sexual activity (OR - 4.97; C.I. - 3.82, 6.47). The median age of sexual debut was 15.43 years for boys and over 15 years for girls. One-third of adolescents drank alcohol and 3% smoked marijuana in the past year More boys than girls used drugs (p < 0.01). Some 14% of adolescents felt lonely, sad or wanted to cry most of the time/always. One-tenth seriously considered suicide.
+   This study concluded that most adolescents attending primary and secondary schools in Jamaica were not involved in risky behaviour However it reveals some critical areas of concern with regard to nutritional status and physical activity, emotional well-being, drug use and sexual activity.
+C1 [Fox, K.] Univ W Indies, Sir Arthur Lewis Inst Social & Econ Studies, Kingston 7, Jamaica.
+   [Gordon-Strachan, G.] Univ W Indies, Fac Med Sci, Kingston 7, Jamaica.
+   [Johnson, A.] Minist Hlth, Kingston, Jamaica.
+   [Ashley, D.] Univ W Indies, Sch Grad Studies & Res, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica; University West Indies Mona
+   Jamaica; University West Indies Mona Jamaica
+RP Fox, K (corresponding author), Univ W Indies, Sir Arthur Lewis Inst Social & Econ Studies, Kingston 7, Jamaica.
+RI Gordon-Strachan, Georgiana/AAS-5589-2021
+FU United States Agency for International Development (USAID)
+   [GPO-A-00-03-00003-00]
+FX This survey was funded by the United States Agency for International
+   Development (USAID) under terms of Cooperative Agreement
+   GPO-A-00-03-00003-00, through the MEASURE Evaluation project, with
+   technical and other assistance from the National Healthy Lifestyle
+   Project. This study would not have been possible without the
+   collaboration of the Ministry of Education. Special thanks go to the
+   teachers and students who participated in the study.
+NR 14
+TC 7
+Z9 7
+U1 1
+U2 11
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD DEC
+PY 2009
+VL 58
+IS 6
+BP 533
+EP 538
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 628ZG
+UT WOS:000280163000006
+PM 20583678
+DA 2023-12-03
+ER
+
+EF

@@ -1,0 +1,914 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Anthony, M
+   Groh, C
+   Gash, J
+AF Anthony, Maureen
+   Groh, Carla
+   Gash, Jean
+TI Suicide in Guyana: Nurses' Perspectives
+SO JOURNAL OF FORENSIC NURSING
+LA English
+DT Article
+DE Guyana; nursing; suicide
+ID AMERICA
+AB Guyana, an English-speaking country on the north coast of South America, has the highest suicide rate in the world. Nurses are an integral part of the healthcare team working with patients experiencing psychological distress and are uniquely qualified to add to the discourse on factors contributing to the high suicide rate in Guyana. The purpose of this study was to explore the attitudes and experiences of nurses and nurse assistants in Guyana related to suicide. Nine registered nurses and nurse assistants who worked at a private hospital in Georgetown, Guyana, were recruited to participate in a focus group. The focus group lasted approximately 70 minutes and was recorded. The audio recordings were later transcribed word for word. Four themes emerged from the data: family issues as they relate to the high suicide rate, suicide attempts as a cry for help, lack of support, and coping mechanisms used by nurses when caring for victims of attempted suicide. Nurses are uniquely positioned to intervene with families in crisis, whether it be suicide, suicide attempts, or the underlying factors of family dysfunction, child maltreatment, poverty, or alcoholism. Establishing forensic nursing as a specialty in Guyana would validate this important role through education and certification of nurses.
+C1 [Anthony, Maureen; Groh, Carla; Gash, Jean] Univ Detroit Mercy, McAuley Sch Nursing, 4001 West McNichols, Detroit, MI 48221 USA.
+C3 University of Detroit Mercy
+RP Anthony, M (corresponding author), Univ Detroit Mercy, McAuley Sch Nursing, 4001 West McNichols, Detroit, MI 48221 USA.
+EM anthonmj@udmercy.edu
+NR 21
+TC 3
+Z9 3
+U1 0
+U2 10
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1556-3693
+EI 1939-3938
+J9 J FORENSIC NURS
+JI J. Forensic Nurs.
+PD JAN-MAR
+PY 2017
+VL 13
+IS 1
+BP 14
+EP 19
+DI 10.1097/JFN.0000000000000138
+PG 6
+WC Criminology & Penology; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Criminology & Penology; Nursing
+GA ER0UZ
+UT WOS:000398505200003
+PM 28212195
+DA 2023-12-06
+ER
+
+PT J
+AU Persaud, S
+   Rosenthal, L
+   Arora, PG
+AF Persaud, Sarika
+   Rosenthal, Lisa
+   Arora, Prerna G.
+TI Culturally informed gatekeeper training for youth suicide prevention in
+   Guyana: A pilot examination
+SO SCHOOL PSYCHOLOGY INTERNATIONAL
+LA English
+DT Article
+DE adolescent; Guyana; prevention; schools; suicide
+ID MENTAL-HEALTH; SCHOOL; ACCEPTABILITY; INTERVENTION; FEASIBILITY;
+   PROGRAM; IMPACT
+AB Adolescent suicide is a pressing concern in Guyana, a low-to middle-income country in South America with the highest adolescent suicide rate globally. Gatekeeper trainings for suicide prevention conducted in high-income countries have been found to increase knowledge of suicide prevention, increase referrals of at-risk youth, and reduce stigma toward help-seeking for suicidality. The current study sought to engage in a pilot examination of the effectiveness, acceptability, and feasibility of a culturally informed gatekeeper training suicide prevention program for Guyanese youth. Secondary school teachers and staff (N = 16) were trained in a culturally informed, evidence-based gatekeeper suicide prevention program. Mixed methods analyses revealed significant increases in knowledge of suicide prevention, as well as decreases in rigid or judgmental attitudes toward suicide post-training among secondary school teachers and staff. Further, results indicated that participants deemed the program culturally acceptable and feasible for use in the school setting. Findings have implications for the delivery and implementation of culturally informed gatekeeper training programs for suicide prevention in low-to middle-income countries.
+C1 [Persaud, Sarika] Pace Univ, New York, NY 10038 USA.
+   [Rosenthal, Lisa] Pace Univ, Psychol Dept, New York, NY 10038 USA.
+   [Arora, Prerna G.] Columbia Univ, Teachers Coll, Sch Psychol Program, Psychol & Educ, New York, NY USA.
+C3 Pace University; Pace University; Columbia University Teachers College;
+   Columbia University
+RP Persaud, S (corresponding author), Pace Univ, Dept Psychol, 41 Pk Row, New York, NY 10031 USA.
+EM a.sarika.persaud@gmail.com
+NR 44
+TC 5
+Z9 6
+U1 1
+U2 8
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0143-0343
+EI 1461-7374
+J9 SCHOOL PSYCHOL INT
+JI Sch. Psychol. Int.
+PD DEC
+PY 2019
+VL 40
+IS 6
+BP 624
+EP 640
+AR 0143034319879477
+DI 10.1177/0143034319879477
+EA OCT 2019
+PG 17
+WC Psychology, Educational
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA JI8DZ
+UT WOS:000489794800001
+DA 2023-12-06
+ER
+
+PT J
+AU Thornton, VJ
+   Asanbe, CB
+   Denton, EGD
+AF Thornton, Veronica J.
+   Asanbe, Comfort B.
+   Denton, Ellen-ge D.
+TI Clinical risk factors among youth at high risk for suicide in South
+   Africa and Guyana
+SO DEPRESSION AND ANXIETY
+LA English
+DT Article
+DE anxiety; depression; Guyana; South Africa; suicide; youth
+ID MIDDLE-INCOME COUNTRIES; MENTAL-HEALTH-SERVICES; LIMPOPO PROVINCE;
+   ADOLESCENT; BEHAVIOR; IDEATION; PREVALENCE; DEPRESSION; DISORDERS;
+   CHILDREN
+AB Introduction Suicide is the second leading cause of death among youth worldwide, but low- and middle-income countries (LMICs) account for 78% of all suicides. The LMICs South Africa and Guyana rank high in the global suicide rates. To better understand and prevent suicide among the youth, the present study targets youths at high risk for suicide, in an LMIC, to contextually and representatively identify clinical risk factors for suicide. Methods One hundred-ninety youths, aged 11-21, separated from biological parents at the time of assessment, in South Africa and Guyana, were administered the Child Behavior Checklist and Behavior Assessment System for Children to assess clinical symptoms. The youths were asked about current suicide ideation and previous attempt(s). Self-report responses to clinical items yielded scale scores for depression, social stress, atypicality, somatization, anxiety, and ADHD. Using an integrative data analytic technique, clinical scale scores were standardized and used to predict suicidal behaviors in a binary logistic regression analysis. Results Approximately 22% of Black South African youths and 60% of Guyanese youths endorsed suicide ideation and attempt or suicide attempt only. In fully adjusted analyses, the odds of atypicality and somatization were 1.96 and 1.67 times greater among the youths who endorsed suicidal ideation when compared with those who did not (p < .04). Youth social stress was significantly associated with the suicide attempt, controlling for model covariates (odds ratio [OR], 1.88, p = .05). Gender moderated the effect of somatization on youth suicide. Conclusion Our results contextualize how social stress, atypicality, and somatization relate to LMIC youth suicide. Further study on high-risk samples will contribute to generalizable suicide-prevention models.
+C1 [Thornton, Veronica J.] Univ N Carolina, Dept Human Dev & Family Studies, Greensboro, NC USA.
+   [Asanbe, Comfort B.; Denton, Ellen-ge D.] CUNY Coll Staten Isl, Dept Psychol, 2800 Victory Blvd,Bldg 4S,Room 229, Staten Isl, NY 10314 USA.
+C3 University of North Carolina; University of North Carolina Greensboro;
+   City University of New York (CUNY) System; College of Staten Island
+   (CUNY)
+RP Denton, EGD (corresponding author), CUNY Coll Staten Isl, Dept Psychol, 2800 Victory Blvd,Bldg 4S,Room 229, Staten Isl, NY 10314 USA.
+EM ellenge.denton@csi.cuny.edu
+OI Denton, Ellen-ge/0000-0001-9848-4813
+NR 61
+TC 9
+Z9 9
+U1 1
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1091-4269
+EI 1520-6394
+J9 DEPRESS ANXIETY
+JI Depress. Anxiety
+PD MAY
+PY 2019
+VL 36
+IS 5
+BP 423
+EP 432
+DI 10.1002/da.22889
+PG 10
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA HV7DP
+UT WOS:000466142000004
+PM 30900366
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Sinclair, D
+AF Sinclair, Donald
+TI What justification is there for including the mass suicide of Jonestown
+   as part of a Guyana dark tourism narrative in 2025?
+SO WORLDWIDE HOSPITALITY AND TOURISM THEMES
+LA English
+DT Article
+DE Guyana; Dark tourism; Catharsis; Jonestown; Mass suicide
+AB Purpose The Jonestown massacre of 1978 was the largest such event in modern history; it assumes the status of a prototype in many discussions of cult dynamics and mass suicide. This paper aims to make the case that Jonestown should be memorialised and made into a dark tourism attraction.
+   Design/methodology/approach This paper is principally the outcome of secondary research conducted over a number of years on the theme of dark tourism. The paper also benefited from direct interviews and conversations with political and ex-military personnel in Guyana who were in some way involved with Jonestown.
+   Findings The research establishes that Jonestown remains a matter of great sensitivity and even national embarrassment, with many in the tourism sector reluctant to highlight what they regard as a very negative association, in the market, of Guyana with Jonestown and Jonestown only.
+   Practical implications Expressed in context, the paper discusses the place of Jonestown in dark tourism and proposes an operational formula by which the semiotic of Jonestown, as contained in the tourist narrative, transforms tourism into catharsis.
+   Originality/value For the author, Jonestown is tourism-imperative because not much longer after that apocalyptic event, the Jonestown massacre became a reference in the discourse on dark tourism. Jonestown is too large and archetypal an event to escape research and discussion of its place in the realm of dark tourism. This paper therefore explores, from both theoretical and policy perspectives, the ways in which the narratives of dark tourism can serve to expiate guilt by confronting it and therefore still deserve a place in the tourism imaginary of 2025. As such, the paper should be of value to not only scholars and researchers but also those engaged in tourism planning and destination management.
+C1 [Sinclair, Donald] Minist Business, Dept Tourism, Georgetown, Guyana.
+RP Sinclair, D (corresponding author), Minist Business, Dept Tourism, Georgetown, Guyana.
+EM don9_sinclair@yahoo.com
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 8
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1755-4217
+EI 1755-4225
+J9 WORLDW HOSP TOUR THE
+JI Worldw. Hosp. Tour. Themes
+PY 2018
+VL 10
+IS 5
+SI SI
+BP 592
+EP 604
+DI 10.1108/WHATT-05-2018-0035
+PG 13
+WC Hospitality, Leisure, Sport & Tourism
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA GY7SD
+UT WOS:000448813500007
+DA 2023-12-06
+ER
+
+PT J
+AU Groh, CJ
+   Anthony, M
+   Gash, J
+AF Groh, Carla J.
+   Anthony, Maureen
+   Gash, Jean
+TI The Aftermath of Suicide: A Qualitative Study With Guyanese Families
+SO ARCHIVES OF PSYCHIATRIC NURSING
+LA English
+DT Article
+DE Suicide; Guyana; Postvention
+ID AMERICA; BEREAVEMENT; SURVIVORS; DEATHS; PEOPLE; GRIEF
+AB Introduction: The suicide rate in Guyana was five times higher than the world average in 2014 (WHO) which puts Guyana at the top of the list with 44.2 per 100,000 people, the highest suicide rate in the world. For every completed suicide, there are survivors who experience high levels of psychological, physical, and social distress, and report feelings of guilt, shame, social stigma, and search for meaning.
+   Aim: The aim of this qualitative study was to explore how family members coped and understand the suicide of their loved one, and to determine what resources were available to help them during this transition. Method: Ten family members were recruited to participate in a focus group. The focus group lasted approximately 90 min and was recorded. The audio recordings were later transcribed.
+   Results: Four overarching themes emerged from the data: (1) perceived causes of suicide, (2) perceived solutions, (3) barriers to helping persons who are suicidal, and (4) personal and community reactions to suicide.
+   Implications for practice: Nurses in Guyana are uniquely positioned to take a leadership role in creating and implementing postvention programs for suicide survivors that are culturally and ethnically relevant. Opportunities to partner with schools of nursing in higher income countries are explored.
+C1 [Groh, Carla J.; Anthony, Maureen; Gash, Jean] Univ Detroit Mercy, 4001 W McNichols Rd, Detroit, MI 48219 USA.
+C3 University of Detroit Mercy
+RP Groh, CJ (corresponding author), Univ Detroit Mercy, 4001 W McNichols Rd, Detroit, MI 48219 USA.
+EM grohcj@udmercy.edu; anthonmy@udmercy.edu; gashje@udmercy.edu
+RI farjad, farshad/AGC-9105-2022
+NR 26
+TC 4
+Z9 5
+U1 1
+U2 6
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0883-9417
+EI 1532-8228
+J9 ARCH PSYCHIAT NURS
+JI Arch. Psychiatr. Nurs.
+PD JUN
+PY 2018
+VL 32
+IS 3
+BP 469
+EP 474
+DI 10.1016/j.apnu.2018.01.007
+PG 6
+WC Nursing; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing; Psychiatry
+GA GI1BW
+UT WOS:000434105200025
+PM 29784232
+DA 2023-12-06
+ER
+
+PT J
+AU Johnson, EJ
+AF Johnson, Emmanuel Janagan
+TI An exploratory research on police officers role to reduce adolescents
+   suicide in Guyana
+SO VULNERABLE CHILDREN AND YOUTH STUDIES
+LA English
+DT Article
+DE Suicide; adolescents; depression; police officers; research; social work
+ID RISK-FACTORS; HEALTH; GAY
+AB This study explores the experiences of police officers who engage with suicidal adolescent callers in Guyana. The aim of this study is to explore the police officers experience in dealing with the adolescents who made a non-fatal attempt to commit suicide. Qualitative data were collected from thirteen female police officers aged 23-51 years who are purposively selected, and who are working with the suicide call center run by the Welfare office of the police department, Guyana. The findings indicate that there is a need for more systematic counseling and support services to reduce the suicide attempt cases. Research reveals that domestic issues, rumors of relationships, verbal abuse by parents, low self-esteem are some of the causes to attempt suicide. Self-care strategies and suggestions were discussed to prevent suicide attempts. The reported psycho-social stress facing suicidal adolescent callers in this study are thus convergent with findings.
+C1 [Johnson, Emmanuel Janagan] Univ West Indies, Dept Behav Sci, Social Work Programme, St Augustine, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine
+RP Johnson, EJ (corresponding author), Univ West Indies, Social Work Programme, St Augustine Campus, St Augustine, Trinidad Tobago.
+EM ejanagan@gmail.com
+RI JOHNSON, EMMANUEL Janagan/AAL-3422-2020
+OI JOHNSON, EMMANUEL/0000-0002-2543-1144
+NR 30
+TC 3
+Z9 3
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1745-0128
+EI 1745-0136
+J9 VULNERABLE CHILD YOU
+JI Vulnerable Child. Youth Stud.
+PY 2019
+VL 14
+IS 2
+BP 129
+EP 141
+DI 10.1080/17450128.2019.1587558
+PG 13
+WC Family Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Family Studies
+GA IB1DN
+UT WOS:000470004200003
+DA 2023-12-06
+ER
+
+PT J
+AU Henry, O
+   Amata, AO
+AF Henry, O.
+   Amata, A. O.
+TI A Two-year Review of Admissions to the Intensive Care Unit of the
+   Georgetown Public Hospital Corporation, Guyana
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Review
+DE Critical care; Guyana; intensive care; intensive care unit; review
+ID COUNTRIES; MEDICINE
+AB Objective: To review the patterns of admissions, characteristics and clinical outcomes of the patients admitted to the seven-bed multidisciplinary general Intensive Care Unit (ICU) of the Georgetown Public Hospital Corporation (GPHC), Guyana.
+   Methods: This was a retrospective study of all the patients admitted to the ICU between January 2008 and December, 2009. The study was conducted mainly by chart reviews and the collected data were stored and analysed using Microsoft Excel programme.
+   Results: A total of 734 patients were admitted to the unit during the study period. The males comprised 56.5% and most of the admissions were from the operating rooms (38%). The mean age of the patients was 36 years and two-thirds (67%) of the patients were below 41 years. The average ICU length of stay (LOS) was 5.46 days with the survivors having a longer LOS than the non-survivors. Trauma was the largest diagnosis (24%) of the patients' admission, and mortality was highest among the medical and paediatric patients. The ICU mortality rate was 48%.
+   Conclusion: Our ICU mortality was relatively high and many of the deaths were potentially preventable by simple public health interventions like immunization, vehicular accident reduction strategies, suicide prevention strategies, better sanitation, greater availability of primary healthcare, prompt basic emergency services, and regular availability of essential laboratory services and pharmaceutical supplies.
+C1 [Henry, O.; Amata, A. O.] Georgetown Publ Hosp Corp, Dept Anaesthesia & Intens Care, East & Middle St, Georgetown, Guyana.
+RP Amata, AO (corresponding author), Georgetown Publ Hosp Corp, Dept Anaesthesia & Intens Care, East & Middle St, Georgetown, Guyana.
+EM aoamata@yahoo.com
+NR 15
+TC 1
+Z9 1
+U1 1
+U2 1
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PY 2017
+VL 66
+IS 6
+DI 10.7727/wimj.2015.335
+PG 15
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HA4YF
+UT WOS:000450272100008
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-06
+ER
+
+PT J
+AU Gill, JR
+   Marker, E
+   Stajic, M
+AF Gill, JR
+   Marker, E
+   Stajic, M
+TI Suicide by cyanide: 17 deaths
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; forensic pathology; cyanide; fatality; suicide
+ID ONE HOMICIDE; BLOOD; POISONINGS; INGESTION
+AB We reviewed 17 intentional ingestions of cyanide that occurred in New York City over a ten-year interval. The toxicologic and postmortem findings were reviewed. Certain occupations and nationalities of the decedents predominated among this group of suicides. Scientists, jewelers, and metal workers were common occupations among the decedents. In addition, 8 of 17 fatalities were West Indian/Caribbean Island and South American decedents, including three decedents from Guyana. Fourteen of the 17 fatalities were male. Pink lividity, a "bitter-almond" smell, and a hemorrhagic gastric mucosa were not prevailing findings in these decedents. A color test was used for screening for cyanide with confirmation and quantitation using gas chromatography.
+C1 New York City Off Chief Med Examiner, Forens Toxicol Lab, New York, NY 10016 USA.
+   NYU, Sch Med, Dept Forens Med, New York, NY USA.
+C3 New York University
+RP Gill, JR (corresponding author), New York City Off Chief Med Examiner, Forens Toxicol Lab, 520 1st Ave, New York, NY 10016 USA.
+RI Gill, James/AAI-1270-2020
+OI Gill, James R./0000-0001-6900-8025
+NR 23
+TC 24
+Z9 25
+U1 0
+U2 6
+PU AMER SOC TESTING MATERIALS
+PI W CONSHOHOCKEN
+PA 100 BARR HARBOR DR, W CONSHOHOCKEN, PA 19428-2959 USA
+SN 0022-1198
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD JUL
+PY 2004
+VL 49
+IS 4
+BP 826
+EP 828
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 836GN
+UT WOS:000222543900026
+PM 15317203
+DA 2023-12-06
+ER
+
+PT J
+AU Emmanuel, MK
+   Campbell, MH
+AF Emmanuel, Maisha K.
+   Campbell, Michael H.
+TI Commentary: Homicide-Suicide in the Caribbean
+SO JOURNAL OF THE AMERICAN ACADEMY OF PSYCHIATRY AND THE LAW
+LA English
+DT Editorial Material
+AB With the exception of Guyana and Trinidad, suicide rates in the Caribbean are relatively low compared with those in other countries. Homicide rates, however, have increased over the past 15 years, especially in Jamaica and Trinidad. The link between suicide, homicide, and homicide followed by suicide (H-S) is not well established. A newspaper review of H-S events in a selection of Caribbean territories revealed a surprising number of these events. Characteristics of perpetrators were similar to those documented in the literature. The authors agree with Roma et al. that national tracking systems for H-S are needed. Empirical research on this topic in the Caribbean is also desperately needed. J Am Acad Psychiatry Law 40:469-71, 2012
+C1 [Emmanuel, Maisha K.; Campbell, Michael H.] Univ W Indies, Cave Hill, Barbados.
+C3 University West Indies Mona Jamaica; University West Indies Cave Hill
+   Campus
+RP Emmanuel, MK (corresponding author), Univ W Indies, Cave Hill, Cave Hill, Barbados.
+EM e.maisha@gmail.com
+RI Campbell, Michael H/GQQ-7134-2022; Campbell, Michael H/AAN-2401-2021
+OI Campbell, Michael H/0000-0002-5927-2612; Campbell, Michael
+   H/0000-0002-5927-2612; Emmanuel, Maisha/0000-0002-3449-9669
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 7
+PU AMER ACAD PSYCHIATRY & LAW
+PI BLOOMFIELD
+PA ONE REGENCY DR, PO BOX 30, BLOOMFIELD, CT 06002 USA
+SN 1093-6793
+EI 1943-3662
+J9 J AM ACAD PSYCHIATRY
+JI J. Am. Acad. Psychiatry Law
+PY 2012
+VL 40
+IS 4
+BP 469
+EP 471
+PG 3
+WC Law; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Psychiatry
+GA 060GN
+UT WOS:000312764600003
+PM 23233466
+DA 2023-12-06
+ER
+
+PT J
+AU Borges, G
+   Cherpitel, CJ
+   Orozco, R
+   Ye, Y
+   Monteiro, M
+   Hao, W
+   Benegal, V
+AF Borges, Guilherme
+   Cherpitel, Cheryl J.
+   Orozco, Ricardo
+   Ye, Yu
+   Monteiro, Maristela
+   Hao, Wei
+   Benegal, Vikram
+TI A dose-response estimate for acute alcohol use and risk of suicide
+   attempt
+SO ADDICTION BIOLOGY
+LA English
+DT Article
+DE alcohol; case-crossover; emergency department; risk; suicide attempt
+ID EMERGENCY-DEPARTMENT PATIENTS; CASE-CROSSOVER; RECALL BIAS; CONSUMPTION;
+   INJURY; BEHAVIOR; DEATH
+AB This study reports dose-response estimates for the relative risk and population attributable risk (PAR) between acute alcohol use and serious suicide attempt. Data were analyzed on 272 suicide attempters arriving at 38 emergency departments within 6hours of the event in 17 countries. Case-crossover analysis, pair-matching the number of standard drinks consumed within the 6hours prior to the suicide attempt with that consumed during the same 6-hour period of the previous week, was performed using fractional polynomial analysis for dose-response. Every drink increased the risk of a suicide attempt by 30 percent; even one-two drinks was associated with a sizable increase in the risk of a serious suicide attempt, and a dose-response was found for the relationship between drinking 6hours prior and the risk of a suicide attempt up to 20 drinks. Acute use of alcohol was responsible for 35 percent PAR of all suicide attempts. While very high levels of drinking were associated with larger relative risk s of suicide attempt, the control and reduction of smaller quantities of acute alcohol use also had an impact on population levels of suicide attempt, as showed here for the first time with our PAR estimates. Interventions to stop drinking or at least decrease levels of consumption could reduce the risk of suicide attempt. Screening people more at risk to suffer these acute effects of ethanol and offering interventions that work to these high-risk groups are a matter of urgent new research in the area.
+C1 [Borges, Guilherme; Orozco, Ricardo] Natl Inst Psychiat Ramon Fuente, Mexico City, DF, Mexico.
+   [Cherpitel, Cheryl J.; Ye, Yu] Alcohol Res Grp, Emeryville, CA USA.
+   [Monteiro, Maristela] PAHO, Washington, DC USA.
+   [Hao, Wei] Cent South Univ, Changsha, Hunan, Peoples R China.
+   [Benegal, Vikram] Natl Inst Mental Hlth & Neurosci, Bangalore, Karnataka, India.
+C3 Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz; Alcohol
+   Research Group; Pan American Health Organization; Central South
+   University; National Institute of Mental Health & Neurosciences - India
+RP Borges, G (corresponding author), Natl Inst Psychiat Ramon, Calzada Mexico Xochimilco 101, Mexico City 14370, DF, Mexico.
+EM guibor@imp.edu.mx
+RI Orozco, Ricardo/I-3518-2015; Ye, Yu/V-7651-2019; Hao, Wei/HLX-1665-2023
+OI Orozco, Ricardo/0000-0002-6580-585X; Ye, Yu/0000-0002-2336-3803; Borges,
+   Guilherme/0000-0002-3269-0507; Benegal, Vivek/0000-0002-8896-9689
+FU World Health Organization; US National Institute on Alcohol Abuse and
+   Alcoholism (NIAAA) [RO1 2 AA013750-04]; World Health Organization; US
+   National Institute on Alcohol Abuse and Alcoholism (NIAAA) [RO1 2
+   AA013750-04]
+FX The paper is based, in part, on data collected by the following
+   collaborators participating in the Emergency Room Collaborative Alcohol
+   Analysis Project (ERCAAP) (C.J. Cherpitel, P.I., USA): W. Cook (USA), G.
+   Gmel (Switzerland), A. Hope (Ireland); and collaborators participating
+   in the WHO Collaborative Study on Alcohol and Injuries, sponsored by the
+   World Health Organization and implemented by the WHO Collaborative Study
+   Group on Alcohol and Injuries under the direction of V. Poznyak and M.
+   Peden (WHO, Switzerland): V. Benegal (India), G. Borges (Mexico), S.
+   Casswell (New Zealand), M. Cremonte (Argentina), R. Evsegneev (Belarus),
+   N. Figlie and R. Larajeira (Brazil), N. Giesbrecht and S. Macdonald
+   (Canada), W. Hao (China), S. Larsson and M. Stafstrom (Sweden), H.
+   Sovinova (Czech Republic). A list of other staff contributing to the
+   project can be found in the Main Report of the Collaborative Study on
+   Alcohol and Injuries, WHO, Geneva. The paper is also based, in part, on
+   data obtained by the following collaborators participating in the US
+   National Institute on Alcohol Abuse and Alcoholism (WHO/NIAAA
+   Collaborative Study on Alcohol and Injury), under the direction of B.
+   Grant and P. Chou (NIAAA, USA): W. Hao (China) and S. Chun (Korea), and
+   collaborators participating in the Pan American Health Organization
+   Collaborative Study on Alcohol and Injuries, directed by M. Monteiro
+   (PAHO, USA) and implemented by C. J. Cherpitel (USA) and G. Borges
+   (Mexico): V. Aparicio and A. de Bradshaw (Panama), V. Lopez (Guatemala),
+   M. Paltoo (Guyana), E. Perez (Dominican Republic), D. Weil (Nicaragua).
+   We also acknowledge Julio Bejarano (Costa Rica) and Yi-Chyan Chen and
+   Ming-Chyi Huang (Taiwan) for providing their data. The authors alone are
+   responsible for views expressed in this paper, which do not necessarily
+   represent those of the other investigators participating in the ERCAAP,
+   WHO, NIAAA or PAHO collaborative studies on alcohol and injuries nor the
+   views or policy of the World Health Organization, the US National
+   Institute on Alcohol and Alcoholism or the Pan American Health
+   Organization.r This work is supported by a grant from the US National
+   Institute on Alcohol Abuse and Alcoholism (NIAAA) (RO1 2 AA013750-04,
+   Cheryl Cherpitel, PI)
+NR 37
+TC 16
+Z9 17
+U1 0
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1355-6215
+EI 1369-1600
+J9 ADDICT BIOL
+JI Addict. Biol.
+PD NOV
+PY 2017
+VL 22
+IS 6
+BP 1554
+EP 1561
+DI 10.1111/adb.12439
+PG 8
+WC Biochemistry & Molecular Biology; Substance Abuse
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Biochemistry & Molecular Biology; Substance Abuse
+GA FL0MD
+UT WOS:000413904600007
+PM 27507572
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT B
+AU Moore, R
+AF Moore, Rebecca
+BE Lewis, JR
+   Cusack, CM
+TI Rhetoric, Revolution, and Resistance in Jonestown, Guyana
+SO SACRED SUICIDE
+SE Ashgate New Religions
+LA English
+DT Article; Book Chapter
+C1 San Diego State Univ, San Diego, CA 92182 USA.
+C3 California State University System; San Diego State University
+RP Moore, R (corresponding author), San Diego State Univ, San Diego, CA 92182 USA.
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ASHGATE PUBLISHING LTD
+PI ALDERSHOT
+PA GOWER HOUSE, CROFT ROAD, ALDERSHOT GU11 3HR, ENGLAND
+BN 978-1-4094-5087-0; 978-1-4094-5086-3
+J9 ASHG NEW RELIG
+PY 2014
+BP 73
+EP 90
+PG 18
+WC Religion
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Religion
+GA BB9YS
+UT WOS:000348807400005
+DA 2023-12-06
+ER
+
+PT J
+AU Moore, R
+AF Moore, Rebecca
+TI The Stigmatized Deaths in Jonestown: Finding a Locus for Grief
+SO DEATH STUDIES
+LA English
+DT Article
+ID SUICIDE; NAMES; WEB
+AB This article considers the stigmatized deaths in Jonestown, Guyana, in 1978, in which more than 900 Americans died of mass murder and suicide, and how this led to the disenfranchisement of grief. It examines the rituals of exclusion by which bodies were handled and describes the experiences of Jonestown survivors. It then looks at the ways in which grief has been enfranchised through a memorial website that posts names, photographs, and eulogies of those who died. This website serves as the primary place for relatives to visit, since the names themselves have become signs of absent bodies.
+C1 San Diego State Univ, Dept Religious Studies, San Diego, CA 92182 USA.
+C3 California State University System; San Diego State University
+RP Moore, R (corresponding author), San Diego State Univ, Dept Religious Studies, 5500 Campanile Dr, San Diego, CA 92182 USA.
+EM remoore@mail.sdsu.edu
+NR 33
+TC 4
+Z9 4
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0748-1187
+J9 DEATH STUD
+JI Death Stud.
+PY 2011
+VL 35
+IS 1
+BP 42
+EP 58
+AR PII 931903856
+DI 10.1080/07481181003772465
+PG 17
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 715RL
+UT WOS:000286901500003
+PM 24501849
+DA 2023-12-06
+ER
+
+PT J
+AU Henry, P
+   Costanza, M
+   Denton, EG
+AF Henry, Paulette
+   Costanza, Marco
+   Denton, Ellen-ge
+TI STRESS-DIATHESIS AND SUICIDE BEHAVIOR: UNPACKING CLINICAL SYMPTOMS,
+   CORTISOL AND SUICIDE ATTEMPTS IN A HIGH-RISK GUYANESE SAMPLE
+SO PSYCHOSOMATIC MEDICINE
+LA English
+DT Meeting Abstract
+CT 77th Annual Scientific Meeting of the American-Psychosomatic-Society on
+   Body to Mind
+CY MAR 06-09, 2019
+CL Vancouver, CANADA
+SP Amer Psychosomat Soc
+C1 [Henry, Paulette] Univ Guyana, Div Social Sci, Social Work, Port Mourant, Guyana.
+   [Costanza, Marco; Denton, Ellen-ge] CUNY Coll Staten Isl, Psychol, Staten Isl, NY USA.
+C3 City University of New York (CUNY) System; College of Staten Island
+   (CUNY)
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0033-3174
+EI 1534-7796
+J9 PSYCHOSOM MED
+JI Psychosom. Med.
+PD MAY
+PY 2019
+VL 81
+IS 4
+MA 1358
+BP A19
+EP A20
+PG 2
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Psychiatry; Psychology
+GA HX7CG
+UT WOS:000467560700057
+DA 2023-12-06
+ER
+
+PT J
+AU Brannon, RB
+   Morlang, WM
+AF Brannon, RB
+   Morlang, WM
+TI Jonestown tragedy revisited: The role of dentistry
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article; Proceedings Paper
+CT 53rd Annual Meeting of the American-Academy-of-Forensic-Sciences
+CY FEB 19-24, 2001
+CL SEATTLE, WASHINGTON
+SP Amer Acad Forens Sci
+DE forensic science; forensic odontology; Jonestown; Guyana; mass disaster;
+   dental identification
+ID IDENTIFICATION
+AB The authors record the contribution of dentistry to the identification Of victims of one of the most significant tragedies of the 20th century-the mass suicide of members of a religious cult, which initially resulted in 913 deaths and ultimately in 923. Though forensic dentistry played a significant part in identifying victims, the only report by members of the United States identification team did not examine dentistry's valuable role. Furthermore, the dental-investigation aspects have been mentioned merely in passing by the news media despite an infinite number of stories on the tragedy ranging from factual to expose. The dental team's organization, methodology, and significant contributions to forensic dentistry and a variety of remarkable problems that the team encountered and the lessons learned from them are documented in this paper.
+C1 Louisiana State Univ, Sch Dent, Dept Oral & Maxillofacial Pathol, New Orleans, LA 70119 USA.
+C3 Louisiana State University System
+RP Brannon, RB (corresponding author), Louisiana State Univ, Sch Dent, Dept Oral & Maxillofacial Pathol, 1100 Florida Ave, New Orleans, LA 70119 USA.
+NR 29
+TC 8
+Z9 8
+U1 0
+U2 13
+PU AMER SOC TESTING MATERIALS
+PI W CONSHOHOCKEN
+PA 100 BARR HARBOR DR, W CONSHOHOCKEN, PA 19428-2959 USA
+SN 0022-1198
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD JAN
+PY 2002
+VL 47
+IS 1
+BP 3
+EP 7
+PG 5
+WC Medicine, Legal
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 512BZ
+UT WOS:000173302400001
+PM 12064667
+DA 2023-12-06
+ER
+
+PT J
+AU Chesneau, P
+   Knibiehly, M
+   Tichadou, L
+   Calvez, M
+   Joubert, M
+   Hayek-Lanthois, M
+   De Haro, L
+AF Chesneau, Pierre
+   Knibiehly, Marc
+   Tichadou, Lucia
+   Calvez, Melanie
+   Joubert, Michel
+   Hayek-Lanthois, Maryvonne
+   De Haro, Luc
+TI Suicide attempt by ingestion of rotenone-containing plant extracts: one
+   case report in French Guiana
+SO CLINICAL TOXICOLOGY
+LA English
+DT Article
+DE Insecticides; Toxic plants; Acute poisoning
+ID ICHTHYOTOXIC PLANTS; GUYANA
+AB Introduction. Several species of plants in the Fabaceae family are traditionally used for poison fishing because they contain ichthyotoxic rotenoids. In French Guiana two species of Fabaceae belonging to Lonchocarpus genus with a toxic rotenone effect are used for such ancestral practices. Rotenone is of low toxicity for humans when it is diluted, but its neurotoxicity at higher concentrations is well known to users. Case report. The purpose of this article is to describe a case of self-poisoning by an 86-year-old woman who ingested a bowl of mashed ichthyotoxic plants. Despite early onset of severe symptoms, the patient regained consciousness and resumed normal breathing within a few hours with only symptomatic treatment. Conclusion. The clinical pattern observed in this patient (onset of digestive manifestations followed quickly by loss of conscience and respiratory insufficiency) is in agreement with the few poisonings reported in the literature involving other Fabaceae species containing rotenoids in Asia or involving concentrated rotenone used in insecticides. In patients, who survive the initial phase, symptoms usually regress quickly.
+C1 [Tichadou, Lucia; Hayek-Lanthois, Maryvonne; De Haro, Luc] Hop Salvator, Ctr Antipoison, F-13009 Marseille, France.
+   [Calvez, Melanie; Joubert, Michel] Ctr Hosp Andree Rosemon, Ctr Sante, Cayenne, French Guiana.
+C3 Aix-Marseille Universite
+RP De Haro, L (corresponding author), Hop Salvator, Ctr Antipoison, 249 Blvd St Marguerite, F-13009 Marseille, France.
+EM luc.deharo@ap-hm.fr
+RI de Haro, Luc/AAT-2911-2020
+OI de Haro, Luc/0000-0003-2250-6312
+NR 11
+TC 9
+Z9 9
+U1 0
+U2 1
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD SEP
+PY 2009
+VL 47
+IS 8
+BP 830
+EP 833
+DI 10.1080/15563650903146818
+PG 4
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 548SU
+UT WOS:000273987400011
+PM 19656010
+DA 2023-12-06
+ER
+
+PT J
+AU Milzman, D
+   Lin, HHS
+AF Milzman, David
+   Lin, Hahn H. Soe
+TI SUICIDE IDEATION PRESENTING TO THE HOSPITAL: LACK OF EVIDENCE FOR
+   SUCCESS AND DEATH.
+SO CRITICAL CARE MEDICINE
+LA English
+DT Meeting Abstract
+CT 38th Critical Care Congress of the Society-of-Critical-Care-Medicine
+CY JAN 31-FEB 04, 2009
+CL Nashville, TN
+SP Soc Crit Care Med
+C1 Uniformed Serv Univ Hlth Sci, Sch Med, Bethesda, MD 20814 USA.
+   Emergency Dept, Georgetown, Guyana.
+C3 Uniformed Services University of the Health Sciences - USA
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0090-3493
+J9 CRIT CARE MED
+JI Crit. Care Med.
+PD DEC
+PY 2008
+VL 36
+IS 12
+SU S
+MA 511
+BP A129
+EP A129
+PG 1
+WC Critical Care Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC General & Internal Medicine
+GA 376WM
+UT WOS:000261213700476
+DA 2023-12-06
+ER
+
+PT B
+AU Farber, D
+AF Farber, David
+BA Farber, D
+BF Farber, D
+TI <i>SHASLIK NERG BESSAWARI AZERBAIYAN</i> OR "THE RED BLINDFOLD WOULD BE
+   LOVELY"
+SO TAKEN HOSTAGE: THE IRAN HOSTAGE CRISIS AND AMERICAS FIRST ENCOUNTER WITH
+   RADICAL ISLAM
+LA English
+DT Article; Book Chapter
+AB On November 4, 1979, Robert Ode was on special short-term assignment at the U. S. embassy in Iran. He'd only been there for a couple of months. He was part of the skeleton crew operating the much-reduced U. S. Mission Tehran while the Iranian revolution sorted itself out. Sixty-five years old, he had retired from the foreign service in 1976. He'd put in thirty years all over the world. A steady, sure hand, he looked a decade younger than his age.
+   Ode's work at the embassy was routine. Mostly, he processed visa applications. Because of the chaos and anti-American hysteria, the U. S. government had stopped issuing visas for several months. Now there was a big backlog and visas to the United States were a hot commodity, especially for persecuted Iranian Jews and Ba'hai's, as well as for anybody associated in any way with the Shah's overthrown regime (and, revolution or no revolution, for the many young Iranians who still wished to study in American universities). The paperwork had overwhelmed the reduced regular staff.(1)
+   Ode's previous special assignment for the State Department had been well out of the ordinary. At the tail end of 1978, State had sent him to Guyana to help handle the fallout of the Jonestown horrors. The Reverend Jim Jones, leader of the 3,000-member People's Temple in San Francisco, had taken around 1,100 of his followers down to Guyana, on the northeast coast of South America, to build a socialist-religious utopian enclave. Jones had for all practical purposes gone insane-or further insane-and Jonestown had become an armed camp in which extreme loyalty to "Father" was paramount. In November 1978, an American delegation led by Congressman Leo Ryan arrived in Guyana to investigate charges that Jones was holding people against their will. Jones had the congressman and three staffers killed. In an apocalyptic paranoid fury, he then ordered his followers to drink cyanide-laced Kool-Aid, a task for which they had been rehearsing for some time. Most complied. Those that didn't were shot down by Jones loyalists. On November 18, 1978, while the Shah's regime crumbled, 913 Americans, including 276 children, died in Jonestown. Ode's job was to assist the 167 survivors and look after the repatriation of the corpses. In the late 1970s, "cults" (Hare Krishnas, "Moonies," the Children of God) and "cult" deprogramming were just part of the backdrop to the more general pandemonium and, in retrospect, it's amazing how calmly Americans treated the mass suicide and murders at Jonestown. Ode himself was a calm man and he had done his best to bracket the madness and do the job he had been assigned.(2)
+   After the horrors of Jonestown, Tehran had seemed like relatively light duty for Ode. Nightly gunfire, constant anti-American street protests, and shouts of "Marg bar Amrika" (Death to America) were unpleasant but seemed like manageable threats.
+   They were not. Robert Ode would become the oldest captive taken by the Iranian student revolutionaries. To the best of his ability, this veteran foreign service officer gave his youthful captors a very hard time for 444 days.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 2
+PU PRINCETON UNIV PRESS
+PI PRINCETON
+PA 41 WILLIAM ST, PRINCETON, NJ 08540 USA
+BN 978-1-40082-620-9
+PY 2005
+BP 102
+EP 136
+PG 35
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BTE28
+UT WOS:000286632200005
+DA 2023-12-06
+ER
+
+EF

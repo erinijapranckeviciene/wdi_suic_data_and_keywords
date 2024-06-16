@@ -1,0 +1,48 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Telisinghe, PU
+   Colombage, SM
+AF Telisinghe, P. U.
+   Colombage, Senarath M.
+TI Patterns of suicide in Brunei Darussalam and comparison with
+   neighbouring countries in South East Asia
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Suicide; Patterns; Brunei Darussalam
+ID TIME-TREND ANALYSIS; LIFETIME RISK; HONG-KONG; SINGAPORE; RATES;
+   ALCOHOLISM; THAILAND
+AB A retrospective study of suicides in Brunei Darussalam (Brunei) over a 20 year period from 1991e2010 was conducted by analysing the post-mortem examination and external examination reports and other relevant records. The suicide rate in Brunei is very low (1.9 deaths per 100,000 per year). The majority of the victims were expatriates 82(66%) and hanging was the commonest mode of suicide both in expatriate and local population. The study showed that the suicide rate among the Bruneian Malays was the lowest (0.5 deaths per 100,000 per year) among the different nationalities. The study highlights the demographics and socio-economic background of the victims, methods used in committing suicide, suicide rates in different ethnic groups and predisposing factors. The results of this study would be of use for taking preventive measures to minimize the incidence of suicide. (C) 2013 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Telisinghe, P. U.; Colombage, Senarath M.] RIPAS Hosp, BA-1710 Bandar Seri Begawan, Brunei.
+RP Colombage, SM (corresponding author), RIPAS Hosp, BA-1710 Bandar Seri Begawan, Brunei.
+EM smcolombage@gmail.com
+NR 25
+TC 2
+Z9 2
+U1 1
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD FEB
+PY 2014
+VL 22
+BP 16
+EP 19
+DI 10.1016/j.jflm.2013.11.007
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA 302EJ
+UT WOS:000330584300004
+PM 24485414
+DA 2023-12-03
+ER
+
+EF

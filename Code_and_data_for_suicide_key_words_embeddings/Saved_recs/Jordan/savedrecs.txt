@@ -1,0 +1,720 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lester, D
+AF Lester, D
+TI Quality of life for children and suicide rates
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+AB The quality of life in 1982 of children in nations of the world reported by Jordan in 1993 was positively associated with youth suicide rates only for males in 1982.
+C1 Richard Stockton Coll New Jersey, Psychol Program, Pomona, NJ 08240 USA.
+C3 Stockton University
+RP Lester, D (corresponding author), Richard Stockton Coll New Jersey, Psychol Program, POB 195,Jimmie Leeds Rd, Pomona, NJ 08240 USA.
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 1
+PU PSYCHOLOGICAL REPORTS
+PI MISSOULA
+PA P O BOX 9229, MISSOULA, MT 59807 USA
+SN 0033-2941
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD DEC
+PY 2001
+VL 89
+IS 3
+BP 616
+EP 616
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 513YN
+UT WOS:000173408800025
+PM 11824725
+DA 2023-12-03
+ER
+
+PT J
+AU Wood, L
+   Byram, V
+   Gosling, AS
+   Stokes, J
+AF Wood, Lindsey
+   Byram, Victoria
+   Gosling, A. Sophie
+   Stokes, Julie
+TI CONTINUING BONDS AFTER SUICIDE BEREAVEMENT IN CHILDHOOD
+SO DEATH STUDIES
+LA English
+DT Article
+ID ATTACHMENT; CHILDREN; DEATH
+AB It has been argued that the grieving process after suicide bereavement has unique properties (e. g., J.R. Jordan, 2001). A qualitative study was conducted to explore one aspect of the grieving process-continuing bonds-after suicide bereavement in childhood. Data were collected through semi-structured interviews with 10 suicide-bereaved children and analyzed using Interpretative Phenomenological Analysis (Smith & Osborn, 2003). Three themes are discussed: thinking about the deceased, coping strategies, and ongoing connections to the deceased. The findings highlight potentially unique qualities of continuing bonds after childhood suicide bereavement and factors that might influence their adaptiveness. Theoretical and clinical implications are outlined.
+C1 [Wood, Lindsey; Byram, Victoria; Gosling, A. Sophie] Univ London, London, England.
+   [Stokes, Julie] Winstons Wish, Cheltenham, Glos, England.
+C3 University of London
+RP Wood, L (corresponding author), Brent Child & Family Clin, Warranty House,Dudden Hill Lane, London NW10 1DD, England.
+EM lindsey.wood@nhs.net
+NR 32
+TC 21
+Z9 32
+U1 2
+U2 23
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2012
+VL 36
+IS 10
+BP 873
+EP 898
+DI 10.1080/07481187.2011.584025
+PG 26
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 030UC
+UT WOS:000310594600001
+PM 24563945
+DA 2023-12-03
+ER
+
+PT J
+AU Eskin, M
+   Sun, JM
+   Abuidhail, J
+   Yoshimasu, K
+   Kujan, O
+   Janghorbani, M
+   Flood, C
+   Carta, MG
+   Tran, US
+   Mechri, A
+   Hamdan, M
+   Poyrazli, S
+   Aidoudi, K
+   Bakhshi, S
+   Harlak, H
+   Moro, MF
+   Nawafleh, H
+   Phillips, L
+   Shaheen, A
+   Taifour, S
+   Tsuno, K
+   Voracek, M
+AF Eskin, Mehmet
+   Sun, Jian-Min
+   Abuidhail, Jamila
+   Yoshimasu, Kouichi
+   Kujan, Omar
+   Janghorbani, Mohsen
+   Flood, Chris
+   Carta, Mauro Giovanni
+   Tran, Ulrich S.
+   Mechri, Anwar
+   Hamdan, Motasem
+   Poyrazli, Senel
+   Aidoudi, Khouala
+   Bakhshi, Seifollah
+   Harlak, Hacer
+   Moro, Maria Francesca
+   Nawafleh, Hani
+   Phillips, Louise
+   Shaheen, Amira
+   Taifour, Shahama
+   Tsuno, Kanami
+   Voracek, Martin
+TI Suicidal Behavior and Psychological Distress in University Students: A
+   12-nation Study
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE cross-cultural comparisons; psychological distress; suicide attempt;
+   suicide ideation
+ID CHILDHOOD SEXUAL-ABUSE; HIGH-SCHOOL-STUDENTS; AGE-OF-ONSET;
+   MENTAL-HEALTH; RISK-FACTORS; COLLEGE-STUDENTS; PARENTAL DEATH; LIFE
+   EVENTS; IDEATION; DEPRESSION
+AB This study investigated the prevalence of suicidal behavior and psychological distress in university students across 12 nations. A total of 5,572 university students from 12 countries were surveyed about suicide ideation, suicide attempts, and psychological distress by means of a self-administered questionnaire. Almost 29% of the samples reported having contemplated suicide and 7% reported attempting suicide. Of the total sample, 51.1% scored above the General Health Questionnaire-123 cut-off points, 41.6% above the GHQ-124 cut-off points, and 33.8% scored above the GHQ-125 cut-off points. While odds of suicide ideation were elevated in Austria and the UK, reduced ORs were detected for China, Italy, Saudi Arabia, Tunisia, and Turkey. Similarly, while odds of suicide attempt were high in Jordan, Palestine, Saudi Arabia, and to some extent in Turkey, reduced ORs were observed for Austria, China, Italy, Japan and the United States. Elevated ORs for psychological distress were seen in Japan, Jordan, Palestine, Saudi Arabia, Tunisia, and Turkey but reduced ORs were noted in Austria, China, Iran, Italy, and the United States. Psychological distress was strongly associated with reports of suicide ideation and attempts. Suicide ideation, suicide attempt, and psychological distress are common in university students but their rates vary depending on the sociocultural context. Due attention should be devoted to the mental health needs of young adults enrolled in higher educational institutions and more cross-cultural research is warranted to better understand the etiology of the observed intersocietal variations in suicidal behavior and psychological distress.
+C1 [Eskin, Mehmet] Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+   [Sun, Jian-Min] Renmin Univ China, Dept Psychol, Beijing, Peoples R China.
+   [Sun, Jian-Min] Renmin Univ China, Sch Labor & Human Resources, Beijing, Peoples R China.
+   [Abuidhail, Jamila] Hashemite Univ, Fac Nursing, Zarqa, Jordan.
+   [Yoshimasu, Kouichi; Tsuno, Kanami] Wakayama Med Univ, Sch Med, Dept Hyg, Wakayama, Japan.
+   [Kujan, Omar; Taifour, Shahama] Al Farabi Coll Dent & Nursing, Dept Oral & Maxillofacial Sci, Riyadh, Saudi Arabia.
+   [Janghorbani, Mohsen; Bakhshi, Seifollah] Isfahan Univ Med Sci, Sch Publ Hlth, Esfahan, Iran.
+   [Flood, Chris; Phillips, Louise] City Univ London, Sch Hlth Sci, London, England.
+   [Carta, Mauro Giovanni; Moro, Maria Francesca] Univ Cagliari, Dept Publ Hlth Clin & Mol Med, Cagliari, Italy.
+   [Tran, Ulrich S.; Voracek, Martin] Univ Vienna, Sch Psychol, Dept Basic Psychol Res & Res Methods, Vienna, Austria.
+   [Mechri, Anwar; Aidoudi, Khouala] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Israel.
+   [Poyrazli, Senel] Penn State Univ Harrisburg, Sch Behav Sci & Educ, Middletown, PA USA.
+   [Harlak, Hacer] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [Nawafleh, Hani] Al Hussein Bin Talal Univ, Princess Aisha Fac Nursing & Hlth Sci, Maan, Jordan.
+   [Shaheen, Amira] An Najah Natl Univ, Fac Med & Hlth Sci, Nablus, West Bank, Palestine.
+C3 Adnan Menderes University; Renmin University of China; Renmin University
+   of China; Hashemite University; Wakayama Medical University; Al-Farabi
+   College for Nursing & Dentistry; Isfahan University Medical Science;
+   City University London; University of Cagliari; University of Vienna;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Adnan Menderes University; Al-Hussein Bin
+   Talal University; An Najah National University
+RP Eskin, M (corresponding author), Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+EM meskin48@gmail.com
+RI Voracek, Martin/S-5865-2016; Tsuno, Kanami/D-4388-2013; Kujan,
+   Omar/J-5082-2014; Mechri, Anwar/I-5696-2019; Harlak,
+   Hacer/ABC-5916-2020; Janghorbani, Mohsen/A-2330-2010; Hamdan,
+   Motasem/AAB-3940-2019; Eskin, Mehmet/AAG-9269-2020
+OI Voracek, Martin/0000-0001-6109-6155; Tsuno, Kanami/0000-0001-9399-6596;
+   Kujan, Omar/0000-0002-5951-8280; Mechri, Anwar/0000-0002-6431-6907;
+   Tran, Ulrich/0000-0002-6589-3167; Flood, Chris/0000-0001-5170-7792;
+   Hamdan, Motasem/0000-0002-7633-2541; Eskin, Mehmet/0000-0001-9916-9268;
+   Poyrazli, Senel/0000-0003-3210-8991; Abuidhail,
+   Jamila/0000-0003-3145-119X; Sun, Jian-min/0000-0001-7696-3231; Nawafleh,
+   Hani/0000-0003-3424-6677; Moro, Maria Francesca/0000-0003-4426-8044
+NR 62
+TC 132
+Z9 141
+U1 1
+U2 59
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PY 2016
+VL 20
+IS 3
+BP 369
+EP 388
+DI 10.1080/13811118.2015.1054055
+PG 20
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA DR2KY
+UT WOS:000379734600006
+PM 26954847
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Shafiq, MN
+   Sinno, AH
+AF Shafiq, M. Najeeb
+   Sinno, Abdulkader H.
+TI Education, Income, and Support for Suicide Bombings: Evidence from Six
+   Muslim Countries
+SO JOURNAL OF CONFLICT RESOLUTION
+LA English
+DT Article
+DE attitudes; Islam; politics of education; suicide bombing; terrorism
+ID TERRORISM
+AB The authors examine the effect of educational attainment and income on support for suicide bombing among Muslim publics in six predominantly Muslim countries that have experienced suicide bombings: Indonesia, Jordan, Lebanon, Morocco, Pakistan, and Turkey. The authors make two contributions. First, they present a conceptual model, which has been lacking in the literature. Second, they consider attitudes toward two different targets of suicide bombings: civilians within the respondent's country and Western military and political personnel in Iraq. The authors find that the effect of educational attainment and income on support for suicide bombings varies across countries and targets.The findings therefore draw attention to the difficulties of making generalizations about Muslim countries and the importance of distinguishing between targets of suicide bombings.
+C1 [Shafiq, M. Najeeb; Sinno, Abdulkader H.] Indiana Univ, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Shafiq, MN (corresponding author), WW Wright Educ Bldg,Room 4232, Bloomington, IN 47405 USA.
+EM mnshafiq@indiana.edu
+NR 41
+TC 58
+Z9 59
+U1 1
+U2 26
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0027
+EI 1552-8766
+J9 J CONFLICT RESOLUT
+JI J. Confl. Resolut.
+PD FEB
+PY 2010
+VL 54
+IS 1
+BP 146
+EP 178
+DI 10.1177/0022002709351411
+PG 33
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 544SE
+UT WOS:000273678800007
+DA 2023-12-03
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; Ministry of National Guard - Health Affairs; King
+   Abdullah International Medical Research Center (KAIMRC); Universitas
+   Islam Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Rezaeian, Mohsen/C-6513-2008; Khan, Murad/AAE-5134-2020; Eskin,
+   Mehmet/AAG-9269-2020; Khader, Yousef Saleh/AAE-9620-2019; Harlak,
+   Hacer/ABC-5916-2020; Noor, Isa Multazam/AAQ-2726-2020; Khan,
+   Aqeel/B-5208-2010; Hamdan, Motasem/AAB-3940-2019
+OI Rezaeian, Mohsen/0000-0003-3070-0166; Khader, Yousef
+   Saleh/0000-0002-7830-6857; Khan, Aqeel/0000-0001-9338-9323; Hendarmin,
+   Laifa A./0000-0001-5281-395X; Isayeva, Ulker/0000-0003-3927-4810; Eskin,
+   Mehmet/0000-0001-9916-9268; Hamdan, Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-03
+ER
+
+PT J
+AU Al-Modallal, H
+AF Al-Modallal, Hanan
+TI Patterns of Coping with Partner Violence: Experiences of Refugee Women
+   in Jordan
+SO PUBLIC HEALTH NURSING
+LA English
+DT Article
+DE coping; family support; Jordan; partner violence; smoking; suicide
+ID MENTAL-HEALTH; SOCIAL SUPPORT; WIFE ABUSE; PREVALENCE; ATTITUDES; CAMPS;
+   AMERICAN; INCOME; CARE
+AB Objective The relationship between intimate partner violence (IPV) and women's use of negative and positive coping strategies was investigated. Design and Sample For this cross-sectional study, a convenience sample of 300 refugee women was recruited from health care centers in three cities in Jordan. Logistic regression adjusted to women's demographic characteristics was used. Results The study's results revealed that, compared to non victims, victimized women showed a lower tendency to receive psychological support from the family (adjusted OR=0.53, 95% CI=0.290.96), to smoke (adjusted OR=0.28, 95% CI=0.090.82), to use tranquilizers (adjusted OR = 0.014, 95% CI = 0.00-0.86), to think of suicide (adjusted OR=0.04, 95% CI=0.0090.15), and to attempt suicidal actions (adjusted OR=0.02, 95% CI=0.0020.19). Conclusions The study indicated that women's lack of use of negative coping strategies (smoking, use of tranquilizers, suicidal thoughts, and suicidal actions) was promising. However, the lack of use of positive coping strategies (disclosure of abuse, psychological support from friends, and help from family/friends) was somewhat concerning. The role of health care professionals may be helpful in this context. Counseling and support to IPV victims via effective listening, nonjudgmental discussions, and provision of information can be offered by health professionals as part of the treatment in health care centers.
+C1 Hashemite Univ, Coll Nursing, Dept Community & Mental Hlth Nursing, Zarqa, Jordan.
+C3 Hashemite University
+RP Al-Modallal, H (corresponding author), Hashemite Univ, Coll Nursing, Dept Community & Mental Hlth Nursing, Zarqa, Jordan.
+EM hmodallal@hu.edu.jo
+RI Al-Modallal, Prof. Hanan/AAA-2118-2022
+NR 44
+TC 20
+Z9 24
+U1 0
+U2 22
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0737-1209
+EI 1525-1446
+J9 PUBLIC HEALTH NURS
+JI Public Health Nurs.
+PD SEP-OCT
+PY 2012
+VL 29
+IS 5
+BP 403
+EP 411
+DI 10.1111/j.1525-1446.2012.01018.x
+PG 9
+WC Public, Environmental & Occupational Health; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Nursing
+GA 996LA
+UT WOS:000308087600004
+PM 22924563
+DA 2023-12-03
+ER
+
+PT J
+AU Gunnell, D
+   Knipe, D
+   Chang, SS
+   Pearson, M
+   Konradsen, F
+   Lee, WJ
+   Eddleston, M
+AF Gunnell, David
+   Knipe, Duleeka
+   Chang, Shu-Sen
+   Pearson, Melissa
+   Konradsen, Flemming
+   Lee, Won Jin
+   Eddleston, Michael
+TI Prevention of suicide with regulations aimed at restricting access to
+   highly hazardous pesticides: a systematic review of the international
+   evidence
+SO LANCET GLOBAL HEALTH
+LA English
+DT Review
+ID UNITED-STATES; SRI-LANKA; RATES; EPIDEMIOLOGY; TRENDS; MORTALITY;
+   DEATHS; IMPACT; AVAILABILITY; INSECTICIDES
+AB Background Pesticide self-poisoning accounts for 14-20% of suicides worldwide. Regulation aimed at restricting access to pesticides or banning highly hazardous pesticides is one approach to reducing these deaths. We systematically reviewed the evidence of the effectiveness of pesticide regulation in reducing the incidence of pesticide suicides and overall suicides.
+   Methods We did a systematic review of the international evidence. We searched MEDLINE, PsycINFO, and Embase for studies published between Jan 1, 1960, and Dec 31, 2016, which investigated the effect of national or regional bans, and sales or import restrictions, on the availability of one or more pesticides and the incidence of suicide in different countries. We excluded other interventions aimed at limiting community access to pesticides. We extracted data from studies presenting pesticide suicide data and overall suicide data from before and after national sales restrictions. Two reviewers independently assessed papers for inclusion, extracted data, and assessed risk of bias. We undertook a narrative synthesis of the data in each report, and where data were available for the years before and after a ban, we pooled data for the 3 years before and the 3 years after to obtain a crude estimate of the effect of the ban. This study is registered through PROSPERO, number CRD42017053329.
+   Findings We identified 27 studies undertaken in 16 countries-five low-income or middle-income countries (Bangladesh, Colombia, India, Jordan and Sri Lanka), and 11 high-income countries (Denmark, Finland, Germany, Greece, Hungary, Ireland, Japan, South Korea, Taiwan, UK, and USA). Assessments largely focused on national bans of specific pesticides (12 studies of bans in six countries-Jordan, Sri Lanka, Bangladesh, Greece [ Crete], South Korea, and Taiwan) or sales restrictions (eight studies of restrictions in five countries-India, Denmark, Ireland, the UK and the USA). Only five studies used optimum analytical methods. National bans on commonly ingested pesticides in five of the six countries studied, including four studies using optimum analytical methods, were followed by reductions in pesticide suicides and, in three of these countries, falls in overall suicide mortality. Greece was the only country studied that did not show a decrease in pesticide suicide following a ban. There were no high-quality studies of restricting sales to people for occupational uses; four of the seven studies (in three of the five countries studied-India, Denmark, and the USA) showed sales restrictions were followed by decreases in pesticide suicides; one of the two studies investigating trends in overall suicide mortality reported a fall in deaths in Denmark, but there were also decreases in suicide deaths from other methods.
+   Interpretation National bans on highly hazardous pesticides, which are commonly ingested in acts of self-poisoning, seem to be effective in reducing pesticide-specific and overall suicide rates. Evidence is less consistent for sales restrictions. A worldwide ban on the use of highly hazardous pesticides is likely to prevent tens of thousands of deaths every year. Copyright (C) The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license.
+C1 [Gunnell, David; Knipe, Duleeka] Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Canynge Hall, Bristol BS8 2PS, Avon, England.
+   [Gunnell, David; Knipe, Duleeka; Pearson, Melissa; Konradsen, Flemming; Eddleston, Michael] Univ Peradeniya, South Asian Clin Toxicol Res Collaborat, Peradeniya, Sri Lanka.
+   [Gunnell, David] Univ Hosp Bristol NHS Fdn Trust, Biomed Res Ctr, Natl Inst Hlth Res, Bristol, Avon, England.
+   [Gunnell, David] Univ Bristol, Bristol, Avon, England.
+   [Chang, Shu-Sen] Natl Taiwan Univ, Inst Hlth Behav & Community Sci, Taipei, Taiwan.
+   [Chang, Shu-Sen] Natl Taiwan Univ, Dept Publ Hlth, Coll Publ Hlth, Taipei, Taiwan.
+   [Pearson, Melissa; Eddleston, Michael] Univ Edinburgh, Univ British Heart Fdn, Ctr Cardiovasc Sci, Pharmacol Toxicol & Therapeut, Edinburgh, Midlothian, Scotland.
+   [Konradsen, Flemming] Univ Copenhagen, Fac Hlth & Med Sci, Dept Publ Hlth, Copenhagen, Denmark.
+   [Lee, Won Jin] Korea Univ, Coll Med, Dept Prevent Med, Seoul, South Korea.
+C3 University of Bristol; University of Peradeniya; University of Bristol;
+   University of Bristol; National Taiwan University; National Taiwan
+   University; University of Edinburgh; University of Copenhagen; Korea
+   University; Korea University Medicine (KU Medicine)
+RP Gunnell, D (corresponding author), Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Canynge Hall, Bristol BS8 2PS, Avon, England.
+EM d.j.gunnell@bristol.ac.uk
+RI Chang, Shu-Sen/AAH-6733-2021; Pearson, Melissa/ITW-0263-2023; Gunnell,
+   David/ABE-6653-2020; Chang, Shu-Sen/B-3518-2012; Pearson,
+   Melissa/M-5250-2014; Knipe, M Duleeka W/D-2714-2009
+OI Chang, Shu-Sen/0000-0001-5012-1132; Pearson,
+   Melissa/0000-0001-6683-3628; Gunnell, David/0000-0002-0829-6470; Chang,
+   Shu-Sen/0000-0001-5012-1132; Pearson, Melissa/0000-0001-6683-3628;
+   Knipe, M Duleeka W/0000-0002-1040-7635; Lee, Won Jin/0000-0002-0254-7267
+FU UK Economic and Social Research Council; ESRC [ES/P009735/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/P009735/1]
+   Funding Source: researchfish; National Institute for Health Research
+   [NF-SI-0512-10068] Funding Source: researchfish
+FX DK is funded by the UK Economic and Social Research Council. We thank
+   Mio Ozawa, Gill Gunnell, Yana Kovacheva, Eszter Szilassy, and Renata
+   Titurusova for providing assistance with translation, Rick Langley and
+   Corinne Schmitt for clarifying details of their research, and Pik
+   Hampton for administrative support.
+NR 67
+TC 116
+Z9 124
+U1 1
+U2 26
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2214-109X
+J9 LANCET GLOB HEALTH
+JI Lancet Glob. Health
+PD OCT
+PY 2017
+VL 5
+IS 10
+BP E1026
+EP E1037
+DI 10.1016/S2214-109X(17)30299-1
+PG 12
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FG4GY
+UT WOS:000410200600024
+PM 28807587
+OA Green Published, gold, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Moynihan, S
+AF Moynihan, Sinead
+TI "Empty, Musing, Poignant": Rupture, Nostalgia, and the Seaside Resort in
+   Contemporary Irish Fiction
+SO CRITIQUE-STUDIES IN CONTEMPORARY FICTION
+LA English
+DT Article
+DE Seaside resort; Neil Jordan; contemporary Irish fiction; archipelagic
+AB This essay identifies the seaside resort as an important space in Irish fiction of the past forty years. Specifically, it argues that just as British and Irish seaside resorts were undergoing profound transformation what John K. Walton refers to as "the traumatic changes of the 1970s and 1980s" (3) the seaside resort emerges in Irish fiction as the backdrop for various kinds of personal and social rupture, ranging from adolescence, mental breakdown, marital breakup, spousal death, and suicide to the social transformations we associate with modernity: emigration, internal migration, suburbanization, and secularization. The essay focuses predominantly on Irish fiction's most insistent bard of the seaside, Neil Jordan, who locates almost all of his fictional and filmic work in Irish seaside towns. After discussing Jordan's work, the essay, expands the analysis to other paeans to the Irish seaside resort in order to demonstrate the sheer range of contemporary Irish writers for whom the seaside is an important location, and to suggest directions for future study.
+C1 [Moynihan, Sinead] Univ Exeter, Dept English, Queens Bldg,Queens Dr, Exeter EX4 4QJ, Devon, England.
+C3 University of Exeter
+RP Moynihan, S (corresponding author), Univ Exeter, Dept English, Queens Bldg,Queens Dr, Exeter EX4 4QJ, Devon, England.
+EM s.moynihan@exeter.ac.uk
+NR 49
+TC 0
+Z9 0
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0011-1619
+EI 1939-9138
+J9 CRITIQUE-ST CONTEMP
+JI Crit.-Stud. Contemp. Fiction
+PY 2016
+VL 57
+IS 3
+BP 310
+EP 322
+DI 10.1080/00111619.2015.1078764
+PG 13
+WC Literature
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA DQ2PW
+UT WOS:000379045900007
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Amer, NRY
+   Hamdan-Mansour, AM
+AF Amer, Nuha Remon Yacoub
+   Hamdan-Mansour, Ayman M.
+TI Psychosocial Predictors of Suicidal Ideation in Patients Diagnosed with
+   Chronic Illnesses in Jordan
+SO Issues in Mental Health Nursing
+LA English
+DT Article
+ID MAJOR DEPRESSION; PSYCHOLOGICAL DISTRESS; MEDICAL INPATIENTS;
+   CANCER-PATIENTS; UNITED-STATES; RISK-FACTOR; DISEASE; PREVALENCE;
+   THOUGHTS; OPTIMISM
+AB Suicide ideation (SI) is considered a major psychiatric emergency in patients diagnosed with chronic illnesses. Suicide ideation is a multifaceted issue that involves bio-psychosocial and cultural factors that interfere with patients' abilities. The purpose of this study is to investigate the psychosocial predictors of SI among Jordanian patients with chronic illnesses. A cross-sectional design using self-administered questionnaires was used to collect data from 480 patients diagnosed with diabetes mellitus, cardiovascular diseases, and cancer. The mean score of suicide ideation was 4.07 (SD = 1.7) and almost 20% (n = 85) of the participants found to be suicidal, the majority were suffering from moderate to severe depressive symptoms and low levels of life satisfaction. Also, the analysis showed that the patients had a high level of optimism and moderate perception of social support from family, friends, and significant other. Type of illness has a significant relation to the 'seriousness' component of SI (p = 0.023). Depression (beta = 0.345, p<0.001) was a significant risk factor for 'thought' component of SI, and optimism (beta = -0.008, p < 0.05) a significant protective factor against the thought component of SI. Patients with chronic illnesses suffer serious psychological disturbances and are in need of psychological care, and periodic psychological screening to maintain their psychological wellbeing.
+C1 [Amer, Nuha Remon Yacoub] Royal Med Serv Coll Allied Profess, Amman, Jordan.
+   [Hamdan-Mansour, Ayman M.] Univ Jordan, Fac Nursing, Amman, Jordan.
+   [Hamdan-Mansour, Ayman M.] Al Farabi Coll, Dept Nursing, Riyadh, Saudi Arabia.
+C3 University of Jordan; Al-Farabi College for Nursing & Dentistry
+RP Amer, NRY (corresponding author), Royal Med Serv Coll Allied Profess, Acad Wing, Amman, Jordan.
+EM nuhamaster@gmail.com
+RI Hamdan-Mansour, Ayman M/C-1257-2015; Mansour, Ahmad/GVT-1388-2022
+OI Hamdan-Mansour, Ayman M/0000-0002-9855-951X; 
+NR 50
+TC 10
+Z9 12
+U1 0
+U2 12
+PU INFORMA HEALTHCARE
+PI LONDON
+PA TELEPHONE HOUSE, 69-77 PAUL STREET, LONDON EC2A 4LQ, ENGLAND
+SN 0161-2840
+EI 1096-4673
+J9 ISSUES MENT HEALTH N
+JI Issues Ment. Health Nurs.
+PD NOV
+PY 2014
+VL 35
+IS 11
+BP 864
+EP 871
+DI 10.3109/01612840.2014.917752
+PG 8
+WC Nursing; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing; Psychiatry
+GA CG4HR
+UT WOS:000353246700008
+PM 25353299
+DA 2023-12-03
+ER
+
+PT J
+AU Al Ghaferi, H
+   Bond, C
+   Matheson, C
+AF Al Ghaferi, Hamad
+   Bond, Christine
+   Matheson, Catriona
+TI Does the biopsychosocial-spiritual model of addiction apply in an
+   Islamic context? A qualitative study of Jordanian addicts in treatment
+SO DRUG AND ALCOHOL DEPENDENCE
+LA English
+DT Article
+DE Islam; Biopsychosocial model; Spiritual; Addiction
+ID DRUG; CHALLENGE
+AB Background: There is a dearth of research in the published literature on substance use and addiction in the Middle East and Islamic countries. This study was the first to explore whether the biopsychosocial-spiritual model of addiction was relevant to an addicted treatment population in Jordan, an Islamic country.
+   Methods: A qualitative study design using semi-structured, face-to-face interviews were conducted with a sample of 25 males in addiction treatment. The sample was drawn from a cohort of in-patients at a treatment centre in Amman, Jordan who had already participated in a quantitative survey. A purposive sample was selected to ensure the inclusion of a range of characteristics that might affect their experience of developing addiction and its consequences, i.e., age, marital status and educational level. Interviews were transcribed and thematic analysis conducted using verbatim quotes to illustrate themes. Themes were mapped onto the biopsychosocial-spiritual model of addiction.
+   Results: This study found addiction was associated with a range of health (physical and psychological), social and spiritual factors. Unpleasant physical withdrawal effects, psychological symptoms, such as anxiety and suicide attempts, were experienced. There was breakdown in marital and family relations, loss of employment, involvement in crime and neglect of religious practices, resulting in social isolation.
+   Conclusion: This study found that, despite some differences in emphasis, the biopsychosocial, spiritual model of addiction fit well particularly given the relative importance of religion in Islamic culture. Spirituality was not explored and further study of spirituality versus religious practice in this culture is recommended. (C) 2016 Published by Elsevier Ireland Ltd.
+C1 [Al Ghaferi, Hamad] Natl Rehabil Ctr, POB 3873, Abu Dhabi, U Arab Emirates.
+   [Al Ghaferi, Hamad; Bond, Christine; Matheson, Catriona] Univ Aberdeen, Acad Primary Care, Aberdeen AB25 2ZD, Scotland.
+C3 University of Aberdeen
+RP Matheson, C (corresponding author), Univ Aberdeen, Acad Primary Care, Aberdeen AB25 2ZD, Scotland.
+EM c.i.math@abdn.ac.uk
+RI Bond, Christine/ABF-5390-2020
+OI Bond, Christine/0000-0003-0429-5208
+FU Ministry of Presidential affairs, United Arab Emirates
+FX This research was funded by the Ministry of Presidential affairs, United
+   Arab Emirates.
+NR 21
+TC 8
+Z9 11
+U1 2
+U2 14
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0376-8716
+EI 1879-0046
+J9 DRUG ALCOHOL DEPEN
+JI Drug Alcohol Depend.
+PD MAR 1
+PY 2017
+VL 172
+BP 14
+EP 20
+DI 10.1016/j.drugalcdep.2016.11.019
+PG 7
+WC Substance Abuse; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse; Psychiatry
+GA EM3LV
+UT WOS:000395217500003
+PM 28104541
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU LeCroix, RH
+   Goodrum, NM
+   Hufstetler, S
+   Armistead, LP
+AF LeCroix, Rebecca Hill
+   Goodrum, Nada M.
+   Hufstetler, Schell
+   Armistead, Lisa P.
+TI Community Data Collection with Children of Mothers Living with HIV:
+   Boundaries of the Researcher Role
+SO AMERICAN JOURNAL OF COMMUNITY PSYCHOLOGY
+LA English
+DT Article
+DE HIV; AIDS; Ethical issues in research; Suicide; Families;
+   Community-based research
+AB The TRACK-II program is a multi-site, community-based randomized controlled trial evaluating an intervention to assist mothers living with HIV (MLH) in disclosing their HIV status to their young children. Many participantsboth mothers and childrenreported significant depression and/or suicidal ideation, a phenomenon that presented ethical challenges. This article focuses on participants at one site (Atlanta). Through the vignette of Jordan, we describe ethical challenges that may arise when faced with the responsibility of maximizing participants' safety while maintaining the boundaries of the researcher role. Guided by community psychology values, our team has taken measures within our role as researchers to empower and protect children and mothers endorsing suicidal ideation. For example, we have relied on relationships with community-based organizations and AIDS service organizations to connect HIV-affected families to mental health services. Furthermore, we have expanded our system of documentation to follow-up adequately with families at risk, and we track family resources to promote a strengths-based framework. We have solicited families' feedback about their supports and needs to understand how we may best serve them by connecting them to the resources they report needing most and empowering them to care for themselves.
+C1 [LeCroix, Rebecca Hill; Goodrum, Nada M.; Hufstetler, Schell; Armistead, Lisa P.] Georgia State Univ, Atlanta, GA 30303 USA.
+C3 University System of Georgia; Georgia State University
+RP LeCroix, RH (corresponding author), Georgia State Univ, Atlanta, GA 30303 USA.
+EM rhlecroix@gmail.com
+OI Goodrum, Nada/0000-0002-3962-6209
+FU National Institute of Mental Health of the National Institutes of Health
+   [5R01MH094233, 5R01MH094148]
+FX Research reported in this manuscript was supported by the National
+   Institute of Mental Health of the National Institutes of Health by Grant
+   Numbers 5R01MH094233 (PI: Lisa P. Armistead) and 5R01MH094148 (PI: Marya
+   T. Schulte). The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of the National
+   Institutes of Health..
+NR 11
+TC 6
+Z9 17
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0091-0562
+EI 1573-2770
+J9 AM J COMMUN PSYCHOL
+JI Am. J. Community Psychol.
+PD DEC
+PY 2017
+VL 60
+IS 3-4
+BP 368
+EP 374
+DI 10.1002/ajcp.12193
+PG 7
+WC Public, Environmental & Occupational Health; Psychology,
+   Multidisciplinary; Social Work
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Psychology; Social Work
+GA FP8QL
+UT WOS:000417910900010
+PM 29154398
+OA Green Accepted
+DA 2023-12-03
+ER
+
+EF

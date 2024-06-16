@@ -1,0 +1,478 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Keugoung, B
+   Kongnyu, ET
+   Meli, J
+   Criel, B
+AF Keugoung, Basile
+   Kongnyu, Emmanuel Tabah
+   Meli, Jean
+   Criel, Bart
+TI Profile of suicide in rural Cameroon: are health systems doing enough?
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE Cameroon; developing countries; health district; mental health;
+   Sub-Saharan Africa; suicide
+ID MENTAL-HEALTH; DISORDERS; AFRICA; PREVENTION; PREVALENCE; INTERFACE;
+   MORTALITY; LIFETIME; INCOME
+AB ObjectivesTo describe the characteristics of suicide and assess the capacity of health services at the district level in Cameroon to deliver quality mental health care.
+   MethodsThe study covered the period between 1999 and 2008 and was carried out in Guidiguis health district which had a population of 145700 inhabitants in 2008. Data collection was based on psychological autopsy methods. To collect data, we used documentary review of medical archives, semi-structured interviews of relatives of suicide completers, a focus group discussion of health committee members and a survey to consulting nurses working at the primary health care level.
+   ResultsForty-seven suicides were recorded from 1999 to 2008: 37 (78.7%) males and 10 (21.3%) females, yielding rates of reported suicides that ranged from 0.89 to 6.54 per 100000 inhabitants. The most frequently used suicide method was the ingestion of toxic agricultural chemicals (in 76.6% of cases). According to the relatives, the suicides were due to an ongoing chronic illness (31.9%), sexual and marital conflicts (25.5%), witchcraft (14.9%), financial problems (8.5%) or unknown cause (25.5%). In 25 (53.2%) cases, suicide victims exhibited symptoms suggestive of a mental disorder but only six of the suicide committers who presented behavioural symptoms sought health care. Only two of the 15 consulting nurses were able to cite at least three symptoms of depression and were aware that depression can lead to suicide. All of the nurses acknowledged that they had never received any specific training or supervision in mental health care.
+   ConclusionsSuicides are not a rare event in rural settings in Cameroon. The health district capacity to provide quality mental care is almost insignificant. The integration of minimal mental health care services at the community and primary health care levels should be considered a priority in sub-Saharan Africa.
+C1 [Keugoung, Basile] Minist Publ Hlth, Yaounde, Cameroon.
+   [Keugoung, Basile] Res Educ & Hlth Dev Grp GARES Falaise, Dschang, Cameroon.
+   [Keugoung, Basile; Criel, Bart] Inst Trop Med, B-2000 Antwerp, Belgium.
+   [Kongnyu, Emmanuel Tabah] Guidiguis Hlth Dist, Guidiguis, Cameroon.
+   [Meli, Jean] Univ Yaounde I, Fac Med & Biomed Sci, Yaounde, Cameroon.
+C3 Institute of Tropical Medicine (ITM); University of Yaounde I
+RP Keugoung, B (corresponding author), Res Educ & Hlth Dev Grp GARES Falaise, POB 31, Yaounde 694, Cameroon.
+EM bkeugoung@itg.be
+RI Cuscó, Xavier Garcia/S-7576-2019
+OI Cuscó, Xavier Garcia/0000-0001-7199-6931
+NR 35
+TC 11
+Z9 13
+U1 1
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD AUG
+PY 2013
+VL 18
+IS 8
+BP 985
+EP 992
+DI 10.1111/tmi.12140
+PG 8
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 179FB
+UT WOS:000321504000010
+PM 23786446
+DA 2023-12-05
+ER
+
+PT J
+AU Keugoung, B
+   Tabah, E
+   Criel, B
+AF Keugoung, Basile
+   Tabah, Emmanuel
+   Criel, Bart
+TI Suicides in a Rural Health District of Cameroon: The Iceberg of Poor
+   Mental Health Care Policies and Services: A Mixed Method Study
+SO JOURNAL OF MENTAL HEALTH POLICY AND ECONOMICS
+LA English
+DT Meeting Abstract
+C1 [Keugoung, Basile] Res Educ & Hlth Dev Associates Grp, Dschang, Cameroon.
+   [Keugoung, Basile; Criel, Bart] Inst Trop Med, B-2000 Antwerp, Belgium.
+C3 Institute of Tropical Medicine (ITM)
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU INT CTR MENTAL HEALTH POLICY & ECONOMICS-ICMPE
+PI MILANO
+PA VIA DANIELE CRESPI 7, MILANO, 20123, ITALY
+SN 1091-4358
+J9 J MENT HEALTH POLICY
+JI J. Ment. Health Policy Econ.
+PD MAR
+PY 2013
+VL 16
+SU 1
+BP S17
+EP S18
+PG 2
+WC Health Policy & Services; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Psychiatry
+GA 127NT
+UT WOS:000317706400037
+DA 2023-12-05
+ER
+
+PT J
+AU Markovic, V
+AF Markovic, Vesna
+TI Suicide squad: Boko Haram's use of the female suicide bomber
+SO WOMEN & CRIMINAL JUSTICE
+LA English
+DT Article
+DE suicide bombing; terrorism; Boko Haram; Nigeria
+ID TERRORISM
+AB Boko Haram first began using the tactic of suicide bombings in 2011 and in 2014 started using female suicide bombers. This research focuses on gender differences in the use of suicide bombers. The data were collected using open sources from June 16, 2011 to June 15, 2018. Using this longitudinal data, trends are described over that 7-year period, focusing on the use of females. A majority of the suicide bombings target civilians in Nigeria, Cameroon, Chad, and Niger. More than half of the bombers were women and girls, some as young as 7 years old, whereas there were more than 60 incidents where the bomber was below the age of 15. More female bombers were used to targets civilians, whereas men were used more often to target government, police, and military targets. Female suicide bombers were used in Cameroon, whereas males were used in Nigeria more often. Additionally, females used suicide belts or vests more often, whereas men comprised the overwhelming majority of vehicle-borne suicide bombings. There were coercive aspects in many cases in the use of the women as bombers. The unprecedented use of female suicide bombers, particularly young girls, needs to be a focal point of any policy moving forward.
+C1 [Markovic, Vesna] Lewis Univ, Justice Law & Publ Safety Studies, One Univ Pkwy,Unit 1048, Romeoville, IL 60446 USA.
+C3 Lewis University
+RP Markovic, V (corresponding author), Lewis Univ, Justice Law & Publ Safety Studies, One Univ Pkwy,Unit 1048, Romeoville, IL 60446 USA.
+EM vmarkovic@lewisu.edu
+RI Markovic, Vesna/AAJ-8749-2020
+OI , Vesna/0000-0001-6873-317X
+NR 41
+TC 13
+Z9 14
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0897-4454
+EI 1541-0323
+J9 WOMEN CRIM JUSTICE
+JI Women Crim. Justice
+PD SEP 3
+PY 2019
+VL 29
+IS 4-5
+SI SI
+BP 283
+EP 302
+DI 10.1080/08974454.2019.1629153
+EA JUL 2019
+PG 20
+WC Criminology & Penology; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Women's Studies
+GA JC1LQ
+UT WOS:000476506400001
+DA 2023-12-05
+ER
+
+PT B
+AU Kunock, AI
+AF Kunock, Afu Isaiah
+BA Mhiripiri, NA
+   Chari, T
+BF Mhiripiri, NA
+   Chari, T
+TI Boko Haram Insurgency in Cameroon: Role of Mass Media in Conflict
+   Management
+SO MEDIA LAW, ETHICS, AND POLICY IN THE DIGITAL AGE
+SE Advances in Media Entertainment and the Arts (AMEA) Book Series
+LA English
+DT Article; Book Chapter
+AB Cameroon has recently become a target of deadly attacks including shootings, kidnappings and suicide bombings by the Islamic insurgent group Boko Haram. Cognizant of the fact that Cameroon has not experienced anything like this since independence, the Cameroon mass media is challenged as to how to appropriately report this insurgency in a manner that will result in conflict containment and management rather than escalation. The researcher set to examine the role of the media in managing this armed conflict through the critical analysis of documents as well as interviews and observations from the theoretical perspective of framing. Framing by the media has been a very effective strategy in managing the conflict by mobilizing the national population against the sect while maintaining calm and lessening panic and anxiety. This effort by Cameroon media is highly commended although more still needs to be done.
+C1 [Kunock, Afu Isaiah] Univ Yaounde I, Dept Anthropol, Yaounde, Cameroon.
+C3 University of Yaounde I
+RP Kunock, AI (corresponding author), Univ Yaounde I, Dept Anthropol, Yaounde, Cameroon.
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IGI GLOBAL
+PI HERSEY
+PA 701 E CHOCOLATE AVE, STE 200, HERSEY, PA 17033-1240 USA
+BN 978-1-5225-2096-2; 978-1-5225-2095-5
+J9 ADV MEDIA ENTERTAIN
+PY 2017
+BP 226
+EP 244
+DI 10.4018/978-1-5225-2095-5.ch013
+D2 10.4018/978-1-5225-2095-5
+PG 19
+WC Area Studies; Ethics; Law
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Area Studies; Social Sciences - Other Topics; Government & Law
+GA BI4RX
+UT WOS:000411950400015
+DA 2023-12-05
+ER
+
+PT J
+AU Tebeu, PM
+   de Bernis, L
+   Boisrond, L
+   Le Duc, A
+   Mbassi, AA
+   Rochat, CH
+AF Tebeu, P. -M.
+   de Bernis, L.
+   Boisrond, L.
+   Le Duc, A.
+   Mbassi, A. A.
+   Rochat, C. -H.
+TI Knowledge, attitude and perception about obstetric fistula by
+   Cameroonian women. A clinical survey conducted in Maroua, the capital of
+   far north province of Cameroon
+SO PROGRES EN UROLOGIE
+LA French
+DT Article
+ID VESICOVAGINAL FISTULAS
+AB Introduction. - This study seeks to identify what the women who live in Maroua Cameroon know and think about obstetric fistula.
+   Population and method. - It is a single hospital, cross-sectional, descriptive and comparative study. Ninety-nine women in the maternity service of the Maroua Provincial Hospital were interrogated on obstetric fistula between May and July 2005, by enquirers who were trained health agents using a questionnaire which required both closed and open answers.
+   Results. - The women who had no previous knowledge of it were generally the illiterate (41.7% compared to 18.8%). More than a third of the women who had an idea of the fistula do not know that there is a surgical treatment for it. Whether they had the previous information on fistula or received it from us, one-tenth of the women suggested that suicide was the solution to fistula where as one-third of the women suggested that a patient suffering from fistula should be isolated.
+   Conclusion and interpretation. - Illiteracy contributes significantly to the lack of knowledge of this affection. The population has a poor perception and a strong negative attitude towards obstetric fistula as they see isolation or suicide as the solution to it. (c) 2008 Elsevier Masson SAS. Tous droits reserves.
+C1 [Tebeu, P. -M.; Mbassi, A. A.] Hop Prov, Serv Gynecol Obstet, Maroua, Cameroon.
+   [de Bernis, L.] UNFPA, Div Afr, Programme Maternelle & Neonatale, Addis Ababa, Ethiopia.
+C3 United Nations Population Fund
+RP Tebeu, PM (corresponding author), Hop Prov, Serv Gynecol Obstet, BP 57, Maroua, Cameroon.
+EM pmtebeu@yahoo.fr
+NR 13
+TC 11
+Z9 11
+U1 0
+U2 3
+PU ELSEVIER MASSON, CORP OFF
+PI PARIS
+PA 65 CAMILLE DESMOULINS CS50083 ISSY-LES-MOULINEAUX, 92442 PARIS, FRANCE
+SN 1166-7087
+EI 2405-5131
+J9 PROG UROL
+JI Prog. Urol.
+PD JUN
+PY 2008
+VL 18
+IS 6
+BP 379
+EP 389
+DI 10.1016/j.purol.2008.03.020
+PG 11
+WC Urology & Nephrology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Urology & Nephrology
+GA 331GI
+UT WOS:000258000300009
+PM 18558328
+DA 2023-12-05
+ER
+
+PT J
+AU Pouokam, GB
+   Album, WL
+   Ndikontar, AS
+   Sidatt, MEH
+AF Pouokam, Guy Bertrand
+   Album, William Lemnyuy
+   Ndikontar, Alice S.
+   Sidatt, Mohamed El Hady
+TI A Pilot Study in Cameroon to Understand Safe Uses of Pesticides in
+   Agriculture, Risk Factors for Farmers' Exposure and Management of
+   Accidental Cases
+SO TOXICS
+LA English
+DT Article
+DE pesticides; approval; intoxication; poisoning; surveillance
+ID CHALLENGES; RESIDUES
+AB Chemical pesticides are widely used in Cameroon for agricultural production. In 2015, more than 600 pesticide products were approved for use in various foodstuffs. Much misuse of these chemicals by farmers has been documented in rural and urban settings. This pilot study aims to contribute to the improvement of the health of the population and the environmental preservation by identifying pesticide-poisoning cases, the most incriminated products and critical risk factors of exposure. Questionnaires were administered to pesticide vendors, farmers and health personnel, and observations made on farmers' practices at their work places. From July to September 2016, 24 villages from five sites, representing the most important agricultural production areas of the five agro-ecological zones of Cameroon, were visited. In total, 519 people were interviewed: 412 farmers, 69 pesticide vendors and 38 health personnel. A total of 180 pesticide formulations out of 610 registered in 2015 were said to be used by farmers. In the 38 health centers visited, 56 cases of pesticide poisonings and intoxications were reported between 2011 and 2016. Paraquat-, glyphosate-, cypermethrin- and metalaxyl-formulated pesticides were the most incriminated. In total, 78% of poisoning cases were accidental, 12% suicide attempts, 4% criminal. Entry of pesticide products from neighboring countries needs to be better regulated, and the quality of pesticides sold on the market should be monitored periodically. Empty pesticide containers should be recuperated from smallholder farmers. Authorities should set up a harmonized pesticide-poisoning management procedure, and create a toxico-vigilance system for surveillance cases and preventive actions.
+C1 [Pouokam, Guy Bertrand] Univ Yaounde I, Ctr Biotechnol, Lab Food Safety, Yaounde, Cameroon.
+   [Album, William Lemnyuy] Minist Environm Nat Protect & Sustainable Dev, Natl Focal Point Rotterdam Convent, Yaounde, Cameroon.
+   [Ndikontar, Alice S.] Food & Agr Representat Cameroon, Disposal POPs Obsolete Pesticides & Strengthening, Yaounde, Cameroon.
+   [Sidatt, Mohamed El Hady] Food & Agr Org, Reg Off North Africa, Rotterdam Convent Secretariat, Tunis, Tunisia.
+C3 University of Yaounde I
+RP Pouokam, GB (corresponding author), Univ Yaounde I, Ctr Biotechnol, Lab Food Safety, Yaounde, Cameroon.
+EM guy.pouokam@noodlesonlus.org; lemnyuy@yahoo.com;
+   Alice.NdikontarSiben@fao.org; MohamedelHady.Sidatt@fao.org
+RI POUOKAM, Guy Bertrand/AAL-1572-2020; Pouokam, Guy Bertrand/AAU-5890-2021
+FU Food and Alimentation Organization (FAO) Cameroon, division AGPM
+   [MTF/GLO/145/UEP]
+FX This research received grant funding from the Food and Alimentation
+   Organization (FAO) Cameroon, division AGPM, project MTF/GLO/145/UEP; and
+   logistic support from the Ministry of Environment, Nature Protection and
+   Sustainable Development, the Ministry of Agriculture and Rural
+   Development, and the Ministry of Public Health. However, no funding was
+   received to cover the publication of the research work in an open-access
+   journal. We also thank investigators and interviewers, who participated
+   in this study, and we are grateful to farmers, salesmen, drivers, health
+   workers and administrative authorities who in their different capacities
+   took part in this investigation.
+NR 24
+TC 31
+Z9 32
+U1 0
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2305-6304
+J9 TOXICS
+JI Toxics
+PD DEC
+PY 2017
+VL 5
+IS 4
+AR 30
+DI 10.3390/toxics5040030
+PG 15
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA FR4YN
+UT WOS:000419073100008
+PM 29104250
+OA Green Published, Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-05
+ER
+
+PT J
+AU Bahebeck, J
+   Atangana, R
+   Mboudou, E
+   Nonga, BN
+   Sosso, M
+   Malonga, E
+AF Bahebeck, J
+   Atangana, R
+   Mboudou, E
+   Nonga, BN
+   Sosso, M
+   Malonga, E
+TI Incidence, case-fatality rate and clinical pattern of firearm injuries
+   in two cities where arm owning is forbidden
+SO INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED
+LA English
+DT Article
+DE incidence; fatality; firearm injuries; urban
+ID POPULATION
+AB Objective: To review firearm injuries in five hospitals of Douala and Yaounde, both towns of Cameroon, a Sub-Saharan African country where ownership of firearm is forbidden.
+   Methods: This was a retrospective investigation carried out within the period January 1998 to December 2002. Records of the mortuaries, the emergency departments, the intensive care units, the operating rooms and the surgical units were all analysed to identify any injury caused by firearm. Our gold standard was any individual with a clear diagnosis of firearm injury, as determined by a medical doctor.
+   Results: 286 firearm injuries were found; 1.14 cases per 100,000 per year. 66% of cases were due to civilian assaults, 20% to armed forces, 8% to hunting accidents and 6% to accidental handling. There was no case of suicide or of shooting from a relative. The type of weapon was unknown in 31% of cases, it was a hand gun in 36%, a hunting type in 21% and an assault rifle in 12%. The mean age of victims was 33 years and the male:female ratio 5.5:1. The site of injury was unknown in 2%; the head in 6%, the chest in 12%, the abdomen in 31%, the extremities in 46%, the spine in 1% and multiple in 2%. The case fatality rate was 12.58%, and the victims were mainly criminals killed by armed forces assaults; the same ratio of survivors developed late complications.
+   Conclusion: The incidence of firearm injuries in the two largest cities of Cameroon is five to fifty times tower than in many other towns, especially in Western countries. This may be due at least partially, to the current legislation on the ownership of firearm which is very restrictive in this country Some efforts are however needed to reduce illegal access to weapons and to educate hunters on the safe handling of their gun. (c) 2004 Published by Elsevier Ltd.
+C1 Univ Hosp, Yaounde, Cameroun, Cameroon.
+RP Bahebeck, J (corresponding author), Univ Hosp, BP 25095, Yaounde, Cameroun, Cameroon.
+EM jbahebeck@yahoo.fr
+NR 10
+TC 15
+Z9 15
+U1 0
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0020-1383
+J9 INJURY
+JI Injury-Int. J. Care Inj.
+PD JUN
+PY 2005
+VL 36
+IS 6
+BP 714
+EP 717
+DI 10.1016/j.injury.2004.11.004
+PG 4
+WC Critical Care Medicine; Emergency Medicine; Orthopedics; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Emergency Medicine; Orthopedics; Surgery
+GA 929YH
+UT WOS:000229382000004
+PM 15910822
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Carfora, A
+   Campobasso, CP
+   Cassandroa, P
+   La Sala, F
+   Maiellaro, A
+   Perna, A
+   Petrella, R
+   Borriello, R
+AF Carfora, Anna
+   Campobasso, Carlo Pietro
+   Cassandroa, Paola
+   La Sala, Francesco
+   Maiellaro, Alfonso
+   Perna, Antonio
+   Petrella, Raffaella
+   Borriello, Renata
+TI Fatal inhalation of volcanic gases in three tourists of a geothermal
+   area
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article
+DE H2S poisoning; CO2 poisoning; Asphyxial deaths; Death in geothermal area
+ID PULMONARY SURFACTANT APOPROTEIN; CARBON-DIOXIDE; FORENSIC AUTOPSY;
+   SULFIDE; THIOSULFATE; EXPOSURE; DISASTER; CAMEROON; SUICIDE
+AB The study reports the environmental, toxicological and histopathological forensic investigations applied on three victims of accidental death (father, mother and son), due to the fall in a volcanic pothole, during the touristic visit of the "Solfatara park", near Naples (Italy).
+   At autopsy greenish skin discolouration was observed and all bodies showed the classical signs of asphyxial deaths, such as cyanosis and hemorrhagic pulmonary edema. Focal micro-hemorrhages were found in the brain at intracranial and subpial levels.
+   The hemogasanalysis and spectrophotometric test on blood for Methemoglobin (MetHb), Carboxyhemoglobin (HbCO) and Sulfhemoglobin (SHb) showed pCO(2), SHb and MetHb above the physiological levels. On biological specimens, toxicological analyses performed by GC/MS revealed high concentrations of hydrogen sulfide (H2S) and of thiosulfate (TS), its main metabolite.
+   The monitoring of toxic gases on the death scene showed an unsafe environment, into the pothole, able to cause the sudden loss of consciousness of the victims with subsequent asphyxiation (knockdown effect). In particular, at the bottom of the hole, the maximum levels of H2S and carbon dioxide (CO2) were 2200 ppm and 98% respectively.
+   For the family members, the cause of the death was assessed as acute poisoning by H2S and CO2. The fatalities, happened in quick succession as fora domino effect, were pretty similar to the asphyxial deaths by confined spaces, frequently observed in occupational setting. Fatalities secondary to accidental volcanic gases inhalation, such as H2S and CO2 in geothermal areas, have been already described but often without a forensic approach. To the best of our knowledge this is the first case that reports the accidental poisoning by volcanic gases involving three people, with different caracteristic of age and sex, allowing the correlation between toxicological and pathological results with the true levels of asphyxiating gas, measured on the death scene. (C) 2019 Elsevier B.V. All rights reserved.
+C1 [Carfora, Anna; Campobasso, Carlo Pietro; Cassandroa, Paola; La Sala, Francesco; Petrella, Raffaella; Borriello, Renata] Univ Campania L Vanvitelli, Dept Expt Med, Forens Toxicol Unit, Via L Armanni 5, I-80138 Naples, Italy.
+   [Maiellaro, Alfonso] A Cardarelli Hosp, Legal Med Dept, Via A Cardarelli 9, I-80131 Naples, Italy.
+   [Perna, Antonio] Mauro Scarlato Hosp, Pathol Unit, Via Passanti 1, I-84018 Scafati, SA, Italy.
+C3 Universita della Campania Vanvitelli; Antonio Cardarelli Hospital
+RP Carfora, A; Campobasso, CP (corresponding author), Univ Campania L Vanvitelli, Dept Expt Med, Forens Toxicol Unit, Via L Armanni 5, I-80138 Naples, Italy.
+EM anna.carfora@unicampania.it; carlopietro.campobasso@unicampania.it
+RI CARFORA, Anna/AAF-2894-2020; Campobasso, Carlo Pietro/G-3920-2011
+OI CARFORA, Anna/0000-0002-0516-8422; Campobasso, Carlo
+   Pietro/0000-0003-2865-0673; Maiellaro, Alfonso/0000-0002-3322-9093
+NR 61
+TC 11
+Z9 11
+U1 1
+U2 19
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+EI 1872-6283
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD APR
+PY 2019
+VL 297
+BP E1
+EP E7
+DI 10.1016/j.forsciint.2019.01.044
+PG 7
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA HR0LA
+UT WOS:000462818500001
+PM 30777401
+DA 2023-12-05
+ER
+
+EF

@@ -1,0 +1,1655 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Yury E.
+TI Suicide and alcohol psychoses in Belarus 1970-2005
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; alcohol psychoses rate; ARIMA time-series analysis; Belarus;
+   1970-2005
+ID TIME-SERIES ANALYSIS; HEAVY DRINKING; CONSUMPTION; MORTALITY; HOMICIDE;
+   RUSSIA
+AB Background: The relationship between alcohol and suicide is well documented. The research evidence suggests an important role for a cultural and social context in the alcohol-suicide association. Purpose: To estimate the aggregate level effect of alcohol consumption on the suicide rate in Slavic culture. Method: Trends in the suicide and alcohol-psychoses morbidity rate in the former Soviet Slavic republic of Belarus from 1970 to 2005 were analyzed employing an ARIMA, time-series analysis. Results: The results of the analysis suggest a close association between the suicide and alcohol-psychoses morbidity rate. Conclusion: This study replicates previous findings that highlighted a close link between alcohol and suicide at the aggregate level. The results of this study also suggest that alcohol is responsible for the fluctuation of the suicide rate in the former Soviet republic of Belarus during the last decades.
+C1 Grodno State Univ, Grodno 230015, BELARUS.
+C3 Yanka Kupala State University of Grodno
+RP Razvodovsky, YE (corresponding author), Grodno State Univ, Str Gorky 80, Grodno 230015, BELARUS.
+EM razvodovsky@grsmu.by
+NR 26
+TC 20
+Z9 21
+U1 0
+U2 1
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2007
+VL 28
+IS 2
+BP 61
+EP 66
+DI 10.1027/0227-5910.28.2.61
+PG 6
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 199WB
+UT WOS:000248724800002
+PM 17722686
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+   Stickley, A
+AF Razvodovsky, Y.
+   Stickley, A.
+TI Suicide in urban and rural regions of Belarus, 1990-2005
+SO PUBLIC HEALTH
+LA English
+DT Article
+DE Belarus; Suicide; Urban; Rural; Alcohol; Social isolation
+ID FORMER SOVIET-UNION; MORTALITY; ALCOHOL; RUSSIA; GENDER; CRISIS; DEATH;
+   LIFE
+AB Objective: To examine the occurrence of suicide in urban and rural regions of Belarus in the post-Soviet Period.
+   Study design: Unlinked cross-sectional study using data drawn from four time points.
+   Methods: Age- and gender-specific suicide data for urban and rural regions of Belarus were obtained from the Belarus Ministry of Statistics for the years 1990, 1995, 2000 and 2005. The data were recalculated into seven age categories and then directly standardized. Poisson regression models were used to assess changes ill urban-rural suicide rate ratios across the four time points.
+   Results: Between 1990 and 2000, the suicide rate rose sharply in Belarus. It started to reduce after 2000, but in 2005 it was still much higher than its initial level. The same was true for urban and rural suicide rates and for male Suicide rates in all regions combined. However, after 1995, there was a divergence between gender-specific rates in urban and rural areas. A small reduction in urban suicide rates for both genders contrasted with a sharp increase in suicide rates among trien and women in rural areas. By 2005, although suicide rates had fallen from their 2000 level for both genders in urban and rural locations, the decrease was much smaller in rural areas. These changes resulted in a deteriorating rural-urban suicide ratio across the period 1990-2005, with suicide rates among nearly every rural male age group remaining extreme after 1995. Although it is probable that a deteriorating social and economic situation has underpinned increasing suicide rates in all regions, there may be factors that are specific to rural locations, such as increasing social isolation and poor provision of medical services, that account for the extreme suicide rates now being recorded there.
+   Conclusion: By 2005, Belarus had one of the highest suicide rates in the world. This now requires urgent intervention by the necessary authorities to ameliorate this situation in urban and, especially, rural locations. (C) 2008 The Royal Society for Public Health. Published by Elsevier Ltd. All rights reserved.
+C1 [Stickley, A.] Stockholm Ctr Hlth Soc Transit, S-14189 Huddinge, Sweden.
+   [Razvodovsky, Y.] Grodno Stale Med Univ, Grodno 230015, BELARUS.
+C3 Grodno State Medical University
+RP Stickley, A (corresponding author), Stockholm Ctr Hlth Soc Transit, S-14189 Huddinge, Sweden.
+EM andrew.stickley@sh.se
+FU Swedish Foundation for Baltic; East European Studies
+FX Andrew Stickley was funded by the Swedish Foundation for Baltic and East
+   European Studies.
+NR 27
+TC 20
+Z9 22
+U1 1
+U2 2
+PU W B SAUNDERS CO LTD
+PI LONDON
+PA 32 JAMESTOWN RD, LONDON NW1 7BY, ENGLAND
+SN 0033-3506
+EI 1476-5616
+J9 PUBLIC HEALTH
+JI Public Health
+PD JAN
+PY 2009
+VL 123
+IS 1
+BP 27
+EP 31
+DI 10.1016/j.puhe.2008.10.003
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 417BV
+UT WOS:000264050900007
+PM 19138777
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+AF Razvodovsky, Y.
+TI ALCOHOL AND SUICIDE IN BELARUS
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y.] State Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+RI Razvodovsky, Yury/AAK-7166-2020; Razvodovsky, Yury Evgeny/T-8445-2017
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2009
+VL 24
+SU 1
+MA FC01-02
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA V28EJ
+UT WOS:000208663800190
+DA 2023-12-05
+ER
+
+PT J
+AU Igumnov, S
+AF Igumnov, S.
+TI Prevention of suicide behaviour in Belarus
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Igumnov, S.] Belarusian State Univ, Inst Psychol, Clin Psychol, Minsk, BELARUS.
+C3 Belarusian State University
+RI Игумнов, Sergey A. Igumnov/ Сергей Александрович/E-7975-2018
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2019
+VL 56
+SU S
+MA OC-0077
+BP S584
+EP S585
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA ID4PO
+UT WOS:000471659001803
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+AF Razvodovsky, Y.
+TI ALCOHOL CONSUMPTION AND SUICIDE IN BELARUS
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y.] Grodno State Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2012
+VL 27
+SU 1
+MA P-1439
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 977WL
+UT WOS:000306695402461
+DA 2023-12-05
+ER
+
+PT J
+AU Paravaya, O
+   Lasy, Y
+   Zaleskaya, I
+   Romenski, A
+AF Paravaya, O.
+   Lasy, Y.
+   Zaleskaya, I.
+   Romenski, A.
+TI GENDER DIFFERENCES OF SUICIDE ATTEMPTS IN BELARUS
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 Belarusian Med Acad Postgrad Educ, Minsk, BELARUS.
+   Republican Res & Pract Ctr Mental Hlth, Minsk, BELARUS.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2012
+VL 27
+SU 1
+MA P-1435
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 977WL
+UT WOS:000306695402457
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Yu. E.
+TI Alcohol and suicide in Belarus
+SO ZHURNAL NEVROLOGII I PSIKHIATRII IMENI S S KORSAKOVA
+LA Russian
+DT Article
+ID MORTALITY; CONSUMPTION; RUSSIA
+C1 Grodno State Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, YE (corresponding author), Grodno State Med Univ, Grodno, BELARUS.
+RI Razvodovsky, Yury Evgeny/T-8445-2017; Razvodovsky, Yury/AAK-7166-2020
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IZDATELSTVO MEDITSINA
+PI MOSCOW
+PA PETROVERIGSKII PER 6-8, K-142 MOSCOW, RUSSIA
+SN 1997-7298
+J9 ZH NEVROL PSIKHIATR
+JI Z. Nevrol. Psikhiatrii Im S S Korsakova
+PY 2006
+VL 106
+IS 4
+BP 55
+EP 63
+PG 9
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Psychiatry
+GA 119LB
+UT WOS:000243012700011
+PM 16737163
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+   Stickley, A
+AF Razvodovsky, Y. E.
+   Stickley, A.
+TI Suicide in urban and rural regions of Belarus, 1990-2005
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y. E.; Stickley, A.] Grodno State Med Univ, Grodno, BELARUS.
+   [Razvodovsky, Y. E.; Stickley, A.] Stockholm Ctr Hlth Soc Transit, Grodno, BELARUS.
+C3 Grodno State Medical University
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2008
+VL 23
+SU 2
+BP S280
+EP S280
+DI 10.1016/j.eurpsy.2008.01.589
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 288LL
+UT WOS:000254987801242
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+   Kandrychyn, S
+AF Razvodovsky, Y.
+   Kandrychyn, S.
+TI THE SPATIAL PATTERN OF SUICIDE IN BELARUS: DOES ALCOHOL MATTER?
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y.] Grodno State Med Univ, Sci Lab, Grodno, BELARUS.
+   [Kandrychyn, S.] Reg Clin Hosp, Dept Cardiol, Minsk, BELARUS.
+C3 Grodno State Medical University
+RI Razvodovsky, Yury/AAK-7166-2020
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2014
+VL 29
+SU 1
+MA EPA-0245
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AY0IO
+UT WOS:000347280700167
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+AF Razvodovsky, Y.
+TI Alcoholic psychoses and suicide trends in Russia, Belarus and Ukraine
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y.] Grodno State Med Univ, Pathol Physiol, Grodno, BELARUS.
+C3 Grodno State Medical University
+RI Razvodovsky, Yury Evgeny/T-8445-2017
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2017
+VL 41
+SU S
+MA EW0856
+BP S401
+EP S401
+DI 10.1016/j.eurpsy.2017.02.470
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EZ8CQ
+UT WOS:000404952400282
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, M
+TI The social ecology of intelligence and suicide in Belarus
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Editorial Material
+ID IQ
+C1 Univ Vienna, Sch Psychol, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Liebeggasse 5-3, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 20
+TC 24
+Z9 24
+U1 0
+U2 3
+PU HELDREF PUBLICATIONS
+PI WASHINGTON
+PA 1319 EIGHTEENTH ST NW, WASHINGTON, DC 20036-1802 USA
+SN 0022-4545
+J9 J SOC PSYCHOL
+JI J. Soc. Psychol.
+PD OCT
+PY 2005
+VL 145
+IS 5
+BP 613
+EP 617
+DI 10.3200/SOCP.145.5.613-617
+PG 5
+WC Psychology, Social
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 963YC
+UT WOS:000231841400008
+PM 16201681
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Y. E.
+TI SUICIDE AND FATAL ALCOHOL POISONING AMONG RURAL AND URBAN POPULATION OF
+   BELARUS
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y. E.] Grodno State Med Univ, Dept Psychiat, Grodno, BELARUS.
+C3 Grodno State Medical University
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2011
+VL 26
+SU 1
+MA P03-468
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA V27VS
+UT WOS:000208641301738
+DA 2023-12-05
+ER
+
+PT J
+AU Igumnov, S
+   Gelda, A
+AF Igumnov, S.
+   Gelda, A.
+TI The integrated plan of suicide prevention in Belarus: results and
+   limitations
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Igumnov, S.] Belarusian State Med Univ, Course Forens Psychiat, Minsk, BELARUS.
+   [Gelda, A.] Republican Res & Pract Ctr Mental Hlth, Minsk, BELARUS.
+C3 Belarusian State Medical University
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2014
+VL 29
+SU 1
+MA EPA-0079
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AY0IO
+UT WOS:000347280700045
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+AF Razvodovsky, Y.
+TI Suicide and fatal alcohol poisoning in Belarus between 1970 and 2005
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 Grodno State Med Univ, Dept Psychiat, Grodno, BELARUS.
+C3 Grodno State Medical University
+RI Razvodovsky, Yury Evgeny/T-8445-2017; Razvodovsky, Yury/AAK-7166-2020
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2007
+VL 22
+SU 1
+BP S330
+EP S330
+DI 10.1016/j.eurpsy.2007.01.1102
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 153YC
+UT WOS:000245473001157
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Y. E.
+TI ALCOHOL CONSUMPTION AND GRADIENT IN SUICIDE RATES AMONG RURAL AND URBAN
+   POPULATION OF BELARUS
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE alcohol; suicide; rural-urban population; Belarus
+ID SOCIOECONOMIC INEQUALITIES; MORTALITY; DEPRESSION; BEHAVIOR; TIME
+AB In many countries the suicide rate among rural citizens is much higher than among urban citizens. That statistics is also true for former Soviet republics. It is probable that such factor as alcohol consumption underlie high level of suicide mortality among rural population because alcohol related problems rates are much higher for rural population in general. Objective: This study aims to test the alcohol-related hypothesis of the gradient in suicide rates among urban and rural population in Belarus. Method: A Spearman's correlation analysis was used to examine the relation between the gender specific suicide rates among urban and rural population and alcohol consumption per capita between 1990 and 2015. Results: The suicide rate rose substantially among rural male population. These changes resulted in a deterioration rural-urban suicide difference across the period. A Spearman's correlation analysis suggests a statistically significant positive relationship between alcohol consumption per capita among urban men (r=0,73; p<0,000) and urban women (r=0,69; p<0,001), as well as rural men (r=0,81; p<0,000) and rural women (r=0,70; p<0,001). Conclusions: The outcomes of this study provide indirect support for the hypothesis that alcohol is a major contributor to the high gap in suicide rates among urban and rural population in Belarus. Decrease of alcohol affordability must be a key strategy of prevention of suicidal behavior among rural population.
+C1 [Razvodovsky, Y. E.] Grodno Stare Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, YE (corresponding author), Grodno Stare Med Univ, Grodno, BELARUS.
+EM razvodovsky@tut.by
+RI Razvodovsky, Yury Evgeny/T-8445-2017
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 0
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2018
+VL 9
+IS 1
+BP 67
+EP 72
+PG 6
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA GP8TZ
+UT WOS:000441188600008
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, VE
+AF Razvodovsky, Vury E.
+TI ALCOHOL AND SUICIDE IN BELARUS
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE suicide; fatal alcohol poisoning; ARIMA time series analysis; Belarus,
+   1979-2007
+ID TIME-SERIES ANALYSIS; HEAVY DRINKING; MORTALITY; CONSUMPTION; HOMICIDE;
+   REGIONS; STRESS; RUSSIA; RATES
+AB Background. It is well recognized that both acute and chronic alcohol use are among the major behaviorally modifiable factors that are associated with suicidal behavior. There is suggestive evidence that binge drinking pattern, i.e. excessive consumption of strong spirits results in quicker and deeper level of intoxication, increasing the propensity for alcohol-related suicide. Although alcohol seems to be an important contributor to the burden of violent mortality in Belarus, little systematic research has been undertaken on its impact on suicide mortality in this country. The aim of the present study was to address this particular deficit by using aggregate-level data on the suicide and alcohol poisoning rates from 1979 to 2007.
+   Subjects and methods: Trends in suicides and alcohol poisoning mortality rate (as a proxy for binge drinking) from 1979 to 2007 were analyzed employing an ARIMA analysis in order to assess bivariate relationship between the two time series.
+   Results: According to Bureau of Forensic Medicine autopsy reports the suicide rate increased by 41.2%, and fatal alcohol poisoning rate increased 2.1 times in Belarus. Alcohol in blood was found in 62% suicide victims for the whole period, with the minimum figure 49.3% in 1988 and maximum 68.5% in 1981. Alcohol-related suicides were more affected by the restriction of alcohol availability during the anti-alcohol campaign: between 1984 and 1986 the number of BAC-positive suicide cases drop by 54.2%, while number of BAC-negative suicides decreased by 7.1%. The results of time-series analysis indicated a statistically significant relationship between fatal alcohol poisoning rate and total suicides number, as well as number of BAC-positive suicides.
+   Conclusion: The results of the present study, as well as findings from other settings indicate that a restrictive alcohol policy can be considered as an effective measure of suicide prevention in countries where rates of both alcohol consumption and suicide are high.
+C1 [Razvodovsky, Vury E.] Grodno State Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, VE (corresponding author), Str Gorky 80, Grodno 230009, BELARUS.
+EM yury_razvodovsky@mail.ru
+NR 40
+TC 14
+Z9 16
+U1 0
+U2 0
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PD SEP
+PY 2009
+VL 21
+IS 3
+BP 290
+EP 296
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 504HY
+UT WOS:000270608000003
+PM 19794344
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI Regional intelligence and suicide rate in Germany
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID NATIONAL INTELLIGENCE; SOCIAL ECOLOGY; UNITED-STATES;
+   EDUCATIONAL-ATTAINMENT; COUNTRIES
+AB Regional intelligence proxies (intranational average domain scores from the PISA 2000 and 2003 studies) were not reliably associated with the suicide rate across the states of Germany, thereby not replicating findings of a positive ecological correlation of regional intelligence and suicide prevalence from other within-nation studies (Austria, Belarus, the British Isles, Denmark, The Netherlands, and the USA).
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 03-42, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 21
+TC 15
+Z9 15
+U1 0
+U2 2
+PU PERCEPTUAL MOTOR SKILLS
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807 USA
+SN 0031-5125
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD OCT
+PY 2006
+VL 103
+IS 2
+BP 639
+EP 642
+DI 10.2466/PMS.103.2.639-642
+PG 4
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 110XT
+UT WOS:000242415300036
+PM 17165428
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI REGIONAL INTELLIGENCE AND SUICIDE RATE IN GERMANY, REVISITED
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID NATIONAL INTELLIGENCE; IQ
+AB Across the 10 westerly and 6 easterly states of Germany, better-than-average school-end grades, taken as a proxy for intelligence, corresponded to higher regional suicide rates. This finding adds to similar evidence from other countries (Austria, Belarus, British Isles, Denmark, Netherlands, and USA), suggestive of positive ecologic (group-level) associations between indicators for cognitive ability and suicide prevalence, whilst off setting prior inconclusive evidence for Germany from Voracek (2006) on the same question.
+C1 [Voracek, Martin] Univ Vienna, A-1010 Vienna, Austria.
+   [Voracek, Martin] Univ Gottingen, D-37073 Gottingen, Germany.
+C3 University of Vienna; University of Gottingen
+RP Voracek, M (corresponding author), Univ Vienna, Dept Basic Psychol Res & Res Methods, Sch Psychol, Liebiggasse 5,Room 03-46, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0033-2941
+EI 1558-691X
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD AUG
+PY 2013
+VL 113
+IS 1
+BP 102
+EP 106
+DI 10.2466/12.PR0.113x13z7
+PG 5
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 243UZ
+UT WOS:000326345000010
+DA 2023-12-05
+ER
+
+PT J
+AU Brainerd, E
+AF Brainerd, E
+TI Economic reform and mortality in the former Soviet Union: A study of the
+   suicide epidemic in the 1990s
+SO EUROPEAN ECONOMIC REVIEW
+LA English
+DT Article; Proceedings Paper
+CT 15th Annual Congress of the European-Economic-Association
+CY AUG 30-SEP 02, 2000
+CL BOLZANO, ITALY
+SP European Econom Assoc
+DE suicide; mortality; transition economies
+AB Male suicide rates in Russia, Belarus, Ukraine and the Baltic countries increased substantially in the early 1990s and are now the highest in the world. To what extent is this suicide epidemic explained by the macroeconomic instability experienced by these countries in that period? Fixed effects regressions across 22 transition economies indicate that male suicide rates are highly sensitive to the state of the macroeconomy, suggesting that the steep and prolonged declines in GDP in the western countries of the former Soviet Union may have been partly to blame for the suicide epidemic. Evidence also indicates that the general adult male mortality crisis in the region had a 'feedback' effect on suicide rates, with the loss of a spouse or friend - or declining life expectancy itself - contributing to rising suicide rates. Female suicide rates, in contrast, are insensitive to the state of the macroeconomy and are more strongly related to alcohol consumption. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Williams Coll, Dept Econ, Williamstown, MA 01267 USA.
+   Harvard Univ, Ctr Int Dev, Cambridge, MA 02138 USA.
+C3 Williams College; Harvard University
+RP Brainerd, E (corresponding author), Williams Coll, Dept Econ, Williamstown, MA 01267 USA.
+NR 15
+TC 111
+Z9 124
+U1 0
+U2 31
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-2921
+J9 EUR ECON REV
+JI Eur. Econ. Rev.
+PD MAY
+PY 2001
+VL 45
+IS 4-6
+BP 1007
+EP 1019
+DI 10.1016/S0014-2921(01)00108-8
+PG 13
+WC Economics
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 430WD
+UT WOS:000168597700034
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Landberg, J
+AF Landberg, Jonas
+TI Alcohol and suicide in eastern Europe
+SO DRUG AND ALCOHOL REVIEW
+LA English
+DT Article
+DE Eastern Europe; per capita consumption; suicide mortality rates;
+   time-series analysis
+ID CONSUMPTION; DRINKING; MORTALITY; RUSSIA; PATTERNS; STATES; LEVEL; RATES
+AB Introduction and Aims. The aim of this paper was to estimate how suicide rates in seven eastern European countries are affected by changes in population drinking and to put the results into a comparative perspective. Design and Methods. The analysis included data on annual suicide mortality rates and per capita consumption for the post-war period from: Russia, Belarus, Poland, Hungary, Bulgaria, the former Czechoslovakia and the former German Democratic Republic (GDR). Overall and gender-specific models were estimated using the Box-Jenkins technique for time-series analysis. The estimates were pooled into two groups, i.e. spirits countries (Russia, Belarus and Poland) and non-spirits countries (Hungary, Bulgaria, former Czechoslovakia and former GDR). Results. All countries obtained positive alcohol effect estimates. The effects on the overall population were largest in the spirits countries, where a 1-litre increase in per capita consumption was associated with an increase in overall suicide rates of 5.7-7.5%. The effects were somewhat smaller in the non-spirits countries, 2.7-4.7%. The estimates for males were larger, but showed the same national variations as the overall population estimates. The female estimates were generally smaller than for men and did not differ between the two country groups. Discussion and Conclusions. The results suggest that per capita consumption matters for suicide mortality in these eastern European countries, but that the strength of the relationship is contingent upon the drinking culture, so that it tends to be stronger in countries with detrimental drinking patterns.
+C1 Stockholm Univ, Ctr Social Res Alcohol & Drugs SoRAD, S-10691 Stockholm, Sweden.
+C3 Stockholm University
+RP Landberg, J (corresponding author), Stockholm Univ, Ctr Social Res Alcohol & Drugs SoRAD, S-10691 Stockholm, Sweden.
+EM jonas.landberg@sorad.su.se
+NR 42
+TC 50
+Z9 51
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0959-5236
+EI 1465-3362
+J9 DRUG ALCOHOL REV
+JI Drug Alcohol Rev.
+PY 2008
+VL 27
+IS 4
+BP 361
+EP 373
+DI 10.1080/09595230802093778
+PG 13
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 319ES
+UT WOS:000257147500009
+PM 18584385
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Yur'yev, A
+   Kolves, K
+   Leppik, L
+   Nemtsov, A
+   Wasserman, D
+AF Varnik, Peeter
+   Sisask, Merike
+   Varnik, Airi
+   Yur'yev, Andriy
+   Kolves, Kairi
+   Leppik, Lauri
+   Nemtsov, Aleksander
+   Wasserman, Danuta
+TI Massive increase in injury deaths of undetermined intent in ex-USSR
+   Baltic and Slavic countries: Hidden suicides?
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Accidents; Baltic States; Belarus; homicides; injury deaths;
+   registration; Russia; suicides; Ukraine; undetermined intent
+ID VITAL-STATISTICS; MORTALITY; CLASSIFICATION; QUALITY; ALCOHOL; TRENDS;
+   UNION
+AB Aims: Observed changes in subcategories of injury death were used to test the hypothesis that a sizeable proportion of "injury deaths of undetermined intent" (Y10-Y34 in ICD 10) in the Baltic and Slavic countries after the USSR dissolved in 1991 were hidden suicides. Methods: Using male age-adjusted suicide rates for two distinctly different periods, 1981-90 and 1992-2005, changes, ratios and correlations were calculated. The data were compared with the EU average. Results: After the USSR broke up, the obligation to make a definitive diagnosis became less strict. A massive increase in "injury deaths of undetermined intent" resulted. The mean rate for the second period reached 52.8 per 100,000 males in Russia (the highest rate) and 12.9 in Lithuania (the lowest), against 3.2 in EU-15. The rise from the first to the second period was highest in Belarus (56%) and Russia (44%). The number of injury deaths of undetermined intent was almost equal to that of suicides in Russia in 2005 (ratio 1.0) and Ukraine in 2002 (1.1). In all the countries, especially the Slavic ones, prevalence trends of injury-death subcategories were uniform, i.e. strongly correlated over time. No direct substitution of one diagnosis for another was evident. Conclusions: There is no evidence that the category of "injury deaths of undetermined intent" in the Baltic and Slavic countries hides suicides alone. Aggregate level analysis indicates that accidents and homicides could sometimes be diagnosed as undetermined.
+C1 [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Kolves, Kairi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Leppik, Lauri] Tallinn Univ, Tallinn, Estonia.
+   [Kolves, Kairi] Griffith Univ, Australian Inst Suicide Res & Prevent, Nathan, Qld 4111, Australia.
+   [Nemtsov, Aleksander] Moscow Res Inst Psychiat, Moscow, Russia.
+   [Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, Stockholm, Sweden.
+C3 Tallinn University; Griffith University; Karolinska Institutet
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+EM peeterv@uninet.ee
+RI Kolves, Kairi/ABE-7564-2020; Yuryeva, Lyudmyla/AAF-9051-2020; Nemtsov,
+   Alexander V/J-4160-2012
+OI Kolves, Kairi/0000-0002-1638-8981; Yuryeva,
+   Lyudmyla/0000-0002-1713-1037; Sisask, Merike/0000-0001-6821-6367
+FU European Community [FP/2007-2013, 223138]; Estonian Scientific
+   Foundation [7132]
+FX The research leading to these results has received funding from the
+   European Community's Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement No. 223138. The current study was
+   funded by the Estonian Scientific Foundation project number 7132. Thanks
+   are due to Clare James for her thorough linguistic and stylistic
+   revision of the manuscript.
+NR 31
+TC 33
+Z9 35
+U1 2
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2010
+VL 38
+IS 4
+BP 395
+EP 403
+DI 10.1177/1403494809354360
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 602PW
+UT WOS:000278152300008
+PM 19933222
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI Regional intelligence and suicide rate: New data for Australia and a
+   synthesis of research
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID NATIONAL INTELLIGENCE; SOCIAL ECOLOGY; EDUCATIONAL-ATTAINMENT;
+   RISK-FACTORS; IQ
+AB Previous research has shown for the most part positive correlations between intelligence and suicide prevalence on the national level. However, this study found proxies for regional intelligence in Australia (international average domain scores from the PISA 2000 study) to be significantly negatively correlated with the total, male, and female suicide rates of the different administrative divisions of Australia, and this finding was independent of regional wealth. A research synthesis of the current results and those from similar studies of other countries (positive correlations for Austria, Belarus, The British Isles, Denmark, and The Netherlands; inconclusive findings for France, Germany, and the USA) was conducted. This synthesis of research findings showed that positive ecological correlations of intelligence with suicide rate were more likely observed for nations with higher suicide rates and poorer general living conditions, whereas there was no relation with national IQ.
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 0342, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 38
+TC 9
+Z9 9
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD AUG
+PY 2007
+VL 105
+IS 1
+BP 191
+EP 196
+DI 10.2466/PMS.105.1.191-196
+PG 6
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 210FE
+UT WOS:000249441300022
+PM 17918563
+DA 2023-12-05
+ER
+
+PT J
+AU Rutz, EM
+   Wasserman, D
+AF Rutz, EM
+   Wasserman, D
+TI Trends in adolescent suicide mortality in the WHO European Region
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE suicide; adolescents; Europe; trends
+ID YOUNG-PEOPLE; FORMER USSR; COHORT ANALYSIS; YOUTH SUICIDE; RATES;
+   COUNTRIES; ENGLAND; WALES; MEN; AGE
+AB Trends in adolescent suicide rates (15-19 years) from 1979 to 1996 were compared with suicide trends in individuals of 20 years and over in 30 countries and with trends in rates of deaths due to undetermined causes in adolescents in 17 countries of the WHO European Region. In 21 of the 30 studied countries, male adolescent suicide rates increased during the study period (highest increases in Belarus, Kazakstan and Ireland) accompanied by far less increases or decreases in suicide rates of males of 20 years and over. Part of the observed increases in Sweden, Ireland and Greece can be attributed to improved suicide statistics, while increases in Finland, Belgium, Bulgaria and the United Kingdom can be even higher due to the rising classification of deaths as "undetermined". In Portugal, decreasing suicide trends seem to be misinterpreted by ignoring the vast increases in rates of undetermined deaths. Female adolescent suicide rates rose less markedly than in males in 18 countries, with the exception of strong increases in Norway, Ireland. Increases in female adolescent suicide rates were marginally affected by changes in classification practices and were accompanied primarily by declining suicide rates in females of 20 years and over.
+C1 Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, S-17177 Stockholm, Sweden.
+RP Rutz, EM (corresponding author), Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Box 230, S-17177 Stockholm, Sweden.
+EM Ellenor.Mittendorfer-Rutz@ipm.ki.se; Danuta.Wasserman@ipm.ki.se
+NR 47
+TC 47
+Z9 52
+U1 0
+U2 11
+PU DR DIETRICH STEINKOPFF VERLAG
+PI DARMSTADT
+PA PO BOX 10 04 62, D-64204 DARMSTADT, GERMANY
+SN 1018-8827
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD OCT
+PY 2004
+VL 13
+IS 5
+BP 321
+EP 331
+DI 10.1007/s00787-004-0406-y
+PG 11
+WC Psychology, Developmental; Pediatrics; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics; Psychiatry
+GA 865AP
+UT WOS:000224675200006
+PM 15490280
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Yury E.
+TI All-cause mortality and fatal alcohol poisoning in Belarus, 1970-2005
+SO DRUG AND ALCOHOL REVIEW
+LA English
+DT Article
+DE all-cause mortality; ARIMA time-series analysis; Belarus; fatal alcohol
+   poisoning; 1970-2005
+ID FORMER USSR; CONSUMPTION; RATES; SUICIDE; DEATH
+AB Introduction and Aims. Although alcohol appears to be an important contributor to the burden of disease in the countries of eastern Europe, little systematic research has been undertaken on its impact on mortality in the former Soviet republic of Belarus. There may be a number of factors underlying the particularly negative effect of alcohol on mortality in Belarus, including the pattern of drinking and use of surrogates. A solid body of research and empirical evidence suggests that hazardous patterns of alcohol consumption (binge drinking) lead to quicker and deeper intoxication, increasing the propensity for alcohol-related mortality. Design and Method. To estimate the aggregate level effect of binge drinking on the all-cause mortality rate, trends in the all-cause mortality and fatal alcohol poisoning rates (as a proxy for binge drinking) in Belarus from 1970 to 2005 were analysed employing AutoRegressive Integrated Moving Average (ARIMA) time-series analysis in order to assess a bivariate relationship between the two time-series. Results. The results of time-series analysis suggest a close relationship between all-cause mortality and fatal alcohol poisoning rates at the population level. Conclusions. This study supports the hypothesis that alcohol and all-cause mortality are connected closely in countries where the drinking culture is characterised by heavy drinking episodes and adds to the growing body of evidence that a substantial proportion of total mortality in Belarus is due to acute effects of binge drinking.
+C1 Grodno State Med Univ, Grodno 230015, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, YE (corresponding author), Grodno State Med Univ, Str Gorky, Grodno 230015, BELARUS.
+EM razvodovsky@grsmu.by
+NR 16
+TC 5
+Z9 5
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0959-5236
+EI 1465-3362
+J9 DRUG ALCOHOL REV
+JI Drug Alcohol Rev.
+PY 2008
+VL 27
+IS 5
+BP 562
+EP 565
+DI 10.1080/09595230802043799
+PG 4
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 335TK
+UT WOS:000258313500014
+PM 18608453
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+   Loibl, LM
+   Kandrychyn, S
+AF Voracek, Martin
+   Loibl, Lisa Mariella
+   Kandrychyn, Slarhei
+TI Testing the Finno-Ugrian Suicide Hypothesis: Replication and refinement
+   with regional suicide data from eastern Europe
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID GENETIC RISK-FACTORS; BEHAVIOR; INTELLIGENCE; PSYCHOLOGY; LATITUDE;
+   FAMILY; RATES; BLOOD
+AB Multiple lines of evidence indicate specific genetic contributions to suicidal behavior. In particular, geographic studies support the Finno-Ugrian Suicide Hypothesis, i.e., genetic differences between populations may partially account for geographic patterns of suicide prevalence. Specifically, within Europe the high suiciderate nations constitute a contiguous J-shaped belt. The present research replicated and extended 2003 findings of Voracek, Fisher, and Marugi with new data. Across 37 European nations, an interaction term of squared latitude multiplied with longitude (quantifying the J-shaped belt) accounted for 32% of the cross-national variance in total suicide rates alone, while latitude accounted merely for 18% of variance over and above those. Refined analysis included regional data from countries critical for testing the hypothesis (89 regions of Belarus, western Russia, and the Ukraine) and yielded an even more clear-cut pattern (56% and 3.5%, respectively), These results are consistent with the Finno-Ugrian Suicide Hypothesis. Study limitations and directions for further research are discussed.
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+   Minsk City Emergency Med Care Hosp, Minsk, BELARUS.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 03-42, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 39
+TC 27
+Z9 27
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD JUN
+PY 2007
+VL 104
+IS 3
+BP 985
+EP 994
+DI 10.2466/PMS.104.3.985-994
+PG 10
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 187JS
+UT WOS:000247844400034
+PM 17688155
+DA 2023-12-05
+ER
+
+PT J
+AU Grigoriev, P
+   Doblhammer-Reiter, G
+   Shkolnikov, V
+AF Grigoriev, Pavel
+   Doblhammer-Reiter, Gabriele
+   Shkolnikov, Vladimir
+TI Trends, patterns, and determinants of regional mortality in Belarus,
+   1990-2007
+SO POPULATION STUDIES-A JOURNAL OF DEMOGRAPHY
+LA English
+DT Article
+DE Belarus; regional mortality; causes of death; spatial distribution of
+   mortality; mortality determinants
+ID SOCIOECONOMIC-FACTORS; PERCEIVED CONTROL; ALCOHOL-DRINKING; RUSSIA;
+   HEALTH; CRISIS; INEQUALITIES; TRANSITION; REFORM; USSR
+AB We report analyses of regional trends in overall and cause-specific mortality in Belarus for the period 19902007. We explore the respective spatial patterns and attempt to determine the factors responsible for the regional mortality variation. The results show that inter-regional mortality differentials tend to rise, mainly because of the growing advantage of the capital over other regions. The increasing variation is associated with diverging trends in mortality from external causes of death. Mortality tends to be higher in the eastern part of the country. Regional data show that changes in mortality are largely explained by alcohol and socio-economic conditions, as measured by unemployment and poverty rates. Cardiovascular and external-cause mortality are strongly associated with alcohol and unemployment, while poverty is an important predictor of suicide and homicide mortality. Clusters of elevated mortality from certain cancers located in the contaminated zone point to the possible impact of the Chernobyl accident.
+C1 [Grigoriev, Pavel; Doblhammer-Reiter, Gabriele; Shkolnikov, Vladimir] Max Planck Inst Demog Res, D-18057 Rostock, Germany.
+   [Doblhammer-Reiter, Gabriele] Univ Rostock, D-18055 Rostock, Germany.
+   [Shkolnikov, Vladimir] New Econ Sch, Moscow, Russia.
+C3 Max Planck Society; University of Rostock; New Economic School
+RP Grigoriev, P (corresponding author), Max Planck Inst Demog Res, Konrad Zuse Str 1, D-18057 Rostock, Germany.
+EM grigoriev@demogr.mpg.de
+RI Shkolnikov, Vladimir M/D-2986-2017
+OI Shkolnikov, Vladimir M/0000-0003-2259-5423
+NR 61
+TC 12
+Z9 14
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0032-4728
+EI 1477-4747
+J9 POP STUD-J DEMOG
+JI Popul. Stud.-J. Demogr.
+PD MAR 1
+PY 2013
+VL 67
+IS 1
+BP 61
+EP 81
+DI 10.1080/00324728.2012.724696
+PG 21
+WC Demography
+WE Social Science Citation Index (SSCI)
+SC Demography
+GA 100EW
+UT WOS:000315680200004
+PM 23057689
+OA Bronze, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Norström, T
+   Razvodovsky, Y
+AF Norstrom, Thor
+   Razvodovsky, Yury
+TI Per capita alcohol consumption and alcohol-related harm in Belarus,
+   1970-2005
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE alcohol consumption; all-cause mortality; alcohol poisoning; alcohol
+   psychosis; time-series analysis; Belarus
+ID ALL-CAUSE MORTALITY; PREMATURE MORTALITY; RISK-FACTORS; RUSSIA;
+   DRINKING; SUICIDE
+AB Background: Although alcohol seems to be an important determinant of the mortality crisis in the former Soviet Republic of Belarus, little systematic research has been done on the relationship between alcohol consumption and harm at the aggregate level. The aims of the present study were to estimate the effect of per capita alcohol consumption on all-cause mortality, mortality from alcohol poisoning and hospital admissions for alcohol psychosis in Belarus. Methods: Annual data on the three outcomes and alcohol sale per capita for the period 1970-2005 were analysed using the Box-Jenkins technique. Female mortality was included as a control variable and regarded as a proxy for other causal factors. To incorporate the lag structure, a weighted input was used in which a geometrical lag-scheme was applied. Results: The outcomes suggest that a 1 l increase in consumption was associated with an increase in male all-cause mortality of similar to 2.3%. The corresponding figures for alcohol poisoning mortality and alcohol psychosis admissions are 12 and 25%. Conclusions: The present study strengthens the notion of alcohol consumption as an important determinant of population health in this part of the world, and thus the notion that alcohol control must be a key priority for Belorussian public health policy.
+C1 [Norstrom, Thor] Univ Stockholm, Swedish Inst Social Res, S-10691 Stockholm, Sweden.
+   [Razvodovsky, Yury] Grodno State Med Univ, Dept Psychiat, Grodno, BELARUS.
+C3 Stockholm University; Grodno State Medical University
+RP Norström, T (corresponding author), Univ Stockholm, Swedish Inst Social Res, S-10691 Stockholm, Sweden.
+EM totto@sofi.su.se
+FU Swedish Council for Working Life and Social Research [2004-1835]
+FX Thor Norstrom gratefully acknowledges project grant (2004-1835) from the
+   Swedish Council for Working Life and Social Research.
+NR 26
+TC 5
+Z9 10
+U1 0
+U2 1
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD OCT
+PY 2010
+VL 20
+IS 5
+BP 564
+EP 568
+DI 10.1093/eurpub/ckq011
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 654MN
+UT WOS:000282172500019
+PM 20181684
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, Y. E.
+TI Alcohol poisonings and fatal accidents in Belarus
+SO ADICCIONES
+LA English
+DT Article
+DE accidents; alcohol intoxication; distributed lag analysis; Belarus
+ID DRINKING PATTERNS; RELATIVE RISK; POPULATION DRINKING; CONSUMPTION;
+   MORTALITY; INJURIES; AGE; SUICIDE; DEATH
+AB Background: High accidental deaths rate in the former Soviet republics (FSR) and its profound fluctuation over the past decades have attracted considerable interest. The mounting body of evidence point to binge drinking pattern as a potentially important contributor to accident mortality crisis in FSR.
+   Aim: The aim of this study was to estimate the aggregate-level effect of binge drinking on the accident mortality rate in the former Soviet Slavic republic Belarus.
+   Method: Trends in fatal alcohol poisoning (as a proxy for binge drinking) and accidental deaths rates from 1979 to 2007 were analyzed employing a distributed lag analysis in order to asses bivariate relationship between the two time series.
+   Results: According to Bureau of Forensic Medicine autopsy reports the number of deaths due to accidents and injuries increased by 94.5% (from 38.7 to 75.6 per 100.000 of residents), and fatal alcohol poisoning rate increased by 108.6% (from 12.8 to 26.7 per 100.000 of residents) in Belarus between 1979 and 2007. Alcohol in blood was found in 51.4% victims of deaths from accidents and injuries for the whole period, with the minimum figure 43.1% in 1986 and maximum 59.1% in 2005. The outcome of distributed lags analysis indicated statistically significant association between the number of alcohol poisoning deaths and the number BAC (blood alcohol concentration)-positive deaths from accidents and injuries at zero lag.
+   Conclusion: The outcome of this study supports the hypothesis that alcohol and deaths from accidents and injuries are closely connected in culture with prevailing intoxication-oriented drinking pattern. This research evidence points to binge drinking pattern as a potentially important contributor to accident mortality crisis in Belarus.
+C1 Grodno State Med Univ, Grodno, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, YE (corresponding author), Grodno State Med Univ, Grodno, BELARUS.
+EM yury_razvodovsky@mail.ru
+NR 37
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SOCIDROGALCOHOL
+PI  Barcelona
+PA Avda. de Vallcarca, 180,  Barcelona, SPAIN
+SN 0214-4840
+EI 2604-6334
+J9 ADICCIONES
+JI Adicciones
+PY 2011
+VL 23
+IS 3
+BP 199
+EP 204
+DI 10.20882/adicciones.144
+PG 6
+WC Substance Abuse
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 053MR
+UT WOS:000312277400003
+PM 21814708
+OA Bronze, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Arensman, E
+   Van Audenhove, C
+   van der Feltz-Cornelis, CM
+   Hegerl, U
+AF Vaernik, Peeter
+   Sisask, Merike
+   Vaernik, Airi
+   Arensman, Ella
+   Van Audenhove, Chantal
+   van der Feltz-Cornelis, Christina M.
+   Hegerl, Ulrich
+TI Validity of suicide statistics in Europe in relation to undetermined
+   deaths: developing the 2-20 benchmark
+SO INJURY PREVENTION
+LA English
+DT Article
+ID FORMER SOVIET-UNION; VITAL-STATISTICS; TIME-SERIES; MORTALITY;
+   CLASSIFICATION; DEPRESSION; COUNTRIES; ALLIANCE; QUALITY
+AB Background The suicide rate is a macro indicator of the population's psychosocial wellbeing and an evaluation criterion of the effectiveness of suicide prevention strategies. A high level of injury deaths of undetermined intent (UD) is usually discussed in connection with the validity of suicide statistics. An effort is made to develop a criterion to characterise the quality of suicide statistics.
+   Methods Standardised rates of suicides (X60-X84) and UD (Y10-Y34) by the International Classification of Disease version 10 as an average for the past five available years were taken from the WHO European mortality database. Rate ratios were computed by dividing rates of UD by suicide rates.
+   Results There is considerable variation in suicide and UD rates among countries. The highest overall rates of UD were registered in Russia, Ukraine and Belarus, and the lowest in Greece, Spain and Italy. The EU-15 average UD rate of 1.97 and the rate ratio of 0.194 UD to suicides were combined into a '2-20 benchmark', in which the primary indicator is 2.0 UD cases per 100 000 and the secondary indicator is the proportion of UD to suicides 0.20 (20%), which enables countries to be clustered according to the quality of suicide statistics. The following countries satisfied the benchmark: Greece, Norway, Spain, The Netherlands, Luxembourg, France, Austria, Italy, Romania, Hungary, Ireland and Finland.
+   Conclusion This study used the developed '2-20 benchmark' in Europe to assess suicide registration quality in a particular country, to compare the relative position of countries, and to set a target for those European countries that have not yet achieved the benchmark.
+C1 [Vaernik, Peeter; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Vaernik, Peeter] Tallinn Univ, Estonian Inst Populat Studies, Tallinn, Estonia.
+   [Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Arensman, Ella] Natl Suicide Res Fdn, Cork, Ireland.
+   [Van Audenhove, Chantal] Katholieke Univ Leuven, LUCAS, Louvain, Belgium.
+   [van der Feltz-Cornelis, Christina M.] Netherlands Inst Mental Hlth & Addict, Trimbos Inst, Utrecht, Netherlands.
+   [Hegerl, Ulrich] Univ Leipzig, Dept Psychiat, Leipzig, Germany.
+C3 Tallinn University; Tallinn University; KU Leuven; Trimbos Institute;
+   Leipzig University
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM peeterv@suicidology.ee
+RI Van der Feltz-Cornelis, Christina/JMP-7639-2023
+OI Van der Feltz-Cornelis, Christina/0000-0001-6925-8956; Hegerl,
+   Ulrich/0000-0002-3039-7470; Arensman, Ella/0000-0003-0376-1203; Sisask,
+   Merike/0000-0001-6821-6367; Van Audenhove, Chantal/0000-0002-5504-5439
+FU European Community Seventh Framework Programme OSPI-Europe [223138];
+   Estonian Ministry of Social Affairs
+FX The research reported in this paper has received funding from the
+   European Community Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement no 223138, and from the Estonian
+   Ministry of Social Affairs.
+NR 33
+TC 47
+Z9 51
+U1 1
+U2 21
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD OCT
+PY 2012
+VL 18
+IS 5
+BP 321
+EP 325
+DI 10.1136/injuryprev-2011-040070
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 016LV
+UT WOS:000309520800008
+PM 22157205
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Grajda, A
+   Kulaga, Z
+   Gurzkowska, B
+   Gózdz, M
+   Wojtylo, M
+   Litwin, M
+AF Grajda, Aneta
+   Kulaga, Zbigniew
+   Gurzkowska, Beata
+   Gozdz, Magdalena
+   Wojtylo, Malgorzata
+   Litwin, Mieczyslaw
+TI Trends in external causes of child and adolescent mortality in Poland,
+   1999-2012
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE External causes of death; Children; Adolescents; Annual percent change
+ID HIGH-INCOME COUNTRIES; SUICIDE; ENGLAND; DEATH; INEQUALITIES; PATTERNS;
+   WALES
+AB To examine the pattern and trend of deaths due to external causes among Polish children and adolescents in 1999-2012, and to compare trends in Poland's neighboring countries.
+   Death records were obtained from the Central Statistical Office of Poland. External causes mortality rates (MR) with 95 % confidence interval were calculated. The annual percentage change of MR was examined using linear regression. To compare MR with Belarus, Ukraine, Czech Republic and Germany, data from the European Mortality Database were used.
+   MR were the highest in the age 15-19 years (33.7/100,000) and among boys (22.7/100,000). Unintentional injuries including transport accidents, drowning, and suicides (especially in children over 10 years old), were the main cause of death in the analyzed groups. Between 1999 and 2012 annual MR for unintentional injuries declined substantially. MR due to injuries and poisoning in Poland were higher compared with Czech Republic and Germany and lower in comparison with Belarus and Ukraine.
+   Deaths due to unintentional injuries are still the leading cause of death among Polish children and adolescents. There are differences in death rates between Poland and neighboring countries.
+C1 [Grajda, Aneta; Kulaga, Zbigniew; Gurzkowska, Beata; Gozdz, Magdalena; Wojtylo, Malgorzata] Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+   [Litwin, Mieczyslaw] Childrens Mem Hlth Inst, Dept Nephrol & Arterial Hypertens, Warsaw, Poland.
+C3 Children's Memorial Health Institute; Children's Memorial Health
+   Institute
+RP Kulaga, Z (corresponding author), Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+EM z.kulaga@ipczd.pl
+RI Litwin, Mieczyslaw/ABH-4315-2020
+OI Litwin, Mieczyslaw/0000-0002-5241-2483; Kulaga,
+   Zbigniew/0000-0003-0509-1004; Gurzkowska, Beata/0000-0003-2681-3221;
+   Gozdz, Magdalena/0000-0002-9753-568X; Kotowska,
+   Aneta/0000-0003-3289-2878
+FU Ministry of Science and Higher Education [M10/14]
+FX AG was supported by the Ministry of Science and Higher Education (grant
+   for young scientist M10/14).
+NR 35
+TC 10
+Z9 10
+U1 0
+U2 4
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD JAN
+PY 2017
+VL 62
+IS 1
+BP 117
+EP 126
+DI 10.1007/s00038-016-0908-7
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EK7WC
+UT WOS:000394134900012
+PM 27766374
+OA Green Published, hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, YE
+AF Razvodovsky, YE
+TI Association between distilled spirits consumption and violent mortality
+   rate
+SO DRUGS-EDUCATION PREVENTION AND POLICY
+LA English
+DT Article
+ID ALCOHOL-CONSUMPTION; SUICIDE RATES; AGGRESSION; DEATH; MEN
+AB The association between alcohol and violent mortality is well documented. Considerably less is known about the beverage-specific effect of alcohol on mortality rate. The role of drinking patterns in the alcohol-violent mortality association is a very important issue today. Aim: To estimate the beverage-specific effect of alcohol on violent mortality rate. Measurement. Trends in different types of violent mortality rate (mortality due to accidents and injuries, mortality due to suicide and homicide, mortality due to motor-traffic accidents) from 1970-1999 in Belarus were analyzed in relation to trends in the level of different types of alcoholic beverage consumption per capita applying time series, factor and cluster analyses. Results: The results of this study demonstrated a positive and statistically significant effect of changes in strong spirits per capita consumption on violent mortality rate. At the same time, the relationship between the total level of alcohol consumption and different types of violent mortality rates is far below statistical significance. The analysis suggest that a 10% increase in spirits consumption per capita would result in a 7.5% increase in accidents and injuries mortality rate, in a 5% increase in suicide rate, in an 11.4% increase in homicide rate, in a 1% increase in fatal traffic accidents rate. Conclusion: The results of this study support the idea that violent mortality rate tends to be more responsive to changes in distilled spirits consumption per capita than in total level of alcohol consumption. The main evidence for this conclusion is that a positive and statistically significant relationship between violent mortality rate and the level of vodka consumption per capita was revealed. The level of strong spirits consumption per capita is most strongly associated with such indexes as mortality due to homicides, suicides, accidents and injuries, and to a lesser degree with mortality due to road accidents. This study supports the idea that violent, mortality and alcohol are more closely connected in culture with prevailing intoxication-oriented drinking patterns and adds to the growing body of evidence that a substantial proportion of violent mortality in Belarus is due to the acute effect of binge drinking.
+C1 Grodno State Med Univ, Dept Psychiat, Grodno, BELARUS.
+C3 Grodno State Medical University
+RP Razvodovsky, YE (corresponding author), Grodno State Med Univ, Dept Psychiat, Grodno, BELARUS.
+EM razvodovsky@grsmi.unibel.by
+NR 41
+TC 25
+Z9 27
+U1 0
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0968-7637
+EI 1465-3370
+J9 DRUG-EDUC PREV POLIC
+JI Drug-Educ. Prev. Policy
+PD AUG
+PY 2003
+VL 10
+IS 3
+BP 235
+EP 250
+DI 10.1080/0968763031000082124
+PG 16
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 690JX
+UT WOS:000183546200003
+DA 2023-12-05
+ER
+
+PT J
+AU Vinokurov, E
+AF Vinokurov, Evgenij
+TI Among Partners The Eurasian Economic Union
+SO OSTEUROPA
+LA German
+DT Article
+AB The Eurasian Economic Union, founded in 2015, is the most important integration project in post-Soviet space. After more than two decades of disintegration and failed reintegration, Russia, Belarus, Armenia, Kazakhstan, and Kyrgyzstan now have for the first time a common market for goods and services. However, some goods are exempt and non-tariff barriers are numerous. For now, coordination of monetary and fiscal policies remains only a goal. Just as important as internal integration is the expansion of cooperation with China and the European Union as the new common market's most important partners. The creation of a "Fortress Eurasia" would be suicide.
+C1 [Vinokurov, Evgenij] Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RP Vinokurov, E (corresponding author), Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RI Vinokurov, Evgeny/F-1668-2014
+OI Vinokurov, Evgeny/0000-0002-9584-3494
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 5
+PU BWV-BERLINER WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA AXEL-SPRINGER-STR 54 A, BERLIN, D-10117, GERMANY
+SN 0030-6428
+EI 2509-3444
+J9 OSTEUROPA
+JI Osteuropa
+PY 2016
+VL 66
+IS 5
+BP 129
+EP +
+PG 13
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA DZ6RD
+UT WOS:000385988700008
+DA 2023-12-05
+ER
+
+PT J
+AU Bryanskaya, EV
+   Samaryn, VI
+AF Bryanskaya, Elena, V
+   Samaryn, Vadzim, I
+TI EXPERT OPINION AND WITNESS TESTIMONY AS KEY EVIDENCE IN CRIMINAL CASES
+   ON INCITEMENT TO SUICIDE
+SO RUSSIAN JOURNAL OF CRIMINOLOGY
+LA Russian
+DT Article
+DE Suicide; key evidence; sources of evidence; legal force of evidence;
+   admissible evidence; inadmissible evidence; direct evidence;
+   circumstantial evidence; assessment of evidence
+AB For the last five years Belarus and Russia have been among the top five countries for suicide indices. Their rise was caused by the activities of destructive groups in social networks. Experience shows that criminal proceedings for many criminal cases connected with suicides were terminated due to the absence of a crime. Thus, a thorough collection of evidence for this category of criminal cases becomes especially vital. When analyzing the court practice of incitement to suicide, the authors concluded that the most persuasive evidence is expert opinion and witness testimony. Besides, such written documents as medical cards (medical records) of potential suicides have high probative value in the investigation of criminal cases. Timely initiation and conduction of expertise could reveal signs of incitement to suicide, for example, using physical violence against the victim or a staged suicide. As the Criminal Procedure Code sometimes prescribes an expertise for a specific criminal case, such expert opinion will become a key source, a type of evidence that, at the level of a judge's inner conviction, will have significant legal force when assessed together with other evidence. Thus, it is possible to discuss evidence that has key value, but, at the same time, it should be connected with other information on the criminal case, and together they should make up an integral crime narrative. The European Court of Human Rights introduced a concept of "key evidence" in the practice of criminal proceedings. The analysis of court practice allowed the authors to suggest that key evidence is information that acts as the main fact and is included in the subject matter of the case. This conclusion does not contradict the rule of free assessment of evidence: during such assessment, none of the evidence has predetermined, preconceived legal force. Only when the evidence is harmonized, it is possible to talk about a comprehensive investigation and an objective assessment of evidence.
+C1 [Bryanskaya, Elena, V] Herzen State Pedag Univ Russia, Chair Criminal Proc & Criminalist, St Petersburg, Russia.
+   [Samaryn, Vadzim, I] Belarusian State Univ, Chair Criminal Procedure, Minsk, BELARUS.
+C3 Herzen State Pedagogical University of Russia; Belarusian State
+   University
+RP Bryanskaya, EV (corresponding author), Herzen State Pedag Univ Russia, Chair Criminal Proc & Criminalist, St Petersburg, Russia.
+EM veret.1976@mail.ru; samarynv@bsu.by
+RI Samaryn, Vadzim/A-2159-2019
+OI Samaryn, Vadzim/0000-0002-5315-4770
+NR 19
+TC 1
+Z9 1
+U1 0
+U2 5
+PU BAIKAL STATE UNIV
+PI IRKUTSK
+PA 11 LENIN ST, IRKUTSK, 664003, RUSSIA
+SN 2500-4255
+EI 2500-1442
+J9 RUSS J CRIMINOL
+JI Russ. J. Criminol.
+PY 2019
+VL 13
+IS 6
+BP 971
+EP 979
+DI 10.17150/2500-4255.2019.13(6).971-979
+PG 9
+WC Criminology & Penology
+WE Emerging Sources Citation Index (ESCI)
+SC Criminology & Penology
+GA JY8UL
+UT WOS:000504683300010
+OA gold, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Bye, EK
+AF Bye, Elin K.
+TI Alcohol and homicide in Eastern Europe - A time series analysis of six
+   countries
+SO HOMICIDE STUDIES
+LA English
+DT Article
+DE homicide; alcohol consumption; Eastern Europe; time series
+ID VIOLENT MORTALITY; SUICIDE MORTALITY; DRINKING PATTERNS; BINGE DRINKING;
+   CONSUMPTION; RUSSIA; RATES; AGGRESSION; STATES; RISK
+AB Few studies have addressed the association between alcohol consumption and homicide rates at the population level in eastern European countries. The aim of the present study was to test hypotheses on how this association may vary across countries with different drinking patterns and for gender specific homicide rates. Time series analysis was used on annual alcohol consumption and homicide rates for six eastern European countries. The estimates were pooled into two groups of countries with more (Russia and Belarus) and somewhat less (Bulgaria, Hungary, Poland, and former Czechoslovakia) hazardous drinking patterns. The overall results showed that annual changes in alcohol consumption were positively and significantly associated with homicide rates and also indicated that the estimates were stronger in countries with a more detrimental drinking pattern. The results suggest that alcohol consumption has an effect on homicide rates in Eastern Europe and that this effect varies with drinking pattern.
+C1 Norwegien Inst Alcohol & Drug Res, Oslo, Norway.
+RP Bye, EK (corresponding author), Norwegien Inst Alcohol & Drug Res, Oslo, Norway.
+NR 61
+TC 53
+Z9 53
+U1 1
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1088-7679
+EI 1552-6720
+J9 HOMICIDE STUD
+JI Homicide Stud.
+PD FEB
+PY 2008
+VL 12
+IS 1
+BP 7
+EP 27
+DI 10.1177/1088767907310851
+PG 21
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 255OD
+UT WOS:000252666400002
+DA 2023-12-05
+ER
+
+PT J
+AU Lyubov, EB
+   Zotov, PB
+   Kulikov, AN
+AF Lyubov, E. B.
+   Zotov, P. B.
+   Kulikov, A. N.
+CA Res Grp
+TI INTEGRATED (EPIDEMIOLOGICAL, CLINICAL, SOCIAL, AND COST) ASSESSMENT OF
+   PARASUICIDES AS THE REASONS OF HOSPITALIZATION IN MULTIDISCIPLIC
+   HOSPITALS
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE parasuicides; epidemiology; clinical picture; medical costs; social
+   costs
+ID SUICIDAL-BEHAVIOR; ATTEMPTERS; REGION; ORGANIZATION; DIAGNOSTICS;
+   POPULATION; PREVENTION; TRENDS
+AB Parasuicides (suicides attempts or self-injury), or PS are associated with significant morbidities and constitute a major predictor of later suicide. Studying on PS represents one of the most important directions for major public health priority and suicide prevention. Aim of the first international (Russia-Belarus) multicentre study is a multilevel (i.e., epidemiological, clinical, social, and economic) assessment of patients hospitalized in somatic hospitals after PS. Material and methods. A prospective clinical and epidemiological study included 110 inpatients in the 10 city emergency medical centers admitted for PS during the study; 63 patients (57.3%) were female. The mean age of men and women was 34.07 and 36.58 years (standard deviation -10.07 and 16.23, range-17-62 and 12-74 years) respectively. All patients received a psychosocial assessment during their first days of hospital attendance. The cost analysis (in/Rub. 2016) showed total economic burden (i.e., medical and social costs) of PS in the hospital budget (%) and at the federal level. Medical costs are calculated taking into account insurance costs for the treated case. Social costs using the social capital approach. Results. Predictors of PS and risk factors include certain demographic variables, clinical (e.g., depressive) symptoms and issues related to medical and social support. Typical features of parasuicidents are the following: young and middle age, no family, unemployment, with psychiatric, and suicidal history, alcohol abuse. Every fourth PS was a repeated one. Most of the suicide attempts (>80%) were done with psychiatric medications. At least 1/2 of the PS on the attributes of minimizing the chance of third-party care can be considered suicidal. The most frequent reasons for PS were conflicts with loved ones (>1/3). The proportion of depressive disorders (F.32) is defined in less than 3% of patients (male and female), but adaptation disorders (F43.2) were found in 29.9% patients. Up to 40% of the PS are committed under alcoholic intoxication. The overall mortality of PS was high (2%). The risk of suicide in the next 24-48 hours of the post-suicide period was high for 22.7% of patients. PS make up a 1% proportion of hospitalizations for self-harm. Taking into account the tentative (minimal) level of the PS with severe medical consequences (i.e., 44 per 100.000 population), medical and total (+ social) costs correspond to 1559553996 and 2059695083 Rub., or 0.04% of the health care budget and 0.002% of GDP, respectively. The costs for the episode of PS (nearly 2000 USD) are comparable with those in other economically developed countries. Conclusion. Typical shortcomings of medical and psychiatric care are the small continuity, insufficient development of alternative antisuicidal services (e.g., crisis hospital in a multi-profile hospital). Improved continuity of care as well as diagnosis of affective disorders and pharmacotherapy (in frame of risk reduction to self-poisoning means) would likely reduce the number of subsequent suicidal attempts following a previous nonfatal attempt. Attempted suicide produces substantial financial burden. Prevention in targeting risk groups as who made repeated PS or / and users of hard PS methods may be most cost-effective. Further research should aim at identifying epidemiology PSand the cost-effectiveness of prevention measures.
+C1 [Lyubov, E. B.; Kulikov, A. N.] Moscow Inst Psychiat, Moscow, Russia.
+   [Zotov, P. B.] Tyumen State Med Univ, Tyumen, Russia.
+C3 Tyumen State Medical University
+RP Lyubov, EB (corresponding author), Moscow Inst Psychiat, Moscow, Russia.
+EM lyubov.evgeny@mail.ru; note72@yandex.ru
+RI Зотов, Павел/AGA-2616-2022; Sakharov, Anatoly/N-4261-2016; Zotov,
+   Pavel/U-2807-2017
+OI Зотов, Павел/0000-0002-1826-486X; Sakharov, Anatoly/0000-0001-8835-6607;
+   Zotov, Pavel/0000-0002-1826-486X
+NR 46
+TC 8
+Z9 8
+U1 0
+U2 4
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2018
+VL 9
+IS 3
+BP 16
+EP 29
+DI 10.32878/suiciderus.18-09-03(32)-16-29
+PG 14
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA HA5KK
+UT WOS:000450310100002
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Ginter, E
+   Simko, V
+AF Ginter, E.
+   Simko, V
+TI Health of Europeans twenty years after the fall of Berlin wall
+SO BRATISLAVA MEDICAL JOURNAL-BRATISLAVSKE LEKARSKE LISTY
+LA English
+DT Review
+DE Iron Curtain breakdown; life expectancy; cardiovascular disease;
+   external factors; alcohol; smoking; Russia; Central Europe
+ID MEDICAL-STUDENTS; MORTALITY; RUSSIA; COUNTRIES; BEHAVIOR; QUALITY;
+   SMOKING; CRISIS
+AB The failure of central planning in the totalitarian systems of the USSR and its satellites adversely affected not only the economy and social relations but also the population health. While in the countries with established democracy (DEM) the general health and the life expectancy (LE) steadily improved, in countries declaring socialism (SOC) the LE was stagnant and in the USSR even decreased. Dramatic changes in Russia after the demise of Soviet Union resulted in an extraordinary destabilization of LE that reached a minimum in 1994. Remarkably, even twenty years after the breakdown of the Iron Curtain there persists a gap in the general health between the DEM and the SOC regions of Europe. Within the territory of the former Soviet influence there are additional differences in LE: Central Europe is much better off than Russia and its neighbours. Main cause of relatively high mortality in the post totalitarian Europe is the cardiovascular disease (CVD). Among females about 80 % difference in LE between DEM and SOC countries is related to premature CVD mortality. In SOC males compared to DEM, about 50 % of the higher mortality is caused by CVD, 20 % is related to external factors (trauma, suicide) and 10 % is oncologic disorders. The main suggested cause of such excess mortality, besides a low socioeconomic level and limited funding for health care, is an improper life style: alcoholism, smoking and inadequate intake of protective nutrients. Alcoholism, especially binge drinking is a prominent factor in Russia, Belarus, Ukraine and in the Baltic Republics (Fig. 6, Tab. 4, Ref. 20). Full Text in free PDF www.bmj.sk.
+C1 [Ginter, E.] Inst Prevent & Clin Med, Bratislava, Slovakia.
+   [Simko, V] Suny Downstate Med Ctr, Brooklyn, NY 11203 USA.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Downstate Medical Center
+RP Ginter, E (corresponding author), Racianska 17, SK-83102 Bratislava, Slovakia.
+EM ginter.emil@mail.t-com.sk
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 7
+PU COMENIUS UNIV
+PI BRATISLAVA I
+PA SCH MEDICINE, SPITALSKA 24, BRATISLAVA I, SK-813 72, SLOVAKIA
+SN 0006-9248
+J9 BRATISL MED J
+JI Bratisl. Med. J.
+PY 2010
+VL 111
+IS 7
+BP 398
+EP 403
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 641CF
+UT WOS:000281101400009
+PM 20806547
+DA 2023-12-05
+ER
+
+EF

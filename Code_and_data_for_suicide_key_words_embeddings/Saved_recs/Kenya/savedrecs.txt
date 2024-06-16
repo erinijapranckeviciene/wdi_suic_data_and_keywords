@@ -1,0 +1,1430 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bitta, MA
+   Bakolis, I
+   Kariuki, SM
+   Nyutu, G
+   Mochama, G
+   Thornicroft, G
+   Newton, CRJC
+AF Bitta, Mary A.
+   Bakolis, Ioannis
+   Kariuki, Symon M.
+   Nyutu, Gideon
+   Mochama, George
+   Thornicroft, Graham
+   Newton, Charles R. J. C.
+TI Suicide in a rural area of coastal Kenya
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Kenya; Incidence; Risk factors; Verbal autopsy; Demographic
+   surveillance system
+ID DEMOGRAPHIC SURVEILLANCE SYSTEM; KILIFI HEALTH; RISK-FACTORS;
+   EPIDEMIOLOGY; DEATH
+AB Background: Suicide accounts for approximately 1.4% of deaths globally and is the 15th leading cause of death overall. There are no reliable data on the epidemiology of completed suicide in rural areas of many developing countries, yet suicide is an indicator of the sustainable development goals on health.
+   Methods: Using data collected between 2008 and 2016 from the Kilifi Health and Demographic Surveillance System in rural Kenya, we retrospectively determined the incidence rate and risk factors for completed suicide.
+   Results: During the period, 104 people died by suicide, contributing to 0.78% (95% CI = 0.74-1.10) of all deaths. The mean annual incidence rate of suicide was 4.61 (95% CI = 3.80-5.58) per 100,000 person years of observation (pyo). The annual incidence rate for men was higher than that of women (IRR = 3.05, 95% CI = 1.98-4.70, p < 0.001) and it increased with age (IRR = 2.73, 95% CI = 2.30-3.24, p < 0.001). People aged > 64 years had the highest mean incidence rate of 18.58 (95% CI = 11.99-28.80) per 100,000 pyo. Completed suicide was associated with age, being male, and living in a house whose wall is made of scrap material, which is a proxy marker of extreme poverty in this region (OR = 5.5, 95% CI = 4.0-7.0, p = 0.02). Most cases (76%) completed suicide by hanging themselves. Spatial heterogeneity of rates of suicides was observed across the enumeration zones of the KHDSS.
+   Conclusions: Suicide is common in this area, but the incidence of completed suicide in rural Kenya may be an underestimate of the true burden. Like in other studies, suicide was associated with older age, being male and poverty, but other medical and neuropsychiatric risk factors should be investigated in future studies.
+C1 [Bitta, Mary A.; Kariuki, Symon M.; Nyutu, Gideon; Mochama, George; Newton, Charles R. J. C.] Ctr Geog Med Res Coast, KEMRI Wellcome Trust Res Programme, POB 230, Kilifi 80108, Kenya.
+   [Bakolis, Ioannis; Thornicroft, Graham] Kings Coll London, Hlth Serv & Populat Res Dept, London, England.
+   [Bakolis, Ioannis; Thornicroft, Graham] Kings Coll London, Inst Psychiat Psychol & Neurosci, London, England.
+   [Bitta, Mary A.; Kariuki, Symon M.; Newton, Charles R. J. C.] Univ Oxford, Dept Psychiat, Oxford, England.
+C3 University of London; King's College London; University of London;
+   King's College London; University of Oxford
+RP Bitta, MA (corresponding author), Ctr Geog Med Res Coast, KEMRI Wellcome Trust Res Programme, POB 230, Kilifi 80108, Kenya.; Bitta, MA (corresponding author), Univ Oxford, Dept Psychiat, Oxford, England.
+EM mbitta@kemri-wellcome.org
+RI Newton, Charles RJC/B-7578-2014; bitta, mary/GVU-6500-2022; Thornicroft,
+   Graham/B-4027-2010
+OI Newton, Charles RJC/0000-0002-6999-5507; bitta,
+   mary/0000-0003-0258-9931; Thornicroft, Graham/0000-0003-0662-0879;
+   Kariuki, Symon/0000-0002-3934-5132; Bakolis, Ioannis/0000-0002-4800-1630
+FU Wellcome Trust; MRC [MR/S001255/1] Funding Source: UKRI
+FX The Demographic Surveillance system is supported by the Wellcome Trust.
+   The funders had no role in the in the design of the study and
+   collection, analysis, and interpretation of data and the writing of this
+   manuscript.
+NR 31
+TC 9
+Z9 9
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD AUG 29
+PY 2018
+VL 18
+AR 267
+DI 10.1186/s12888-018-1855-z
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GS2FA
+UT WOS:000443356000001
+PM 30157796
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Straight, B
+   Pike, I
+   Hilton, C
+   Oesterle, M
+AF Straight, Bilinda
+   Pike, Ivy
+   Hilton, Charles
+   Oesterle, Matthias
+TI Suicide in Three East African Pastoralist Communities and the Role of
+   Researcher Outsiders for Positive Transformation: A Case Study
+SO CULTURE MEDICINE AND PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Death; Stigma; Pastoralists; Kenya
+ID NORTHERN KENYA; SELF-HARM; SRI-LANKA; CONSEQUENCES; CATTLE; GENDER;
+   UGANDA; RUN
+AB We examine cultural understandings and practices surrounding suicide in Pokot, Samburu, and Turkana pastoralists in north-central Kenya-three geographically overlapping and mutually interacting pastoralist communities. We collected our data in the context of a study of poverty, violence, and distress. In all three communities, stigma associated with suicide circumscribed individual responses to the World Health Organization's Self-Report Questionnaire, which led to an ethnographic sub-study of suicide building upon our long-standing research in East Africa on distress, violence, and death. As is true for most of sub-Saharan Africa, reliable statistical data are non-existent for these communities. Thus, we deliberately avoid making assertions about generalizable statistical trends. Rather, we take the position that ethnographically nuanced studies like the one we offer here provide a necessary basis for the respectful collection of accurate quantitative data on this important and troubling practice. Moreover, our central point in this paper is that positive transformational work relating to suicide is most likely when researcher outsiders practice 'deep engagement' while respectfully restricting their role to (1) iterative, community-driven approaches that contextualize suicide; and (2) sharing contextualized analyses with other practitioners. We contend that situating suicide within a broader cultural framework that includes attitudes and practices surrounding other forms of death is essential to both aspects of anthropological-outsiders' role.
+C1 [Straight, Bilinda] Western Michigan Univ, Dept Anthropol, Kalamazoo, MI 49008 USA.
+   [Pike, Ivy] Univ Arizona, Sch Anthropol, Tucson, AZ 85721 USA.
+   [Hilton, Charles] Grinnell Coll, Dept Anthropol, Grinnell, IA 50112 USA.
+   [Oesterle, Matthias] Deutsch Gesell Int Zusammenarbeit GIS, Civil Peace Serv Program, PDCP Bank Ctr 11 F, Salcedo Village 1227, Makati, Philippines.
+C3 Western Michigan University; University of Arizona
+RP Straight, B (corresponding author), Western Michigan Univ, Dept Anthropol, 1020 Moore Hall, Kalamazoo, MI 49008 USA.
+EM Bilinda.Straight@wmich.edu; ilpike@email.arizona.edu;
+   hiltonch@grinnell.edu; matthias.oesterle@giz.de
+RI Straight, Bilinda/AGX-7232-2022
+OI Straight, Bilinda/0000-0002-1387-5514; Hilton,
+   Charles/0000-0003-4316-7591
+NR 61
+TC 12
+Z9 12
+U1 0
+U2 9
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0165-005X
+EI 1573-076X
+J9 CULT MED PSYCHIAT
+JI Cult. Med. Psychiatr.
+PD SEP
+PY 2015
+VL 39
+IS 3
+BP 557
+EP 578
+DI 10.1007/s11013-014-9417-4
+PG 22
+WC Anthropology; Psychiatry; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry; Biomedical Social Sciences
+GA CN6ZI
+UT WOS:000358582800010
+PM 25381581
+DA 2023-12-06
+ER
+
+PT J
+AU Goodman, ML
+   Gibson, D
+   Vo, TT
+   Wang, AR
+   Gitari, S
+   Raimer, B
+AF Goodman, Michael L.
+   Gibson, Derrick
+   Vo, Thiennga T.
+   Wang, Aaron
+   Gitari, Stanley
+   Raimer, Ben
+TI Early childhood attachment and suicidal ideation among young Kenyan men
+SO ADVANCES IN LIFE COURSE RESEARCH
+LA English
+DT Article
+DE Suicide ideation; Attachment theory; Interpersonal theory; Kenya; Men
+ID EMOTIONAL LONELINESS SCALE; INTERPERSONAL THEORY; LIFE QUESTIONNAIRE;
+   HEALTH; VALIDITY; VERSION; MATTER; INCOME; RISK; INTERVENTION
+AB The interpersonal theory of suicide posits that suicide behavior is driven by two interpersonal dynamics perceived burdensomeness and thwarted belongingness. Attachment theory posits that one's sense of belonging may stem from social attachments during childhood. In this study, we investigate whether these two theories may be meaningfully combined to provide a life course perspective on suicide ideation among young Kenyan men (age 18-34 years). We find that respondents who recalled childhood attachments that were less safe and warm were significantly more likely to report suicide ideation, a pathway that was significantly mediated by present loneliness. Consistent with the interpersonal theory of suicide, the association between loneliness and suicide ideation was significantly mediated by less meaning in life and hope. Suicide ideation in adulthood may be prevented by promoting more secure attachments during childhood.
+C1 [Goodman, Michael L.; Gibson, Derrick; Vo, Thiennga T.; Wang, Aaron] Univ Texas Med Branch, Dept Internal Med, 301 Univ Blvd, Galveston, TX 77555 USA.
+   [Gitari, Stanley] Maua Methodist Hosp, Community Hlth Dept, Maua, Meru County, Kenya.
+   [Raimer, Ben] Univ Texas Med Branch, Off Hlth Policy & Legislat Affairs, 301 Univ Blvd, Galveston, TX 77555 USA.
+C3 University of Texas System; University of Texas Medical Branch
+   Galveston; University of Texas System; University of Texas Medical
+   Branch Galveston
+RP Goodman, ML (corresponding author), Univ Texas Med Branch, Dept Internal Med, 301 Univ Blvd, Galveston, TX 77555 USA.
+EM migoodma@utmb.edu
+OI Gibson, Derrick/0000-0001-6355-9432
+FU University of Texas Medical Branch
+FX This project was funded by the University of Texas Medical Branch.
+NR 76
+TC 3
+Z9 3
+U1 0
+U2 15
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1040-2608
+J9 ADV LIFE COURSE RES
+JI Adv. Life Course Res.
+PD MAR
+PY 2018
+VL 35
+BP 126
+EP 134
+DI 10.1016/j.alcr.2018.02.001
+PG 9
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA GC8FV
+UT WOS:000430029400012
+DA 2023-12-06
+ER
+
+PT J
+AU Seff, I
+   Stark, L
+AF Seff, Ilana
+   Stark, Lindsay
+TI A sex-disaggregated analysis of how emotional violence relates to
+   suicide ideation in low- and middle-income countries
+SO CHILD ABUSE & NEGLECT
+LA English
+DT Article
+DE Emotional violence; Violence against children; LMICs; Adolescents;
+   Suicide
+ID CHILD MALTREATMENT; GENDER DIFFERENCES; MENTAL-HEALTH; ADOLESCENCE;
+   BEHAVIOR; RISK; DEPRIVATION; PARADOX; IMPACT; ABUSE
+AB Background: In recent years, research has increasingly focused on examining the relationship between one type of child maltreatment emotional violence and suicidal behaviors. However, the growing body of empirical evidence supporting these associations has been mostly limited to high-income contexts.
+   Objective: This study examines how exposure to emotional violence is associated with suicide ideation in childhood and adolescence in low- and middle-income countries (LMICs), and whether this association differs by sex.
+   Participants and setting: We employ nationally representative samples of 13-24 year-old males and females from the Violence Against Children Surveys in Tanzania (conducted in 2009), Kenya (2010), and Haiti (2012).
+   Methods: We use logistic regressions to estimate the odds of ever reporting suicide ideation, separately, for each country; models control for self-reported exposure to emotional violence, physical violence from a caregiver, physical violence by an adult in the community, sexual violence, intimate partner violence, and age. Formal moderation by sex for each form of child maltreatment is tested using interaction terms.
+   Results: We find the odds of suicide ideation are consistently and significantly greater for adolescents who report ever exposure to emotional violence. This same consistency is not observed for any other form of maltreatment across countries. The size of the relationship between emotional violence and suicide ideation is statistically significantly larger for males in Kenya only.
+   Conclusion: Research in LMICs should explore the mediating factors linking emotional abuse in childhood and adolescence to suicide ideation in adolescence, paying special attention to whether these pathways might operate differently by sex.
+C1 [Seff, Ilana] Columbia Univ, Mailman Sch Publ Hlth, Dept Populat & Family Hlth, 60 Haven Ave B-4 Suite 432, New York, NY 10032 USA.
+   [Stark, Lindsay] Washington Univ, George Warren Brown Sch, 1 Brookings Dr, St Louis, MO 63130 USA.
+C3 Columbia University; Washington University (WUSTL)
+RP Seff, I (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Heilbrunn Dept Populat & Family Hlth, 60 Haven Ave,B3, New York, NY 10032 USA.
+EM Ijs2120@cumc.columbia.edu
+OI Seff, Ilana/0000-0002-2569-995X
+NR 29
+TC 22
+Z9 22
+U1 1
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0145-2134
+EI 1873-7757
+J9 CHILD ABUSE NEGLECT
+JI Child Abuse Negl.
+PD JUL
+PY 2019
+VL 93
+BP 222
+EP 227
+DI 10.1016/j.chiabu.2019.05.008
+PG 6
+WC Family Studies; Psychology, Social; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Psychology; Social Work
+GA IF5LW
+UT WOS:000473123300022
+PM 31125852
+DA 2023-12-06
+ER
+
+PT J
+AU Ongeri, L
+   McCulloch, CE
+   Neylan, TC
+   Bukusi, E
+   Macfarlane, SB
+   Othieno, C
+   Ngugi, AK
+   Meffert, SM
+AF Ongeri, L.
+   McCulloch, C. E.
+   Neylan, T. C.
+   Bukusi, E.
+   Macfarlane, S. B.
+   Othieno, C.
+   Ngugi, A. K.
+   Meffert, S. M.
+TI Suicidality and associated risk factors in outpatients attending a
+   general medical facility in rural Kenya
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Suicidal ideation; Depression; Posttraumatic stress disorder
+   (PTSD); Global mental health; Sub-Saharan Africa
+ID RANDOMIZED CONTROLLED-TRIAL; WORLD-MENTAL-HEALTH; GROUP INTERPERSONAL
+   PSYCHOTHERAPY; POSTTRAUMATIC-STRESS-DISORDER; CHRONIC PHYSICAL
+   CONDITIONS; MIDDLE-INCOME COUNTRIES; PRIMARY-CARE; NORTHERN UGANDA;
+   MARITAL-STATUS; UNITED-STATES
+AB Background: Low-and-Middle-Income-Countries (LMICs) account for 75% of global suicides. While primary care populations in high-income countries (HIC) typically have higher prevalence of suicidal behavior relative to general populations, few studies have explored suicidal behavior among general medical outpatients in LMICs. This study addresses the research gap by characterizing potential risk factors for suicidal ideation in a large general medical outpatient setting in rural Kenya.
+   Methods: A cross-sectional study of adult general medical outpatients attending a rural sub-county hospital in Kaloleni, Kenya. Primary outcomes included major depressive disorder (MDD), posttraumatic stress disorder (PTSD) and suicidal behavior measured by the Mini International Neuropsychiatric Interview (MINI 5.0). We use binary logistic regression to model suicidality, mental disorders, intimate partner violence, and lifetime abuse.
+   Results: 394 outpatients completed the assessment. The prevalence of SI over the past month was 20%. 18% of those with suicidal ideation over the past month also attempted suicide in the past month. Participants who met criteria for MDD (suicidality item removed) were 19 times [CI: 4.56, 79.05] more likely to report suicidal ideation compared to those without MDD (adjusted odds ratio 12.15 [CI: 2.66, 55.49]).
+   Limitations: This was a cross sectional study design with convenience sampling and hence vulnerable to selection and recall bias.
+   Conclusion: The prevalence of SI and its strong association with actual suicide attempt in this population, make an urgent public health case for intervention. These data identify MDD as a highly significant correlate of SI.
+C1 [Ongeri, L.] Kenya Govt Med Res Ctr, Ctr Clin Res, Nairobi, Kenya.
+   [McCulloch, C. E.] Univ Calif San Francisco, Dept Epidemiol & Biostat, San Francisco, CA 94143 USA.
+   [Ongeri, L.; McCulloch, C. E.; Neylan, T. C.; Bukusi, E.; Macfarlane, S. B.; Othieno, C.; Ngugi, A. K.; Meffert, S. M.] Kenya Govt Med Res Ctr, Ctr Microbiol Res, Nairobi, Kenya.
+   [Bukusi, E.] Univ Calif San Francisco, Global Hlth Sci, San Francisco, CA 94143 USA.
+   [Macfarlane, S. B.] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+   [Othieno, C.] Aga Khan Univ, Fac Hlth Sci East Africa, Ctr Populat Hlth Sci, Nairobi, Kenya.
+   [Neylan, T. C.; Ngugi, A. K.; Meffert, S. M.] UCSF, Dept Psychiat, San Francisco, CA USA.
+C3 Kenya Medical Research Institute; University of California System;
+   University of California San Francisco; Kenya Medical Research
+   Institute; University of California System; University of California San
+   Francisco; University of Nairobi; Aga Khan University; University of
+   California System; University of California San Francisco
+RP Ongeri, L (corresponding author), Kenya Govt Med Res Ctr, Ctr Clin Res, Nairobi, Kenya.
+EM linongeri@gmail.com
+OI Ngugi, Anthony/0000-0001-5415-8717
+FU UCSF-GloCal Health Research Fellowship through a Fogarty Grant; NIH
+   Research Training Grant - Fogarty International Center [R25 TW009343];
+   National Institute of Mental Health; University of California Global
+   Health Institute (UCGHI)
+FX This work was supported by UCSF-GloCal Health Research Fellowship
+   through a Fogarty Grant. The funders played no role in the writing
+   process and did not influence the decision to publish. This project was
+   supported by NIH Research Training Grant # R25 TW009343 funded by the
+   Fogarty International Center and the National Institute of Mental
+   Health, as well as the University of California Global Health Institute
+   (UCGHI). The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of the NIH or UCGHI.
+NR 58
+TC 15
+Z9 15
+U1 1
+U2 10
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD JAN 1
+PY 2018
+VL 225
+BP 413
+EP 421
+DI 10.1016/j.jad.2017.08.059
+PG 9
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA FK3SF
+UT WOS:000413405700060
+PM 28850856
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Krause, V
+   Otenyo, EE
+AF Krause, Volker
+   Otenyo, Eric E.
+TI Terrorism and the Kenyan Public
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+AB Since 11 September 2001, terrorism has been a global security threat. One of the partners in the war on terrorism is Kenya. Considering Kenya's recent experience with terrorist acts, their effects on its public psyche, and Kenya's reactions to them in domestic and foreign policies, this study presents perceptions on terrorism from an exploratory survey in Kenya. Respondents feel most threatened not by terrorism but by AIDS and local criminals. Among terrorist acts, the most threatening include suicide terrorism, a plane crash, and stabbing attacks. Media reports on terrorism not only intensify feelings of anxiety and helplessness but also strengthen feelings for both peaceful and revengeful reactions. In order to prevent terrorist attacks, routine security checks, recognizing a Palestinian right to statehood, and intelligence collaboration with the CIA and Mosad are considered the most effective measures. Kenya's commitment to the war on terrorism may be less a response to Kenyans' perceptions of terrorist threats than a policy to support the United States against terrorists in exchange for U. S. support against AIDS and for political stability, democracy, pluralism, and economic development.
+C1 [Krause, Volker] No Arizona Univ, Dept Polit Sci, Flagstaff, AZ 86011 USA.
+   [Otenyo, Eric E.] Illinois State Univ, Normal, IL 61761 USA.
+C3 Northern Arizona University; Illinois State University
+RP Krause, V (corresponding author), No Arizona Univ, Dept Polit Sci, POB 15036, Flagstaff, AZ 86011 USA.
+EM Volker.Krause@NAU.EDU
+NR 19
+TC 8
+Z9 8
+U1 1
+U2 4
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2005
+VL 28
+IS 2
+BP 99
+EP 112
+DI 10.1080/10576100590905075
+PG 14
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA V22RC
+UT WOS:000208291300002
+DA 2023-12-06
+ER
+
+PT J
+AU Maina, R
+   Bukusi, D
+   Kumar, M
+AF Maina, Rachel
+   Bukusi, David
+   Kumar, Manasi
+TI Suicide prevention by emergency nurses: perceived self-efficacy in
+   assessment, management and referral at Kenyatta National Hospital in
+   Kenya
+SO ANNALS OF GENERAL PSYCHIATRY
+LA English
+DT Article
+DE Suicide risk assessment; Suicide self-efficacy; Accident and Emergency
+   Nurses; Suicide risk management; Suicide risk referral
+ID DEPARTMENT PROVIDERS; RISK; CARE; HEALTH
+AB Background Emergency Departments are underutilized settings for suicide prevention and management as patients with occult (camouflaged) suicides and suicidal ideation are rarely screened by nurses and other health workers in these sites. The under-detection rates could be a result of lack of suicide assessment and management confidence among the hospital staff. The aim of the study was to find out the perceived self-efficacy in suicide risk assessment, management and referral among nurses working in an emergency department within a lower income country. Method The Risk Assessment and Management Self-Efficacy Scale (RAMSES) was administered among nurses in an emergency department (ED) within an urban region in a descriptive study. The risk assessment, management and referral domains among 64 respondents were evaluated using mean and standard deviation calculations in SPSS v 21. Results The total RAMSES composite score in risk assessment, management and referral was 6.19 (SD 2.107) with risk assessment having the lowest mean score of 6.09 (SD 2.08), while risk referral process mean score was the highest at 6.55 (SD 2.36). The nurses had the least confidence in developing a written risk management plan 5.68 (SD 2.51) as well as using screening instruments to assess risk 5.90 (SD 2.15). Findings Nurses in emergency department have below average self-efficacy in suicide assessment and management necessitating training as well as integration of protocols that could enhance effective utilization of emergency departments as suicide prevention and management settings.
+C1 [Maina, Rachel] Univ Nairobi, Nairobi 1083400400, Kenya.
+   [Maina, Rachel] Tilburg Univ, Tilburg, Netherlands.
+   [Bukusi, David] KNH, VCT & HIV Prevent Youth Ctr, Nairobi, Kenya.
+   [Kumar, Manasi] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+C3 University of Nairobi; Tilburg University; University of Nairobi
+RP Maina, R (corresponding author), Univ Nairobi, Nairobi 1083400400, Kenya.
+EM maina.rachel@gmail.com
+RI Kumar, Manasi/AAI-9488-2020
+OI Kumar, Manasi/0000-0002-9773-8014; Maina, Rachel/0000-0002-6038-1357
+FU Kenyatta National Hospital's Research and Programs Department
+   [KNH/RP/23E/52/5/11]
+FX The study was support by Kenyatta National Hospital's Research and
+   Programs Department under award No. KNH/R&P/23E/52/5/11. The results do
+   not in any way reflect the interests of the funding institution.
+NR 22
+TC 4
+Z9 10
+U1 0
+U2 6
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1744-859X
+J9 ANN GEN PSYCHIATR
+JI Ann. Gen. Psychiatr.
+PD AUG 27
+PY 2019
+VL 18
+IS 1
+AR 16
+DI 10.1186/s12991-019-0240-8
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IU4NP
+UT WOS:000483564200001
+PM 31462903
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Jenkins, R
+   Othieno, C
+   Omollo, R
+   Ongeri, L
+   Sifuna, P
+   Ongecha, M
+   Mboroki, JK
+   Kiima, D
+   Ogutu, B
+AF Jenkins, Rachel
+   Othieno, Caleb
+   Omollo, Ray
+   Ongeri, Linnet
+   Sifuna, Peter
+   Ongecha, Michael
+   Mboroki, James Kingora
+   Kiima, David
+   Ogutu, Bernhards
+TI Tedium vitae, death wishes, suicidal ideation and attempts in
+   Kenya-prevalence and risk factors
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID COMMON MENTAL-DISORDERS; PSYCHIATRIC MORBIDITY SURVEYS; HEALTH-WORKERS;
+   PRIMARY-CARE; PSYCHOTIC SYMPTOMS; TRAINING-PROGRAM; GREAT-BRITAIN;
+   UNITED-STATES; SELF-HARM; COMMUNITY
+AB Background: There has been no previous household population study of suicidal ideation and attempts in Kenya. Therefore this study aimed to establish the prevalence of suicidal ideation and attempts in a rural population in Kenya, and to assess risk factors.
+   Methods: An epidemiological survey of a household population, using standardised structured interviews. We examined the prevalence of suicidal ideation and suicide attempts and the predictors of suicidal thoughts and attempts, using STATA to calculate unadjusted and adjusted odds ratios.
+   Results: A quarter of the sample (24.1 %) had thought that life was not worth living (tedium vitae) at some point in their lives, while a fifth had experienced death wishes at some stage. About 7.9 % reported suicidal thoughts and 1.9 % had made actual suicide attempts at some point in their lives. It can be seen that the prevalence of suicidal thoughts was 0.7 %, 4.2 %, 3.7 % and 7.9 % for last week, last year, at some other time, and lifetime respectively, while the prevalence of suicidal attempts was 0.5 %, 1.2 %, 0.7 and 1.9 % respectively.
+   In the adjusted analysis of factors associated with suicidal thoughts, being female (OR 1.8, p = 0.017), having CMD (OR 2.7, p = 0.001), having a number of recent life events (OR 2.3, p = 0.001 for 2-3 life events and OR 2.6, p = 0.004 for 4 or more life events), and having a large social group size (OR 7.7, p = 0.006 for social group size of 4-8 and OR 9.1, p = 0.003 for social group size of 9 or more) were all associated with increased rates of life time suicidal thoughts, but psychotic symptoms were no longer significant after adjustment for the other variables. In the adjusted analysis of suicide attempts, having any psychotic symptoms (OR 5.1, p = 0.001) was the only factor associated with suicide attempts after adjustment for other factors significant at the bivariate level.
+   Conclusion: Suicidal ideation and attempts pose a significant public health burden in this poor rural area of Kenya. The findings are relevant for mental health promotion and prevention programmes, public education and professional training programmes in relevant sectors, especially in front line health workers and social workers.
+C1 [Jenkins, Rachel] Kings Coll London, Inst Psychiat, London, England.
+   [Othieno, Caleb] Univ Nairobi, Nairobi, Kenya.
+   [Omollo, Ray; Ongeri, Linnet; Ogutu, Bernhards] Kenya Govt Med Res Ctr, Ctr Clin Res, Nairobi, Kenya.
+   [Sifuna, Peter] Kombewa Hlth & Demog Surveillance Syst, Kombewa, Kenya.
+   [Ongecha, Michael] Kenya Govt Med Res Ctr, Ctr Global Hlth, Kisumu, Kenya.
+   [Mboroki, James Kingora] Kenya Med Training Ctr, Nairobi, Kenya.
+   [Kiima, David] Kenya Minist Med Serv, Nairobi, Kenya.
+C3 University of London; King's College London; University of Nairobi;
+   Kenya Medical Research Institute; Kenya Medical Research Institute
+RP Jenkins, R (corresponding author), Kings Coll London, Inst Psychiat, London, England.
+EM Rachel@olan.org
+RI Othieno, Caleb Joseph/HJI-6979-2023; Othieno, Caleb/ABB-4296-2020;
+   Jenkins, Rachel/H-2953-2019
+OI Othieno, Caleb Joseph/0000-0002-3646-7708; Jenkins,
+   Rachel/0000-0002-2958-0331; Ong'echa, John/0000-0003-3928-6774
+FU UK Department for International Development; Nuffield Foundation
+FX Howard Meltzer, Leicester University played a key role in the sampling
+   design and overall planning of the study until his illness and untimely
+   death. We are grateful to the UK Department for International
+   Development for funding the research reported here. We are also grateful
+   to the Nuffield Foundation for a timely travel grant to enable LO to
+   visit Kisumu to assist the later stages of the project, to the Kombewa
+   HDSS for access to the demographic and health surveillance site, to the
+   KEMRI laboratory at Kisian for malaria and cytokine assays, to the
+   research assistants and field managers, and last but not least to the
+   people who willingly gave their time to participate in the study.
+NR 65
+TC 30
+Z9 32
+U1 0
+U2 2
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD AUG 8
+PY 2015
+VL 15
+AR 759
+DI 10.1186/s12889-015-2089-3
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CO5MN
+UT WOS:000359203300001
+PM 26253319
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Goodman, ML
+   Serag, H
+   Keiser, PK
+   Gitari, S
+   Raimer, BG
+AF Goodman, M. L.
+   Serag, H.
+   Keiser, P. K.
+   Gitari, S.
+   Raimer, B. G.
+TI Relative social standing and suicide ideation among Kenyan males: the
+   interpersonal theory of suicide in context
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Suicide ideation; Subjective social standing; Kenya; Young men;
+   Self-esteem
+ID EMOTIONAL LONELINESS SCALE; COLLECTIVE SELF-ESTEEM; LIFE QUESTIONNAIRE;
+   LANGUAGE VERSION; MENTAL-HEALTH; PRIMARY-CARE; RISK-FACTORS; INCOME;
+   HOPE; PREVALENCE
+AB Purpose The purpose of this study is to investigate the association between subjective social status and suicide ideation in a sample of young Kenyan men (age 18-34 years). Situating insights from the interpersonal theory of suicide within social determinants of health framework, we consider whether lower subjective social status predicts lower collective self-esteem (CSE), hopelessness, less meaning in life and more loneliness, and whether these characteristics mediate associations between subjective social status and suicide ideation.
+   Method A community-based, semi-rural sample (n = 532) of young men, aged 18-34 years, was collected using a standardized questionnaire. The survey questionnaire included the following validated scale items: the short form of the Social and Emotional Loneliness Scale for Adults, CSE, Herth Hope Index, the Meaning in Life Questionnaire, and the Modified Scale for Suicide Ideation. Regression and mediation analyses were used to test hypotheses.
+   Results Nearly 12% of respondents reported suicide ideation. Suicide ideation was significantly more common among survey respondents who reported lower subjective social standing. In the first of two mediation models, we found that lower CSE and more loneliness mediate the association between lower subjective social status and suicide ideation. In the second model, we found that respondents with lower CSE and more loneliness expressed lower hope and meaning in life, which also mediated pathways to suicide ideation.
+   Conclusions Findings show a novel synthesis of social determinants literature with the interpersonal theory of suicide. Suicide ideation, along with other mental and social outcomes, may figure more prominently than previously appreciated in the benefits of socio-economic equality. Those who do not participate equally in socio-economic development may be at greater risk of engaging in suicide ideation and behaviors. Suicide prevention research and programmatic responses should adopt a health equity perspective to ensure that prevention is targeted where people are more likely to engage in suicide ideation.
+C1 [Goodman, M. L.; Serag, H.; Keiser, P. K.; Raimer, B. G.] Univ Texas Med Branch, 301 Univ Blvd 4-314c Marvin Graves, Galveston, TX 77555 USA.
+   [Gitari, S.] Maua Methodist Hosp, Meru Cty, Kenya.
+C3 University of Texas System; University of Texas Medical Branch Galveston
+RP Goodman, ML (corresponding author), Univ Texas Med Branch, 301 Univ Blvd 4-314c Marvin Graves, Galveston, TX 77555 USA.
+EM migoodma@utmb.edu
+OI Goodman, Michael/0000-0003-1779-4698; Serag, Hani/0000-0003-0014-2685
+NR 55
+TC 9
+Z9 10
+U1 1
+U2 9
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD OCT
+PY 2017
+VL 52
+IS 10
+BP 1307
+EP 1316
+DI 10.1007/s00127-017-1427-4
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FJ2IH
+UT WOS:000412548200010
+PM 28821916
+DA 2023-12-06
+ER
+
+PT J
+AU Musyimi, CW
+   Mutiso, VN
+   Nayak, SS
+   Ndetei, DM
+   Henderson, DC
+   Bunders, J
+AF Musyimi, Christine W.
+   Mutiso, Victoria N.
+   Nayak, Sameera S.
+   Ndetei, David M.
+   Henderson, David C.
+   Bunders, Joske
+TI Quality of life of depressed and suicidal patients seeking services from
+   traditional and faith healers in rural Kenya
+SO HEALTH AND QUALITY OF LIFE OUTCOMES
+LA English
+DT Article
+DE Kenya; Traditional healer; Faith healer; Depression; Suicide; Quality of
+   life
+ID MENTAL-HEALTH; WHOQOL-BREF; MARITAL-STATUS; PRIMARY-CARE; PSYCHOMETRIC
+   PROPERTIES; BECK SCALE; IDEATION; DISORDERS; VALIDITY; PAIN
+AB Background: In rural Kenya, traditional and faith healers provide an alternative pathway to health care, including mental health care. However, not much is known about the characteristics of the populations they serve. The purpose of this study was to determine the relationship between depression, suicidal ideation, and socio-demographic variables with Quality of Life (QoL) indicators in a sample seeking mental health services from traditional and faith healers in rural Kenya. Understanding QoL in this sample can help develop mental health policy and training to improve the well-being of this population.
+   Method: This was a cross-sectional epidemiological survey (n = 443) conducted over a period of 3 months among adult patients seeking care from traditional and faith healers in rural Kenya. Data were collected using the Beck Depression Inventory II (BDI-II), Beck Scale for Suicide Ideation (BSS) and WHO Quality of Life Survey-BREF (WHOQOL-BREF), and analyzed using correlation analyses, parametric tests, and regression analyses.
+   Results: Increasing levels of depression were associated with lower QoL among patients seeking care from traditional and faith healers. BSS scores were significantly negatively correlated with overall, physical, psychological, and environmental QoL, p <.05. There was a statistically significant difference between mean scores for overall QoL between depressed (M = 2.35, SD = 0.76) and non-depressed participants (M = 3.03, SD = 0.67), t(441) = 8.899, p <.001. Overall life satisfaction for depressed participants (M = 2.23, SD = 0.69) was significantly lower than non-depressed participants. Regression analyses indicated that depression, suicidal ideation, and being married predicted lower overall QoL controlling for other variables. Post hoc tests and subgroup analysis by gender revealed significant differences for females only. Depression, and older age predicted lower life satisfaction whereas being self-employed predicted higher life satisfaction, when controlling for other variables.
+   Conclusion: This study sheds light on correlates of QoL in depressed and non-depressed patients in rural Kenya. Evidence suggests that traditional and faith healers treat patients with a variety of QoL issues. Further research should focus on understanding how these issues tie into QoL, and how these healers can target these to improve care.
+C1 [Musyimi, Christine W.; Mutiso, Victoria N.; Ndetei, David M.] Africa Mental Hlth Fdn, Nairobi, Kenya.
+   [Musyimi, Christine W.; Bunders, Joske] Vrije Univ Amsterdam, Amsterdam, Netherlands.
+   [Nayak, Sameera S.] Columbia Univ, New York, NY USA.
+   [Ndetei, David M.] Univ Nairobi, Nairobi, Kenya.
+   [Henderson, David C.] Boston Univ, Sch Med, Boston, MA 02118 USA.
+   [Henderson, David C.] Harvard Med Sch, Boston, MA USA.
+C3 Vrije Universiteit Amsterdam; Columbia University; University of
+   Nairobi; Boston University; Harvard University; Harvard Medical School
+RP Ndetei, DM (corresponding author), Africa Mental Hlth Fdn, Nairobi, Kenya.; Ndetei, DM (corresponding author), Univ Nairobi, Nairobi, Kenya.
+EM dmndetei@amhf.or.ke
+RI Nayak, Sameera Shukanta/ADL-6442-2022
+OI Nayak, Sameera Shukanta/0000-0002-1060-0697; Mutiso,
+   Victoria/0000-0002-8395-6707
+FU Grand Challenges Canada (GCC) [S5_0415-01]; Grand Challenges Canada
+   (GCC) [S5_0415-01]
+FX This work was supported by Grand Challenges Canada (GCC) (grant number
+   S5_0415-01).
+NR 68
+TC 16
+Z9 16
+U1 0
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1477-7525
+J9 HEALTH QUAL LIFE OUT
+JI Health Qual. Life Outcomes
+PD MAY 8
+PY 2017
+VL 15
+AR 95
+DI 10.1186/s12955-017-0657-1
+PG 10
+WC Health Care Sciences & Services; Health Policy & Services
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services
+GA EV7HP
+UT WOS:000401946800001
+PM 28482849
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Aillon, JL
+   Ndetei, DM
+   Khasakhala, L
+   Ngari, WN
+   Achola, HO
+   Akinyi, S
+   Ribero, S
+AF Aillon, Jean-Louis
+   Ndetei, David M.
+   Khasakhala, Lincoln
+   Ngari, Washington Njogu
+   Achola, Hesbon Otieno
+   Akinyi, Selestine
+   Ribero, Simone
+TI Prevalence, types and comorbidity of mental disorders in a Kenyan
+   primary health centre
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Mental disorders prevalence; Suicide; Comorbidity; Primary care; Africa
+ID CULTURE-BOUND SYNDROME; PRIMARY-CARE; ANOREXIA-NERVOSA;
+   PSYCHIATRIC-DISORDERS; LOW-INCOME; DEPRESSION; SOMATIZATION; VALIDATION;
+   NIGERIA; ANXIETY
+AB To estimate the prevalence, types and comorbidity of the most common mental disorders and the spread of suicide risk in a primary care practice in Kenya.
+   This was a cross-sectional descriptive study. A total of 300 adult outpatients were randomly selected while they were consulting their general practitioner. The M.I.N.I. Plus interview five was used to diagnose psychiatric disorders and suicide risk.
+   Thus, 56.3 % of the sample (n = 169) presented one or more psychiatric disorders. The most prevalent disorders were Affective (39.0 %), Anxiety (31.3 %), and Somatoform (13.0 %). Regarding specific disorders, the most common were Major Depressive Disorder (26.3 %), Agoraphobia (16.7 %), Pain Disorder (12.5 %), Generalized Anxiety Disorder (9.3 %) and Bipolar Disorder (9 %). We found three cases of Bulimia Nervosa (1 %); 29.7 % had more than one current mental disorder. Suicide risk was present in 12.7 % of participants. No associations were identified between socio-demographic factors and the presence of mental disorder. Suicide risk was higher in women and in patients who came from slum areas. Gastric pain was positively associated with presence of mental disorder.
+   High prevalence of mental disorders and suicide risk calls for integrating mental health services in primary health care; in particular, this study highlights the importance of differentiating between specific types of mental disorders (which require different therapeutic approaches), and of diagnosing comorbidities.
+C1 [Aillon, Jean-Louis] SAIGA Sch Individual Psychol Psychotherapists, I-10123 Turin, Italy.
+   [Ndetei, David M.] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+   [Ndetei, David M.; Khasakhala, Lincoln] AMHF, Nairobi 00100, Gpo, Kenya.
+   [Ngari, Washington Njogu] Ruaraka Uhai Neema Hosp, Nairobi, Kenya.
+   [Achola, Hesbon Otieno; Akinyi, Selestine] Amici Mondo World Friends Onlus NGO, Nairobi, Kenya.
+   [Ribero, Simone] Azienda Osped Univ San Giovanni Battista Torino, Turin, Italy.
+C3 University of Nairobi; University of Turin; A.O.U. Citta della Salute e
+   della Scienza di Torino; AOU San Giovanni Battista-Molinette
+RP Aillon, JL (corresponding author), SAIGA Sch Individual Psychol Psychotherapists, Via Principe Amedeo 16, I-10123 Turin, Italy.
+EM jean.aillon@gmail.com
+OI ribero, simone/0000-0002-0098-1406
+FU African Mental Health Foundation; European Social Fund; Regione Autonoma
+   Valle d'Aosta; Italian Ministry of Employment and Social Policies
+FX This study has been accomplished with the support of the African Mental
+   Health Foundation, the European Social Fund, Regione Autonoma Valle
+   d'Aosta and the Italian Ministry of Employment and Social Policies. The
+   authors would like to thank Elena Dal Santo for the support with the
+   English translation, Federico Gobbi for inspiring the project,
+   Gianfranco Morino, Joseph J. Cagni, Gabriele Beacco and Grace Mutevu for
+   the support in the organization of the study and throughout the data
+   collection process. We furthermore thank all the staff of African Mental
+   Health Foundation, Ruaraka Uhai Neema hospital and World Friends - Amici
+   del Mondo for the collaboration throughout the research.
+NR 50
+TC 33
+Z9 34
+U1 0
+U2 18
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD AUG
+PY 2014
+VL 49
+IS 8
+BP 1257
+EP 1268
+DI 10.1007/s00127-013-0755-2
+PG 12
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AM5JS
+UT WOS:000339894400009
+PM 23959589
+DA 2023-12-06
+ER
+
+PT J
+AU Khasakhala, LI
+   Ndetei, DM
+   Mathai, M
+AF Khasakhala, Lincoln I.
+   Ndetei, David M.
+   Mathai, Muthoni
+TI Suicidal behaviour among youths associated with psychopathology in both
+   parents and youths attending outpatient psychiatric clinic in Kenya
+SO ANNALS OF GENERAL PSYCHIATRY
+LA English
+DT Article
+DE Suicidal behaviour; Psychiatric disorders; Youth; Parents; Outpatient;
+   Kenya
+ID NEUROPSYCHIATRIC INTERVIEW MINI; ADOLESCENT SUICIDE; MENTAL-DISORDERS;
+   DUAL DIAGNOSIS; FAMILY DISCORD; DEPRESSION; RISK; PREVALENCE; ALCOHOL;
+   COMORBIDITY
+AB Background: Suicide is a major cause of death among youths particularly with psychiatric, alcohol abuse and substance abuse disorders. There are relatively few studies on the relationship between psychiatric and substance abuse disorders with suicidal behaviour from low-income countries. This study examines the relationship between suicidal behaviour and co-existing psychiatric or substance disorders among youths and depressive and alcohol use disorders in their parents.
+   Method: The study sample had 678 respondents: 250 youths and 226 and 202 biological mothers and fathers, respectively.
+   Results: This study found a significant statistical association between depressive (p < 0.001), alcohol abuse (p < 0.001) and substance abuse (p < 0.001) disorders and suicidal behaviour in youths. There was a significant relationship between maternal depressive disorder (p < 0.001) and perceived maternal rejecting parenting behaviour (p < 0.001) with suicidal behaviour in youths. There was a greater odds of a youth with two to three (odds ratio (OR) = 3.63; p = 0.009) and four or more (OR = 8.23; p < 0.001) co-existing psychiatric disorders to have suicidal behaviour than a youth with only one psychiatric disorder. The results also indicate that a higher proportion of youths between ages 16-18 years had suicidal behaviour than youths below 16 years or above 18 years of age (p = 0.004).
+   Conclusion: These findings suggest that youths with psychiatric and substance abuse disorders have mothers living with a depressive disorder. Also, perceived maternal rejecting parenting behaviour contributes significantly to the development of suicidal behaviour later in adolescent years.
+C1 [Khasakhala, Lincoln I.; Ndetei, David M.; Mathai, Muthoni] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+   [Khasakhala, Lincoln I.; Ndetei, David M.] AMHF, Nairobi 00200, Kenya.
+C3 University of Nairobi
+RP Khasakhala, LI (corresponding author), Univ Nairobi, Dept Psychiat, POB 30197, Nairobi, Kenya.
+EM khaimbugwa@gmail.com
+NR 42
+TC 15
+Z9 15
+U1 0
+U2 8
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1744-859X
+J9 ANN GEN PSYCHIATR
+JI Ann. Gen. Psychiatr.
+PD APR 27
+PY 2013
+VL 12
+AR 13
+DI 10.1186/1744-859X-12-13
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 188HL
+UT WOS:000322183400001
+PM 23622559
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Bitta, MA
+   Kariuki, SM
+   Gona, J
+   Abubakar, A
+   Newton, CRJC
+AF Bitta, Mary A.
+   Kariuki, Symon M.
+   Gona, Joseph
+   Abubakar, Amina
+   Newton, Charles R. J. C.
+TI Priority mental, neurological and substance use disorders in rural
+   Kenya: Traditional health practitioners' and primary health care
+   workers' perspectives
+SO PLOS ONE
+LA English
+DT Article
+ID EPILEPSY; HEALERS; PEOPLE; PROVISION; CHILDREN; AFRICA; BURDEN
+AB Background
+   Over 75% of people with mental neurological and substance use disorders (MNSD) live in low and middle-income countries with limited access to specialized care. The World Health Organization's Mental Health Gap Action Program (mhGAP) aims to address the human resource gap but it requires contextualization.
+   Aims
+   We conducted a qualitative study in rural coastal Kenya to explore the local terms, perceived causes and management modalities of priority MNSD listed in the mhGAP, to inform implementation in this setting.
+   Methods
+   We conducted 8 focus group discussions with primary health care providers and traditional health practitioners and used the framework method to conduct thematic analysis. We identified local terms, perceived causes and treatment options for MNSD. We also explored possibilities for collaboration between the traditional health practitioners and primary health care providers. Results We found local terms for depression, psychoses, epilepsy, disorders due to substance use and self-harm/suicide but none for dementia. Child and adolescent mental and behavioral problems were not regarded as MNSD but consequences of poor parenting. Self-harm/suicide was recognized in the context of other MNSD. Causes of MNSD were broadly either biological or supernatural. Treatment options were dependent on perceived cause of illness. Most traditional health practitioners were willing to collaborate with primary health care providers mainly through referring cases. Primary health care providers were unwilling to collaborate with traditional health practitioners because they perceived them to contribute to worsening of patients' prognoses.
+   Conclusions
+   Local terms and management modalities are available for some priority MNSD in this setting. Community level case detection and referral may be hindered by lack of collaboration between traditional health practitioners and primary health care providers. There is need for training on the recognition and management of all priority MNSD.
+C1 [Bitta, Mary A.; Kariuki, Symon M.; Gona, Joseph; Abubakar, Amina; Newton, Charles R. J. C.] Ctr Geog Med Res Coast, Trop Neurosci, KEMRI Wellcome Trust Res Programme, Kilifi, Kenya.
+   [Bitta, Mary A.; Kariuki, Symon M.; Newton, Charles R. J. C.] Univ Oxford, Dept Psychiat, Oxford, England.
+   [Abubakar, Amina] Aga Khan Univ, Nairobi, Kenya.
+C3 University of Oxford; Aga Khan University
+RP Bitta, MA (corresponding author), Ctr Geog Med Res Coast, Trop Neurosci, KEMRI Wellcome Trust Res Programme, Kilifi, Kenya.; Bitta, MA (corresponding author), Univ Oxford, Dept Psychiat, Oxford, England.
+EM mbitta@kemri-wellcome.org
+RI bitta, mary/GVU-6500-2022; Abubakar, Amina/F-1479-2017
+OI bitta, mary/0000-0003-0258-9931; Kariuki, Symon/0000-0002-3934-5132;
+   Abubakar, Amina/0000-0002-3686-7904
+FU Wellcome Trust Public Engagement Fund [213763/Z/18/Z]; Wellcome Trust
+   [203077/Z/16/Z, 107769/Z/10/Z]; MQ Fellows' Award; Wellcome Trust
+   [213763/Z/18/Z] Funding Source: Wellcome Trust
+FX SK is supported by an MQ Fellows' Award. MB is supported by a Wellcome
+   Trust Public Engagement Fund number 213763/Z/18/Z and by Wellcome Trust
+   grants number 203077/Z/16/Z and 107769/Z/10/Z. The funders had no role
+   in study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 28
+TC 6
+Z9 6
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 23
+PY 2019
+VL 14
+IS 7
+AR e0220034
+DI 10.1371/journal.pone.0220034
+PG 19
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA IW4UP
+UT WOS:000484975500027
+PM 31335915
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Muriungi, SK
+   Ndetei, DM
+AF Muriungi, S. K.
+   Ndetei, D. M.
+TI Effectiveness of psycho-education on depression, hopelessness,
+   suicidality, anxiety and substance use among basic diploma students at
+   Kenya Medical Training College
+SO SOUTH AFRICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID COGNITIVE-BEHAVIORAL THERAPY; PSYCHOLOGICAL-PROBLEMS; USE DISORDERS;
+   ALCOHOL-USE; PSYCHOEDUCATION; PREVALENCE; SYMPTOMS; TRIAL
+AB Objective. To determine the effectiveness of psycho-education on symptom severity in depression, hopelessness, suicidality, anxiety and risk of substance abuse among para-medical students at Kenya Medical Training College (KMTC).
+   Methodology. A clinical trial drew experimental (N=1 181) and control (N=1 926) groups from different KMTC campuses. Self-administered questionnaires were used to collect data: the researcher-designed social demographic questionnaire was used at baseline only, while Beck's Depression Inventory, Beck's Hopelessness Scale, Beck's Suicide Ideation Scale, Beck's Anxiety Inventory and World Health Organization alcohol, smoking and substance involvement screening test (ASSIST) (for drug abuse) were used for baseline, mid-point and end-point assessments at 3-month intervals. The experimental group received a total of 16 hours of structured psycho-education. All study participants gave informed consent.
+   Results. Overall, there was no significant reduction in symptom severity between the experimental and control groups at 3 months (p>0.05) but there was a significant difference at 6 months (p<0.05).
+   Conclusion. Psycho-education was effective in reducing the severity of symptoms of depression, hopelessness, suicidality, anxiety and risk of substance abuse at 6 months.
+C1 [Muriungi, S. K.] Kenya Med Training Coll, Nairobi, Kenya.
+   [Muriungi, S. K.] Daystar Univ, Nairobi, Kenya.
+   [Ndetei, D. M.] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+   [Ndetei, D. M.] Africa Mental Hlth Fdn, Nairobi, Kenya.
+C3 Daystar University; University of Nairobi
+RP Muriungi, SK (corresponding author), Kenya Med Training Coll, Nairobi, Kenya.
+EM skagwi2004@yahoo.com
+NR 39
+TC 12
+Z9 14
+U1 0
+U2 21
+PU AOSIS
+PI CAPE TOWN
+PA POSTNET SUITE 55, PRIVATE BAG X22, TYGERVALLEY, CAPE TOWN, 00000, SOUTH
+   AFRICA
+SN 1608-9685
+J9 SAJP-S AFR J PSYCHI
+JI SAJP
+PD JUN
+PY 2013
+VL 19
+IS 2
+BP 41
+EP 50
+DI 10.7196/SAJP.401
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 205RG
+UT WOS:000323461700004
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ndetei, DM
+   Khasakhala, L
+   Meneghini, L
+   Aillon, JL
+AF Ndetei, D. M.
+   Khasakhala, L.
+   Meneghini, L.
+   Aillon, J. L.
+TI The relationship between schizo-affective, schizophrenic and mood
+   disorders in patients admitted at Mathari Psychiatric Hospital, Nairobi,
+   Kenya
+SO AFRICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Schizoaffective Disorder; Schizophrenia; Mood disorders; Epidemiology;
+   Africa
+ID SCHIZOAFFECTIVE DISORDER; DIAGNOSIS; FEATURES; DEPRESSION; PREVALENCE;
+   ANXIETY
+AB Objective: The prevalence of schizoaffective disorder (SAD) and the relationship between schizophrenia (SCZ), SAD and mood disorders (MD) in non-Western countries is unknown. To determine the prevalence of SAD and the relationship between SCZ, SAD and MD in relation to socio-demographic, clinical and therapeutic variables in 691 patients admitted at Mathari Psychiatric Hospital, Kenya. Method: A cross-sectional comparative study using both clinician and SCID-1 for DSM-IV diagnoses. Results: Approximately twenty three percent (n=160) met DSM-IV criteria for SAD using SCID-1. There were significant differences between SCZ, SAD and MD regarding: affective and core symptoms of schizophrenia (with the exception of core symptoms of schizophrenia between SCZ and SAD); presence of past trauma; a past suicide attempt; and comorbidity with alcohol and drug abuse disorders. SAD and MD patients took significantly more mood stabilizers than SCZ patients. There were no significant differences between the three groups regarding socio-demographic variables, brief psychiatric rating scale scores, cognitive performance, anxiety and depressive symptoms, presence of obsessions, and usage of both antipsychotics and antidepressants. Conclusion: There is no distinct demarcation between the three disorders. This lends support to recent evidence suggesting that SAD might constitute a heterogeneous group composed of both SCZ and MD patients or a middle point of a continuum between SCZ and MD.
+C1 [Ndetei, D. M.; Khasakhala, L.] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+   [Ndetei, D. M.; Khasakhala, L.] AMHF, Nairobi 00100, Kenya.
+   [Meneghini, L.; Aillon, J. L.] Univ Turin, Turin, Italy.
+C3 University of Nairobi; University of Turin
+RP Ndetei, DM (corresponding author), AMHF, POB 48423, Nairobi 00100, Kenya.
+EM dmndetei@amhf.or.ke
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 5
+PU IN HOUSE PUBLICATIONS
+PI JOHANNESBURG
+PA PO BOX 412748, CRAIGHALL 2024, JOHANNESBURG, 00000, SOUTH AFRICA
+SN 1994-8220
+J9 AFR J PSYCHIATRY
+JI Afr. J. Psychiatry
+PD MAR
+PY 2013
+VL 16
+IS 2
+BP 110
+EP 117
+DI 10.4314/ajpsy.v16i2.14
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AM2DB
+UT WOS:000339658000007
+PM 23595530
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Auer, M
+   Sutcliffe, J
+   Lee, M
+AF Auer, Meagan
+   Sutcliffe, John
+   Lee, Martha
+TI Framing the 'White Widow': Using intersectionality to uncover complex
+   representations of female terrorism in news media
+SO MEDIA WAR AND CONFLICT
+LA English
+DT Article
+DE framing; gender; intersectionality; media; news; terrorism
+ID SUICIDE BOMBERS; WOMEN; MOTHERHOOD; WARRIORS; POLITICS; AGENCY; WAR
+AB Following 21 September 2013, news media in the UK offered extensive and elaborate coverage of the Westgate Mall Massacre in Nairobi, Kenya. This act of terrorism, perpetrated by Al-Shabaab, left over 60 people dead. What news media considered particularly captivating was not the devastation of the attack, but the suspected involvement of Samantha Lewthwaite. She remained at the center of news media in Britain for several months after the attack, dubbed the 'White Widow'. In this article, the authors employ an intersectional approach to explore the ways that race, religion, nationality, age, class, and gender converge in mediated representations of Lewthwaite. They argue that the application of intersectionality results in a more holistic understanding of the content and discursive impact of news narratives about female terrorists and find that news media both vilify and normalize Lewthwaite, representing her participation in terrorism through complex constellations of identity.
+C1 [Auer, Meagan] Univ Alberta, Dept Polit Sci, Edmonton, AB, Canada.
+   [Sutcliffe, John] Univ Windsor, Polit Sci, Windsor, ON, Canada.
+   [Sutcliffe, John; Lee, Martha] Univ Windsor, Windsor, ON, Canada.
+C3 University of Alberta; University of Windsor; University of Windsor
+RP Auer, M (corresponding author), Univ Alberta, 116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada.
+EM meauer@ualberta.ca
+RI Auer, Meagan/AAH-2817-2019
+OI Auer, Meagan/0000-0001-8885-1739; Sutcliffe, John/0000-0003-1309-2429
+NR 47
+TC 8
+Z9 8
+U1 0
+U2 14
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1750-6352
+EI 1750-6360
+J9 MEDIA WAR CONFL
+JI Media War Confl.
+PD SEP
+PY 2019
+VL 12
+IS 3
+BP 281
+EP 298
+DI 10.1177/1750635218769931
+PG 18
+WC Communication
+WE Emerging Sources Citation Index (ESCI)
+SC Communication
+GA IS0HJ
+UT WOS:000481829400004
+DA 2023-12-06
+ER
+
+PT J
+AU Mutiso, VN
+   Pike, KM
+   Musyimi, CW
+   Gitonga, I
+   Tele, A
+   Rebello, TJ
+   Thornicroft, G
+   Ndetei, DM
+AF Mutiso, V. N.
+   Pike, K. M.
+   Musyimi, C. W.
+   Gitonga, I
+   Tele, A.
+   Rebello, T. J.
+   Thornicroft, G.
+   Ndetei, D. M.
+TI Feasibility and effectiveness of nurses and clinical officers in
+   implementing the WHO mhGAP intervention guide: Pilot study in Makueni
+   County, Kenya
+SO GENERAL HOSPITAL PSYCHIATRY
+LA English
+DT Article
+DE Nurses; Clinical officers; mhGAP-IG; Mental health related outcomes;
+   Kenya
+ID QUALITY-OF-LIFE; MENTAL-DISORDERS; PRIMARY-CARE; DEPRESSION; HEALTH;
+   PREVALENCE; VALIDATION; INFECTION; EPILEPSY; STRESS
+AB Objectives: (1) To determine the feasibility and effectiveness of nurses and clinical officers in using the mental health Global Action Programme Intervention Guide (mhGAP-IG) as an intervention tool in reducing disability, improving quality of life in the clinical outcomes in patients with the mhGAP-IG priority mental disorders in a Kenyan rural setting. (2) To identify any gaps that can be contributed towards future research.
+   Methods: This study was conducted in 20 healthcare facilities across Makueni County in the South East of Kenya. This county had a population of approximately one million people, with no psychiatrist or clinical psychologist. We recruited 2306 participants from the healthcare facilities in the catchment areas that had previously been exposed to the community mental health awareness campaigns, while being subjected to screening for the mhGAP-IG disorders. We used the Mini-International Neuropsychiatric Interview for adults (MINI-Plus) for DSM-IV confirmatory diagnosis on those who screened positive on the mhGAP-IG. We measured disability using WHO-Disability Assessment Schedule II (DAS II), Quality of Life (QoL) using the WHO QoL-BREF, depression using Patient Health Questionnaire (PHQ-9), suicidality using The Beck Suicide Scale (BSS), psychosis using the Washington Early Recognition Center Affectivity and Psychosis (WERCAP), epilepsy using a seizure questionnaire and alcohol and substance abuse using The Alcohol, Smoking and Substance Involvement Screening Test (ASSIST). These measurements were at the baseline, followed by the training for the health professionals on using the WHO mhGAP-IG as an interventional tool. The measurements were repeated at 3 and 6 months post-intervention.
+   Results: Of the 2306 participants enrolled in the study, we followed 1718 at 3 months and 1371 at 6 months a follow-up rate of 74.5% and 59.4% respectively. All participants received psycho-education and most depending on condition also received medication. Overall, there was significant decline in disabilities, improvement in seizure control and improvement in clinical outcomes on the identified mental disorders.
+   Conclusions: Trained, supervised and supported nurses and clinical officers can produce good outcomes using the mhGAP-IG for mental health.
+C1 [Mutiso, V. N.; Musyimi, C. W.; Gitonga, I; Tele, A.; Ndetei, D. M.] Africa Mental Hlth Res & Training Fdn, Mawensi Rd,Off Elgon Rd, Nairobi, Kenya.
+   [Pike, K. M.; Rebello, T. J.] Columbia Univ, Global Mental Hlth Program, New York, NY USA.
+   [Thornicroft, G.] Kings Coll London, Inst Psychiat, London, England.
+   [Ndetei, D. M.] Univ Nairobi, Dept Psychiat, Nairobi, Kenya.
+C3 Columbia University; University of London; King's College London;
+   University of Nairobi
+RP Ndetei, DM (corresponding author), Africa Mental Hlth Res & Training Fdn, Mawensi Rd,Off Elgon Rd, Nairobi, Kenya.; Ndetei, DM (corresponding author), Univ Nairobi, Mawensi Rd,Off Elgon Rd, Nairobi, Kenya.
+EM vmutiso@amhf.or.ke; kmp2@cumc.columbia.edu;
+   christine.musyimi@amhf.or.ke; isaiah.gitonga@amhf.or.ke;
+   albert.tele@amhf.or.ke; tahilia.rebello@gmail.com;
+   graham.thornicroft@kcl.ac.uk; dmndetei@amhf.or.ke
+RI Thornicroft, Graham/B-4027-2010
+OI Thornicroft, Graham/0000-0003-0662-0879; Mutiso,
+   Victoria/0000-0002-8395-6707; Tele, Albert/0000-0002-7586-7819
+FU Grand Challenges Canada (GCC) [0739-05]; MRC [MR/R023697/1] Funding
+   Source: UKRI
+FX This work was supported by Grand Challenges Canada (GCC), Grant
+   #0739-05.
+NR 58
+TC 14
+Z9 14
+U1 0
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0163-8343
+EI 1873-7714
+J9 GEN HOSP PSYCHIAT
+JI Gen. Hosp. Psych.
+PD JUL-AUG
+PY 2019
+VL 59
+BP 20
+EP 29
+DI 10.1016/j.genhosppsych.2019.04.005
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IH0SD
+UT WOS:000474201800004
+PM 31096165
+DA 2023-12-06
+ER
+
+PT J
+AU Moshiro, C
+   Mswia, R
+   Alberti, KGMM
+   Whiting, DR
+   Unwin, N
+   Setel, PW
+AF Moshiro, C
+   Mswia, R
+   Alberti, KGMM
+   Whiting, DR
+   Unwin, N
+   Setel, PW
+CA AMMP Project Team
+TI The importance of injury as a cause of death in sub-Saharan Africa:
+   results of a community-based study in Tanzania
+SO PUBLIC HEALTH
+LA English
+DT Article
+DE injury; mortality; transport accidents; sub-Saharan Africa;
+   community-based study
+ID VERBAL AUTOPSIES; CHILDHOOD; MORTALITY; ACCIDENTS; SUICIDES; KENYA
+AB This paper describes rates and causes of injury deaths among community members in three districts of the United Republic of Tanzania. A population-based study was carried out in two rural districts and one urban area in Tanzania. Deaths occurring in the study areas were monitored prospectively during a period of six years. Censuses were conducted annually in the rural areas and biannually in the urban area to determine the denominator populations. Cause-specific death rates and Years of Life Lost (YLL) due to injury were calculated for the three study areas. During a 6 year period (1992-1998), 5047 deaths were recorded in Dar es Salaam, 9339 in Hai District and 11 155 in Morogoro Rural District. Among all ages, deaths due to injuries accounted for 5% of all deaths in Dar es Salaam, 8% in Hai and 5% in Morogoro. The age-standardised injury death rates among men were approximately three times higher than among women in all study areas. Transport accidents were the commonest cause of mortality in all injury-related deaths in the three project areas, except for females in Hai District, where it ranked second after intentional self-harm. We conclude that injury deaths impose a considerable burden in Tanzania. Strategies should be strengthened in the prevention and control of avoidable premature deaths due to injuries.
+C1 Minist Hlth, Adult Morbid & Mortal Project, Dar Es Salaam, Tanzania.
+   Muhimbili Univ, Coll Hlth Sci, Dept Epidemiol & Biostat, Dar Es Salaam, Tanzania.
+   Univ Newcastle Upon Tyne, Dept Med, Sch Clin Med Sci, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+C3 Newcastle University - UK
+RP Mswia, R (corresponding author), Minist Hlth, Adult Morbid & Mortal Project, POB 65243, Dar Es Salaam, Tanzania.
+RI Setel, Philip/ABD-6362-2020
+OI Setel, Philip/0000-0002-9042-5699; Whiting, David/0000-0001-9827-2896;
+   Moshiro, Candida/0000-0001-7606-2361; Unwin, Nigel/0000-0002-1368-1648
+NR 25
+TC 35
+Z9 36
+U1 0
+U2 2
+PU NATURE PUBLISHING GROUP
+PI BASINGSTOKE
+PA HOUNDMILLS, BASINGSTOKE RG21 6XS, HAMPSHIRE, ENGLAND
+SN 0033-3506
+J9 PUBLIC HEALTH
+JI Public Health
+PD MAR
+PY 2001
+VL 115
+IS 2
+BP 96
+EP 102
+DI 10.1038/sj.ph.1900725
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 422AR
+UT WOS:000168096200004
+PM 11406773
+DA 2023-12-06
+ER
+
+PT C
+AU Dudeck, M
+AF Dudeck, Michael
+BE Honorato, D
+   Giannakoulopoulos, A
+TI Tactical Extinction: The Will to Power as Disappearance
+SO TABOO - TRANSGRESSION - TRANSCENDENCE IN ART AND SCIENCE (TTT 2016)
+LA English
+DT Proceedings Paper
+CT Interdisciplinary Conference on Taboo-Transgression-Transcendence in Art
+   and Science
+CY MAY 20-22, 2016
+CL Ionian Univ, Dept Hist & Archives, Lib Sci & Museol, Corfu, GREECE
+SP Ionian Univ, Dept Audio & Visual Arts
+HO Ionian Univ, Dept Hist & Archives, Lib Sci & Museol
+DE Extinction; Symbolic Emergency; Symbolic Suicide; Sacrifice; Animal
+   Studies
+AB The Last Male White Rhinocerous has been placed under 24 hour armed guard in Kenya, with hopes that he can inseminate before his passing, despite rapid aging and decreasing sperm-count. His ivory horn has been removed (a sacrifice to the gods of capitalism) to make him less attractive to poachers, and strikingly compositional photo-shoots featuring the "living artifact" guarded by armed soldiers, have spawned a media campaign summoning a congregation of sapiens to mourn yet another bloody ramification of Global Capitalism.
+   Almost all of the headlines code this specimen as "The Last of his kind" in accordance with Western exotic fantasies of extinction (The Last Unicorn, The Last of the Mohicans, The Last Airbender, The Last Samurai, The Last Emperor). When there appears to be an abundance of one species, the general public remains indifferent, until the point of no return is reached. Global capitalism produces the poverty which necessitates poachers to slaughter and castrate endangered species, and simultaneously commodifies that extinction into a product, a "headline", a tear-jerker for the Western masses to unknowingly mourn the consequences of their privilege.
+   "Discovery" is the first stage of Colonization: it implies that up until a thing or a being has been witnessed or documented by The West, it did not heretofore exist, and therefore cannot exist any longer as it once was. The act of encounter is itself colonial. Baudrillard asserts that "[i]n order for ethnology to live, its object must die" and that "by dying, the object takes its revenge for being "discovered" and with its death defies the science that wants to grasp it" [Baudrillard 1988: 14]. This can be clearly articulated when examining the range of cultures that have been entirely eradicated from diseases spread by and upon contact. However the metaphor extends past ethnology into all interspecies relations.
+   Ontological Anarchist Hakim Bey describes a core concept he calls the TAZ (or Temporary Autonomous Zone) which is an experiential and spatial "uprising which does not engage directly with the State" but "liberates an area (of land, of time, of imagination) and then dissolves itself to re-form elsewehere/elsewhen before the State can crush it"(1). He calls this capacity "the will to power as disappearance"(2).
+   This paper excavates an/other narrative of extinction: as a performance of autonomy, a declaration of sovereignty, a biological will to power, a refusal for a circus bear to perform for its captors. I de-exoticize and construct a eulogy for a sacrificial act of symbolic suicide.
+C1 [Dudeck, Michael] Concordia Univ, Individualized Program, Merging Res Fine Arts Relig Anthropol Gender & An, Montreal, PQ, Canada.
+C3 Concordia University - Canada
+RP Dudeck, M (corresponding author), Concordia Univ, Individualized Program, Merging Res Fine Arts Relig Anthropol Gender & An, Montreal, PQ, Canada.
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Ionian University,  Dept. Audio and Visual Arts
+PI Corfu
+PA 7 Tsirigoti Square, Corfu, GREECE
+BN 978-960-7260-59-8
+PY 2017
+BP 522
+EP 532
+PG 11
+WC Art; Philosophy; Social Sciences, Biomedical
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Art; Philosophy; Biomedical Social Sciences
+GA BU7BI
+UT WOS:000934751400033
+DA 2023-12-06
+ER
+
+PT J
+AU Peltzer, K
+AF Peltzer, Karl
+TI Prevalence and correlates of substance use among school children in six
+   African countries
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE African countries; Mental distress; Protective factors; School children;
+   Substance use
+ID ILLICIT DRUG-USE; ALCOHOL-USE; ADOLESCENTS; SMOKING; HEALTH; ONSET;
+   RISK; DEPENDENCE; BEHAVIORS; TOBACCO
+AB An increasing trend of noncommunicable diseases is a worldwide phenomenon, also including the developing countries. Few studies focus on adolescents' substance use in relation to mental distress and protective factors in African countries. The purpose of this study was to assess the prevalence and correlates (mental distress and protective factors) of substance use among school-going adolescents in six African countries. The sample included 20,765 students aged from 13 to 15 years from six African countries (Kenya, Namibia, Swaziland, Uganda, Zambia, Zimbabwe), chosen by a two-stage cluster sample design to represent all students in grades 6, 7, 8, 9, and 10 in each country. The measure used was part of the Global School-Based Health Survey (GSHS) questionnaire, including various domains of health behaviour. Results indicate a prevalence of 12.6% tobacco use (past month), 6.6% risky alcohol use (two or more per day for at least 20 days or more in the past month), and 10.5% of illicit drug use (three or more times ever) in school-going adolescents in six African countries. School truancy, loneliness, sleeping problems, sadness, suicidal ideation, suicide plans, and poverty were associated with substance use (tobacco, alcohol, illicit drugs), while school attendance and parental supervision and connectedness were protective factors for substance use, and peer support protective for tobacco use. It is concluded that tobacco use, risky drinking and illicit drug use were common, clustered together and were associated with school truancy, mental distress, and lack of parental and peer support among adolescent African school children. These findings stress the need for early and integrated prevention programmes.
+C1 [Peltzer, Karl] Human Sci Res Council, Social Aspects HIV AIDS & Hlth, ZA-0001 Pretoria, South Africa.
+   [Peltzer, Karl] Univ Free State, Bloemfontein, South Africa.
+C3 Human Sciences Research Council-South Africa; University of the Free
+   State
+RP Peltzer, K (corresponding author), Human Sci Res Council, Social Aspects HIV AIDS & Hlth, Private Bag X41, ZA-0001 Pretoria, South Africa.
+EM KPeltzer@hsrc.ac.za
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 23
+TC 61
+Z9 64
+U1 0
+U2 21
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0020-7594
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PY 2009
+VL 44
+IS 5
+BP 378
+EP 386
+DI 10.1080/00207590802511742
+PG 9
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 503UT
+UT WOS:000270567000007
+PM 22029616
+DA 2023-12-06
+ER
+
+PT J
+AU Devries, KM
+   Allen, E
+   Child, JC
+   Walakira, E
+   Parkes, J
+   Elbourne, D
+   Watts, C
+   Naker, D
+AF Devries, Karen M.
+   Allen, Elizabeth
+   Child, Jennifer C.
+   Walakira, Eddy
+   Parkes, Jenny
+   Elbourne, Diana
+   Watts, Charlotte
+   Naker, Dipak
+TI The Good Schools Toolkit to prevent violence against children in Ugandan
+   primary schools: study protocol for a cluster randomised controlled
+   trial
+SO TRIALS
+LA English
+DT Article
+DE Corporal punishment; Primary school; Violence; Uganda; Mental health;
+   Education
+ID EDUCATIONAL-ACHIEVEMENT; CORPORAL PUNISHMENT; DATING VIOLENCE; HEALTH;
+   ABUSE; EXPOSURE; SUICIDE; WOMEN
+AB Background: We aim to evaluate the effectiveness of the Good School Toolkit, developed by Raising Voices, in preventing violence against children attending school and in improving child mental health and educational outcomes.
+   Methods/design: We are conducting a two-arm cluster randomised controlled trial with parallel assignment in Luwero District, Uganda. We will also conduct a qualitative study, a process evaluation and an economic evaluation. A total of 42 schools, representative of Luwero District, Uganda, were allocated to receive the Toolkit plus implementation support, or were allocated to a wait-list control condition. Our main analysis will involve a cross-sectional comparison of the prevalence of past-week violence from school staff as reported by children in intervention and control primary schools at follow-up. At least 60 children per school and all school staff members will be interviewed at follow-up. Data collection involves a combination of mobile phone-based, interviewer-completed questionnaires and paper-and-pen educational tests. Survey instruments include the ISPCAN Child Abuse Screening Tools to assess experiences of violence; the Strengths and Difficulties Questionnaire to measure symptoms of common childhood mental disorders; and word recognition, reading comprehension, spelling, arithmetic and sustained attention tests adapted from an intervention trial in Kenya.
+   Discussion: To our knowledge, this is the first study to rigorously investigate the effects of any intervention to prevent violence from school staff to children in primary school in a low-income setting. We hope the results will be informative across the African region and in other settings.
+C1 [Devries, Karen M.; Allen, Elizabeth; Child, Jennifer C.; Elbourne, Diana; Watts, Charlotte] Univ London London Sch Hyg & Trop Med, London WC1H 9SH, England.
+   [Parkes, Jenny] Univ London, Inst Educ, London WC1N 1AZ, England.
+   [Walakira, Eddy] Makerere Univ, Kampala, Uganda.
+   [Naker, Dipak] Raising Voices, Kampala, Uganda.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of London; University College London; UCL Institute of
+   Education; Makerere University
+RP Devries, KM (corresponding author), Univ London London Sch Hyg & Trop Med, 15-17 Tavistock Pl, London WC1H 9SH, England.
+EM karen.devries@lshtm.ac.uk
+RI Devries, Karen/K-1083-2016
+OI Devries, Karen/0000-0001-8935-2181; Walakira, Eddy/0000-0003-0807-8593;
+   Child, Jennifer/0000-0001-5115-8164; Parkes, Jenny/0000-0003-3399-0226
+FU Hewlett Foundation; MRC [MR/L004321/1] Funding Source: UKRI; Medical
+   Research Council [MR/L004321/1] Funding Source: researchfish
+FX The authors would like to thank the Hewlett Foundation for funding our
+   baseline survey, Tanya Abramsky and Janet Nakuti for useful discussions,
+   and all of our data collection team.
+NR 34
+TC 32
+Z9 32
+U1 0
+U2 22
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1745-6215
+J9 TRIALS
+JI Trials
+PD JUL 24
+PY 2013
+VL 14
+AR 232
+DI 10.1186/1745-6215-14-232
+PG 9
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine
+GA 195TZ
+UT WOS:000322727800001
+PM 23883138
+OA Green Published, gold, Green Accepted
+DA 2023-12-06
+ER
+
+PT C
+AU Odhiambo, NA
+   Ochara, NM
+   Kadymatimba, A
+AF Odhiambo, Nancy Achieng
+   Ochara, Nixon Muganda
+   Kadymatimba, Amstrong
+BE Ouma, C
+TI STRUCTURING OF THE TERRORISM PROBLEM IN THE DIGITAL AGE: A SYSTEMS
+   PERSPECTIVE
+SO 2018 OPEN INNOVATIONS CONFERENCE (OI)
+LA English
+DT Proceedings Paper
+CT Open Innovations Conference (OI) - Re-Creating Society through
+   Disruptive Digital Transformation
+CY OCT 03-04, 2018
+CL Univ Witwatersrand, Johannesburg, SOUTH AFRICA
+HO Univ Witwatersrand
+DE Terrorism; Theory of Synergetics; Technology; Conceptual Model
+ID LOCAL LAW-ENFORCEMENT; COUNTER-TERRORISM; COLLABORATION; AFRICA; STATE
+AB Terrorism is a global challenge of the 21st century. The Kenya Westgate Mall attack and Garrissa University attacks in 2015 and the Libya suicide bombings, did not only claim the lives of many, but also had great political consequences. The advancements, ease of access and availability of information and communication technologies (ICT) is blamed for the increases in terrorist attacks: for instance, the Internet and especially, social media. This is because through the Internet, terrorist organizations such as ISIS have come up with innovative ways to recruit new members, to train and even disseminate ideologies. However, the terrorist opponents (counter-terrorism organizations) also have developed innovative counter-measures using ICT. Therefore, understanding and structuring terrorism in this digital age has enhanced the complexity in addition to multiple stakeholders involved in terrorism related incidences, intertwined causal-relationships, and the uncertainties in the mode of operandi of the terrorists. In this study, theory of synergetics is applied both as a theoretical and methodological approach to try structure the terrorism problem. Secondary data sources such as journal articles on terrorism related incidences and search terms (i.e. terrorism AND technology, terrorism AND Internet), were used by the researchers' to identify and include relevant documents in the study. Following the inclusion and exclusion criteria, the researchers remained with only 405 documents from which using the qualitative software Nvivo, a word cloud was developed to pictorially visualize the terrorism problem. Thereafter, relying on synergetics and using results from the word cloud, the researchers' were able to create a conceptual model. The findings from the analysis of the conceptual model showed that technology plays a critical role in the fight against terrorism as it appears to be part of each of the various components of synergetics, namely, order parameters, system elements, internal and external constraints, control parameters and environment. Thus, it is quite clear that in terrorism structuring in this digital age can be quite challenging.
+C1 [Odhiambo, Nancy Achieng; Ochara, Nixon Muganda; Kadymatimba, Amstrong] Univ Venda1, Dept Business Informat Syst BIS, ZA-0950 Thohoyandou, Limpopo, South Africa.
+RP Odhiambo, NA (corresponding author), Univ Venda1, Dept Business Informat Syst BIS, ZA-0950 Thohoyandou, Limpopo, South Africa.
+EM odhiambonancy01@gmail.com; muganda.ochara@univen.ac.za;
+   kadyamatimba@univen.ac.za
+RI Ochara, Nixon Muganda/AAX-4432-2020
+OI Ochara, Nixon Muganda/0000-0001-5736-7901
+NR 53
+TC 3
+Z9 3
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-5318-0
+PY 2018
+BP 148
+EP 154
+PG 7
+WC Computer Science, Interdisciplinary Applications; Green & Sustainable
+   Science & Technology; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Science & Technology - Other Topics; Engineering
+GA BO1DO
+UT WOS:000495074900024
+DA 2023-12-06
+ER
+
+PT J
+AU Gaitho, D
+   Kumar, M
+   Wamalwa, D
+   Wambua, GN
+   Nduati, R
+AF Gaitho, Douglas
+   Kumar, Manasi
+   Wamalwa, Dalton
+   Wambua, Grace Nduku
+   Nduati, Ruth
+TI Understanding mental health difficulties and associated psychosocial
+   outcomes in adolescents in the HIV clinic at Kenyatta National Hospital,
+   Kenya
+SO ANNALS OF GENERAL PSYCHIATRY
+LA English
+DT Article
+DE Adolescents; HIV; Psychosocial characteristics; Depression; School
+   performance; Adherence
+AB Background: Globally adolescents continue to have an upward trend in HIV incidence and AIDS-related mortality. The interplay between the rapid physical growth, sexual maturation, and enormous albeit slow-evolving cognitive and psychological changes in adolescence may partly explain this trend. Our main purpose was to highlight key psychosocial characteristics of HIV-infected adolescents and explore if these characteristics are associated with depression symptoms.
+   Methods: From August to December 2016 after obtaining informed consent, adolescents living with HIV at Kenyatta National Hospital were interviewed using the Home environment, Education and Employment, Activity, Sexuality, Suicide and depression traits (HEADSS) tool combined with the Patient Health Questionnaire (PHQ-9) to elucidate which key symptoms of depression and link with psychosocial characteristics mapped on HEADSS. In order to determine which psychosocial characteristics were linked with risk of depression, the traits of adolescents who were symptomatic were compared to those who were not using univariate and multivariate regression analysis.
+   Results: All the 270 adolescents offered participation in the study accepted to enroll. The aged 10-19 years were recruited and mean age was 14.75 and 53.7% (n = 145) were males. Overall, 269 (99.9%) were still in school and 52.6% of the adolescents had symptoms of depression. The independent predictors of depression were being of ages 15-19 years [OR = 2.34 (95% CI 1.36, 4.04) P < 0.02], ever repeating classes [OR = 1.74 (95% CI 1.0-3.05) P = 0.05], ever being sent away from school due to lack of school fees [OR = 1.71 (95% CI 1.0-2.91) P = 0.05], and non-adherence to medication [OR = 1.84 (95% CI 1.08-3.14) P = 0.03. Missing of meals due to food insecurity was associated with an important trend towards increased risk of depression [OR = 2.42 (CI 0.96-6.14) P = 0.06].
+   Conclusion: One in two of the adolescents interviewed had depression symptoms which were significantly associated with lack of school fees, missing meals, non-adherence to medication, and substance abuse.
+C1 [Gaitho, Douglas; Wamalwa, Dalton; Nduati, Ruth] Univ Nairobi, Coll Hlth Sci, Dept Paediat, POB 19676, Nairobi, Kenya.
+   [Kumar, Manasi; Wambua, Grace Nduku] Univ Nairobi, Dept Psychiat, Coll Hlth Sci, POB 19676, Nairobi, Kenya.
+C3 University of Nairobi; University of Nairobi
+RP Gaitho, D (corresponding author), Univ Nairobi, Coll Hlth Sci, Dept Paediat, POB 19676, Nairobi, Kenya.
+EM dgaitho@gmail.com
+RI Kumar, Manasi/AAI-9488-2020
+OI Kumar, Manasi/0000-0002-9773-8014; Wambua, Grace
+   Nduku/0000-0003-1795-6634
+FU AMPATH (Academic Model Providing Access To Healthcare), University of
+   Nairobi
+FX Collection of data was supported by a grant to the first author from
+   AMPATH (Academic Model Providing Access To Healthcare) which is part of
+   a scholarship to pursue Masters of Medicine in Paediatrics and Child
+   Health at the University of Nairobi.
+NR 27
+TC 23
+Z9 26
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1744-859X
+J9 ANN GEN PSYCHIATR
+JI Ann. Gen. Psychiatr.
+PD JUL 10
+PY 2018
+VL 17
+AR 29
+DI 10.1186/s12991-018-0200-8
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GM8AO
+UT WOS:000438424500001
+PM 30002721
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+EF

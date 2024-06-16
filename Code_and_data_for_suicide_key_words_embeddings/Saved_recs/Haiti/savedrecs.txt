@@ -1,0 +1,289 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hagaman, AK
+   Wagenaar, BH
+   McLean, KE
+   Kaiser, BN
+   Winskell, K
+   Kohrt, BA
+AF Hagaman, Ashley K.
+   Wagenaar, Bradley H.
+   McLean, Kristen E.
+   Kaiser, Bonnie N.
+   Winskell, Kate
+   Kohrt, Brandon A.
+TI Suicide in rural Haiti: Clinical and community perceptions of
+   prevalence, etiology, and prevention
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Haiti; Mental health; Suicide; Qualitative methods; Healthcare
+   communication
+ID PSYCHOLOGY STUDENTS; MENTAL-ILLNESS; RISK-FACTORS; IDEATION; ATTITUDES;
+   BEHAVIOR; COMMUNICATION; GHANA; PERSPECTIVES; COUNTRIES
+AB Suicide is a complex global public health problem, yet few studies have examined local socio-cultural explanatory models and other contextual factors surrounding suicide in low-and-middle-income countries. Such research is critical, as suicide frequency and etiology, as well as care-seeking in the case of distress, differ contextually and by sub-groups within a population. This is the first study of its kind to explore the dual perspectives of both healthcare workers and community members regarding suicide in Haiti. We conducted semi-structured, in-depth interviews between May and June 2011 with eight biomedical healthcare workers and 16 lay community members. Qualitative data analysis, drawing on interpretive phenomenological analysis, addressed themes including perceived suicide frequency, veracity of suicidal ideation claims, perceived causal factors, religious constructs related to suicide, and support resources for suicidality. Compared to community members, healthcare workers underestimated the frequency of suicide and were less likely to interpret suicide-related claims as representing true intent. Religious perspectives influenced attitudes toward suicide, albeit in different ways: Christian concern with the afterlife resulted in suicide being unacceptable and sinful, while Vodou explanatory frameworks displaced blame and stigma away from suicidal individuals. Healthcare workers' failure to recognize suicide as a serious problem suggests that the formal health system is currently ill-equipped to respond to suicide-related needs. Religious practice and community supports in rural Haiti may serve as essential resources for prevention programs. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Hagaman, Ashley K.] Arizona State Univ, Sch Human Evolut & Social Change, Dept Global Hlth, Tempe, AZ 85251 USA.
+   [Wagenaar, Bradley H.] Univ Washington, Sch Publ Hlth & Community Med, Dept Epidemiol, Seattle, WA 98195 USA.
+   [McLean, Kristen E.] Yale Univ, Dept Anthropol, New Haven, CT 06520 USA.
+   [Kaiser, Bonnie N.] Emory Univ, Laney Grad Sch, Dept Anthropol, Atlanta, GA 30322 USA.
+   [Winskell, Kate] Emory Univ, Rollins Sch Publ Hlth, Dept Global Hlth, Atlanta, GA 30322 USA.
+   [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, Washington, DC USA.
+C3 Arizona State University; Arizona State University-Tempe; University of
+   Washington; University of Washington Seattle; Yale University; Emory
+   University; Emory University; Rollins School Public Health; George
+   Washington University
+RP Hagaman, AK (corresponding author), Arizona State Univ, Sch Human Evolut & Social Change, Dept Global Hlth, Tempe, AZ 85251 USA.
+EM hagamana@gmail.com
+OI Hagaman, Ashley/0000-0002-8016-1036; Kaiser, Bonnie/0000-0003-0742-1302
+FU Emory University's Global Health Institute Multidisciplinary Team Field
+   Scholars Award; Emory University's Global Field Experience Award;
+   National Science Foundation Graduate Research Fellowship [0234618];
+   Division Of Graduate Education; Direct For Education and Human Resources
+   [0234618] Funding Source: National Science Foundation
+FX The authors gratefully acknowledge the contributions of field research
+   assistants Desir Fitzner, Wilfrid Jean, Adner Louis, Anel Lavard, and
+   Alexis Ronel. The authors appreciate the support of Cate Oswald and her
+   colleagues at Partners in Health/Zanmi Lasante. This work was supported
+   by Emory University's Global Health Institute Multidisciplinary Team
+   Field Scholars Award, Emory University's Global Field Experience Award,
+   and the National Science Foundation Graduate Research Fellowship (grant
+   # 0234618).
+NR 58
+TC 25
+Z9 34
+U1 0
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD APR
+PY 2013
+VL 83
+BP 61
+EP 69
+DI 10.1016/j.socscimed.2013.01.032
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 118KY
+UT WOS:000317025600008
+PM 23465205
+DA 2023-12-06
+ER
+
+PT J
+AU Kaiser, BN
+   McLean, KE
+   Kohrt, BA
+   Hagaman, AK
+   Wagenaar, BH
+   Khoury, NM
+   Keys, HM
+AF Kaiser, Bonnie N.
+   McLean, Kristen E.
+   Kohrt, Brandon A.
+   Hagaman, Ashley K.
+   Wagenaar, Bradley H.
+   Khoury, Nayla M.
+   Keys, Hunter M.
+TI <i>Reflechi twop</i>-Thinking Too Much: Description of a Cultural
+   Syndrome in Haiti's Central Plateau
+SO CULTURE MEDICINE AND PSYCHIATRY
+LA English
+DT Article
+DE Depression; Anxiety; Idioms of distress; Ethnopsychology; Mental health;
+   Haiti; Suicide
+ID COMMUNITY-HEALTH WORKERS; GLOBAL MENTAL-HEALTH; SEROTONIN REUPTAKE
+   INHIBITORS; RANDOMIZED CONTROLLED-TRIAL; COGNITIVE-BEHAVIOR THERAPY;
+   RURAL HAITI; CAMBODIAN REFUGEES; DEPRESSION; DISTRESS; TRAUMA
+AB A rich Haitian ethnopsychology has been described, detailing concepts of personhood, explanatory models of illness, and links between mind and body. However, little research has engaged explicitly with mental illness, and that which does focuses on the Kreyl term fou (madness), a term that psychiatrists associate with schizophrenia and other psychoses. More work is needed to characterize potential forms of mild-to-moderate mental illness. Idioms of distress provide a promising avenue for exploring common mental disorders. Working in Haiti's Central Plateau, we aimed to identify idioms of distress that represent cultural syndromes. We used ethnographic and epidemiologic methods to explore the idiom of distress reflechi twp (thinking too much). This syndrome is characterized by troubled rumination at the intersection of sadness, severe mental disorder, suicide, and social and structural hardship. Persons with "thinking too much" have greater scores on the Beck Depression Inventory and Beck Anxiety Inventory. "Thinking too much" is associated with 8 times greater odds of suicidal ideation. Untreated "thinking too much" is sometimes perceived to lead to psychosis. Recognizing and understanding "thinking too much" may allow early clinical recognition and interventions to reduce long-term psychosocial suffering in Haiti's Central Plateau.
+C1 [Kaiser, Bonnie N.] Emory Univ, Dept Epidemiol, Dept Anthropol, Atlanta, GA 30322 USA.
+   [McLean, Kristen E.] Yale Univ, Dept Anthropol, New Haven, CT 06520 USA.
+   [Kohrt, Brandon A.] Duke Univ, Duke Global Hlth Inst, Dept Psychiat & Behav Sci, Durham, NC USA.
+   [Hagaman, Ashley K.] Arizona State Univ, Sch Human Evolut & Social Change, Phoenix, AZ USA.
+   [Wagenaar, Bradley H.] Univ Washington, Sch Publ Hlth, Dept Epidemiol, Seattle, WA 98195 USA.
+   [Khoury, Nayla M.] Cambridge Hlth Alliance, Dept Psychiat, Cambridge, MA USA.
+   [Keys, Hunter M.] Emory Univ, Sch Publ Hlth, Sch Nursing, Atlanta, GA USA.
+C3 Emory University; Yale University; Duke University; Arizona State
+   University; Arizona State University-Downtown Phoenix; University of
+   Washington; University of Washington Seattle; Harvard University;
+   Cambridge Health Alliance; Emory University
+RP Kaiser, BN (corresponding author), Emory Univ, Dept Epidemiol, Dept Anthropol, 1557 Dickey Dr, Atlanta, GA 30322 USA.
+EM bfullard@gmail.com
+OI Kaiser, Bonnie/0000-0003-0742-1302; Hagaman, Ashley/0000-0002-8016-1036
+NR 96
+TC 34
+Z9 41
+U1 0
+U2 23
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0165-005X
+EI 1573-076X
+J9 CULT MED PSYCHIAT
+JI Cult. Med. Psychiatr.
+PD SEP
+PY 2014
+VL 38
+IS 3
+BP 448
+EP 472
+DI 10.1007/s11013-014-9380-0
+PG 25
+WC Anthropology; Psychiatry; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry; Biomedical Social Sciences
+GA AN9MM
+UT WOS:000340931000008
+PM 25038935
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Seff, I
+   Stark, L
+AF Seff, Ilana
+   Stark, Lindsay
+TI A sex-disaggregated analysis of how emotional violence relates to
+   suicide ideation in low- and middle-income countries
+SO CHILD ABUSE & NEGLECT
+LA English
+DT Article
+DE Emotional violence; Violence against children; LMICs; Adolescents;
+   Suicide
+ID CHILD MALTREATMENT; GENDER DIFFERENCES; MENTAL-HEALTH; ADOLESCENCE;
+   BEHAVIOR; RISK; DEPRIVATION; PARADOX; IMPACT; ABUSE
+AB Background: In recent years, research has increasingly focused on examining the relationship between one type of child maltreatment emotional violence and suicidal behaviors. However, the growing body of empirical evidence supporting these associations has been mostly limited to high-income contexts.
+   Objective: This study examines how exposure to emotional violence is associated with suicide ideation in childhood and adolescence in low- and middle-income countries (LMICs), and whether this association differs by sex.
+   Participants and setting: We employ nationally representative samples of 13-24 year-old males and females from the Violence Against Children Surveys in Tanzania (conducted in 2009), Kenya (2010), and Haiti (2012).
+   Methods: We use logistic regressions to estimate the odds of ever reporting suicide ideation, separately, for each country; models control for self-reported exposure to emotional violence, physical violence from a caregiver, physical violence by an adult in the community, sexual violence, intimate partner violence, and age. Formal moderation by sex for each form of child maltreatment is tested using interaction terms.
+   Results: We find the odds of suicide ideation are consistently and significantly greater for adolescents who report ever exposure to emotional violence. This same consistency is not observed for any other form of maltreatment across countries. The size of the relationship between emotional violence and suicide ideation is statistically significantly larger for males in Kenya only.
+   Conclusion: Research in LMICs should explore the mediating factors linking emotional abuse in childhood and adolescence to suicide ideation in adolescence, paying special attention to whether these pathways might operate differently by sex.
+C1 [Seff, Ilana] Columbia Univ, Mailman Sch Publ Hlth, Dept Populat & Family Hlth, 60 Haven Ave B-4 Suite 432, New York, NY 10032 USA.
+   [Stark, Lindsay] Washington Univ, George Warren Brown Sch, 1 Brookings Dr, St Louis, MO 63130 USA.
+C3 Columbia University; Washington University (WUSTL)
+RP Seff, I (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Heilbrunn Dept Populat & Family Hlth, 60 Haven Ave,B3, New York, NY 10032 USA.
+EM Ijs2120@cumc.columbia.edu
+OI Seff, Ilana/0000-0002-2569-995X
+NR 29
+TC 22
+Z9 22
+U1 1
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0145-2134
+EI 1873-7757
+J9 CHILD ABUSE NEGLECT
+JI Child Abuse Negl.
+PD JUL
+PY 2019
+VL 93
+BP 222
+EP 227
+DI 10.1016/j.chiabu.2019.05.008
+PG 6
+WC Family Studies; Psychology, Social; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Psychology; Social Work
+GA IF5LW
+UT WOS:000473123300022
+PM 31125852
+DA 2023-12-06
+ER
+
+PT J
+AU Brown, CR
+   Hambleton, IR
+   Sobers-Grannum, N
+   Hercules, SM
+   Unwin, N
+   Harris, EN
+   Wilks, R
+   MacLeish, M
+   Sullivan, L
+   Murphy, MM
+AF Brown, Catherine R.
+   Hambleton, Ian R.
+   Sobers-Grannum, Natasha
+   Hercules, Shawn M.
+   Unwin, Nigel
+   Harris, E. Nigel
+   Wilks, Rainford
+   MacLeish, Marlene
+   Sullivan, Louis
+   Murphy, Madhuvanti M.
+CA US Caribbean Alliance Hlth
+TI Social determinants of depression and suicidal behaviour in the
+   Caribbean: a systematic review
+SO BMC PUBLIC HEALTH
+LA English
+DT Review
+ID MIDDLE-INCOME COUNTRIES; MAJOR DEPRESSION; OLDER-ADULTS; ADOLESCENT
+   DEPRESSION; MENTAL-DISORDERS; CHRONIC DISEASES; LATIN-AMERICA; SYMPTOMS;
+   RISK; PREVALENCE
+AB Background: Depressive disorder is the largest contributor to years lived with disability in the Caribbean, adding 948 per 100,000 in 2013. Depression is also a major risk factor for suicidal behaviour. Social inequalities influence the occurrence of depression, yet little is known about the social inequalities of this condition in the Caribbean. In support of the 2011 Rio Political Declaration on addressing health inequities, this article presents a systematic review of the role of social determinants on depression and its suicidal behaviours in the Caribbean.
+   Methods: Eight databases were searched for observational studies reporting associations between social determinants and depression frequency, severity, or outcomes. Based on the PROGRESS-plus checklist, we considered 9 social determinant groups (of 15 endpoints) for 6 depression endpoints, totalling 90 possible ways ('relationship groups') to explore the role of social determinants on depression. Studies with = 50 participants conducted in Caribbean territories between 2004 and 2014 were eligible. The review was conducted according to STROBE and PRISMA guidelines. Results were planned as a narrative synthesis, with meta-analysis if possible.
+   Results: From 3951 citations, 55 articles from 45 studies were included. Most were classified as serious risk of bias. Fifty-seven relationship groups were reported by the 55 included articles, leaving 33 relationship groups (37%) without an evidence base. Most associations were reported for gender, age, residence, marital status, and education. Depression, its severity, and its outcomes were more common among females (except suicide which was more common among males), early and middle adolescents (among youth), and those with lower levels of education. Marriage emerged as both a risk and protective factor for depression score and prevalence, while several inequality relationships in Haiti were in contrast to typical trends.
+   Conclusion: The risk of bias and few numbers of studies within relationship groups restricted the synthesis of Caribbean evidence on social inequalities of depression. Along with more research focusing on regional social inequalities, attempts at standardizing reporting guidelines for observational studies of inequality and studies examining depression is necessitated. This review offers as a benchmark to prioritize future research into the social determinants of depression frequency and outcomes in the Caribbean.
+C1 [Brown, Catherine R.; Hambleton, Ian R.; Hercules, Shawn M.; Unwin, Nigel] George Alleyne Chron Dis Res Ctr, Bridgetown, Barbados.
+   [Sobers-Grannum, Natasha; Murphy, Madhuvanti M.] Univ West Indies, Cave Hill, Barbados.
+   [Harris, E. Nigel; Wilks, Rainford] Univ West Indies, Kingston, Jamaica.
+   [MacLeish, Marlene; Sullivan, Louis] Sullivan Alliance, Alexandria, VA USA.
+   [Hercules, Shawn M.] McMaster Univ, Hamilton, ON, Canada.
+C3 University West Indies Mona Jamaica; University West Indies Cave Hill
+   Campus; University West Indies Mona Jamaica; McMaster University
+RP Brown, CR (corresponding author), George Alleyne Chron Dis Res Ctr, Bridgetown, Barbados.
+EM catherine.brown@cavehill.uwi.edu
+RI Hambleton, Ian/AAP-3519-2020; Hercules, Shawn M./GRS-0377-2022;
+   Bidulescu, Aurelian/N-2617-2014
+OI Hambleton, Ian/0000-0002-5638-9794; Sobers, Natasha/0000-0002-9444-0706;
+   Unwin, Nigel/0000-0002-1368-1648; Hercules, Shawn/0000-0002-1094-094X;
+   Bidulescu, Aurelian/0000-0001-8211-8309
+FU National Institute on Minority Health and Health Disparities
+   [U24MD006959]
+FX This study was fully supported by grant number U24MD006959 from the
+   National Institute on Minority Health and Health Disparities. The
+   funding body was not involved in the design of the study, collection,
+   analysis, and interpretation of data, nor the writing the manuscript.
+   The content is solely the responsibility of the authors and does not
+   necessarily represent the official views of the National Institute on
+   Minority Health and Health Disparities or the National Institutes of
+   Health.
+NR 114
+TC 36
+Z9 43
+U1 0
+U2 59
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUN 15
+PY 2017
+VL 17
+AR 577
+DI 10.1186/s12889-017-4371-z
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EY9CF
+UT WOS:000404296000002
+PM 28619069
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

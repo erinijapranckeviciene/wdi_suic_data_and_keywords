@@ -1,0 +1,2888 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Criminal Prosecution of Suicide Attempt Survivors in Ghana
+SO INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY
+LA English
+DT Article
+DE suicide; attempted suicide; nonfatal suicidal behavior;
+   decriminalization; Ghana
+ID CONTEMPORARY GHANA; HOMICIDE-SUICIDE; UNITED-STATES; BEHAVIOR;
+   DECRIMINALIZATION; RATES; ATTITUDES
+AB Recently, there have been calls for the decriminalization (or depenalization) of nonfatal suicidal behavior (attempted suicide) in Ghana, India, Uganda, and other societies that currently criminalize nonfatal suicidal behavior. Despite this, there is a dearth of systematic studies that examine the extent, nature, and characteristics of attempted suicide prosecutions in countries that currently criminalize nonfatal suicidal behavior. The current study, therefore, explores the phenomenon of criminal prosecution and punishment for suicide attempters in Ghana, one among several countries where nonfatal suicidal behavior is a crime. Drawing from data extracted from local Ghanaian print and electronic news media articles, the study examines the sociodemographic characteristics of suicide attempt survivors, the patterns of nonfatal suicidal behavior, as well as the criminal justice outcomes of the criminal prosecutions. The findings indicate that the majority of defendants pled guilty to or were found guilty of the charge and sentenced to penalties ranging from monetary fines to incarceration. The results are discussed with regard to their implications for reducing nonfatal suicidal behavior in Ghana.
+C1 [Adinkrah, Mensah] Cent Michigan Univ, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 63
+TC 39
+Z9 40
+U1 0
+U2 12
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0306-624X
+EI 1552-6933
+J9 INT J OFFENDER THER
+JI Int. J. Offender Ther. Comp. Criminol.
+PD DEC
+PY 2013
+VL 57
+IS 12
+BP 1477
+EP 1497
+DI 10.1177/0306624X12456986
+PG 21
+WC Criminology & Penology; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology
+GA 246TJ
+UT WOS:000326561700004
+PM 22923775
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Boakye, KE
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Boakye, Kofi E.
+TI Physicians attitudes toward suicide, criminalizing attempted suicide,
+   and suicide prevention in Ghana
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Meeting Abstract
+C1 [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Accra, Ghana.
+   [Boakye, Kofi E.] Anglia Ruskin Univ, Cambridge, England.
+C3 University of Ghana; Anglia Ruskin University
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0020-7594
+EI 1464-066X
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PD JUL
+PY 2016
+VL 51
+SU 1
+SI SI
+MA OR0341
+BP 244
+EP 244
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA FK7XH
+UT WOS:000413720402056
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Homicide-Suicide in Ghana: Perpetrators, Victims, and Incidence
+   Characteristics
+SO INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY
+LA English
+DT Article
+DE homicide-suicide; murder-suicide; suicide; homicide; Ghana
+ID MURDER-SUICIDE; NEWSPAPER SURVEILLANCE; BEHAVIOR; PATTERNS;
+   EPIDEMIOLOGY; NETHERLANDS; HUSBANDS; DEATHS; EVENTS; WOMEN
+AB Homicide-suicide in the industrialized West has been studied for many years. Yet, only limited scholarly research currently exists on the subject in Africa and other non-Western societies. The aim of the present descriptive study was to investigate homicide-suicides in contemporary Ghana. A content analysis of homicide-suicide reports in a major Ghanaian daily newspaper during 1990 to 2009 was conducted. The results overwhelmingly support findings in the literature, suggesting that homicide-suicides are extremely rare events in Ghana. The overwhelming majority of reported homicide-suicides were committed by males, with females substantially more likely to be the homicide victims. The offenders and victims were generally of low socioeconomic status. Most homicide-suicides involved victims and offenders who were intimately acquainted as family members. The majority of cases involved men who killed their wives on suspicion of infidelity; the next largest category involved men who murdered wives who threatened divorce or separation. The principal homicide and suicide methods were shooting with firearms, hacking with machetes, and stabbing with knives. The findings of the study are discussed in relation to Ghana's patriarchal family system and ideology and present socioeconomic issues in the country. This study recommends further research on this subject in Ghana and other African countries. This is necessary to further an understanding of homicide-suicide as a phenomenon, as well as a necessary prelude to the development and implementation of effective preventive programs.
+C1 Cent Michigan Univ, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 73
+TC 25
+Z9 25
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0306-624X
+EI 1552-6933
+J9 INT J OFFENDER THER
+JI Int. J. Offender Ther. Comp. Criminol.
+PD MAR
+PY 2014
+VL 58
+IS 3
+BP 364
+EP 387
+DI 10.1177/0306624X12470530
+PG 24
+WC Criminology & Penology; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology
+GA 290QQ
+UT WOS:000329773800007
+PM 23267240
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Hjelmeland, H
+   Akotia, CS
+   Knizek, BL
+AF Osafo, Joseph
+   Hjelmeland, Heidi
+   Akotia, Charity Sylvia
+   Knizek, Birthe Loa
+TI Social injury: An interpretative phenomenological analysis of the
+   attitudes towards suicide of lay persons in Ghana
+SO INTERNATIONAL JOURNAL OF QUALITATIVE STUDIES ON HEALTH AND WELL-BEING
+LA English
+DT Article
+DE Social injury; attitudes; lay persons; suicide; Ghana
+ID INTERDEPENDENT-SELF; PSYCHOLOGY STUDENTS; SHAME; STIGMA; PREVENTION;
+   PRIDE; EXPERIENCE; FRAMEWORK; VALIDITY; BEHAVIOR
+AB One way of furthering our understanding of suicidal behaviour is to examine people's attitudes towards it and how they conceive the act. The aim of this study was to understand how lay persons conceive the impact of suicide on others and how that influences their attitudes towards suicide; and discuss the implications for suicide prevention in Ghana. This is a qualitative study, using a semi-structured interview guide to investigate the attitudes and views of 27 lay persons from urban and rural settings in Ghana. Interpretative Phenomenological Analysis was used to analyse the data. Findings showed that the perceived breach of interrelatedness between people due to suicidal behaviour influenced the informants' view of suicide as representing a social injury. Such view of suicide influenced the negative attitudes the informants expressed towards the act. The negative attitudes towards suicide in Ghana are cast in consequential terms. Thus, suicide is an immoral act because it socially affects others negatively. The sense of community within the African ethos and The Moral Causal Ontology for Suffering are theoretical postulations that are used to offer some explanations of the findings in this study.
+C1 [Osafo, Joseph; Akotia, Charity Sylvia] Univ Ghana, Dept Psychol, Legon, Ghana.
+   [Osafo, Joseph; Hjelmeland, Heidi] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7034 Trondheim, Norway.
+   [Hjelmeland, Heidi] Norwegian Inst Publ Hlth, Dept Suicide Res & Prevent, Oslo, Norway.
+   [Knizek, Birthe Loa] Norwegian Univ Sci & Technol, Dept Psychol, N-7034 Trondheim, Norway.
+C3 University of Ghana; Norwegian University of Science & Technology
+   (NTNU); Norwegian Institute of Public Health (NIPH); Norwegian
+   University of Science & Technology (NTNU)
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, Legon, Ghana.
+EM joseph.osafo@samfun.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+NR 65
+TC 34
+Z9 38
+U1 0
+U2 12
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1748-2623
+EI 1748-2631
+J9 INT J QUAL STUD HEAL
+JI Int. J. Qual. Stud. Health Well-Being
+PY 2011
+VL 6
+IS 4
+AR 8708
+DI 10.3402/qhw.v6i4.8708
+PG 10
+WC Public, Environmental & Occupational Health; Nursing; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Nursing; Biomedical Social
+   Sciences
+GA 859DW
+UT WOS:000297856100008
+PM 22065981
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Hjelmeland, H
+   Osafo, J
+   Akotia, CS
+   Knizek, BL
+AF Hjelmeland, Heidi
+   Osafo, Joseph
+   Akotia, Charity S.
+   Knizek, Birthe L.
+TI The Law Criminalizing Attempted Suicide in Ghana The Views of Clinical
+   Psychologists, Emergency Ward Nurses, and Police Officers
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide attempt; crime; Ghana
+ID DECRIMINALIZATION
+AB Background: Attempted suicide is still considered a crime in Ghana. Aims: The purpose of this study was to investigate the attitudes toward this law held by health workers and police officers in Ghana so as to provide culture-sensitive arguments to aid in abolishing the law. Method: Qualitative interviews were conducted with eight clinical psychologists, eight emergency ward nurses, and eight police officers. Results: The majority of informants did not agree with the law criminalizing attempted suicide in Ghana, although five of the emergency ward nurses and two police officers did. Arguments for agreeing with the law were that people have no right to take life and that the law has a deterrent effect and thus it will help reduce the suicide rate. The main argument for not agreeing with the law was that suicidal behavior is a mental health issue. Those who argued in favor of the law did not seem to reflect much on the reasons for suicidal behavior. Conclusion: Education on how to understand suicidal behavior and suicidal people may aid the work toward decriminalizing attempted suicide in Ghana.
+C1 [Hjelmeland, Heidi] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, NO-7491 Trondheim, Norway.
+   [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, Legon, Accra, Ghana.
+   [Knizek, Birthe L.] Sor Trondelag Univ Coll, Fac Nursing, Trondheim, Norway.
+C3 Norwegian University of Science & Technology (NTNU); University of
+   Ghana; Norwegian University of Science & Technology (NTNU)
+RP Hjelmeland, H (corresponding author), Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, NO-7491 Trondheim, Norway.
+EM Heidi.Hjelmeland@svt.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+NR 19
+TC 18
+Z9 19
+U1 1
+U2 17
+PU HOGREFE PUBLISHING CORP
+PI BOSTON
+PA 361 NEWBURY ST, 5 FL, BOSTON, MA, UNITED STATES
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2014
+VL 35
+IS 2
+BP 132
+EP 136
+DI 10.1027/0227-5910/a000235
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA AB9CB
+UT WOS:000332085700008
+PM 24197485
+DA 2023-12-06
+ER
+
+PT J
+AU Quarshie, ENB
+   Osafo, J
+   Akotia, CS
+   Peprah, J
+AF Quarshie, Emmanuel Nii-Boye
+   Osafo, Joseph
+   Akotia, Charity S.
+   Peprah, Jennifer
+TI Adolescent suicide in Ghana: A content analysis of media reports
+SO INTERNATIONAL JOURNAL OF QUALITATIVE STUDIES ON HEALTH AND WELL-BEING
+LA English
+DT Article
+DE Adolescent; suicide; Ghana
+ID PREVENTION; EDUCATION; BEHAVIOR; AFRICA
+AB Adolescent suicide is now a major health concern for many countries. However, there is paucity of systematic studies and lack of official statistics on adolescent suicide in Ghana. Mass media coverage of adolescent suicide (even though crude), at least, may reflect the reality of the phenomenon. With an ecological orientation, this study used qualitative content analysis to analyse the pattern of 44 media reports of adolescent suicide in Ghana from January 2001 through September 2014. Results showed that hanging was the dominant method used. The behaviour usually takes place within or near the adolescent's home environment. The act was often attributed to precursors within the microsystem (family and school) of the deceased. This study serves a seminal function for future empirical studies aimed at deeper examination of the phenomenon in order to inform prevention programmes.
+C1 [Quarshie, Emmanuel Nii-Boye; Osafo, Joseph; Akotia, Charity S.; Peprah, Jennifer] Univ Ghana Legon, Dept Psychol, Accra, Ghana.
+RP Osafo, J (corresponding author), Univ Ghana Legon, Dept Psychol, POB LG 84, Accra, Ghana.
+EM josaforo@hotmail.co.uk
+RI Quarshie, Emmanuel Nii-Boye/H-5722-2019; Akotia, Charity
+   Sylvia/HNQ-3495-2023
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; Peprah,
+   Jennifer/0000-0003-2610-7378; Osafo, Joseph/0000-0003-4002-291X
+NR 58
+TC 38
+Z9 41
+U1 0
+U2 13
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1748-2623
+EI 1748-2631
+J9 INT J QUAL STUD HEAL
+JI Int. J. Qual. Stud. Health Well-Being
+PY 2015
+VL 10
+AR 27682
+DI 10.3402/qhw.v10.27682
+PG 13
+WC Public, Environmental & Occupational Health; Nursing; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Nursing; Biomedical Social
+   Sciences
+GA CJ0SK
+UT WOS:000355188100001
+PM 26015405
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Quarshie, ENB
+   Boakye, KE
+   Andoh-Arthur, J
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Quarshie, Emmanuel N. -B.
+   Boakye, Kofi E.
+   Andoh-Arthur, Johnny
+TI Police Views of Suicidal Persons and the Law Criminalizing Attempted
+   Suicide in Ghana: A Qualitative Study With Policy Implications
+SO SAGE OPEN
+LA English
+DT Article
+DE attempted suicide; criminalization; Ghana; Ghana Police Service
+ID MENTAL-HEALTH; ATTITUDES; PREVENTION; BEHAVIOR; OFFICERS; PSYCHOLOGISTS;
+   AUTOPSY; WORKERS; NURSES; UGANDA
+AB The penal code of Ghana condemns suicide attempt. The present study sought to explore the views of the police on persons who attempt suicide and the law criminalizing the act. Qualitative in-depth interviews were used to explore the views of 18 officers of the Ghana Police Service. Data were analyzed using thematic analysis technique. Findings showed that the police officers profiled suicide attempters as needy, enigmatic, ignorant, and blameworthy. Majority (n = 14) of them disagreed with the law and suggested a repeal, whereas only four of them agreed with the law. Regardless of their positions on criminalization, they showed an inclination to help, rather than arrest, when confronted with such persons in line of their duty. Educating the police on suicidal behavior may help to deepen their understanding and help improve the way they handle suicidal persons. This may also strengthen police suicide prevention gatekeeping obligations.
+C1 [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, Sch Social Sci, Legon, Ghana.
+   [Quarshie, Emmanuel N. -B.] Univ Leeds, Leeds, W Yorkshire, England.
+   [Boakye, Kofi E.] Anglia Ruskin Univ, Cambridge, England.
+   [Andoh-Arthur, Johnny] Norwegian Univ Sci & Technol, Trondheim, Norway.
+   [Osafo, Joseph; Akotia, Charity S.; Quarshie, Emmanuel N. -B.; Boakye, Kofi E.; Andoh-Arthur, Johnny] CSVR, Accra, Ghana.
+C3 University of Ghana; University of Leeds; Anglia Ruskin University;
+   Norwegian University of Science & Technology (NTNU)
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, Sch Social Sci, Legon, Ghana.
+EM josaforo@gmail.com
+RI Akotia, Charity Sylvia/HNQ-3495-2023; Quarshie, Emmanuel
+   Nii-Boye/H-5722-2019
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; ANDOH-ARTHUR,
+   JOHNNY/0000-0002-7036-1835; Boakye, Kofi/0000-0002-2715-3301; Osafo,
+   Joseph/0000-0003-4002-291X
+FU Office of Research, Innovation and Development (ORID) at the University
+   of Ghana [URF/7/ILG-025/2013-2014]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   project received financial support from Office of Research, Innovation
+   and Development (ORID) at the University of Ghana
+   (URF/7/ILG-025/2013-2014).
+NR 73
+TC 8
+Z9 9
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD OCT 3
+PY 2017
+VL 7
+IS 3
+AR 2158244017731803
+DI 10.1177/2158244017731803
+PG 11
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FI9HG
+UT WOS:000412316000001
+OA Green Accepted, gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Boakye, KE
+   Dickson, E
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Boakye, Kofi E.
+   Dickson, Erica
+TI Between moral infraction and existential crisis: Exploring physicians
+   and nurses' attitudes to suicide and the suicidal patient in Ghana
+SO INTERNATIONAL JOURNAL OF NURSING STUDIES
+LA English
+DT Article
+DE Moral infraction; Existential crisis; Physicians; Nurses; Suicide; Ghana
+ID PSYCHIATRIC-NURSES; HEALTH-PROFESSIONALS; NURSING PERSONNEL;
+   MEDICAL-STUDENTS; MENTAL-HEALTH; SELF-HARM; PREVENTION; BEHAVIOR;
+   CONTACT; PEOPLE
+AB Background. Negative attitudes of health professionals towards suicide may hamper their willingness and skills to work with attempt survivors.
+   Objective: The purpose of this study was to explore the attitudes of physicians and nurses towards suicide and the suicidal patient.
+   Methods: A semi-structured qualitative interview was conducted on Twenty five (25) health professionals: (15 physicians and 10 casualty nurses) from five hospitals in Accra, the capital of Ghana.
+   Results: Findings showed that while majority of physicians viewed suicide as an existential crisis, most of the nurses viewed it as a moral infraction. Three key attitudes towards suicide and the suicidal patient were observed: stable, dissonant and transitioned. The findings are discussed under three main themes: Contexts, Theorizing suicide, and Shades of attitudes.
+   Conclusion: Nurses and Physicians are key gatekeepers in suicide prevention in Ghana. Training is however, needed to improve both attitudes (especially for nurses) and competence towards suicide prevention in the country.
+C1 [Osafo, Joseph; Akotia, Charity S.; Dickson, Erica] Univ Ghana, Sch Social Sci, Dept Psychol, POB LG 84, Legon, Accra, Ghana.
+   [Boakye, Kofi E.] Anglia Ruskin Univ, Fac Arts Law & Social Sci, Dept Humanities & Social Sci, Cambridge, England.
+C3 University of Ghana; Anglia Ruskin University
+RP Osafo, J (corresponding author), Univ Ghana, Sch Social Sci, Dept Psychol, POB LG 84, Legon, Accra, Ghana.
+EM josafo@ug.edu.gh; sakotia@hotmail.com; keb47@cam.ac.uk;
+   erica.dickson@hotmail.com
+RI Akotia, Charity Sylvia/HNQ-3495-2023; Osafo, Joseph/V-7270-2019
+OI Osafo, Joseph/0000-0003-4002-291X; Boakye, Kofi/0000-0002-2715-3301
+FU Office of Research, Innovation and Development (ORID) at the University
+   of Ghana [URF/7/ILG-025/2013-2014]
+FX This project received financial support from Office of Research,
+   Innovation and Development (ORID) at the University of Ghana
+   (URF/7/ILG-025/2013-2014).
+NR 60
+TC 17
+Z9 19
+U1 2
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0020-7489
+EI 1873-491X
+J9 INT J NURS STUD
+JI Int. J. Nurs. Stud.
+PD SEP
+PY 2018
+VL 85
+BP 118
+EP 125
+DI 10.1016/j.ijnurstu.2018.05.017
+PG 8
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA GX2SQ
+UT WOS:000447570800011
+PM 29885548
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Akotia, CS
+   Knizek, BL
+   Hjelmeland, H
+   Kinyanda, E
+   Osafo, J
+AF Akotia, Charity S.
+   Knizek, Birthe Loa
+   Hjelmeland, Heidi
+   Kinyanda, Eugene
+   Osafo, Joseph
+TI Reasons for attempting suicide: An exploratory study in Ghana
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE explanations; gender differences; Ghana; reasons; suicide attempt;
+   suicide behaviour
+ID MENTAL-HEALTH; LOW-INCOME; PSYCHOLOGY STUDENTS; PREVENTION; BEHAVIOR;
+   ATTITUDES; COUNTRIES; SELF; SPIRITUALITY; STRUGGLES
+AB This study examined the reasons for suicide attempts among patients in Ghana. Semi-structured interviews were conducted among 30 informants who had been hospitalized for attempted suicide. Interpretative Phenomenological Analysis (IPA) was used to analyse the transcribed narratives, and five main themes emerged: 1) lack of support; 2) abandonment; 3) shame; 4) existential struggles; and 5) supernatural reasons. There were gender differences with abandonment reported by only women and shame associated with economic difficulties reported only by men. Findings are discussed within the context of a socio-cultural theory of suicide behaviour, and implications for the prevention of suicide and care of suicidal persons are suggested.
+C1 [Akotia, Charity S.; Osafo, Joseph] Univ Ghana, Sch Social Sci, Dept Psychol, Accra, Ghana.
+   [Knizek, Birthe Loa] Norwegian Univ Sci & Technol, Trondheim, Norway.
+   [Hjelmeland, Heidi] Norwegian Univ Sci & Technol, Dept Mental Hlth, Trondheim, Norway.
+   [Kinyanda, Eugene] MRC UVRI Uganda Res Unit AIDS, Mental Hlth Project, Entebbe, Uganda.
+C3 University of Ghana; Norwegian University of Science & Technology
+   (NTNU); Norwegian University of Science & Technology (NTNU)
+RP Akotia, CS (corresponding author), Univ Ghana, Sch Social Sci, Dept Psychol, Accra, Ghana.
+EM sakotia@hotmail.com
+RI kinyanda, eugene/HGC-3554-2022; Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+FU Wellcome Trust [205069/Z/16/Z] Funding Source: Wellcome Trust; Wellcome
+   Trust [205069/Z/16/Z] Funding Source: Medline; MRC [MR/L004623/1]
+   Funding Source: UKRI
+NR 67
+TC 21
+Z9 21
+U1 0
+U2 9
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD FEB
+PY 2019
+VL 56
+IS 1
+BP 233
+EP 249
+DI 10.1177/1363461518802966
+PG 17
+WC Anthropology; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry
+GA HF3NE
+UT WOS:000454141000011
+PM 30299212
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Quarshie, ENB
+   Andoh-Arthur, J
+   Boakye, KE
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Quarshie, Emmanuel Nii-Boye
+   Andoh-Arthur, Johnny
+   Boakye, Kofi E.
+TI Community leaders' attitudes towards and perceptions of suicide and
+   suicide prevention in Ghana
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE attitudes toward suicide; community leaders; gatekeepers; Ghana; suicide
+   prevention
+ID MENTAL-HEALTH-SERVICES; NEED QUALITATIVE RESEARCH; PSYCHOLOGY STUDENTS;
+   LOW-INCOME; CARE; RELIGION; CLERGY; EXPERIENCES; CHALLENGES; BEHAVIOR
+AB Community leaders can play an important role in suicide prevention because they are potential gatekeepers in resource-poor settings. To investigate their attitudes towards suicide and the role they play when people are in suicidal crisis, 10 community leaders were interviewed in a rural community in Ghana. Thematic Analysis of the interviews showed that leaders held two conflicting views about suicide: health crisis and moral taboo. They also viewed the reasons for suicide as psychosocial strains more than psychiatric factors. Though they viewed suicide as a moral taboo, they maintained a more neutral position in their gatekeeping role: providing support for persons in suicidal crisis more often than exerting a condemnatory attitude. Implications for gatekeeper training are discussed.
+C1 [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, Legon, Ghana.
+   [Akotia, Charity S.] Univ Ghana, Sch Social Sci, Legon, Ghana.
+   [Quarshie, Emmanuel Nii-Boye] Univ Leeds, Sch Psychol, Leeds, W Yorkshire, England.
+   [Andoh-Arthur, Johnny] Norwegian Univ Sci & Technol, Trondheim, Norway.
+   [Boakye, Kofi E.] Anglia Ruskin Univ, Criminol, Cambridge, England.
+C3 University of Ghana; University of Ghana; University of Leeds; Norwegian
+   University of Science & Technology (NTNU); Anglia Ruskin University
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, CSVR, Legon, Ghana.
+EM josaforo@hotmail.co.uk
+RI Quarshie, Emmanuel Nii-Boye/H-5722-2019; Akotia, Charity
+   Sylvia/HNQ-3495-2023
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; Osafo,
+   Joseph/0000-0003-4002-291X; Boakye, Kofi/0000-0002-2715-3301;
+   ANDOH-ARTHUR, JOHNNY/0000-0002-7036-1835
+FU Office of Research, Innovation and Development-ORID [URF/7/ILG-025]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was funded by the Office of Research, Innovation and
+   Development-ORID (URF/7/ILG-025) under the general project "Suicide
+   Risks and the Law in Ghana''.
+NR 96
+TC 3
+Z9 3
+U1 0
+U2 5
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD JUN
+PY 2019
+VL 56
+IS 3
+BP 529
+EP 551
+DI 10.1177/1363461518824434
+PG 23
+WC Anthropology; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry
+GA HZ7AY
+UT WOS:000469005100005
+PM 30907246
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Intimate Partner Femicide-Suicides in Ghana: Victims, Offenders, and
+   Incident Characteristics
+SO VIOLENCE AGAINST WOMEN
+LA English
+DT Article
+DE femicide; Ghana; homicide-suicide; intimate partner violence; suicide
+ID HOMICIDE-SUICIDE; NEWSPAPER SURVEILLANCE; BEHAVIOR; PERSPECTIVES;
+   PATTERNS; WOMEN
+AB The present study investigated the scope, nature, and determinants of intimate partner femicide-suicides (IPFS) that occurred in Ghana during 1990 to 2009. All 35 reported cases of intimate partner homicide-suicides with female homicide victims that occurred during the study period were extracted from a major Ghanaian daily newspaper. Findings indicate that offenders were of lower socioeconomic background and tended to be older than their victims. The results further show that shooting with a firearm and hacking with a machete were the primary homicide methods, whereas self-inflicted gunshots and hanging were the dominant suicide methods. Results showed that suspicion of infidelity and sexual jealousy were core contributing factors in arguments, disputes, and altercations that preceded the femicide-suicides. Furthermore, estrangement and threatened divorce or separation by the female intimate partner was a major precipitant of femicide-suicides.
+C1 [Adinkrah, Mensah] Cent Michigan Univ, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 53
+TC 34
+Z9 35
+U1 0
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1077-8012
+EI 1552-8448
+J9 VIOLENCE AGAINST WOM
+JI Violence Against Women
+PD SEP
+PY 2014
+VL 20
+IS 9
+BP 1078
+EP 1096
+DI 10.1177/1077801214549637
+PG 19
+WC Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Women's Studies
+GA AS0TP
+UT WOS:000343991800004
+PM 25261436
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Knizek, BL
+   Akotia, CS
+   Hjelmeland, H
+AF Osafo, J.
+   Knizek, B. L.
+   Akotia, C. S.
+   Hjelmeland, H.
+TI Attitudes of psychologists and nurses toward suicide and suicide
+   prevention in Ghana: A qualitative study
+SO INTERNATIONAL JOURNAL OF NURSING STUDIES
+LA English
+DT Article
+DE Attitudes; Psychologists; Nurses; Suicide; Ghana
+ID HEALTH-PROFESSIONALS; NURSING-EDUCATION; PERSONNEL; BEHAVIOR; COMMUNITY;
+   AMERICAN; STUDENTS; CONTEXT; UGANDA; STYLE
+AB Background: One way of preventing suicide has been increasing awareness among health care professionals of their own attitudes and taboos toward suicide and its prevention.
+   Objective: The purpose of this study was to understand the attitudes of health professionals toward suicidal behavior and its prevention in Ghana.
+   Methods: A total of 17 informants (9 clinical psychologists and 8 emergency ward nurses) in an urban center were interviewed using a semi-structured interview guide. Interpretative Phenomenological Analysis (IPA) was used to analyze the data.
+   Results: We found that the attitudes of these health workers toward suicide and suicide prevention seemed to be transiting between morality and mental health. The psychologists generally saw suicide as a mental health issue, emphasized a caring and empathic view of suicidal persons and approached suicide prevention from a health-service point of view. Mental health education and improvements in primary health care were reported as practical approaches toward suicide prevention. The nurses on the other hand, held a moralistic attitude toward suicide as a crime, viewed suicide persons as blameworthy and approached suicide prevention from a proscriptive perspective. Informal approaches such as talking to people, strengthening the legal code against suicide and threatening suicidal persons with the religious consequences of the act were also indicated as practical approaches to suicide prevention. Educational level, clinical experience with suicidal persons, and religious values, are discussed as influencing the differences in attitudes toward suicide and suicide prevention between psychologists and nurses.
+   Conclusion: Health workers in Ghana need training in suicidology to improve both knowledge and skills relevant for suicide prevention. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Osafo, J.; Akotia, C. S.] Univ Ghana, Dept Psychol, Legon, Accra, Ghana.
+   [Knizek, B. L.] Norwegian Univ Sci & Technol, Dept Psychol, NO-7491 Trondheim, Norway.
+   [Hjelmeland, H.] Norwegian Inst Publ Hlth, Dept Suicide Res & Prevent, Oslo, Norway.
+   [Osafo, J.; Hjelmeland, H.] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+C3 University of Ghana; Norwegian University of Science & Technology
+   (NTNU); Norwegian Institute of Public Health (NIPH); Norwegian
+   University of Science & Technology (NTNU)
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, C-O POB LG 84, Legon, Accra, Ghana.
+EM joseph.osafo@samfunn.ntnu.no; birthe.loa.knizek@svt.ntnu.no;
+   sakotia@libr.ug.edu.gh; heidi.hjelmeland@svt.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+FU Norwegian Research Council
+FX Norwegian Research Council.
+NR 81
+TC 47
+Z9 58
+U1 3
+U2 32
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0020-7489
+EI 1873-491X
+J9 INT J NURS STUD
+JI Int. J. Nurs. Stud.
+PD JUN
+PY 2012
+VL 49
+IS 6
+BP 691
+EP 700
+DI 10.1016/j.ijnurstu.2011.11.010
+PG 10
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA 029JU
+UT WOS:000310492400008
+PM 22177569
+DA 2023-12-06
+ER
+
+PT J
+AU Knizek, BL
+   Akotia, CS
+   Hjelmeland, H
+AF Knizek, Birthe Loa
+   Akotia, Charity Sylvia
+   Hjelmeland, Heidi
+TI A QUALITATIVE STUDY OF ATTITUDES TOWARD SUICIDE AND SUICIDE PREVENTION
+   AMONG PSYCHOLOGY STUDENTS IN GHANA
+SO OMEGA-JOURNAL OF DEATH AND DYING
+LA English
+DT Article
+ID RISK-FACTORS; BEHAVIOR; PERSONNEL; AUTOPSY; NORWAY; COUNTY; UGANDA;
+   CHINA
+AB The purpose of the present study was to investigate attitudes toward suicide and suicide prevention among psychology students in Ghana by means of a qualitative analysis of open-ended questions about causes of suicide and how suicide best can be prevented. The students mainly saw the causes as intra-personal and almost all of them believed that suicide can be prevented. The results indicated a huge impact of religion on the attitudes toward suicide as well as some lack of distinction between their religious and professional roles and responsibilities.
+C1 [Knizek, Birthe Loa] Norwegian Univ Sci & Technol, Dept Psychol, N-7491 Trondheim, Norway.
+   [Akotia, Charity Sylvia] Univ Ghana, Legon, Ghana.
+   [Hjelmeland, Heidi] Norwegian Inst Publ Hlth, Oslo, Norway.
+C3 Norwegian University of Science & Technology (NTNU); University of
+   Ghana; Norwegian Institute of Public Health (NIPH)
+RP Knizek, BL (corresponding author), Norwegian Univ Sci & Technol, Dept Psychol, N-7491 Trondheim, Norway.
+EM Birthe.Loa.Knizek@svt.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+NR 48
+TC 23
+Z9 23
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0030-2228
+EI 1541-3764
+J9 OMEGA-J DEATH DYING
+JI Omega-J. Death Dying
+PY 2010
+VL 62
+IS 2
+BP 169
+EP 186
+DI 10.2190/OM.62.2.e
+PG 18
+WC Psychology, Multidisciplinary; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Biomedical Social Sciences
+GA 698YV
+UT WOS:000285632000005
+PM 21375120
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Hjelmeland, H
+   Knizek, B
+   Akotia, C
+AF Osafo, Joseph
+   Hjelmeland, Heidi
+   Knizek, Birthe
+   Akotia, Charity
+TI Between morality and pathologisation: Attitudes towards
+   de/criminalisation of suicide in Ghana and implications for the criminal
+   code against attempted suicide
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Meeting Abstract
+C1 [Osafo, Joseph] Univ Ghana, Legon, Ghana.
+C3 University of Ghana
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0020-7594
+EI 1464-066X
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PY 2012
+VL 47
+SU 1
+SI SI
+BP 710
+EP 710
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 986WU
+UT WOS:000307377707075
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Andoh-Arthur, J
+   Boakye, KE
+   Quarshie, ENB
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Andoh-Arthur, Johnny
+   Boakye, Kofi E.
+   Quarshie, Emmanuel N-B
+TI "We Now Have a Patient and Not a Criminal": An Exploratory Study of
+   Judges and Lawyers' Views on Suicide Attempters and the Law in Ghana
+SO INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY
+LA English
+DT Article
+DE criminalization; attempted suicide; judges; lawyers; Ghana
+ID PREVENTION; BEHAVIOR; PSYCHOLOGY
+AB This study explored the views of judges and lawyers of the superior courts of Ghana on the law criminalizing attempted suicide. Qualitative data were collected from 12 experienced legal practitioners of the superior courts (five judges and seven lawyers) using a semi-structured interview schedule. Thematic analysis of the data yielded three main perspectives: In defence of the Law, Advocating a Repeal, and Pro-Health Orientation. Although exploratory, the findings of this study offer cues for stepping up suicide literacy and advocacy programmes toward either a repeal of the law or a reform.
+C1 [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Accra, Ghana.
+   [Andoh-Arthur, Johnny] Norwegian Univ Sci & Technol, Trondheim, Norway.
+   [Boakye, Kofi E.] Anglia Ruskin Univ, Cambridge, England.
+   [Quarshie, Emmanuel N-B] Univ Leeds, Leeds, W Yorkshire, England.
+C3 University of Ghana; Norwegian University of Science & Technology
+   (NTNU); Anglia Ruskin University; University of Leeds
+RP Osafo, J (corresponding author), Univ Ghana, Sch Social Sci, Dept Psychol, POB LG84, Legon, Accra, Ghana.
+EM josaforo@gmail.com
+RI Akotia, Charity Sylvia/HNQ-3495-2023; Quarshie, Emmanuel
+   Nii-Boye/H-5722-2019
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; ANDOH-ARTHUR,
+   JOHNNY/0000-0002-7036-1835; Osafo, Joseph/0000-0003-4002-291X; Boakye,
+   Kofi/0000-0002-2715-3301
+FU Office of Research, Innovation and Development (ORID), at the University
+   of Ghana [URF/ILG-025/2013-2014]
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: We
+   acknowledge the funding support we received for this project from the
+   Office of Research, Innovation and Development (ORID;
+   URF/ILG-025/2013-2014), at the University of Ghana.
+NR 67
+TC 7
+Z9 7
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0306-624X
+EI 1552-6933
+J9 INT J OFFENDER THER
+JI Int. J. Offender Ther. Comp. Criminol.
+PD MAY
+PY 2018
+VL 62
+IS 6
+BP 1488
+EP 1508
+DI 10.1177/0306624X17692059
+PG 21
+WC Criminology & Penology; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology
+GA GD0ZZ
+UT WOS:000430231100005
+PM 29237314
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Suicide and Mortuary Beliefs and Practices of the Akan of Ghana
+SO OMEGA-JOURNAL OF DEATH AND DYING
+LA English
+DT Article
+DE suicide; mortuary rites; good death; bad death; Ghana
+ID CONTEMPORARY GHANA; COLLEGE SAMPLES; PSYCHOLOGY STUDENTS; FUNERAL RITES;
+   BEHAVIOR; DEATH; IDEATION; PREVENTION; ATTITUDES; RITUALS
+AB Akan society has traditionally held a negative and condemnatory view of suicide. Evidence of this is reflected in the lack of public mourning, brevity of the grieving period, and denial of proper burial rites and funeral obsequies for the suicide. Furthermore, because suicide is regarded as an abomination against the living, the departed ancestors, as well as the gods of the land, the political authorities of the land must be notified immediately of suicide deaths so that proper placatory and propitiation rituals can be undertaken to forestall any catastrophic diseases, accidents, and natural disasters. Given the current paucity of scholarship on the issue, it is the purpose of this article to explore in depth traditional Akan mortuary beliefs and practices governing suicidal death.
+C1 [Adinkrah, Mensah] Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 54
+TC 13
+Z9 16
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0030-2228
+EI 1541-3764
+J9 OMEGA-J DEATH DYING
+JI Omega-J. Death Dying
+PD DEC
+PY 2016
+VL 74
+IS 2
+BP 138
+EP 163
+DI 10.1177/0030222815598427
+PG 26
+WC Psychology, Multidisciplinary; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Biomedical Social Sciences
+GA EA8XX
+UT WOS:000386924500002
+DA 2023-12-06
+ER
+
+PT J
+AU Asare-Doku, W
+   Osafo, J
+   Akotia, CS
+AF Asare-Doku, Winifred
+   Osafo, Joseph
+   Akotia, Charity S.
+TI Comparing the reasons for suicide from attempt survivors and their
+   families in Ghana
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Suicide; Attempt survivors; Families; Ghana
+ID PSYCHOLOGICAL AUTOPSY; WARNING SIGNS; COUNTRIES; STIGMA
+AB Background: Family members are key in detecting early suicide warning signs. This study compared the reasons for suicidality as reported by attempt survivors with their family folks in Ghana.
+   Methods: A qualitative design was used to select a sample size of 20 (10 family members and 10 suicide attempt survivors). Thematic analysis was used to analyse the data.
+   Results: Analysis of the data showed two major themes: 1) Similar Reasons (where both families and attempt survivors consistently reported similar reasons for suicidality and 2) Different Reasons (where there were sharp divergences).
+   Conclusions: Findings from this study help to understand the readiness of attempt survivor family members to intervene early during suicidal crisis.
+C1 [Asare-Doku, Winifred] Univ Newcastle, Sch Med & Publ Hlth, Callaghan, NSW 2308, Australia.
+   [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, Legon, Ghana.
+C3 University of Newcastle; University of Ghana
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, Legon, Ghana.
+EM josaforo@gmail.com
+RI ASARE-DOKU, WINIFRED/K-8781-2017; Akotia, Charity Sylvia/HNQ-3495-2023;
+   farjad, farshad/AGC-9105-2022; Osafo, Joseph/V-7270-2019
+OI ASARE-DOKU, WINIFRED/0000-0002-9907-3511; Osafo,
+   Joseph/0000-0003-4002-291X
+NR 31
+TC 7
+Z9 7
+U1 0
+U2 1
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD APR 16
+PY 2019
+VL 19
+AR 412
+DI 10.1186/s12889-019-6743-z
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HT9HW
+UT WOS:000464880600004
+PM 30991998
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Akotia, C
+   Kinyanda, E
+   Hjelmeland, H
+   Knizek, B
+AF Akotia, Charity
+   Kinyanda, Eugene
+   Hjelmeland, Heidi
+   Knizek, Birthe
+TI Experiences of suicide attempters in Ghana: What role does religion
+   play?
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Meeting Abstract
+C1 [Akotia, Charity] Univ Ghana, Legon, Ghana.
+C3 University of Ghana
+RI kinyanda, eugene/HGC-3554-2022
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 5
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0020-7594
+EI 1464-066X
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PY 2012
+VL 47
+SU 1
+SI SI
+BP 152
+EP 152
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 986WU
+UT WOS:000307377702002
+DA 2023-12-06
+ER
+
+PT J
+AU Hjelmeland, H
+   Akotia, HS
+   Owens, V
+   Knizek, BL
+   Nordvik, H
+   Schroeder, R
+   Kinyanda, E
+AF Hjelmeland, Heidi
+   Akotia, Charity S.
+   Owens, Vicki
+   Knizek, Birthe L.
+   Nordvik, Hilmar
+   Schroeder, Rose
+   Kinyanda, Eugene
+TI Self-reported suicidal behavior and attitudes toward suicide and suicide
+   prevention among psychology students in Ghana, Uganda, and Norway
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicidal behavior; attitudes; prevention; Africa
+ID QUESTIONNAIRE; ADOLESCENTS; POPULATION; COMMUNITY; COUNTRIES; SWEDISH;
+   SAMPLES
+AB Self-reported suicidal behavior and attitudes toward suicide in psychology students are reported and compared in Ghana, Uganda, and Norway. Small differences only were found in own suicidal behavior. However, experience of suicidal behavior in the surroundings was more common in Uganda than in Ghana and Norway. Although differences were found between the three countries in attitudes toward suicide, which emphasizes the need for culture-sensitive research and prevention, many of the differences were not as big as expected. The most pronounced difference was that the Norwegian students were more reluctant to take a stand on these questions compared to their African counterparts. Some differences were also found between the two African countries. The implications of the results for suicide prevention in Africa are discussed.
+C1 [Hjelmeland, Heidi; Knizek, Birthe L.; Nordvik, Hilmar] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+   [Hjelmeland, Heidi] Norwegian Inst Publ Hlth, Oslo, Norway.
+   [Akotia, Charity S.] Univ Ghana, Dept Psychol, Legon, Accra, Ghana.
+   [Owens, Vicki] Makerere Univ, Dept Mental Hlth & Community Psychol, Kampala, Uganda.
+   [Schroeder, Rose] Austin Community Coll, Austin, TX USA.
+   [Kinyanda, Eugene] MRC, UVRI, Uganda Res Unit AIDS, Entebbe, Uganda.
+   [Knizek, Birthe L.; Nordvik, Hilmar] Norwegian Univ Sci & Technol, Dept Psychol, N-7491 Trondheim, Norway.
+C3 Norwegian University of Science & Technology (NTNU); Norwegian Institute
+   of Public Health (NIPH); University of Ghana; Makerere University;
+   Norwegian University of Science & Technology (NTNU)
+RP Hjelmeland, H (corresponding author), Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+EM Heidi.Hjelmeland@svt.ntnu.no
+RI kinyanda, eugene/HGC-3554-2022
+FU Medical Research Council [MC_U950088495] Funding Source: Medline
+NR 43
+TC 62
+Z9 65
+U1 0
+U2 11
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2008
+VL 29
+IS 1
+BP 20
+EP 31
+DI 10.1027/0227-5910.29.1.20
+PG 12
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 279JZ
+UT WOS:000254352800004
+PM 18389642
+DA 2023-12-06
+ER
+
+PT J
+AU Andoh-Arthur, J
+   Knizek, BL
+   Osafo, J
+   Hjelmeland, H
+AF Andoh-Arthur, Johnny
+   Knizek, Birthe Loa
+   Osafo, Joseph
+   Hjelmeland, Heidi
+TI Suicide among men in Ghana: The burden of masculinity
+SO DEATH STUDIES
+LA English
+DT Article
+ID PSYCHOLOGICAL AUTOPSY; SHAME; ESCAPE
+AB In Ghana, some studies have reported a high rate for both fatal and non-fatal suicidal behaviors among men. The current study aimed at understanding the psychosocial circumstances involved in male suicides. We interviewed between two to seven close relations of each of 12 men who died by suicide. Interpretative phenomenological analysis of data indicates that experiences of shame related to loss of economic control, breach of patriarchal norms, and threats to sexual competence contributed to the suicides. Addressing socioeconomic issues, creating opportunities for men to disclose their emotions, and identifying sources of these emotions may help prevent suicide among men.
+C1 [Andoh-Arthur, Johnny; Knizek, Birthe Loa; Hjelmeland, Heidi] Norwegian Univ Sci & Technol NTNU, Dept Mental Hlth, Fac Med & Hlth Sci, NO-7491 Trondheim, Norway.
+   [Osafo, Joseph] Univ Ghana, Sch Social Sci, Dept Psychol, Legon, Ghana.
+C3 Norwegian University of Science & Technology (NTNU); University of Ghana
+RP Andoh-Arthur, J (corresponding author), Norwegian Univ Sci & Technol NTNU, Dept Mental Hlth, Fac Med & Hlth Sci, NO-7491 Trondheim, Norway.
+EM johnny.andoh-arthur@ntnu.no
+RI ANDOH-ARTHUR, JOHNNY/X-3385-2019
+OI ANDOH-ARTHUR, JOHNNY/0000-0002-7036-1835; Osafo,
+   Joseph/0000-0003-4002-291X
+FU Norwegian University of Science and Technology (NTNU), Trondheim, Norway
+FX We appreciate the Norwegian University of Science and Technology (NTNU),
+   Trondheim, Norway, for funding the study.
+NR 59
+TC 29
+Z9 32
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2018
+VL 42
+IS 10
+BP 658
+EP 666
+DI 10.1080/07481187.2018.1426655
+PG 9
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA GE9FQ
+UT WOS:000431535800007
+PM 29368997
+DA 2023-12-06
+ER
+
+PT J
+AU Baiden, P
+   Kuuire, VZ
+   Shrestha, N
+   Tonui, BC
+   Dako-Gyeke, M
+   Peters, KK
+AF Baiden, Philip
+   Kuuire, Vincent Z.
+   Shrestha, Nibedita
+   Tonui, Betty C.
+   Dako-Gyeke, Mavis
+   Peters, Kersley K.
+TI Bullying victimization as a predictor of suicidal ideation and suicide
+   attempt among senior high school students in Ghana: Results from the
+   2012 Ghana Global School-Based Health Survey
+SO JOURNAL OF SCHOOL VIOLENCE
+LA English
+DT Article
+DE Bullying victimization; suicidal ideation; suicide attempt; adolescents;
+   Ghana
+ID NONSUICIDAL SELF-INJURY; AGE-OF-ONSET; PEER VICTIMIZATION; DEPRESSIVE
+   SYMPTOMS; SOCIAL SUPPORT; INTERPERSONAL THEORY; MEDIATING ROLE;
+   MENTAL-HEALTH; ADOLESCENTS; RISK
+AB This paper examined the effect of bullying victimization on suicidal ideation and suicide attempt among adolescents in Ghana. Data on 1,633 students ages 14-18 years (50.6% males) were analyzed using logistic regression. We found that 17% of the 1,633 adolescents examined reported experiencing suicidal thoughts and about 21% of the 1,633 adolescents attempted suicide at some point during the past year. Prevalence of bullying was reported among 40% of the adolescents. Importantly, we found that the experience of bullying victimization was a significant predictor of both suicidal ideation and suicide attempt. While factors such as loneliness, anxiety, and use of illicit substances were positively associated with suicidal behaviors, participating in physical activity, having friends, and parental support reduced the likelihood of experiencing suicidal ideation. We make several policy recommendations, including educational programs on suicidal behaviors, antibullying interventions, and social support programs within schools and other social settings.
+C1 [Baiden, Philip; Shrestha, Nibedita; Tonui, Betty C.] Univ Texas Arlington, Sch Social Work, 211 S Cooper St,Box 19129, Arlington, TX 76019 USA.
+   [Kuuire, Vincent Z.] Univ Toronto Mississauga, Dept Geog, Mississauga, ON, Canada.
+   [Dako-Gyeke, Mavis] Univ Ghana, Dept Social Work, Legon, Ghana.
+   [Peters, Kersley K.] Toronto Dist Sch Board, N York, ON, Canada.
+C3 University of Texas System; University of Texas Arlington; University of
+   Toronto; University Toronto Mississauga; University of Ghana
+RP Baiden, P (corresponding author), Univ Texas Arlington, Sch Social Work, 211 S Cooper St,Box 19129, Arlington, TX 76019 USA.
+EM philip.baiden@uta.edu
+RI Dako-Gyeke, Mavis/JFB-4880-2023; baiden, philip/H-3465-2019
+OI baiden, philip/0000-0003-3877-2594
+NR 84
+TC 31
+Z9 32
+U1 1
+U2 14
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1538-8220
+EI 1538-8239
+J9 J SCH VIOLENCE
+JI J. Sch. Violence
+PY 2019
+VL 18
+IS 2
+BP 300
+EP 317
+DI 10.1080/15388220.2018.1486200
+PG 18
+WC Criminology & Penology; Education & Educational Research; Psychology,
+   Educational; Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Education & Educational Research; Psychology
+GA IB0FH
+UT WOS:000469933000010
+DA 2023-12-06
+ER
+
+PT J
+AU Eshun, S
+AF Eshun, S
+TI Role of gender and rumination in suicide ideation: A comparison of
+   college samples from Ghana and the United States
+SO CROSS-CULTURAL RESEARCH
+LA English
+DT Article
+ID SEX-DIFFERENCES; DEPRESSION; ATTITUDES; STUDENTS; MOOD
+AB The role of ruminative coping and gender as potential moderators of cultural differences in suicide ideation among 194 college students from Ghana and the United States were studied. Participants completed the Adult Suicidal Ideation. Questionnaire and the Rumination scale of the Response Style Questionnaire. Significant main effects for cultural group and gender Lucre found for suicide ideation. Furthermore, gender and rumination together accounted for significant portions of the variance in suicide ideation scores. Implications for future research are discussed.
+C1 E Stroudsburg Univ, Dept Psychol, E Stroudsburg, PA 18301 USA.
+C3 Pennsylvania State System of Higher Education (PASSHE); East Stroudsburg
+   University
+RP Eshun, S (corresponding author), E Stroudsburg Univ, Dept Psychol, E Stroudsburg, PA 18301 USA.
+NR 38
+TC 37
+Z9 52
+U1 0
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1069-3971
+J9 CROSS-CULT RES
+JI Cross-Cult. Res.
+PD AUG
+PY 2000
+VL 34
+IS 3
+BP 250
+EP 263
+DI 10.1177/106939710003400303
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 340FV
+UT WOS:000088523200003
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Hjelmeland, H
+   Knizek, BL
+AF Osafo, Joseph
+   Akotia, Charity S.
+   Hjelmeland, Heidi
+   Knizek, Birthe L.
+TI From condemnation to understanding: Views on suicidal behavior in Ghana
+   in transition
+SO DEATH STUDIES
+LA English
+DT Article; Proceedings Paper
+CT 1st Critical Suicidology Conference on Suicidology's Cultural Turn and
+   Beyond
+CY MAR, 2016
+CL Prague, CZECH REPUBLIC
+SP Czech Acad Sci, Inst Ethnol
+ID PSYCHOLOGICAL AUTOPSY; CONTEMPORARY GHANA; PREVENTION; COUNTRIES;
+   ATTITUDES; STUDENTS; RELIGION; NURSES; UGANDA
+AB The cultural context in which suicide occurs has been emphasized as critical in understanding the act and informing prevention. Yet the penchant of psychiatrizing suicidality in mainstream suicidology relegates cultural issues to the background. Through the lenses of critical cultural suicidology, the authors have re-emphasized the importance of culture by reviewing the two major meanings of suicide as observed in our 8-year study in Ghana: moral transgression and life crisis. They have also showed the usefulness of the life crisis perspective of suicidality in reducing stigma and sustaining advocacy in decriminalizing attempted suicide in the country.
+C1 [Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, POB LG 84, Legon Boundary, Accra, Ghana.
+   [Hjelmeland, Heidi; Knizek, Birthe L.] Norwegian Univ Sci & Technol, Dept Mental Hlth, Trondheim, Norway.
+C3 University of Ghana; Norwegian University of Science & Technology (NTNU)
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, POB LG 84, Legon Boundary, Accra, Ghana.
+EM josafo@ug.edu.gh
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+NR 82
+TC 5
+Z9 5
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2017
+VL 41
+IS 8
+SI SI
+BP 532
+EP 541
+DI 10.1080/07481187.2017.1333357
+PG 10
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA FN9ZF
+UT WOS:000416401200008
+PM 28532253
+DA 2023-12-06
+ER
+
+PT J
+AU Andoh-Arthur, J
+   Hjelmeland, H
+   Osafo, J
+   Knizek, BL
+AF Andoh-Arthur, Johnny
+   Hjelmeland, Heidi
+   Osafo, Joseph
+   Knizek, Birthe Loa
+TI Walking a tightrope: reflections on police gatekeeping roles in suicide
+   research in Ghana
+SO INTERNATIONAL JOURNAL OF SOCIAL RESEARCH METHODOLOGY
+LA English
+DT Article
+DE Gatekeeping; Ghana; police; suicide research
+ID PSYCHOLOGICAL AUTOPSY INTERVIEWS; QUALITATIVE RESEARCH;
+   INFORMED-CONSENT; GAINING ACCESS; PERCEPTIONS; COOPERATION; FIELDWORK;
+   ATTITUDES; SURVIVORS; BEHAVIOR
+AB Engaging non-conventional gatekeepers such as the police presents both promises and perils. Although studies have relied on police data for researching suicide and other sensitive topics in Africa, there is a paucity of literature that explores or reflects on police gatekeeping and its research implications. This paper presents authors' reflections on police gatekeeping in a qualitative suicide study in Accra, Ghana. The main observation is that the process was double-edged. On the one hand, it led to field delays and costs, (mis)apprehensions and positionality problems, and trust building challenges. On the other hand, it vouched for research(er) credibility, provided therapeutic openings, and facilitated the viability of research with the suicide bereaved. Sensitivity to research context, sensitising the police, and reinforcing therapeutic-research discourse' with participants, are recommended means for aligning participants' goals to research goals and for achieving therapeutic disclosures.
+C1 [Andoh-Arthur, Johnny; Hjelmeland, Heidi; Knizek, Birthe Loa] Norwegian Univ Sci & Technol, Dept Mental Hlth, Fac Med & Hlth Sci, Trondheim, Norway.
+   [Osafo, Joseph] Univ Ghana, Sch Social Sci, Dept Psychol, Accra, Ghana.
+C3 Norwegian University of Science & Technology (NTNU); University of Ghana
+RP Andoh-Arthur, J (corresponding author), Norwegian Univ Sci & Technol, Dept Mental Hlth, Fac Med & Hlth Sci, Trondheim, Norway.
+EM johnny.andoh-arthur@ntnu.no
+RI ANDOH-ARTHUR, JOHNNY/X-3385-2019
+OI ANDOH-ARTHUR, JOHNNY/0000-0002-7036-1835; Osafo,
+   Joseph/0000-0003-4002-291X
+NR 77
+TC 11
+Z9 11
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1364-5579
+EI 1464-5300
+J9 INT J SOC RES METHOD
+JI Int. J. Soc. Res. Methodol.
+PY 2018
+VL 21
+IS 3
+BP 289
+EP 301
+DI 10.1080/13645579.2017.1381820
+PG 13
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA FZ8OE
+UT WOS:000427868300003
+DA 2023-12-06
+ER
+
+PT J
+AU Assan, A
+   Aikins, M
+   Takian, A
+AF Assan, Abraham
+   Aikins, Moses
+   Takian, Amirhossein
+TI Suicide in Ghana: How Could the Community-Based Health Planning and
+   Service (CHPS) Effectively Contribute to Its Prevention?
+SO IRANIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Letter
+ID INTERVENTION
+C1 [Assan, Abraham; Takian, Amirhossein] Univ Tehran Med Sci, Sch Publ Hlth, Dept Hlth Management & Econ, Tehran, Iran.
+   [Assan, Abraham] Global Policy & Advocacy Network GLOOPLAN, Accra, Ghana.
+   [Aikins, Moses] Univ Ghana, Coll Hlth Sci, Sch Publ Hlth, Legon, Ghana.
+   [Takian, Amirhossein] Univ Tehran Med Sci, Sch Publ Hlth, Dept Global Hlth & Publ Policy, Tehran, Iran.
+   [Takian, Amirhossein] Univ Tehran Med Sci, Hlth Equity Res Ctr, Tehran, Iran.
+C3 Tehran University of Medical Sciences; University of Ghana; Tehran
+   University of Medical Sciences; Tehran University of Medical Sciences
+RP Takian, A (corresponding author), Univ Tehran Med Sci, Sch Publ Hlth, Dept Hlth Management & Econ, Tehran, Iran.; Takian, A (corresponding author), Univ Tehran Med Sci, Sch Publ Hlth, Dept Global Hlth & Publ Policy, Tehran, Iran.; Takian, A (corresponding author), Univ Tehran Med Sci, Hlth Equity Res Ctr, Tehran, Iran.
+EM takian@tums.ac.ir
+RI Assan, Abraham/IUP-0939-2023
+OI Assan, Abraham/0000-0002-0332-396X
+FU Tehran University of Medical Sciences - International Campus; Global
+   Policy and Advocacy Network (GLOOPLAN)
+FX The study was supported by Tehran University of Medical Sciences
+   -International Campus, and the Global Policy and Advocacy Network
+   (GLOOPLAN).
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 2251-6085
+EI 2251-6093
+J9 IRAN J PUBLIC HEALTH
+JI Iran J. Public Health
+PD NOV
+PY 2019
+VL 48
+IS 11
+BP 2097
+EP 2099
+PG 3
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA JJ8WF
+UT WOS:000494431900024
+PM 31970115
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Hjelmeland, H
+   Akotia, CS
+   Knizek, BL
+AF Osafo, Joseph
+   Hjelmeland, Heidi
+   Akotia, Charity S.
+   Knizek, Birthe Loa
+TI The meanings of suicidal behaviour to psychology students in Ghana: A
+   qualitative approach
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE suicidal behaviour; attitudes; psychology students; qualitative methods;
+   Ghana
+ID ATTITUDES; PREVENTION; RELIGION; IDEATION; SPIRITUALITY; REFLECTIONS;
+   SURVIVORS; AMERICAN; STIGMA; PEOPLE
+AB The objective of this study was to examine psychology students' attitudes toward suicidal behaviour and the meanings they assign to the act. In-depth interviews were conducted with 15 final year psychology students at a university in Ghana. Interpretative Phenomenological Analysis (IPA) was used to analyze the data. The results indicated that the students had a generalized negative attitude toward suicide. Religious beliefs and family harmony are cultural contexts influencing the interpretation of suicidal behaviour as breach of divine and communal moralities. The implications of these meanings of suicidal behaviour for suicide prevention in Ghana are discussed.
+C1 [Osafo, Joseph] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+   [Akotia, Charity S.] Univ Ghana, Dept Psychol, Legon, Ghana.
+   [Hjelmeland, Heidi] Norwegian Inst Publ Hlth, Oslo, Norway.
+   [Knizek, Birthe Loa] Aarhus Univ, DK-8000 Aarhus C, Denmark.
+   [Knizek, Birthe Loa] Aalborg Univ, Aalborg, Denmark.
+C3 Norwegian University of Science & Technology (NTNU); University of
+   Ghana; Norwegian Institute of Public Health (NIPH); Aarhus University;
+   Aalborg University
+RP Osafo, J (corresponding author), Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+EM joseph.osafo@samfunn.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+NR 74
+TC 25
+Z9 30
+U1 0
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD NOV
+PY 2011
+VL 48
+IS 5
+BP 643
+EP 659
+DI 10.1177/1363461511417319
+PG 17
+WC Anthropology; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry
+GA 851ZQ
+UT WOS:000297311800007
+PM 22021107
+DA 2023-12-06
+ER
+
+PT J
+AU Nakimuli-Mpungu, E
+AF Nakimuli-Mpungu, Etheldreda
+TI Suicide: Global Perspectives From the WHO World Mental Health Surveys
+SO AMERICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Book Review
+ID DELIBERATE SELF-HARM; AFRICAN POPULATION; SOUTH-AFRICA; UGANDA;
+   BEHAVIOR; NORWAY; GHANA
+C1 [Nakimuli-Mpungu, Etheldreda] Makerere Univ, Sch Med, Dept Psychiat, Kampala, Uganda.
+C3 Makerere University
+RP Nakimuli-Mpungu, E (corresponding author), Makerere Univ, Sch Med, Dept Psychiat, Kampala, Uganda.
+OI Nakimuli-Mpungu, Etheldreda/0000-0001-6857-8931
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 13
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI ARLINGTON
+PA 1000 WILSON BOULEVARD, STE 1825, ARLINGTON, VA 22209-3901 USA
+SN 0002-953X
+J9 AM J PSYCHIAT
+JI Am. J. Psychiat.
+PD JAN
+PY 2013
+VL 170
+IS 1
+BP 126
+EP 127
+DI 10.1176/appi.ajp.2012.12091170
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 064OZ
+UT WOS:000313086200019
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Better dead than dishonored: Masculinity and male suicidal behavior in
+   contemporary Ghana
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Ghana; Masculinities; Suicide; Suicidal behavior; Gender; Honor; Shame
+ID PERCEPTIONS; ATTITUDES; UGANDA
+AB In Ghana reliable official data on suicidal behavior are not available. There is also limited empirical research on suicidal behavior in the country. At the same time, police-recorded suicide data, media reports, and communication from professionals in the field indicate that suicidal behavior is a growing problem. To identify current patterns and meanings of male suicidal behavior in Ghana, the study examined official police data spanning 2006-2008. This investigation revealed that reported cases of fatal and nonfatal suicidal behavior overwhelmingly involved males. Furthermore, the majority of males who engaged in suicidal acts did so to deal with feelings of shame and dishonor of variable sources. Findings suggest changing the rigid dichotomization associated with male-female gender roles and socialization that emphasize masculinity ideals in Ghana and the need for increased research and the promotion of counseling for males facing emotional stress. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 Cent Michigan Univ, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 39
+TC 113
+Z9 129
+U1 0
+U2 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD FEB
+PY 2012
+VL 74
+IS 4
+BP 474
+EP 481
+DI 10.1016/j.socscimed.2010.10.011
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 902CY
+UT WOS:000301017400003
+PM 21075496
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Knizek, BL
+   Akotia, CS
+   Hjelmeland, H
+AF Osafo, J.
+   Knizek, B. L.
+   Akotia, C. S.
+   Hjelmeland, H.
+TI Influence of Religious Factors on Attitudes Towards Suicidal Behaviour
+   in Ghana
+SO JOURNAL OF RELIGION & HEALTH
+LA English
+DT Article
+DE Religious factors; Attitudes; Suicidal behaviour; Ghana
+ID PROSOCIAL BEHAVIOR; AFRICAN-AMERICAN; SOCIAL SUPPORT; MENTAL-HEALTH;
+   IDEATION; OPTIMISM; PRAYER; STYLE; ACCEPTABILITY; HOPELESSNESS
+AB The objective of this qualitative study was to understand how religion influences lay persons' attitudes towards suicide in Ghana. Twenty-seven adults from both rural and urban settings were interviewed. Interpretative phenomenological analysis was used to analyse the data. Results showed that the participants are committed to core and normative religious beliefs and practices they perceived as life preserving. Such an understanding influenced their view of suicidal behaviour as unacceptable. Nevertheless, religion facilitated their willingness to help people during suicidal crisis. Religious commitment theory is used to explain some of the findings of this study. Implications for suicide prevention are discussed.
+C1 [Osafo, J.; Hjelmeland, H.] Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+   [Osafo, J.; Akotia, C. S.] Univ Ghana, Dept Psychol, Accra, Ghana.
+   [Knizek, B. L.] Norwegian Univ Sci & Technol, Dept Psychol, N-7491 Trondheim, Norway.
+   [Hjelmeland, H.] Norwegian Inst Publ Hlth, Dept Suicide Res & Prevent, N-0403 Oslo, Norway.
+C3 Norwegian University of Science & Technology (NTNU); University of
+   Ghana; Norwegian University of Science & Technology (NTNU); Norwegian
+   Institute of Public Health (NIPH)
+RP Osafo, J (corresponding author), Norwegian Univ Sci & Technol, Dept Social Work & Hlth Sci, N-7491 Trondheim, Norway.
+EM joseph.osafo@samfunn.ntnu.no; birthe.loa.knizek@svt.ntnu.no;
+   sakotia@libr.ug.edu.gh; heidi.hjelmeland@svt.ntnu.no
+RI Akotia, Charity Sylvia/HNQ-3495-2023
+OI Osafo, Joseph/0000-0003-4002-291X
+NR 90
+TC 30
+Z9 38
+U1 0
+U2 30
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0022-4197
+EI 1573-6571
+J9 J RELIG HEALTH
+JI J. Relig. Health
+PD JUN
+PY 2013
+VL 52
+IS 2
+BP 488
+EP 504
+DI 10.1007/s10943-011-9487-3
+PG 17
+WC Public, Environmental & Occupational Health; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Public, Environmental & Occupational Health; Religion
+GA 126NV
+UT WOS:000317625500013
+PM 21547612
+DA 2023-12-06
+ER
+
+PT J
+AU Osafo, J
+   Akotia, CS
+   Andoh-Arthur, J
+   Quarshie, ENB
+AF Osafo, Joseph
+   Akotia, Charity Sylvia
+   Andoh-Arthur, Johnny
+   Quarshie, Emmanuel Nii-Boye
+TI Attempted Suicide in Ghana: Motivation, Stigma, and Coping
+SO DEATH STUDIES
+LA English
+DT Article
+ID PSYCHOLOGY STUDENTS; MENTAL-ILLNESS; BEHAVIOR; COMMUNICATION;
+   PREVENTION; RESPONSES
+AB To understand the experiences of suicidal persons in Ghana, 10 persons were interviewed after they attempted suicide. Thematic analysis of data showed that motivation for suicidal behavior included social taunting, hopelessness, and partner's infidelity. Suicidal persons reported stigma expressed through physical molestation and social ostracism, which left them traumatized. However, they coped through social support from relations, religious faith, and use of avoidance. Community-wide sensitive education should target reducing stigma and also increase mental health education on suicidal behavior in Ghanaian communities.
+C1 [Osafo, Joseph; Akotia, Charity Sylvia; Andoh-Arthur, Johnny; Quarshie, Emmanuel Nii-Boye] Univ Ghana, Dept Psychol, Accra, Ghana.
+   [Andoh-Arthur, Johnny] Sor Trondelag Univ Coll, Fac Nursing, Trondheim, Norway.
+C3 University of Ghana; Norwegian University of Science & Technology (NTNU)
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, POB LG84, Accra, Ghana.
+EM josaforo@hotmail.co.uk
+RI Akotia, Charity Sylvia/HNQ-3495-2023; Quarshie, Emmanuel
+   Nii-Boye/H-5722-2019; Osafo, Joseph/V-7270-2019; ANDOH-ARTHUR,
+   JOHNNY/X-3385-2019
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; Osafo,
+   Joseph/0000-0003-4002-291X; ANDOH-ARTHUR, JOHNNY/0000-0002-7036-1835
+NR 34
+TC 48
+Z9 50
+U1 0
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2015
+VL 39
+IS 5
+BP 274
+EP 280
+DI 10.1080/07481187.2014.991955
+PG 7
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA CG2LC
+UT WOS:000353105100003
+PM 25562343
+DA 2023-12-06
+ER
+
+PT J
+AU Asare-Doku, W
+   Osafo, J
+   Akotia, CS
+AF Asare-Doku, Winifred
+   Osafo, Joseph
+   Akotia, Charity S.
+TI The experiences of attempt survivor families and how they cope after a
+   suicide attempt in Ghana: a qualitative study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Experiences; Families; Cope; Suicide attempt; Ghana; Qualitative
+ID SUPPORT NEEDS; SELF-HARM; BEHAVIOR; PREVENTION; ATTITUDES; MEMBERS;
+   STIGMA; HEALTH; MEN
+AB Background: Ghana's socio-cultural landscape proscribes suicidal behaviour, and this has serious ramifications for attempt survivors and their families. The objective of this qualitative study was to understand the experiences of the families of attempt survivors and how they cope with the aftermath of the attempt.
+   Methods: Ten families with attempted suicides agreed to participate in the study, hence they were interviewed. The information gathered was manually analyzed according to Interpretative Phenomenological Analysis (IPA) resulting in three major thematic areas.
+   Results: Three major themes emerged two of which addressed negative experiences and reactions towards the attempts: Experiencing shame and stigma, and Reactive affect. The third theme addressed the coping resources of these informants under the theme: Surviving the stress of attempt. The specific coping resources included personalized spiritual coping, social support, and avoidance.
+   Conclusions: Family systems theory is used to explain some of the findings of this study, and the implication for clinical practice and designing postvention programs for families after a suicide attempt are addressed.
+C1 [Asare-Doku, Winifred; Osafo, Joseph; Akotia, Charity S.] Univ Ghana, Dept Psychol, POB LG84, Legon, Accra, Ghana.
+   [Asare-Doku, Winifred] Univ Newcastle, Sch Med & Publ Hlth, Newcastle, NSW, Australia.
+C3 University of Ghana; University of Newcastle
+RP Osafo, J (corresponding author), Univ Ghana, Dept Psychol, POB LG84, Legon, Accra, Ghana.
+EM josafo@ug.edu.gh
+RI Akotia, Charity Sylvia/HNQ-3495-2023; ASARE-DOKU, WINIFRED/K-8781-2017;
+   farjad, farshad/AGC-9105-2022
+OI ASARE-DOKU, WINIFRED/0000-0002-9907-3511; Osafo,
+   Joseph/0000-0003-4002-291X
+NR 54
+TC 34
+Z9 40
+U1 1
+U2 8
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAY 11
+PY 2017
+VL 17
+AR 178
+DI 10.1186/s12888-017-1336-9
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FA4WJ
+UT WOS:000405443600002
+PM 28490324
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Eshun, S
+AF Eshun, S
+TI Sociocultural determinants of suicide ideation: A comparison between
+   American and Ghanaian college samples
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID FAMILY; ADOLESCENTS; ATTITUDES; STUDENTS; ADULTS
+AB This study investigated the role of gender, family cohesion, religiosity, and negative suicide attitudes as potential determinants of cultural differences in suicide ideation among 375 college students from Ghana and the United States. Significant cultural differences were found for suicide ideation, family closeness, religiosity, and negative suicide attitudes. Family cohesion and negative attitudes were significant predictors for both cultural groups. Gender was a significant determinant for suicide ideation among Ghanaians, but not Americans; religiosity was not a significant determinant for either group. More extensive research on sociocultural influences on suicide, especially among countries in which suicide is underreported or not documented, is encouraged.
+C1 E Stroudsburg Univ, Dept Psychol, E Stroudsburg, PA 18301 USA.
+C3 Pennsylvania State System of Higher Education (PASSHE); East Stroudsburg
+   University
+RP Eshun, S (corresponding author), E Stroudsburg Univ, Dept Psychol, Stroud 114,200 Prospect St, E Stroudsburg, PA 18301 USA.
+EM seshun@po-box.esu.edu
+NR 26
+TC 64
+Z9 74
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+EI 1943-278X
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD SUM
+PY 2003
+VL 33
+IS 2
+BP 165
+EP 171
+DI 10.1521/suli.33.2.165.22779
+PG 7
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 700WZ
+UT WOS:000184135300006
+PM 12882417
+DA 2023-12-06
+ER
+
+PT J
+AU Acheampong, AK
+   Aziato, L
+AF Acheampong, Angela Kwartemaa
+   Aziato, Lydia
+TI Suicidal ideations and coping strategies of mothers living with physical
+   disabilities: a qualitative exploratory study in Ghana
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Ghana; Suicide; Mothers with disability; Coping with suicide; Suicidal
+   ideations; Suicidal thoughts and suicidal thoughts
+ID DISABLED WOMEN; SELF-EFFICACY; RISK-FACTORS; DEPRESSION; DISCRIMINATION;
+   BEHAVIOR; STIGMA; IMPACT
+AB BackgroundSuicide is higher among adults with disabilities compared to their counterparts without disabilities and suicide is mostly preceded with suicidal ideations. For each successful suicide, there could be many ideations and attempts. Limited scientific data exist on the issue of mothers with disabilities and suicidal ideations. Therefore, this study explored suicidal ideations and coping strategies of mothers living with physical disabilities in Ghana.MethodsQualitative descriptive exploratory design was used and data was collected through individualized in-depth interviews. All participants were purposefully selected after informed consent was sought. Data was audiotaped, transcribed and analyzed inductively using content analysis technique.ResultsAlmost all the women in this study reported suicidal ideations from time to time. Poisoning was the most predominant means which the women had considered to use if they ever attempted the suicide. Suicidal thoughts were precipitated mainly by discrimination. Their resilience and ability to cope were due to self-motivation, children, counselling, assistance from relatives and prayer.ConclusionWe concluded that, it is crucial for all health professionals to explore and identify suicidal intentions among mothers with disabilities for them to be referred to the appropriate units for necessary help.
+C1 [Acheampong, Angela Kwartemaa] Wisconsin Int Univ Coll Ghana, Sch Nursing, POB LG 751, Legon, Accra, Ghana.
+   [Aziato, Lydia] Univ Ghana, Sch Nursing & Midwifery, Coll Hlth Sci, POB LG 43, Legon, Accra, Ghana.
+C3 University of Ghana
+RP Aziato, L (corresponding author), Univ Ghana, Sch Nursing & Midwifery, Coll Hlth Sci, POB LG 43, Legon, Accra, Ghana.
+EM angela_acheampong@yahoo.com; aziatol@yahoo.com
+NR 37
+TC 7
+Z9 8
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD NOV 9
+PY 2018
+VL 18
+AR 360
+DI 10.1186/s12888-018-1938-x
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GZ9ZN
+UT WOS:000449864300001
+PM 30413152
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Epidemiologic Characteristics of Suicidal Behavior in Contemporary Ghana
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; suicidal behavior; Ghana; Africa; suicide prevention
+ID SOUTH-AFRICA; ATTITUDES; UGANDA
+AB Background: Suicidal behavior receives considerable coverage in African media. Yet, there has been limited empirical research that focuses explicitly on suicidal behavior in African societies, while comprehensive and reliable official data on the phenomenon are limited. Aims: This article contributes to the empirical research on suicidal behavior in African societies by examining police-recorded data on suicidal behavior in Ghana, West Africa. Methods: Official law enforcement data on suicidal behavior spanning 2006-2008 were analyzed to identify current patterns of suicidal behavior in the country. Results: The results indicate that the persons most prone to suicidal behavior were male, young, and poor. The most frequent methods used were hanging, the ingestion of poisons, and shooting. Conclusions: The relatively low rate of recorded suicidal behavior in the society stems partly from the tabooed and criminal aspects of the phenomenon.
+C1 Cent Michigan Univ, Dept Sociol Anthropol & Social Work, Mt Pleasant, MI 48858 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, Mt Pleasant, MI 48858 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 19
+TC 21
+Z9 22
+U1 0
+U2 0
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+J9 CRISIS
+JI Crisis
+PY 2011
+VL 32
+IS 1
+BP 31
+EP 36
+DI 10.1027/0227-5910/a000056
+PG 6
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 729SP
+UT WOS:000287971400005
+PM 21371968
+DA 2023-12-06
+ER
+
+PT J
+AU Issahaku, PA
+AF Issahaku, Paul Alhassan
+TI Health Implications of Partner Violence Against Women in Ghana
+SO VIOLENCE AND VICTIMS
+LA English
+DT Article
+DE intimate partner violence; violence and mental health; northern region;
+   health assessment and care; women in Ghana
+ID DOMESTIC VIOLENCE; MENTAL-HEALTH; POSTTRAUMATIC-STRESS; SLEEP
+   DISRUPTION; RISK; ATTITUDES; SYMPTOMS; BEHAVIOR; IMPACT; HIV
+AB This article explores the health implications of partner violence against women in Ghana using data from northern Ghana. Face-to-face structured interviews were conducted with a sample of 443 women contacted at health facilities in the northern region. Results indicate that 7 out of 10 women have experienced intimate partner violence (IPV) within the past 12 months; 62% had experienced psychological violence, 29% had experienced physical violence, and 34% had experienced sexual violence. Participants reported health problems associated with violence, including injury, thoughts of suicide, sleep disruption, and fear of partner (FP). Logistic regression analyses showed that women who reported physical, psychological, and sexual violence, respectively, had 3.94 times, 10.50 times, and 2.21 times the odds of reporting thoughts of suicide, whereas the odds that women who reported physical, psychological, and sexual violence would report sleep disruption were 4.82 times higher, 4.44 times higher, and 2.50 times higher, respectively. However, only physical and psychological violence predicted the odds of FP. This study shows that IPV is a health risk factor among women in Ghana. Measures that should be designed to improve the health of women experiencing marital violence are suggested.
+C1 [Issahaku, Paul Alhassan] Univ Ghana, Accra, Ghana.
+C3 University of Ghana
+RP Issahaku, PA (corresponding author), Mem Univ Newfoundland, Coughlan Coll, Sch Social Work, CL-3002, St John, NF A1C 5S7, Canada.
+EM pissahaku@yahoo.com
+RI Issahaku, Paul/AGA-0863-2022
+NR 66
+TC 22
+Z9 22
+U1 0
+U2 11
+PU SPRINGER PUBLISHING CO
+PI NEW YORK
+PA 11 WEST 42ND STREET, NEW YORK, NY 10036 USA
+SN 0886-6708
+EI 1945-7073
+J9 VIOLENCE VICTIMS
+JI Violence Vict.
+PY 2015
+VL 30
+IS 2
+BP 250
+EP 264
+DI 10.1891/0886-6708.VV-D-13-00075
+PG 15
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA CE1WK
+UT WOS:000351603400005
+PM 25929140
+DA 2023-12-06
+ER
+
+PT J
+AU Aikins, AD
+AF Aikins, Ama de-Graft
+TI Health psychology in Ghana: A review of the multidisciplinary origins of
+   a young sub-field and its future prospects
+SO JOURNAL OF HEALTH PSYCHOLOGY
+LA English
+DT Review
+DE anthropology; clinical psychology; critical health psychology; Ghana;
+   health policy
+ID SOCIAL-PSYCHOLOGY; MENTAL-HEALTH; CHILDREN; STIGMA; EXPERIENCES;
+   CONTRIBUTE; BEHAVIORS; COMMUNITY; SUICIDE; ILLNESS
+AB This article presents a historical overview of psychology applied to health and health psychology in Ghana. A brief history of health, illness and healthcare in Ghana is introduced. Then, the history of psychology in Ghana is presented, with signposts of the major turns in the field in relation to psychology and other disciplines applied to health and the emergence of health psychology as a sub-field. Selected health psychology studies are reviewed to highlight ideological trends in the field. Finally, future prospects are considered in terms of how the sub-field can transition into an established critical field with unique contributions to make to global health psychology.
+C1 [Aikins, Ama de-Graft] Univ Ghana, Legon, Ghana.
+C3 University of Ghana
+RP Aikins, AD (corresponding author), Univ Ghana, Reg Inst Populat Studies, POB LG96, Legon, Ghana.
+EM adaikins@ug.edu.gh
+NR 96
+TC 3
+Z9 3
+U1 0
+U2 11
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1359-1053
+EI 1461-7277
+J9 J HEALTH PSYCHOL
+JI J. Health Psychol.
+PD MAR
+PY 2018
+VL 23
+IS 3
+SI SI
+BP 425
+EP 441
+DI 10.1177/1359105317752805
+PG 17
+WC Psychology, Clinical
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GC6AI
+UT WOS:000429872100006
+PM 29502454
+DA 2023-12-06
+ER
+
+PT J
+AU Quarshie, ENB
+   Cheataa-Plange, HV
+   Annor, F
+   Asare-Doku, W
+   Lartey, JKS
+AF Quarshie, Emmanuel Nii-Boye
+   Cheataa-Plange, Haziel Vera
+   Annor, Francis
+   Asare-Doku, Winifred
+   Lartey, Joshua King Safo
+TI Prevalence of suicidal behaviour among nursing and midwifery college
+   students in Ghana
+SO NURSING OPEN
+LA English
+DT Article
+DE Ghana; midwifery; nurses; students; suicidal behaviour
+ID REVISED SBQ-R; MENTAL-HEALTH; UNIVERSITY-STUDENTS; PSYCHOLOGICAL
+   DISTRESS; EMOTIONAL INTELLIGENCE; SELF-HARM; THOUGHTS; EDUCATION;
+   IDEATION; NURSES
+AB Aim To provide exploratory and descriptive evidence on the prevalence estimate and some demographic correlates of suicidal behaviour among nursing and midwifery college students in Ghana. Design We used a cross-sectional survey design. Method An anonymous survey involving a randomly selected sample of 305 nursing and midwifery college students was conducted in March-May 2017. The Suicide Behavior Questionnaire-Revised was used to assess suicidal behaviour (i.e., ideation, planning, threat and attempt) and suicidal behaviour risk. Results The lifetime prevalence of suicide ideations (15.4%; 95% confidence interval [CI] = 0.11-0.20), plans (6.6%; 95% CI = 0.04-0.10), attempts (2.3%; 95% CI = 0.01-0.05), threats (13.4%; 95% CI = 0.10-0.18) and 12-month prevalence of ideations (21.3%; 95% CI = 0.17-0.26) are comparable to estimates found in both high-income and low- and middle-income countries. However, associations between the demographic variables studied and suicidal behaviour risk were not statistically significant.
+C1 [Quarshie, Emmanuel Nii-Boye; Annor, Francis; Asare-Doku, Winifred] Univ Ghana, Dept Psychol, Legon, Ghana.
+   [Quarshie, Emmanuel Nii-Boye; Annor, Francis; Asare-Doku, Winifred] CSVR, Accra, Ghana.
+   [Quarshie, Emmanuel Nii-Boye] Univ Leeds, Sch Psychol, Leeds, W Yorkshire, England.
+   [Cheataa-Plange, Haziel Vera] Korle Bu, Nursing & Midwifery Training Coll, Accra, Ghana.
+   [Asare-Doku, Winifred] Univ Newcastle, Callaghan, NSW, Australia.
+   [Lartey, Joshua King Safo] Univ Ghana, Business Sch, Legon, Ghana.
+C3 University of Ghana; University of Leeds; University of Newcastle;
+   University of Ghana
+RP Quarshie, ENB (corresponding author), Univ Ghana, Dept Psychol, Legon, Ghana.
+EM enquarshie@gmail.com
+RI Quarshie, Emmanuel Nii-Boye/H-5722-2019; ASARE-DOKU,
+   WINIFRED/K-8781-2017; Annor, Francis/ABG-5325-2021; Lartey,
+   Joshua/ITU-1362-2023
+OI Quarshie, Emmanuel Nii-Boye/0000-0002-8720-2355; ASARE-DOKU,
+   WINIFRED/0000-0002-9907-3511; Lartey, Joshua King
+   Safo/0000-0001-7217-5764; Annor, Francis/0000-0002-4332-1504
+NR 80
+TC 19
+Z9 19
+U1 3
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 2054-1058
+J9 NURS OPEN
+JI NURS. OPEN
+PD JUL
+PY 2019
+VL 6
+IS 3
+BP 897
+EP 906
+DI 10.1002/nop2.271
+PG 10
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA IK9LX
+UT WOS:000476917700027
+PM 31367413
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI Husbands who kill their wives - An analysis of uxoricides in
+   contemporary Ghana
+SO INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY
+LA English
+DT Article
+DE uxoricide; spousal murder; wife killing; homicide; Ghana
+ID SPOUSAL HOMICIDES; UNITED-STATES; VIOLENCE; PATTERNS; WOMEN
+AB This article addresses the current lack of research on uxoricides in non-Western societies by examining the phenomenon in Ghana, West Africa. Analysis of data from the 60 husband-wife killings reported in a national daily newspaper reveals that jealousy and suspicion of infidelity overwhelmingly provided the basis for wife murders. The findings also indicate that assailants and victims were of low socioeconomic background and the murders predominantly occurred in the rural areas of the country. Posthomicidal suicide by the assailant occurred in about one fourth of the cases. Overall, the results demonstrate that the patterns of uxoricide in Ghana are congruous in many significant ways with those noted in Western industrialized societies. It is concluded that additional research in non-Western societies is warranted to contribute to the development of sound conclusions about and remedies for uxoricide.
+C1 Cent Michigan Univ, Dept Sociol Anthropol & Social Work, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 52
+TC 29
+Z9 35
+U1 0
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0306-624X
+EI 1552-6933
+J9 INT J OFFENDER THER
+JI Int. J. Offender Ther. Comp. Criminol.
+PD JUN
+PY 2008
+VL 52
+IS 3
+BP 296
+EP 310
+DI 10.1177/0306624X07307119
+PG 15
+WC Criminology & Penology; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Psychology
+GA 298VR
+UT WOS:000255715700005
+PM 17923510
+DA 2023-12-06
+ER
+
+PT J
+AU Hagaman, AK
+   Wagenaar, BH
+   McLean, KE
+   Kaiser, BN
+   Winskell, K
+   Kohrt, BA
+AF Hagaman, Ashley K.
+   Wagenaar, Bradley H.
+   McLean, Kristen E.
+   Kaiser, Bonnie N.
+   Winskell, Kate
+   Kohrt, Brandon A.
+TI Suicide in rural Haiti: Clinical and community perceptions of
+   prevalence, etiology, and prevention
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Haiti; Mental health; Suicide; Qualitative methods; Healthcare
+   communication
+ID PSYCHOLOGY STUDENTS; MENTAL-ILLNESS; RISK-FACTORS; IDEATION; ATTITUDES;
+   BEHAVIOR; COMMUNICATION; GHANA; PERSPECTIVES; COUNTRIES
+AB Suicide is a complex global public health problem, yet few studies have examined local socio-cultural explanatory models and other contextual factors surrounding suicide in low-and-middle-income countries. Such research is critical, as suicide frequency and etiology, as well as care-seeking in the case of distress, differ contextually and by sub-groups within a population. This is the first study of its kind to explore the dual perspectives of both healthcare workers and community members regarding suicide in Haiti. We conducted semi-structured, in-depth interviews between May and June 2011 with eight biomedical healthcare workers and 16 lay community members. Qualitative data analysis, drawing on interpretive phenomenological analysis, addressed themes including perceived suicide frequency, veracity of suicidal ideation claims, perceived causal factors, religious constructs related to suicide, and support resources for suicidality. Compared to community members, healthcare workers underestimated the frequency of suicide and were less likely to interpret suicide-related claims as representing true intent. Religious perspectives influenced attitudes toward suicide, albeit in different ways: Christian concern with the afterlife resulted in suicide being unacceptable and sinful, while Vodou explanatory frameworks displaced blame and stigma away from suicidal individuals. Healthcare workers' failure to recognize suicide as a serious problem suggests that the formal health system is currently ill-equipped to respond to suicide-related needs. Religious practice and community supports in rural Haiti may serve as essential resources for prevention programs. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Hagaman, Ashley K.] Arizona State Univ, Sch Human Evolut & Social Change, Dept Global Hlth, Tempe, AZ 85251 USA.
+   [Wagenaar, Bradley H.] Univ Washington, Sch Publ Hlth & Community Med, Dept Epidemiol, Seattle, WA 98195 USA.
+   [McLean, Kristen E.] Yale Univ, Dept Anthropol, New Haven, CT 06520 USA.
+   [Kaiser, Bonnie N.] Emory Univ, Laney Grad Sch, Dept Anthropol, Atlanta, GA 30322 USA.
+   [Winskell, Kate] Emory Univ, Rollins Sch Publ Hlth, Dept Global Hlth, Atlanta, GA 30322 USA.
+   [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, Washington, DC USA.
+C3 Arizona State University; Arizona State University-Tempe; University of
+   Washington; University of Washington Seattle; Yale University; Emory
+   University; Emory University; Rollins School Public Health; George
+   Washington University
+RP Hagaman, AK (corresponding author), Arizona State Univ, Sch Human Evolut & Social Change, Dept Global Hlth, Tempe, AZ 85251 USA.
+EM hagamana@gmail.com
+OI Hagaman, Ashley/0000-0002-8016-1036; Kaiser, Bonnie/0000-0003-0742-1302
+FU Emory University's Global Health Institute Multidisciplinary Team Field
+   Scholars Award; Emory University's Global Field Experience Award;
+   National Science Foundation Graduate Research Fellowship [0234618];
+   Division Of Graduate Education; Direct For Education and Human Resources
+   [0234618] Funding Source: National Science Foundation
+FX The authors gratefully acknowledge the contributions of field research
+   assistants Desir Fitzner, Wilfrid Jean, Adner Louis, Anel Lavard, and
+   Alexis Ronel. The authors appreciate the support of Cate Oswald and her
+   colleagues at Partners in Health/Zanmi Lasante. This work was supported
+   by Emory University's Global Health Institute Multidisciplinary Team
+   Field Scholars Award, Emory University's Global Field Experience Award,
+   and the National Science Foundation Graduate Research Fellowship (grant
+   # 0234618).
+NR 58
+TC 25
+Z9 34
+U1 0
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD APR
+PY 2013
+VL 83
+BP 61
+EP 69
+DI 10.1016/j.socscimed.2013.01.032
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 118KY
+UT WOS:000317025600008
+PM 23465205
+DA 2023-12-06
+ER
+
+PT J
+AU Sulemana, I
+   Anarfo, EB
+   Doabil, L
+AF Sulemana, Iddisah
+   Anarfo, Ebenezer Bugri
+   Doabil, Louis
+TI Unemployment and self-rated health in Ghana: are there gender
+   differences?
+SO INTERNATIONAL JOURNAL OF SOCIAL ECONOMICS
+LA English
+DT Article
+DE Ghana; Unemployment; Self-rated health; Gender differences;
+   Self-reported health; E24; I18; J16; J64
+ID LONG-TERM UNEMPLOYMENT; MENTAL-HEALTH; FOLLOW-UP; INCOME INEQUALITY;
+   REPORTED HEALTH; FINNISH MEN; MORTALITY; SUICIDE; WOMEN; STATE
+AB Purpose A large extant literature examines the association between unemployment and self-rated health. Most of these studies reveal that unemployment diminishes self-rated health. Another strand of this literature, albeit sparse, suggests that the relationship between unemployment and self-rated health is gendered. The purpose of this paper is twofold: first, to examine whether unemployment is correlated with self-rated health in Ghana; and second, to explore whether and to what extent men differ from women on the basis of this relationship. Design/methodology/approach The authors used data from the Wave 6 of World Values Survey in Ghana (n=1552) and probit and instrumental variable probit regressions to empirically examine the association between unemployment and self-rated health in Ghana. Findings The results confirm that unemployment is negatively correlated with self-rated health among Ghanaians. Specifically, the unemployed are about 6.84-7.20 percent less likely to report good health status in a pooled sample. Further, after correcting for endogeneity, unemployed men are about 26.68 percent less likely to report good health. However, the association is not statistically significant for unemployed women. Originality/value The study contributes to the literature by providing empirical evidence from Ghana.
+C1 [Sulemana, Iddisah] Univ Ghana, Dept Econ, Accra, Ghana.
+   [Anarfo, Ebenezer Bugri; Doabil, Louis] Ghana Inst Management & Publ Adm, Business Sch, Achimota, Ghana.
+C3 University of Ghana
+RP Sulemana, I (corresponding author), Univ Ghana, Dept Econ, Accra, Ghana.
+EM idsulemana@ug.edu.gh
+RI Doabil, Louis/AAN-1301-2021; Doabil, Louis/GPS-5136-2022; Doabil,
+   Louis/GQQ-1654-2022
+OI Doabil, Louis/0000-0002-2692-5816; Doabil, Louis/0000-0002-2692-5816;
+   Sulemana, Iddisah/0000-0002-3184-2230
+NR 92
+TC 1
+Z9 1
+U1 1
+U2 5
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0306-8293
+EI 1758-6712
+J9 INT J SOC ECON
+JI Int. J. Soc. Econ.
+PD AUG 12
+PY 2019
+VL 46
+IS 9
+BP 1155
+EP 1170
+DI 10.1108/IJSE-03-2018-0166
+PG 16
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA JC1FJ
+UT WOS:000489023600007
+DA 2023-12-06
+ER
+
+PT J
+AU Adinkrah, M
+AF Adinkrah, Mensah
+TI PATTERNS OF FEMALE SUICIDAL BEHAVIOR IN GHANA
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID SEXUAL-ABUSE; GENDER DIFFERENCES; RISK-FACTORS; WOMEN; HUSBANDS;
+   CULTURE; POLICY; KILL
+AB The suicidal behavior of African females is a rarely explored topic. The present study is a descriptive analysis of fatal and nonfatal female suicidal behavior in Ghana. Patterns of both fatal and nonfatal female suicidal behavior recorded by the Ghana Police Service during 2006-2008 are examined and described in depth. The data show that during the 3-yr. period, there were 11 fatal and 4 nonfatal suicidal acts by females, out of the total 243 fatal and 44 nonfatal suicidal acts found in the official data. The author describes the ages and occupations of the women and girls who engaged in fatal and nonfatal suicidal behavior, as well as the suicide method, location, circumstances, and police-assigned motives for the suicidal acts. The author concludes that additional research on female suicidal behavior in Africa and other non-Western societies is warranted to develop a more precise understanding of suicidality.
+C1 Cent Michigan Univ, Dept Sociol Anthropol & Social Work, Mt Pleasant, MI 48859 USA.
+C3 Central Michigan University
+RP Adinkrah, M (corresponding author), Cent Michigan Univ, Dept Sociol Anthropol & Social Work, 126 Anspach Hall, Mt Pleasant, MI 48859 USA.
+EM adink1m@cmich.edu
+RI Adinkrah, Mensah/L-4172-2019
+OI Adinkrah, Mensah/0000-0003-1689-7329
+NR 53
+TC 11
+Z9 12
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0033-2941
+EI 1558-691X
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD OCT
+PY 2011
+VL 109
+IS 2
+BP 649
+EP 662
+DI 10.2466/09.12.13.17.PR0.109.5.649-662
+PG 14
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 854YR
+UT WOS:000297531200021
+PM 22238863
+DA 2023-12-06
+ER
+
+PT J
+AU Türkles, S
+   Yilmaz, M
+   Soylu, P
+AF Turkles, Serpil
+   Yilmaz, Mualla
+   Soylu, Pinar
+TI Feelings, thoughts and experiences of nurses working in a mental health
+   clinic about individuals with suicidal behaviors and suicide attempts
+SO COLLEGIAN
+LA English
+DT Article
+DE Suicide; Suicide attempt; Nurses; Feelings; Thoughts; Experiences
+ID ATTITUDES; GHANA
+AB Background: It is of the utmost importance to determine the views of nurses about patients with suicidal behavior and who attempt suicide so that they can help such individuals.
+   Aim: The aim of this study was to investigate the feelings, thoughts and experiences of nurses working in a mental health clinic regarding individuals with suicidal behaviors and suicide attempts.
+   Methods: A qualitative study design was employed. Data in this research study were collected through individual in-depth interviews. The study population included 121 nurses working at a Mental Health and Diseases Hospital in Turkey. The study sample consisted of 33 nurses who had been working at the hospital for at least one year, had experience working with patients who attempted suicide, and agreed to participate in the study.
+   Results: The nurses understood the patients; they experienced sadness, worry, anxiety, stress, unrest and fear; they were blamed by the hospital administration when a patient committed suicide; they blamed themselves and doctors for patient suicides; and they had developed proposals to prevent suicide among hospitalized or discharged patients. The nurses also stated that patients committed suicide in the evening or in the early hours of the morning by strangling or hanging themselves or by shocking and unforeseen methods, although the nurses performed the necessary emergency intervention procedures.
+   Conclusion: It is recommended that planned group meetings for nurses be arranged and that follow-up guidelines/protocols for patients with suicidal tendencies who are residing in mental health clinics be prepared by a committee of healthcare professionals. (C) 2017 Australian College of Nursing Ltd. Published by Elsevier Ltd.
+C1 [Turkles, Serpil; Yilmaz, Mualla] Mersin Univ, Sch Hlth, Dept Mental Hlth Nursing, Ciftlikkoy Campus, Mersin, Turkey.
+   [Soylu, Pinar] Numune Hosp, Seyhan Applicat Ctr, Coronary Intens Care Unit, Adana, Turkey.
+C3 Mersin University; Adana Numune Training & Research Hospital
+RP Türkles, S (corresponding author), Mersin Univ, Sch Hlth, Dept Mental Hlth Nursing, Ciftlikkoy Campus, Mersin, Turkey.
+EM serpil33@mersin.edu.tr; mualley69@mynet.com; p.soylu01@gmail.com
+RI Yılmaz, Serpil/AFE-1462-2022; Yılmaz, Mualla/AAG-5338-2019
+OI Yılmaz, Serpil/0000-0002-9259-9975; 
+NR 27
+TC 9
+Z9 11
+U1 2
+U2 20
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1322-7696
+EI 1876-7575
+J9 COLLEGIAN
+JI Collegian
+PD AUG
+PY 2018
+VL 25
+IS 4
+BP 441
+EP 446
+DI 10.1016/j.colegn.2017.11.002
+PG 6
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA GM5HU
+UT WOS:000438166600012
+DA 2023-12-06
+ER
+
+PT J
+AU Ohene, SA
+   Johnson, K
+   Atunah-Jay, S
+   Owusu, A
+   Borowsky, IW
+AF Ohene, Sally-Ann
+   Johnson, Kiana
+   Atunah-Jay, Sarah
+   Owusu, Andrew
+   Borowsky, Iris Wagman
+TI Sexual and physical violence victimization among senior high school
+   students in Ghana: Risk and protective factors
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Ghana; Youth violence prevention; Victimization; Risk factors;
+   Protective factors; Sexual violence; Physical violence
+ID YOUNG-PEOPLE; ADOLESCENTS; HEALTH; YOUTH; PERPETRATION; EXPERIENCES;
+   PREVALENCE; BEHAVIORS; COERCION; CHILDREN
+AB Violence in all forms poses a concern because of associations with multiple adverse effects including injuries and mental health problems. There is however limited data on violence in general and youth violence in particular in Ghana. To explore the nature and scope of youth violence in Ghana, we used the nationwide Global School-based Health Survey, conducted among senior high school students in Ghana, to explore risk and protective factors at the individual, family, and environmental levels associated with sexual and physical violence victimization. A fifth of these students reported being forced to have sex in their lifetime while two out of five had been a victim of a physical attack in the year preceding the survey. In final multivariate analysis, for sexual violence victimization, history of sexual activity with or without condom use at last sex, feeling sad or hopeless, and being a victim of bullying and electronic bullying were identified as risk factors, while having friends who were not sexually active was protective. Independent risk factors for physical violence victimization were attempting suicide in the last year, alcohol use in the past month, and bullying other students in the past month. Parent respect for privacy just reached significance as a protective factor for physical violence victimization in the final model. Recognition of the magnitude of violence victimization among Ghanaian students and associated factors must be used to guide development and implementation of appropriate concrete measures to prevent and address the problem. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Johnson, Kiana; Borowsky, Iris Wagman] E Tennessee State Univ, Quillen Coll Med, Dept Pediat, Johnson City, TN 37614 USA.
+   [Atunah-Jay, Sarah] Mercy Hosp Allina Hlth, Coon Rapids, MN USA.
+   [Owusu, Andrew] Middle Tennessee State Univ, Dept Hlth & Human Performance, Murfreesboro, TN USA.
+C3 East Tennessee State University; Allina Health System; Middle Tennessee
+   State University
+RP Borowsky, IW (corresponding author), Univ Minnesota, Dept Pediat, Div Gen Pediat & Adolescent Hlth, 717 Delaware St SE,Suite 353, Minneapolis, MN 55414 USA.
+EM borow004@umn.edu
+RI Johnson, Kiana/AAY-8075-2020
+OI Johnson, Kiana/0000-0002-7090-9389; Borowsky, Iris/0000-0001-6451-7779
+FU National Research Service Award (NRSA) in Primary Medical Care, Bureau
+   of Health Workforce, Health Resources and Services Administration,
+   Department of Health and Human Services [T32HP22239]
+FX We thank the students, teachers, and Ghana Education Service for their
+   participation and assistance in the Global School-based Student Health
+   Survey. KJ was supported by a National Research Service Award (NRSA) in
+   Primary Medical Care, grant no. T32HP22239 (PI: Borowsky), Bureau of
+   Health Workforce, Health Resources and Services Administration,
+   Department of Health and Human Services. SAO is a WHO staff member. The
+   content of this article does not necessarily represent WHO policies.
+NR 59
+TC 32
+Z9 35
+U1 5
+U2 26
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD DEC
+PY 2015
+VL 146
+SI SI
+BP 266
+EP 275
+DI 10.1016/j.socscimed.2015.10.019
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA CX0EQ
+UT WOS:000365370100033
+PM 26603310
+DA 2023-12-06
+ER
+
+PT J
+AU Dzokoto, V
+   Barnett, C
+   Osei-Tutu, A
+   Briggs, A
+AF Dzokoto, Vivian
+   Barnett, Christina
+   Osei-Tutu, Annabella
+   Briggs, Alexis
+TI Mental health reportage in Ghanaian newspapers between 2000 and 2015: A
+   qualitative analysis
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH
+LA English
+DT Article
+DE Ghana newspaper; mental health; media; Africa
+ID MEDIA DEPICTIONS; ILLNESS; DISORDERS; PRINT; TEXT
+AB Print media plays an important role in the circulation of information in contemporary Ghanaian society. We thematically examined the content of 164 mental health-related articles published between 2000 and 2015 in six widely circulating Ghanaian newspapers. The articles included investigative reports related to specific public events and incidents; advice columns; editorials; and didactic pieces. The articles covered the following four major topics: (1) Mental health awareness and advocacy; (2) Suicide; (3) Donations; and (4) Religion. Our findings demonstrate that Ghanaian newspapers promote awareness about mental disorders; advocate for those with mental disorders; provide mostly accurate basic knowledge about the nature and management of specific disorders; and inform the public about the state of mental health care in Ghana. We also observed that newspapers serve as a medium through which social representations of mental disorder in society are circulated, and in which tensions between common sense views and evidence-based information on mental health are expressed.
+C1 [Dzokoto, Vivian; Barnett, Christina] Virginia Commonwealth Univ, Dept African Amer Studies, Med Coll Virginia Campus, Richmond, VA 23284 USA.
+   [Osei-Tutu, Annabella] Univ Ghana, Legon, Ghana.
+   [Briggs, Alexis] Boston Coll, Boston, MA USA.
+C3 Virginia Commonwealth University; University of Ghana; Boston College
+RP Dzokoto, V (corresponding author), Virginia Commonwealth Univ, Dept African Amer Studies, Med Coll Virginia Campus, Richmond, VA 23284 USA.
+EM vdzokoto@vcu.edu
+RI Dzokoto, Vivian Afi/AAC-2528-2020
+OI Dzokoto, Vivian Afi/0000-0002-7668-9962
+NR 64
+TC 5
+Z9 6
+U1 1
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0020-7411
+EI 1557-9328
+J9 INT J MENT HEALTH
+JI Int. J. Ment. Health
+PY 2018
+VL 47
+IS 3
+BP 192
+EP 214
+DI 10.1080/00207411.2018.1488557
+PG 23
+WC Psychology, Clinical; Health Policy & Services; Psychiatry; Psychology
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology; Health Care Sciences & Services; Psychiatry
+GA HH9IQ
+UT WOS:000456051700002
+DA 2023-12-06
+ER
+
+PT J
+AU Quansah, E
+   Karikari, T
+AF Quansah, Emmanuel
+   Karikari, Thomas K.
+TI Neuroscience-related research in Ghana: a systematic evaluation of
+   direction and capacity
+SO METABOLIC BRAIN DISEASE
+LA English
+DT Article
+DE Mental health; Neuroscience; Research capacity; Science policy; Research
+   focus; Ghana
+ID SUB-SAHARAN AFRICA; MENTAL-HEALTH-SERVICES; PARKINSONS-DISEASE;
+   NEUROGENOMICS; PREVALENCE; DISORDERS; COUNTRIES
+AB Neurological and neuropsychiatric diseases account for considerable healthcare, economic and social burdens in Ghana. In order to effectively address these burdens, appropriately-trained scientists who conduct high-impact neuroscience research will be needed. Additionally, research directions should be aligned with national research priorities. However, to provide information about current neuroscience research productivity and direction, the existing capacity and focus need to be identified. This would allow opportunities for collaborative research and training to be properly explored and developmental interventions to be better targeted. In this study, we sought to evaluate the existing capacity and direction of neuroscience-related research in Ghana. To do this, we examined publications reporting research investigations authored by scientists affiliated with Ghanaian institutions in specific areas of neuroscience over the last two decades (1995-2015). 127 articles that met our inclusion criteria were systematically evaluated in terms of research foci, annual publication trends and author affiliations. The most actively-researched areas identified include neurocognitive impairments in non-nervous system disorders, depression and suicide, epilepsy and seizures, neurological impact of substance misuse, and neurological disorders. These studies were mostly hospital and community-based surveys. About 60 % of these articles were published in the last seven years, suggesting a recent increase in research productivity. However, data on experimental and clinical research outcomes were particularly lacking. We suggest that future investigations should focus on the following specific areas where information was lacking: large-scale disease epidemiology, effectiveness of diagnostic platforms and therapeutic treatments, and the genetic, genomic and molecular bases of diseases.
+C1 [Quansah, Emmanuel] De Montfort Univ, Fac Hlth & Life Sci, Pharmacol, Leicester LE1 9BH, Leics, England.
+   [Quansah, Emmanuel] Univ Cape Coast, Sch Biol Sci, Dept Mol Biol & Biotechnol, Cape Coast, Ghana.
+   [Karikari, Thomas K.] Univ Warwick, Sch Life Sci, Neurosci, Coventry CV4 7AL, W Midlands, England.
+   [Karikari, Thomas K.] Univ Warwick, Midlands Integrat Biosci Training Partnership, Coventry CV4 7AL, W Midlands, England.
+C3 De Montfort University; University of Cape Coast; University of Warwick;
+   University of Warwick
+RP Quansah, E (corresponding author), De Montfort Univ, Fac Hlth & Life Sci, Pharmacol, Leicester LE1 9BH, Leics, England.; Quansah, E (corresponding author), Univ Cape Coast, Sch Biol Sci, Dept Mol Biol & Biotechnol, Cape Coast, Ghana.; Karikari, T (corresponding author), Univ Warwick, Sch Life Sci, Neurosci, Coventry CV4 7AL, W Midlands, England.; Karikari, T (corresponding author), Univ Warwick, Midlands Integrat Biosci Training Partnership, Coventry CV4 7AL, W Midlands, England.
+EM quansahmanuel@yahoo.com; T.K.Karikari@warwick.ac.uk
+RI Karikari, Thomas/ABC-3367-2020
+OI Karikari, Thomas/0000-0003-1422-4358
+FU Biotechnology and Biological Sciences Research Council (BBSRC) through
+   Midlands Integrative Biosciences Training Partnership (MIBTP)
+   [BB/J014532/1]; De Montfort University, Leicester, UK; Research Councils
+   UK (RCUK) Block Grant at the University of Warwick
+FX TKK was funded by the Biotechnology and Biological Sciences Research
+   Council (BBSRC; http://www.bbsrc.ac.uk) grant number BB/J014532/1,
+   through the Midlands Integrative Biosciences Training Partnership
+   (MIBTP). EQ was supported by a doctoral studentship from De Montfort
+   University, Leicester, UK. TKK acknowledges support from the Research
+   Councils UK (RCUK) Block Grant at the University of Warwick for the
+   payment of open access fee. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript.
+NR 60
+TC 7
+Z9 8
+U1 0
+U2 9
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0885-7490
+EI 1573-7365
+J9 METAB BRAIN DIS
+JI Metab. Brain Dis.
+PD FEB
+PY 2016
+VL 31
+IS 1
+SI SI
+BP 11
+EP 24
+DI 10.1007/s11011-015-9724-7
+PG 14
+WC Endocrinology & Metabolism; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Endocrinology & Metabolism; Neurosciences & Neurology
+GA DB7XI
+UT WOS:000368730100003
+PM 26344503
+OA Green Published, hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Adomako, EB
+   Baffour, FD
+AF Adomako, Emmanuel Brenyah
+   Baffour, Frank Darkwa
+TI Suffering in the Hands of a Loved One: The Endemic to Intimate Partner
+   Violence and Consequences on Migrant Female Head-Load Carriers in Ghana
+SO JOURNAL OF INTERPERSONAL VIOLENCE
+LA English
+DT Article
+DE battered women; domestic violence; anything related to sexual assault;
+   sexual assault; mental health and violence
+ID WOMENS HEALTH; DOMESTIC VIOLENCE; PREVALENCE; RISK; HELP
+AB The study contributed to filling a knowledge gap in the area of intimate partner violence (IPV). Previous studies conducted in Ghana have investigated the causes and types of IPV, leaving a gap on the consequences the violence had on the victims. Using a population of local economic migrants (hereafter, head-load carriers), a qualitative design with emphasis on phenomenology was employed to investigate the effects of IPV on 20 head-load carriers in two major cities in Ghana (Kumasi and Accra). The analysis performed on the data, using interpretive phenomenological analysis, revealed that IPV affected the head-load carriers' health, employment, and human relationships. Each of the participants spoke of one or more health complications, which they attributed to IPV. Among the health-related effects reported by the head-load carriers were body pains, wounds, depression, suicide ideation, headache, and abdominal pains that resulted from the termination of an unwanted pregnancy. All the head-load carriers recounted the detrimental outcomes of IPV on their job and human relationships. After they had experienced IPV, some of the victims could not go to work due to fear of stigmatization and those who were able to could not work as they usually do due to severe pain. At their workplace, some of the IPV victims became aggressive toward customers and coworkers, whereas others remained isolated. These negatively impacted on their human relationship skills and earnings. Based on the findings, there is the need for policies that seek to address IPV to consider the effects on victims' employment, earning, and behavior.
+C1 [Adomako, Emmanuel Brenyah] Univ Ghana, Accra, Ghana.
+   [Baffour, Frank Darkwa] James Cook Univ, Douglas, Qld, Australia.
+C3 University of Ghana; James Cook University
+RP Baffour, FD (corresponding author), James Cook Univ, Coll Arts Soc & Educ, 1 James Cook Dr,Bldg 4,Room 134, Douglas Townsville, Qld 4814, Australia.
+EM frank.baffour@my.jcu.edu.au
+RI Baffour, Frank Darkwa/AAV-3114-2021
+OI Baffour, Frank Darkwa/0000-0003-4347-0275; Adomako Brenyah,
+   Emmanuel/0000-0003-0610-9704
+NR 67
+TC 8
+Z9 8
+U1 1
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0886-2605
+EI 1552-6518
+J9 J INTERPERS VIOLENCE
+JI J. Interpers. Violence
+PD NOV
+PY 2021
+VL 36
+IS 21-22
+BP NP11940
+EP NP11967
+AR 0886260519888547
+DI 10.1177/0886260519888547
+EA DEC 2019
+PG 28
+WC Criminology & Penology; Family Studies; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Family Studies; Psychology
+GA WV2NU
+UT WOS:000500133700001
+PM 31789080
+DA 2023-12-06
+ER
+
+PT J
+AU Owusu, A
+   Hart, P
+   Oliver, B
+   Kang, M
+AF Owusu, Andrew
+   Hart, Peter
+   Oliver, Brittney
+   Kang, Minsoo
+TI The Association Between Bullying and Psychological Health Among Senior
+   High School Students in Ghana, West Africa
+SO JOURNAL OF SCHOOL HEALTH
+LA English
+DT Article
+DE adolescents; bullying; psychological health; health promotion
+ID PEER VICTIMIZATION; ADOLESCENTS; CHILDREN; DEPRESSION; SYMPTOMS; LONG;
+   RISK
+AB BACKGROUND: School-based bullying, a global challenge, negatively impacts the health and development of both victims and perpetrators. This study examined the relationship between bullying victimization and selected psychological variables among senior high school (SHS) students in Ghana, West Africa.
+   METHODS: This study utilized data from the 2008 Ghana Global School-based Student Health Survey (GSHS). Prevalence rates of being bullied (95% confidence intervals [CI]) were calculated by each demographic group, as well as each psychological variable. Multiple logistic regression was used to model the relationship of being bullied (physical/nonphysical) on the linear combination of demographic variables.
+   RESULTS: A total of 7137 students participated in the 2008 GSHS with 40.1% reporting being bullied. Senior high school-level 1 (lowest grade) students were 3 (95% CI: 2.45-3.68) times more likely to be bullied compared with SHS level 3 (highest grade) students. Victims of bullying were significantly more likely to report negative psychological health compared with those who reported not being bullied. Odds ratios were as follows: signs of depression, 1.97 (95% CI: 1.75-2.21); suicide ideation, 1.72 (95% CI: 1.45-2.05); being so worried that it affects sleep, 2.10 (95% CI: 1.77-2.49); and loneliness, 1.82 (95% CI: 1.49-2.22). There was no significant difference in self-reports of negative psychological health when comparing students who experienced physical forms with those who were bullied in nonphysical ways.
+   CONCLUSION: Bullying victimization is a major problem among SHS students. We recommend strengthening of existing proactive anti-bullying programs by taking into account the association between bullying and the psychological health of students.
+C1 [Owusu, Andrew; Hart, Peter; Oliver, Brittney; Kang, Minsoo] Middle Tennessee State Univ, Dept Hlth & Human Performance, Murfreesboro, TN 37130 USA.
+C3 Middle Tennessee State University
+RP Owusu, A (corresponding author), Middle Tennessee State Univ, Dept Hlth & Human Performance, POB 96, Murfreesboro, TN 37130 USA.
+EM aowusu@mtsu.edu; pdhart@live.com; bdo2c@mtsu.edu; mkang@mtsu.edu
+NR 30
+TC 55
+Z9 72
+U1 1
+U2 27
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-4391
+EI 1746-1561
+J9 J SCHOOL HEALTH
+JI J. Sch. Health
+PD MAY
+PY 2011
+VL 81
+IS 5
+BP 231
+EP 238
+DI 10.1111/j.1746-1561.2011.00590.x
+PG 8
+WC Education & Educational Research; Education, Scientific Disciplines;
+   Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research; Health Care Sciences & Services;
+   Public, Environmental & Occupational Health
+GA 754ZJ
+UT WOS:000289896100003
+PM 21517861
+DA 2023-12-06
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-06
+ER
+
+PT J
+AU Asante, KO
+AF Asante, Kwaku Oppong
+TI Exploring age and gender differences in health risk behaviours and
+   psychological functioning among homeless children and adolescents
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH PROMOTION
+LA English
+DT Article
+DE age differences; gender differences; health risk behaviours; mental
+   health; street children and adolescents
+ID STREET CHILDREN; DRUG-USE; SEXUAL-BEHAVIORS; SUBSTANCE USE; DEPRESSIVE
+   SYMPTOMS; YOUTH; GHANA; HIV; SURVIVAL; INTERVENTION
+AB This study describes the findings from quantitative examination of age and gender differences in psychological problems and health risk behaviour among 227 homeless youth. The findings indicated significant variations on health risk behaviours by gender. As compared to males, females were more likely to engage in survival sex, been victims of violence-rated sex, and more likely to have made a plan to commit suicide. While alcohol use decrease with age, marijuana use and having multiple sexual partners, on the other hand, increases with age. Approximately 87% of the participant's exhibit moderate-to-severe psychological problems, with males having significantly higher scores on the overall psychological well-being, emotional and hyperactivity problems than females. Age-group differences were also observed on overall psychological well-being, emotional problems, conduct problems and hyperactivity. These findings from the study are discussed with reference to previous research and implications for interventions are provided.
+C1 [Asante, Kwaku Oppong] Univ KwaZulu Natal, Discipline Psychol, Durban, South Africa.
+C3 University of Kwazulu Natal
+RP Asante, KO (corresponding author), Univ KwaZulu Natal, Discipline Psychol, Durban, South Africa.
+EM oppongasante@ukzn.ac.za
+RI Oppong Asante, Kwaku/B-1310-2014
+OI Oppong Asante, Kwaku/0000-0002-0206-3326
+NR 45
+TC 9
+Z9 9
+U1 0
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1462-3730
+EI 2049-8543
+J9 INT J MENT HEALTH PR
+JI Int. J. Ment. Health Promot.
+PY 2015
+VL 17
+IS 5
+BP 278
+EP 292
+DI 10.1080/14623730.2015.1088739
+PG 15
+WC Public, Environmental & Occupational Health; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Psychiatry
+GA DC0SV
+UT WOS:000368928900004
+DA 2023-12-06
+ER
+
+PT J
+AU Karbeyaz, K
+   Akkaya, H
+   Balci, Y
+AF Karbeyaz, Kenan
+   Akkaya, Harun
+   Balci, Yasemin
+TI An analysis of the murder of women in a 10-year period in Eskisehir
+   Province located in western Anatolia in Turkey
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Women; Murder; Autopsy
+ID INTIMATE PARTNER HOMICIDE; CONTEMPORARY GHANA; DOMESTIC VIOLENCE; EARLY
+   MARRIAGE; INJURIES; SUICIDE; HUSBANDS; HEALTH; KILL
+AB Murder of women generally occurs as a result of violence by their husbands and relatives. We evaluated the female victims of murder in Eskisehir, located in western Anatolia, where the education level is high in this study. Our aim was to assess and discuss data related to the victims and murderers.
+   A total of 141 women's murder cases were analysed in the study. After a legal process and the results of the autopsies during 2002-2011 in Eskisehir, 715 subjects found to have died as a result of murder were chosen. Cases were evaluated in terms of their age, marital status, education level, relationship to the murderer, reasons for violence, type of action and reasons for death.
+   It was determined that 48.2% (n = 68) of the victims had been killed by the husband and 7.8% (n = 11) by the ex-husband. Murderers generally stated that the reason of murder was the woman's request for divorce or breaking up (n = 40, 28.4%).
+   In compliance with the literature, the women were most commonly killed by their husbands in our study. Enhancing women's status and preventing violence against women will decrease such murders. (c) 2013 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Karbeyaz, Kenan] Council Forens Med, Eskisehir, Turkey.
+   [Akkaya, Harun] Council Forens Med, Istanbul, Turkey.
+   [Balci, Yasemin] Mugla Sitki Kocman Univ, Fac Med, Dept Forens Med, Mugla, Mugla Province, Turkey.
+C3 Ministry of Justice - Turkey; Ministry of Justice - Turkey; Mugla Sitki
+   Kocman University
+RP Karbeyaz, K (corresponding author), Council Forens Med, Eskisehir, Turkey.
+EM drkenankarbeyaz@hotmail.com
+RI BALCI, Yasemin/B-2553-2016
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD AUG
+PY 2013
+VL 20
+IS 6
+BP 736
+EP 739
+DI 10.1016/j.jflm.2013.04.007
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA 204JO
+UT WOS:000323361800041
+PM 23910872
+DA 2023-12-06
+ER
+
+PT J
+AU Hang, HM
+   Ekman, R
+   Bach, TT
+   Byass, P
+   Svanström, L
+AF Hang, HM
+   Ekman, R
+   Bach, TT
+   Byass, P
+   Svanström, L
+TI Community-based assessment of unintentional injuries:: a pilot study in
+   rural Vietnam
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE community-based; surveillance; unintentional injury; Vietnam
+ID ACCIDENTS; CHILDREN; RECALL; GHANA; RATES
+AB Aims: Although unintentional injuries are recognised as a major public health problem globally, little is known about their patterns and rates at the community level in most low-income countries. Rapid social development, leading to increased traffic and industrialization, may be changing patterns of injury. Injuries within the home environment have not so far been recognized to the same extent as traffic and work-related injuries in Vietnam, largely because they have not been effectively counted. This study took place in northern Vietnam, in the context of a longitudinal community surveillance site called FilaBavi, as a pilot project aiming to determine the community incidence of unintentional injury and to explore appropriate methods for community-based injury surveillance. Methods: An initial study population of 23,807 was identified and asked about their experience of injury in the preceding three months. Results: Overall 450 new injuries were detected over 5,952 person-years, a rate of 76 per 1,000 person-years. Males were injured at 1.6 times the rate of females, and home and road traffic accidents were most common. Most injuries occurred during unpaid household tasks. Cutting and crushing injuries occurred most frequently. Of 221 deaths from all causes in the FilaBavi population during 1999 among 43,444 person-years, 25 were attributed to unintentional injuries and two to suicide. Unintentional injury was the third leading cause of death in this community, with a case-fatality rate of 0.8%. Discussion: The findings suggest that greater attention needs to be directed toward the prevention of injuries occurring in the home in rural Vietnam. On the basis of this pilot study, a one-year study using the same approach is under way to characterize the patterns of unintentional injury in more detail, including any seasonal variation.
+C1 Hanoi Med Univ, Dept Biostat, Hanoi, Vietnam.
+   Karolinska Inst, Dept Publ Hlth Sci, Div Social Med, Stockholm, Sweden.
+   Hanoi Med Univ, Dept Surg, Hanoi, Vietnam.
+   Umea Univ, Umea Int Sch Publ Hlth, Umea, Sweden.
+C3 Hanoi Medical University; Karolinska Institutet; Hanoi Medical
+   University; Umea University
+RP Hang, HM (corresponding author), Hanoi Med Univ, Dept Biostat, Hanoi, Vietnam.
+EM hmhang70@hotmail.com
+OI Byass, Peter/0000-0001-5474-4361
+NR 22
+TC 31
+Z9 34
+U1 0
+U2 1
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PY 2003
+VL 31
+SU 62
+BP 38
+EP 44
+DI 10.1080/14034950310015095
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 737MG
+UT WOS:000186235900007
+PM 14578075
+DA 2023-12-06
+ER
+
+PT J
+AU Manchev, V
+   Bruce, JL
+   Oosthuizen, GV
+   Laing, GL
+   Clarke, DL
+AF Manchev, V.
+   Bruce, J. L.
+   Oosthuizen, G. V.
+   Laing, G. L.
+   Clarke, D. L.
+TI The incidence, spectrum and outcome of paediatric trauma managed by the
+   Pietermaritzburg Metropolitan Trauma Service
+SO ANNALS OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND
+LA English
+DT Article
+DE Paediatric trauma; Injury prevention; Demographics
+ID DEVELOPING-WORLD; SOUTH-AFRICA; INJURY; IMPLEMENTATION; PATTERNS;
+   CHILDREN; BURDEN; GHANA; AREA
+AB INTRODUCTION The Pietermaritzburg Metropolitan Trauma Service (PMTS) has run a systematic quality improvement programme since 2006. A key component included the development and implementation of an effective surveillance system in the form of an electronic surgical registry (ESR). This study used data from the ESR to review the incidence, spectrum and outcome of paediatric trauma in Pietermaritzburg, South Africa.
+   METHODS The ESR was reviewed, and all cases of paediatric trauma managed between 1 January 2012 and 30 July 2014 were retrieved for analysis.
+   RESULTS During the study period, 1,041 paediatric trauma patients (724 male, 69.5%) were managed by the PMTS, averaging a monthly admission of 36. The mean age was 10.9 years (standard deviation: 5.4 years). The mechanism of injury (MOI) was blunt trauma in 753 patients (72.3%) and penetrating trauma in 170 (16.3%). Pedestrian vehicle collisions accounted for 21% of cases and motor vehicle collisions for a further 11%. Intentional trauma accounted for 282 patients (27.1%) and selfinflicted trauma for 14 cases (1.3%). Ninety patients admitted to the intensive care unit and fifty-one required high dependency unit admission. There were 17 deaths, equating to an in-hospital mortality rate of 1.7%. A total of 172 children died on the scene of an incident. There were 35 road traffic related deaths, 26 suicides by hanging, 27 deaths from blunt assault and 23 deaths from penetrating assault. The overall mortality rate for paediatric trauma was 18.2%.
+   CONCLUSIONS The ESR has proved to be an effective surveillance system and has enabled the accurate quantification of the burden of paediatric trauma in Pietermaritzburg. This has improved our understanding of the mechanisms and patterns of injury, and has identified a high incidence of intentional and penetrating trauma as well as road traffic collisions. These data can be used to guide strategies to reduce the burden of paediatric trauma in our environment.
+C1 [Manchev, V.; Bruce, J. L.; Oosthuizen, G. V.; Laing, G. L.; Clarke, D. L.] Univ KwaZulu Natal, Durban, South Africa.
+C3 University of Kwazulu Natal
+RP Clarke, DL (corresponding author), Univ KwaZulu Natal, Durban, South Africa.
+EM damianclar@gmail.com
+RI Oosthuizen, George/AAC-5856-2022
+OI Clarke, Damian/0000-0002-8467-1455; Laing, Grant/0000-0001-8075-0386
+NR 16
+TC 12
+Z9 13
+U1 0
+U2 2
+PU ROYAL COLL SURGEONS ENGLAND
+PI LONDON
+PA 35-43 LINCOLN'S INN FIELDS, LONDON WC2A 3PN, ENGLAND
+SN 0035-8843
+EI 1478-7083
+J9 ANN ROY COLL SURG
+JI Ann. R. Coll. Surg. Engl.
+PD MAY
+PY 2015
+VL 97
+IS 4
+BP 274
+EP 278
+DI 10.1308/003588414X14055925061595
+PG 5
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Surgery
+GA DQ4CB
+UT WOS:000379149700013
+PM 26263934
+OA Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Ossei, PPS
+   Ayibor, WG
+   Agagli, BM
+   Aninkora, OK
+   Fuseini, G
+   Oduro-Manu, G
+   Ka-Chungu, S
+AF Ossei, P. P. S.
+   Ayibor, W. G.
+   Agagli, B. M.
+   Aninkora, O. K.
+   Fuseini, G.
+   Oduro-Manu, G.
+   Ka-Chungu, S.
+TI Profile of unnatural mortalities in Northern part of Ghana; a
+   forensic-based autopsy study
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Forensic autopsy; Accidental; Suicide; Unnatural death; Medico-legal;
+   Traumatic death; Coroner
+ID DEATHS; ASTHMA; POPULATION; DRUG
+AB Introduction: Bereavement is usually difficult to come to terms with. However, sudden, violent or traumatic death can be particularly hard to accept for any family, group or nation as a whole.
+   A retrospective study of all autopsies on unnatural and traumatic deaths of medico-legal importance was made at the Komfo Anokye Teaching Hospital from 2008 to 2016.
+   Methods: Information on cause of death and other relevant detail as well as demographics were extracted from the Autopsy Log Book of the department of pathology, Komfo Anokye Teaching Hospital where data on cause of death from autopsy findings and other relevant data were gathered and kept secured. The data was then analyzed using SPSS version 22.
+   Results: Findings from the study showed that Road Traffic Accidents (RTA) contributed to 58.51% of the total forensic death cases of a total of the 1470 registered unnatural deaths. Males accounted for 75.37% of deaths as compared to 24.63% for females. The mean age for the various cause of unnatural deaths was 34 years. The age ranges from a minimum of 0.02 year (1 week) to a maximum of 97 years with median age of 33. The modal age is 30 years with 75 cases. 1108 males and 362 females were involved, resulting in a gender ratio of 3: 1. The age group 30-39 recorded the highest percentage of deaths due to Hanging, Gunshots, RTA and Falls with 22.45%, 34.69%, 21.75% and 25.44% respectively. Children aged <= 9 recorded the highest number of deaths due to chemical poisoning and drowning with 25.5 8% and 40.00% of cases respectively. People in the extremes of ages (<= 9 and >= 70) recorded the least number of death cases by percentage.
+   Conclusion: Road traffic accident is therefore the leading cause of unnatural traumatic deaths as it accounted for more than half of all unnatural traumatic death cases reported in the forensics department. Men, especially the youth are also more prone to violent unnatural deaths compared to women in general. It is shown that, men die more in the various categories than women. Males are likely to die on the average, 3 times more than the females by any of the manner of deaths.
+C1 [Ossei, P. P. S.; Agagli, B. M.] Kwame Nkrumah Univ Sci & Technol, Kumasi & Komfo Anokye Teaching Hosp, KSMD, Dept Pathol, Kumasi, Ghana.
+   [Ayibor, W. G.] Kwame Nkrumah Univ Sci & Technol, KSMD, Dept Mol Med, Kumasi, Ghana.
+   [Aninkora, O. K.; Fuseini, G.; Oduro-Manu, G.; Ka-Chungu, S.] Komfo Anokye Teaching Hosp, Dept Pathol, Kumasi, Ghana.
+C3 Kwame Nkrumah University Science & Technology; Kwame Nkrumah University
+   Science & Technology; Kwame Nkrumah University Science & Technology
+RP Ossei, PPS (corresponding author), KATH, KSMD, Dept Pathol, Kumasi, Ghana.
+EM drsampene1@gmail.com
+RI Ossei, Paul Poku Sampene/AAG-3585-2019
+OI Ossei, Paul Poku Sampene/0000-0001-8810-2017; Agagli, Benedict
+   Mawuli/0000-0002-7391-8344
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JUL
+PY 2019
+VL 65
+BP 137
+EP 142
+DI 10.1016/j.jflm.2019.05.012
+PG 6
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA IC7DZ
+UT WOS:000471134100025
+PM 31154091
+DA 2023-12-06
+ER
+
+EF

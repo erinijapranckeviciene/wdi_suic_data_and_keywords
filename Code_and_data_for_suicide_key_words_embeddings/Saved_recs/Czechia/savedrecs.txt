@@ -1,0 +1,1120 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Antovová, M
+   Fucíková, S
+   Prusa, L
+AF Antovova, Michaela
+   Fucikova, Simona
+   Prusa, Ladislav
+BE Loster, T
+   Pavelka, T
+TI THE INFLUENCE OF ECONOMIC CYCLE ON SUICIDE AND HOMICIDE IN THE CZECH
+   REPUBLIC
+SO 8TH INTERNATIONAL DAYS OF STATISTICS AND ECONOMICS
+LA English
+DT Proceedings Paper
+CT 8th International Days of Statistics and Economics
+CY SEP 11-13, 2014
+CL Prague, CZECH REPUBLIC
+SP Univ Econ, Dept Stat & Probabil & Dept Microecon, Univ Econ, Fac Business Econ, ESC Rennes Int Sch Business
+DE GDP; suicide; homicide
+AB The object is to analyse the influence of the economic cycle on suicide and homicide rate in the Czech Republic. The homicide and suicide are deliberately overlooked, because it has a negative impact on the development of the economic cycle. For that reason it belongs to delicate issues in the Czech Republic and other countries.
+   In recent years, the Czech Republic passed through major changes in the economic situation. In 2008, the economic recession began in the United States and gradually affected many countries around the world, including the Czech Republic. The work will also analyse the impact of these changes.
+   GDP data, information about suicide and homicide will be used from the Czech Statistical Office.
+   The work presents the development of GDP, suicide and homicide rate in the Czech Republic. It will analyze the existence of a relation between GDP and suicide, GDP and homicide. Results will be compared with the economic theory of the business cycle on suicide and homicide by Henry and Short.
+C1 [Antovova, Michaela; Fucikova, Simona; Prusa, Ladislav] Univ Econ, Prague 13067 3, Czech Republic.
+C3 Prague University of Economics & Business
+RP Antovová, M (corresponding author), Univ Econ, W Churchill Sq 4, Prague 13067 3, Czech Republic.
+EM michaela.antovova@vse.cz; simona.fucikova@vse.cz; prul01@vse.cz
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 3
+PU MELANDRIUM
+PI SLANY
+PA FUGNEROVA 691, SLANY, 27401, CZECH REPUBLIC
+BN 978-80-87990-02-5
+PY 2014
+BP 21
+EP 31
+PG 11
+WC Economics; Management; Social Sciences, Mathematical Methods
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA BC1KN
+UT WOS:000350226700003
+DA 2023-12-06
+ER
+
+PT J
+AU Dzúrová, D
+   Vevera, J
+   Motlová, L
+   Dragomirecká, E
+AF Dzurova, Dagmar
+   Vevera, Jan
+   Motlova, Lucie
+   Dragomirecka, Eva
+TI Analysis of parasuicide, psychiatric care and completed suicides,
+   implications for intervention strategy (Czech Republic, 1996-2000)
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE suicide; parasuicide; psychiatric care; socio-demographic patterns;
+   Czech republic; logistic regression
+ID ATTEMPTERS; UNEMPLOYMENT; RATES; RISK
+AB Background: This retrospective study analyses the differences between suicide with and without previous parasuicide. The Czech Republic was one of the countries with the traditionally highest level of suicide mortality. During collapse of the communist regime and deep societal changes in the Czech Republic after the year 1989 the escalation of suicides was expected. Mortality from suicides decreased, however the gender and age differences increased.
+   Methods: A total of 2,711 suicides in the Czech Republic (19962000) were studied. Effects of socioeconomic characteristics, psychiatric diagnosis and care, and lifetime history of parasuicide on the risk of death from suicide were estimated using logistic regression.
+   Results: Twenty-three percent of persons who committed suicide had a prior history of parasuicide and almost twenty percent of them received no psychiatric care after the attempt. Young males with basic education, economically active and diagnosed with substance abuse related disorders and the elderly were least likely to receive psychiatric care before their suicide death.
+   Conclusions: Implications for age specific primary and secondary prevention are discussed.
+C1 [Dzurova, Dagmar] Charles Univ Prague, Fac Sci, Dept Social Geog & Reg Dev, Prague 12843 2, Czech Republic.
+   [Vevera, Jan] Charles Univ Prague, Fac Med 1, Dept Psychiat, Prague 12843 2, Czech Republic.
+   [Vevera, Jan] 7 Field Mil Hosp, Hradec Kralove, Czech Republic.
+   [Motlova, Lucie; Dragomirecka, Eva] Charles Univ Prague, Fac Med 3, Prague, Czech Republic.
+   [Motlova, Lucie; Dragomirecka, Eva] Prague Psychiat Ctr, Prague, Czech Republic.
+C3 Charles University Prague; Charles University Prague; General University
+   Hospital Prague; Charles University Prague
+RP Dzúrová, D (corresponding author), Charles Univ Prague, Fac Sci, Dept Social Geog & Reg Dev, Albertov 6, Prague 12843 2, Czech Republic.
+EM dzurova@natur.cuni.cz
+RI Dragomirecka, Eva/L-2613-2017; Dzurova, Dagmar/D-4412-2009; Vevera,
+   Jan/M-1874-2017
+OI Dragomirecka, Eva/0000-0001-7548-1994; Dzurova,
+   Dagmar/0000-0003-0530-4997; Vevera, Jan/0000-0002-9065-1741
+NR 36
+TC 7
+Z9 7
+U1 0
+U2 10
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PY 2008
+VL 53
+IS 3
+BP 139
+EP 149
+DI 10.1007/s00038-008-7048-7
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 321DU
+UT WOS:000257285700004
+PM 19127887
+DA 2023-12-06
+ER
+
+PT C
+AU Antovová, M
+   Fuciková, S
+AF Antovova, Michaela
+   Fucikova, Simona
+BE Loster, T
+   Pavelka, T
+TI THE INFLUENCE OF THE ECONOMIC CYCLE, RATE OF UNEMPLOYMENT AND AVARAGE
+   INCOME ON SUICIDE IN THE CZECH REPUBLIC
+SO 9TH INTERNATIONAL DAYS OF STATISTICS AND ECONOMICS
+LA English
+DT Proceedings Paper
+CT The 9th International Days of Statistics and Economics
+CY SEP 10-12, 2015
+CL Prague, CZECH REPUBLIC
+SP Ceska S Sporitelna, VSE, ESC Rennes Sch Business, PHF Ekonomicka Univ Bratislave
+DE GDP; rate of unemployment; average income; suicide
+AB The object is to analyse the influence of the economic cycle, rate of unemployment and average income on suicide rate in the Czech Republic. Suicides are discussed topic of the day. It occurs in both types of countries: developed and developing ones. Every culture has different attitude to suicides (positive or negative). Many factors effect on suicide rate. For example, sociological, demographic, historical, cultural, medical, and economic ones, which are analysed in this work.
+   In recent years, the Czech Republic passed through major changes in the economic situation. In 2008, the economic recession began in the United States and gradually affected many countries around the world, including the Czech Republic. Economic recession had influence on GDP and rate of unemployment.
+   GDP, rate of unemployment, average income and information about suicide will be used from the Czech Statistical Office.
+   The work analyses the existence of a relation between GDP and suicide, rate of unemployment and suicide, average income and suicide. Results will be compared with the economic theory by Henry and Short.
+C1 [Antovova, Michaela; Fucikova, Simona] Univ Econ Prague, W Churchill Sq 4, Prague 13067 3, Czech Republic.
+C3 Prague University of Economics & Business
+RP Antovová, M (corresponding author), Univ Econ Prague, W Churchill Sq 4, Prague 13067 3, Czech Republic.
+EM michaela.antovova@vse.cz; simona.fucikova@vse.cz
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MELANDRIUM
+PI SLANY
+PA FUGNEROVA 691, SLANY, 27401, CZECH REPUBLIC
+BN 978-80-87990-06-3
+PY 2015
+BP 43
+EP 54
+PG 12
+WC Economics; Social Sciences, Mathematical Methods
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA BF3DN
+UT WOS:000380530000005
+DA 2023-12-06
+ER
+
+PT J
+AU Vimmer, M
+   Cihal, L
+   Bartakova, M
+   Laufíková, M
+   Domluvilova, D
+   Poradovska, J
+   Paclt, I
+AF Vimmer, M.
+   Cihal, L.
+   Bartakova, M.
+   Laufikova, M.
+   Domluvilova, D.
+   Poradovska, J.
+   Paclt, I.
+TI ENVIRONMENTAL CORRELATIONS OF ACUTE PSYCHIATRIC ADMISSIONS AND SUICIDES
+   IN PRAGUE, CZECH REPUBLIC. RESULTS OF PILOT STUDY
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Vimmer, M.; Cihal, L.; Domluvilova, D.; Poradovska, J.; Paclt, I.] 1 LF UK Praha, Psychiat Klin VFN, Prague, Czech Republic.
+   [Bartakova, M.; Laufikova, M.] Psychiat Lecebna Bohnice, Prague, Czech Republic.
+C3 Charles University Prague
+RI Domluvilova, Daniela/O-5023-2017; Paclt, Ivo/O-2286-2017
+OI Domluvilova, Daniela/0000-0001-7419-0423; Paclt, Ivo/0000-0002-3871-8304
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2009
+VL 24
+SU 1
+MA P02-127
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA V28EJ
+UT WOS:000208663800818
+DA 2023-12-06
+ER
+
+PT J
+AU Dzúrová, D
+   Ruzicka, L
+   Dragomirecká, E
+AF Dzurova, Dagmar
+   Ruzicka, Lado
+   Dragomirecka, Eva
+TI Demographic and social correlates of suicide in the Czech Republic
+SO SOCIOLOGICKY CASOPIS-CZECH SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE suicide; difference; gender; age; marital status
+ID MORTALITY
+AB In this article the authors review the trends and differentials in mortality from self-inflicted injury and poisoning in the Czech Republic between the early 1970s and the present in terms of their socio-economic and demographic associations. They describe the sources of data on suicide and explore the possible extent of under-reporting of deaths from suicide, and they examine the differences in suicide incidence by age and sex. With the decline in mortality from suicide, the male/female ratio of suicide rates increased from about 2.6 in the early 1970s to around 4.0 in recent years. Suicide rates increase steadily with age, and this pattern did not noticeably change during the period reviewed. The age-specific suicide rates of older men and women declined more than the rates for younger people. As in other societies, married men and women have the lowest suicide rates; in contrast, divorce puts both men and women at the greatest risk of suicide. The authors attempt to investigate the social correlates of suicide by analysing the variation in suicide rates among districts in the Czech Republic and selected socio-economic and demographic characteristics of the district populations. Stepwise regression analysis is used to identify three independent variables that explain 50% of the variation in suicide rates among districts: the abortion ratio, the percentage of locally born population, and the percentage of adults with limited education.
+C1 Charles Univ, Dept Social Geog & Reg Dev, Fac Sci, Prague 12843 2, Czech Republic.
+   Acad Social Sci Australia, Braidwood, Australia.
+   Prague Psychiat Ctr, Prague, Czech Republic.
+C3 Charles University Prague
+RP Dzúrová, D (corresponding author), Charles Univ, Dept Social Geog & Reg Dev, Fac Sci, Albertov 6, Prague 12843 2, Czech Republic.
+EM dzurova@natur.cuni.cz; ladoruz@braidwood.net.au;
+   dragontirecka@pcp.lf3.cuni.cz
+RI Dzurova, Dagmar/D-4412-2009; Dragomirecka, Eva/L-2613-2017
+OI Dzurova, Dagmar/0000-0003-0530-4997; Dragomirecka,
+   Eva/0000-0001-7548-1994
+NR 16
+TC 6
+Z9 6
+U1 0
+U2 2
+PU SOCIOLOGICKY CASOPIS
+PI PRAGUE 1
+PA JILSKA 1, PRAGUE 1 110 00, CZECH REPUBLIC
+SN 0038-0288
+J9 SOCIOL CAS
+JI Sociol. Cas.
+PD JUN
+PY 2006
+VL 42
+IS 3
+BP 557
+EP 571
+PG 15
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 076GA
+UT WOS:000239943800005
+DA 2023-12-06
+ER
+
+PT J
+AU Katrnák, T
+   Tyrychtrová, L
+AF Katrnak, Tomas
+   Tyrychtrova, Lucia
+TI Social Determinants of Suicides in the Czech Republic between 1995 and
+   2010
+SO SOCIOLOGICKY CASOPIS-CZECH SOCIOLOGICAL REVIEW
+LA English
+DT Article
+DE suicide; suicide rate; social factors; Czech society; time period
+   1995-2010
+ID UNITED-STATES; RATES; INTEGRATION; DURKHEIM; INCREASE; IDEATION; AGE; US
+AB The text is concerned with suicides in the Czech Republic. It seeks to determine which social variables, and to what extent, have affected suicidal behaviour since 1989. The authors draw on Durkheim's theory that society prevents suicidal tendencies. They formulate six hypotheses to account for the effects of social variables (year, sex, age, education, and marital status) on suicide rates, which they test using data from 1995 to 2010. Their findings show that time weakens the odds for committing suicides. Regardless of the time, women and people who are young, more educated, and living in a marriage face the lowest risk of suicide. That marriage works as a shield against suicide is especially true for men (its protective function for women is significantly lower). In the period observed, there was a relative increase in the effect of two social variables: middle age (45-69 years) and lower education. The structure of variables explaining suicide rates changed during the time period observed.
+C1 [Katrnak, Tomas; Tyrychtrova, Lucia] Masaryk Univ, Fac Social Studies, Jostova 10, Brno 60200, Czech Republic.
+C3 Masaryk University Brno
+RP Katrnák, T (corresponding author), Masaryk Univ, Fac Social Studies, Jostova 10, Brno 60200, Czech Republic.
+EM katrnak@fss.muni.cz
+RI Katrňák, Tomáš/AAB-7667-2019
+OI Katrňák, Tomáš/0000-0002-2557-302X
+FU Czech Science Foundation [GB14-36154G]
+FX This research was supported by the Czech Science Foundation (grant no.
+   GB14-36154G: 'Dynamics of Change in Czech Society').
+NR 56
+TC 0
+Z9 0
+U1 0
+U2 4
+PU SOCIOLOGICKY CASOPIS
+PI PRAGUE 1
+PA JILSKA 1, PRAGUE 1 110 00, CZECH REPUBLIC
+SN 0038-0288
+J9 SOCIOL CAS
+JI Sociol. Cas.
+PY 2016
+VL 52
+IS 3
+BP 293
+EP 319
+DI 10.13060/00380288.2016.52.3.260
+PG 27
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA DU3GG
+UT WOS:000382098200002
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Winkler, P
+   Mladá, K
+   Csémy, L
+   Nechanská, B
+   Höschl, C
+AF Winkler, Petr
+   Mlada, Karolina
+   Csemy, Ladislav
+   Nechanska, Blanka
+   Hoeschl, Cyril
+TI Suicides following inpatient psychiatric hospitalization: A nationwide
+   case control study
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Psychiatric hospitalization; Central and Eastern Europe; Case
+   control study
+ID NESTED CASE-CONTROL; POSTDISCHARGE SUICIDE; RISK-FACTORS; SELF-HARM;
+   RATES; TIME; DISORDERS; DISCHARGE; SLOVENIA; ILLNESS
+AB Background: Research shows the elevated risk of suicide associated with current or recent inpatient psychiatric hospitalization. However, it is unclear whether this applies in the area of post-communist Central and Eastern Europe where mental health care has not been deinstitutionalized yet. The present study aims to examine the rates of suicides among psychiatric patients during and shortly after discharge from inpatient hospitalization in the Czech Republic.
+   Methods: All inpatient psychiatric hospitalizations and all suicides committed between 2008 and 2012 have been merged on an individual data basis. The time horizon between the admission and two months after the discharge from inpatient psychiatric facility was utilized and multiple logistic regression was performed to calculate the odds of committing suicide.
+   Results: A total of 137,290 inpatients were hospitalized in Czech psychiatric facilities between 2008 and 2012, and 402 of the inpatients committed suicide during he hospitalization or within the 2 months after the discharge. Highly elevated risks of suicides were found to be associated with being a male, having a history of multiple hospitalizations, and having a diagnosis of affective, anxiety, or personality disorder.
+   Limitations: Limitations are related to the design of the study, and its reliance on routinely collected data. Also, it was not possible to assess the odds of suicide associated with inpatient psychiatric hospitalization against the odds of suicide in general population.
+   Conclusions: During psychiatric treatment and recovery, suicial behavior and idealiation is increased. In psychiatry, hospitalization may be a risky period for suicide behavior. Suicide rates during and soon after the psychiatric hospitalization identified in this study from Central and Eastern Europe are similar to the findings from Western Europe. Preventive strategies should be tailored accordingly. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Winkler, Petr; Mlada, Karolina; Csemy, Ladislav; Nechanska, Blanka; Hoeschl, Cyril] Natl Inst Mental Hlth, Dept Social Psychiat, Klecany 25067, Czech Republic.
+   [Winkler, Petr] Kings Coll London, Inst Psychiat Psychol & Neurosci, Hlth Serv & Populat Res Dept, London SE5 8AF, England.
+   [Nechanska, Blanka] Inst Hlth Informat & Stat, Prague 12801 2, Nove Mesto, Czech Republic.
+C3 National Institute of Mental Health - Czech Republic; University of
+   London; King's College London
+RP Winkler, P (corresponding author), Natl Inst Mental Hlth, Dept Social Psychiat, Topolova 748, Klecany 25067, Czech Republic.
+EM petr.winkler@nudz.cz
+RI Winkler, Petr/K-6094-2012; Mladá, Karolína/AAO-5577-2020; Csemy,
+   Ladislav/W-7915-2018; Höschl, Cyril/ABH-6403-2020; Nechanska,
+   Blanka/C-7656-2017
+OI Winkler, Petr/0000-0002-7244-0051; Csemy, Ladislav/0000-0001-8732-4232;
+   Höschl, Cyril/0000-0002-3613-0099; Nechanska,
+   Blanka/0000-0001-8172-6089; Mlada, Karolina/0000-0002-9583-6489
+FU National Institute of Mental Health, Czech Republic
+   [CZ.1.05/2.1.00/03.0078]
+FX This work was supported by the project "National Institute of Mental
+   Health, Czech Republic", Grant number CZ.1.05/2.1.00/03.0078, European
+   Regional Development Fund.
+NR 30
+TC 20
+Z9 21
+U1 0
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD SEP 15
+PY 2015
+VL 184
+BP 164
+EP 169
+DI 10.1016/j.jad.2015.05.039
+PG 6
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA CN6OR
+UT WOS:000358554600023
+PM 26093829
+DA 2023-12-06
+ER
+
+PT J
+AU Grajda, A
+   Kulaga, Z
+   Gurzkowska, B
+   Gózdz, M
+   Wojtylo, M
+   Litwin, M
+AF Grajda, Aneta
+   Kulaga, Zbigniew
+   Gurzkowska, Beata
+   Gozdz, Magdalena
+   Wojtylo, Malgorzata
+   Litwin, Mieczyslaw
+TI Trends in external causes of child and adolescent mortality in Poland,
+   1999-2012
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE External causes of death; Children; Adolescents; Annual percent change
+ID HIGH-INCOME COUNTRIES; SUICIDE; ENGLAND; DEATH; INEQUALITIES; PATTERNS;
+   WALES
+AB To examine the pattern and trend of deaths due to external causes among Polish children and adolescents in 1999-2012, and to compare trends in Poland's neighboring countries.
+   Death records were obtained from the Central Statistical Office of Poland. External causes mortality rates (MR) with 95 % confidence interval were calculated. The annual percentage change of MR was examined using linear regression. To compare MR with Belarus, Ukraine, Czech Republic and Germany, data from the European Mortality Database were used.
+   MR were the highest in the age 15-19 years (33.7/100,000) and among boys (22.7/100,000). Unintentional injuries including transport accidents, drowning, and suicides (especially in children over 10 years old), were the main cause of death in the analyzed groups. Between 1999 and 2012 annual MR for unintentional injuries declined substantially. MR due to injuries and poisoning in Poland were higher compared with Czech Republic and Germany and lower in comparison with Belarus and Ukraine.
+   Deaths due to unintentional injuries are still the leading cause of death among Polish children and adolescents. There are differences in death rates between Poland and neighboring countries.
+C1 [Grajda, Aneta; Kulaga, Zbigniew; Gurzkowska, Beata; Gozdz, Magdalena; Wojtylo, Malgorzata] Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+   [Litwin, Mieczyslaw] Childrens Mem Hlth Inst, Dept Nephrol & Arterial Hypertens, Warsaw, Poland.
+C3 Children's Memorial Health Institute; Children's Memorial Health
+   Institute
+RP Kulaga, Z (corresponding author), Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+EM z.kulaga@ipczd.pl
+RI Litwin, Mieczyslaw/ABH-4315-2020
+OI Litwin, Mieczyslaw/0000-0002-5241-2483; Kulaga,
+   Zbigniew/0000-0003-0509-1004; Gurzkowska, Beata/0000-0003-2681-3221;
+   Gozdz, Magdalena/0000-0002-9753-568X; Kotowska,
+   Aneta/0000-0003-3289-2878
+FU Ministry of Science and Higher Education [M10/14]
+FX AG was supported by the Ministry of Science and Higher Education (grant
+   for young scientist M10/14).
+NR 35
+TC 10
+Z9 10
+U1 0
+U2 4
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD JAN
+PY 2017
+VL 62
+IS 1
+BP 117
+EP 126
+DI 10.1007/s00038-016-0908-7
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EK7WC
+UT WOS:000394134900012
+PM 27766374
+OA Green Published, hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Baumbach, A
+   Gulis, G
+AF Baumbach, Anja
+   Gulis, Gabriel
+TI Impact of financial crisis on selected health outcomes in Europe
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID ECONOMIC-CRISIS; DISEASE-CONTROL; WELFARE-STATE; RECESSION; POLITICS;
+   MORTALITY; GREECE
+AB A number of health outcomes were affected by previous financial crises, e. g. suicides, homicides and transport accident mortality. Aim of this study was to analyse the effects of the current financial crisis on selected health outcomes at population level in Europe. Methods: A mixed approach of ecologic and time trend design was applied, including correlation analysis. For eight countries, data on the economic situation (unemployment rate and economic growth) and health indicators (overall mortality, suicide and transport accident mortality) was drawn from EUROSTAT database for 2000-10. Spearman's rank correlation was applied to analyse the influence of social protection on the association between exposure and outcome variables. Results: The financial crisis had no visible effect on overall mortality in any of the eight countries until 2010. Transport accident mortality decreased in all eight countries, in the range of 18% in Portugal to 52% in Slovenia. In contrast, suicide mortality increased in Germany (+5.3%), Portugal (+5.2%), Czech Republic (+7.6%), Slovakia (+22.7%) and Poland (+19.3%). The effect of unemployment on suicide is higher in countries with lower social spending (Spearman's r = -0.83). Discussion: Clear cause-effect relations could not be established owing to the ecological study design and issues concerning data availability. However, there are clear changes in suicide and transport accident mortality after onset of the crisis, and findings are consistent with previous work. As part of this work, a comprehensive framework was developed, which can be applied to analyse health effects of financial crises in more detail.
+C1 [Baumbach, Anja] Univ Bielefeld, Sch Publ Hlth, Dept Epidemiol & Int Publ, D-33615 Bielefeld, Germany.
+   [Gulis, Gabriel] Univ Southern Denmark, Unit Hlth Promot Res, DK-6700 Esbjerg, Denmark.
+C3 University of Bielefeld; University of Southern Denmark
+RP Gulis, G (corresponding author), Univ Southern Denmark, Unit Hlth Promot Res, Niels Bohrs Vej 9-10, DK-6700 Esbjerg, Denmark.
+EM ggulis@health.sdu.dk
+RI Gulis, Gabriel/E-4505-2013
+OI Gulis, Gabriel/0000-0002-8174-4591; Baumbach,
+   Andreas/0000-0001-7707-2254
+NR 25
+TC 71
+Z9 76
+U1 1
+U2 32
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD JUN
+PY 2014
+VL 24
+IS 3
+BP 399
+EP 403
+DI 10.1093/eurpub/cku042
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AI7HG
+UT WOS:000337055800014
+PM 24709510
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Page, RM
+   Zarco, EPT
+   Ferenc, I
+   Suwanteerangkul, J
+   Martina, U
+   Mei-Lee, C
+   Miao, NF
+   Simonek, J
+   Klarova, R
+   Hantiu, I
+   Irén, K
+AF Page, Randy M.
+   Zarco, Emilia Patricia T.
+   Ferenc Ihasz
+   Suwanteerangkul, Jiraporn
+   Martina Uvacsek
+   Mei-Lee, Ching
+   Miao, Nae-Fang
+   Simonek, Jaromir
+   Klarova, Renata
+   Hantiu, Iacob
+   Iren Kalabiska
+TI CIGARETTE SMOKING AND INDICATORS OF PSYCHOSOCIAL DISTRESS IN SOUTHEAST
+   ASIAN AND CENTRAL-EASTERN EUROPEAN ADOLESCENTS
+SO JOURNAL OF DRUG EDUCATION
+LA English
+DT Article
+ID UCLA LONELINESS SCALE; RISK BEHAVIOR SURVEY; HEALTH-RISK; TOBACCO;
+   HOPELESSNESS; RELIABILITY; SUICIDE; INCREASES; VALIDITY; CHINA
+AB The purpose of this study was to examine the association of cigarette smoking and 2 indicators of psychosocial distress (hopelessness and loneliness) among adolescents from 2 distinctly different regions of the world: Central-Eastern Europe (Hungary, Ukraine, Slovakia, Czech Republic, Romania, Poland) and Southeast Asia (Thailand, Taiwan, and the Philippines). Among Southeast Asian boys and girls, smokers had elevated hopelessness in comparison to nonsmokers but among Central-Eastern European students, this relationship was true only for girls and there was no relationship for boys. Across the country samples, there was only association of smoking with loneliness among Southeast Asian girls and Central-Eastern European girls. While Southeast Asian girls who smoked scored higher on loneliness than nonsmokers, the opposite was true among Central-Eastern European girls, with smokers scoring lower on loneliness.
+C1 [Page, Randy M.] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   [Zarco, Emilia Patricia T.] Adelphi Univ, Garden City, NY 11530 USA.
+   [Suwanteerangkul, Jiraporn] Chiang Mai Univ, Chiang Mai, Thailand.
+   [Martina Uvacsek; Iren Kalabiska] Semmelweis Univ, H-1085 Budapest, Hungary.
+   [Miao, Nae-Fang] Taipei Med Univ, Taipei, Taiwan.
+   [Simonek, Jaromir] Univ Constantine Philosopher, Nitra, Slovakia.
+   [Klarova, Renata] Masaryk Univ, CS-60177 Brno, Czech Republic.
+   [Hantiu, Iacob] Univ Oradea, Oradea, Romania.
+C3 Brigham Young University; Adelphi University; Chiang Mai University;
+   Semmelweis University; Taipei Medical University; Constantine the
+   Philosopher University in Nitra; Masaryk University Brno; University of
+   Oradea
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+RI Simonek, Jaromir/AAE-8844-2020
+OI Simonek, Jaromir/0000-0003-4242-4891; Ihasz, Ferenc/0000-0003-0213-2237;
+   Hantiu, Iacob/0000-0001-7720-0287
+NR 52
+TC 11
+Z9 13
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0047-2379
+EI 1541-4159
+J9 J DRUG EDUC
+JI J. Drug Educ.
+PY 2008
+VL 38
+IS 4
+BP 307
+EP 328
+DI 10.2190/DE.38.4.a
+PG 22
+WC Substance Abuse; Education, Scientific Disciplines
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse; Education & Educational Research
+GA 431QN
+UT WOS:000265078000001
+PM 19438065
+DA 2023-12-06
+ER
+
+PT J
+AU Vlckova, J
+   Kubiatko, M
+   Usak, M
+   Aydin, H
+AF Vlckova, Jana
+   Kubiatko, Milan
+   Usak, Muhammet
+   Aydin, Halil
+TI Opinions on Euthanasia among Czech Seniors and University Students
+SO REVISTA DE CERCETARE SI INTERVENTIE SOCIALA
+LA English
+DT Article
+DE Czech Republic; euthanasia; quantitative analysis; questionnaire
+   seniors; university students
+ID TERMINALLY-ILL PATIENTS; PHYSICIAN-ASSISTED SUICIDE; ATTITUDES; DOCTORS;
+   NURSES; DESIRE; DEATH
+AB The research is focused on finding differences in opinions on euthanasia between seniors and university students. The influence of independent variables on euthanasia, namely the influence of gender, religion and health, was examined. In addition, the research concentrates on the influence of study fields, i.e. the difference between students at a faculty of medicine, students who chose humanities and the seniors' education. The questionnaire with 31 Likert-type five point scale items was used for the research. The data analysis was made with the test of inductive statistics (ANOVA) and post-hoc tests (Fisher's LSD post-hoc test). In sum, 209 questionnaires were included in the analysis (84 seniors and 125 university students). Cronbach's alpha coefficient was applied to verify the reliability of the questionnaire. The attitude of all respondents was, in general, moderately positive. The results also showed that the opinions on euthanasia between seniors and university students differed only in some areas of the topic. Religion is a very important factor which influences opinions on euthanasia. There were differences in opinions between students of faculty of medicine and students of humanities. In contrary, the health of seniors and their education did not have influence on their attitudes towards euthanasia.
+C1 [Vlckova, Jana] Masaryk Univ, Fac Educ, Dept Educ, Brno, Czech Republic.
+   [Kubiatko, Milan] Univ Zilina, Fac Humanities, Dept Pedag Studies, Zilina 01026, Slovakia.
+   [Usak, Muhammet] Gazi Univ, Fac Educ, Dept Sci Educ, Ankara, Turkey.
+   [Aydin, Halil] Dokuz Eylul Univ, Fac Educ, Dept Biol Educ, Izmir, Turkey.
+C3 Masaryk University Brno; University of Zilina; Gazi University; Dokuz
+   Eylul University
+RP Vlckova, J (corresponding author), Masaryk Univ, Fac Educ, Dept Educ, Brno, Czech Republic.
+EM 252511@mail.muni.cz; mkubiatko@gmail.com; musaktr@gmail.com;
+   halil.aydin@deu.edu.tr
+RI Usak, Muhammet/E-3176-2016; Kubiatko, Milan MK/J-4698-2012
+OI Usak, Muhammet/0000-0002-6537-9993; Kubiatko, Milan
+   MK/0000-0002-4343-9609
+NR 37
+TC 1
+Z9 1
+U1 0
+U2 24
+PU EXPERT PROJECTS PUBLISHING
+PI IASI
+PA IASI, STR VOINESTI 63, IASI, 700615, ROMANIA
+SN 1583-3410
+EI 1584-5397
+J9 REV CERCET INTERV SO
+JI Rev. Cercet. Interv. Soc.
+PD SEP
+PY 2015
+VL 50
+BP 193
+EP 208
+PG 16
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA CR8ZD
+UT WOS:000361642100013
+DA 2023-12-06
+ER
+
+PT J
+AU Bitter, I
+   Mohr, P
+   Balogh, L
+   Látalová, K
+   Kakuszi, B
+   Stopková, P
+   Zmeskalová-Jelenová, D
+   Pulay, A
+   Czobor, P
+AF Bitter, Istvan
+   Mohr, Pavel
+   Balogh, Livia
+   Latalova, Klara
+   Kakuszi, Brigitta
+   Stopkova, Pavla
+   Zmeskalova-Jelenova, Daniela
+   Pulay, Attila
+   Czobor, Pal
+TI ADHD: a hidden comorbidity in adult psychiatric patients
+SO ADHD-ATTENTION DEFICIT AND HYPERACTIVITY DISORDERS
+LA English
+DT Article
+DE ADHD; Adult ADHD; Comorbidity; Prevalence; Epidemiology
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; DEFICIT-HYPERACTIVITY
+   DISORDER; REPORT SCALE ASRS; BIPOLAR DISORDER; DSM-IV; PREVALENCE;
+   SYMPTOMS; SAMPLE; MEDICATION; DIAGNOSIS
+AB Adult attention-deficit/hyperactivity disorder (aADHD) has recently been better recognized and treated in many European countries. In spite of this development, aADHD still features as a hidden comorbidity, often not diagnosed even in patients under psychiatric treatment for other psychiatric disorders. The aim of this study was to establish the prevalence rates of unrecognized aADHD in academic centers providing regular psychiatric services in the Czech Republic and Hungary. In a population of psychiatric in-and outpatients, Adult ADHD Self-Report Scale was administered. All positively and about half of the negatively screened subjects were clinically interviewed and the DSM diagnosis of ADHD was determined based on the symptom list and Conners' Adult ADHD Rating Scale. The estimated point prevalence rate of unrecognized comorbid aADHD among psychiatric in-and out patients was 6.99% (95% lower CI: 5.11, 95% upper CI 8.86) according to the DSM-IV-TR criteria and 9.27% (95% lower CI: 7.13, 95% upper CI 11.40) according to the DSM-5 criteria. Current suicide risk was significantly associated with the presence of undiagnosed aADHD; however, life time suicide attempts, depression, dysthymia, alcohol and substance dependence, anxiety and stress related disorders were not. Further educational efforts are needed to improve the recognition and treatment of aADHD in adults
+C1 [Bitter, Istvan; Balogh, Livia; Kakuszi, Brigitta; Pulay, Attila; Czobor, Pal] Semmelweis Univ, Dept Psychiat & Psychotherapy, Budapest, Hungary.
+   [Mohr, Pavel; Stopkova, Pavla] Natl Inst Mental Hlth, Klecany, Czech Republic.
+   [Mohr, Pavel; Stopkova, Pavla] Charles Univ Prague, Fac Med 3, Prague, Czech Republic.
+   [Latalova, Klara; Zmeskalova-Jelenova, Daniela] Palacky Univ, Dept Psychiat, Univ Hosp Olomouc, Olomouc, Czech Republic.
+   [Latalova, Klara; Zmeskalova-Jelenova, Daniela] Palacky Univ, Fac Med & Dent, Olomouc, Czech Republic.
+C3 Semmelweis University; National Institute of Mental Health - Czech
+   Republic; Charles University Prague; University Hospital Olomouc;
+   Palacky University Olomouc; Palacky University Olomouc
+RP Bitter, I (corresponding author), Semmelweis Univ, Dept Psychiat & Psychotherapy, Budapest, Hungary.
+EM bitter.istvan@med.semmelweis-univ.hu
+RI Mohr, Pavel/R-3020-2016; Bitter, Istvan/J-8196-2017; Pulay, Attila
+   J/B-6155-2011; Stopkova, Pavla/C-6000-2019
+OI Mohr, Pavel/0000-0002-9851-3271; Bitter, Istvan/0000-0002-9464-4709;
+   Stopkova, Pavla/0000-0003-2712-3652
+FU E. Lilly
+FX E. Lilly supported part of this study providing an Investigators
+   Initiated Grant to Drs. Bitter and Mohr. The Sponsor reviewed the
+   proposal and received a copy of the submitted manuscript; however, they
+   had no role in the planning and implementation of the study, drafting
+   and submission of the manuscript or in any other parts of this study.
+NR 40
+TC 13
+Z9 15
+U1 5
+U2 24
+PU SPRINGER WIEN
+PI Vienna
+PA Prinz-Eugen-Strasse 8-10, A-1040 Vienna, AUSTRIA
+SN 1866-6116
+EI 1866-6647
+J9 ADHD-ATTEND DEFICIT
+JI ADHD-Attend. Deficit Hyperact. Disord.
+PD MAR
+PY 2019
+VL 11
+IS 1
+SI SI
+BP 83
+EP 89
+DI 10.1007/s12402-019-00285-9
+PG 7
+WC Psychiatry
+WE Emerging Sources Citation Index (ESCI)
+SC Psychiatry
+GA HR0NP
+UT WOS:000462825700008
+PM 30927233
+OA hybrid, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Vanecková, M
+   Zakharov, S
+   Klempír, J
+   Ruzicka, E
+   Bezdícek, O
+   Lisková, I
+   Diblík, P
+   Miovsky, M
+   Hubácek, JA
+   Urban, P
+   Ridzon, P
+   Pelclová, D
+   Burgetová, A
+   Masek, M
+   Seidl, Z
+AF Vaneckova, M.
+   Zakharov, S.
+   Klempir, J.
+   Ruzicka, E.
+   Bezdicek, O.
+   Liskova, I.
+   Diblik, P.
+   Miovsky, M.
+   Hubacek, J. A.
+   Urban, P.
+   Ridzon, P.
+   Pelclova, D.
+   Burgetova, A.
+   Masek, M.
+   Seidl, Z.
+TI Methanol Intoxication on Magnetic Resonance Imaging - Case Reports
+SO CESKA A SLOVENSKA NEUROLOGIE A NEUROCHIRURGIE
+LA Czech
+DT Article
+DE methanol; intoxication; magnetic resonance imaging; basal ganglia
+ID MR; CT
+AB Methanol is a highly toxic liquid with affinity to optic nerves and the central nervous system. Poisoning can occur during a suicide attempt or as a result of an accident, most often due to mistaking methanol for alcohol. In the Czech Republic, the so called methanol affair still resonates; a total of 121 patients were hospitalized due to intoxication with methanol. We present three cases, their magnetic resonance imaging results and residual clinical disability. Methanol intoxication leads to metabolic acidosis and permanent sequelae such as blindness, permanent neurological disability (especially extrapyramidal disorders) and, in severe cases, the patient's death. Magnetic resonance imaging shows a methanol intoxication-specific finding; during an acute phase, it may be useful in differential diagnosis as well as for predicting severity of disability and subsequent course of clinical condition. The finding on imaging gradually evolves. Typically, magnetic resonance depicts bilateral necrosis in the putamen with or without signs of bleeding. Another typical localization is the subcortical area; findings in the stem and the cerebellum or other basal ganglia are less frequent. On examination of the visual pathway, an atrophy of optic nerve can be detected; demyelination is present during the acute phase.
+C1 [Vaneckova, M.; Burgetova, A.; Masek, M.; Seidl, Z.] 1 LF UK & VFN Praze, Oddeleni MR, Radiodiagnost Klin, Prague 12808 2, Czech Republic.
+   [Zakharov, S.; Urban, P.; Ridzon, P.; Pelclova, D.] 1 LF UK & VFN Praze, Klin Pracovniho Lekarstvi, Prague 12808 2, Czech Republic.
+   [Klempir, J.; Ruzicka, E.; Bezdicek, O.; Liskova, I.] 1 LF UK & VFN Praze, Neurol Klin, Prague 12808 2, Czech Republic.
+   [Diblik, P.] 1 LF UK & VFN Praze, Ocni Klin, Prague 12808 2, Czech Republic.
+   [Miovsky, M.] 1 LF UK & VFN Praze, Klin Adiktol, Prague 12808 2, Czech Republic.
+   [Hubacek, J. A.] IKEM, Ctr Expt Med, Prague, Czech Republic.
+C3 Charles University Prague; General University Hospital Prague; General
+   University Hospital Prague; Charles University Prague; General
+   University Hospital Prague; Charles University Prague; Charles
+   University Prague; General University Hospital Prague; Charles
+   University Prague; General University Hospital Prague; Institute for
+   Clinical & Experimental Medicine (IKEM)
+RP Vanecková, M (corresponding author), 1 LF UK & VFN Praze, Oddeleni MR, Radiodiagnost Klin, Katerinska 30, Prague 12808 2, Czech Republic.
+EM man.van@post.cz
+RI Růžička, Evžen/ITT-3946-2023; Diblik, Pavel/I-2515-2017; Ridzon,
+   Petr/D-7381-2017; Zakharov, Sergey/O-2896-2019; Hubacek, Jaroslav
+   Alois/AAN-6134-2021; Miovský, Michal/N-5879-2017; Vaneckova,
+   Manuela/M-1301-2017; Urban, Pavel/D-7801-2017; Růžička,
+   Evžen/F-9299-2017; Zakharov, Sergey/L-8511-2014; Bezdicek,
+   Ondrej/AAK-4730-2020; Zacharov, Sergej/C-8946-2017; Pelclova,
+   Daniela/C-8885-2017; Bezdicek, Ondrej/C-2101-2015; Burgetova,
+   Andrea/C-8393-2017; Klempir, Jiri/P-3897-2017; Klempir,
+   Jiri/AAI-7300-2021; Zacharov, Sergej/C-8946-2017; Urban,
+   Pavel/D-7801-2017
+OI Růžička, Evžen/0000-0002-4893-9661; Diblik, Pavel/0000-0001-9025-8176;
+   Ridzon, Petr/0000-0002-1983-529X; Zakharov, Sergey/0000-0001-9864-8304;
+   Hubacek, Jaroslav Alois/0000-0001-6537-1353; Miovský,
+   Michal/0000-0001-8312-206X; Vaneckova, Manuela/0000-0002-8784-7997;
+   Urban, Pavel/0000-0002-0898-5524; Růžička, Evžen/0000-0002-4893-9661;
+   Zakharov, Sergey/0000-0001-9864-8304; Bezdicek,
+   Ondrej/0000-0002-5108-0181; Zacharov, Sergej/0000-0003-4480-5460;
+   Pelclova, Daniela/0000-0002-0240-5146; Bezdicek,
+   Ondrej/0000-0002-5108-0181; Burgetova, Andrea/0000-0002-9975-2338;
+   Klempir, Jiri/0000-0002-0735-7155; Zacharov, Sergej/0000-0003-0280-9236;
+   Urban, Pavel/0000-0002-6869-1341
+NR 10
+TC 30
+Z9 30
+U1 0
+U2 18
+PU CZECH MEDICAL SOC
+PI PRAGUE 2
+PA SOKOLSKA 31, PRAGUE 2 120 26, CZECH REPUBLIC
+SN 1210-7859
+EI 1802-4041
+J9 CESK SLOV NEUROL N
+JI Cesk. Slov. Neurol. Neurochir.
+PY 2014
+VL 77
+IS 2
+BP 235
+EP 239
+PG 5
+WC Neurosciences; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Surgery
+GA AE0ND
+UT WOS:000333662100015
+DA 2023-12-06
+ER
+
+PT J
+AU Kebza, V
+   Paclt, I
+AF Kebza, V
+   Paclt, I
+TI Depressive disorders in primary care
+SO CESKOSLOVENSKA PSYCHOLOGIE
+LA Czech
+DT Article
+DE depressive disorders; classification; possible improving of primary care
+ID SUICIDE; PROGRAM
+AB The submitted paper reviews contemporary classifications of depressive disorders in the main classification systems and evaluates the possible compatibility of the two systems. It draws attention to the economic aspects of this group of diseases from the aspect of direct as well as indirect costs. The authors assemble data on the epidemiology of depressive disorders worldwide, at the level of the EU and in the Czech Republic. The main intervention projects implemented abroad with the aim to improve the quality of care of depressive patients by general practitioners are presented. In their own study the authors contacted two groups of general practitioners one group was trained in a special course in effective detection, diagnosis, therapy and prevention of depressions and was given methodological educational materials which they used for the six-month follow up of depressive disorders in their patients incl. the diagnostic and therapeutic strategy. The control group completed first the six-month follow up and was trained afterwards. Comparison of results of the two groups suggests in general a more effective diagnostic and therapeutic approach, incl. a higher number of detected patients, adequate treatment and a significantly different status of the patients after the six-month follow up in the first group of physicans and their patients.
+C1 Statni Zaravotni Ustav, Prague 10000 10, Czech Republic.
+   Charles Univ Prague, Psychiat Klinika 1, Prague 12000 2, Czech Republic.
+C3 Charles University Prague
+RP Kebza, V (corresponding author), Statni Zaravotni Ustav, Srobarova 48, Prague 10000 10, Czech Republic.
+EM kebza@szu.cz
+RI Paclt, Ivo/O-2286-2017; Williams, John/AAM-4572-2020
+OI Paclt, Ivo/0000-0002-3871-8304; Williams, John/0000-0002-5267-5558
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ACADEMIA
+PI PRAGUE 1
+PA PUBL HOUSE CZECH ACAD SCI VODICKOVA 40, PRAGUE 1 112 29, CZECH REPUBLIC
+SN 0009-062X
+EI 1804-6436
+J9 CESK PSYCHOL
+JI Cesk. Psychol.
+PY 2002
+VL 46
+IS 1
+BP 64
+EP 74
+PG 11
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 544GK
+UT WOS:000175149700006
+DA 2023-12-06
+ER
+
+PT J
+AU Janík, M
+   Ublová, M
+   Kucerová, S
+   Hejna, P
+AF Janik, Martin
+   Ublova, Michaela
+   Kucerova, Stepanka
+   Hejna, Petr
+TI Carbon monoxide-related fatalities: A 60-year single institution
+   experience
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Carbon monoxide; Poisoning; Fatality; Autopsy; Coal gas;
+   Carboxyhemoglobin
+ID BURNING BARBECUE CHARCOAL; SUICIDE; DEATHS; INTOXICATION; MYOCARDIUM;
+   EXPRESSION; AUTOPSY; COUNTY; TRENDS
+AB Objective: Though carbon monoxide (CO) poisonings account currently for a relatively small percentage of total non-natural deaths in Europe, they represent a serious public health burden and significant component of avoidable mortality in many countries. Our aim was to investigate long-term trends and to determine epidemiologic characteristics of the CO-related deaths in the Czech Republic, recorded at the Department of Forensic Medicine in Hradec Kralove.
+   Methods: This was an autopsy-based single-centre retrospective cohort study of all fatalities caused by CO poisoning over six decades (1947-2006). All data were numerically evaluated and processed using NCSS 10 Statistical Software. Statistical significance was defined as a p-value less than 0.05.
+   Results: A total of 1233 CO-related deaths were identified for inclusion in the study. The manner of death was ranked in order as follows: 45% accidental poisoning, 40% suicidal poisoning, 1% homicidal poisoning, 14% remained undetermined. There were slightly more male victims (59%) than female, and the mean age overall was 48 years. The majority of CO-related fatalities were attributed to coal gas inhalation, with the remainder being from inhaled motor vehicle exhaust fumes, inhaled fire smoke, and other combustion sources such as charcoal, gas and wood-burning appliances. The mean blood carboxyhemoglobin (COHb) level was 66%. A positive blood ethanol concentration was measured in 455 (37%) cases examined. Non-intentional poisonings were highly correlated with the winter months.
+   Conclusion: This study shows that the prevalence of CO-related deaths has decreased significantly in the Czech Republic following the widespread detoxification of the domestic gas in the 1990-1995. Our findings suggest that acute ethanol use, poorer socioeconomic position, and inadequate education status about the danger of CO are associated with an increased risk of fatal CO poisoning. Finally, our results demonstrate the continued value of the autopsy in monitoring global public health security issues and socioeconomic situation. Further similar large-scale studies in different populations are needed to improve the targeting of interventions to the groups with the highest level of risk, and to understand the sources of variation in CO-related mortality. (C) 2017 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Janik, Martin] Comenius Univ, Univ Hosp, Jessenius Fac Med, Dept Forens Med & Medicolegal Expertises, Martin 03659, Slovakia.
+   [Ublova, Michaela; Kucerova, Stepanka; Hejna, Petr] Charles Univ Prague, Univ Hosp, Fac Med, Dept Forens Med, Hradec Kralove, Czech Republic.
+C3 Comenius University Bratislava; Charles University Prague; University
+   Hospital Hradec Kralove
+RP Janík, M (corresponding author), Comenius Univ, Univ Hosp, Jessenius Fac Med, Dept Forens Med & Medicolegal Expertises, Martin 03659, Slovakia.
+EM janik.mato@gmail.com
+RI Pohlova Kucerova, Stepanka/GZL-4426-2022; Janík, Martin/X-6757-2018;
+   Hejna, Petr/AAN-8336-2021
+OI Pohlova Kucerova, Stepanka/0000-0001-7858-4972; Janik,
+   Martin/0000-0002-5020-5018
+NR 46
+TC 25
+Z9 25
+U1 1
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD MAY
+PY 2017
+VL 48
+BP 23
+EP 29
+DI 10.1016/j.jflm.2017.04.002
+PG 7
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA EZ1LB
+UT WOS:000404471400005
+PM 28419893
+DA 2023-12-06
+ER
+
+PT J
+AU Nawka, A
+   Rukavina, TV
+   Nawková, L
+   Jovanovic, N
+   Brborovic, O
+   Raboch, J
+AF Nawka, Alexander
+   Rukavina, Tea Vukusic
+   Nawkova, Lucie
+   Jovanovic, Nikolina
+   Brborovic, Ognjen
+   Raboch, Jiri
+TI Psychiatric disorders and aggression in the printed media: is there a
+   link? a central European perspective
+SO BMC PSYCHIATRY
+LA English
+DT Article
+ID MAJOR MENTAL-DISORDERS; ILLNESS; BEHAVIOR; VIOLENCE; DEPICTIONS;
+   ASSOCIATIONS; HEALTH; CRIME
+AB Background: A content analysis was used to describe the association between psychiatric disorders and aggression in the printed media in the Czech Republic and Slovakia.
+   Methods: Articles were chosen from the most widely read daily newspapers and magazines in both countries during five one-week periods in 2007. A coding manual was developed and a content analysis was performed. Aggressive behavior was assessed by two separate categories - the role of the mentally ill person in the violent act (perpetrator/victim) and the type of aggressive act (homicide, suicide).
+   Results: A total of 375 articles were analyzed. Main findings: 1) The proportion of articles depicting psychiatric disorders together with either self-or other-directed aggressive behavior is 31.2%; 2) Homicide was most frequently mentioned in the context of psychotic disorders and schizophrenia, while affective disorders were most frequently associated with both completed suicides and homicides; 3) Eating disorders and anxiety disorders were seldom associated with any kind of aggressive behavior, including self-harm; 4) The vast majority of articles presented mentally ill people as perpetrators, and these articles were more often coded as stigmatizing. 5) Articles with aggressive behavior mentioned on the cover are roughly as frequent as those with aggressive behavior in the later sections of the media (36.7% vs. 30.7%).
+   Conclusions: The results are similar to the findings in countries with longer histories of consistent advocacy for improved depiction of mental illness in the media. However, we have shown that persons with mental illness are still over-portrayed as perpetrators of violent crimes, especially homicides.
+C1 [Nawka, Alexander; Nawkova, Lucie; Raboch, Jiri] Charles Univ Prague, Dept Psychiat, Fac Med 1, Prague, Czech Republic.
+   [Rukavina, Tea Vukusic; Brborovic, Ognjen] Univ Zagreb, Sch Med, Andrija Stampar Sch Publ Hlth, Zagreb 41001, Croatia.
+   [Jovanovic, Nikolina] Univ Zagreb, Sch Med, Univ Hosp Ctr, Dept Psychiat, Zagreb 41001, Croatia.
+C3 General University Hospital Prague; Charles University Prague;
+   University of Zagreb; University of Zagreb
+RP Nawka, A (corresponding author), Charles Univ Prague, Dept Psychiat, Fac Med 1, Prague, Czech Republic.
+EM a.nawka@gmail.com
+RI Nawka, Alexander/O-7259-2017; Jovanovic, Nikolina/S-1052-2018; raboch,
+   jiri/N-7445-2017; Vukusic Rukavina, Tea/ABH-3238-2021; Brborovic,
+   Ognjen/AAF-1651-2020
+OI Nawka, Alexander/0000-0002-5564-8694; Jovanovic,
+   Nikolina/0000-0002-7554-9837; raboch, jiri/0000-0001-6667-1497; Vukusic
+   Rukavina, Tea/0000-0002-6466-9024
+FU U.S. National Institutes of Health John E. Fogarty International Center
+   [5 D43 TW005810-07]; Czech Ministry of Education [MSM0021620849]
+FX We would like to thank our senior advisors Prof. Howard Goldman, Prof.
+   Stephen Hinshaw and Prof. Graham Thornicroft for their unwavering
+   support and our whole "Media project" team. We are also thankful to
+   Prof. Harold Kaplan for his work on statistics. This project was
+   prepared within the "Finance and Mental Health Services Training in
+   Czech Republic/Central Europe," sponsored by the U.S. National
+   Institutes of Health John E. Fogarty International Center (5 D43
+   TW005810-07) and by Czech Ministry of Education, research grant
+   MSM0021620849.
+NR 51
+TC 25
+Z9 28
+U1 0
+U2 29
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAR 12
+PY 2012
+VL 12
+AR 19
+DI 10.1186/1471-244X-12-19
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 945XP
+UT WOS:000304310300001
+PM 22409957
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Juricková, L
+   Ivanová, K
+   Dobiás, M
+   Andrásik, R
+   Ondra, P
+AF Jurickova, Lubica
+   Ivanova, Katerina
+   Dobias, Martin
+   Andrasik, Richard
+   Ondra, Peter
+TI MANNER OF DEATH OF OLDER PEOPLE WITH REGARD TO BLOOD ALCOHOL
+   CONCENTRATION
+SO CENTRAL EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE older people; alcohol abuse; death; autopsy
+ID SUICIDE; INTOXICATION; DRUGS
+AB Objective: Alcohol abuse is related to a wide variety of negative health outcomes including mortality in older people. Alcohol abuse in older people is characterised by certain specific features uncommon in general adult population. The main objective of this study was to analyse the autopsy protocols of deceased older people in relation to blood alcohol concentration (BAC), sex, age, and manner of death. As a positive BAC, > 0.20 g/kg was accepted.
+   Methods: The sample consists of 1,012 deceased older people (i.e. aged 65 years and over) selected out of 2,377 autopsied subjects in the period from 2003-2013. Subjects included into the sample were chosen via the proportional sampling method. Data (BAC, sex, age, and manner of death) was recorded in a single structured protocol. Data was evaluated statistically (Kolmogorov-Smirnov two-sample test, Wilcoxon two-sample test, risk ratio).
+   Results: Among older people, there has been a statistically significant correlation of natural death with sex (men died earlier) and with increased BAC (people with positive BAC died earlier). In case of violent death there is a difference in the types of accidents in older people with positive BAC (> 0.2 g/kg) and with negative BAC (<= 0.2 g/kg). Drowning is more common in older people with positive BAC.
+   Conclusions: Health campaigns in Europe and the Czech Republic aimed at reducing alcohol consumption mainly deal with young people. Alcohol abuse has an impact on premature mortality even in older people. As shown by this study, older people with positive BAC die significantly earlier.
+C1 [Jurickova, Lubica; Ivanova, Katerina] Palacky Univ, Fac Med & Dent, Dept Social Med & Publ Hlth, Hnevotinska 3, Olomouc 77515, Czech Republic.
+   [Dobias, Martin; Ondra, Peter] Palacky Univ, Fac Med & Dent, Dept Forens Med & Med Law, Olomouc, Czech Republic.
+   [Andrasik, Richard] Palacky Univ, Fac Sci, Dept Math Anal & Applicat Math, Olomouc, Czech Republic.
+C3 Palacky University Olomouc; Palacky University Olomouc; Palacky
+   University Olomouc
+RP Ivanová, K (corresponding author), Palacky Univ, Fac Med & Dent, Dept Social Med & Publ Hlth, Hnevotinska 3, Olomouc 77515, Czech Republic.
+EM katerina.ivanova@upol.cz
+RI Andrášik, Richard/HTR-1796-2023; Andrášik, Richard/AAJ-6246-2020
+OI Andrášik, Richard/0000-0002-6892-7246; 
+FU Palacky University Olomouc [IGA_LF_2014_033];  [RVO 61989592]
+FX This study was supported by Palacky University Olomouc (Grant No
+   IGA_LF_2014_033) and RVO 61989592.
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 5
+PU NATL INST PUBLIC HEALTH
+PI PRAGUE 10
+PA DEPT SCIENTIFIC INFORMATION, SROBAROVA 48, PRAGUE 10, 100 42, CZECH
+   REPUBLIC
+SN 1210-7778
+EI 1803-1048
+J9 CENT EUR J PUBL HEAL
+JI Cent. Eur. J. Public Health
+PD DEC
+PY 2017
+VL 25
+IS 4
+BP 266
+EP 270
+DI 10.21101/cejph.a4749
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FU0EN
+UT WOS:000423524300003
+PM 29346847
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Urbanová, P
+   Hejna, P
+   Jurda, M
+AF Urbanova, Petra
+   Hejna, Petr
+   Jurda, Mikolas
+TI Testing photogrammetry-based techniques for three-dimensional surface
+   documentation in forensic pathology
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article
+DE Postmortem documentation; Optical surface scanning; Photogrammetry;
+   Point cloud comparison
+ID MULTISLICE COMPUTED-TOMOGRAPHY; VIRTUAL AUTOPSY; 3D DOCUMENTATION;
+   RECONSTRUCTION; IDENTIFICATION; MORPHOLOGY; PLACEMENT; ACCIDENT;
+   INJURIES; MEDICINE
+AB Three-dimensional surface technologies particularly close range photogrammetry and optical surface scanning have recently advanced into affordable, flexible and accurate techniques. Forensic postmortem investigation as performed on a daily basis, however, has not yet fully benefited from their potentials. In the present paper, we tested two approaches to 3D external body documentation - digital camera-based photogrammetry combined with commercial Agisoft PhotoScan (R) software and stereophotogrammetry-based Vectra H1 (R), a portable handheld surface scanner. In order to conduct the study three human subjects were selected, a living person, a 25-year-old female, and two forensic cases admitted for postmortem examination at the Department of Forensic Medicine, Hradec Kralove, Czech Republic (both 63-year-old males), one dead to traumatic, self-inflicted, injuries (suicide by hanging), the other diagnosed with the heart failure.
+   All three cases were photographed in 3608 manner with a Nikon 7000 digital camera and simultaneously documented with the handheld scanner. In addition to having recorded the pre-autopsy phase of the forensic cases, both techniques were employed in various stages of autopsy. The sets of collected digital images (approximately 100 per case) were further processed to generate point clouds and 3D meshes. Final 3D models (a pair per individual) were counted for numbers of points and polygons, then assessed visually and compared quantitatively using ICP alignment algorithm and a cloud point comparison technique based on closest point to point distances.
+   Both techniques were proven to be easy to handle and equally laborious. While collecting the images at autopsy took around 20 min, the post-processing was much more time-demanding and required up to 10 h of computation time. Moreover, for the full-body scanning the post-processing of the handheld scanner required rather time-consuming manual image alignment. In all instances the applied approaches produced high-resolution photorealistic, real sized or easy to calibrate 3D surface models. Both methods equally failed when the scanned body surface was covered with body hair or reflective moist areas. Still, it can be concluded that single camera close range photogrammetry and optical surface scanning using Vectra H1 scanner represent relatively low-cost solutions which were shown to be beneficial for postmortem body documentation in forensic pathology. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+C1 [Urbanova, Petra; Jurda, Mikolas] Masaryk Univ, Fac Sci, Dept Anthropol, Lab Morphol & Forens Anthropol, CS-61137 Brno, Czech Republic.
+   [Hejna, Petr] Charles Univ Prague, Fac Med, Dept Forens Med, Hradec Kralove 50005, Czech Republic.
+   [Hejna, Petr] Univ Hosp Hradec Kralove, Hradec Kralove 50005, Czech Republic.
+C3 Masaryk University Brno; Charles University Prague; University Hospital
+   Hradec Kralove; University Hospital Hradec Kralove
+RP Urbanová, P (corresponding author), Masaryk Univ, Fac Sci, Dept Anthropol, Lab Morphol & Forens Anthropol, Kotlarska 2, CS-61137 Brno, Czech Republic.
+EM urbanova@sci.muni.cz; HejnaP@lfhk.cuni.cz; mikolasju@gmail.com
+RI Jurda, Mikoláš/AAB-5504-2022; Urbanova, Petra/AFA-6848-2022; Hejna,
+   Petr/AAN-8336-2021
+OI Jurda, Mikoláš/0000-0003-1733-3226; Urbanova, Petra/0000-0001-9321-3360;
+   
+FU Project Grant at Masaryk University [MUNI/A/0983/2013]; EU programme
+   FITEAMP (Formation of International Team on Evolutionary Anthropology of
+   the Moravian Populations) [CZ.1.07/2.3.00/20.0181]
+FX The study was carried out with a financial support provided by Project
+   Grant at Masaryk University, project no. MUNI/A/0983/2013 and EU
+   programme FITEAMP CZ.1.07/2.3.00/20.0181 (Formation of International
+   Team on Evolutionary Anthropology of the Moravian Populations).
+NR 33
+TC 61
+Z9 65
+U1 1
+U2 47
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+EI 1872-6283
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD MAY
+PY 2015
+VL 250
+BP 77
+EP 86
+DI 10.1016/j.forsciint.2015.03.005
+PG 10
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA CF3IK
+UT WOS:000352441700012
+PM 25818581
+DA 2023-12-06
+ER
+
+EF

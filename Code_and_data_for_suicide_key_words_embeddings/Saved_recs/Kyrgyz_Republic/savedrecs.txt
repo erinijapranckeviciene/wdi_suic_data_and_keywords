@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Molchanova, E
+   Galako, T
+AF Molchanova, E.
+   Galako, T.
+TI Suicides in the Kyrgyz Republic: Discrepancies in different types of
+   official statistics
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Molchanova, E.] Amer Univ Cent Asia, Psychol, Bishkek, Kyrgyzstan.
+   [Galako, T.] Kyrgyz State Med Acad, Psychiat, Bishkek, Kyrgyzstan.
+C3 American University of Central Asia; Kyrgyz State Medical Academy;
+   Ministry of Health - Kyrgyzstan
+RI Molchanova, Elena/ABA-1245-2020; Galako, Tatiana/AIA-1494-2022
+OI Molchanova, Elena/0000-0002-4268-9008; Galako,
+   Tatiana/0000-0003-2868-1162
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 2
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2017
+VL 41
+SU S
+MA EV1477
+BP S890
+EP S890
+DI 10.1016/j.eurpsy.2017.01.1807
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EZ8CS
+UT WOS:000404952600870
+DA 2023-12-05
+ER
+
+EF

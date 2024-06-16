@@ -1,0 +1,795 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lipsicas, CB
+   Mäkinen, IH
+   Wasserman, D
+   Apter, A
+   Kerkhof, A
+   Michel, K
+   Renberg, ES
+   van Heeringen, K
+   Värnik, A
+   Schmidtke, A
+AF Lipsicas, Cendrine Bursztein
+   Makinen, Ilkka Henrik
+   Wasserman, Danuta
+   Apter, Alan
+   Kerkhof, Ad
+   Michel, Konrad
+   Renberg, Ellinor Salander
+   van Heeringen, Kees
+   Varnik, Airi
+   Schmidtke, Armin
+TI Gender distribution of suicide attempts among immigrant groups in
+   European countries-an international perspective
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID ETHNIC-DIFFERENCES; SELF-HARM; RATES; BEHAVIOR; WOMEN; NETHERLANDS;
+   MINORITY; YOUNG
+AB Background: Studies report high rates of suicide attempts for female immigrants. This study assesses variations in the distribution of suicide attempts across gender in immigrant and non-immigrant groups in Europe. Method: Data on 64 native and immigrant groups, including 17 662 local and 3755 immigrant person-cases collected, between 1989 and 2003, in 24 million person-years were derived from the WHO/EURO Multicentre Study on Suicidal Behaviour. Female-to-male ratios of suicide attempt rates (SARs) were calculated for all groups. Results: The cases were combined into four major categories: hosts; European and other Western immigrants; non-European immigrants; and Russian immigrants. The non-European immigrants included higher female SARs than the Europeans, both hosts and immigrants. Unlike the other groups, the majority of suicide attempters among the Russian immigrants in Estonia and Estonian hosts were male. This was also true for immigrants from Curacao, Iran, Libya and Sri Lanka. When the single groups with a male majority were excluded, the correlation between female and male SARs was relatively high among the European immigrants (r = 0.74, P < 0.0005) and lower among the non-European immigrants (r = 0.55, P < 0.03). Generalized estimating equation analysis yielded a highly significant difference (P < 0.0005) in gender ratios of suicide attempts between hosts (ratio 1.52) and both non-European immigrants (ratio 2.32) and Russian immigrants (0.68), but not the European immigrants. Conclusions: The higher suicide attempt rates in non-European immigrant females compared with males may be indicative of difficulties in the acculturation processes in Europe. Further understanding of factors underlying suicidal behaviour in immigrant and minority groups is necessary for planning effective prevention strategies.
+C1 [Lipsicas, Cendrine Bursztein; Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, S-10401 Stockholm, Sweden.
+   [Lipsicas, Cendrine Bursztein; Wasserman, Danuta] WHO Lead Collaborating Ctr Mental Hlth Problems &, Stockholm Cty Councils Ctr Suicide Res & Prevent, Stockholm, Sweden.
+   [Makinen, Ilkka Henrik] Sodertorn Univ, Sch Social Sci, SCOHOST, Stockholm, Sweden.
+   [Apter, Alan] Feinberg Child Study Ctr, Petah Tiqwa, Israel.
+   [Apter, Alan] Schneider Childrens Med Ctr, Dept Child & Adolescent Psychiat, Petah Tiqwa, Israel.
+   [Kerkhof, Ad] Vrije Univ Amsterdam, Dept Clin Psychol, Amsterdam, Netherlands.
+   [Michel, Konrad] Univ Psychiat Serv UPD, Bern, Switzerland.
+   [Renberg, Ellinor Salander] Umea Univ, Div Psychiat, Dept Clin Sci, S-90187 Umea, Sweden.
+   [van Heeringen, Kees] Univ Hosp, Unit Suicide Res, Univ Dept Psychiat & Med Psychol, Ghent, Belgium.
+   [Varnik, Airi] Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Schmidtke, Armin] Univ Wurzburg, Dept Psychiat & Psychotherapy, Unit Clin Psychol, Wurzburg, Germany.
+C3 Karolinska Institutet; Sodertorn University; Vrije Universiteit
+   Amsterdam; Umea University; Ghent University; Ghent University Hospital;
+   University of Wurzburg
+RP Lipsicas, CB (corresponding author), Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, S-10401 Stockholm, Sweden.
+EM cendrinebursztein@gmail.com
+RI Michel, Konrad/AAO-5546-2020; van Heeringen, Kees/H-2384-2013
+OI Michel, Konrad/0000-0003-0725-5383; van Heeringen,
+   Kees/0000-0001-5801-194X; Schmidtke, Armin/0000-0001-5719-9856
+FU WHO/EU Network on suicide research and prevention monitoring study
+   project [2003135]; Karolinska Institute PhD financing programme (KID);
+   National Prevention of Suicide and Mental Ill-Health (NASP) at the
+   Karolinska Institute, Stockholm
+FX The WHO/EU Network on suicide research and prevention monitoring study
+   project (No. 2003135); the Karolinska Institute PhD financing programme
+   (KID-funding); the National Prevention of Suicide and Mental Ill-Health
+   (NASP) at the Karolinska Institute, Stockholm.
+NR 28
+TC 16
+Z9 19
+U1 1
+U2 19
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD APR
+PY 2013
+VL 23
+IS 2
+BP 279
+EP 284
+DI 10.1093/eurpub/cks029
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 123XK
+UT WOS:000317425100023
+PM 22577125
+OA Green Published, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Mokdad, AH
+   Moradi-Lakeh, M
+   Charara, R
+   El Bcheraoui, C
+   Khalil, I
+   Afshin, A
+   Kassebaum, NJ
+   Collison, M
+   Chew, A
+   Krohn, KJ
+   Daoud, F
+   Colombara, D
+   Graetz, N
+   Kutz, M
+   Wang, HD
+   Abd-Allah, F
+   Abu-Raddad, LJ
+   Kiadaliri, AA
+   Ahmed, MB
+   Alam, K
+   Alghnam, S
+   Alizadeh-Navaei, R
+   Al-Raddadi, R
+   Altirkawi, KA
+   Anber, N
+   Anwari, P
+   Avila-Burgos, L
+   Awasthi, A
+   Barac, A
+   Barker-Collo, SL
+   Bedi, N
+   Bhutta, ZA
+   Borschmann, R
+   Boufous, S
+   Butt, ZA
+   Castañeda-Orjuela, CA
+   Dalal, K
+   Danawi, H
+   De Leo, D
+   Dharmaratne, SD
+   Djalalinia, S
+   Doyle, KE
+   Esteghamati, A
+   Faro, A
+   Farvid, MS
+   Fereshtehnejad, SM
+   Fischer, F
+   Gebrehiwot, TT
+   Gutiérrez, RA
+   Hafezi-Nejad, N
+   Hamadeh, RR
+   Hamidi, S
+   Haro, JM
+   Hendrie, D
+   Hu, GQ
+   Jonas, JB
+   Kasaeian, A
+   Keiyoro, PN
+   Khader, YS
+   Khan, EA
+   Khubchandani, J
+   Kopec, JA
+   Larson, HJ
+   Latif, AA
+   Leshargie, CT
+   Lunevicius, R
+   Abd El Razek, MM
+   Majeed, A
+   Malekzadeh, R
+   Memish, ZA
+   Meretoja, TJ
+   Miller, TR
+   Mohammed, S
+   Obermeyer, CM
+   Ogbo, FA
+   Phillips, MR
+   Pourmalek, F
+   Qorbani, M
+   Radfar, A
+   Rafay, A
+   Rahimi-Movaghar, A
+   Rahimi-Movaghar, V
+   Rai, RK
+   Rawaf, DL
+   Rawaf, S
+   Rezaei, S
+   Rezai, MS
+   Roshandel, G
+   Safdarian, M
+   Safiri, S
+   Salamati, P
+   Samy, AM
+   Sartorius, B
+   Seedat, S
+   Sepanlou, SG
+   Shaikh, MA
+   Sobaih, BHA
+   Tabb, KM
+   Tehrani-Banihashemi, A
+   Temsah, MH
+   Terkawi, AS
+   RomanTopor-Madry
+   Ukwaja, KN
+   Uthman, OA
+   Yaseri, M
+   NaohiroYonemoto
+   Younis, MZ
+   Jumaan, AO
+   Vos, T
+   Hay, SI
+   Naghavi, M
+   Murray, CJL
+AF Mokdad, Ali H.
+   Moradi-Lakeh, Maziar
+   Charara, Raghid
+   El Bcheraoui, Charbel
+   Khalil, Ibrahim
+   Afshin, Ashkan
+   Kassebaum, Nicholas J.
+   Collison, Michael
+   Chew, Adrienne
+   Krohn, Kristopher J.
+   Daoud, Farah
+   Colombara, Danny
+   Graetz, Nicholas
+   Kutz, Michael
+   Wang, Haidong
+   Abd-Allah, Foad
+   Abu-Raddad, Laith J.
+   Kiadaliri, Aliasghar Ahmad
+   Ahmed, Muktar Beshir
+   Alam, Khurshid
+   Alghnam, Suliman
+   Alizadeh-Navaei, Reza
+   Al-Raddadi, Rajaa
+   Altirkawi, Khalid A.
+   Anber, Nahla
+   Anwari, Palwasha
+   Avila-Burgos, Leticia
+   Awasthi, Ashish
+   Barac, Aleksandra
+   Barker-Collo, Suzanne L.
+   Bedi, Neeraj
+   Bhutta, Zulfiqar A.
+   Borschmann, Rohan
+   Boufous, Soufiane
+   Butt, Zahid A.
+   Castaneda-Orjuela, Carlos A.
+   Dalal, Koustuv
+   Danawi, Hadi
+   De Leo, Diego
+   Dharmaratne, Samath D.
+   Djalalinia, Shirin
+   Doyle, Kerrie E.
+   Esteghamati, Alireza
+   Faro, Andre
+   Farvid, Maryam S.
+   Fereshtehnejad, Seyed-Mohammad
+   Fischer, Florian
+   Gebrehiwot, Tsegaye Tewelde
+   Gutierrez, Reyna A.
+   Hafezi-Nejad, Nima
+   Hamadeh, Randah Ribhi
+   Hamidi, Samer
+   Haro, Josep Maria
+   Hendrie, Delia
+   Hu, Guoqing
+   Jonas, Jost B.
+   Kasaeian, Amir
+   Keiyoro, Peter Njenga
+   Khader, Yousef Saleh
+   Khan, Ejaz Ahmad
+   Khubchandani, Jagdish
+   Kopec, Jacek A.
+   Larson, Heidi J.
+   Latif, Asma Abdul
+   Leshargie, Cheru Tesema
+   Lunevicius, Raimundas
+   Abd El Razek, Mohammed Magdy
+   Majeed, Azeem
+   Malekzadeh, Reza
+   Memish, Ziad A.
+   Meretoja, Tuomo J.
+   Miller, Ted R.
+   Mohammed, Shafiu
+   Obermeyer, Carla Makhlouf
+   Ogbo, Felix Akpojene
+   Phillips, Michael Robert
+   Pourmalek, Farshad
+   Qorbani, Mostafa
+   Radfar, Amir
+   Rafay, Anwar
+   Rahimi-Movaghar, Afarin
+   Rahimi-Movaghar, Vafa
+   Rai, Rajesh Kumar
+   Rawaf, David Laith
+   Rawaf, Salman
+   Rezaei, Satar
+   Rezai, Mohammad Sadegh
+   Roshandel, Gholamreza
+   Safdarian, Mahdi
+   Safiri, Saeid
+   Salamati, Payman
+   Samy, Abdallah M.
+   Sartorius, Benn
+   Seedat, Soraya
+   Sepanlou, Sadaf G.
+   Shaikh, Masood Ali
+   Sobaih, Badr H. A.
+   Tabb, Karen M.
+   Tehrani-Banihashemi, Arash
+   Temsah, Mohamad-Hani
+   Terkawi, Abdullah Sulieman
+   RomanTopor-Madry
+   Ukwaja, Kingsley Nnanna
+   Uthman, Olalekan A.
+   Yaseri, Mehdi
+   NaohiroYonemoto
+   Younis, Mustafa Z.
+   Jumaan, Aisha O.
+   Vos, Theo
+   Hay, Simon I.
+   Naghavi, Mohsen
+   Murray, Christopher J. L.
+CA GBD 2015 Eastern Mediterranean Reg
+TI Intentional injuries in the Eastern Mediterranean Region, 1990-2015:
+   findings from the Global Burden of Disease 2015 study
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Intentional injuries; Eastern mediterranean region; Burden of disease
+ID SYSTEMATIC ANALYSIS; HEALTH; DISABILITY; MORTALITY; CONFLICT; SUICIDE
+AB We used GBD 2015 findings to measure the burden of intentional injuries in the Eastern Mediterranean Region (EMR) between 1990 and 2015.
+   The Global Burden of Disease (GBD) study defines intentional injuries as a combination of self-harm (including suicide), interpersonal violence, collective violence (war), and legal intervention. We estimated number of deaths, years of life lost (YLLs), years lived with disability (YLDs), and disability-adjusted life years (DALYs) for each type of intentional injuries.
+   In 2015, 28,695 individuals (95% UI: 25,474-37,832) died from self-harm, 35,626 (95% UI: 20,947-41,857) from interpersonal violence, and 143,858 (95% UI: 63,554-223,092) from collective violence and legal interventions. In 2015, collective violence and legal intervention was the fifth-leading cause of DALYs in the EMR and the leading cause in Syria, Yemen, Iraq, Afghanistan, and Libya; they account for 49.7% of total DALYs in Syria.
+   Our findings call for increased efforts to stabilize the region and assist in rebuilding the health systems, as well as increasing transparency and employing preventive strategies to reduce self-harm and interpersonal injuries.
+C1 [GBD 2015 Eastern Mediterranean Reg] Inst Hlth Metr & Evaluat, 2301 5th Ave,Suite 600, Seattle, WA 98121 USA.
+   [Mokdad, Ali H.; El Bcheraoui, Charbel; Khalil, Ibrahim; Afshin, Ashkan; Kassebaum, Nicholas J.; Collison, Michael; Chew, Adrienne; Krohn, Kristopher J.; Daoud, Farah; Colombara, Danny; Graetz, Nicholas; Kutz, Michael; Wang, Haidong; Kopec, Jacek A.; Vos, Theo; Hay, Simon I.; Naghavi, Mohsen; Murray, Christopher J. L.] Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+   [Moradi-Lakeh, Maziar] Iran Univ Med Sci, Dept Community Med, Preventat Med & Publ Hlth Res Ctr, Gastrointestinal & Liver Dis Res Ctr GILDRC, Tehran, Iran.
+   [Charara, Raghid] Amer Univ Beirut, Beirut, Lebanon.
+   [Kassebaum, Nicholas J.] Seattle Childrens Hosp, Dept Anesthesiol & Pain Med, Seattle, WA USA.
+   [Abd-Allah, Foad] Cairo Univ, Dept Neurol, Cairo, Egypt.
+   [Abu-Raddad, Laith J.] Weill Cornell Med Coll Qatar, Infect Dis Epidemiol Grp, Doha, Qatar.
+   [Kiadaliri, Aliasghar Ahmad] Lund Univ, Dept Clin Sci Lund, Clin Epidemiol Unit, Orthoped, Lund, Sweden.
+   [Ahmed, Muktar Beshir] Jimma Univ, Dept Epidemiol, Coll Hlth Sci, Jimma, Ethiopia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Murdoch Childrens Res Inst, Victoria, Parkville, Vic, Australia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Melbourne, Vic, Australia.
+   [Alam, Khurshid] Univ Sydney, Sydney, NSW, Australia.
+   [Alghnam, Suliman] King Abdulah Int Med Res Ctr, Riyadh, Saudi Arabia.
+   [Alghnam, Suliman] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Ctr Injury Res & Policy, Baltimore, MD USA.
+   [Alizadeh-Navaei, Reza] Mazandaran Univ Med Sci, Gastrointestinal Canc Res Ctr, Mazandaran, Iran.
+   [Al-Raddadi, Rajaa] Joint Program Family & Community Med, Jeddah, Saudi Arabia.
+   [Altirkawi, Khalid A.; Sobaih, Badr H. A.; Temsah, Mohamad-Hani] King Saud Univ, Riyadh, Saudi Arabia.
+   [Anber, Nahla] Mansoura Univ, Mansoura, Egypt.
+   [Avila-Burgos, Leticia] Natl Inst Publ Hlth, Cuernavaca, Morelos, Mexico.
+   [Awasthi, Ashish] Sanjay Gandhi Postgrad Inst Med Sci, Lucknow, Uttar Pradesh, India.
+   [Barac, Aleksandra] Univ Belgrade, Fac Med, Belgrade, Serbia.
+   [Barker-Collo, Suzanne L.] Univ Auckland, Sch Psychol, Auckland, New Zealand.
+   [Bedi, Neeraj] Coll Publ Hlth & Trop Med, Jazan, Saudi Arabia.
+   [Bhutta, Zulfiqar A.] Aga Khan Univ, Ctr Excellence Women & Child Hlth, Ctr Global Child Hlth, Hosp Sick Children, Karachi, Pakistan.
+   [Boufous, Soufiane] Univ New South Wales, Transport & Rd Safety TARS Res, Sydney, NSW, Australia.
+   [Butt, Zahid A.] Al Shifa Trust Eye Hosp, Rawalpindi, Punjab, Pakistan.
+   [Castaneda-Orjuela, Carlos A.] Colombian Natl Hlth Observ, Inst Nacl Salud, Bogota, Colombia.
+   [Castaneda-Orjuela, Carlos A.] Univ Nacl Colombia, Publ Hlth Dept, Epidemiol & Publ Hlth Evaluat Grp, Bogota, Colombia.
+   [Dalal, Koustuv] Univ Orebro, Ctr Injury Prevent & Safety Promot, Sch Hlth & Med Sci, Orebro, Sweden.
+   [Danawi, Hadi] Walden Univ, Minneapolis, MN USA.
+   [De Leo, Diego] Griffith Univ, Brisbane, Qld, Australia.
+   [Dharmaratne, Samath D.] Univ Peradeniya, Dept Community Med, Fac Med, Peradeniya, Sri Lanka.
+   [Djalalinia, Shirin] Minist Hlth & Med Educ, Undersecretary Res & Technol, Tehran, Iran.
+   [Doyle, Kerrie E.] RMIT Univ, Bundoora, Vic, Australia.
+   [Doyle, Kerrie E.] Australian Natl Univ, Canberra, ACT, Australia.
+   [Esteghamati, Alireza; Hafezi-Nejad, Nima; Kasaeian, Amir] Univ Tehran Med Sci, Endocrinol & Metab Res Ctr, Tehran, Iran.
+   [Faro, Andre] Univ Fed Sergipe, Aracaju, Sergipe, Brazil.
+   [Farvid, Maryam S.] Harvard Univ, Harvard TH Chan Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   [Farvid, Maryam S.] Massachusetts Gen Hosp, Mongan Inst Hlth Policy, Harvard MGH Ctr Gen Vulnerable Populat & Hlth Dis, Boston, MA 02114 USA.
+   [Fereshtehnejad, Seyed-Mohammad] Karolinska Inst, Dept Neurobiol, Care Sci & Soc NVS, Stockholm, Sweden.
+   [Fischer, Florian] Univ Bielefeld, Sch Publ Hlth, Bielefeld, Germany.
+   [Gebrehiwot, Tsegaye Tewelde] Jimma Univ, Jimma, Ethiopia.
+   [Gutierrez, Reyna A.] Natl Inst Psychiat Ramon de la Fuente, Mexico City, DF, Mexico.
+   [Hamadeh, Randah Ribhi] Arabian Gulf Univ, Manama, Bahrain.
+   [Hamidi, Samer] Hamdan Bin Mohammed Smart Univ, Dubai, U Arab Emirates.
+   [Haro, Josep Maria] CIBERSAM, Parc Sanitari St Joan Deu, St Boi De Llobregat, Barcelona, Spain.
+   [Hendrie, Delia] Curtin Univ, Ctr Populat Hlth Res, Bentley, WA, Australia.
+   [Hu, Guoqing] Cent South Univ, Sch Publ Hlth, Dept Epidemiol & Hlth Stat, Changsha, Peoples R China.
+   [Jonas, Jost B.] Heidelberg Univ, Dept Ophthalmol, Fac Med Mannheim, Mannheim, Germany.
+   [Kasaeian, Amir] Univ Tehran Med Sci, Hematol Oncol & Stem Cell Transplantat Res Ctr, Tehran, Iran.
+   [Keiyoro, Peter Njenga] Inst Trop & Infect Dis, Nairobi, Kenya.
+   [Keiyoro, Peter Njenga] Sch Continuing & Distance Educ, Nairobi, Kenya.
+   [Khader, Yousef Saleh] Jordan Univ Sci & Technol, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Khan, Ejaz Ahmad] Hlth Serv Acad, Islamabad, Pakistan.
+   [Khubchandani, Jagdish] Ball State Univ, Dept Nutr & Hlth Sci, Muncie, IN 47306 USA.
+   [Kopec, Jacek A.] Univ British Columbia, Vancouver, BC, Canada.
+   [Larson, Heidi J.] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London, England.
+   [Latif, Asma Abdul] Lahore Coll Women Univ, Dept Zool, Lahore, Pakistan.
+   [Leshargie, Cheru Tesema] Debre Markos Univ, Debre Markos, Ethiopia.
+   [Lunevicius, Raimundas] Aintree Univ Hosp NHS Fdn Trust, Natl Hlth Serv Fdn Trust, Liverpool, Merseyside, England.
+   [Lunevicius, Raimundas] Univ Liverpool, Sch Med, Liverpool, Merseyside, England.
+   [Abd El Razek, Mohammed Magdy] Aswan Univ Hosp, Aswan Fac Med, Aswan, Egypt.
+   [Majeed, Azeem] Dept Primary Care Publ Hlth, Imperial Coll London, London, England.
+   [Malekzadeh, Reza; Roshandel, Gholamreza; Sepanlou, Sadaf G.] Univ Tehran Med Sci, Digest Dis Res Inst, Tehran, Iran.
+   [Memish, Ziad A.] Saudi Minist Hlth, Riyadh, Saudi Arabia.
+   [Memish, Ziad A.] Alfaisal Univ, Coll Med, Riyadh, Saudi Arabia.
+   [Meretoja, Tuomo J.] Helsinki Univ Hosp, Breast Surg Unit, Comprehens Canc Ctr, Helsinki, Finland.
+   [Meretoja, Tuomo J.] Univ Helsinki, Helsinki, Finland.
+   [Miller, Ted R.] Pacific Inst Res & Evaluat, Calverton, MD USA.
+   [Miller, Ted R.] Curtin Univ, Ctr Populat Hlth, Perth, WA, Australia.
+   [Mohammed, Shafiu] Ahmadu Bello Univ, Hlth Syst & Policy Res Unit, Zaria, Kaduna, Nigeria.
+   [Mohammed, Shafiu] Heidelberg Univ, Inst Publ Hlth, Heidelberg, Germany.
+   [Obermeyer, Carla Makhlouf] Amer Univ Beirut, Ctr Res Populat & Hlth, Fac Hlth Sci, Beirut, Lebanon.
+   [Ogbo, Felix Akpojene] Western Sydney Univ, Ctr Hlth Res, Sydney, NSW, Australia.
+   [Phillips, Michael Robert] Shanghai Jiao Tong Univ, Sch Med, Shanghai, Peoples R China.
+   [Phillips, Michael Robert] Emory Univ, Atlanta, GA 30322 USA.
+   [Pourmalek, Farshad] Univ British Columbia, Vancouver, BC, Canada.
+   [Qorbani, Mostafa] Alborz Univ Med Sci, Noncommunicable Dis Res Ctr, Karaj, Iran.
+   [Radfar, Amir] AT Still Univ, Kirksville, MO USA.
+   [Rafay, Anwar] Contech Int Hlth Consultants, Lahore, Pakistan.
+   [Rafay, Anwar] Contech Sch Publ Hlth, Lahore, Pakistan.
+   [Rahimi-Movaghar, Afarin] Univ Tehran Med Sci, INCAS, Tehran, Iran.
+   [Rahimi-Movaghar, Vafa; Salamati, Payman] Univ Tehran Med Sci, Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Rai, Rajesh Kumar] Soc Hlth & Demog Surveillance, Suri, W Bengal, India.
+   [Rawaf, David Laith] WHO Collaborating Ctr, Imperial Coll London, London, England.
+   [Rawaf, David Laith] North Hampshire Hosp, Basingstroke, England.
+   [Rawaf, David Laith] Univ Coll London Hosp, London, England.
+   [Rawaf, Salman] Imperial Coll London, London, England.
+   [Rezaei, Satar] Kermanshah Univ Med Sci, Sch Publ Hlth, Kermanshah, Iran.
+   [Rezai, Mohammad Sadegh] Mazandaran Univ Med Sci, Sari, Iran.
+   [Roshandel, Gholamreza] Golestan Univ Med Sci, Golestan Res Ctr Gastroenterol & Hepatol, Gorgan, Iran.
+   [Safdarian, Mahdi] Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Safiri, Saeid] Maragheh Univ Med Sci, Sch Nursing & Mid wifery, Dept Publ Hlth, Managerial Epidemiol Res Ctr, Maragheh, Iran.
+   [Samy, Abdallah M.] Ain Shams Univ, Cairo, Egypt.
+   [Sartorius, Benn] Univ KwaZulu Natal, Sch Nursing & Publ Hlth, Publ Hlth Med, Durban, South Africa.
+   [Sartorius, Benn] SAMRC, UKZN Gastrointestinal Canc Res Ctr, Durban, South Africa.
+   [Seedat, Soraya] Stellenbosch Univ, Cape Town, South Africa.
+   [Tabb, Karen M.] Univ Illinois, Sch Social Work, Champaign, IL USA.
+   [Tehrani-Banihashemi, Arash] Iran Univ Med Sci, Prevent Med & Publ Hlth Res Ctr, Tehran, Iran.
+   [Temsah, Mohamad-Hani] King Faisal Specialist Hosp & Res Ctr, Riyadh, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Univ Virginia, Dept Anesthesiol, Charlottesville, VA USA.
+   [Terkawi, Abdullah Sulieman] King Fahad Med City, Dept Anesthesiol, King, WI, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Cleveland Clin, Outcomes Res Consortium, Cleveland, OH 44106 USA.
+   [RomanTopor-Madry] Jagiellonian Univ Med Coll, Inst Publ Hlth, Fac Hlth Sci, Krakow, Poland.
+   [RomanTopor-Madry] Wroclaw Med Univ, Fac Hlth Sci, Wroclaw, Poland.
+   [Ukwaja, Kingsley Nnanna] Fed Teaching Hosp, Dept Internal Med, Ebonyi State, Nigeria.
+   [Uthman, Olalekan A.] Univ Warwick, Warwick Med Sch, Coventry, W Midlands, England.
+   [Yaseri, Mehdi] Univ Tehran Med Sci, Tehran, Iran.
+   [Yaseri, Mehdi] Shahid Beheshti Univ Med Sci, Ophthalm Res Ctr, Tehran, Iran.
+   [NaohiroYonemoto] Kyoto Univ, Sch Publ Hlth, Dept Biostat, Kyoto, Japan.
+   [Younis, Mustafa Z.] Jackson State Univ, Jackson, MS USA.
+   [Hay, Simon I.] Univ Oxford, Li Ka Shing Ctr Hlth Informat & Discovery, Oxford Big Data Inst, Oxford, England.
+C3 Institute for Health Metrics & Evaluation; University of Washington;
+   University of Washington Seattle; Institute for Health Metrics &
+   Evaluation; Iran University of Medical Sciences; American University of
+   Beirut; Seattle Children's Hospital; Egyptian Knowledge Bank (EKB);
+   Cairo University; Qatar Foundation (QF); Weill Cornell Medical College
+   Qatar; Lund University; Jimma University; Murdoch Children's Research
+   Institute; University of Melbourne; University of Melbourne; University
+   of Sydney; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health; Mazandaran University Medical Sciences; King Saud
+   University; Egyptian Knowledge Bank (EKB); Mansoura University;
+   Instituto Nacional de Salud Publica; Sanjay Gandhi Postgraduate
+   Institute of Medical Sciences; University of Belgrade; University of
+   Auckland; Aga Khan University; University of New South Wales Sydney;
+   Instituto Nacional de Salud (Colombia); Universidad Nacional de
+   Colombia; Orebro University; Walden University; Griffith University;
+   University of Peradeniya; Ministry of Health & Medical Education
+   (MOHME); Royal Melbourne Institute of Technology (RMIT); Australian
+   National University; Tehran University of Medical Sciences; Universidade
+   Federal de Sergipe; Harvard University; Harvard T.H. Chan School of
+   Public Health; Harvard University; Massachusetts General Hospital;
+   Karolinska Institutet; University of Bielefeld; Jimma University;
+   Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz; Arabian Gulf
+   University; CIBER - Centro de Investigacion Biomedica en Red; CIBERSAM;
+   Curtin University; Central South University; Ruprecht Karls University
+   Heidelberg; Tehran University of Medical Sciences; Jordan University of
+   Science & Technology; Health Services Academy; Ball State University;
+   University of British Columbia; University of London; London School of
+   Hygiene & Tropical Medicine; Aintree University Hospitals NHS Foundation
+   Trust; University of Liverpool; Egyptian Knowledge Bank (EKB); Aswan
+   University; Imperial College London; Tehran University of Medical
+   Sciences; Alfaisal University; University of Helsinki; Helsinki
+   University Central Hospital; University of Helsinki; Pacific Institute
+   for Research & Evaluation (PIRE); Curtin University; Ahmadu Bello
+   University; Ruprecht Karls University Heidelberg; American University of
+   Beirut; Western Sydney University; Shanghai Jiao Tong University; Emory
+   University; University of British Columbia; A.T. Still University of
+   Health Sciences; Tehran University of Medical Sciences; Tehran
+   University of Medical Sciences; World Health Organization; Imperial
+   College London; University of London; University College London;
+   University College London Hospitals NHS Foundation Trust; Imperial
+   College London; Kermanshah University of Medical Sciences; Mazandaran
+   University Medical Sciences; Golestan University of Medical Sciences;
+   Egyptian Knowledge Bank (EKB); Ain Shams University; University of
+   Kwazulu Natal; Stellenbosch University; University of Illinois System;
+   University of Illinois Urbana-Champaign; Iran University of Medical
+   Sciences; King Faisal Specialist Hospital & Research Center; University
+   of Virginia; King Fahad Medical City; Cleveland Clinic Foundation;
+   Jagiellonian University; Collegium Medicum Jagiellonian University;
+   Wroclaw Medical University; University of Warwick; Tehran University of
+   Medical Sciences; Shahid Beheshti University Medical Sciences; Kyoto
+   University; Jackson State University; University of Oxford
+RP Mokdad, AH (corresponding author), Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+EM mokdaa@uw.edu
+RI Altirkawi, Khalid A/D-7302-2017; Borschmann, Rohan/A-7954-2011; Faro,
+   Andre/J-1696-2014; Barac, Aleksandra/W-9785-2019; Rezai, Mohammad
+   Sadegh/F-6274-2017; Anber, Nahla/AAM-9830-2021; Khubchandani,
+   Jagdish/D-1831-2014; Safiri, Saeid/A-1678-2017; Memish, Ziad
+   Ahmed/AEJ-9424-2022; Vos, Theo/HLH-2955-2023; Bedi, Neeraj/H-2838-2019;
+   Ahmed, Muktar/AAY-6783-2020; Majeed, Abdul/JHT-0587-2023; Khader, Yousef
+   Saleh/AAE-9620-2019; Bedi, Neeraj/AGR-0606-2022; Khan, Prof Dr
+   Ejaz/GNP-1245-2022; Rahimi-Movaghar, Afarin/E-9505-2011;
+   Castañeda-Orjuela, Carlos/N-2601-2017; Uthman, Olalekan/N-5584-2019;
+   Al-Raddadi, Rajaa/F-8337-2010; Ukwaja, Kingsley N./A-7794-2013;
+   Lunevicius, Raimundas/B-2528-2018; Abu-Raddad, Laith J/AAY-1441-2020;
+   Butt, Zahid Ahmad/W-4292-2017; Rubino, Salvatore/AAC-5848-2022; Haro,
+   Josep Maria/D-1423-2011; Fereshtehnejad, Seyed-Mohammad/ABF-6020-2020;
+   Ahmed, Muktar B/G-6184-2019; Mohammed, Shafiu/P-2016-2014; Radfar,
+   Amir/I-8057-2019; Rahimi-Movaghar, Vafa/L-6339-2019; Pourmalek,
+   Farshad/A-8188-2010; Roshandel, Gholamreza/AAJ-9562-2021; Awasthi,
+   Ashish/Y-5915-2019; Phillips, Michael R/AAE-7585-2021; Hamadeh, Randah
+   R./AAE-9720-2020; Tehrani-Banihashemi, Arash/L-5964-2018; Moradi-Lakeh,
+   Maziar/ABC-9793-2021; Hay, Simon Iain/F-8967-2015; Mokdad, Ali
+   H./AAD-1232-2022; Yaseri, Mehdi/I-1645-2018; Khalil,
+   Ibrahim/M-1520-2016; Terkawi, Abdullah Suleiman/AAC-1113-2019; Kasaeian,
+   Amir/C-8290-2017; Altirkawi, Khalid/AAW-5947-2021; Salamati,
+   Payman/AAK-7086-2020; Sepanlou, Sadaf G/H-9343-2016; Samy, Abdallah
+   M./B-4375-2010; Temsah, Mohamad-Hani/AAJ-9703-2020; Fischer,
+   Florian/F-9003-2016; Khan, Ejaz A/B-9340-2016; Qorbani,
+   Mostafa/M-8171-2017; f, m/AAM-2063-2021; Alizadeh-Navaei,
+   Reza/B-2207-2017; Larson, Heidi J./N-1018-2017; Dalal,
+   Koustuv/O-6737-2017; Bhutta, Zulfiqar/L-7822-2015; Rahimi-Movaghar,
+   Vafa/T-7816-2017; Colombara, Danny/H-7202-2015
+OI Altirkawi, Khalid A/0000-0002-7331-4196; Faro,
+   Andre/0000-0002-7348-6297; Rezai, Mohammad Sadegh/0000-0003-4585-9954;
+   Anber, Nahla/0000-0001-5684-9298; Khubchandani,
+   Jagdish/0000-0002-9058-4278; Safiri, Saeid/0000-0001-7986-9072; Memish,
+   Ziad Ahmed/0000-0002-5099-0714; Bedi, Neeraj/0000-0003-4709-8423; Ahmed,
+   Muktar/0000-0002-9524-7027; Khader, Yousef Saleh/0000-0002-7830-6857;
+   Bedi, Neeraj/0000-0003-4709-8423; Khan, Prof Dr
+   Ejaz/0000-0002-7072-8035; Rahimi-Movaghar, Afarin/0000-0002-5761-1668;
+   Castañeda-Orjuela, Carlos/0000-0002-8735-6223; Uthman,
+   Olalekan/0000-0002-8567-3081; Al-Raddadi, Rajaa/0000-0002-8921-9628;
+   Ukwaja, Kingsley N./0000-0002-1974-8735; Lunevicius,
+   Raimundas/0000-0003-3295-0142; Abu-Raddad, Laith J/0000-0003-0790-0506;
+   Butt, Zahid Ahmad/0000-0002-2486-4781; Haro, Josep
+   Maria/0000-0002-3984-277X; Fereshtehnejad,
+   Seyed-Mohammad/0000-0001-9255-9351; Ahmed, Muktar B/0000-0002-9524-7027;
+   Mohammed, Shafiu/0000-0001-5715-966X; Radfar, Amir/0000-0001-6177-3048;
+   Pourmalek, Farshad/0000-0002-2134-0771; Roshandel,
+   Gholamreza/0000-0002-5494-0722; Awasthi, Ashish/0000-0002-9308-9782;
+   Phillips, Michael R/0000-0002-5973-2439; Hamadeh, Randah
+   R./0000-0002-4205-1354; Moradi-Lakeh, Maziar/0000-0001-7381-5305; Hay,
+   Simon Iain/0000-0002-0611-7272; Mokdad, Ali H./0000-0002-4994-3339;
+   Yaseri, Mehdi/0000-0002-4066-873X; Khalil, Ibrahim/0000-0002-1868-5437;
+   Terkawi, Abdullah Suleiman/0000-0001-8734-2748; Kasaeian,
+   Amir/0000-0003-2018-9368; Altirkawi, Khalid/0000-0002-7331-4196;
+   Salamati, Payman/0000-0001-9313-3977; Sepanlou, Sadaf
+   G/0000-0002-3669-5129; Samy, Abdallah M./0000-0003-3978-1134; Fischer,
+   Florian/0000-0002-4388-1245; Khan, Ejaz A/0000-0002-7072-8035;
+   Alizadeh-Navaei, Reza/0000-0003-0580-000X; Wasif,
+   Muhammad/0009-0004-1374-302X; Farvid, Maryam/0000-0003-1783-4186;
+   Majeed, Azeem/0000-0002-2357-9858; , bennsartorius/0000-0001-6761-2325;
+   Rawaf, Salman/0000-0001-7191-2355; Miller, Ted/0000-0002-0958-2639;
+   Larson, Heidi J./0000-0002-8477-7583; Temsah,
+   Mohamad-Hani/0000-0002-4389-9322; Hamidi, Samer/0000-0002-6766-3728;
+   Tehrani Banihashemi, Seyed Arash/0000-0001-6911-9817; Alghnam,
+   Suliman/0000-0001-5817-0481; Hu, Guoqing/0000-0002-5002-8015; Dalal,
+   Koustuv/0000-0001-7393-796X; Kiadaliri, Ali/0000-0002-4254-9099; Seedat,
+   Soraya/0000-0002-5118-786X; Younis, Mustafa/0000-0001-8448-808X; Rezaei,
+   Satar/0000-0002-6194-6057; Bhutta, Zulfiqar/0000-0003-0637-599X;
+   Abd-Allah, Foad/0000-0001-8308-5756; Tabb Dina,
+   Karen/0000-0002-4722-9502; Esteghamati, Alireza/0000-0001-5114-3982;
+   Rahimi-Movaghar, Vafa/0000-0001-7347-8767; Alam,
+   Khurshid/0000-0002-7402-7519; Barac, Aleksandra/0000-0002-0132-2277;
+   Colombara, Danny/0000-0002-5237-1300; Borschmann,
+   Rohan/0000-0002-0365-7775
+FU Bill & Melinda Gates Foundation
+FX This research was funded by the Bill & Melinda Gates Foundation.
+NR 18
+TC 20
+Z9 20
+U1 1
+U2 15
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD MAY
+PY 2018
+VL 63
+SU 1
+BP 39
+EP 46
+DI 10.1007/s00038-017-1005-2
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GH6AA
+UT WOS:000433519400007
+PM 28776251
+OA Green Published, Green Accepted, hybrid, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Bjegovic-Mikanovic, V
+   Abousbie, ZAS
+   Breckenkamp, J
+   Wenzel, H
+   Broniatowski, R
+   Nelson, C
+   Vukovic, D
+   Laaser, U
+AF Bjegovic-Mikanovic, Vesna
+   Abousbie, Zeyad Ali Salem
+   Breckenkamp, Juergen
+   Wenzel, Helmut
+   Broniatowski, Raphael
+   Nelson, Chase
+   Vukovic, Dejana
+   Laaser, Ulrich
+TI A gap analysis of SDG 3 and MDG 4/5mortality health targets in the six
+   Arabic countries of North Africa: Egypt, Libya, Tunisia, Algeria,
+   Morocco, and Mauritania
+SO LIBYAN JOURNAL OF MEDICINE
+LA English
+DT Article
+DE North Africa; Sustainable Development Goals; health development targets;
+   gap analysis; Maternal and Child Health; non-communicable diseases;
+   deadly traffic injuries
+ID MATERNAL MORTALITY
+AB Background: The United Nations Assembly adopted the Sustainable Development Goals to succeed the Millennium Development Goals in September 2015. From a European perspective, the development of health in the countries of North Africa are of special interest as a critical factor of overall social development in Europe's Mediterranean partners. In this paper, we address the mortality related SDG-3 targets, the likelihood to achieve them until 2030 and analyze how they are defined. Methods: We projected mortality trends from 2000-2015 to 2030, based on mortality estimates by inter-agency groups and the WHO in mother and child health, non-communicable diseases, and road traffic mortality. The gap analysis compares the time remaining until 2030 to the time needed to complete the target assuming a linear trend of the respective indicator. A delay of not more than 3.75 years is considered likely to achieve the target. Results: The SDG-3 targets of a Maternal Mortality Ratio below 70 per 100 000 live births and an U5MR below 25 per 1 000 live births have been achieved by Egypt, Libya, and Tunisia. Libya and Tunisia have also achieved the target for Newborn Mortality with Egypt close to achieving it as well. Algeria and Morocco are generally on track for most of the indicators, including deaths from non-communicable diseases and suicide rates; however, all of the countries are lagging when it comes to deadly Road Traffic Injuries for 2030. Mauritania is the only North African country which is not likely to reach the 2030 targets for any of the mortality indicators. Conclusions: Although mortality statistics may be incomplete there is an impressive gradient from East to West showing Mauritania and deadly road traffic injuries as the most problematic areas. Given the large differences between countries baselines, we consider it preferable to set realistic targets to be achieved until 2030.
+C1 [Bjegovic-Mikanovic, Vesna; Vukovic, Dejana] Univ Belgrade, Fac Med, Inst Social Med, Belgrade, Serbia.
+   [Abousbie, Zeyad Ali Salem] Univ Belgrade, Fac Med, Sch Publ Hlth & Management, Belgrade, Serbia.
+   [Breckenkamp, Juergen; Laaser, Ulrich] Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+   [Broniatowski, Raphael; Nelson, Chase] EPOS Consulting, Bad Homburg, Germany.
+C3 University of Belgrade; University of Belgrade; University of Bielefeld
+RP Breckenkamp, J (corresponding author), Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+EM juergen.breckenkamp@uni-bielefeld.de
+RI Bjegovic-Mikanovic, Vesna/AAD-9847-2019; Laaser, Ulrich/ACH-6512-2022;
+   Laaser, Ulrich/AAE-9755-2022; Laaser, Ulrich/AAD-9790-2019
+OI Bjegovic-Mikanovic, Vesna/0000-0002-8299-6555; Laaser,
+   Ulrich/0000-0001-5889-4471; Vukovic, Dejana/0000-0002-3323-3711
+FU Open Access Publication Fund of Bielefeld University
+FX We acknowledge support for the Article Processing Charge by the Open
+   Access Publication Fund of Bielefeld University.
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1993-2820
+EI 1819-6357
+J9 LIBYAN J MED
+JI Libyan J. Med.
+PD JAN 1
+PY 2019
+VL 14
+IS 1
+AR 1607698
+DI 10.1080/19932820.2019.1607698
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HV6PD
+UT WOS:000466104400001
+PM 31032713
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT C
+AU Hadda, L
+AF Hadda, Lamia
+BA Gambardella, C
+BF Gambardella, C
+BE Corniello, L
+TI The Fatimid Palace at Ajdabiya in Libya as drawn by the French explorer
+   Jean-Raymond Pacho
+SO WORLD HERITAGE AND DEGRADATION: SMART DESIGN, PLANNING AND TECHNOLOGIES
+SE Fabbrica della Conoscenza
+LA English
+DT Proceedings Paper
+CT 14th International Forum of Studies
+CY JUN 16-18, 2016
+CL Naples, ITALY
+DE Libya; Ajdabiya; Fatimid architecture; Jean Raymond Pacho; Fatimid
+   palace
+AB Jean Raymond Pacho was born in Nice, France, on January 23, 1794. After his initial experiences travelling in Egypt he immediately showed an innate passion for architecture started working on painting important Islamic monuments that he had visited. Between 1827 and 1829 two volumes of work were published in Paris; the second of which contains illustrations accompanying the text of the first volume. Immediately after the publication he ended his life by committing suicide in Paris at the age of only thirty-five. Among the monuments of the medieval Libyan territory described and drawn by Pacho the Fatimid palace of Ajdabiya also known as Kasr Ladjedabiah or the castle of Ajdabiya figured prominantely.
+   The Palace, typical rectangular layout, was built so as to accommodate the Fatimid Caliph and his court. It was equipped with round towers at each corner and with rectangular ones in the centre. On one of the shorter sides the only monumental entrance portico - very similar to that of the contemporary palaces of North Africa like Raqqada (9 th century), Al-Qa'im in Mahdia (10 th century), Ziri in Ashir (11 th century) and the entrance of the Great Mosque of Mahdia (912) - was located.
+   In summary, the palace of Ajdabiya is as one of the first Fatimid constructions built between 934 and 946 by Amer al-Qa'im bi-Allah al-Mahdi, For this reason, Pacho's designs take on a far more important role of that of just simple architectural significance.
+C1 [Hadda, Lamia] Univ Naples Suor Orsola Benincasa, Naples, Italy.
+C3 Suor Orsola Benincasa University Naples
+RP Hadda, L (corresponding author), Univ Naples Suor Orsola Benincasa, Naples, Italy.
+EM Lamia.hadda@laposte.net
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCUOLA PITAGORA EDITRICE
+PI NAPOLI
+PA PIAZZA SANTA MARIA DEGLI ANGELI, 1, NAPOLI, 80132, ITALY
+BN 978-88-6542-257-1
+J9 FABBR CONOSCENZA
+PY 2016
+BP 212
+EP 219
+PG 8
+WC Architecture; Art; History
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Architecture; Art; History
+GA BG8WR
+UT WOS:000392751900024
+DA 2023-12-06
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-06
+ER
+
+PT C
+AU Odhiambo, NA
+   Ochara, NM
+   Kadymatimba, A
+AF Odhiambo, Nancy Achieng
+   Ochara, Nixon Muganda
+   Kadymatimba, Amstrong
+BE Ouma, C
+TI STRUCTURING OF THE TERRORISM PROBLEM IN THE DIGITAL AGE: A SYSTEMS
+   PERSPECTIVE
+SO 2018 OPEN INNOVATIONS CONFERENCE (OI)
+LA English
+DT Proceedings Paper
+CT Open Innovations Conference (OI) - Re-Creating Society through
+   Disruptive Digital Transformation
+CY OCT 03-04, 2018
+CL Univ Witwatersrand, Johannesburg, SOUTH AFRICA
+HO Univ Witwatersrand
+DE Terrorism; Theory of Synergetics; Technology; Conceptual Model
+ID LOCAL LAW-ENFORCEMENT; COUNTER-TERRORISM; COLLABORATION; AFRICA; STATE
+AB Terrorism is a global challenge of the 21st century. The Kenya Westgate Mall attack and Garrissa University attacks in 2015 and the Libya suicide bombings, did not only claim the lives of many, but also had great political consequences. The advancements, ease of access and availability of information and communication technologies (ICT) is blamed for the increases in terrorist attacks: for instance, the Internet and especially, social media. This is because through the Internet, terrorist organizations such as ISIS have come up with innovative ways to recruit new members, to train and even disseminate ideologies. However, the terrorist opponents (counter-terrorism organizations) also have developed innovative counter-measures using ICT. Therefore, understanding and structuring terrorism in this digital age has enhanced the complexity in addition to multiple stakeholders involved in terrorism related incidences, intertwined causal-relationships, and the uncertainties in the mode of operandi of the terrorists. In this study, theory of synergetics is applied both as a theoretical and methodological approach to try structure the terrorism problem. Secondary data sources such as journal articles on terrorism related incidences and search terms (i.e. terrorism AND technology, terrorism AND Internet), were used by the researchers' to identify and include relevant documents in the study. Following the inclusion and exclusion criteria, the researchers remained with only 405 documents from which using the qualitative software Nvivo, a word cloud was developed to pictorially visualize the terrorism problem. Thereafter, relying on synergetics and using results from the word cloud, the researchers' were able to create a conceptual model. The findings from the analysis of the conceptual model showed that technology plays a critical role in the fight against terrorism as it appears to be part of each of the various components of synergetics, namely, order parameters, system elements, internal and external constraints, control parameters and environment. Thus, it is quite clear that in terrorism structuring in this digital age can be quite challenging.
+C1 [Odhiambo, Nancy Achieng; Ochara, Nixon Muganda; Kadymatimba, Amstrong] Univ Venda1, Dept Business Informat Syst BIS, ZA-0950 Thohoyandou, Limpopo, South Africa.
+RP Odhiambo, NA (corresponding author), Univ Venda1, Dept Business Informat Syst BIS, ZA-0950 Thohoyandou, Limpopo, South Africa.
+EM odhiambonancy01@gmail.com; muganda.ochara@univen.ac.za;
+   kadyamatimba@univen.ac.za
+RI Ochara, Nixon Muganda/AAX-4432-2020
+OI Ochara, Nixon Muganda/0000-0001-5736-7901
+NR 53
+TC 3
+Z9 3
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-5318-0
+PY 2018
+BP 148
+EP 154
+PG 7
+WC Computer Science, Interdisciplinary Applications; Green & Sustainable
+   Science & Technology; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Science & Technology - Other Topics; Engineering
+GA BO1DO
+UT WOS:000495074900024
+DA 2023-12-06
+ER
+
+EF

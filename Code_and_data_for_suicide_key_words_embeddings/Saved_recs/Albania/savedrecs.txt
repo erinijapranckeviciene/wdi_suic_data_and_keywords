@@ -1,0 +1,704 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Amursi, E
+   Qirjako, G
+   Ndrio, M
+   Nelaj, E
+   Anaku, D
+   Toi, E
+   Lakrori, J
+AF Amursi, E.
+   Qirjako, G.
+   Ndrio, M.
+   Nelaj, E.
+   Anaku, D.
+   Toi, E.
+   Lakrori, J.
+TI SUICIDE: AN INCREASING PHENOMENON IN ALBANIA
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD SEP
+PY 2010
+VL 16
+SU 1
+MA 0877
+BP A246
+EP A247
+DI 10.1136/ip.2010.029215.877
+PG 2
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 678LR
+UT WOS:000284077201071
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Maksuti, P
+   Kola, V
+   Simaku, A
+AF Maksuti, P.
+   Kola, V.
+   Simaku, A.
+TI Epidemiological overview on pattern of suicide in the district of Tirana
+   in Albania, over the period 2001-2010
+SO INTERNATIONAL JOURNAL OF NEUROPSYCHOPHARMACOLOGY
+LA English
+DT Meeting Abstract
+C1 [Maksuti, P.] Univ Hosp Ctr, Tirana, Albania.
+   [Kola, V.] Univ Hosp Ctr, Psychiat Serv, Tirana, Albania.
+   [Simaku, A.] Inst Publ Hlth, Tirana, Albania.
+C3 University Hospital Center Mother Teresa (QSUT); University Hospital
+   Center Mother Teresa (QSUT)
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 2
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1461-1457
+EI 1469-5111
+J9 INT J NEUROPSYCHOPH
+JI Int. J. Neuropsychopharmacol.
+PD JUN
+PY 2012
+VL 15
+SU 1
+MA P-19-005
+BP 229
+EP 229
+PG 1
+WC Clinical Neurology; Neurosciences; Pharmacology & Pharmacy; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Psychiatry
+GA V34BS
+UT WOS:000209062500833
+DA 2023-12-06
+ER
+
+PT J
+AU Maksuti, P
+   Kola, V
+AF Maksuti, P.
+   Kola, V.
+TI THE MORBIDITY OF THE SUICIDE VICTIMS IN THE DISTRICT OF TIRANA, ALBANIA,
+   OVER THE PERIOD OF TIME 2001-2010
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Maksuti, P.; Kola, V.] Univ Hosp Ctr Mother Tereza Tirana, Tirana, Albania.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2014
+VL 29
+SU 1
+MA EPA-1430
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AY0IO
+UT WOS:000347280701206
+DA 2023-12-06
+ER
+
+PT J
+AU Mäkinen, IH
+AF Mäkinen, IH
+TI Suicide mortality in the Eastern European transition
+SO SOCIOLOGISK FORSKNING
+LA Swedish
+DT Article
+DE alcohol; Eastern Europe; homicide; mortality; Russia; suicide
+ID FORMER USSR; ALCOHOL-CONSUMPTION; PERESTROIKA; RATES; MEN; RELIABILITY;
+   COUNTRIES; GERMANY; RUSSIA
+AB The current paper seeks to systematize the discussion on the causes of the changes in Eastern European countries' suicide mortality during the last 15 years by analyzing the changes in relation to some common causes: alcohol consumption, economic changes, "general pathogenic social stress", political changes and social disorganization. It is found that the development in suicide has varied between in different countries, and that the same causes cannot apply to all of them. However, the relation between suicide mortality and social processes is obvious. A model consisting of general stress, democratization, alcohol consumption and social disorganization (with a period-dependent effect) predicted fairly accurately the percentual changes in the suicide rates in 16 out of the 28 Eastern Bloc countries in 1984-89 and 1989-94, while it failed to do so for Albania, Poland, Romania, Slovakia and the Caucasian and Central Asian newly independent states. The data are subject to many potential sources of error: the small number of units and the large multicollinearity between the independent variables may bias results. Nevertheless, the results indicate that the changes in Eastern European suicide mortality, both its decreases and increases, may be explained with the same set of variables. However, more than one factor is needed, and the multicollinearity will continue to pose a problem.
+NR 62
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOCIOLOGISK FORSKNING
+PI OREBRO
+PA HOGSKOLAN I OREBRO, INST SAMHALLSVETENSKAP,, 701 82 OREBRO, SWEDEN
+SN 0038-0342
+J9 SOCIOL FORSKNIN
+JI Sociol. Forsk.
+PY 2000
+VL 37
+IS 1
+BP 180
+EP 209
+PG 30
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 316RJ
+UT WOS:000087181600008
+DA 2023-12-06
+ER
+
+PT J
+AU Sulaj, Z
+   Drishti, A
+   Çeko, I
+   Gashi, A
+   Vyshka, G
+AF Sulaj, Zihni
+   Drishti, Alert
+   Ceko, Irena
+   Gashi, Amarda
+   Vyshka, Gentian
+TI Fatal aluminum phosphide poisonings in Tirana (Albania), 2009-2013
+SO DARU-JOURNAL OF PHARMACEUTICAL SCIENCES
+LA English
+DT Article
+DE Poisoning; Aluminum phosphide (AIP); Pesticides; Mortality; Phostoxin
+ID SUICIDE; PESTICIDES; COUNTRIES; DEATHS; WORLD; INDIA
+AB Background: Acute poisonings particularly through pesticides have become a major public health concern in Albania during the last decade.
+   Findings: The number of fatalities due to aluminum phosphide intoxications was more than doubled during a five year-period from 2009 to 2013, and a cluster of suicides perpetrated with Phostoxin was registered. Several factors are accountable for such a phenomenon, including the fact that aluminum phosphide agents are freely available in the Albanian market, their price is extremely low and they are sold without any legal restriction. The mass media unfortunately warranted an emulating effect to dramatic intoxications, which gained by such means the notoriety of a secure lethal weapon.
+   Conclusions: Our experience with more than three hundred intoxications with aluminum phosphide agents in the last five years, showed that a considerable delay from the moment of exposure (mainly through ingestion) to specialized medical help seeking, created a considerable obstacle for a successful treatment of cases, and eventually for the survival of patients. The lack of a specific antidote adds further challenges to all these exposures. The need for public health policies aiming at prevention, awareness, and possibly the substitution of Phostoxin or other aluminum phosphide pesticides with less dangerous agents is formulated.
+C1 [Sulaj, Zihni; Drishti, Alert; Ceko, Irena; Gashi, Amarda] Univ Hosp Ctr Mother Theresa, Serv Clin Toxicol & Addictol, Tirana, Albania.
+   [Vyshka, Gentian] Univ Med, Fac Med, Biomed & Expt Dept, Tirana, Albania.
+C3 University Hospital Center Mother Teresa (QSUT)
+RP Vyshka, G (corresponding author), Univ Med, Fac Med, Biomed & Expt Dept, Tirana, Albania.
+EM gvyshka@gmail.com
+RI Vyshka, Gentian/H-5316-2019
+OI Vyshka, Gentian/0000-0001-5286-1265
+NR 37
+TC 15
+Z9 17
+U1 0
+U2 3
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 2008-2231
+J9 DARU
+JI DARU
+PD JAN 25
+PY 2015
+VL 23
+AR 8
+DI 10.1186/s40199-015-0090-0
+PG 8
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA CA4IK
+UT WOS:000348867700001
+PM 25618461
+OA Green Published, hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Mäkinen, IH
+AF Mäkinen, IH
+TI Eastern European transition and suicide mortality
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE alcohol; Eastern Europe; homicide; mortality; Russia; suicide
+ID FORMER USSR; ALCOHOL-CONSUMPTION; PERESTROIKA; RATES; RELIABILITY;
+   COUNTRIES; GERMANY; RUSSIA; CRISIS; MEN
+AB The current paper seeks to systematize the discussion on the causes of the changes in Eastern European countries' suicide mortality during the last 15 years by analyzing the changes in relation to some common causes: alcohol consumption, economic;changes, "general pathogenic social stress", political changes, and social disorganization. It is found that the developments in suicide have been very different in different countries, and that the same causes cannot apply to all of them. However, the relation between suicide mortality and social processes is obvious. A model consisting of the hypothetical general stress (as indicated by mortality/life expectancy), democratization, alcohol consumption, and social disorganization (with a period-dependent effect) predicted the percentual changes in the suicide rates in 16 out of the 28 Eastern Blee countries in 1984-89 and 1989-94 fairly accurately, while it failed to do this for Albania, Poland, Romania, Slovakia, and the Caucasian and Central Asian newly independent states. Most interesting were the strong roles played by changes in life expectancy, the causes of which are discussed, and the fact that economic change seemed to lack explanatory power in multiple analyses. The data are subject to many potential sources of error, the small number of units and the large multicollinearity between the independent variables may distort the results. Nevertheless, the results indicate that the changes in Eastern European suicide mortality, both decreases and increases, may be explained with the same set of variables. However, more than one factor is needed, and the multicollinearity will continue to pose problems. (C) 2000 Elsevier Science Ltd. All rights reserved.
+C1 Univ Coll S Stockholm, Stockholm Ctr Hlth Soc Transit, SCOHOST, S-14104 Huddinge, Sweden.
+C3 Sodertorn University
+RP Univ Coll S Stockholm, Stockholm Ctr Hlth Soc Transit, SCOHOST, POB 4101, S-14104 Huddinge, Sweden.
+EM ilkka.makinen@sh.se
+NR 57
+TC 86
+Z9 89
+U1 0
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD NOV
+PY 2000
+VL 51
+IS 9
+BP 1405
+EP 1420
+DI 10.1016/S0277-9536(00)00105-2
+PG 16
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 359XN
+UT WOS:000089637500010
+PM 11037226
+DA 2023-12-06
+ER
+
+PT J
+AU Shekhar, S
+   Goel, A
+AF Shekhar, Skand
+   Goel, Ashish
+TI Euthanasia: India's Position in the Global Scenario
+SO AMERICAN JOURNAL OF HOSPICE & PALLIATIVE MEDICINE
+LA English
+DT Editorial Material
+DE euthanasia; world; India; requests
+ID ASSISTED SUICIDE
+AB Background: Euthanasia requests have increased as the number of debilitated patients rises in both developed and developing countries such as India due to medical, psychosocial-emotional, socioenvironmental, and existential issues amid fears of potential misuse. World's position: Albania, Colombia, the Netherlands, and Switzerland permit euthanasia conditionally. Australia's legalization of euthanasia has been withdrawn. The United States permits withdrawal of life support. Mexico and Norway permit active euthanasia. India's position: Following the Aruna Shanbaug case the Supreme Court granted legal sanction to passive, but not active, euthanasia that is valid till the Parliament legislates on euthanasia. Handling euthanasia requests: Acknowledging the complexity of the problem; individualizing the palliative approach; and accepting the There is no alternative' or There is no answer' (TINA) factor.
+C1 [Shekhar, Skand; Goel, Ashish] Univ Coll Med Sci, Delhi 110095, India.
+C3 University of Delhi; University College of Medical Sciences
+RP Goel, A (corresponding author), Univ Coll Med Sci, Delhi 110095, India.
+EM ashgoe@yahoo.com
+RI Goel, Ashish/AAW-2244-2020; Shekhar, Skand/J-2666-2019
+OI Shekhar, Skand/0000-0001-9287-6664; Goel, Ashish/0000-0001-8513-2624
+NR 12
+TC 4
+Z9 5
+U1 5
+U2 19
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1049-9091
+EI 1938-2715
+J9 AM J HOSP PALLIAT ME
+JI Am. J. Hosp. Palliat. Med.
+PD NOV
+PY 2013
+VL 30
+IS 7
+BP 628
+EP 631
+DI 10.1177/1049909112465941
+PG 4
+WC Health Care Sciences & Services
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services
+GA 287EY
+UT WOS:000329525600002
+PM 23172416
+DA 2023-12-06
+ER
+
+PT J
+AU Fragkouli, K
+   Boumba, V
+   Vougiouklakis, T
+AF Fragkouli, Kleio
+   Boumba, Vassiliki
+   Vougiouklakis, Theodore
+TI Survey of medico-legal investigation of homicide in the region of Epirus
+   (Northwest Greece)
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Homicide; Forensic; Greece; Homicide rate; Refugees; Socioeconomic
+   crisis
+ID 2 SCANDINAVIAN CAPITALS; SHARP FORCE; GENDER-DIFFERENCES; SUICIDE
+   INCIDENTS; EPIDEMIOLOGY; VICTIMS; DEATH; TOXICOLOGY; TRENDS; STATES
+AB This study analyzed the forensic features of homicides in North-West Greece (Epirus) from 1998 to 2013, a borderland area between Greece and Albania. Although Greece is critically influenced by both the increasing flow of refugees and the current socioeconomic crisis, very little information has been published regarding the patterns of homicide in the country. Fifty-eight autopsied victims (36 males; 22 females) were investigated. The median age was 37 years old. The average annual homicide rate was 0.85 per 100,000 inhabitants and showed remarkable fluctuation, with largest increase during Greek financial downturn. Sixteen victims were not Greek citizens. The most common method of commitment was the use of firearm (40%). The main motives were economical causes (26%) and passion (14%). Four cases were categorized as matricide (7%), 3 as homicide-suicide (5%), 2 as patricide (3%) and 1 as infanticide (2%). Toxicological analysis proved negative for ethanol and other psychotropic substances in the majority of the victims (50%). There is an urgent need for public actions both in Epirus and in Greece, with the application of effective strategies against criminality. (C) 2015 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Fragkouli, Kleio; Boumba, Vassiliki; Vougiouklakis, Theodore] Univ Ioannina, Dept Forens Med & Toxicol, GR-45110 Ioannina, Greece.
+C3 University of Ioannina
+RP Vougiouklakis, T (corresponding author), Univ Ioannina, Dept Forens Med & Toxicol, Univ Campus 1186, GR-45110 Ioannina, Greece.
+EM kfragkouli@gmail.com; vaboumba@cc.uoi.gr; tvujuk@cc.uoi.gr
+RI Vougiouklakis, Theodore/P-8877-2019
+OI Boumba, Vassiliki/0000-0002-1211-9282
+NR 47
+TC 3
+Z9 3
+U1 0
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JAN
+PY 2016
+VL 37
+BP 39
+EP 44
+DI 10.1016/j.jflm.2015.10.003
+PG 6
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA CZ1EN
+UT WOS:000366848800007
+PM 26580723
+DA 2023-12-06
+ER
+
+PT C
+AU Milloshi, M
+AF Milloshi, M.
+BE Frunza, A
+   Ciulei, T
+   Sandu, A
+TI The Role of the Media in Dealing with Crime and Domestic Violence
+SO 5TH INTERNATIONAL CONFERENCE LUMEN 2014, TRANSDISCIPLINARY AND
+   COMMUNICATIVE ACTION (LUMEN-TCA 2014)
+LA English
+DT Proceedings Paper
+CT 5th International Conference on LUMEN Transdisciplinarity and
+   Communicative Action (LUMEN-TCA)
+CY NOV 21-22, 2014
+CL Targoviste, ROMANIA
+DE media; violence; crime; deviant behavior; mental health
+AB Domestic crime is a complex problem, it is a social problem. Domestic and family violence takes many forms. It involves violent, abusive or intimidating behavior carried out by a partner, or family member to control, dominate or instill fear. It doesn't have to be physical abuse. It can be emotional, psychological, financial, sexual or other types of abuse.
+   This phenomenon is becoming increasingly disturbing in Albania, and in particular in the city of Durres.
+   Although the majority of domestic violence cases are hidden, we often see in television or read the newspapers, crime histories or domestic violence.
+   Usually, women are more commonly the victim of domestic violence, though the victim can also be the men, children, elders or relatives.
+   The mass media includes newspapers, magazines, books, television and other forms of communications that reaches a wide audience via an impersonal form between sender and receiver.
+   The focus of this study is to determine the role of television and the media, their impact on the treatment of crime and violence, "mental health" of individuals, and to suggest ways and means for its further development to bring about changes in attitude of the majority.
+   Research shows that fictional television and film violence contribute to both a short - term and a long term increase in aggression and violence in young viewers. Television news crime also contributes to increased violence, principally in the form of imitative suicides and acts of aggression.
+   To prove this we have done a survey at 100 random peoples at Durres area, in Albania. In addition, we have observed the television program for around one week, to see how violence is presented in the Albanian media, and we have utilized official data from the Department of Police, Durres County, about cases of violence.
+EM jetamilloshi@yahoo.com
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 32
+PU MEDIMOND S R L
+PI 40128 BOLOGNA
+PA VIA MASERATI 5, 40128 BOLOGNA, 00000, ITALY
+BN 978-88-7587-713-2
+PY 2015
+BP 487
+EP 491
+PG 5
+WC Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Social Sciences - Other Topics
+GA BD4CN
+UT WOS:000360478000085
+DA 2023-12-06
+ER
+
+PT J
+AU Bellis, MA
+   Hughes, K
+   Leckenby, N
+   Jones, L
+   Baban, A
+   Kachaeva, M
+   Povilaitis, R
+   Pudule, I
+   Qirjako, G
+   Ulukol, B
+   Raleva, M
+   Terzic, N
+AF Bellis, Mark A.
+   Hughes, Karen
+   Leckenby, Nicola
+   Jones, Lisa
+   Baban, Adriana
+   Kachaeva, Margarita
+   Povilaitis, Robertas
+   Pudule, Iveta
+   Qirjako, Gentiana
+   Ulukol, Betul
+   Raleva, Marija
+   Terzic, Natasa
+TI Adverse childhood experiences and associations with health-harming
+   behaviours in young adults: surveys in eight eastern European countries
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID FOLLOW-UP; ABUSE; DISEASE; MALTREATMENT; METAANALYSIS; PREVALENCE;
+   NEGLECT; BURDEN
+AB Objective To evaluate the association between adverse childhood experiences e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration and the health of young adults in eight eastern European countries.
+   Methods Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey. There were 10 696 respondents 59.7% female - aged 18-25 years. Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+   Findings Over half of the respondents reported at least one adverse childhdod experience. Having one adverse childhood experience increased the probability of having other adverse childhood experiences. The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours. Compared with those Who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, Cl: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide. Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.
+   Conclusion Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods. Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.
+C1 [Bellis, Mark A.; Hughes, Karen; Leckenby, Nicola; Jones, Lisa] Liverpool John Moores Univ, Ctr Publ Hlth, Liverpool L3 2ET, Merseyside, England.
+   [Baban, Adriana] Univ Babes Bolyai, Dept Psychol, R-3400 Cluj Napoca, Romania.
+   [Kachaeva, Margarita] Serbsky Natl Res Ctr Social & Forens Psychiat, Moscow, Russia.
+   [Povilaitis, Robertas] Vilnius State Univ, Fac Philosophy, Dept Clin & Org Psychol, Vilnius, Lithuania.
+   [Pudule, Iveta] Ctr Dis Prevent & Control, Riga, Latvia.
+   [Qirjako, Gentiana] Univ Med, Fac Publ Hlth, Tirana, Albania.
+   [Ulukol, Betul] Ankara Univ Sch Med, Dept Social Paediat, Ankara, Turkey.
+   [Raleva, Marija] Univ St Cyril & Methudius, Univ Clin Psychiat, Skopje 91000, North Macedonia.
+   [Terzic, Natasa] Inst Publ Hlth, Podgorica, Montenegro.
+C3 Liverpool John Moores University; Babes Bolyai University from Cluj;
+   Vilnius University; Ankara University; Saints Cyril & Methodius
+   University of Skopje
+RP Bellis, MA (corresponding author), Liverpool John Moores Univ, Ctr Publ Hlth, 15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM m.a.bellis@ljmu.ac.uk
+RI Wilson, Gregory/AAA-9035-2021; Bellis, Mark A./HGA-2019-2022; Jones,
+   Lisa/C-2678-2013; Hughes, Karen/JOK-1499-2023
+OI Jones, Lisa/0000-0001-5136-5614; Ulukol, Betul/0000-0001-8058-0911;
+   Bellis, Mark/0000-0001-6980-1963; Hughes, Karen/0000-0001-8097-3395
+FU violence prevention research programme at Liverpool John Moores
+   University
+FX This analysis was funded as part of the violence prevention research
+   programme at Liverpool John Moores University.
+NR 37
+TC 177
+Z9 190
+U1 7
+U2 83
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD SEP
+PY 2014
+VL 92
+IS 9
+BP 641
+EP 655
+DI 10.2471/BLT.13.129247
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AQ3UM
+UT WOS:000342719000008
+PM 25378755
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2023-12-06
+ER
+
+PT J
+AU Duric, P
+   Harhaji, S
+   O'May, F
+   Boderscova, L
+   Chihai, J
+   Como, A
+   Hranov, GL
+   Mihai, A
+   Sotiri, E
+AF Duric, Predrag
+   Harhaji, Sanja
+   O'May, Fiona
+   Boderscova, Larisa
+   Chihai, Jana
+   Como, Ariel
+   Hranov, Georgi L.
+   Mihai, Adriana
+   Sotiri, Eugjen
+TI General practitioners' views towards diagnosing and treating depression
+   in five southeastern European countries
+SO EARLY INTERVENTION IN PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH-CARE; PHYSICIANS; PATHWAYS; OBSTACLES; ATTITUDES;
+   BARRIERS; SUICIDE; RISK
+AB Aim To assess and compare general practitioners' (GPs') views of diagnosing and treating depression in five southeastern European countries. Methods A cross-sectional study was conducted in Albania, Bulgaria, Moldova, Romania, and Serbia. The sample included 467 GPs who completed a hard-copy self-administered questionnaire, consisting of self-assessment questions related to diagnosing and treating depression. Results The most common barriers to managing depression in general practice reported by GPs were: patients' unwillingness to discuss depressive symptoms (92.3%); appointment time too short to take an adequate history (91.9%), barriers for prescribing appropriate treatment (90.6%); and patients' reluctance to be referred to a psychiatrist (89.1%). Most GPs (78.4%) agreed that recognizing depression was their responsibility, 71.7% were confident in diagnosing depression, but less than one-third (29.6%) considered that they should treat it. Conclusions Improvements to the organization of mental healthcare in all five countries should consider better training for GPs in depression diagnosis and treatment; the availability of mental healthcare specialists at primary care level, with ensured equal and easy access for all patients; and the removal of potential legal barriers for diagnosis and treatment of depression.
+C1 [Duric, Predrag; O'May, Fiona] Queen Margaret Univ Edinburgh, Inst Global Hlth & Dev, Musselburgh, Scotland.
+   [Duric, Predrag; Harhaji, Sanja] Univ Novi Sad, Fac Med, Inst Publ Hlth Vojvodina, Novi Sad, Vojvodina, Serbia.
+   [Boderscova, Larisa] WHO Country Off, Kishinev, Moldova.
+   [Chihai, Jana] State Med & Pharmaceut Univ Nicolae Testemitanu, Med Psychol & Narcol Dept, Kishinev, Moldova.
+   [Como, Ariel; Sotiri, Eugjen] Tirana Univ Hosp Ctr, Tirana, Albania.
+   [Hranov, Georgi L.] Univ Multiprofile Hosp Act Treatment Neurol & Psy, Psychiat Clin 2, Sofia, Bulgaria.
+   [Mihai, Adriana] Univ Med & Pharm, Dept Psychiat, Targul Mures, Romania.
+C3 Queen Margaret University; University of Novi Sad; Nicolae Testemitanu
+   State University of Medicine & Pharmacy; Medical University Sofia
+RP Duric, P (corresponding author), Queen Margaret Univ Edinburgh, Queen Margaret Univ Dr, Musselburgh EH21 6UU, Scotland.
+EM pduric@qmu.ac.uk
+RI Duric, Predrag/L-9002-2019; Chihai, Jana/GLQ-7102-2022
+OI Duric, Predrag/0000-0001-5770-7224; Chihai, Jana/0000-0002-7720-5544
+FU National Institute of Health Fogarty International Center
+   [ID43TW009122-01]
+FX National Institute of Health Fogarty International Center, Grant/Award
+   Number: ID43TW009122-01
+NR 36
+TC 5
+Z9 6
+U1 1
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-7885
+EI 1751-7893
+J9 EARLY INTERV PSYCHIA
+JI Early Interv. Psychiatry
+PD OCT
+PY 2019
+VL 13
+IS 5
+BP 1155
+EP 1164
+DI 10.1111/eip.12747
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IX8YC
+UT WOS:000485973000016
+PM 30277313
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolaidis, G
+   Petroulaki, K
+   Zarokosta, F
+   Tsirigoti, A
+   Hazizaj, A
+   Cenko, E
+   Brkic-Smigoc, J
+   Vajzovic, E
+   Stancheva, V
+   Chincheva, S
+   Ajdukovic, M
+   Rajter, M
+   Raleva, M
+   Trpcevska, L
+   Roth, M
+   Antal, I
+   Ispanovic, V
+   Hanak, N
+   Olmezoglu-Sofuoglu, Z
+   Umit-Bal, I
+   Bianchi, D
+   Meinck, F
+   Browne, K
+AF Nikolaidis, George
+   Petroulaki, Kiki
+   Zarokosta, Foteini
+   Tsirigoti, Antonia
+   Hazizaj, Altin
+   Cenko, Enila
+   Brkic-Smigoc, Jelena
+   Vajzovic, Emir
+   Stancheva, Vaska
+   Chincheva, Stefka
+   Ajdukovic, Marina
+   Rajter, Miro
+   Raleva, Marija
+   Trpcevska, Liljana
+   Roth, Maria
+   Antal, Imola
+   Ispanovic, Veronika
+   Hanak, Natasha
+   Olmezoglu-Sofuoglu, Zeynep
+   Umit-Bal, Ismail
+   Bianchi, Donata
+   Meinck, Franziska
+   Browne, Kevin
+TI Lifetime and past-year prevalence of children's exposure to violence in
+   9 Balkan countries: the BECAN study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Violence against children; Child abuse and neglect; Child maltreatment;
+   Violence; Epidemiology; Balkans
+ID ADVERSE CHILDHOOD EXPERIENCES; PHYSICAL ABUSE; SEXUAL-ABUSE; ICAST-CH;
+   NEGLECT; MALTREATMENT; CONSEQUENCES; ASSOCIATIONS; METAANALYSIS; SUICIDE
+AB Background: Children's exposure to violence is a major public health issue. The Balkan epidemiological study on Child Abuse and Neglect project aimed to collect internationally comparable data on violence exposures in childhood.
+   Methods: A three stage stratified random sample of 42,194 school-attending children (response rate: 66.7%) in three grades (aged 11, 13 and 16 years) was drawn from schools in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Former Yugoslavian Republic of Macedonia (FYROM), Greece, Romania, Serbia and Turkey. Children completed the ICAST-C questionnaire, which measures children's exposure to violence by any perpetrator.
+   Results: Exposure rates for psychological violence were between 64.6% (FYROM) and 83.2% (Greece) for lifetime and 59.62% (Serbia) and 70.0% (Greece) for past-year prevalence. Physical violence exposure varied between 50.6% (FYROM) and 76.3% (Greece) for lifetime and 42.5% (FYROM) and 51.0% (Bosnia) for past-year prevalence. Sexual violence figures were highest for lifetime prevalence in Bosnia (18.6%) and lowest in FYROM (7.6%). Lifetime contact sexual violence was highest in Bosnia (9.8%) and lowest in Romania (3.6%). Past-year sexual violence and contact sexual violence prevalence was lowest in Romania (5.0 and 2.1%) and highest in Bosnia (13.6 and 7.7% respectively). Self-reported neglect was highest for both past-year and lifetime prevalence in Bosnia (48.0 and 20.3%) and lowest in Romania (22.6 and 16.7%). Experiences of positive parental practices were reported by most participating children in all countries.
+   Conclusions: Where significant differences in violence exposure by sex were observed, males reported higher exposure to past-year and lifetime sexual violence and females higher exposure to neglect. Children in Balkan countries experience a high burden of violence victimization and national-level programming and child protection policy making is urgently needed to address this.
+C1 [Nikolaidis, George; Petroulaki, Kiki; Zarokosta, Foteini; Tsirigoti, Antonia] Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+   [Hazizaj, Altin; Cenko, Enila] Childrens Human Rights Ctr Albania, Tirana, Albania.
+   [Brkic-Smigoc, Jelena; Vajzovic, Emir] Univ Sarajevo, Fac Polit Sci, Sarajevo, Bosnia & Herceg.
+   [Stancheva, Vaska; Chincheva, Stefka] South West Univ N Rilski, Dept Med Social Sci, Blagoevgrad, Bulgaria.
+   [Ajdukovic, Marina; Rajter, Miro] Univ Zagreb, Fac Law, Dept Social Work, Zagreb, Croatia.
+   [Raleva, Marija; Trpcevska, Liljana] Univ Skopje, Univ Clin Psychiat, Skopje, Macedonia.
+   [Roth, Maria; Antal, Imola] Babes Bolyai Univ, Social Work Dept, Fac Sociol & Social Work, Cluj Napoca, Romania.
+   [Ispanovic, Veronika; Hanak, Natasha] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Olmezoglu-Sofuoglu, Zeynep; Umit-Bal, Ismail] Assoc Emergency Ambulance Phys, Izmir, Turkey.
+   [Bianchi, Donata] Inst Innocenti, Florence, Italy.
+   [Meinck, Franziska] Univ Oxford, Ctr Evidence Based Intervent, Oxford, England.
+   [Meinck, Franziska] North West Univ, Sch Behav Sci, Vanderbeijlpark, South Africa.
+   [Browne, Kevin] Univ Nottingham, Sch Med, Ctr Forens & Family Psychol, Div Psychiat & Appl Psychol, Nottingham, England.
+   [Zarokosta, Foteini] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Tsirigoti, Antonia] The Smile Child, Athens, Greece.
+   [Cenko, Enila] Univ New York Tirana, Humanities & Social Sci Dept, Tirana, Albania.
+   [Hanak, Natasha] AWO Clearinghaus Unaccompanied Minor Refugees, Dortmund, North Rhine Wes, Germany.
+C3 University of Sarajevo; South-West University - Bulgaria; University of
+   Zagreb; Saints Cyril & Methodius University of Skopje; Babes Bolyai
+   University from Cluj; University of Belgrade; Istituto degli Innocenti;
+   University of Oxford; North West University - South Africa; University
+   of Nottingham; Technical University of Denmark; University of New York
+   in Tirana
+RP Nikolaidis, G (corresponding author), Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+EM gnikolaidis@ich-mhsw.gr
+RI Stancheva-Popkostadinova, Vaska Sl/N-5753-2014; Roth, Maria/H-6760-2019;
+   Antal, Imola/IAM-0424-2023; Brkić Šmigoc, Jelena/GNN-1106-2022;
+   Sofuoglu, Zeynep/AAA-9584-2021; Vajzović, Emir/AAR-1233-2021; Meinck,
+   Franziska/C-7694-2014; Rajter, Miroslav/A-3619-2016
+OI Roth, Maria/0000-0002-8284-8798; Brkić Šmigoc,
+   Jelena/0000-0002-8632-1520; Meinck, Franziska/0000-0002-5234-3799;
+   Rajter, Miroslav/0000-0002-2608-3196; Nikolaidis,
+   George/0000-0001-7017-0660; Vajzovic, Emir/0000-0003-4189-0946;
+   Stancheva-Popkostadinova, Vaska/0000-0002-9302-7282
+FU European Research Council under the EU's 7th Framework Programme for
+   Research and Innovation [223478/HEALTH/CALL 2007-B]; Economic and Social
+   Research Council in the UK [ES/N017447/1]; ESRC [ES/N017447/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/N017447/1]
+   Funding Source: researchfish
+FX The research leading to this manuscript was funded by the European
+   Research Council under the EU's 7th Framework Programme for Research and
+   Innovation (ID: 223478/HEALTH/CALL 2007-B). FM received writing support
+   from the Economic and Social Research Council in the UK (ES/N017447/1).
+NR 49
+TC 40
+Z9 40
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD JAN 2
+PY 2018
+VL 12
+AR 1
+DI 10.1186/s13034-017-0208-x
+PG 15
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR8KC
+UT WOS:000419322600001
+PM 29308086
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

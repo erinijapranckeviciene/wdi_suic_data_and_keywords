@@ -1,0 +1,263 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Peña, JB
+   Zayas, LH
+   Cabrera-Nguyen, P
+   Vega, WA
+AF Pena, Juan B.
+   Zayas, Luis H.
+   Cabrera-Nguyen, Peter
+   Vega, William A.
+TI US Cultural Involvement and Its Association With Suicidal Behavior Among
+   Youths in the Dominican Republic
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID RISK-FACTORS; DRUG-USE; DEPRESSIVE SYMPTOMS; LATINO ADOLESCENTS;
+   UNITED-STATES; SUBSTANCE USE; ACCULTURATION; IMMIGRANT; MORTALITY;
+   HEALTH
+AB Objectives. We examined how US cultural involvement related to suicide attempts among youths in the Dominican Republic.
+   Methods. We analyzed data from a nationally representative sample of youths attending high school in the Dominican Republic (n=8446). The outcome of interest was a suicide attempt during the past year. The US cultural involvement indicators included time spent living in the United States, number of friends who had lived in the United States, English proficiency, and use of US electronic media and language.
+   Results. Time lived in the United States, US electronic media and language, and number of friends who had lived in the United States had robust positive relationships with suicide attempts among youths residing in the Dominican Republic.
+   Conclusions. Our results are consistent with previous research that found increased risk for suicide or suicide attempts among Latino youths with greater US cultural involvement. Our study adds to this research by finding similar results in a nonimmigrant Latin American sample. Our results also indicate that suicide attempts are a major public health problem among youths in the Dominican Republic. (Am J Public Health. 2012;102:664-671. doi:10.2105/AJPH.2011.300344)
+C1 [Pena, Juan B.; Zayas, Luis H.; Cabrera-Nguyen, Peter] Washington Univ, George Warren Brown Sch Social Work, St Louis, MO 63130 USA.
+   [Zayas, Luis H.] Washington Univ, Dept Psychiat, St Louis, MO 63130 USA.
+   [Vega, William A.] Univ So Calif, Sch Social Work, Los Angeles, CA 90089 USA.
+C3 Washington University (WUSTL); Washington University (WUSTL); University
+   of Southern California
+RP Peña, JB (corresponding author), Washington Univ, George Warren Brown Sch Social Work, 1 Brookings Dr,Campus Box 1196, St Louis, MO 63130 USA.
+EM jpena@wustl.edu
+OI Zayas, Luis H./0000-0003-3356-7233
+FU National Institute of Mental Health [1R03MH085203-01A1]; Center for
+   Latino Family Research at Washington University's Brown School
+FX This research was funded by the National Institute of Mental Health
+   (grant 1R03MH085203-01A1), with additional support from the Center for
+   Latino Family Research at Washington University's Brown School.
+NR 60
+TC 5
+Z9 9
+U1 0
+U2 11
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 800 I STREET, NW, WASHINGTON, DC 20001-3710 USA
+SN 0090-0036
+EI 1541-0048
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PD APR
+PY 2012
+VL 102
+IS 4
+BP 664
+EP 671
+DI 10.2105/AJPH.2011.300344
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 913IF
+UT WOS:000301870000018
+PM 22397348
+OA Green Published, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Peña, JB
+   Masyn, KE
+   Thorpe, LE
+   Peña, SM
+   Caine, ED
+AF Pena, Juan B.
+   Masyn, Katherine E.
+   Thorpe, Lorna E.
+   Pena, Stephanie M.
+   Caine, Eric D.
+TI A Cross-National Comparison of Suicide Attempts, Drug Use, and Depressed
+   Mood Among Dominican Youth
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID RISK-FACTORS; BEHAVIOR; ASSOCIATION; MORTALITY; SYMPTOMS; MODEL
+AB We compared suicide attempts, depressed mood, and drug use of 1,710 Dominican public high school students in New York City (NYC) and 9,573 in the Dominican Republic (DR) in 2009. Compared to DR Dominicans, NYC Dominicans were more likely to have reported lifetime marijuana use (27.6% vs. 1.5%), lifetime inhalant use (11.0% vs. 7.6%), lifetime other drug use (9.9% vs. 3.0%), depressed mood (31.3% vs. 27.2%), and suicide attempt (13.8% vs. 8.8%). The results of this study supported the hypothesis that substantial increases in illicit drug use, especially cocaine, heroin, ecstasy, and methamphetamines, among NYC Dominican youth account for their increased risk for suicide attempts compared to their DR Dominican counterparts. It also identified suicide attempts as a public health problem among NYC Dominicans, the largest NYC Latino immigrant population.
+C1 [Pena, Juan B.] Hunter Coll, Silberman Sch Social Work, New York, NY 10065 USA.
+   [Masyn, Katherine E.] Georgia State Univ, Sch Publ Hlth, Atlanta, GA 30303 USA.
+   [Thorpe, Lorna E.] Hunter Coll, CUNY Sch Publ Hlth, New York, NY USA.
+   [Pena, Stephanie M.] Callen Lorde Community Hlth Ctr, New York, NY USA.
+   [Caine, Eric D.] Univ Rochester, Med Ctr, Dept Psychiat, Rochester, NY 14642 USA.
+C3 City University of New York (CUNY) System; Hunter College (CUNY);
+   University System of Georgia; Georgia State University; City University
+   of New York (CUNY) System; Hunter College (CUNY); University of
+   Rochester
+RP Peña, JB (corresponding author), Hunter Coll, Silberman Sch Social Work, New York, NY 10065 USA.
+EM jp84@hunter.cuny.edu
+FU National Institute of Mental Health (NIMH) [1R03MH085203-01A1]
+FX This publication was made possible from funding by the National
+   Institute of Mental Health (NIMH) grant number 1R03MH085203-01A1. Its
+   contents are solely the responsibility of the authors and do not
+   necessarily represent the official view of NIMH. We also thank our
+   collaborators in the Dominican Republic, including Gloria Madera,
+   Cristina Molina, Juan Rodriguez, Ludovina Rodriguez, research assistant
+   Lissette Vasquez, and the participants in this study. The NIMH had no
+   role in the design or conduct of the study, the collection, management,
+   analysis, or interpretation of the data, or the preparation, review, or
+   approval of the manuscript.
+NR 26
+TC 3
+Z9 3
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+EI 1943-278X
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD JUN
+PY 2016
+VL 46
+IS 3
+BP 301
+EP 312
+DI 10.1111/sltb.12189
+PG 12
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA DZ2XK
+UT WOS:000385705800005
+PM 26388301
+DA 2023-12-06
+ER
+
+PT J
+AU Budhwani, H
+   Hearld, KR
+   Milner, AN
+   Charow, R
+   McGlaughlin, EM
+   Rodriguez-Lauzurique, M
+   Rosario, S
+   Paulino-Ramirez, R
+AF Budhwani, Henna
+   Hearld, Kristine R.
+   Milner, Adrienne N.
+   Charow, Rebecca
+   McGlaughlin, Elaine M.
+   Rodriguez-Lauzurique, Mayra
+   Rosario, Santo
+   Paulino-Ramirez, Robert
+TI Transgender Women's Experiences with Stigma, Trauma, and Attempted
+   Suicide in the Dominican Republic
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID RISK-FACTORS; HEALTH; POPULATIONS; PEOPLE; NEEDS
+AB Studies on attempted suicide in transgender populations, particularly those in resource-limited settings, are scarce. We examined the relationships between stigma, trauma, and suicide attempts in a national sample of transgender women from the Dominican Republic. Bivariate analysis examined differences between suicide attempters and nonattempters (n = 298). Multivariate analysis reported odds ratios with attempted suicide as the outcome (n = 260). About a quarter of respondents (23.9%) experienced sexual abuse, 12.3% were tortured, and 20.3% experienced a murder attempt. More than a quarter reported using illegal drugs. Independent sample t tests found significant differences between suicide attempters and nonattempters. Attempters were more likely to have experienced sexual abuse, psychological abuse, torture, and a murder attempt (p < .001 for all). Respondents who experienced psychological abuse had over three times higher odds of attempting suicide, compared to respondents who had not (OR = 3.203, p < .01). Experience with torture and attempted murder were associated with higher odds of attempting suicide (OR = 2.967, p OR = 2.894, p < .05, respectively). Although some nations have implemented antidiscrimination policies protecting transgender citizens, these policies are often not consistently enforced. Eliminating stigmatizing policies may reduce rates of negative health outcomes and subsequently improving population health.
+C1 [Budhwani, Henna; Hearld, Kristine R.] Univ Alabama Birmingham, Univ Blvd, Birmingham, AL USA.
+   [Milner, Adrienne N.] Queen Mary Univ London, London, England.
+   [Charow, Rebecca; Rodriguez-Lauzurique, Mayra; Rosario, Santo; Paulino-Ramirez, Robert] COIN, Santo Domingo, Dominican Rep.
+   [McGlaughlin, Elaine M.] Caribbean Vulnerable Communities Coalit CVC, Kingston, Jamaica.
+   [Rodriguez-Lauzurique, Mayra; Paulino-Ramirez, Robert] Univ Iberoamer, Inst Trop Med & Global Hlth, Santo Domingo, Dominican Rep.
+C3 University of Alabama System; University of Alabama Birmingham;
+   University of London; Queen Mary University London; Universidad
+   Iberoamericana (UNIBE)
+RP Budhwani, H (corresponding author), Univ Alabama Birmingham, Hlth Care Org & Policy, 517D Ryals Publ Hlth Bldg,1665 Univ Blvd, Birmingham, AL 35294 USA.
+EM budhwani@uab.edu
+RI Charow, Rebecca/IAQ-3072-2023
+OI Charow, Rebecca/0000-0002-8553-4006; Paulino-Ramirez,
+   Robert/0000-0002-3676-0357; Milner, Adrienne/0000-0003-3209-6185;
+   Hearld, Kristine/0000-0002-0501-874X; Budhwani,
+   Henna/0000-0002-6716-9754
+NR 44
+TC 22
+Z9 23
+U1 0
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+EI 1943-278X
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD DEC
+PY 2018
+VL 48
+IS 6
+BP 788
+EP 796
+DI 10.1111/sltb.12400
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA HC4ZD
+UT WOS:000451812400015
+PM 28950402
+OA Green Submitted, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Murray, D
+   Wesseling, C
+   Keifer, M
+   Corriols, M
+   Henao, S
+AF Murray, D
+   Wesseling, C
+   Keifer, M
+   Corriols, M
+   Henao, S
+TI Surveillance of pesticide-related illness in the developing world:
+   Putting the data to work
+SO INTERNATIONAL JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE pesticide poisoning; pesticide illness; surveillance; developing
+   countries; Central America; pesticide policy
+ID DEVELOPING-COUNTRIES; FIREARM AVAILABILITY; POISONINGS; NICARAGUA;
+   HOMICIDE; SUICIDE; SYSTEMS
+AB With PLAGSALUD support, pesticide illness surveillance has extended to all seven Central American countries, producing 7,000 poisoning reports in 2000, but governments' use of the surveillance data has been limited by inadequacies of data management, interpretation, an reporting and an influential pesticide industry in weak economies. Overrepresented reports of suicides minimize occupational hazards. In six countries, 32,245 questionnaire responses indicated 98% underreporting of pesticide poisonings and a regional estimate of 400,000 poisonings per year (1.9% of the population), 76% work-related. A potentially far-reaching measure to come out of this surveillance is an agreement of the ministers of health of Central America and the Dominican Republic (RESSCAD 2000) for a harmonized list of banned and restricted pesticides, including the 12 most frequently reported. The RESSCAD agreement has met considerable resistance from industry. Its achievement versus failure will disclose the ability of Central American governments to prioritize protection of human health against commercial corporate interests. Surveillance data have potential for policy reform, but a more aggressive health sector is needed, linked with the environmental sector, grass-roots organizations, and universities.
+C1 Colorado State Univ, Dept Sociol, Ft Collins, CO 80523 USA.
+   Univ Washington, Int Scholars Occupat & Environm Hlth, Seattle, WA 98195 USA.
+C3 Colorado State University; University of Washington; University of
+   Washington Seattle
+RP Murray, D (corresponding author), Colorado State Univ, Dept Sociol, Ft Collins, CO 80523 USA.
+EM dmurray@lamar.colostate.edu
+RI Corriols, Marianela/AAJ-9511-2020
+OI Wesseling, Catharina/0000-0001-5523-9981
+FU FIC NIH HHS [3D43TW00642-0551] Funding Source: Medline
+NR 41
+TC 41
+Z9 43
+U1 0
+U2 8
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1077-3525
+EI 2049-3967
+J9 INT J OCCUP ENV HEAL
+JI Int. J. Occup. Environ. Health
+PD JUL-SEP
+PY 2002
+VL 8
+IS 3
+BP 243
+EP 248
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 595DN
+UT WOS:000178091700009
+PM 12358080
+DA 2023-12-06
+ER
+
+EF

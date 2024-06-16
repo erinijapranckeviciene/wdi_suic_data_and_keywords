@@ -1,0 +1,1793 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tabata, A
+   Takahashi, K
+   Masuko, S
+   Aizawa, H
+   Obata, T
+   Oreland, L
+   Kinemuchi, H
+AF Tabata, A
+   Takahashi, K
+   Masuko, S
+   Aizawa, H
+   Obata, T
+   Oreland, L
+   Kinemuchi, H
+TI Further evidence for suicide inhibition of semicarbazide-sensitive amine
+   oxidase in guinea pig lung by 2-bromoethylamine
+SO METHODS AND FINDINGS IN EXPERIMENTAL AND CLINICAL PHARMACOLOGY
+LA English
+DT Article
+DE 2-bromoethylamine (2-BEA); guinea pig lung; irreversibility;
+   semicarbazide-sensitive amine oxidase; (SSAO, EC 1.4.3.6); suicide
+   inhibition
+ID VASCULAR SMOOTH-MUSCLE; MONOAMINE-OXIDASE; RAT AORTA; MOLECULAR
+   CHARACTERISTICS; OXIDATIVE DEAMINATION; BENZYLAMINE OXIDASE;
+   DENTAL-PULP; BOVINE LUNG; TISSUE; SSAO
+AB The inhibitory effects of 2-bromoethylamine (2-BEA), a derivative of ethylamine, on guinea pig lung semicarbazide-sensitive amine oxidase (SAO) have been studied. Preincubation with 2-BEA time-dependently inhibited SSAO activity. The mode of the initial phase of inhibition was competitive, with a K(i) value of 52 muM. After preincubation at 37degreesC for 2 h, the inhibition was noncompetitive and irreversible, as there was no recovery of SSAO activity by dilution of the inhibited samples. Kinetic analyses confirmed previous results with rat lung SSAO that 2-BEA is a suicide SSAO inactivator with a dissociation constant of 42 muM. This latter value is similar to that of the K(i) value (52 muM) for the reversible phase of inhibition by 2-BEA. Addition of the nucleophilic compound 2-mercaptoethanol could not reduce the SSAO inhibition, indicating that inactivation could not be prevented by trapping the enzymatic reaction product from 2-BEA. This finding clearly indicates that the reaction product should not diffuse away from its site of genesis and agrees with one of the characteristics of suicide inhibitors. This conclusively excludes the possibility of an affinity-labeling mechanism. (C) Prons Science 2003. All rights reserved.
+C1 Ishinomaki Senshu Univ, Lab Enzyme Pharmacol, Ishinomaki 9868580, Japan.
+   Oita Med Univ, Dept Pharmacol & Therapeut, Oita, Japan.
+   Uppsala Univ, Biomed Ctr, Pharmacol Sect, Dept Neurosci, Uppsala, Sweden.
+C3 Oita University; Uppsala University
+RP Kinemuchi, H (corresponding author), Ishinomaki Senshu Univ, Lab Enzyme Pharmacol, Ishinomaki 9868580, Japan.
+EM kinemuti@isenshu-u.ac.jp
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PROUS SCIENCE, SA-THOMSON REUTERS
+PI BARCELONA
+PA PO BOX 540, PROVENZA 388, 08025 BARCELONA, SPAIN
+SN 0379-0355
+J9 METHOD FIND EXP CLIN
+JI Methods Find. Exp. Clin. Pharmacol.
+PD DEC
+PY 2003
+VL 25
+IS 10
+BP 785
+EP 792
+DI 10.1358/mf.2003.25.10.793326
+PG 8
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 766CT
+UT WOS:000188328400002
+PM 14735225
+DA 2023-12-06
+ER
+
+PT J
+AU Stewart, PJ
+   Strathern, A
+AF Stewart, PJ
+   Strathern, A
+TI Cosmology, resources, and landscape: Agencies of the dead and the living
+   in Duna, Papua New Guinea
+SO ETHNOLOGY
+LA English
+DT Article
+AB Among the Duna people of Papua New Guinea, ideas about the dead and the living are intertwined through cosmological perceptions of, and ritual interactions with, the landscape. These ideas change to accommodate and deal with new issues that arise. Malu (narratives of origins) link kin with land and to spirit figures. In the context of colonial and post-colonial mining for minerals and drilling for oil, malu have been reformulated as a way of claiming compensation from mining companies. Central to the Duna perspective is the notion that the agencies and substances of the dead and the living are interlinked. An act of suicide may lead to demands for compensation as a result of the suicide being caused by "shaming": the agency of the dead person therefore lives on. In images of this sort, the connection between the living and the dead is vividly portrayed.
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh
+RP Stewart, PJ (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+NR 11
+TC 9
+Z9 9
+U1 0
+U2 5
+PU UNIV PITTSBURGH
+PI PITTSBURGH
+PA DEPT ANTHROPOLOGY, PITTSBURGH, PA 15260 USA
+SN 0014-1828
+EI 2160-3510
+J9 ETHNOLOGY
+JI Ethnology
+PD WIN
+PY 2005
+VL 44
+IS 1
+BP 35
+EP 47
+DI 10.2307/3773958
+PG 13
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 956JU
+UT WOS:000231296800003
+DA 2023-12-06
+ER
+
+PT J
+AU Jollant, F
+   Macdonald, C
+AF Jollant, F.
+   Macdonald, C.
+TI Endogamy and suicide: An observation-based hypothesis
+SO MEDICAL HYPOTHESES
+LA English
+DT Article
+ID RISK-FACTORS; CONSANGUINITY; EPIDEMIOLOGY; POPULATION; BEHAVIOR; SPAIN
+AB Suicide is a complex and multifactorial behavior, which is likely the result of distinct pathways in different individuals or groups. Endogamy has been associated with numerous diseases, including behavioral disorders. Here, we discuss the hypothesis of endogamy as one mechanism facilitating high rates of suicide in some small and isolated groups of people across the world. To support our hypothesis, we describe four geographically and culturally distinct populations (the Aguarunas of Peru, the Vaqueiros of Spain, the Baruyas of New Guinea, and the Palawans of the Philippines), which present the following characteristics: (1) a high level of isolation and endogamy; (2) very high rates of suicide restricted to one group with (3) adjacent groups of similar origin and culture displaying low rates of suicide. Within these four distinct populations, endogamy could act in one isolated group as the amplifier of both selected genetic risk alleles and microcultural values (e.g. suicide as an acceptable solution), beyond cultural and genetic traits shared by the whole population (and therefore found in all groups). Genetic and microcultural risk factors are transmitted through close kinship and imitation/modeling, and could interact to increase the frequency of vulnerable individuals leading, in turn, to heightened rates of suicide. Culture could sometimes additionally act by generating stressful conditions for some individuals (e.g. lower social status and maltreatment). In contrast to endogamy, suicide motives (notably interpersonal conflicts) and mental disorders appear to be universal risk factors. More investigation of this endogamy hypothesis is necessary, which could represent a singular case of gene-culture co-transmission and shed light on particular conditions of suicide genesis. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Jollant, F.] McGill Univ, Dept Psychiat, Montreal, PQ, Canada.
+   [Jollant, F.] Douglas Mental Hlth Univ Inst, McGill Grp Suicide Studies, Montreal, PQ H4H 1R3, Canada.
+   [Jollant, F.] Acad Hosp Nimes, Dept Psychiat, Nimes, France.
+   [Macdonald, C.] CNRS, UMR7268, Marseille, France.
+C3 McGill University; McGill University; Universite de Montpellier; CHU de
+   Nimes; Aix-Marseille Universite; Centre National de la Recherche
+   Scientifique (CNRS); CNRS - Institute of Ecology & Environment (INEE)
+RP Jollant, F (corresponding author), Douglas Mental Hlth Univ Inst, McGill Grp Suicide Studies, 6875 Blvd LaSalle, Montreal, PQ H4H 1R3, Canada.
+EM fabrice.jollant@mcgill.ca
+RI Jollant, Fabrice/ABG-1025-2021
+OI Jollant, Fabrice/0000-0001-5809-4503
+FU Fond de Recherche du Quebec - Sante (FRQS)
+FX Fabrice Jollant held a chercheur-boursier clinicien salary grant from
+   the Fond de Recherche du Quebec - Sante (FRQS).
+NR 29
+TC 3
+Z9 3
+U1 0
+U2 1
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0306-9877
+EI 1532-2777
+J9 MED HYPOTHESES
+JI Med. Hypotheses
+PD NOV
+PY 2015
+VL 85
+IS 5
+BP 542
+EP 547
+DI 10.1016/j.mehy.2015.07.010
+PG 6
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine
+GA CV9MO
+UT WOS:000364611500005
+PM 26206761
+DA 2023-12-06
+ER
+
+PT J
+AU Kobayashi, N
+   Takahashi, K
+   Takayanagi, K
+   Takahashi, K
+   Masuko, S
+   Tadano, T
+   Kisara, K
+   Kinemuchi, H
+AF Kobayashi, N
+   Takahashi, K
+   Takayanagi, K
+   Takahashi, K
+   Masuko, S
+   Tadano, T
+   Kisara, K
+   Kinemuchi, H
+TI Molecular characteristics of tissue-bound semicarbazide-sensitive amine
+   oxidase (SSAO) in guinea pig tissues
+SO LIFE SCIENCES
+LA English
+DT Article
+DE semicarbazide-sensitive amine oxidase (SSAO); 2-bromoethylamine (2-BEA);
+   titration; suicide inhibitor; guinea pig; molecular turnover number
+ID MONOAMINE-OXIDASE; INHIBITION; IDENTIFICATION; CLORGYLINE; ENZYME; RAT;
+   METABOLISM; EXPRESSION; LIVER
+AB Various mammalian tissues contain a tissue-bound amine oxidizing enzyme distinct from mitochondrial outer membrane enzyme, monoamine oxidase (MAO, EC 1.4.3.4), termed semicarbazide-sensitive amine oxidase (SSAO, EC 1.4.3.6). An increase in SSAO activity was found in patients suffering from vascular disorders such as diabetes and diabetic complications. It has previously been shown that 2-bromoethylamine (2-BEA) is a potent, and selective suicidal inhibitor of tissue-bound SSAO. The aim of this study was to investigate the interaction of this suicidal SSAO inhibitor with the tissue-bound enzyme in guinea pig lung, kidney, stomach, and heart homogenates. The conditions necessary for this inhibitor to titrate the concentrations of this enzyme were also determined. 2-BEA appears to interact with SSAO, as reported previously for this enzyme from different sources, in a manner consistent with an irreversible, "suicide" reaction. Because of this property, 2-BEA could be used to titrate the concentrations of SSAO active centers in these tissues under the appropriate conditions employed. Although some possible non-specific binding of the inhibitor to sites other than the active center of the enzyme, metabolism of this inhibitor and/or presence of enzyme subtypes was hypothesized, the molecular characteristics of SSAO in these tissues (Km, Vmax values, enzyme efficiencies, approximate enzyme concentrations, and molecular turnover numbers) towards the substrate kynuramine (0.1 mM) at pH 7.4 and 37 degreesC have been estimated. (C) 2002 Elsevier Science Inc. All rights reserved.
+C1 Ishinomaki Senshu Univ, Lab Enzyme Pharmacol, Ishinomaki 9868580, Japan.
+   Tohoku Pharmaceut Univ, Dept Pharmacol, Sendai, Miyagi 9818558, Japan.
+C3 Tohoku Medical & Pharmaceutical University
+RP Kinemuchi, H (corresponding author), Ishinomaki Senshu Univ, Lab Enzyme Pharmacol, Ishinomaki 9868580, Japan.
+EM kinemuti@isenshu-u.ac.jp
+NR 39
+TC 3
+Z9 3
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0024-3205
+EI 1879-0631
+J9 LIFE SCI
+JI Life Sci.
+PD FEB 15
+PY 2002
+VL 70
+IS 13
+BP 1519
+EP 1531
+AR PII S0024-3205(01)1523-5
+DI 10.1016/S0024-3205(01)01523-5
+PG 13
+WC Medicine, Research & Experimental; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine; Pharmacology & Pharmacy
+GA 526KD
+UT WOS:000174128900006
+PM 11895103
+DA 2023-12-06
+ER
+
+PT J
+AU Laloë, V
+AF Laloë, V
+TI Patterns of deliberate self-burning in various parts of the world -: A
+   review
+SO BURNS
+LA English
+DT Review
+DE self-inflicted burns; suicide; self-harm; self-immolation; self-burning
+ID INFLICTED BURNS; ATTEMPTED-SUICIDE; IMMOLATION DEATHS; SRI-LANKA; FIRE;
+   INJURIES; INDIA; EPIDEMIOLOGY; INCINERATION; ADOLESCENCE
+AB This paper reviews the literature on deliberate self-burning (DSB) and compares patterns in various countries. Fifty-five studies of deliberate self-harm or suicide by fire published in the last 20 years were reviewed. They reported on 3351 cases of DSB, including 2296 deaths. India had the highest absolute number of cases, the highest fatality rate, and the highest contribution of self-harm to burns admissions. The highest reported incidence was from Sri Lanka. Male victims generally predominated in Western countries, and females in the Middle East and the Indian sub-continent. Patients were grossly 10 years older in Europe than in Asia. The use and nature of fire accelerants, the possible roles of ethnicity, religion/faith and imitation are discussed. Three broad groups of victims were identified: psychiatric patients (Western and Middle-Eastern countries); those committing DSB for personal reasons (India, Sri Lanka, Papua-New Guinea, Zimbabwe); and those who are politically motivated (India, South Korea). Self-mutilators and self-immolators seem to be fairly distinct groups of people. (C) 2003 Elsevier Ltd and ISBI. All rights reserved.
+C1 Med Sans Frontieres, F-75544 Paris 11, France.
+C3 Doctors Without Borders
+RP Point Pedro Base Hosp, Point Pedro, Sri Lanka.
+EM veronique.laloe@bigfoot.com
+NR 65
+TC 109
+Z9 124
+U1 0
+U2 13
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-4179
+EI 1879-1409
+J9 BURNS
+JI Burns
+PD MAY
+PY 2004
+VL 30
+IS 3
+BP 207
+EP 215
+DI 10.1016/j.burns.2003.10.018
+PG 9
+WC Critical Care Medicine; Dermatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine; Dermatology; Surgery
+GA 814JA
+UT WOS:000220969800001
+PM 15082345
+DA 2023-12-06
+ER
+
+PT J
+AU Giaroni, C
+   Canciania, L
+   Zanetti, E
+   Giuliani, D
+   Pisani, R
+   Oldrini, R
+   Moro, E
+   Trinchera, M
+   Crema, F
+   Lecchini, S
+   Frigo, G
+AF Giaroni, Cristina
+   Canciania, Luca
+   Zanetti, Elena
+   Giuliani, Daniela
+   Pisani, Rossana
+   Oldrini, Rita
+   Moro, Elisabetta
+   Trinchera, Marco
+   Crema, Francesca
+   Lecchini, Sergio
+   Frigo, Giamnario
+TI Effects of chronic desipramine treatment on α<sub>2</sub>-adrenoceptors
+   and μ-opioid receptors in the guinea pig cortex and hippocampus
+SO EUROPEAN JOURNAL OF PHARMACOLOGY
+LA English
+DT Article
+DE chronic desipramine treatment; alpha(2)-adrenoceptor; mu-opioid
+   receptor; hippocampus; cortex; (guinea pig)
+ID CHRONIC ANTIDEPRESSANT TREATMENT; REGULATING MONOAMINE SYNTHESIS; RAT
+   CEREBRAL-CORTEX; C6 GLIOMA-CELLS; G-PROTEINS; DOWN-REGULATION;
+   NORADRENALINE RELEASE; PRESYNAPTIC ALPHA(2)-ADRENOCEPTORS; TRICYCLIC
+   ANTIDEPRESSANTS; DEPRESSED SUICIDES
+AB The existence of a close relation between presynaptic inhibitory alpha(2)-adrenoceptor and mu-opioid receptor pathways is well established. Such interplay may occur during chronic conditions that give rise to neuroadaptive changes involving both receptor systems. The aim of this study was to examine the effect of chronic treatment with the tricyclic antidepressant drug, desipramine, on alpha(2)-adrenoceptors and mu-opioid receptors in the guinea pig brain. Guinea pigs were treated with 10 mg/kg desipramine, injected i.p. for 21 days, every 24 h. The levels of expression of alpha(2)-adrenoceptors and L-opioid receptors, the G protein receptor regulatory kinase, GRK2/3 and signal transduction inhibitory G proteins in synaptosomes of the guinea pig hippocampus and cortex were evaluated by immunoblotting. Quantitative analysis of alpha(2)-adrenoceptor and mu-opioid receptor mRNA levels has been carried out by competitive reverse transcriptase polymerase chain reaction. The expression levels of alpha(2)-adrenoceptors and mu-opioid receptors and the respective mRNAs were found unchanged in the cortex, after chronic desipramine treatment. In these experimental conditions alpha(2)-adrenoceptor and mu-opioid receptor levels decreased, while the relevant transcripts increased, in the hippocampus. GRK2/3 levels remained unchanged and increased, respectively, in the cortex and the hippocampus, after chronic exposure to desipramine. In the same experimental conditions, G alpha(i1), G alpha(i2), G alpha(o), and G alpha(z) levels remained unchanged, while G alpha(i3) levels decreased, in the cortex; whereas, G alpha(i1), G alpha(i2) and G alpha(i3) levels significantly increased, and G alpha(o) and G alpha(z) levels; remained unchanged, in the hippocampus. On the whole, the present data suggest that alpha(2)-adrenoceptor and mu-opioid receptor expression and transcription are similarly influenced by chronic treatment with desipramine, in the guinea pig cortex and hippocampus. Furthermore, alterations in the levels of regulatory GRK2/3 and of inhibitory signal transduction G proteins, relevant to activation of both receptor pathways, have been documented. The distinct pattern of adaptations of the different protein studied in response to chronic desipramine treatment in both regions is discussed. (C) 2007 Elsevier B.V. All rights reserved.
+C1 [Giaroni, Cristina; Canciania, Luca; Zanetti, Elena; Giuliani, Daniela; Pisani, Rossana; Oldrini, Rita; Moro, Elisabetta; Crema, Francesca; Lecchini, Sergio; Frigo, Giamnario] Univ Insubria, Clin & Appl Pharmacol Ctr, I-21100 Varese, Italy.
+   [Giaroni, Cristina; Canciania, Luca; Zanetti, Elena; Giuliani, Daniela; Pisani, Rossana; Oldrini, Rita; Moro, Elisabetta; Crema, Francesca; Lecchini, Sergio; Frigo, Giamnario] Univ Pavia, I-21100 Varese, Italy.
+   [Trinchera, Marco] Univ Insubria, Dept Expt & Clin Biomed Sci, I-21100 Varese, Italy.
+C3 University of Insubria; University of Pavia; University of Insubria
+RP Giaroni, C (corresponding author), Univ Insubria, Clin & Appl Pharmacol Ctr, Via O Rossi N 9, I-21100 Varese, Italy.
+EM cristina.giaroni@uninsubria.it
+RI Giuliani, Daniela/B-2968-2016; giaroni, cristina/A-8181-2011
+OI Giuliani, Daniela/0000-0001-6061-5662; GIARONI,
+   CRISTINA/0000-0002-3760-3441
+NR 71
+TC 12
+Z9 13
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-2999
+EI 1879-0712
+J9 EUR J PHARMACOL
+JI Eur. J. Pharmacol.
+PD JAN 28
+PY 2008
+VL 579
+IS 1-3
+BP 116
+EP 125
+DI 10.1016/j.ejphar.2007.10.007
+PG 10
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 259ZK
+UT WOS:000252979200015
+PM 18028907
+DA 2023-12-06
+ER
+
+PT J
+AU Li, WS
+   Liu, HL
+   Yang, XF
+   Zheng, J
+   Wang, YL
+   Si, LS
+AF Li, Wensheng
+   Liu, Hongli
+   Yang, Xiaofeng
+   Zheng, Jin
+   Wang, Yili
+   Si, Lusheng
+TI Development of prophylactic recombinant HPV58-attenuated <i>Shigella</i>
+   live vector vaccine and evaluation of its protective efficacy and
+   immunogenicity in the guinea pig keratoconjunctivitis model
+SO ACTA BIOCHIMICA ET BIOPHYSICA SINICA
+LA English
+DT Article
+DE HPV58; Shigella; live vector vaccine; recombination
+ID ATTENUATED SHIGELLA; IMMUNE-RESPONSES; ANTIGEN DELIVERY;
+   CERVICAL-CANCER; MUTANTS; CELLS
+AB To develop a prophylactic recombinant HPV58L1-attenuated Shigella live vector vaccine and evaluate its protective efficacy and immunogenicity in the guinea pig keratoconjunctivitis model, the HPV58L1 gene was cloned into vector pUCmt, and then subcloned into the suicide vector pCVD442. The recombinant plasmid pCVD442-HPV58L1 was introduced into attenuated Shigella (sf301:Delta virG) with the helper plasmid PRK2013 by filter mating. The positive colonies were harvested and confirmed by polymerase chain reaction. The expression of the HPV58L1 protein with a molecular weight of 60 kDa was confirmed by western blot. The ability of the interested protein to self-assemble into virus-like particles was identified by transmission electron microscope, and murine erythrocyte hemagglutination assay. The guinea pig keratoconjunctivitis model was used to evaluate the protective efficacy and immunogenicity of the vaccine. Animal experiments showed that there was no keratoconjunctivitis occurred in the immunized group (HPV58-attenuated Shigella), and the serum levels of anti-HPV58L1-IgG and -IgA were obviously increased (P < 0.05), but the anti-sf301 LPS-IgG just slightly increased (P > 0.05). Enzyme-linked immunosorbent spot assay showed that HPV58L1-specific IgA-antibody-secreting cells (ASC) and IgG-ASC of spleen and lymph nodes were also obviously increased (P < 0.01). In this study, a recombinant HPV58L1-attenuated Shigella live vector vaccine was successfully constructed, and it could induce strong humoral immune responses in the immunized animals, and induce protective antibody production.
+C1 [Li, Wensheng; Yang, Xiaofeng; Zheng, Jin; Wang, Yili; Si, Lusheng] Xi An Jiao Tong Univ, Inst Canc Res, Key Lab Environm & Genes Related Dis, Minist Educ, Xian 710061, Peoples R China.
+   [Li, Wensheng] Xi An Jiao Tong Univ, Shaanxi Prov Peoples Hosp, Affiliated Hosp 3, Coll Med, Xian 710068, Peoples R China.
+   [Liu, Hongli] Xi An Jiao Tong Univ, Affiliated Hosp 1, Coll Med, Xian 710061, Peoples R China.
+C3 Xi'an Jiaotong University; Xi'an Medical University; Xi'an Jiaotong
+   University; Xi'an Jiaotong University
+RP Si, LS (corresponding author), Xi An Jiao Tong Univ, Inst Canc Res, Key Lab Environm & Genes Related Dis, Minist Educ, Xian 710061, Peoples R China.
+EM slusheng@yahoo.com
+FU National Natural Science Foundation of China [30271184]
+FX This work was supported by a grant from the National Natural Science
+   Foundation of China (No. 30271184).
+NR 20
+TC 7
+Z9 8
+U1 1
+U2 10
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1672-9145
+EI 1745-7270
+J9 ACTA BIOCH BIOPH SIN
+JI Acta Biochim. Biophys. Sin.
+PD FEB
+PY 2009
+VL 41
+IS 2
+BP 137
+EP 145
+DI 10.1093/abbs/gmn016
+PG 9
+WC Biochemistry & Molecular Biology; Biophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biophysics
+GA 413ZS
+UT WOS:000263834300006
+PM 19204831
+DA 2023-12-06
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-06
+ER
+
+PT J
+AU Stamford, JA
+   Davidson, C
+   McLaughlin, DP
+   Hopwood, SE
+AF Stamford, JA
+   Davidson, C
+   McLaughlin, DP
+   Hopwood, SE
+TI Control of dorsal raphe 5-HT function by multiple 5-HT<sub>1</sub>
+   autoreceptors:: parallel purposes or pointless plurality?
+SO TRENDS IN NEUROSCIENCES
+LA English
+DT Editorial Material
+ID SEROTONIN REUPTAKE INHIBITORS; RECEPTOR MESSENGER-RNA; RAT-BRAIN;
+   IN-VIVO; GUINEA-PIG; FRONTAL-CORTEX; 5-HYDROXYTRYPTAMINE RELEASE;
+   ADENYLYL-CYCLASE; SUPRACHIASMATIC NUCLEUS; EXTRACELLULAR 5-HT
+AB The serotonergic cells of the dorsal raphe nucleus innervate much of the forebrain and are thought to be involved in the mechanism of action of antidepressants. Dysfunction of these cells might be involved in the neural mechanisms underlying depression and suicide. The traffic in pathways emanating from the dorsal raphe nucleus is controlled by 5-HT1 autoreceptors. Until recently it was thought that the autoreceptors in the dorsal raphe nucleus were solely of the 5-HT1A subtype. In this article, we discuss evidence that the situation is more complex and that multiple 5-HT1 subtypes govern different aspects of 5-HT function in the dorsal raphe nucleus presenting new therapeutic opportunities.
+C1 Royal London Hosp, Royal London & St Bartholomews Sch Med & Dent, Acad Dept Anaesthesia & Intens Care, Neurotransmiss Lab, London E1 1BB, England.
+   Duke Univ, Med Ctr, Dept Psychiat, Durham, NC 27710 USA.
+C3 University of London; Queen Mary University London; Barts Health NHS
+   Trust; Royal London Hospital; Duke University
+RP Stamford, JA (corresponding author), Royal London Hosp, Royal London & St Bartholomews Sch Med & Dent, Acad Dept Anaesthesia & Intens Care, Neurotransmiss Lab, London E1 1BB, England.
+RI Davidson, Colin/O-1433-2013; McLaughlin, Danny/J-6818-2013
+OI Davidson, Colin/0000-0002-8180-7943; McLaughlin,
+   Daniel/0000-0002-7060-7321
+NR 74
+TC 114
+Z9 130
+U1 0
+U2 5
+PU ELSEVIER SCIENCE LONDON
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0166-2236
+EI 1878-108X
+J9 TRENDS NEUROSCI
+JI Trends Neurosci.
+PD OCT
+PY 2000
+VL 23
+IS 10
+BP 459
+EP 465
+DI 10.1016/S0166-2236(00)01631-3
+PG 7
+WC Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology
+GA 364AT
+UT WOS:000089870400007
+PM 11006462
+DA 2023-12-06
+ER
+
+PT J
+AU Keita, MM
+   Taverne, B
+   Savané, SS
+   March, L
+   Doukoure, M
+   Sow, MS
+   Touré, A
+   Etard, JF
+   Barry, M
+   Delaporte, E
+AF Keita, Mamady Mory
+   Taverne, Bernard
+   Savane, Sekou Sy
+   March, Laura
+   Doukoure, Morifode
+   Sow, Mamadou Saliou
+   Toure, Abdoulaye
+   Etard, Jean Francois
+   Barry, Moumie
+   Delaporte, Eric
+CA PostEboGui Study Grp
+TI Depressive symptoms among survivors of Ebola virus disease in Conakry
+   (Guinea): preliminary results of the PostEboGui cohort
+SO BMC PSYCHIATRY
+LA English
+DT Article
+ID NORTHERN UGANDA; SIERRA-LEONE; SEQUELAE
+AB Background: The 2013-2016 West African Ebola outbreak infected 28,616 people and caused 11,310 deaths by 11 May 2016, across six countries. The outbreak has also resulted in the largest number of EVD survivors in history-over 17,000. Guinea was declared Ebola-free on 1 June 2016. Reports from the outbreak documented 3814 cases resulting in 2544 deaths and 1270 survivors. EVD survivors face various neuropsychological and psycho-affective alterations that have not been fully identified yet. This study aims to document the depressive symptoms among adult survivors in Guinea.
+   Methods: Depressive symptoms were investigated using the French version of the Center for Epidemiologic Studies-Depression Scale (CES-D) administered to all adult survivors (>= 20 years) participating in the PostEboGui study and receiving care in Conakry. The study was combined with a clinical consultation by a psychiatrist at the Donka National Hospital in Conakry that ensured adapted care was provided when needed.
+   Results: Overall, 256 adult participants receiving care in Conakry participated in this study: 55% were women, median age 31 years [IQR: 26-40]. The median time since the Ebola Treatment Center (ETC) discharge was 8. 1 months [IQR: 4.1-11.7]. 15% had a score above the threshold values indicating psychological suffering (15% for men and 14% for women). 33 people (16 women and 17 men) met with the psychiatrist, which resulted in the diagnosis of 3 cases of post-traumatic stress disorder (PTSD), 3 cases of mild depression, 13 cases of moderate depression, and 11 cases of severe depression, including 1 with kinesthetic hallucinations and another with visual hallucinations, and 1 with suicidal ideation and 3 with attempted suicide. Severe depression was diagnosed between 1 and 19 months after ETC discharge. The various identified forms of depression responded favorably to conventional drug therapies and cognitive behavioral therapy.
+   Conclusion: Long-term follow-up for EVD survivors will be necessary to understand the evolution of these pathologies. In the current post-epidemic context, these cases underscore the need to strengthen mental health diagnostic systems and treatment on a national scale.
+C1 [Keita, Mamady Mory; Savane, Sekou Sy; Doukoure, Morifode] Univ Med Ctr Conakry, Donka Natl Hosp, Psychiat Unit, BP 925, Conakry, Guinea.
+   [Taverne, Bernard; March, Laura; Toure, Abdoulaye; Etard, Jean Francois; Delaporte, Eric] Univ Montpellier, Inst Rech Dev, INSERM, IRD,UMI 233,U 1175, 911 Ave Agropolis,BP 6450134394, Montpellier 5, France.
+   [Taverne, Bernard] Univ Teaching Hosp CHU Fann, Ctr Reg Rech & Format Charge Clin Fann CRCF, Dakar, Senegal.
+   [Sow, Mamadou Saliou; Barry, Moumie] Univ Med Ctr Conakry, Donka Natl Hosp, Dept Infect Dis, BP 925, Conakry, Guinea.
+   [Toure, Abdoulaye] Conakry Univ, Dept Publ Hlth, Conakry, Guinea.
+C3 Institut National de la Sante et de la Recherche Medicale (Inserm);
+   Universite de Montpellier; Institut de Recherche pour le Developpement
+   (IRD)
+RP Taverne, B (corresponding author), Univ Montpellier, Inst Rech Dev, INSERM, IRD,UMI 233,U 1175, 911 Ave Agropolis,BP 6450134394, Montpellier 5, France.; Taverne, B (corresponding author), Univ Teaching Hosp CHU Fann, Ctr Reg Rech & Format Charge Clin Fann CRCF, Dakar, Senegal.
+EM Bernard.Taverne@ird.fr
+RI Etard, Jean François/A-9630-2008; Keita, Alpha/A-9454-2015; KEITA, Alpha
+   Kabinet/AAR-1586-2020; Etard, Jean-Francois/V-4865-2019; Delaporte,
+   Eric/J-5397-2018; Ayouba, Ahidjo/G-8775-2017; Abel, Laurent/H-8888-2017
+OI Etard, Jean François/0000-0002-4873-0788; Keita,
+   Alpha/0000-0003-4377-341X; KEITA, Alpha Kabinet/0000-0003-4377-341X;
+   Etard, Jean-Francois/0000-0002-4873-0788; Delaporte,
+   Eric/0000-0002-1822-9853; Ayouba, Ahidjo/0000-0002-5081-1632; March,
+   Laura/0000-0003-1568-3812; Toure, Abdoulaye/0000-0003-2269-6611; Baize,
+   Sylvain/0000-0002-3234-7477; Abel, Laurent/0000-0001-7016-6493; Taverne,
+   Bernard/0000-0002-3708-5883; Lacabaratz, Christine/0000-0001-6925-0225
+FU French Interministerial Ebola Task Force; French National Institute for
+   Health and Medical Research (Institut national de la sante et de la
+   recherche medicale; Inserm); Research Institute for Development
+   (Institut de recherche pour le developpement; IRD)
+FX This work was supported by the French Interministerial Ebola Task Force,
+   the French National Institute for Health and Medical Research (Institut
+   national de la sante et de la recherche medicale; Inserm), and the
+   Research Institute for Development (Institut de recherche pour le
+   developpement; IRD).
+NR 23
+TC 59
+Z9 65
+U1 0
+U2 14
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD APR 4
+PY 2017
+VL 17
+AR 127
+DI 10.1186/s12888-017-1280-8
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EQ9RZ
+UT WOS:000398423500006
+PM 28376850
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Whitehouse, H
+AF Whitehouse, Harvey
+TI Dying for the group: Towards a general theory of extreme self-sacrifice
+SO BEHAVIORAL AND BRAIN SCIENCES
+LA English
+DT Article
+DE Identity fusion; imagistic practices; memory; rites of terror;
+   self-sacrifice; suicide terrorism; warfare
+ID SOCIAL-DOMINANCE ORIENTATION; PERCEIVED COLLECTIVE CONTINUITY; IDENTITY
+   FUSION; IN-GROUP; GROUP IDENTIFICATION; ULTIMATE SACRIFICE; INDIVIDUAL
+   SELF; SACRED VALUES; MOTIVATIONAL PRIMACY; DESTRUCTIVE KILLERS
+AB Whether upheld as heroic or reviled as terrorism, people have been willing to lay down their lives for the sake of their groups throughout history. Why? Previous theories of extreme self-sacrifice have highlighted a range of seemingly disparate factors, such as collective identity, outgroup hostility, and kin psychology. In this paper, I attempt to integrate many of these factors into a single overarching theory based on several decades of collaborative research with a range of special populations, from tribes in Papua New Guinea to Libyan insurgents and from Muslim fundamentalists in Indonesia to Brazilian football hooligans. These studies suggest that extreme self-sacrifice is motivated by identity fusion, a visceral sense of oneness with the group, resulting from intense collective experiences (e.g., painful rituals or the horrors of frontline combat) or from perceptions of shared biology. In ancient foraging societies, fusion would have enabled warlike bands to stand united despite strong temptations to scatter and flee. The fusion mechanism has often been exploited in cultural rituals, not only by tribal societies but also in specialized cells embedded in armies, cults, and terrorist organizations. With the rise of social complexity and the spread of states and empires, fusion has also been extended to much larger groups, including doctrinal religions, ethnicities, and ideological movements. Explaining extreme self-sacrifice is not only a scientific priority but also a practical challenge as we seek a collective response to suicide, terrorism, and other extreme expressions of outgroup hostility that continue to bedevil humanity today.
+C1 [Whitehouse, Harvey] Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+C3 University of Oxford
+RP Whitehouse, H (corresponding author), Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+EM harvey.whitehouse@anthro.ox.ac.uk
+OI Whitehouse, Harvey/0000-0001-6935-6724
+FU Large Grant from the UK's Economic and Social Research Council [REF
+   RES-060-25-467 0085]; European Research Council (ERC) under the European
+   Union [694986]; Templeton World Charity Foundation [TWCF0164]; ESRC
+   [ES/I005455/1] Funding Source: UKRI
+FX Thanks to Michael Buhrmester, Sergey Gavrilets, Rohan Kapitany,
+   Christopher Kavanagh, Jonathan Lanman, and the BBS reviewers for
+   comments and suggestions. This work was supported by a Large Grant from
+   the UK's Economic and Social Research Council (REF RES-060-25-467 0085),
+   an Advanced Grant from the European Research Council (ERC) under the
+   European Union's Horizon 2020 Research and Innovation Programme (Grant
+   Agreement 694986), and an award from the Templeton World Charity
+   Foundation entitled "Cognitive and Cultural Foundations of Religion and
+   Morality" (TWCF0164).
+NR 559
+TC 85
+Z9 90
+U1 1
+U2 65
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0140-525X
+EI 1469-1825
+J9 BEHAV BRAIN SCI
+JI Behav. Brain Sci.
+PY 2018
+VL 41
+AR e192
+DI 10.1017/S0140525X18000249
+PG 23
+WC Psychology, Biological; Behavioral Sciences; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Behavioral Sciences; Neurosciences & Neurology
+GA HL5SP
+UT WOS:000458790700073
+PM 29409552
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Türközer, Z
+   Güler, G
+   Seyhan, N
+AF Turkozer, Zerrin
+   Guler, Goknur
+   Seyhan, Nesrin
+TI Effects of exposure to 50Hz electric field at different strengths on
+   oxidative stress and antioxidant enzyme activities in the brain tissue
+   of guinea pigs
+SO INTERNATIONAL JOURNAL OF RADIATION BIOLOGY
+LA English
+DT Article
+DE extremely low frequency (ELF); electric field; oxidative stress;
+   antioxidant enzymes
+ID FREQUENCY ELECTROMAGNETIC-FIELDS; LIPID-PEROXIDATION;
+   OCCUPATIONAL-EXPOSURE; MAGNETIC-FIELDS; SUPEROXIDE-DISMUTASE;
+   ADENOSINE-DEAMINASE; UTILITY WORKERS; FREE-RADICALS; RAT-BRAIN; SUICIDE
+AB Purpose: The aim of this study was to evaluate the possible effects of varied exposure to 50Hz extremely low frequency (ELF) electric field (EF) on the lipid peroxidation levels and antioxidant enzyme activities in the brain homogenates of guinea pigs. Subjects were exposed to 2kV/m, 2.5kV/m, 3kV/m, 3.5kV/m, 4kV/m, 4.5kV/m and 5kV/m electric fields for three days, 8h a day in both vertical and horizontal directions.
+   Materials and methods: Malondialdehyde (MDA), superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GSH-Px) activities were measured in order to identify possible alterations in lipid peroxidation levels and antioxidant status due to electric field exposure. Xanthine oxidase (XO), myeloperoxidase (MPO) and adenosine deaminase (ADA) activities were also evaluated in the same samples.
+   Results: Although the study showed several positive but non-significant findings (p > 0.05), we did not find significant differences among all of the exposed groups and sham groups in lipid peroxidation levels and enzyme activities (p > 0.05) at all strengths and in both directions. Furthermore, the result was the same when the comparison was made between the groups in vertical directions and horizontal directions (p > 0.05).
+   Conclusion: The present study observed effects of 50Hz EF exposure on lipid peroxidation levels and antioxidant defense mechanisms but these were not statistically significant at the 95% confidence level. Further research on the effects ELF-EF exposure on lipid peroxidation levels and antioxidant defence mechanisms are warranted.
+C1 [Turkozer, Zerrin] Gazi Univ, Fac Med, Dept Biochem, Ankara, Turkey.
+   [Guler, Goknur; Seyhan, Nesrin] Gazi Univ, Fac Med, Dept Biophys, Ankara, Turkey.
+   [Guler, Goknur; Seyhan, Nesrin] Gazi Nonionizing Radiat Protect Ctr, Ankara, Turkey.
+C3 Gazi University; Gazi University
+RP Güler, G (corresponding author), Gazi Univ, Tip Fak Biyofiz Abd, Dekanl Binasi 5, TR-06510 Besevler, Turkey.
+EM gozturk@gazi.edu.tr
+NR 61
+TC 17
+Z9 17
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0955-3002
+EI 1362-3095
+J9 INT J RADIAT BIOL
+JI Int. J. Radiat. Biol.
+PY 2008
+VL 84
+IS 7
+BP 581
+EP 590
+DI 10.1080/09553000802203606
+PG 10
+WC Biology; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Nuclear Science &
+   Technology; Radiology, Nuclear Medicine & Medical Imaging
+GA 331GW
+UT WOS:000258001700005
+PM 18661374
+DA 2023-12-06
+ER
+
+PT J
+AU Iyer, R
+   Iken, B
+   Leon, A
+AF Iyer, Rupa
+   Iken, Brian
+   Leon, Alex
+TI Developments in alternative treatments for organophosphate poisoning
+SO TOXICOLOGY LETTERS
+LA English
+DT Review
+DE Bioscavengers; Nerve agent; Organophosphates; Oxime; Prophylactic
+ID HUMAN PARAOXONASE PON1; HUMAN BUTYRYLCHOLINESTERASE; FLAVOBACTERIUM SP;
+   NERVE AGENTS; GUINEA-PIGS; SRI-LANKA; OXIMES; TOXICITY; REACTIVATORS;
+   ATROPINE
+AB Organophosphosphates (OPs) are highly effective acetylcholinesterase (AChE) inhibitors that are used worldwide as cheap, multi-purpose insecticides. OPs are also used as chemical weapons forming the active core of G-series and V-series chemical agents including tabun, sarin, soman, cyclosarin, VX, and their chemical analogs. Human exposure to any of these compounds leads to neurotoxic accumulation of the neurotransmitter acetylcholine, resulting in abnormal nerve function and multiple secondary health complications. Suicide from deliberate exposure to OPs is particularly prevalent in developing countries across the world and constitutes a major global health crisis. The prevalence and accessible nature of OP compounds within modern agricultural spheres and concern over their potential use in biochemical weapon attacks have incentivized both government agencies and medical researchers to enact stricter regulatory policies over their usage and to begin developing more proactive medical treatments in cases of OP poisoning. This review will discuss the research undertaken in recent years that has investigated new supplementary drug options for OP treatment and support therapy, including progress in the development of enzymatic prophylaxis. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+C1 [Iyer, Rupa; Iken, Brian; Leon, Alex] Univ Houston, Ctr Life Sci Technol, Houston, TX 77204 USA.
+C3 University of Houston System; University of Houston
+RP Iyer, R (corresponding author), Univ Houston, Ctr Life Sci Technol, 300 Technol Bldg, Houston, TX 77204 USA.
+EM riyer@uh.edu
+NR 49
+TC 34
+Z9 36
+U1 0
+U2 75
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-4274
+EI 1879-3169
+J9 TOXICOL LETT
+JI Toxicol. Lett.
+PD MAR 4
+PY 2015
+VL 233
+IS 2
+BP 200
+EP 206
+DI 10.1016/j.toxlet.2015.01.007
+PG 7
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA CB4XI
+UT WOS:000349631300015
+PM 25595305
+DA 2023-12-06
+ER
+
+PT J
+AU Charlier, P
+   Coppens, Y
+   Malaurie, J
+   Brun, L
+   Kepanga, M
+   Hoang-Opermann, V
+   Calfin, JAC
+   Nuku, G
+   Ushiga, M
+   Schor, XE
+   Deo, S
+   Hassin, J
+   Hervé, C
+AF Charlier, P.
+   Coppens, Y.
+   Malaurie, J.
+   Brun, L.
+   Kepanga, M.
+   Hoang-Opermann, V.
+   Correa Calfin, J. A.
+   Nuku, G.
+   Ushiga, M.
+   Schor, X. E.
+   Deo, S.
+   Hassin, J.
+   Herve, C.
+TI A new definition of health? An open letter of autochthonous peoples and
+   medical anthropologists to the WHO
+SO EUROPEAN JOURNAL OF INTERNAL MEDICINE
+LA English
+DT Article
+DE Public health; Wellbeing; Ecology; Medical anthropology; Suicide
+AB Currently, formany practitioners (hospital and liberals) and researchers (including public health), the WHO definition of health is outdated: first it seems more utopian than pragmatic; then, it proves unsuitable for a large part of the world population. There is clearly a need to refine this definition or propose additional criteria to be more relevant or discriminating. In this perspective, what can indigenous people offer in the elaboration of a new definition of health?
+   In this article, leaders or representatives of autochthonous peoples, anthropologists and physicians from many cultural origins (Amazonia, Patagonia, Papua New-Guinea, Inuit, North-American Indian, sub-Saharan Africa, India, China, Melanesia and Polynesia) have tried to identify and explain several key concepts that WHO should reintegrate into its new definition of health: human equilibrium in nature, accepted spirituality and adaptation. On the sidelines of the application of COP21 decisions that should give back to man his place into the environment, autochthonous people leaders, anthropologists and MDs explain why these three concepts are fundamental and universal health determinants, and need to be included in a new WHO definition of health. (C) 2016 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved.
+C1 [Charlier, P.; Brun, L.; Hoang-Opermann, V.; Schor, X. E.] UVSQ, EA Paris Descartes 4569, UFR Hlth Sci, Sect Med & Forens Anthropol, 2 Ave Source Bievre, F-78180 Montigny Le Bretonneux, France.
+   [Charlier, P.; Hassin, J.; Herve, C.] Max Fourestier Hosp, CASH, Nanterre, France.
+   [Coppens, Y.] Coll France, Pl Marcelin Berthelot, F-75005 Paris, France.
+   [Malaurie, J.] EHESS, Ctr Arct Studies, F-75013 Paris, France.
+   [Brun, L.] Univ Hosp, Dept Pathol, Parakou, Benin.
+   [Kepanga, M.] Huli Commun, Highlands, Papua N Guinea.
+   [Hoang-Opermann, V.] Univ Hosp, Emergency Dept, Papeete, Tahiti, France.
+   [Correa Calfin, J. A.] Desarrollo Intercultural Chile, Mapuche Nation, Chile.
+   [Nuku, G.] Museum Nat Hist, Rouen, France.
+   [Ushiga, M.] Zapara Community, Zapara, Ecuador.
+   [Hassin, J.; Herve, C.] CASH, IPES, Nanterre, France.
+   [Hassin, J.; Herve, C.] Paris X Univ, Nanterre, France.
+   [Herve, C.] EA 4569 Paris Descartes, Lab Med Eth, 45 Rue Saints Peres, F-75006 Paris, France.
+C3 Universite Paris Cite; Universite Paris Saclay; Universite PSL; College
+   de France; Museum National d'Histoire Naturelle (MNHN); Universite Paris
+   Cite
+RP Charlier, P (corresponding author), UVSQ, EA Paris Descartes 4569, UFR Hlth Sci, Sect Med & Forens Anthropol, 2 Ave Source Bievre, F-78180 Montigny Le Bretonneux, France.
+EM philippe.charlier@uvsq.fr; yves.coppens@collegedefrance.fr;
+   jean.malaurie@ehess.fr; lbrun2013@gmail.com; marcdozier@free.fr;
+   van.hoangoppermann@gmail.com; contacto@desarrollointerculturalchile.org;
+   georgenuku@hotmail.com; luciaruelvilla@gmail.com;
+   saudaminideo01@gmail.com; jacques.hassin@ch-nanterre.fr;
+   christian.herve@parisdescartes.fr
+OI Brun, luc Valere C./0000-0002-6024-3982
+NR 18
+TC 19
+Z9 22
+U1 0
+U2 21
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0953-6205
+EI 1879-0828
+J9 EUR J INTERN MED
+JI Eur. J. Intern. Med.
+PD JAN
+PY 2017
+VL 37
+BP 33
+EP 37
+DI 10.1016/j.ejim.2016.06.027
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA EK5LG
+UT WOS:000393967300031
+PM 27394926
+DA 2023-12-06
+ER
+
+PT J
+AU Peckys, D
+   Hurd, YL
+AF Peckys, D
+   Hurd, YL
+TI Prodynorphin and κ opioid receptor mRNA expression in the cingulate and
+   prefrontal cortices of subjects diagnosed with schizophrenia or
+   affective disorders
+SO BRAIN RESEARCH BULLETIN
+LA English
+DT Article
+DE opioid neuropeptide; major depression; bipolar disorder;
+   psychostimulants; in situ hybridization
+ID MESSENGER-RNA EXPRESSION; GUINEA-PIG BRAIN; NUCLEUS-ACCUMBENS; BIPOLAR
+   DISORDER; DOPAMINE RELEASE; STRIATAL NEURONS; OPIATE RECEPTOR;
+   SUBSTANCE-P; DYNORPHIN-A; C-FOS
+AB The present study examined the prodynorphin and kappa opioid receptor mRNA expression levels in the anterior cingulate and dorsolateral prefrontal cortices of subjects diagnosed with schizophrenia bipolar disorder, or major depression as compared with normal controls without a psychiatric diagnosis. Multivariate analyses failed to reveal any differences in the mRNA expression levels between the four diagnostic groups, though a group trend (non-significant) was evident for the expression of the kappa opioid receptor and prodynorphin mRNAs in the prefrontal cortex. The mRNA expression levels were not associated with lifetime history of antipsychotic treatment or with suicide as a cause of death. The results, however, suggested an influence of certain drugs of abuse on the prodynorphin cortical mRNA expression. Prodynorphin mRNA expression levels were found to be elevated in individuals with a history of marihuana or stimulant use, but not alcohol. Overall, our data do not provide strong evidence for impaired prodynorphin or kappa opioid receptor mRNA levels in the dorsolateral prefrontal or cingulate cortices of schizophrenic, bipolar disorder, or major depressed subjects. (C) 2001 Elsevier Science Inc.
+C1 Karolinska Inst, Karolinska Hosp, Dept Clin Neurosci, Psychiat Sect, S-17176 Stockholm, Sweden.
+   Univ Freiburg, Dept Psychiat, Freiburg, Germany.
+C3 Karolinska Institutet; Karolinska University Hospital; University of
+   Freiburg
+RP Hurd, YL (corresponding author), Karolinska Inst, Karolinska Hosp, Dept Clin Neurosci, Psychiat Sect, S-17176 Stockholm, Sweden.
+RI Peckys, Diana B./B-4642-2015
+OI Peckys, Diana/0000-0002-2972-9714
+NR 60
+TC 44
+Z9 47
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0361-9230
+J9 BRAIN RES BULL
+JI Brain Res. Bull.
+PD JUL 15
+PY 2001
+VL 55
+IS 5
+BP 619
+EP 624
+DI 10.1016/S0361-9230(01)00525-1
+PG 6
+WC Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology
+GA 477CP
+UT WOS:000171265800007
+PM 11576758
+DA 2023-12-06
+ER
+
+PT J
+AU Olney, JW
+AF Olney, JW
+TI New insights and new issues in developmental neurotoxicology
+SO NEUROTOXICOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 8th Meeting of the International-Neurotoxicology-Association
+CY JUN 17-22, 2001
+CL ESTORIL, PORTUGAL
+SP Int Neurotoxicol Assoc, US EPA, Junta Turismo Costa Estoril, Monsanto, Fdn Ciencia & Technol, Univ Lisboa, Natl Inst Occupat Safety & Hlth, Banco Portugues Negocios, Fac Farmacia Lisboa, CEFIC LRI European Chem Council, Fdn Calouste Gulbenkian, Eastman Kodak, Minist Educ, Fdn Luso Amer Desenvolvimento, ICCTI British Council
+DE NMDA receptors; GABA(A) receptors; synaptogenesis; apoptosis; ethanol;
+   phencyclidine; ketamine; barbiturates; benzodiazepines; anesthetics
+ID METHYL-D-ASPARTATE; EXCITATORY AMINO-ACIDS; APOPTOTIC NEURODEGENERATION;
+   CELL-DEATH; NMDA ANTAGONIST; NITROUS-OXIDE; BRAIN-DAMAGE; RAT; NECROSIS;
+   ETHANOL
+AB Here, I will review accumulating evidence that during the developmental period of synaptogenesis, also known as the brain growth spurt period, neurons are very sensitive to specific disturbances in their synaptic environment. During this period abnormal increases in NMDA glutamate (Glu) receptor activity triggers excitotoxic neurodegeneration, and abnormal inhibition of neuronal activity (by blockade of NMDA Glu receptors or excessive activation of GABA(A) receptors) triggers neuronal suicide (apoptosis). Only a transient disturbance, lasting for a few hours, is sufficient to trigger either excitotoxic or apoptotic neurodegeneration during this developmental period. Ethanol, which has both NMDA antagonist and GABAmimetic properties, triggers widespread apoptotic neurodegeneration in the developing rat, mouse or guinea pig brain, and this provides a likely explanation for the reduced brain mass and lifelong neurobehavioral disturbances associated with the human fetal alcohol syndrome (FAS). The brain growth spurt occurs in different species at different times relative to birth. In rats and mice it is a postnatal event, but in humans it extends from the 6th month of gestation to several years after birth. Thus, there is a period in fetal and neonatal human development, lasting for several years, during which immature central nervous system (CNS) neurons are exquisitely sensitive to environmental agents (the specific number and variety of which remains to be established) that can trigger widespread neurodegeneration by inducing specific abnormal changes in the synaptic environment. Agents identified thus far include drugs that may be abused by pregnant mothers (ethanol, phencyclidine (PCP) (angel dust), ketamine (Special K), nitrous oxide (laughing gas), barbiturates, benzodiazepines) and many medicinals used in obstetric and pediatric medicine as sedatives, anti-convulsants or anesthetics (all general anesthetics are either NMDA antagonists or GABAmimetics). Many other chemicals in the human environment remain to be evaluated for their ability to cause developing CNS neurons to commit suicide, and this provides an exciting challenge for the field of developmental neurotoxicology. (C) 2002 Elsevier Science Inc. All rights reserved.
+C1 Washington Univ, Sch Med, Dept Psychiat, St Louis, MO 63110 USA.
+   Washington Univ, Sch Med, Dept Pathol, St Louis, MO 63110 USA.
+C3 Washington University (WUSTL); Washington University (WUSTL)
+RP Olney, JW (corresponding author), Washington Univ, Sch Med, Dept Psychiat, St Louis, MO 63110 USA.
+EM olneyj@psychiatry.wustl.edu
+FU NEI NIH HHS [EY 08089] Funding Source: Medline; NIA NIH HHS [AG 11355]
+   Funding Source: Medline; NICHD NIH HHS [HD 37100] Funding Source:
+   Medline; NIDA NIH HHS [DA 05072] Funding Source: Medline
+NR 68
+TC 137
+Z9 162
+U1 2
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0161-813X
+EI 1872-9711
+J9 NEUROTOXICOLOGY
+JI Neurotoxicology
+PD DEC
+PY 2002
+VL 23
+IS 6
+BP 659
+EP 668
+AR PII S0161-813X(01)00092-4
+DI 10.1016/S0161-813X(01)00092-4
+PG 10
+WC Neurosciences; Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Toxicology
+GA 629DB
+UT WOS:000180034200002
+PM 12520755
+DA 2023-12-06
+ER
+
+PT J
+AU Pinet, C
+   Algalarrondo, V
+   Sablayrolles, S
+   Le Grand, B
+   Pignier, C
+   Cussac, D
+   Perez, M
+   Hatem, SN
+   Coulombe, A
+AF Pinet, Caroline
+   Algalarrondo, Vincent
+   Sablayrolles, Sylvie
+   Le Grand, Bruno
+   Pignier, Christophe
+   Cussac, Didier
+   Perez, Michel
+   Hatem, Stephane N.
+   Coulombe, Alain
+TI Protease-activated receptor-1 mediates thrombin-induced persistent
+   sodium current in human cardiomyocytes
+SO MOLECULAR PHARMACOLOGY
+LA English
+DT Article
+ID HUMAN VENTRICULAR CARDIOMYOCYTES; MYOCARDIAL-ISCHEMIA; NA+ CHANNEL;
+   MYOCYTES; CALCIUM; HEART; LYSOPHOSPHATIDYLCHOLINE; DYSFUNCTION;
+   REPERFUSION; ANTAGONISTS
+AB After the thrombus formation in cardiac cavities or coronaries, the serine protease thrombin is produced and can therefore reach the myocardial tissue by the active process of extravasation and binds to the G protein-coupled protease-activated receptor-1 (PAR1) expressed in human myocardium. The role of PAR1 was investigated in the thrombin effect on sodium current (I-Na). I-Na was recorded in freshly isolated human atrial myocytes by the whole-cell patch-clamp method. Action potentials (AP) were recorded in guinea pig ventricular tissue by the conventional glass microelectrode technique. Thrombin-activated PAR1 induced a tetrodotoxin-blocked persistent sodium current, I-NaP, in a concentration-dependent manner with an apparent EC50 of 28 U/ml. The PAR1 agonist peptide SFLLR-NH2 (50 mu M) was able to mimic PAR1-thrombin action, whereas PAR1 antagonists N-3-cyclopropyl-7-((4-(1-methylethyl)phenyl) methyl)-7H-pyrrolo(3,2-f)quinazoline-1,3-diamine (SCH 203099; 10 mu M) and 1-(3,5-di-tert-butyl-4-hydroxy-phenyl)-2-3-(3-ethyl-3-hydroxy-pentyl)-2-imino-2,3-dihydro-imidazol-1yl]-ethanone (ER 112787) (1 mu M), completely inhibited it. The activated PAR1 involves the calcium-independent phospholipase-A(2) signaling pathway because two inhibitors of this cascade, bromoenol lactone (50 mu M) and haloenol lactone suicide substrate (50 mu M), block PAR1-thrombin-induced I-NaP. As a consequence of I-NaP activation, in guinea pig right ventricle papillary muscle, action potential duration (APD) were significantly increased by 20% and 15% under the respective action of 32 U/ml thrombin and 50 mu M SFLLR-NH2, and these increases in APD were prevented by 1 mu M tetrodotoxin or markedly reduced by application of 1 mu M SCH 203099 or ER 112787. Thrombin, through PAR1 activation, increases persistent component of the Na+ current resulting in an uncontrolled sodium influx into the cardiomyocyte, which can contribute to cellular injuries observed during cardiac ischemia.
+C1 [Algalarrondo, Vincent; Hatem, Stephane N.; Coulombe, Alain] INSERM, U 621, F-75634 Paris 13, France.
+   [Pinet, Caroline] Hop Marie Lannelongue, Lab Rech Med, F-92350 Le Plessis Robinson, France.
+   [Pinet, Caroline] Univ Paris 11, CNRS, Unite 8162, Le Plessis Robinson, France.
+   [Algalarrondo, Vincent; Hatem, Stephane N.; Coulombe, Alain] Univ Paris 06, Unite Mixte Rech S621, Paris, France.
+   [Sablayrolles, Sylvie; Le Grand, Bruno; Pignier, Christophe; Cussac, Didier; Perez, Michel] Ctr Rech Pierre Fabre, Div Cardiovasc Dis 2, F-81106 Castres, France.
+C3 Institut National de la Sante et de la Recherche Medicale (Inserm);
+   Hopital Marie Lannelongue; Centre National de la Recherche Scientifique
+   (CNRS); Universite Paris Saclay; Sorbonne Universite
+RP Coulombe, A (corresponding author), INSERM, U 621, 91 Blvd Hop, F-75634 Paris 13, France.
+EM alain.coulombe@chups.jussieu.fr
+RI Hatem, Stephane/D-1016-2017; Algalarrondo, Vincent/HJY-6339-2023
+OI Algalarrondo, Vincent/0000-0001-5971-1235; hatem,
+   stephane/0000-0002-9790-0755
+NR 38
+TC 18
+Z9 18
+U1 0
+U2 3
+PU AMER SOC PHARMACOLOGY EXPERIMENTAL THERAPEUTICS
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3995 USA
+SN 0026-895X
+J9 MOL PHARMACOL
+JI Mol. Pharmacol.
+PD JUN
+PY 2008
+VL 73
+IS 6
+BP 1622
+EP 1631
+DI 10.1124/mol.107.043182
+PG 10
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 302QA
+UT WOS:000255982500005
+PM 18326052
+DA 2023-12-06
+ER
+
+PT J
+AU Xu, D
+   Wang, DP
+   Yang, XF
+   Cao, M
+   Yu, J
+   Wang, YL
+AF Xu, Dan
+   Wang, Depu
+   Yang, Xiaofeng
+   Cao, Meng
+   Yu, Jun
+   Wang, Yili
+TI Fusion of HPV L1 into <i>Shigella</i> surface IcsA: A new approach in
+   developing live attenuated <i>Shigella</i>-HPV vaccine
+SO ANTIVIRAL RESEARCH
+LA English
+DT Article
+DE Human papillomavirus vaccine; Shigella sonnei; Autotransporter; Genomic
+   integration
+ID HUMAN-PAPILLOMAVIRUS TYPE-16; VIRUS-LIKE PARTICLES; MAJOR CAPSID
+   PROTEIN; ENTEROTOXIGENIC ESCHERICHIA-COLI; IN-VITRO; INSECT CELLS;
+   FLEXNERI; IMMUNOGENICITY; CONSTRUCTION; INFECTION
+AB Despite the success of L1 virus-like particles (VLPs) vaccines in prevention of high-risk human papillomavirus (HPV) infection and cervical cancer, extraordinary high cost for the complete vaccination has impeded widespread use of the vaccine in resource-poor countries, where cervical cancers impose greater challenge. Presentation of HPV L1 protein by attenuated pathogenic bacteria through natural infection provides a promising low-cost and convenient alternative. Here, we describe the construction and characterization of attenuated L1-expressing Shigella vaccine candidate, by fusion of L1 into the autotransporter of Shigella sonnei, IcsA, an essential virulence factor responsible for actin-based motility. The functional a domain of IcsA was replaced by codon-optimized L1 gene with independent open reading frames (ORFs) facilitated by suicide vector pJCB12. The L1 gene was stabilized in the genome of recombinant S. sonnei with protein expression and assembly of VLPs in the bacterial cytoplasm. Through conjunctival route vaccination in guinea pigs, L1-containing S. sonnei was able to elicit specific immune response to HPV16 L1 VLP as well as bacterial antigens. The results demonstrated the feasibility of the novel stratagem to develop prophylactic Shigella-HPV vaccines. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Xu, Dan; Wang, Depu; Cao, Meng; Wang, Yili] Xi An Jiao Tong Univ, Sch Life Sci & Technol, Inst Canc Res, Xian 710061, Peoples R China.
+   [Xu, Dan; Yu, Jun] Univ Strathclyde, Strathclyde Inst Pharm & Biomed Sci, Glasgow, Lanark, Scotland.
+   [Yang, Xiaofeng] Xi An Jiao Tong Univ, Affiliated Hosp 1, Xian 710061, Peoples R China.
+C3 Xi'an Jiaotong University; University of Strathclyde; Xi'an Jiaotong
+   University
+RP Wang, YL (corresponding author), Xi An Jiao Tong Univ, Sch Life Sci & Technol, Inst Canc Res, Xian 710061, Peoples R China.
+EM wangyili@mail.xjtu.edu.cn
+RI wang, depu/GRY-2355-2022; Cao, Mengmeng/JFA-9946-2023; wang,
+   depu/GSN-8301-2022; cao, mengmeng/HJB-1637-2022
+FU National Natural Science Foundation of China [81072145]; Shaanxi
+   Provincial Innovation Foundation [2011KTCL03-18]; China Scholarship
+   Council
+FX This work is financed by The National Natural Science Foundation of
+   China (No. 81072145) and the Shaanxi Provincial Innovation Foundation
+   (No. 2011KTCL03-18). Dan Xu was a joint PhD student in Xi'an Jiaotong
+   University (Xi'an, China) and University of Strathclyde (Glasgow, UK)
+   supported by China Scholarship Council.
+NR 44
+TC 5
+Z9 6
+U1 1
+U2 22
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0166-3542
+EI 1872-9096
+J9 ANTIVIR RES
+JI Antiviral Res.
+PD FEB
+PY 2014
+VL 102
+BP 61
+EP 69
+DI 10.1016/j.antiviral.2013.12.003
+PG 9
+WC Pharmacology & Pharmacy; Virology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Virology
+GA AB0MG
+UT WOS:000331485900008
+PM 24333518
+DA 2023-12-06
+ER
+
+PT J
+AU Pullar, IA
+   Carney, SL
+   Colvin, EM
+   Lucaites, VL
+   Nelson, DL
+   Wedley, S
+AF Pullar, IA
+   Carney, SL
+   Colvin, EM
+   Lucaites, VL
+   Nelson, DL
+   Wedley, S
+TI LY367265, an inhibitor of the 5-hydroxytryptamine transporter and
+   5-hydroxytryptamine<sub>2A</sub> receptor antagonist:: a comparison with
+   the antidepressant, nefazodone
+SO EUROPEAN JOURNAL OF PHARMACOLOGY
+LA English
+DT Article
+DE 5-HT transporter; 5-HT2A receptor; nefazodone
+ID POSITRON-EMISSION-TOMOGRAPHY; PLACEBO-CONTROLLED TRIAL; DOI-INDUCED
+   INHIBITION; EEG POWER SPECTRA; MAJOR DEPRESSION; 5-HT2 RECEPTORS; F-18
+   SETOPERONE; SUICIDE VICTIMS; SLEEP STAGES; DOUBLE-BLIND
+AB The potential antidepressant, LY367265 (1-[2-[4-(6-fluoro-1H-indol-3-yl)-3,6-dihydro-1(2H)-pyridinyl]ethyl]-5,6-dihydro-1H,4H-[1,2,5]thiadiazolo[4.3.2-ij]quinoline-3.2 has been shown to have a higher affinity fur the 5-hydroxytryptamine (5-HT) transporter (K-i = 2.3 nM) acid 5-HT2A (K-i = 0.81 nM) receptor than the clinically effective antidepressant, nefazodone. It is a potent inhibitor of [H-3]5-HT uptake into rat cortical synaptosomes (IC50 = 3.1 nM) and shows selectivity over that for [H-3]noradrenaline (IC50 > 1000 nM). It potentiates potassium-induced [H-3]5-HT outflow from prelabelled guinea pig cortical slices both in the presence (EC50 = 950 nM) and absence (EC50 = 250 nM) of a saturating concentration of the 5-HT transport inhibitor, paroxetine, indicating a low level of activity at the 5-HT1B/1D autoreceptor. These studies indicate that LY367265 is a putative antidepressant which, because of its 5-HT2A receptor antagonist activity, has the potential to produce less sleep disturbance and sexual dysfunction than selective serotonin uptake inhibitors. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Eli Lilly & Co, Lilly Res Ctr Ltd, Windlesham GU20 6PH, Surrey, England.
+   Eli Lilly & Co, Lilly Corp Ctr, Lilly Res Labs, Indianapolis, IN 46285 USA.
+C3 Eli Lilly; Eli Lilly
+RP Pullar, IA (corresponding author), Eli Lilly & Co, Lilly Res Ctr Ltd, Erl Wood Manor, Windlesham GU20 6PH, Surrey, England.
+NR 42
+TC 48
+Z9 53
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-2999
+J9 EUR J PHARMACOL
+JI Eur. J. Pharmacol.
+PD OCT 27
+PY 2000
+VL 407
+IS 1-2
+BP 39
+EP 46
+DI 10.1016/S0014-2999(00)00728-7
+PG 8
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 370HW
+UT WOS:000165118300004
+PM 11050288
+DA 2023-12-06
+ER
+
+PT J
+AU Cryan, JF
+   Leonard, BE
+AF Cryan, JF
+   Leonard, BE
+TI 5-HT<sub>1A</sub> and beyond:: The role of serotonin and its receptors
+   in depression and the antidepressant response
+SO HUMAN PSYCHOPHARMACOLOGY-CLINICAL AND EXPERIMENTAL
+LA English
+DT Review
+ID BIPOLAR AFFECTIVE-DISORDER; IMIPRAMINE BINDING-SITES; PLACEBO-CONTROLLED
+   TRIAL; IN-VIVO MICRODIALYSIS; RAT DORSAL RAPHE; MAJOR DEPRESSION;
+   SUICIDE VICTIMS; FRONTAL-CORTEX; GUINEA-PIG; RELEASE INVIVO
+AB Since its discovery 50 years ago, the role of the indoleamine 5-HT (5-hydroxytryptamine; serotonin) in the pathogenesis of depression and in the mechanism of action of antidepressant drugs has been the subject of considerable research. Advances in molecular biology and radioligand techniques have led to the functional characterisation of at least 14 serotonin receptor subtypes. This classification has led to the development of selective compounds that have aided in the efforts of dissecting the complex role of 5-HT in depression and in mediating the antidepressant response. This review focuses largely on novel strategies of targeting specific 5-HT receptors subtypes, especially the presynaptic 5-HT1A and 5-HT1B/1D receptors. These subtypes are of primary importance in that they control the firing of the 5-HT neuron and the release of 5-HT. In addition, a number of postsynaptic 5-HT receptors have been shown to be dysfunctional in depression and are also potential targets for a number of antidepressants. We conclude that selective targeting of 5-HT receptors may lead to a faster acting and more efficient antidepressant response. Copyright (C) 2000 John Wiley & Sons, Ltd.
+C1 Natl Univ Ireland Univ Coll Galway, Dept Pharmacol, Galway, Ireland.
+C3 Ollscoil na Gaillimhe-University of Galway
+RP Cryan, JF (corresponding author), Univ Penn, Dept Pharmacol, 320 John Morgan Bldg,Mailcode 6084,3620 Hamilton, Philadelphia, PA 19104 USA.
+EM cryan@pharm.med.upenn.edu
+RI Cryan, John F./A-6950-2013
+OI Cryan, John F./0000-0001-5887-2723
+NR 247
+TC 123
+Z9 128
+U1 0
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6222
+EI 1099-1077
+J9 HUM PSYCHOPHARM CLIN
+JI Hum. Psychopharmacol.-Clin. Exp.
+PD MAR
+PY 2000
+VL 15
+IS 2
+BP 113
+EP 135
+DI 10.1002/(SICI)1099-1077(200003)15:2<113::AID-HUP150>3.0.CO;2-W
+PG 23
+WC Clinical Neurology; Pharmacology & Pharmacy; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Psychiatry;
+   Psychology
+GA 308BF
+UT WOS:000086688100006
+DA 2023-12-06
+ER
+
+PT J
+AU Karger, B
+   Bratzke, H
+   Grass, H
+   Lasczkowski, G
+   Lessig, R
+   Monticelli, F
+   Wiese, J
+   Zweihoff, RF
+AF Karger, B
+   Bratzke, H
+   Grass, H
+   Lasczkowski, G
+   Lessig, R
+   Monticelli, F
+   Wiese, J
+   Zweihoff, RF
+TI Crossbow homicides
+SO INTERNATIONAL JOURNAL OF LEGAL MEDICINE
+LA English
+DT Article
+DE crossbow; injury pattern; homicide; arrowhead
+ID PAPUA-NEW-GUINEA; ARROW WOUNDS; INJURY; EXPERIENCE; MENINGITIS; SUICIDE;
+   BOLT; HEAD
+AB A total of eight cases of homicide by crossbow are reported, including six intentional, assault-like killings and one hired killer. The bolts showed a high penetration capacity despite the rather low kinetic energy (< 100 J): a field-tip traversed one upper arm and the thorax ( 36 cm) and two broadheads caused perforating injuries of the thorax ( 25 - 26 cm). This was due to the high sectional density and the split-like penetration mechanism. Wound morphology was especially important if the perpetrator had extracted the bolt, which occurred in half of the cases. The shape of the entrance wound depended on the type of arrowhead: broadheads produced star-shaped to triangular wounds, field-tips caused circular, oval or slit-like injuries. Foreign material from the arrowhead was found inside two injuries. In assaults, the crossbow was used to hunt the victim down from a short distance which does not require practice but still has the advantage of a distance weapon. However, immediate incapacitation occurred rarely so that additional violence was frequently applied. The noiseless character of the weapon explains why many victims were taken by surprise and why the corpses initially remained unnoticed. Crossbows can therefore be considered ideal weapons for man hunting and some were bought for the very purpose of the killing.
+C1 Univ Munster, Inst Legal Med, D-48149 Munster, Germany.
+   Univ Frankfurt, Inst Legal Med, D-6000 Frankfurt, Germany.
+   Univ Cologne, Inst Legal Med, D-5000 Cologne, Germany.
+   Univ Giessen, Inst Legal Med, D-35390 Giessen, Germany.
+   Univ Leipzig, Inst Legal Med, Leipzig, Germany.
+   Univ Munich, Inst Legal Med, D-80539 Munich, Germany.
+   State Inst Legal & Social Med, Berlin, Germany.
+   Inst Legal Med, Dortmund, Germany.
+C3 University of Munster; Goethe University Frankfurt; University of
+   Cologne; Justus Liebig University Giessen; Leipzig University;
+   University of Munich
+RP Karger, B (corresponding author), Univ Munster, Inst Legal Med, Rontgenstr 23, D-48149 Munster, Germany.
+EM karger@uni-muenster.de
+NR 33
+TC 23
+Z9 25
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0937-9827
+J9 INT J LEGAL MED
+JI Int. J. Legal Med.
+PD DEC
+PY 2004
+VL 118
+IS 6
+BP 332
+EP 336
+DI 10.1007/s00414-004-0474-z
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 868BU
+UT WOS:000224888200004
+PM 15351888
+DA 2023-12-06
+ER
+
+PT J
+AU Liao, SM
+   Sun, AH
+   Ojcius, DM
+   Wu, SL
+   Zhao, JF
+   Yan, J
+AF Liao, Sumei
+   Sun, Aihua
+   Ojcius, David M.
+   Wu, Senlin
+   Zhao, Jinfang
+   Yan, Jie
+TI Inactivation of the <i>fliY</i> gene encoding a flagellar motor switch
+   protein attenuates mobility and virulence of <i>Leptospira
+   interrogans</i> strain Lai
+SO BMC MICROBIOLOGY
+LA English
+DT Article
+ID ESCHERICHIA-COLI; III SECRETION; C-RING; APOPTOSIS; MACROPHAGES;
+   INVASION; MOTILITY; ADHESION; INDUCTION; INFECTION
+AB Background: Pathogenic Leptospira species cause leptospirosis, a zoonotic disease of global importance. The spirochete displays active rotative mobility which may contribute to invasion and diffusion of the pathogen in hosts. FliY is a flagellar motor switch protein that controls flagellar motor direction in other microbes, but its role in Leptospira, and paricularly in pathogenicity remains unknown.
+   Results: A suicide plasmid for the fliY gene of Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai strain Lai that was disrupted by inserting the ampicillin resistance gene (bla) was constructed, and the inactivation of fliY gene in a mutant (fliY-) was confirmed by PCR and Western Blot analysis. The inactivation resulted in the mRNA absence of fliP and fliQ genes which are located downstream of the fliY gene in the same operon. The mutant displayed visibly weakened rotative motion in liquid medium and its migration on semisolid medium was also markedly attenuated compared to the wild-type strain. Compared to the wild-type strain, the mutant showed much lower levels of adhesion to murine macrophages and apoptosis-inducing ability, and its lethality to guinea pigs was also significantly decreased.
+   Conclusion: Inactivation of fliY, by the method used in this paper, clearly had polar effects on downstream genes. The phentotypes observed, including lower pathogenicity, could be a consequence of fliY inactivation, but also a consequence of the polar effects.
+C1 [Liao, Sumei; Zhao, Jinfang; Yan, Jie] Zhejiang Univ, Coll Med, Dept Med Microbiol & Parasitol, Hangzhou 310058, Zhejiang, Peoples R China.
+   [Liao, Sumei] Zhejiang Univ, Coll Life Sci, Hangzhou 310058, Zhejiang, Peoples R China.
+   [Sun, Aihua; Wu, Senlin] Zhejiang Med Coll, Hangzhou 310053, Zhejiang, Peoples R China.
+   [Ojcius, David M.] Univ Calif, Hlth Sci Res Inst, Merced, CA 95343 USA.
+   [Ojcius, David M.] Univ Calif, Sch Nat Sci, Merced, CA 95343 USA.
+C3 Zhejiang University; Zhejiang University; University of California
+   System; University of California Merced; University of California
+   System; University of California Merced
+RP Yan, J (corresponding author), Zhejiang Univ, Coll Med, Dept Med Microbiol & Parasitol, Hangzhou 310058, Zhejiang, Peoples R China.
+EM lsmplum@yahoo.com.cn; sunah@zjmc.net.cn; dojcius@ucmerced.edu;
+   keyanchu1999@126.com; 3021851002@zju.edu.cn; med_bp@zju.edu.cn
+RI Liao, Sumei/E-6589-2015; yan, jie/HNJ-0097-2023; yan, jy/ISS-1790-2023;
+   Ojcius, David/ABE-6557-2020
+FU National Natural Science Foundation of China [30370072]; Natural
+   Scientific National Foundation of Zhejiang Medical College of China
+   [2007XZA02]
+FX This work was supported by a Grant (30370072) from the National Natural
+   Science Foundation of China and a grant (2007XZA02) from the Natural
+   Scientific National Foundation of Zhejiang Medical College of China. We
+   are grateful to Dr. Tanya Parish and Dr. Amanda C. Brown (Center for
+   Infectious Disease, Institute for Cell and Molecular Science, Queen
+   Mary's School of Medicine and Dentistry, UK) for having graciously
+   provided the plasmid p2NIL used in this study.
+NR 60
+TC 64
+Z9 75
+U1 0
+U2 8
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2180
+J9 BMC MICROBIOL
+JI BMC Microbiol.
+PD DEC 9
+PY 2009
+VL 9
+AR 253
+DI 10.1186/1471-2180-9-253
+PG 10
+WC Microbiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Microbiology
+GA 535YN
+UT WOS:000273008000002
+PM 20003186
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-06
+ER
+
+PT J
+AU Li, B
+   Ricordel, I
+   Schopfer, LM
+   Baud, F
+   Mégarbane, B
+   Nachon, F
+   Masson, P
+   Lockridge, O
+AF Li, Bin
+   Ricordel, Ivan
+   Schopfer, Lawrence M.
+   Baud, Frederic
+   Megarbane, Bruno
+   Nachon, Florian
+   Masson, Patrick
+   Lockridge, Oksana
+TI Detection of Adduct on Tyrosine 411 of Albumin in Humans Poisoned by
+   Dichlorvos
+SO TOXICOLOGICAL SCIENCES
+LA English
+DT Article
+DE organophosphorus toxicant; albumin; butyrylcholinesterase; mass
+   spectrometry
+ID CHLORPYRIFOS-OXON; PESTICIDE APPLICATORS; ACYLPEPTIDE HYDROLASE;
+   MASS-SPECTROMETRY; AXONAL-TRANSPORT; SERUM-ALBUMIN; EXPOSURE;
+   BUTYRYLCHOLINESTERASE; CHOLINESTERASE; INHIBITION
+AB Studies in mice and guinea pigs have shown that albumin is a new biomarker of organophosphorus toxicant (OP) and nerve agent exposure. Our goal was to determine whether OP-labeled albumin could be detected in the blood of humans exposed to OP. Blood from four OP-exposed patients was prepared for mass spectrometry analysis by digesting 0.010 ml of serum with pepsin and purifying the labeled albumin peptide by offline high performance liquid chromatography. Dimethoxyphosphate-labeled tyrosine 411 was identified in albumin peptides VRY(411)TKKVPQVSTPTL and LVRY(411)TKKVPQVSTPTL from two patients who had attempted suicide with dichlorvos. The butyrylcholinesterase activity in these serum samples was inhibited 80%. A third patient whose serum BChE activity was inhibited 8% by accidental inhalation of dichlorvos had undetectable levels of adduct on albumin. A fourth patient whose BChE activity was inhibited 60% by exposure to chlorpyrifos had no detectable adduct on albumin. This is the first report to demonstrate the presence of OP-labeled albumin in human patients. It is concluded that tyrosine 411 of human albumin is covalently modified in the serum of humans poisoned by dichlorvos and that the modification is detectable by mass spectrometry. The special reactivity of tyrosine 411 with OP suggests that other proteins may also be modified on tyrosine. Identification of other OP-modified proteins may lead to an understanding of neurotoxic symptoms that appear long after the initial OP exposure.
+C1 [Li, Bin; Schopfer, Lawrence M.; Masson, Patrick; Lockridge, Oksana] Univ Nebraska Med Ctr, Eppley Inst, Omaha, NE 68198 USA.
+   [Ricordel, Ivan] Inst Natl Police Sci, Lab Toxicol Prefecture Police, F-75012 Paris, France.
+   [Baud, Frederic; Megarbane, Bruno] Serv Reanimat Med & Toxicol, Dept Toxicol, F-75010 Paris, France.
+   [Baud, Frederic; Megarbane, Bruno] Univ Paris Diderot, Hop Lariboisiere, F-75010 Paris, France.
+   [Nachon, Florian; Masson, Patrick] Ctr Rech, Serv Sante Armees, Inst Rech Biomed Armees, F-38702 La Tronche, France.
+C3 University of Nebraska System; University of Nebraska Medical Center;
+   Assistance Publique Hopitaux Paris (APHP); Universite Paris Cite;
+   Hopital Universitaire Lariboisiere-Fernand-Widal - APHP
+RP Lockridge, O (corresponding author), Univ Nebraska Med Ctr, Eppley Inst, Omaha, NE 68198 USA.
+EM olockrid@unmc.edu
+RI Masson, Patrick/AAA-7213-2019; Masson, Patrick YM/J-3964-2013
+OI Masson, Patrick/0000-0002-7837-3662; Masson, Patrick
+   YM/0000-0002-7837-3662; Megarbane, Bruno/0000-0002-2522-2764
+FU U.S. Army Medical Research and Materiel Command [W81XWH-07-2-0034];
+   National Institutes of Health [U01 NS058056, CA36727]; Delegation
+   Generale pour l'Amement [DGA/PEA 03CO10-05/01 08 7, DGA/PEA 08CO501];
+   Agence Nationale de la Recherche [ANR-06-BLAN-0163, ANR-09-BLAN-0192];
+   Agence Nationale de la Recherche (ANR) [ANR-09-BLAN-0192] Funding
+   Source: Agence Nationale de la Recherche (ANR)
+FX The U.S. Army Medical Research and Materiel Command (W81XWH-07-2-0034 to
+   O.L.); the National Institutes of Health (U01 NS058056 to O.L.) and
+   CA36727; Delegation Generale pour l'Amement (DGA/PEA 03CO10-05/01 08 7
+   to P.M.) (DGA/PEA 08CO501 to F.N.); Agence Nationale de la Recherche
+   (ANR-06-BLAN-0163 and ANR-09-BLAN-0192 to F.N.).
+NR 44
+TC 41
+Z9 48
+U1 0
+U2 17
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1096-6080
+EI 1096-0929
+J9 TOXICOL SCI
+JI Toxicol. Sci.
+PD JUL
+PY 2010
+VL 116
+IS 1
+BP 23
+EP 31
+DI 10.1093/toxsci/kfq117
+PG 9
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 617XZ
+UT WOS:000279316500004
+PM 20395308
+OA Bronze, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Odagaki, Y
+   Toyoshima, R
+AF Odagaki, Y
+   Toyoshima, R
+TI Detailed pharmacological characterization of
+   5-HT<sub>1A</sub>-receptor-mediated [<SUP>35</SUP>S]GTPγS binding in rat
+   hippocampal membranes
+SO JOURNAL OF PHARMACOLOGICAL SCIENCES
+LA English
+DT Article
+DE 5-HT1A receptor; G protein; [S-35]GTP gamma S binding; hippocampus;
+   intrinsic activity
+ID RECEPTOR-MEDIATED ACTIVATION; G-PROTEIN ACTIVATION; INVERSE AGONIST
+   PROPERTIES; GAMMA-S BINDING; 5-HT1A RECEPTORS; GUINEA-PIG; CONSTITUTIVE
+   ACTIVITY; SUICIDE VICTIMS; CELL-LINES; BRAIN
+AB 5-HT-stimulated [S-35]GTP gamma S binding to rat hippocampal membranes was pharmacologically characterized. Signal/noise ratio or percent increase over basal was optimized with 100 mu M GDP, 2 - 10 mM MgCl2, and 150 - 200 mM NaCl. However, we preferred the standard condition (20,mu M GDP, 5 mM MgCl2, and 100 mM NaCl: Condition 1) to the alternative one (100 mu M GDP, 5 mM MgCl2, and 150 mM NaCl: Condition II) because 1) absolute values of basal and 5-HT-sensitive bindings decreased with higher concentrations of GDP and NaCl; 2) EC50 values determined under Condition II were 2 - 6 fold higher than those under Condition 1; 3) some partial agonists had less intrinsic activities in the presence of higher concentrations of GDP; and 4) Inhibitory effects of WAY100635 were complete under Condition 1, while incomplete under Condition II. Pharmacological profile of concentration-dependent stimulation by a series of 5-HT ligands and concentration-dependent inhibition of 5-HT-stimulated binding by several 5-HT-receptor antagonists clearly indicated that this response under Condition I was mediated solely through 5-HT1A receptors. Although caution should be paid especially to the apparent intrinsic activities susceptible to the assay conditions, this method appears useful to investigate functional coupling between 5-HT1A receptors and their coupled G proteins in native hippocampal membranes.
+C1 Saitama Med Sch, Dept Psychiat, Moroyama, Saitama 3500495, Japan.
+C3 Saitama Medical University
+RP Odagaki, Y (corresponding author), Saitama Med Sch, Dept Psychiat, 38 Morohongo, Moroyama, Saitama 3500495, Japan.
+EM odagaki@saitama-med.ac.jp
+NR 40
+TC 18
+Z9 19
+U1 0
+U2 0
+PU JAPANESE PHARMACOLOGICAL SOC
+PI KYOTO
+PA EDITORIAL OFF, KANTOHYA BLDG GOKOMACHI-EBISUGAWA NAKAGYO-KU, KYOTO, 604,
+   JAPAN
+SN 1347-8613
+EI 1347-8648
+J9 J PHARMACOL SCI
+JI J. Pharmacol. Sci.
+PD MAY
+PY 2005
+VL 98
+IS 1
+BP 66
+EP 76
+DI 10.1254/jphs.FPJ05010X
+PG 11
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 929CT
+UT WOS:000229320400009
+PM 15888961
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Cunningham, LL
+   Matsui, JI
+   Warchol, ME
+   Rubel, EW
+AF Cunningham, LL
+   Matsui, JI
+   Warchol, ME
+   Rubel, EW
+TI Overexpression of <i>Bcl-2</i> prevents neomycin-induced hair cell death
+   and caspase-9 activation in the adult mouse utricle <i>In vitro</i>
+SO JOURNAL OF NEUROBIOLOGY
+LA English
+DT Article
+DE hearing loss; apoptosis; mitochondria; ototoxicity; caspase
+ID VESTIBULAR SENSORY EPITHELIA; FREE-RADICAL FORMATION; CYTOCHROME-C;
+   GUINEA-PIG; INNER-EAR; APOPTOSIS; GENTAMICIN; MITOCHONDRIA; OTOTOXICITY;
+   RELEASE
+AB Mechanosensory hair cells of the inner ear are especially sensitive to death induced by exposure to aminoglycoside antibiotics. This aminoglycoside-induced hair cell death involves activation of an intrinsic program of cellular suicide. Aminoglycoside-induced hair cell death can be prevented by broadspectrum inhibition of caspases, a family of proteases that mediate apoptotic and programmed cell death in a wide variety of systems. More specifically, aminoglycoside-induced hair cell death requires activation of caspase-9. Caspase-9 activation requires release of mitochondrial cytochrome c into the cytoplasm, indicating that aminoglycoside-induced hair cell death is mediated by the mitochondrial (or "intrinsic") cell death pathway. The Bcl-2 family of pro-apoptotic and anti-apoptotic proteins are important upstream regulators of the mitochondrial apoptotic pathway. Bcl-2 is an anti-apoptotic protein that localizes to the mitochondria and promotes cell survival by preventing cytochrome c release. Here we have utilized transgenic mice that overexpress Bcl-2 to examine the role of Bcl-2 in neomycin-induced hair cell death. Overexpression of Bcl-2 significantly increased hair cell survival following neomycin exposure in organotypic cultures of the adult mouse utricle. Furthermore, Bcl-2 overexpression prevented neomycin-induced activation of caspase-9 in hair cells. These results suggest that the expression level of Bcl-2 has important effects on the pathway(s) important for the regulation of aminoglycoside-induced hair cell death. (C) 2004 Wiley Periodicals, Inc.
+C1 Univ Washington, Virginia Merrill Bloedel Hearing Res Ctr, Seattle, WA 98195 USA.
+   Univ Washington, Dept Otolaryngol Head & Neck Surg, Seattle, WA 98195 USA.
+   Washington Univ, Sch Med, Program Neurosci, Div Biol & Biomed Sci, St Louis, MO 63110 USA.
+   Washington Univ, Sch Med, Harold W Siebens Hearing Res Ctr, St Louis, MO 63110 USA.
+   Washington Univ, Sch Med, Cent Inst Deaf, Dept Otolaryngol, St Louis, MO 63110 USA.
+   Washington Univ, Sch Med, Dept Anat & Neurobiol, St Louis, MO 63110 USA.
+C3 University of Washington; University of Washington Seattle; University
+   of Washington; University of Washington Seattle; Washington University
+   (WUSTL); Washington University (WUSTL); Washington University (WUSTL);
+   Washington University (WUSTL)
+RP Rubel, EW (corresponding author), Univ Washington, Virginia Merrill Bloedel Hearing Res Ctr, Box 357923, Seattle, WA 98195 USA.
+EM rubel@u.washington.edu
+RI Cunningham, Lisa/AAH-9051-2020
+OI Matsui, Jonathan/0000-0002-0642-2461; Cunningham,
+   Lisa/0000-0001-5320-964X
+FU NIDCD NIH HHS [DC-05082, DC-04661, F31 DC005082-01, DC-03576, F31
+   DC005082-02, F31 DC005082, DC-00461, DC-02854] Funding Source: Medline
+NR 51
+TC 59
+Z9 73
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0022-3034
+J9 J NEUROBIOL
+JI J. Neurobiol.
+PD JUL
+PY 2004
+VL 60
+IS 1
+BP 89
+EP 100
+DI 10.1002/neu.20006
+PG 12
+WC Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology
+GA 830DO
+UT WOS:000222102000009
+PM 15188275
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU van Waarde, A
+   Vaalburg, W
+   Doze, P
+   Bosker, FJ
+   Elsinga, PH
+AF van Waarde, A
+   Vaalburg, W
+   Doze, P
+   Bosker, FJ
+   Elsinga, PH
+TI PET imaging of beta-adrenoceptors in human brain: A realistic goal or a
+   mirage?
+SO CURRENT PHARMACEUTICAL DESIGN
+LA English
+DT Review
+DE beta-adrenoceptors; positron emission tomography; human; brain;
+   depression; multiple sclerosis; radiopharmaceuticals; imaging
+ID POSITRON-EMISSION-TOMOGRAPHY; ADRENERGIC-RECEPTOR SUBTYPES; IN-VIVO
+   QUANTIFICATION; CENTRAL-NERVOUS-SYSTEM; RADIOLIGAND BINDING ASSAY;
+   DEPRESSED SUICIDE VICTIMS; PARTIAL AGONIST ACTIVITY; ALZHEIMER-TYPE
+   DEMENTIA; REVEALS HIGH-AFFINITY; GUINEA-PIG ATRIA
+AB Beta-adrenoceptors are predominantly located in the cerebral cortex, nucleus accumbens and striatum. At lower densities, they are also present in amygdala, hippocampus and cerebellum. Beta-2 sites regulate glial proliferation during ontogenic development, after trauma and in neurodegenerative diseases. The densities of beta-1 adrenoceptors are changed by stress, in several mood disorders (depression, excessive hostility, schizophrenia) and during treatment of patients with antidepressants.
+   A technique for beta-adrenoceptor imaging in the human brain is not yet available. Although 24 (ant)agonists have been labeled with either C-11 or F-18 and some of these are successful myocardial imaging agents, only two (S-1,-F-18-fluorocarazolol and S-1'-F-18-fluoroethylcarazolol) could actually visualize beta-adrenoceptors within the central nervous system. Unfortunately, these radiopharmaceuticals showed a positive Ames test. They may be mutagenic and cannot be employed for human studies.
+   Screening of more than 150 beta-blockers described in the literature yields only two compounds (exaprolol and L643,717) which can still be radiolabeled and evaluated for beta-adenoceptor imaging. However, other imaging techniques could be examined. Cerebral beta-adrenoceptors might be labeled after temporary opening of the blood-brain barrier (BBB) and simultaneous administration of a hydrophilic ligand such as S-C-11-CGP12388. Another approach to target beta-adrenoceptor ligands to the CNS is esterification of a myocardial imaging agent (such as C-11-CGP12177), resulting in a lipophilic prodrug which can cross the BBB and is split by tissue esterases. BBB opening is not feasible in healthy subjects, but the prodrug approach may be successful and deserves to be explored.
+C1 Univ Groningen Hosp, PET Ctr, NL-9700 RB Groningen, Netherlands.
+   Univ Groningen Hosp, Dept Biol Psychiat, NL-9700 RB Groningen, Netherlands.
+C3 University of Groningen; University of Groningen
+RP van Waarde, A (corresponding author), Univ Groningen Hosp, PET Ctr, POB 30001,Hanzeplein 1, NL-9700 RB Groningen, Netherlands.
+EM a.van.waarde@pet.azg.nl
+OI van Waarde, Aren/0000-0003-1183-1603
+NR 261
+TC 28
+Z9 31
+U1 1
+U2 8
+PU BENTHAM SCIENCE PUBL LTD
+PI SHARJAH
+PA EXECUTIVE STE Y-2, PO BOX 7917, SAIF ZONE, 1200 BR SHARJAH, U ARAB
+   EMIRATES
+SN 1381-6128
+EI 1873-4286
+J9 CURR PHARM DESIGN
+JI Curr. Pharm. Design
+PY 2004
+VL 10
+IS 13
+BP 1519
+EP 1536
+PG 18
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 815UE
+UT WOS:000221066400006
+PM 15134573
+DA 2023-12-06
+ER
+
+PT C
+AU Wen, YJ
+   Bai, M
+   Miao, MS
+AF Wen, Ya-juan
+   Bai, Ming
+   Miao, Ming-san
+BE AbdelHafez, AA
+   Sheng, J
+TI Analyze the Animal Model of Pruritus Based on Clinical Symptoms of
+   Chinese and Western Medicine
+SO PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON BIOMEDICAL AND
+   BIOLOGICAL ENGINEERING 2017 (BBE 2017)
+SE Advances in Biological Sciences Research
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Biomedical and Biological Engineering
+   (BBE)
+CY MAY 26-28, 2017
+CL Guilin, PEOPLES R CHINA
+DE Pruritus; Clinical features; Animal model
+AB Objective: Based on the characteristics of clinical symptoms of pruritus, analyze the relevant animal model, and then propose the evaluation and improvement. Method: According to the clinical diagnostic criteria of pruritus in Chinese and Western medicine, summarize the characteristics and modeling methods of the current pruritus mode, and analyze the coincidence between the existing animal models and clinical features of pruritus. Result: At present, the animal model of mice, guinea pig itch is almost used, which reflects the pathophysiological characteristics of clinical pruritus. However, it is lack of disease model which can reflect the clinical characteristics of TCM. Conclusion: It is the focus of the future research to establish a better combination of symptoms and signs and the index system of pruritus model. Pruritus is a kind of disease of self-conscious itching and clinical primary lesions, only scratches, blood scab or hypertrophy of leather change, which belongs to the category of Chinese medicine "itching wind". The symptoms of Pruritus relates to invasion of the skin such as wind, wet, heat, turbid evil, when there are also due to blood deficiency caused by dry wind. Clinically, it can be divided into systemic pruritus and localized pruritus. It's Common symptom is severe itching, which can be seen in the whole body or confined to the anus, scrotum or genitals. It's paroxysmal and itchs sharply, which is often aggravated at night and affects sleeping. Scratch scratches, blood stasis appear if you scratch excessively. It appears eczema, lichen and pigmentation over time, which can be seen in a variety of skin diseases, biliary diseases, thyroid disease, kidney disease, cancer and AIDS and other common diseases. Pruritus has high incidence rate. Through the report which investigates 1236 cases of elderly subjects, we can find it's 827 cases which suffers from skin itching cured accounting for 67%. Pruritus often affects the quality of life of patients, which leads to severe insomnia and then fatigue, fatigue, depression and even suicide. Modern research on pruritus has become the focus of medical research.
+C1 [Wen, Ya-juan; Bai, Ming; Miao, Ming-san] Henan Univ Chinese Med, Zhengzhou 450006, Henan, Peoples R China.
+C3 Henan University of Traditional Chinese Medicine
+RP Miao, MS (corresponding author), Henan Univ Chinese Med, Zhengzhou 450006, Henan, Peoples R China.
+EM wenyajuan1016@163.com; Miaomingsan@163.com
+FU National "Eleventh Five-Year" support program [2008BAI53B09]; Henan
+   Province outstanding scientific and technological innovation team
+   [TCJ2014-391]; Zhengzhou Municipal Science and Technology Innovation
+   Team Program [131PCXTD612]
+FX Supported by project grant from National "Eleventh Five-Year" support
+   program (2008BAI53B09); Henan Province outstanding scientific and
+   technological innovation team (TCJ2014-391); Zhengzhou Municipal Science
+   and Technology Innovation Team Program (131PCXTD612).
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ATLANTIS PRESS
+PI PARIS
+PA 29 AVENUE LAVMIERE, PARIS, 75019, FRANCE
+SN 2468-5747
+BN 978-94-6252-362-3
+J9 ADV BIO SCI RES
+PY 2017
+VL 4
+BP 146
+EP 151
+PG 6
+WC Chemistry, Medicinal; Engineering, Biomedical
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Pharmacology & Pharmacy; Engineering
+GA BM4OC
+UT WOS:000463699800024
+DA 2023-12-06
+ER
+
+PT J
+AU Liu, MQ
+   Liu, H
+   Sun, LL
+   Dong, J
+   Xue, Y
+   Chen, SX
+   Jin, Q
+AF Liu, MQ
+   Liu, H
+   Sun, LL
+   Dong, J
+   Xue, Y
+   Chen, SX
+   Jin, Q
+TI Construction, detection and microarray analysis on the <i>Shigella
+   flexneri</i> 2a <i>sitC</i> mutant
+SO SCIENCE IN CHINA SERIES C-LIFE SCIENCES
+LA English
+DT Article
+DE Shigella flexnefi 2a; gene knockout; functional detection; microarray
+   analysis
+ID IRON TRANSPORT-SYSTEM; FULL VIRULENCE; ACQUISITION
+AB In order to overcome the defects of difficult gene operations in low-copy suicide plasmid pCVD442, Gateway technology was applied in the construction process of recombinant plasmid for gene knockout in this study. With this improved knockout system, we inactivated sitC gene, which is associated with iron transport in Shigella flexneri 2a strain 301, to yield the mutant, MTS. The functional detection of the mutant was performed at the level of culture medium, cell and animal experiment, respectively. The gene expression profiles were compared with DNA microarray between the mutant and the wild type under iron-restricted conditions. The results showed that MTS grew obviously less well than the wild-type strains in L broth containing 150 mu mol/L iron chelator DIP (2,2'-dipyridyl). Addition of iron or manganese to the cultures stimulated the growth of MTS to wild-type levels in rich culture medium. In either the experiment on the ability of intracellular multiplication and cell-to-cell spread in HeLa and U937 cell lines, or the experiment on keratoconjunctivitis in guinea pigs, MTS showed no obvious changes in virulence compared with the parental strain Sf301. When 65 mu mol/L DIP was added to the cultured HeLa cells, the ability of intracellular multiplication of MTS reduced about 51.6% as compared with that of Sf301. The analysis of expression profiles under iron-limited condition showed that MTS was more sensitive for the change of iron deficiency than Sf301. There are 106 more up-regulated genes in MTS than in wild-type strains, which are involved in membrane transportation, amino acid metabolism and uncategorized function genes, while down-regulated genes are mainly involved in energy and carbohydrate metabolism. Under low iron conditions, the expression levels of known iron-transport associated genes generally increased. Additionally, the number of these genes and their increase amplitude in MTS are more than those in Sf301. Together, these results confirmed that Sit iron-transport system is important for the growth of Shigella.
+C1 State Key Lab Mol Virol & Genet Engn, Beijing 100176, Peoples R China.
+RP Jin, Q (corresponding author), State Key Lab Mol Virol & Genet Engn, Beijing 100176, Peoples R China.
+EM zdsys@vip.sina.com
+RI Jin, Qi/B-5379-2009
+OI Liu, Moqing/0000-0001-8385-0649
+NR 12
+TC 5
+Z9 5
+U1 0
+U2 1
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1006-9305
+J9 SCI CHINA SER C
+JI Sci. China Ser. C-Life Sci.
+PD JUN
+PY 2005
+VL 48
+IS 3
+BP 228
+EP 240
+PG 13
+WC Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics
+GA 946EI
+UT WOS:000230554700005
+PM 16092755
+DA 2023-12-06
+ER
+
+PT J
+AU Berger, R
+   Garnier, Y
+AF Berger, R
+   Garnier, Y
+TI Perinatal brain injury
+SO JOURNAL OF PERINATAL MEDICINE
+LA English
+DT Review
+ID FOCAL CEREBRAL-ISCHEMIA; NITRIC-OXIDE SYNTHASE; NEONATAL RAT-BRAIN;
+   FETAL GUINEA-PIGS; TRANSIENT FOREBRAIN ISCHEMIA; CALCIUM-CHANNEL
+   ANTAGONIST; GERMINAL MATRIX HEMORRHAGE; PROGRAMMED CELL-DEATH;
+   TUMOR-SUPPRESSOR P53; BIRTH-WEIGHT INFANTS
+AB Perinatal brain damage in the mature fetus is usually brought about by severe intrauterine asphyxia following an acute reduction of the uterine or umbilical circulation. The areas most heavily affected are the parasagittal region of the cerebral cortex and the basal ganglia. The fetus reacts to a severe lack of oxygen with activation of the sympathetic-adrenergic nervous system and a redistribution of cardiac output in favor of the central organs (brain, heart and adrenals). If the asphyxic insult persists, the fetus is unable to maintain circulatory centralization, and the cardiac output and extent of cerebral perfusion fall. Owing to the acute reduction in oxygen supply, oxidative phosphorylation in the brain comes to a standstill. The Na+/K+ pump at the cell membrane has no more energy to maintain the ionic gradients. In calcium ions flow through the voltage-dependent ion the absence of a membrane potential, large amounts of channels, down an extreme extra-/intracellular concentration gradient, into the cell. Current research suggests calcium, so-called calcium overload, leads to cell that the excessive increase in levels of intracellular damage through the activation of proteases, lipases and calcium ions into the cells via voltage-dependent endonucleases. During ischemia, besides the influx of calcium channels, more calcium enters the cells through glutamate-regulated ion channels. Glutamate, an excitatory neurotransmitter, is released from presynaptic vesicles during ischemia following anoxic cell depolarization. The acute lack of cellular energy arising during ischemia induces almost complete inhibition of cerebral protein biosynthesis. Once the ischemic period is over, protein biosynthesis returns to preischemic levels in non-vulnerable regions of the brain, while in more vulnerable areas it remains inhibited. The inhibition of protein synthesis, therefore, appears to be an early indicator of subsequent neuronal cell death. A second wave of neuronal cell damage occurs during the reperfusion phase. This cell damage is thought to be caused by the postischemic release of oxygen radicals, synthesis of nitric oxide (NO), inflammatory reactions and an imbalance between the excitatory and inhibitory neurotransmitter systems. Part of the secondary neuronal cell damage may be caused by induction of a kind of cellular suicide programme known as apoptosis. Interestingly, there is increasing evidence from recent clinical studies that perinatal brain damage is closely associated with ascending intrauterine infection before or during birth. However, a major part of this damage is likely to be of hypoxic-ischemic nature due to LPS-induced effects on fetal cerebral circulation. Knowledge of these pathophysiological mechanisms has enabled scientists to develop new therapeutic strategies with successful results in animal experiments. The potential of such therapies is discussed here, particularly the promising effects of intravenous administration of magnesium or postischemic induction of cerebral hypothermia.
+C1 Ruhr Univ Bochum, Dept Obstet & Gynecol, D-4630 Bochum, Germany.
+C3 Ruhr University Bochum
+RP Berger, R (corresponding author), Ruhr Univ Bochum, Frauenklin, Knappschaftskrankenhaus, Schornau 23-25, D-44982 Bochum, Germany.
+NR 206
+TC 80
+Z9 106
+U1 0
+U2 3
+PU WALTER DE GRUYTER & CO
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 0300-5577
+J9 J PERINAT MED
+JI J. Perinat. Med.
+PY 2000
+VL 28
+IS 4
+BP 261
+EP 285
+DI 10.1515/JPM.2000.034
+PG 25
+WC Obstetrics & Gynecology; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Obstetrics & Gynecology; Pediatrics
+GA 353ME
+UT WOS:000089278400002
+PM 11031697
+DA 2023-12-06
+ER
+
+EF

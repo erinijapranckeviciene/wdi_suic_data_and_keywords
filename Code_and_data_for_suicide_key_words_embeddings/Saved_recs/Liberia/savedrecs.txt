@@ -1,0 +1,153 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kohrt, BA
+   Mutamba, BB
+   Luitel, NP
+   Gwaikolo, W
+   Mangen, PO
+   Nakku, J
+   Rose, K
+   Cooper, J
+   Jordans, MJD
+   Baingana, F
+AF Kohrt, Brandon A.
+   Mutamba, Byamah B.
+   Luitel, Nagendra P.
+   Gwaikolo, Wilfred
+   Mangen, Patrick Onyango
+   Nakku, Juliet
+   Rose, Kisa
+   Cooper, Janice
+   Jordans, Mark J. D.
+   Baingana, Florence
+TI How competent are non-specialists trained to integrate mental health
+   services in primary care? Global health perspectives from Uganda,
+   Liberia, and Nepal
+SO INTERNATIONAL REVIEW OF PSYCHIATRY
+LA English
+DT Article
+DE Depression; developing countries; non-specialists; primary care;
+   psychosis; stigma; schizophrenia
+ID THERAPIST COMPETENCE; CLINICIAN ATTITUDES; TREATMENT GAP; DISORDERS;
+   INCOME; AVAILABILITY; STRATEGIES; PEOPLE; SCALE
+AB Evaluations to objectively assess minimum competency are not routinely implemented for training and supervision in global mental health. Addressing this gap in competency assessment is crucial for safe and effective mental health service integration in primary care. To explore competency, this study describes a training and supervision program for 206 health workers in Uganda, Liberia, and Nepal in humanitarian settings impacted by political violence, Ebola, and natural disasters. Health workers were trained in the World Health Organization's mental health Gap Action Programme (mhGAP). Health workers demonstrated changes in knowledge (mhGAP knowledge, effect size, d = 1.14), stigma (Mental Illness: Clinicians' Attitudes, d = -0.64; Social Distance Scale, d = -0.31), and competence (ENhancing Assessment of Common Therapeutic factors, ENACT, d = 1.68). However, health workers were only competent in 65% of skills. Although the majority were competent in communication skills and empathy, they were not competent in assessing physical and mental health, addressing confidentiality, involving family members in care, and assessing suicide risk. Higher competency was associated with lower stigma (social distance), but competency was not associated with knowledge. To promote competency, this study recommends (1) structured role-plays as a standard evaluation practice; (2) standardized reporting of competency, knowledge, attitudes, and clinical outcomes; and (3) shifting the field toward competency-based approaches to training and supervision.
+C1 [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, Div Global Mental Hlth, Washington, DC 20052 USA.
+   [Kohrt, Brandon A.; Luitel, Nagendra P.; Jordans, Mark J. D.] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Mutamba, Byamah B.; Nakku, Juliet] Butabika Natl Referral Hosp, Kampala, Uganda.
+   [Gwaikolo, Wilfred; Cooper, Janice] Carter Ctr Mental Hlth Program, Monrovia, Liberia.
+   [Mangen, Patrick Onyango] Transcultural Psychosocial Org Uganda, Kampala, Uganda.
+   [Rose, Kisa; Baingana, Florence] Makerere Univ, Sch Publ Hlth, Kampala, Uganda.
+   [Jordans, Mark J. D.] Kings Coll London, Ctr Global Mental Hlth, Inst Psychiat Psychol & Neurosci, London, England.
+C3 George Washington University; Makerere University; University of London;
+   King's College London
+RP Kohrt, BA (corresponding author), George Washington Univ, Dept Psychiat & Behav Sci, Div Global Mental Hlth, Washington, DC 20052 USA.
+EM bkohrt@gwu.edu
+OI Cooper, Janice/0000-0002-5343-9485; Jordans, Mark/0000-0001-5925-8039;
+   Kohrt, Brandon/0000-0002-3829-4820; MUTAMBA, BYAMAH/0000-0002-9430-443X
+FU Grand Challenges Canada [GMH_0091-04]; U.S. National Institute of Mental
+   Health [K01MH104310]
+FX This project was funded by a grant from Grand Challenges Canada to
+   Makerere University School of Public Health (FB, Principal
+   Investigator), Grant #GMH_0091-04: mental health Beyond Facilities,
+   mhBeF. BAK receives funding from the U.S. National Institute of Mental
+   Health [K01MH104310].
+NR 48
+TC 39
+Z9 41
+U1 0
+U2 3
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0954-0261
+EI 1369-1627
+J9 INT REV PSYCHIATR
+JI Int. Rev. Psych.
+PD NOV 2
+PY 2018
+VL 30
+IS 6
+SI SI
+BP 182
+EP 198
+DI 10.1080/09540261.2019.1566116
+PG 17
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HW7IT
+UT WOS:000466864100004
+PM 30810407
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Dean, L
+   Tolhurst, R
+   Nallo, G
+   Kollie, K
+   Bettee, A
+   Theobald, S
+AF Dean, Laura
+   Tolhurst, Rachel
+   Nallo, Gartee
+   Kollie, Karsor
+   Bettee, Anthony
+   Theobald, Sally
+TI Neglected tropical disease as a 'biographical disruption': Listening to
+   the narratives of affected persons to develop integrated people centred
+   care in Liberia
+SO PLOS NEGLECTED TROPICAL DISEASES
+LA English
+DT Article
+ID ILLNESS NARRATIVES; HEALTH; INTERSECTIONALITY; GENDER; INTERVENTION;
+   FRAMEWORK; IMPACT; ISSUES; WOMEN
+AB Author summary We used narrative methods to consider how individuals' unique positions of power and privilege shaped their illness experience, to explore what practical and feasible steps could support neglected tropical disease (NTDs) programmes to respond to patient need in Liberia and beyond. We asked 27 people living with NTDs (including lymphatic filariasis, leprosy, Buruli Ulcer, and onchocerciasis) to tell us about their experiences. We used narrative analysis with feminist intersectional theory, that allows for consideration of how things such as age, gender and disability interact, to interrogate participant experience. For all participants, morbidity and disability associated with NTDs created upheaval in their lives. Complex health seeking pathways meant that it was socially acceptable for participants to have experienced initial sickness, however as their illness became more permanent, participants described significant negative impacts on their mental-wellbeing, including depression, anxiety and suicide. This is one of the first studies to use narrative approaches to explore experience of chronic disabling conditions within LMICs and is the only study to apply such an analysis to NTDs. The emotive power of narrative should be utilised to influence the value base of policy makers to ensure that NTD programmes respond to all the needs of the most marginalised.
+   Background Integrated disease management, disability and inclusion (DMDI) for NTDs is increasingly prioritised. There is limited evidence on the effectiveness of integrated DMDI from the perspective of affected individuals and how this varies by differing axes of inequality such as age, gender, and disability. We used narrative methods to consider how individuals' unique positions of power and privilege shaped their illness experience, to elucidate what practical and feasible steps could support integrated DMDI in Liberia and beyond. Methods We purposively selected 27 participants affected by the clinical manifestations of lymphatic filariasis, leprosy, Buruli Ulcer, and onchocerciasis from three counties in Liberia to take part in illness narrative interviews. Participants were selected to ensure maximum variation in age, gender and clinical manifestation. Narrative analysis was grounded within feminist intersectional theory. Findings For all participants, chronic illness, morbidity and disability associated with NTDs represented a key moment of 'biographical disruption' triggering the commencement of a restitution narrative. Complex health seeking pathways, aetiologies and medical syncretism meant that adoption of the 'sick role' was initially acceptable, but when the reality of permanency of condition was identified, a transition to periods of chaos and significant psycho-social difficulty occurred. An intersectional lens emphasises how biographical disruption is mediated by intersecting social processes. Gender, generation, and disability were all dominant axes of social inequity shaping experience.
+C1 [Dean, Laura; Tolhurst, Rachel; Theobald, Sally] Univ Liverpool Liverpool Sch Trop Med, Dept Int Publ Hlth, Pembroke Pl, Liverpool, Merseyside, England.
+   [Nallo, Gartee] Univ Liberia, Pacific Inst Res & Evaluat, Monrovia, Monsterrado, Liberia.
+   [Kollie, Karsor; Bettee, Anthony] Govt Liberia, Minist Hlth, Neglected Trop Dis Programme, Monrovia, Monsterrado, Liberia.
+C3 University of Liverpool; Liverpool School of Tropical Medicine
+RP Dean, L (corresponding author), Univ Liverpool Liverpool Sch Trop Med, Dept Int Publ Hlth, Pembroke Pl, Liverpool, Merseyside, England.
+EM laura.dean@lstmed.ac.uk
+OI Dean, Laura/0000-0002-4910-9707; Tolhurst, Rachel/0000-0002-3005-6641
+FU COUNTDOWN [PO 6407]; UKAID part of the Department for International
+   Development (DFID)
+FX COUNTDOWN (grant ID is PO 6407) is a multi-disciplinary research
+   consortium dedicated to investigating cost-effective, scaled-up and
+   sustainable solutions, necessary to control and eliminate the seven most
+   common NTDs by 2020. COUNTDOWN was formed in 2014 and is funded by UKAID
+   part of the Department for International Development (DFID). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 57
+TC 12
+Z9 12
+U1 0
+U2 5
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1935-2735
+J9 PLOS NEGLECT TROP D
+JI Plos Neglect. Trop. Dis.
+PD SEP
+PY 2019
+VL 13
+IS 9
+AR e0007710
+DI 10.1371/journal.pntd.0007710
+PG 22
+WC Infectious Diseases; Parasitology; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Infectious Diseases; Parasitology; Tropical Medicine
+GA JE9CW
+UT WOS:000490987100053
+PM 31490931
+OA gold, Green Published, Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+EF

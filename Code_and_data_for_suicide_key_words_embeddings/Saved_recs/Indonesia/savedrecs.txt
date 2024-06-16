@@ -1,0 +1,1881 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Putra, IE
+   Sukabdi, ZA
+AF Putra, Idhamsyah Eka
+   Sukabdi, Zora A.
+TI Basic concepts and reasons behind the emergence of religious terror
+   activities in Indonesia: An inside view
+SO ASIAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE bombing; Indonesia; jihad; religious; suicide; terrorism
+ID SUICIDE; ISLAMIST
+AB This study aims to understand the fundamental concepts and reasons behind the emergence of religious terror activities in Indonesia, providing an insider' rather than an outsider' view. Data were collected from a total of 40 religious terror activists in Indonesia using a set of focused group discussions and interviews. The reasons they provided for their terror activities were as follows: (1) Indonesia is seen as being in a state of war (thus justifying a defensive attack); (2) Suicide bombing is believed to be noble; (3) The West (as a whole) is targeted as it is considered the invader of Muslim countries and a representative of evil; the Indonesian government is viewed as its corrupt ally.
+C1 [Putra, Idhamsyah Eka; Sukabdi, Zora A.] Univ Indonesia, Fac Psychol, Depok 16424, Indonesia.
+C3 University of Indonesia
+RP Putra, IE (corresponding author), Univ Indonesia, Fac Psychol, Lt 2 Kampus UI, Depok 16424, Indonesia.
+EM idhamsyah.ekaputra@gmail.com
+RI Putra, Idhamsyah/AAY-2925-2020; Sukabdi, Zora/AHE-2869-2022
+OI Putra, Idhamsyah/0000-0001-5371-7273; Sukabdi, Zora/0000-0002-4175-7339
+NR 47
+TC 24
+Z9 25
+U1 0
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1367-2223
+EI 1467-839X
+J9 ASIAN J SOC PSYCHOL
+JI Asian J. Soc. Psychol.
+PD JUN
+PY 2013
+VL 16
+IS 2
+SI SI
+BP 83
+EP 91
+DI 10.1111/ajsp.12001
+PG 9
+WC Psychology, Social
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 146YS
+UT WOS:000319132800002
+DA 2023-12-03
+ER
+
+PT J
+AU Christian, C
+   Hensel, L
+   Roth, C
+AF Christian, Cornelius
+   Hensel, Lukas
+   Roth, Christopher
+TI Income Shocks and Suicides: Causal Evidence From Indonesia
+SO REVIEW OF ECONOMICS AND STATISTICS
+LA English
+DT Article
+ID MENTAL-HEALTH; PSYCHOLOGICAL AUTOPSY; ECONOMIC-CRISIS; CASH; DEPRESSION;
+   INCREASE; LOTTERY; PROGRAM; RATES
+AB We examine how income shocks affect the suicide rate in Indonesia. We use a difference-in-differences approach, exploiting the cash transfer's nationwide rollout, and corroborate the findings using a randomized experiment. Our estimates show that the cash transfers reduce the yearly suicide rate by 0.36 per 100,000 people, corresponding to an 18% decrease. Moreover, a different type of income shock, variability in agricultural productivity, also affects the suicide rate. The cash transfer program reduces the causal impact of the agricultural productivity shocks, suggesting an important role for policy interventions. Finally, we provide evidence for depression as a psychological mechanism.
+C1 [Christian, Cornelius] Brock Univ, St Catharines, ON, Canada.
+   [Hensel, Lukas] Univ Oxford, Oxford, England.
+   [Roth, Christopher] Inst Behav & Inequal, Bonn, Germany.
+C3 Brock University; University of Oxford; University of Bonn
+RP Christian, C (corresponding author), Brock Univ, St Catharines, ON, Canada.
+RI Roth, Christopher/ABF-2653-2021
+OI Hensel, Lukas/0000-0002-4962-2885
+NR 54
+TC 27
+Z9 30
+U1 5
+U2 19
+PU MIT PRESS
+PI CAMBRIDGE
+PA ONE ROGERS ST, CAMBRIDGE, MA 02142-1209 USA
+SN 0034-6535
+EI 1530-9142
+J9 REV ECON STAT
+JI Rev. Econ. Stat.
+PD DEC
+PY 2019
+VL 101
+IS 5
+BP 905
+EP 920
+DI 10.1162/rest_a_00777
+PG 16
+WC Economics; Social Sciences, Mathematical Methods
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematical Methods In Social Sciences
+GA JV4MI
+UT WOS:000502338900012
+OA Green Published, Bronze, Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Kaplan, B
+   Hardesty, JJ
+   Martini, S
+   Megatsari, H
+   Kennedy, RD
+   Cohen, JE
+AF Kaplan, Bekir
+   Hardesty, Jeffrey J.
+   Martini, Santi
+   Megatsari, Hario
+   Kennedy, Ryan D.
+   Cohen, Joanna E.
+TI The Effectiveness of Cigarette Pack Health Warning Labels with Religious
+   Messages in an Urban Setting in Indonesia: A Cross-Sectional Study
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE spiritual messages; tobacco control; Indonesia
+ID SMOKING
+AB This study sought to assess the effectiveness of religious cigarette health warning labels (HWLs) in Indonesia, a country with a high public health burden from tobacco use. The study tested different religious and nonreligious messages related to suicide, secondhand smoke (SHS) and gangrene. Participants were smokers and non-smokers from Surabaya, Indonesia (n = 817). Participants rated each HWL for its effectiveness on a scale of 1 to 10 (1 = "not at all", 10 = "extremely") with respect to 10 items. Nonreligious HWLs were marginally superior for SHS and suicide while religious HWLs were marginally superior for gangrene. Given the close rating scores between religious and nonreligious HWLs, they were functionally equal in effectiveness. With proper assessment of potential unintended consequences, the implementation of religious HWLs could be considered for a proportion of HWLs.
+C1 [Kaplan, Bekir; Hardesty, Jeffrey J.; Kennedy, Ryan D.; Cohen, Joanna E.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Hlth Behav & Soc, Inst Global Tobacco Control, 615 N Wolfe St, Baltimore, MD 21205 USA.
+   [Martini, Santi; Megatsari, Hario] Univ Airlangga, Fac Publ Hlth, Surabaya 60115, Indonesia.
+C3 Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health; Airlangga University
+RP Kaplan, B (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Hlth Behav & Soc, Inst Global Tobacco Control, 615 N Wolfe St, Baltimore, MD 21205 USA.
+EM bkaplan9@jhu.edu
+RI MARTINI, SANTI/AAW-6554-2020; Megatsari, Hario/ABC-4195-2020
+OI MARTINI, SANTI/0000-0003-2424-1776; Megatsari, Hario/0000-0001-6555-319X
+FU Bloomberg Philanthropies' Bloomberg Initiative to Reduce Tobacco Use
+   [90071742]
+FX This research was funded by Bloomberg Philanthropies' Bloomberg
+   Initiative to Reduce Tobacco Use (bloomberg.org), grant number 90071742.
+NR 24
+TC 1
+Z9 1
+U1 1
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-7827
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD NOV
+PY 2019
+VL 16
+IS 21
+AR 4287
+DI 10.3390/ijerph16214287
+PG 13
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA JQ3IF
+UT WOS:000498842000233
+PM 31694236
+OA gold, Green Accepted, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Liddle, RW
+   Mujani, S
+AF Liddle, RW
+   Mujani, S
+TI Indonesia in 2004 - The rise of Susilo Bambang Yudhoyono
+SO ASIAN SURVEY
+LA English
+DT Article
+AB Susilo Bambang Yudhoyono, a retired army officer, became Indonesia's first directly elected president, defeating incumbent Megawati Sukarnoputri in a landslide. Key positions in economic ministries were awarded both to pro-market and protectionist groups. A suicide bomb killed nine people and wounded nearly 200, intensifying the nation's search for al-Qaeda-linked terrorists.
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+   Syarif Hidayatullah State Islam Univ, Jakarta, Indonesia.
+C3 University System of Ohio; Ohio State University; Universitas Islam
+   Negeri Syarif Hidayatullah Jakarta
+RP Liddle, RW (corresponding author), Ohio State Univ, Columbus, OH 43210 USA.
+EM liddle.2@osu.edu; saiful@freedom-institute.org
+RI mujani, saiful/GMW-6838-2022
+NR 1
+TC 20
+Z9 27
+U1 0
+U2 4
+PU UNIV CALIFORNIA PRESS
+PI OAKLAND
+PA 155 GRAND AVE, SUITE 400, OAKLAND, CA 94612-3758 USA
+SN 0004-4687
+EI 1533-838X
+J9 ASIAN SURV
+JI Asian Surv.
+PD JAN-FEB
+PY 2005
+VL 45
+IS 1
+BP 119
+EP 126
+DI 10.1525/as.2005.45.1.119
+PG 8
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 909WS
+UT WOS:000227892000016
+DA 2023-12-03
+ER
+
+PT J
+AU Tresno, F
+   Ito, Y
+   Mearns, J
+AF Tresno, Fiona
+   Ito, Yoshimi
+   Mearns, Jack
+TI SELF-INJURIOUS BEHAVIOR AND SUICIDE ATTEMPTS AMONG INDONESIAN COLLEGE
+   STUDENTS
+SO DEATH STUDIES
+LA English
+DT Article
+ID HIGH-SCHOOL-STUDENTS; RISK-FACTORS; ABUSE; MUTILATION; HARM; SAMPLE
+AB This study reports the prevalence of self-injurious behavior and suicide attempts among college students in Indonesia and examines risk factors distinguishing between 3 groups: self-injury with suicide attempt, non-suicidal self-injury, and non-self-injury. Self-report questionnaires measuring self-injury and suicide attempts, negative mood regulation expectancies (NMRE), depression, and childhood trauma were administered to 314 students. Of participants, 38% had deliberately injured themselves; among those, 21% also reported a suicide attempt. The 3 groups differed significantly on NMRE, depression, and child neglect. More self-injury and suicide attempts were associated with weaker NMRE and greater depression and child neglect.
+C1 [Tresno, Fiona] Nagoya Univ, Grad Sch Environm Studies, Dept Psychol, Chikusa Ku, Nagoya, Aichi 4648601, Japan.
+   [Mearns, Jack] Calif State Univ Fullerton, Dept Psychol, Fullerton, CA 92634 USA.
+C3 Nagoya University; California State University System; California State
+   University Fullerton
+RP Tresno, F (corresponding author), Nagoya Univ, Grad Sch Environm Studies, Dept Psychol, Chikusa Ku, Furo Cho, Nagoya, Aichi 4648601, Japan.
+EM tresno.fiona@b.mbox.nagoya-u.ac.jp
+NR 30
+TC 32
+Z9 48
+U1 1
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2012
+VL 36
+IS 7
+BP 627
+EP 639
+DI 10.1080/07481187.2011.604464
+PG 13
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 958QW
+UT WOS:000305256500003
+PM 24563942
+DA 2023-12-03
+ER
+
+PT J
+AU Shafiq, MN
+   Sinno, AH
+AF Shafiq, M. Najeeb
+   Sinno, Abdulkader H.
+TI Education, Income, and Support for Suicide Bombings: Evidence from Six
+   Muslim Countries
+SO JOURNAL OF CONFLICT RESOLUTION
+LA English
+DT Article
+DE attitudes; Islam; politics of education; suicide bombing; terrorism
+ID TERRORISM
+AB The authors examine the effect of educational attainment and income on support for suicide bombing among Muslim publics in six predominantly Muslim countries that have experienced suicide bombings: Indonesia, Jordan, Lebanon, Morocco, Pakistan, and Turkey. The authors make two contributions. First, they present a conceptual model, which has been lacking in the literature. Second, they consider attitudes toward two different targets of suicide bombings: civilians within the respondent's country and Western military and political personnel in Iraq. The authors find that the effect of educational attainment and income on support for suicide bombings varies across countries and targets.The findings therefore draw attention to the difficulties of making generalizations about Muslim countries and the importance of distinguishing between targets of suicide bombings.
+C1 [Shafiq, M. Najeeb; Sinno, Abdulkader H.] Indiana Univ, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Shafiq, MN (corresponding author), WW Wright Educ Bldg,Room 4232, Bloomington, IN 47405 USA.
+EM mnshafiq@indiana.edu
+NR 41
+TC 58
+Z9 59
+U1 1
+U2 26
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0027
+EI 1552-8766
+J9 J CONFLICT RESOLUT
+JI J. Confl. Resolut.
+PD FEB
+PY 2010
+VL 54
+IS 1
+BP 146
+EP 178
+DI 10.1177/0022002709351411
+PG 33
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 544SE
+UT WOS:000273678800007
+DA 2023-12-03
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; Ministry of National Guard - Health Affairs; King
+   Abdullah International Medical Research Center (KAIMRC); Universitas
+   Islam Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Rezaeian, Mohsen/C-6513-2008; Khan, Murad/AAE-5134-2020; Eskin,
+   Mehmet/AAG-9269-2020; Khader, Yousef Saleh/AAE-9620-2019; Harlak,
+   Hacer/ABC-5916-2020; Noor, Isa Multazam/AAQ-2726-2020; Khan,
+   Aqeel/B-5208-2010; Hamdan, Motasem/AAB-3940-2019
+OI Rezaeian, Mohsen/0000-0003-3070-0166; Khader, Yousef
+   Saleh/0000-0002-7830-6857; Khan, Aqeel/0000-0001-9338-9323; Hendarmin,
+   Laifa A./0000-0001-5281-395X; Isayeva, Ulker/0000-0003-3927-4810; Eskin,
+   Mehmet/0000-0001-9916-9268; Hamdan, Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-03
+ER
+
+PT J
+AU Suryani, LK
+   Page, A
+   Lesmana, CBJ
+   Jennaway, M
+   Basudewa, IDG
+   Taylor, R
+AF Suryani, L. K.
+   Page, A.
+   Lesmana, C. B. J.
+   Jennaway, M.
+   Basudewa, I. D. G.
+   Taylor, R.
+TI Suicide in paradise: aftermath of the Bali bombings
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE Bali; socioeconomic factors; suicide; terrorism
+ID TERRORIST ATTACKS; SEPTEMBER-11; EARTHQUAKE; MORTALITY; TRENDS
+AB Background. The relationship between the Bali (Indonesia) bombings of October 2002 and suicide has not previously been investigated, despite anecdotal evidence of the economic and psychological consequences of these attacks.
+   Method. Suicide rates were calculated over the period 1994-2006 in three Bali regencies to determine whether suicide increased in the period following the first Bali bombings. Poisson regression and time-series models were used to assess the change in suicide rates by sex, age and area in the periods before and after October 2002.
+   Results. Suicide rates (age-adjusted) increased in males from an average of 2.84 (per 100000) in the period pre-2002 to 8.10 in the period post-2002, and for females from 1.51 to 3.68. The greatest increases in suicide in the post-2002 period were in the age groups 20-29 and >= 60 years, for both males and females. Tourist arrivals fell significantly after the bombings, and addition of tourism to models reduced relative risk estimates of suicide, suggesting that some of the increase may be attributable to the socio-economic effects of declines in tourism.
+   Conclusions. There was an almost fourfold increase in male suicide risk and a threefold increase in female suicide risk in the period following the 2002 bombings in Bali. Trends in tourism did not account for most of the observed increases. Other factors such as indirect socio-economic effects and Balinese notions of collective guilt and anxieties relating to ritual neglect are important in understanding the rise in suicide in the post-2002 period.
+C1 [Taylor, R.] Univ Queensland, Sch Populat Hlth, Div Int & Indigenous Hlth, Australian Ctr Int & Trop Hlth, Herston, Qld 4006, Australia.
+   [Suryani, L. K.; Lesmana, C. B. J.] Udayana Univ, Sch Med, Bali, Indonesia.
+   [Page, A.] Univ Queensland, Sch Populat Hlth, Discipline Epidemiol & Biostat, Herston, Qld 4006, Australia.
+   [Basudewa, I. D. G.] Dr Radjiman Wediodiningrat Lawang, E Jawa, Indonesia.
+C3 University of Queensland; QIMR Berghofer Medical Research Institute;
+   Universitas Udayana; University of Queensland
+RP Taylor, R (corresponding author), Univ Queensland, Sch Populat Hlth, Div Int & Indigenous Hlth, Australian Ctr Int & Trop Hlth, Publ Hlth Bldg,Herston Rd, Herston, Qld 4006, Australia.
+EM r.taylor@sph.uq.edu.au
+RI Lesmana, Cokorda Bagus Jaya/ABF-1888-2020
+OI Lesmana, Cokorda Bagus Jaya/0000-0001-6804-9255; Suryani, Luh
+   Ketut/0000-0001-5683-7852
+NR 34
+TC 8
+Z9 8
+U1 0
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD AUG
+PY 2009
+VL 39
+IS 8
+BP 1317
+EP 1323
+DI 10.1017/S0033291708004893
+PG 7
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 472XC
+UT WOS:000268165300010
+PM 19091162
+DA 2023-12-03
+ER
+
+PT J
+AU King, M
+   Noor, H
+   Taylor, DM
+AF King, Michael
+   Noor, Haula
+   Taylor, Donald M.
+TI Normative Support for Terrorism: The Attitudes and Beliefs of Immediate
+   Relatives of Jema'ah Islamiyah Members
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+ID SUICIDE TERRORISM
+AB Families might be an important source of norms that legitimize terrorism, an assumption that has yet to be tested empirically. To investigate this, surveys were administered to 20 immediate relatives of 16 Jema'ah Islamiyah (JI) members in Indonesia. Family members were found to agree with their kin's involvement in the violent activities of JI, and perceived their community as being supportive. Agreement with their relative's involvement in JI was predicted by anti-Western sentiment, not support for violent jihad. Kinship to a suicide bomber predicted less support for their family member's involvement in JI. Implications for deradicalization strategies are discussed.
+C1 [King, Michael; Taylor, Donald M.] McGill Univ, Dept Psychol, Montreal, PQ H3A 1B1, Canada.
+   [Noor, Haula] Univ Islam, Dept Interdisciplinary Islamic Studies, Jakarta, Indonesia.
+C3 McGill University
+RP King, M (corresponding author), McGill Univ, Dept Psychol, 1205 Dr Penfield Ave, Montreal, PQ H3A 1B1, Canada.
+EM michael.king@mail.mcgill.ca
+NR 52
+TC 10
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2011
+VL 34
+IS 5
+BP 402
+EP 417
+AR PII 936637874
+DI 10.1080/1057610X.2011.561471
+PG 16
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 753QF
+UT WOS:000289794000003
+DA 2023-12-03
+ER
+
+PT J
+AU Mccauley, C
+   Scheckter, S
+AF McCauley, Clark
+   Scheckter, Sarah
+TI What's Special about US Muslims? The War on Terrorism as Seen by Muslims
+   in the United States, Morocco, Egypt, Pakistan, and Indonesia
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+AB Since 11 September 2001, Europe has suffered multiple jihadi attacks but the United States has not. This American exceptionalism has been attributed to the special qualities of U.S. Muslims, who are seen as politically better integrated and less sympathetic toward radical politics than other Muslims. This article tests the exceptionalism hypothesis by comparing results from a 2007 Pew poll of U.S. Muslims with results from 2006-2007 START polls of Muslims in Morocco, Egypt, Pakistan, and Indonesia. On questions about religious identity, attitude toward Al Qaeda, U.S. intentions in the War on Terrorism, and suicide terrorism, U.S. Muslims differed only slightly from comparison Muslims.
+C1 [McCauley, Clark] Bryn Mawr Coll, Dept Psychol, Bryn Mawr, PA 19010 USA.
+C3 Bryn Mawr College
+RP Mccauley, C (corresponding author), Bryn Mawr Coll, Dept Psychol, 101 N Merion Ave, Bryn Mawr, PA 19010 USA.
+EM cmccaule@brynmawr.edu
+NR 9
+TC 9
+Z9 9
+U1 0
+U2 8
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2008
+VL 31
+IS 11
+BP 973
+EP 980
+AR PII 905051877
+DI 10.1080/10576100802400193
+PG 8
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 368GU
+UT WOS:000260610400001
+DA 2023-12-03
+ER
+
+PT C
+AU Subhan, M
+   Sudarsono, A
+   Barakbah, A
+AF Subhan, Muh.
+   Sudarsono, Amang
+   Barakbah, Aliridho
+BE AlRasyid, MUH
+   Zainudin, A
+   Briantoro, H
+   Akbar, ZF
+   Bagar, FNC
+TI Preprocessing of Radicalism Dataset to Predict Radical Content in
+   Indonesia
+SO 2017 INTERNATIONAL ELECTRONICS SYMPOSIUM ON KNOWLEDGE CREATION AND
+   INTELLIGENT COMPUTING (IES-KCIC)
+LA English
+DT Proceedings Paper
+CT International Electronics Symposium on Knowledge Creation and
+   Intelligent Computing (IES-KCIC)
+CY SEP 26-27, 2017
+CL Surabaya, INDONESIA
+SP Pens, IEEE Indonesia Sect
+DE DF-Treshold; Radical content; Indonesia; Fiture Selection
+ID WEB
+AB A radical definition according to procedural meanings is content that invites, provokes, performs certain acts, interprets jihad as a suicide bomb. And interpret the jihad is limited. In Indonesia, the radical content is often associated with content issues such Tribe, Religion, and Race. The classification of radical content is a challenging technical problem due to its large numbers, unstructured, and a lot of noise. The larger the amount of content it will produce more and more features. So that impact on the high dimensions and can lead to poor performance against the classification algorithm. How to solve the problem is dimensional reduction such as feature selection. In this study, we propose an approach to select features that are categorized radically and not radically using Human Brain and DF-Threshold. Prior to feature selection, preprocessing is performed, then text mining, then selection of features using Human Brain and DF-Threshold. Testing is done through 10-cross validation with k-Nearest Neighbor (k-NN) as its classification. Based on these trials we get the highest accuracy performance results of 66.37% with k on k-NN equal to 7.
+C1 [Subhan, Muh.; Sudarsono, Amang; Barakbah, Aliridho] Politekn Elekt Negeri Surabaya, Grad Program Engn Technol, Dept Informat & Comp Engn, Surabaya, Indonesia.
+C3 Electronic Engineering Polytechnic Institute of Surabaya
+RP Subhan, M (corresponding author), Politekn Elekt Negeri Surabaya, Grad Program Engn Technol, Dept Informat & Comp Engn, Surabaya, Indonesia.
+EM subhan@polinef.id; amang@pens.ac.id; ridho@pens.ac.id
+RI Barakbah, Ali Ridho/W-1345-2017; Sudarsono, Amang/GON-4010-2022
+OI Barakbah, Ali Ridho/0000-0002-3087-4230; 
+NR 16
+TC 1
+Z9 1
+U1 1
+U2 3
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-0716-9
+PY 2017
+BP 270
+EP 275
+PG 6
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BJ5HR
+UT WOS:000425925600045
+DA 2023-12-03
+ER
+
+PT C
+AU Sajaroh, WS
+   Mahmudah, SH
+AF Sajaroh, Wiwi Siti
+   Mahmudah, Sarah Hajar
+BE Davies, SG
+   Toyibah, D
+   Alfajri, A
+TI NU Women's Role In Narrating The Moderate Islam Through <i>Majelis</i>
+   <i>Taklim</i>
+SO PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON SOCIAL AND
+   POLITICAL SCIENCES (ICSPS 2017)
+SE Advances in Social Science Education and Humanities Research
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Social and Political Sciences (ICSPS)
+CY NOV 14-15, 2017
+CL Jakarta, INDONESIA
+SP Syarif Hidayatullah State Islam Univ, Fac Social & Polit Sci
+DE Muslimat NU; majlis taklim; moderate Islam
+AB Majelis taklim is a non-formal institution for Muslims to learn about Islamic teaching. Nowadays, there are many majelis taklim that are filled by Islamic scholars who spread the teachings of radical Islam or takfiri ideology. It has become one of the methods of spreading radical ideology among Muslims. With the spread of takfiri ideology, majelis taklim produces people who dare to commit violence in the name of religion. Recently, the main actors of terror and suicide bombings are not only men, a few years ago women with radical Islamic ideology were limited to providing support to the actions of their husbands or family, but now women become the main suicide bombers. Nahdhatul Ulama (NU) is a bigger Muslim organization in Indonesia that is consistent in teaching the values of peaceful and moderate Islam, then how about NU women (Muslimat) role in monitoring the teachings of this ideology taught in many majelis taklim for women? This research figures out the role of Muslimat NU in fostering women's majelis taklim, to teach a peaceful and moderate narrative of Islam for women in Indonesia. This study compares the narratives of peace brought by Muslimat NU to counter the takfiri narratives in contemporary issues. Through this role, this study also analyzes the role of Muslimat NU as a large Muslim women's organization. This study uses a qualitative method by utilizing discourse analysis. The data is collected through observation, conversational analysis, and discourse analysis.
+C1 [Sajaroh, Wiwi Siti; Mahmudah, Sarah Hajar] State Islamic Univ Syarif Hidayatullah, Fac Polit & Social Sci, Jakarta, Indonesia.
+C3 Universitas Islam Negeri Syarif Hidayatullah Jakarta
+RP Sajaroh, WS (corresponding author), State Islamic Univ Syarif Hidayatullah, Fac Polit & Social Sci, Jakarta, Indonesia.
+EM sajaroh2006@yahoo.com; Sarah.hajarm@gmail.com
+NR 13
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ATLANTIS PRESS
+PI PARIS
+PA 29 AVENUE LAVMIERE, PARIS, 75019, FRANCE
+SN 2352-5398
+BN 978-94-6252-467-5
+J9 ADV SOC SCI EDUC HUM
+PY 2017
+VL 129
+BP 372
+EP 375
+PG 4
+WC Area Studies; Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Area Studies; Social Sciences - Other Topics
+GA BJ6ML
+UT WOS:000426851700080
+DA 2023-12-03
+ER
+
+PT J
+AU Peltzer, K
+   Yi, SY
+   Pengpid, S
+AF Peltzer, Karl
+   Yi, Siyan
+   Pengpid, Supa
+TI Suicidal behaviors and associated factors among university students in
+   six countries in the Association of Southeast Asian Nations (ASEAN)
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicidal behaviors; Suicidal ideation; Suicide attempt; University
+   students; the Association of Southeast Asian Nations; (ASEAN)
+ID ADVERSE CHILDHOOD EXPERIENCES; POSTTRAUMATIC-STRESS; DEPRESSIVE
+   SYMPTOMS; GENDER-DIFFERENCES; PHYSICAL-ACTIVITY; COLLEGE-STUDENTS;
+   RELIGION INDEX; OLDER-ADULTS; IDEATION; RISK
+AB A large data gap remains on suicidal behaviors among youth in the Association of Southeast Asian Nations (ASEAN) countries, despite the increasing rates of suicide in Asian cultures that may be related to rapid economic changes and the loss of social stability. This study was therefore conducted to explore the prevalence of and factors associated with suicidal ideation and suicide attempts among university students in six ASEAN member states. Data were collected in a cross-sectional survey of 4675 undergraduate university students, mean age 20.6 years (SD = 2.7), range of 18-30 years, from Cambodia, Indonesia, Malaysia, Myanmar, Thailand and Vietnam. The overall prevalence of ever suicidal ideation and ever suicide attempt among students in this study was 11.7% and 2.4%, respectively. Different rates of these suicidal behaviors were observed across the countries. In multivariable logistic regression models, suicidal ideation was significantly associated with psychosocial factors including childhood sexual abuse, depressive symptoms, involvement in physical fights, and poor academic performance as well as socio-environmental factors including living with parents or guardians and low involvement in organized religious activity. Suicide attempt was significantly associated with childhood sexual abuse, depressive symptoms, low involvement in organized religious activity and being underweight or overweight. Our findings suggest that individual-level strategies for suicide prevention should be targeted toward students with poor academic performance, mental health problems and a history of adverse childhood experiences. Particular attention should be paid to the role of families that could be a potential stressor in the lives of university students. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, Turfloop, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+   [Yi, Siyan] KHANA Ctr Populat Hlth Res, Phnom Penh, Cambodia.
+   [Yi, Siyan] Touro Univ Calif, Ctr Global Hlth Res, Vallejo, CA USA.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa; Touro University California
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+EM karl.pel@mahidol.ac.th
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Yi, Siyan/0000-0002-3045-5386
+FU South African Department of Higher Education
+FX Partial funding for this study was provided by the South African
+   Department of Higher Education. The following colleagues participated in
+   this ASEAN student health survey and contributed to data collection
+   (locations of universities in parentheses): Cambodia: Siyan Yi (Phnom
+   Penh); Indonesia: Erna Rochmawati (Yogyakarta), Malaysia: Wah Yun Low
+   (Kuala Lumpur); Myanmar: Hla Hla Win (Yangon); Thailand: Niruwan
+   Turnbull (Maha Sarakham); Vietnam: Thang Nguyen Huu (Hanoi).
+NR 56
+TC 45
+Z9 53
+U1 2
+U2 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2017
+VL 26
+BP 32
+EP 38
+DI 10.1016/j.ajp.2017.01.019
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EY8ZO
+UT WOS:000404288300010
+PM 28483087
+DA 2023-12-03
+ER
+
+PT J
+AU Fealy, G
+AF Fealy, Greg
+TI Apocalyptic Thought, Conspiracism and Jihad in Indonesia
+SO CONTEMPORARY SOUTHEAST ASIA
+LA English
+DT Article
+DE ISIS; apocalypse; conspiracy; jihadism; Indonesia; terrorism
+AB The impact of apocalyptic and conspiracist discourses on Indonesian jihadi thinking and behaviour has been little studied, but evidence in recent years is mounting that it has been significant. Many Indonesians who joined Islamic State forces in Syria and Iraq from 2013 were driven in part by a belief that the final cataclysmic battle between Islam and its foes would occur there imminently, and the families responsible for the 2018 Surabaya suicide bombing which killed more than two dozen people were convinced that the world would soon end. This article examines Indonesia's contemporary apocalyptic literature, with an emphasis on the two main genres: populist and jihadist. It argues that the populist forms, though sensational, highly conspiratorial and commercially motivated, are more insidious than commonly assumed, and can have a "priming effect" upon radicalizing readers by deepening their sense of crisis and grievance, thus inclining them to extreme views and actions. Jihadi apocalypticism has a stronger scholarly basis, but is subject to serious debate and some scepticism within Islamist circles. For some jihadis, such discourses bring a compelling urgency that triggers violence, but for others, apocalypticism is viewed more warily due to the risk that it impairs judgement and leads to erroneous strategies.
+C1 [Fealy, Greg] Hedley Bull Ctr, Dept Polit & Social Change, 130 Garran Rd, Acton, ACT 2601, Australia.
+RP Fealy, G (corresponding author), Hedley Bull Ctr, Dept Polit & Social Change, 130 Garran Rd, Acton, ACT 2601, Australia.
+EM greg.fealy@anu.edu.au
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 5
+PU INST SOUTHEAST ASIAN STUDIES-ISEAS
+PI PASIR PANJANG
+PA 30 HENG MUI KING TERACE, PASIR PANJANG, 119614, SINGAPORE
+SN 0129-797X
+EI 1793-284X
+J9 CONTEMP SE ASIA
+JI Contemp. Southeast Asia
+PD APR
+PY 2019
+VL 41
+IS 1
+BP 63
+EP 85
+DI 10.1355/cs41-1d
+PG 23
+WC Area Studies; International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC Area Studies; International Relations; Government & Law
+GA HX3OS
+UT WOS:000467302000004
+DA 2023-12-03
+ER
+
+PT J
+AU Sudoyo, H
+   Widodo, PT
+   Suryadi, H
+   Lie, YS
+   Safari, D
+   Widjajanto, A
+   Kadarmo, DA
+   Hidayat, S
+   Marzuki, S
+AF Sudoyo, Herawati
+   Widodo, Putut T.
+   Suryadi, Helena
+   Lie, Yuliana S.
+   Safari, Dodi
+   Widjajanto, Agung
+   Kadarmo, D. Aji
+   Hidayat, Soegeng
+   Marzuki, Sangkot
+TI DNA analysis in perpetrator identification of terrorism-related
+   disaster: Suicide bombing of the Australian Embassy in Jakarta 2004
+SO FORENSIC SCIENCE INTERNATIONAL-GENETICS
+LA English
+DT Article
+DE Mitochondria DNA; STR; Suicide bomber; Haplogroup; Disaster perpetrator
+   identification
+ID MITOCHONDRIAL-DNA; INTERNATIONAL SOCIETY; FORENSIC GENETICS;
+   POPULATION-DATA; SEQUENCE; LOCI; COMMISSION; VICTIMS
+AB We report the strategy that we employed to identify the perpetrator of a suicide car bombing in front of the Australian Embassy in Jakarta, Indonesia, on 9 September 2004. The bomb was so massive that only small tissue pieces of the perpetrator Could be recovered, preventing conventional approach to the identification of the bomber, necessitating the introduction of DNA analysis as the primary means for perpetrator identification. Crime scene investigation revealed the trajectory of the bomb blast, which was used to guide the collection of charred tissue fragments of the perpetrator. Mitochondrial DNA analysis was first conducted on 17 tissue fragments, recovered over large areas of the trajectory to, (a) confirm that they are of a common Source, i.e. the perpetrator, and thus (b) establish the mtDNA HV1 sequence profile of the perpetrator. The mtDNA of the perpetrator matches that of a maternally related family member of one of four suspects. Standard autosomal STR analysis confirmed the identification. This case is of interest as an illustration Of a Successful application of DNA analysis as the primary means of disaster perpetrator identification. (C) 2007 Elsevier Ireland Ltd. All rights reserved.
+C1 [Sudoyo, Herawati; Suryadi, Helena; Lie, Yuliana S.; Safari, Dodi; Kadarmo, D. Aji; Marzuki, Sangkot] Eijkman Inst Mol Biol, Jakarta 10430, Indonesia.
+   [Widodo, Putut T.; Widjajanto, Agung; Kadarmo, D. Aji; Hidayat, Soegeng] Ctr Police Hlth & Med Sci, Dept Police Med, Jakarta 13240, Indonesia.
+C3 Eijkman Institute
+RP Sudoyo, H (corresponding author), Eijkman Inst Mol Biol, Jl Diponegoro 69, Jakarta 10430, Indonesia.
+EM herawati@eijkman.go.id
+NR 28
+TC 15
+Z9 15
+U1 0
+U2 9
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1872-4973
+EI 1878-0326
+J9 FORENSIC SCI INT-GEN
+JI Forensic Sci. Int.-Genet.
+PD JUN
+PY 2008
+VL 2
+IS 3
+BP 231
+EP 237
+DI 10.1016/j.fsigen.2007.12.007
+PG 7
+WC Genetics & Heredity; Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Genetics & Heredity; Legal Medicine
+GA 380XW
+UT WOS:000261500400011
+PM 19083826
+DA 2023-12-03
+ER
+
+PT C
+AU Mukhtarom, A
+   Susilo, P
+   Zakky, A
+AF Mukhtarom, Asrori
+   Susilo, Priyo
+   Zakky, Akhmad
+BE Inam, A
+   Sayogo, DS
+   Widayat
+   Isomudin
+   Latipun
+   Zulfatman
+TI The Role of Muhammadiyah in Preventing Islamic Radicalism in Banten
+   (2000-2017)
+SO PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON COMMUNITY DEVELOPMENT
+   (AMCA 2018)
+SE Advances in Social Science Education and Humanities Research
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Community Development (AMCA)
+CY JUL 19-20, 2018
+CL Univ Philippines, Quezon City, PHILIPPINES
+SP Assoc Muslim Community, Univ Muhammadiyah Malang, Guro Format Forum, Jose Rizal Univ
+HO Univ Philippines
+DE islamic radicalism; muhammadiyah; banten; discourse
+AB This study examines the role of Muhammadiyah Regional Board of Banten in preventing Islamic radicalism. Banten province is a place where Islamic radicalism has a long history, from NII (Indonesia Islamic Nation), a mastermind in a bomb attack, and even the executant in a suicide bombing. It shows Banten has a great potential in producing any Islamic radicalism movement, and the responsibility on this potential not only in government hand but also in a social community or Islamic community organizations. The study argues that Muhammadiyah, as one of largest Islamic mass organizations in Indonesia has a significant contribution in preventing Islamic radicalism by doing moderation ways as PWM (Muhammadiyah Regional Board) of Banten has been doing in Banten. Muhammadiyah in Banten has been preventing radicalism, among others by way of educational institutions under this organization and da'wah activities. These activities show that Muhammadiyah, particularly in Banten, not only has done their job in protecting the society from any Islamic radicalism movements, but also made a new discourse about how to face radicalism.
+C1 [Mukhtarom, Asrori; Susilo, Priyo; Zakky, Akhmad] Muhammadiyah Univ Tangerang, Tangerang, Indonesia.
+C3 Universitas Muhammadiyah Tangerang
+RP Mukhtarom, A (corresponding author), Muhammadiyah Univ Tangerang, Tangerang, Indonesia.
+EM asrorimukhtarom84@gmail.com
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ATLANTIS PRESS
+PI PARIS
+PA 29 AVENUE LAVMIERE, PARIS, 75019, FRANCE
+SN 2352-5398
+BN 978-94-6252-561-0
+J9 ADV SOC SCI EDUC HUM
+PY 2018
+VL 231
+BP 468
+EP 470
+PG 3
+WC Sociology
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Sociology
+GA BL5QX
+UT WOS:000452506200130
+DA 2023-12-03
+ER
+
+PT J
+AU Kloos, D
+AF Kloos, David
+TI A Crazy State <i>Violence</i>, <i>Psychiatry</i>, <i>and Colonialism in
+   Aceh</i>, <i>Indonesia</i>, <i>ca. 1910-1942</i>
+SO BIJDRAGEN TOT DE TAAL- LAND- EN VOLKENKUNDE
+LA English
+DT Article
+DE Aceh; colonialism; psychiatry; violence; Islam
+ID REBELLION; IDENTITY; BRITISH; INDIA
+AB This article investigates the ways in which the Dutch colonial state dealt with a phenomenon known as the Atjeh-moorden ('Aceh murders'), the persistent suicide-attacks directed at the lives of Dutch residents, committed by Acehnese hoping to become syahid (martyrs to the Islamic faith). Concentrating on the development of colonial psychiatry, and its influence on colonial discourses and practices, I show how Dutch dealings with the Atjeh-moorden were, simultaneously, part and parcel of the construction of an Acehnese subject, and indicative of the administrative ambivalence found in the approach of the colonial state toward violence and criminality.
+C1 Royal Netherlands Inst Southeast Asian & Caribbea, KITLV, Leiden, Netherlands.
+C3 Royal Netherlands Academy of Arts & Sciences; Royal Netherlands
+   Institute of Southeast Asian & Caribbean Studies (KITLV-KNAW)
+RP Kloos, D (corresponding author), Royal Netherlands Inst Southeast Asian & Caribbea, KITLV, Leiden, Netherlands.
+EM davidkloos@gmail.com
+NR 85
+TC 10
+Z9 10
+U1 0
+U2 5
+PU KITLV PRESS
+PI LEIDEN
+PA PO BOX 9515, 2300 RA LEIDEN, NETHERLANDS
+SN 0006-2294
+J9 BIJDR TAAL-LAND-V
+JI Bijd. Tot Taal- Land- Volkenkunde
+PY 2014
+VL 170
+IS 1
+BP 25
+EP 65
+DI 10.1163/22134379-17001003
+PG 41
+WC Anthropology; Asian Studies
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Anthropology; Asian Studies
+GA AP9NP
+UT WOS:000342406800002
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Kinzie, E
+   Blake, A
+   Alvares, R
+   McCormick-Ricket, I
+AF Kinzie, Erik
+   Blake, Adam
+   Alvares, Ryan
+   McCormick-Ricket, Iben
+TI Mental Health Screening in North Sulawesi, Indonesia: Kessler 6 pilot
+   data and needs assessment results from the LearnToLive Indonesian Health
+   Initiative
+SO ASIA-PACIFIC PSYCHIATRY
+LA English
+DT Article
+DE community mental health service; Indonesia; Kessler 6 screen; mental
+   health; needs assessment (health services accessibility)
+ID K6; DISORDERS; ILLNESS; SCALE; POPULATION; DEPRESSION; DISTRESS;
+   VALIDITY; K10
+AB IntroductionCommunities around the world are increasing their focus on mental health and substance use disorders. However, the struggle to identify and treat patients remains great. The sequelae of these disorders, including severe chronic disability and suicide, are significant, and its impact is felt most in lower and middle-income countries. In the rural and underserved region of North Sulawesi, Indonesia, there are limited data published regarding the prevalence of depression, anxiety, and other symptoms of psychological distress.
+   MethodsIn order to characterize and quantify some specific areas of psychological distress, the LearnToLive Indonesian Health Initiative completed a retroactive review of Kessler 6 data from 697 people in rural communities of North Sulawesi.
+   ResultsOur results demonstrate a rate of near 10% for psychological distress, particularly with anxiety and depressive symptoms. We also found that the village of Sapa scored higher on most of the subcomponents of the screen compared with the other villages in the study.
+   DiscussionWhile the Kessler 6 screening tool is not diagnostic, our results suggest significant mental health issues in need of further exploration and research. We found that these results exist in an environment with high stigma, limited education regarding mental illness, and limited outpatient services. The results from this analysis will hopefully guide future mental health education in the region and will ultimately assist in the development of the clinical infrastructure needed to effectively identify, treat, and manage mental health conditions.
+C1 [Kinzie, Erik; Alvares, Ryan] Tulane Univ, Sch Med, Dept Psychiat, 1430 Tulane Ave, New Orleans, LA 70112 USA.
+   [Kinzie, Erik] Our Lady Lake Reg Med Ctr, Div Mental & Behav Hlth, Baton Rouge, LA USA.
+   [Blake, Adam; McCormick-Ricket, Iben] LearnToLive, New Orleans, LA USA.
+C3 Tulane University; Our Lady Lake Regional Medical Center
+RP Kinzie, E (corresponding author), Louisiana State Univ, OLOLRMC Psychiat Residency Program, 5246 Brittany Drive,Room 339, Baton Rouge, LA 70808 USA.
+EM ekinzie@tulane.edu
+NR 26
+TC 3
+Z9 3
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1758-5864
+EI 1758-5872
+J9 ASIA-PAC PSYCHIAT
+JI Asia-Pac. Psychiatry
+PD JUN
+PY 2016
+VL 8
+IS 2
+BP 118
+EP 126
+DI 10.1111/appy.12211
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DJ2CT
+UT WOS:000374012000002
+PM 26391808
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Early Substance Use Initiation And Psychological Distress Among
+   Adolescents In Five ASEAN Countries: A Cross-Sectional Study
+SO PSYCHOLOGY RESEARCH AND BEHAVIOR MANAGEMENT
+LA English
+DT Article
+DE early substance use; psychological distress; adolescents; ASEAN
+   countries
+ID SUICIDE IDEATION; CONSEQUENCES
+AB Aim: The study aimed to assess the associations between substance use early initiation (<12 years) (smoking cigarettes, alcohol and drug use) with psychological distress among adolescents in five ASEAN countries.
+   Methods: Cross-sectional data were analysed from 33,184 school adolescents, with a median age of 14 years, from Indonesia, Laos, Philippines, Thailand and Timor-Leste that took part in the "Global School-Based Student Health Survey (GSHS)" in 2015.
+   Results: The overall prevalence of pre-adolescent (<12 years) cigarette use was 10.6%, 8.1% pre-adolescent current alcohol use, and 4.2% pre-adolescent drug use initiation. In adjusted multinomial logistic regression analysis, pre-adolescent initiation of cigarette smoking, pre-adolescent initiation of alcohol use, pre-adolescent initiation of drug use and multi-substance pre-adolescent initiation were highly associated with medium (=1) and high (=2-5) psychological distress (of five psychological distress items: no close friends, loneliness, anxiety, suicidal ideation and suicide attempt). Late initiation of cigarette use and late initiation of drug use were not associated with medium and/or high psychological distress.
+   Conclusion: Early prevention programmes should target concurrent early substance use initiation in order to prevent possible subsequent psychological distress.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Bangkok, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus,11 Hoffman St, ZA-2531 Potchefstroom, South Africa.
+C3 Mahidol University; North West University - South Africa
+RP Peltzer, K (corresponding author), North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus,11 Hoffman St, ZA-2531 Potchefstroom, South Africa.
+EM kfpeltzer@gmail.com
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 14
+TC 17
+Z9 17
+U1 0
+U2 3
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-1578
+J9 PSYCHOL RES BEHAV MA
+JI Psychol. Res. Behav. Manag.
+PY 2019
+VL 12
+BP 1003
+EP 1008
+DI 10.2147/PRBM.S223624
+PG 6
+WC Psychology, Clinical; Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA JH8DS
+UT WOS:000492999500001
+PM 31749642
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Wiguna, T
+   Ismail, RI
+   Sekartini, R
+   Rahardjo, NSW
+   Kaligis, F
+   Prabowo, AL
+   Hendarmo, R
+AF Wiguna, Tjhin
+   Ismail, R. Irawati
+   Sekartini, Rini
+   Rahardjo, Noorhana Setyawati Winarsih
+   Kaligis, Fransiska
+   Prabowo, Albert Limawan
+   Hendarmo, Rananda
+TI The gender discrepancy in high-risk behaviour outcomes in adolescents
+   who have experienced cyberbullying in Indonesia
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Adolescents; Cyberbullying; High-risk behavior outcomes; Indonesia
+ID MENTAL-HEALTH; ALCOHOL-USE; SCHOOL; SMOKING; STUDENTS; VICTIMIZATION;
+   DEPRESSION; IMPACT; PREVENTION; CHILDHOOD
+AB Objective: Adolescent cyberbullying and high-risk behaviour outcomes has been a major concern in the last few years. Gender discrepancy is an important component that predicts the outcomes. This study aimed to elaborate and identify the association between cyberbullying experience and high-risk behaviour outcomes based on gender differences among adolescents in Indonesia. Method: A cross sectional study that involved junior and senior high schools in Jakarta. There were 2917 adolescents who took part in this study. The cyberbullying questionnaire was used to identify the cyberbullying experienced. High-risk behaviour included in this study was tobacco smoking, alcohol consumption, and self-harm behaviour. Chi-Square test and odds ratio analysis were applied through SPSS for Mac. Results: The highest proportion in this study was composed of adolescents of both genders who acted as victim/perpetrator (52.25%). Adolescent males who indulged in cyberbullying showed an increased risk for cigarette smoking (OR = 2.97); male adolescents who were victims and victim/perpetrator of cyberbullying had a higher risk to consume alcohol (OR = 2.96 & OR = 6.93). Meanwhile, the risk of self-hurting behaviour increased for both female and male with cyberbullying victimization (OR = 3.68 & OR = 2.97). Female adolescents who acted as victim/perpetrator had a higher risk of suicidal thoughts and attempting suicide (OR = 1.90 & OR = 2.11); and they were also at risk of consuming alcohol (OR = 2.84). Conclusion: Cyberbullying returned negative impacts on both genders of adolescents. Boys showed a greater tendency to externalize while girls showed a greater tendency to internalize. Mental health promotion that is designed specifically for both genders might address the adolescents' needs.
+C1 [Wiguna, Tjhin; Ismail, R. Irawati; Rahardjo, Noorhana Setyawati Winarsih; Kaligis, Fransiska] Univ Indonesia, Child & Adolescent Psychiat Div, Dept Psychiat, Fac Med,Dr Cipto Mangunkusumo Gen Hosp, Jakarta, Indonesia.
+   [Sekartini, Rini] Univ Indonesia, Dept Child Hlth, Fac Med, Dr Cipto Mangunkusumo Gen Hosp, Jakarta, Indonesia.
+   [Prabowo, Albert Limawan; Hendarmo, Rananda] Univ Indonesia, Fac Med, Jakarta, Indonesia.
+C3 University of Indonesia; University of Indonesia; University of
+   Indonesia
+RP Wiguna, T (corresponding author), Univ Indonesia, Child & Adolescent Psychiat Div, Dept Psychiat, Fac Med,Dr Cipto Mangunkusumo Gen Hosp, Jakarta, Indonesia.
+EM twiga00@yahoo.com
+OI Hendarmo, Rananda Anggakara/0000-0003-1850-0153; Wiguna,
+   Tjhin/0000-0002-7524-5868; Kaligis, Fransiska/0000-0003-3776-7064
+FU International Collaboration Research Grant from Universitas Indonesia
+FX We would like to thank you all junior- and senior-high schools that took
+   part in this study. International Collaboration Research Grant from
+   Universitas Indonesia funded this study on 2015.
+NR 40
+TC 16
+Z9 16
+U1 1
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD OCT
+PY 2018
+VL 37
+BP 130
+EP 135
+DI 10.1016/j.ajp.2018.08.021
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GY3RJ
+UT WOS:000448471300026
+PM 30218852
+DA 2023-12-03
+ER
+
+PT J
+AU Nuraniyah, N
+AF Nuraniyah, Nava
+TI Not Just Brainwashed: Understanding the Radicalization of Indonesian
+   Female Supporters of the Islamic State
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+DE female jihadist; gender; Indonesia; Islamic State; online
+   radicalization; radicalization
+ID SUICIDE TERRORISM; WOMEN; MIGRATION; EXTREMISM; GENDER; JIHAD
+AB Why do women become extremists? To what extent might they have self-agency? This paper examines the motivations and processes of female radicalization into the so-called Islamic State (IS) by drawing on a case study of Indonesian IS sympathizers, including the three migrant workers-turned-female suicide bombers whose radicalization was facilitated by social media. It argues that far from being coerced, most women join IS of their own free will. Prompted by a mix of personal crisis and socioeconomic and political grievances, the women embark on a religious seeking, exploring the various Islamic options available to them. Ideational congruence might spark the initial interest in IS, but it is generally emotional factors such as a feeling of acceptance and empowerment that make them stay. Contrary to common assumptions, women's subordination in jihadist organizations is not absolute; it can be negotiated after joining. Most women try to conform to jihadist strict gender rules, but some, often with the support of male allies, try to bend the norms, including on female combat roles. The findings suggest that counter-terrorism agencies should abandon the binary view that women are either just brainwashing victims or terrorist provocateurs, and try to understand the gendered nuances of radicalization in order to formulate suitable preventive measures.
+C1 [Nuraniyah, Nava] Inst Policy Anal Conflict, Jl Danau Laut Tawar 53 Pejompongan, Jakarta 10210, Indonesia.
+RP Nuraniyah, N (corresponding author), Inst Policy Anal Conflict, Jl Danau Laut Tawar 53 Pejompongan, Jakarta 10210, Indonesia.
+EM nnuraniyah@understandingconflict.org
+NR 68
+TC 24
+Z9 28
+U1 3
+U2 58
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0954-6553
+EI 1556-1836
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PD NOV 2
+PY 2018
+VL 30
+IS 6
+BP 890
+EP 910
+DI 10.1080/09546553.2018.1481269
+PG 21
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA GY3JP
+UT WOS:000448447400002
+DA 2023-12-03
+ER
+
+PT C
+AU Anis, EZ
+AF Anis, Elis Zuliati
+BE Setyobudi, RH
+   Burlakovs, J
+   Natadjaja, L
+   Soni, P
+   VincevicaGaile, Z
+TI Countering Terrorist Narratives: Winning the Hearts and Minds of
+   Indonesian Millennials
+SO 1ST INTERNATIONAL CONFERENCE ON SOUTH EAST ASIA STUDIES (ICSEAS 2016)
+SE KnE Social Sciences
+LA English
+DT Proceedings Paper
+CT 1st International Conference on South East Asia Studies (ICSEAS)
+CY OCT 13-14, 2016
+CL Badan Penerbit Publikasi Univ Gadjah Mada, Yogyakarta, INDONESIA
+HO Badan Penerbit Publikasi Univ Gadjah Mada
+DE Counter Narratives; Indonesian Millennials; Lone Wolf Terrorism;
+   Terrorism and Social Media Youth and Terrorism
+AB Youth radicalization is a global phenomenon and many countries have fallen victim to deadly terrorist attacks, including Indonesia. With the advancement of technology, society has changed. The millenial generation has become susceptible to terrorist propaganda. In this digital age, social media has become a powerful tool for spreading terrorist narratives. They target the millennial generation who depends on online social networks for self-expression and to develop a sense of belonging. It is assumed that online interactions have contributed to the radicalization process. Some of them eventually join terrorist networks or become suicide bombers. This paper critically assesses how terrorists use the media to develop narratives that win the hearts and minds of Indonesian millennials. It will do so by juxtaposing the terrorist narratives with the counter-narrative initiatives undertaken by the government, NGOs and universities.
+C1 [Anis, Elis Zuliati] Univ Gadjah Mada, Interreligious Studies IRS, Grad Sch, Jalan Teknika Utara Pogung, Yogyakarta 55821, Indonesia.
+C3 Gadjah Mada University
+RP Anis, EZ (corresponding author), Univ Gadjah Mada, Interreligious Studies IRS, Grad Sch, Jalan Teknika Utara Pogung, Yogyakarta 55821, Indonesia.
+EM elis@ugm.ac.id
+RI Anis, Elis Z./O-7783-2019
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 4
+PU KNOWLEDGE E
+PI DUBAI
+PA OFFICE 4402, X2 TOWER, JLT, PO BOX 488239, DUBAI, 00000, U ARAB EMIRATES
+SN 2518-668X
+J9 KNE SOC SCI
+PY 2018
+BP 189
+EP 210
+DI 10.18502/kss.v3i5.2333
+PG 22
+WC Asian Studies; Social Issues; Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Asian Studies; Social Issues; Social Sciences - Other Topics
+GA BL1IJ
+UT WOS:000447759000013
+OA gold
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI High carbonated soft drink consumption is associated with externalizing
+   but not internalizing behaviours among university students in five ASEAN
+   states
+SO PSYCHOLOGY RESEARCH AND BEHAVIOR MANAGEMENT
+LA English
+DT Article
+DE soft drink consumption; addictive behaviour; substance use; mental
+   distress; university students; ASEAN
+ID DEPRESSIVE SYMPTOMS; MENTAL-HEALTH; SUICIDAL BEHAVIORS; SODA
+   CONSUMPTION; OLDER-ADULTS; FOOD; QUESTIONNAIRE; ADOLESCENTS; STRESS;
+   SAMPLE
+AB Background: The investigation aimed to estimate the association between carbonated soft drink consumption frequency and externalizing and internalizing behaviour among university students in five ASEAN counties.
+   Methods: A cross-sectional survey included 3353 university students from Indonesia, Malaysia, Myanmar, Thailand and Vietnam, median age 20 years (interquartile range 3 years).
+   Results: In all five ASEAN countries, the study found a prevalence no soft drink consumption in the past 30 days of 20.3%, less than one time a day 44.7%, once a day 25.4% and two or more times a day 9.6%. In the adjusted logistic regression analysis, higher frequency of soft drink consumption (one and/or two or more times a day) was associated with externalizing behaviour (in physical fight, injury, current tobacco use, problem drinking, drug use, pathological internet use and gambling behaviour), and higher frequency of soft drink consumption (two or more times a day) was associated with depression in females, but no association was found for the general student population in relation to internalizing behaviour (depression, posttraumatic stress disorder, suicidal ideation, suicide plan, suicide attempt and sleeping problem).
+   Conclusions: Findings suggest that carbonated soft drink consumption is associated with a number of externalizing but not internalizing health risk behaviours.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus 2,Hoffman St, ZA-2531 Potchefstroom, South Africa.
+C3 Mahidol University; North West University - South Africa
+RP Peltzer, K (corresponding author), North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus 2,Hoffman St, ZA-2531 Potchefstroom, South Africa.
+EM kfpeltzer@gmail.com
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 35
+TC 4
+Z9 4
+U1 0
+U2 20
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-1578
+J9 PSYCHOL RES BEHAV MA
+JI Psychol. Res. Behav. Manag.
+PY 2019
+VL 12
+BP 585
+EP 592
+DI 10.2147/PRBM.S209611
+PG 8
+WC Psychology, Clinical; Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA IO3PH
+UT WOS:000479292100002
+PM 31534377
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Whitehouse, H
+AF Whitehouse, Harvey
+TI Dying for the group: Towards a general theory of extreme self-sacrifice
+SO BEHAVIORAL AND BRAIN SCIENCES
+LA English
+DT Article
+DE Identity fusion; imagistic practices; memory; rites of terror;
+   self-sacrifice; suicide terrorism; warfare
+ID SOCIAL-DOMINANCE ORIENTATION; PERCEIVED COLLECTIVE CONTINUITY; IDENTITY
+   FUSION; IN-GROUP; GROUP IDENTIFICATION; ULTIMATE SACRIFICE; INDIVIDUAL
+   SELF; SACRED VALUES; MOTIVATIONAL PRIMACY; DESTRUCTIVE KILLERS
+AB Whether upheld as heroic or reviled as terrorism, people have been willing to lay down their lives for the sake of their groups throughout history. Why? Previous theories of extreme self-sacrifice have highlighted a range of seemingly disparate factors, such as collective identity, outgroup hostility, and kin psychology. In this paper, I attempt to integrate many of these factors into a single overarching theory based on several decades of collaborative research with a range of special populations, from tribes in Papua New Guinea to Libyan insurgents and from Muslim fundamentalists in Indonesia to Brazilian football hooligans. These studies suggest that extreme self-sacrifice is motivated by identity fusion, a visceral sense of oneness with the group, resulting from intense collective experiences (e.g., painful rituals or the horrors of frontline combat) or from perceptions of shared biology. In ancient foraging societies, fusion would have enabled warlike bands to stand united despite strong temptations to scatter and flee. The fusion mechanism has often been exploited in cultural rituals, not only by tribal societies but also in specialized cells embedded in armies, cults, and terrorist organizations. With the rise of social complexity and the spread of states and empires, fusion has also been extended to much larger groups, including doctrinal religions, ethnicities, and ideological movements. Explaining extreme self-sacrifice is not only a scientific priority but also a practical challenge as we seek a collective response to suicide, terrorism, and other extreme expressions of outgroup hostility that continue to bedevil humanity today.
+C1 [Whitehouse, Harvey] Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+C3 University of Oxford
+RP Whitehouse, H (corresponding author), Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+EM harvey.whitehouse@anthro.ox.ac.uk
+OI Whitehouse, Harvey/0000-0001-6935-6724
+FU Large Grant from the UK's Economic and Social Research Council [REF
+   RES-060-25-467 0085]; European Research Council (ERC) under the European
+   Union [694986]; Templeton World Charity Foundation [TWCF0164]; ESRC
+   [ES/I005455/1] Funding Source: UKRI
+FX Thanks to Michael Buhrmester, Sergey Gavrilets, Rohan Kapitany,
+   Christopher Kavanagh, Jonathan Lanman, and the BBS reviewers for
+   comments and suggestions. This work was supported by a Large Grant from
+   the UK's Economic and Social Research Council (REF RES-060-25-467 0085),
+   an Advanced Grant from the European Research Council (ERC) under the
+   European Union's Horizon 2020 Research and Innovation Programme (Grant
+   Agreement 694986), and an award from the Templeton World Charity
+   Foundation entitled "Cognitive and Cultural Foundations of Religion and
+   Morality" (TWCF0164).
+NR 559
+TC 85
+Z9 90
+U1 1
+U2 65
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0140-525X
+EI 1469-1825
+J9 BEHAV BRAIN SCI
+JI Behav. Brain Sci.
+PY 2018
+VL 41
+AR e192
+DI 10.1017/S0140525X18000249
+PG 23
+WC Psychology, Biological; Behavioral Sciences; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Behavioral Sciences; Neurosciences & Neurology
+GA HL5SP
+UT WOS:000458790700073
+PM 29409552
+OA Green Submitted
+DA 2023-12-03
+ER
+
+PT C
+AU Kemala, IN
+AF Kemala, Intan Nurul
+BE Uslu, F
+TI LONELINESS IN SCHOOL: SCHOOL COUNSELOR'S PERSPECTIVE ABOUT WHAT, WHY AND
+   HOW
+SO ADVED 2017: 3RD INTERNATIONAL CONFERENCE ON ADVANCES IN EDUCATION AND
+   SOCIAL SCIENCE
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Advances in Education and Social Science
+   (ADVED)
+CY OCT 09-11, 2017
+CL Istanbul, TURKEY
+DE Loneliness; Emotional Loneliness; Social Loneliness; Coping Strategies
+ID ADOLESCENCE
+AB Loneliness is a mental state that is destructive, a stressful experience, painful and unpleasant. Loneliness happens when someone doesn't feel the intimate relationship both quantitatively as well as qualitatively. Loneliness is divided into two, emotional loneliness and social loneliness. In General, changes in physical, psychological and cognitive in teenagers sparked various circumstances that contribute to loneliness. Studies have shown the negative effects of loneliness such as physical health problems, lack of psychological well-being, social problems and even trigger teenagers to commit suicide. The school counselor should be alert to the symptoms of loneliness at school. In accordance with its functions, school counselor has a strategic position to detect up to cope with the case of the lonely. The qualitative descriptive study was designed to describe the counselor's perspective on issues of loneliness at school. This research used questionnaires that contained open-ended questions with answer forms exploratory. The respondent was the school counselor in secondary school who comes from 12 regencies and cities of five provinces in Indonesia. Result: most of the school counselor have not paid special attention to recognizing lonely students, not knowing their symptoms and effects, and have not learned yet how to cope. This is indicated by the limited response given by the counselor. There was no specific program to overcome loneliness in their schools. This study provides direction to those field practitioners, academics, and policy makers to take steps aimed at increasing the knowledge and skills of school counselors in dealing with cases of loneliness. Advanced research on various topics needed to enrich the study of loneliness in Indonesia.
+C1 [Kemala, Intan Nurul] Univ Pendidikan Indonesia, Bandung, Indonesia.
+C3 Universitas Pendidikan Indonesia
+RP Kemala, IN (corresponding author), Univ Pendidikan Indonesia, Bandung, Indonesia.
+EM intannurulkemala@gmail.com
+FU Indonesia Endowment Fund for Education (LPDP)
+FX The author would like to acknowledge and express my greatest gratitude
+   to the Indonesia Endowment Fund for Education (LPDP) for its support of
+   this initial research. It is an honor for me, have been guided by Dr.
+   Nani M. Sugandhi, M. Pd as my academic counselor throughout the course
+   so that the author gets various knowledge about the issue of loneliness.
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 9
+PU INT ORGANIZATION CENTER ACAD RESEARCH
+PI ISTANBUL
+PA YUNUS EMRE CAD AKASYA SK NO 22, UGUR MUMCU, ISTANBUL, KARTAL 00000,
+   TURKEY
+BN 978-605-82433-0-9
+PY 2017
+BP 105
+EP 113
+PG 9
+WC Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Social Sciences - Other Topics
+GA BK1II
+UT WOS:000431839500027
+DA 2023-12-03
+ER
+
+PT J
+AU Chim, H
+   Yew, WS
+   Song, CL
+AF Chim, Harvey
+   Yew, Woon Si
+   Song, Colin
+TI Managing burn victims of suicide bombing attacks: outcomes, lessons
+   learnt, and changes made from three attacks in Indonesia
+SO CRITICAL CARE
+LA English
+DT Article
+ID EXTERNAL SIGNS; INJURIES; MANAGEMENT; ISRAEL
+AB Introduction Terror attacks in Southeast Asia were almost nonexistent until the 2002 Bali bomb blast, considered the deadliest attack in Indonesian history. Further attacks in 2003 ( Jakarta), 2004 ( Jakarta), and 2005 ( Bali) have turned terrorist attacks into an ever-present reality.
+   Methods The authors reviewed medical charts of victims evacuated to the Singapore General Hospital ( SGH) Burns Centre during three suicide attacks involving Bali ( 2002 and 2005) and the Jakarta Marriott hotel ( 2003). Problems faced, lessons learnt, and costs incurred are discussed. A burns disaster plan drawing on lessons learnt from these attacks is presented.
+   Results Thirty-one patients were treated at the SGH Burns Centre in three attacks ( 2002 Bali attack [ n = 15], 2003 Jakarta attack [ n = 14], and 2005 Bali attack [ n = 2]). For the 2002 Bali attack, median age was 29 years ( range 20 to 50 years), median percentage of total burn surface area ( TBSA) was 29% ( range 5% to 55%), and median abbreviated burn severity index ( ABSI) was 6 ( range 3 to 10). Eight of 15 patients were admitted to the intensive care unit. For the 2003 Jakarta attack, median age was 35 years ( range 24 to 56 years), median percentage of TBSA was 10% ( range 2% to 46%), and median ABSI was 4 ( range 3 to 9). A large number of patients had other injuries. Problems faced included manpower issues, lack of bed space, shortage of blood products, and lack of cadaver skin.
+   Conclusion The changing nature of terror attacks mandates continued vigilance and disaster preparedness. The multidimensional burns patient, complicated by other injuries, is likely to become increasingly common. A burns disaster plan with emphasis on effective command, control, and communication as well as organisation of health care personnel following a 'team concept' will do much to ensure that the sudden onset of a crisis situation at an unexpected time does not overwhelm hospital manpower and resources.
+C1 Singapore Gen Hosp, Dept Plast Surg & Burns, Singapore 169608, Singapore.
+   Singapore Gen Hosp, Dept Anaesthesia & Surg Intens Care, Singapore 169608, Singapore.
+C3 Singapore General Hospital; Singapore General Hospital
+RP Chim, H (corresponding author), Singapore Gen Hosp, Dept Plast Surg & Burns, Block 4,Level 6,Outram Rd, Singapore 169608, Singapore.
+EM harveychim@yahoo.com
+NR 15
+TC 16
+Z9 16
+U1 0
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA MIDDLESEX HOUSE, 34-42 CLEVELAND ST, LONDON W1T 4LB, ENGLAND
+SN 1466-609X
+J9 CRIT CARE
+JI Crit. Care
+PY 2007
+VL 11
+IS 1
+AR R15
+DI 10.1186/cc5681
+PG 9
+WC Critical Care Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 185OT
+UT WOS:000247721000015
+PM 17274813
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Foucault, P
+AF Foucault, P
+TI The Sarthois, their press and Asia (from India to the Far-East) between
+   1844 and the eve of the First World War
+SO ANNALES DE BRETAGNE ET DES PAYS DE L OUEST
+LA French
+DT Review
+AB What did people from la Sarthe think of all the countries located between India and the extreme east of the Asian continent between 1860 and 1914? Is Asian culture really part of their lives?
+   We can find the answers to these two questions by studying local newspapers.
+   The country written about the most is China followed by Indonesia; with Japan and India far behind them.
+   The image given of these countries is rather contradictory: on the one hand they were portrayed as the land of plenty with an abundance of wealth of all kinds, but on the other hand they were described as lands of death and catastrophe. They were also ruthless societies where torture and ritual suicides were said to be commonplace and where Hindu and Chinese women were physically and morally abused Chinese people are viewed with both despise and admiration. Japan was entering the Meiji era and was highly praised, mostly for her military victories over China and then Russia. Even if Asian objects were rarely to be seen in the home of Sarthe inhabitants, the Catholics from La Sarthe supported them vigorously.
+C1 Univ Maine, F-72017 Le Mans, France.
+C3 Le Mans Universite
+RP Foucault, P (corresponding author), Univ Maine, F-72017 Le Mans, France.
+NR 215
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV HAUTE-BRETAGNE
+PI RENNES
+PA ANN BRETAGNE PAYS OUEST AVE GASTON-BERGER, 35000 RENNES, FRANCE
+SN 0399-0826
+J9 ANN BRETAGNE PAYS
+JI Ann. Bretagne Pays Ouest
+PY 2005
+VL 112
+IS 3
+BP 143
+EP 174
+PG 32
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 978EX
+UT WOS:000232857500007
+DA 2023-12-03
+ER
+
+PT J
+AU Ginting, H
+   Näring, G
+   van der Veld, WM
+   Srisayekti, W
+   Becker, ES
+AF Ginting, Henndy
+   Naring, Gerard
+   van der Veld, William M.
+   Srisayekti, Wilis
+   Becker, Eni S.
+TI Validating the Beck Depression Inventory-II in Indonesia's general
+   population and coronary heart disease patients
+SO INTERNATIONAL JOURNAL OF CLINICAL AND HEALTH PSYCHOLOGY
+LA English
+DT Article
+DE BDI-II; Depression; Validity; Cut-off point; Instrumental study
+ID MULTIDIMENSIONAL SCALE; MYOCARDIAL-INFARCTION; RISK-FACTORS; COUNTRIES;
+   SUICIDE; SCORES
+AB This study assesses the validity and determines the cut-off point for the Beck Depression Inventory-II (the BDI-II) among Indonesians. The Indonesian version of the BDI-II (the Indo BDI-II) was administered to 720 healthy individuals from the general population, 215 Coronary Heart Disease (CHD) patients, and 102 depressed patients. Confirmatory factor analysis indicated factorial similarity across the three samples. Significant correlations between the Indo BDI-II and other self-report measures related to depression demonstrated construct validity of the Indo BDI-II. Furthermore, there was a highly significant difference in the Indo BDI-II scores between depressed patients and non-depressed participants. Internal consistency and re-test reliability of the Indo BDI-II were acceptable. The receiver operating characteristic (ROC) curve indicated that the cut-off point of the Indo BDI-II for a mild severity of depression in Indonesian population should be 17. We conclude that the Indo BDI-II is a valid measure of depression, both in the Indonesian general population and in CHD patients. (c) 2013 Asociacion Espanola de Psicologia Conductual. Published by Elsevier Espana, S.L. All rights reserved.
+C1 [Ginting, Henndy; Naring, Gerard; van der Veld, William M.; Becker, Eni S.] Radboud Univ Nijmegen, Inst Behav Sci, NL-6500 HE Nijmegen, Netherlands.
+   [Srisayekti, Wilis] Padjadjaran State Univ, Bandung, Indonesia.
+C3 Radboud University Nijmegen; Universitas Padjadjaran
+RP Ginting, H (corresponding author), Radboud Univ Nijmegen, Inst Behav Sci, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+EM henndyg@yahoo.com
+RI Ginting, Henndy/AAD-9758-2021; Näring, Gérard/D-1506-2012; van der Veld,
+   William/AAG-7057-2020; Becker, Eni S/A-2668-2010
+OI Näring, Gérard/0000-0002-0198-6508; van der Veld,
+   William/0000-0002-5121-2340; Becker, Eni S/0000-0003-3524-426X
+NR 45
+TC 41
+Z9 42
+U1 2
+U2 19
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 1697-2600
+EI 1576-7329
+J9 INT J CLIN HLTH PSYC
+JI Int. J. Clin. Health Psychol.
+PD SEP
+PY 2013
+VL 13
+IS 3
+BP 235
+EP 242
+DI 10.1016/S1697-2600(13)70028-0
+PG 8
+WC Psychology, Clinical
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 210UZ
+UT WOS:000323861500008
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Bullying victimization and externalizing and internalizing symptoms
+   among in-school adolescents from five ASEAN countries
+SO CHILDREN AND YOUTH SERVICES REVIEW
+LA English
+DT Article
+DE Bullying victimization; Substance use; Interpersonal violence; Hygiene;
+   Psychological distress; Adolescents; Southeast Asia
+ID ASSOCIATION; HEALTH; STUDENTS; RISK; BEHAVIOR; PATHWAYS; OUTCOMES; YOUTH
+AB The study aimed to assess the relationship between bullying victimization and adverse health or psychosocial problems among in-school adolescents from five Southeast Asian countries. The sample consisted of 33,184 school-going children, mean age 14.6 years (SD = 1.7), from Indonesia, Laos, Philippines, Thailand and Timor-Leste that took part in the cross-sectional "Global School-based Student Health Survey" (GSHS) in 2015. Results indicate 18.6% of the students reported infrequent (1-2 days/month) and 12.0% frequent (3-30 days/month) past-month bullying victimization. Among different types of bullying victimization, the most prevalent was psychological (13.5%), followed by other (5.6%), physical (3.6%) and social (1.3%). In adjusted Poisson regression analysis, bullying victimization is associated with tobacco, alcohol and drug use, physically attacked, in physical fight, injury, truancy and poor hand hygiene behaviour, anxiety, loneliness, suicidal ideation, suicide attempt, no close friends, sedentary behaviour, underweight and overweight or obesity. This study extends previous findings from mainly high-income countries on the relationship between bullying victimization and a large number of adverse outcomes in adolescents in Southeast Asia.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhon Pathom, Thailand.
+   [Peltzer, Karl] Ton Duc Thang Univ, Dept Management Sci & Technol Dev, Ho Chi Minh City, Vietnam.
+   [Pengpid, Supa] Univ Limpopo, Dept Res Adm & Dev, Turfloop, South Africa.
+   [Peltzer, Karl] Ton Duc Thong Univ, Fac Pharm, Ho Chi Minh City, Vietnam.
+C3 Mahidol University; Ton Duc Thang University; University of Limpopo; Ton
+   Duc Thang University
+RP Peltzer, K (corresponding author), Ton Duc Thang Univ, Ho Chi Minh City, Vietnam.
+EM karl.peltzer@tdtu.edu.vn
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 39
+TC 31
+Z9 31
+U1 2
+U2 27
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0190-7409
+EI 1873-7765
+J9 CHILD YOUTH SERV REV
+JI Child. Youth Serv. Rev.
+PD NOV
+PY 2019
+VL 106
+AR 104473
+DI 10.1016/j.childyouth.2019.104473
+PG 7
+WC Family Studies; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Social Work
+GA JI1JP
+UT WOS:000493222000009
+DA 2023-12-03
+ER
+
+PT J
+AU Turnbull, N
+   Peltzer, K
+   Pengpid, S
+   Low, WY
+   Huu, TN
+   Rochmawati, E
+   Win, HH
+AF Turnbull, Niruwan
+   Karl Peltzer
+   Pengpid, Supa
+   Low, Wah Yun
+   Thang Nguyen Huu
+   Rochmawati, Erna
+   Win, Hla Hla
+TI Pathological Internet Use and Psychosocial Risk Factors among ASEAN
+   University Students
+SO IRANIAN JOURNAL OF PSYCHIATRY AND BEHAVIORAL SCIENCES
+LA English
+DT Article
+DE Asia; Comorbidity; Internet; Psychosocial Factors; Students
+ID ADDICTION; PREVALENCE; ADOLESCENTS; DEPRESSION
+AB Background: Pathological internet use may lead to serious psychosocial problems and dysfunction.
+   Objectives: The purpose of the study was to investigate the prevalence of pathological internet use among undergraduate university students in five ASEAN countries in relation to sociodemographics, internet use variables, psychosocial factors, and comorbid symptoms.
+   Methods: In a cross-sectional survey in 2015 in Indonesia (Yogyakarta), Malaysia (Kuala Lumpur), Myanmar (Yangon), Thailand (MahaSarakham), and Vietnam (Hanoi), 3240 undergraduate university students (Mean age = 20.5 years, SD = 1.6), who were randomly selected, responded to a questionnaire including the "Young Diagnostic Questionnaire for Internet Addiction" (YDQ) and other measures.
+   Results: Overall, the prevalences of pathological internet use were 35.9% (ranging from 16.1% in Myanmar to 52.4% in Thailand), maladaptive use 34.8% and adjusted Internet users 29.9%. In multivariate logistic regression analysis, internet use variables (heavy overall Internet use, heavy Internet use for recreational purposes, and heavy smartphone use), psychosocial factors (the experience of childhood physical abuse, childhood sexual abuse, lack of social support, and poor academic performance), and comorbid symptoms (having a self-classified gambling problem, hazardous or harmful alcohol use, past 12-month drug use, severe depression, sleeping problems, having attempted a suicide, and PTSD symptoms) were found to be associated with pathological internet use.
+   Conclusions: The study found a very high prevalence of pathological internet use; those students lacking psychosocial support and having comorbid symptoms were at the highest risk.
+C1 [Turnbull, Niruwan] Mahasarakham Univ, Fac Publ Hlth, Maha Sarakham, Thailand.
+   [Karl Peltzer] Ton Duc Thang Univ, Dept Management Sci & Technol Dev, Ho Chi Minh City, Vietnam.
+   [Karl Peltzer] Ton Duc Thang Univ, Fac Pharm, Ho Chi Minh City, Vietnam.
+   [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, Sovenga, South Africa.
+   [Low, Wah Yun] Univ Malaya, Fac Med, Kuala Lumpur, Malaysia.
+   [Thang Nguyen Huu] Hanoi Med Univ, Fac Publ Hlth, Hanoi, Vietnam.
+   [Rochmawati, Erna] Univ Muhammadiyah Yogyakarta, Sch Nursing, Jl Lingkar Selatan, Bantul, Di Yogyakarta, Indonesia.
+   [Win, Hla Hla] Univ Med 1, DepartmentPrevent & Social Med Dept, Yangon, Myanmar.
+C3 Mahasarakham University; Ton Duc Thang University; Ton Duc Thang
+   University; Mahidol University; University of Limpopo; Universiti
+   Malaya; Hanoi Medical University; Universitas Muhammadiyah Yogyakarta
+RP Peltzer, K (corresponding author), Ton Duc Thang Univ, Ho Chi Minh City, Vietnam.
+EM karl.peltzer@tdt.edu.vn
+RI Peltzer, Karl/Q-7334-2019; Turnbull, Niruwan/U-3223-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Turnbull, Niruwan/0000-0002-7698-3352
+FU South African Department of higher education
+FX Partial funding for this study was provided by the South African
+   Department of higher education.
+NR 24
+TC 7
+Z9 7
+U1 0
+U2 27
+PU KOWSAR PUBL
+PI HOENSBROEK
+PA PATERSWEG 22,, HOENSBROEK, LIMBURG 6431 GC, NETHERLANDS
+SN 1735-8639
+EI 1735-9287
+J9 IRAN J PSYCHIATRY BE
+JI Iran. J. Psychiatry Behav. Sci.
+PD MAR
+PY 2018
+VL 12
+IS 1
+AR e10063
+DI 10.5812/ijpbs.10063
+PG 8
+WC Psychiatry
+WE Emerging Sources Citation Index (ESCI)
+SC Psychiatry
+GA GG8YK
+UT WOS:000432985900015
+OA gold
+DA 2023-12-03
+ER
+
+PT J
+AU Chee, KY
+   Tripathi, A
+   Avasthi, A
+   Chong, MY
+   Xiang, YT
+   Sim, K
+   Si, TM
+   Kanba, S
+   He, YL
+   Lee, MS
+   Chiu, HFK
+   Yang, SY
+   Kuga, H
+   Udormatn, P
+   Kallivayalil, RA
+   Tanra, AJ
+   Maramis, M
+   Grover, S
+   Chin, LF
+   Dahlan, R
+   Isa, MFM
+   Ebenezer, EGM
+   Nordin, N
+   Shen, WW
+   Shinfuku, N
+   Tan, CH
+   Sartorius, N
+AF Chee, Kok-Yoon
+   Tripathi, Adarsh
+   Avasthi, Ajit
+   Chong, Mian-Yoon
+   Xiang, Yu-Tao
+   Sim, Kang
+   Si, Tian-Mei
+   Kanba, Shigenobu
+   He, Yan-Ling
+   Lee, Min-Soo
+   Chiu, Helen Fung-Kum
+   Yang, Shu-Yu
+   Kuga, Hironori
+   Udormatn, Pichet
+   Kallivayalil, Roy A.
+   Tanra, Andi J.
+   Maramis, Margarita
+   Grover, Sandeep
+   Chin, Loi-Fei
+   Dahlan, Rahima
+   Isa, Mohd Fadzli Mohamad
+   Ebenezer, Esther Gunaseli M.
+   Nordin, Norhayati
+   Shen, Winston W.
+   Shinfuku, Naotaka
+   Tan, Chay-Hoon
+   Sartorius, Norman
+TI Country variations in depressive symptoms profile in Asian countries:
+   Findings of the Research on Asia Psychotropic Prescription (REAP)
+   studies
+SO ASIA-PACIFIC PSYCHIATRY
+LA English
+DT Article
+DE Asian; income; region; transcultural psychiatry
+ID 12-MONTH PREVALENCE; METROPOLITAN CHINA; SUICIDE IDEATION; MAJOR
+   DEPRESSION; MENTAL-DISORDERS; DSM-IV; HEALTH; POPULATION; SEVERITY;
+   BURDEN
+AB IntroductionThis study was to assess differences in the symptom profile of depressive illness across various countries/territories in Asia. The study was a part of the Research on Asia Psychotropic Prescription project. The participating countries/territories include China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Singapore, Taiwan, and Thailand.
+   MethodsThe pattern of depressive symptoms in 1,400 subjects with depressive disorder from 42 psychiatric centers in 10 Asian countries/territories was assessed. We collected information on socio-demographic and clinical characteristics with a standardized protocol and data collection procedure.
+   ResultsThe most common presentations of depressive symptoms were persistent sadness, loss of interest, and insomnia. Similar findings were found regardless of the region, country, or its income level. Patients with depressive disorder from high-income countries presented significantly more with vegetative symptom cluster (P<0.05), while those from the upper middle-income countries had significantly more with both mood (P<0.001) and cognitive symptom clusters (P<0.01). In lower middle-income countries, patients with depressive symptoms had significantly less mood symptom cluster (P<0.001) but significantly more cognitive symptom cluster (P<0.05).
+   DiscussionThis study demonstrates that in Asia, despite variations in the initial symptom reported by the patients, across different countries/territories, core depressive symptoms remain the same. Variations have been found in presentation of depressive symptoms with regards to the level of income of countries. Physical or vegetative symptoms were reported more by centers in higher income countries, while depressive cognition and suicidal thoughts/acts were more frequently reported from lower income countries.
+C1 [Chee, Kok-Yoon] Kuala Lumpur Hosp, Dept Psychiat & Mental Hlth, Kuala Lumpur 50586, Kuala Lumpur, Malaysia.
+   [Tripathi, Adarsh] King Georges Med Univ, Dept Psychiat, Lucknow, Uttar Pradesh, India.
+   [Avasthi, Ajit; Grover, Sandeep] Postgrad Inst Med Educ & Res, Dept Psychiat, Chandigarh 160012, India.
+   [Chong, Mian-Yoon] Kaohsiung Chang Gung Mem Hosp, Kaohsiung Med Ctr, Dept Psychiat, Kaohsiung, Taiwan.
+   [Chong, Mian-Yoon] Chang Gung Univ, Sch Med, Taoyuan, Taiwan.
+   [Xiang, Yu-Tao] Univ Macau, Fac Hlth Sci, Macau, Peoples R China.
+   [Sim, Kang] Inst Mental Hlth, Singapore, Singapore.
+   [Si, Tian-Mei] Peking Univ, Dept Psychiat, Inst Mental Hlth, Beijing 100871, Peoples R China.
+   [Kanba, Shigenobu; Kuga, Hironori] Kyushu Univ, Dept Neuropsychiat, Fukuoka 812, Japan.
+   [He, Yan-Ling] Shanghai Mental Hlth Ctr, Dept Psychiat Epidemiol, Shanghai, Peoples R China.
+   [Lee, Min-Soo] Korea Univ, Coll Med, Dept Psychiat, Seoul 136705, South Korea.
+   [Chiu, Helen Fung-Kum] Chinese Univ Hong Kong, Dept Psychiat, Hong Kong, Hong Kong, Peoples R China.
+   [Yang, Shu-Yu] Taipei City Hosp, Dept Pharm, Taipei, Taiwan.
+   [Udormatn, Pichet] Prince Songkla Univ, Fac Med, Dept Psychiat, Hat Yai, Thailand.
+   [Kallivayalil, Roy A.] Pushpagiri Med Coll, Dept Psychiat, Thiruvalla, India.
+   [Tanra, Andi J.] Hasanuddin Univ, Fac Med, Dept Psychiat, Makassar, Sulawesi Selata, Indonesia.
+   [Maramis, Margarita] Airlangga Univ, Fac Med, Dr Soetomo Hosp, Jawa Timur, Indonesia.
+   [Chin, Loi-Fei] Tengku Ampuan Rahimah Hosp, Dept Psychiat & Mental Hlth, Selangor, Malaysia.
+   [Dahlan, Rahima] Kajang Hosp, Dept Psychiat & Mental Hlth, Selangor, Malaysia.
+   [Isa, Mohd Fadzli Mohamad] Sultan Abdul Halim Hosp, Dept Psychiat & Mental Hlth, Kedah, Malaysia.
+   [Ebenezer, Esther Gunaseli M.] Univ Kuala Lumpur, Royal Coll Med, Dept Psychiat, Perak, Malaysia.
+   [Nordin, Norhayati] Mesra Hosp, Sabah, Malaysia.
+   [Shen, Winston W.] Taipei Med Univ, TMU Wan Fang Med Ctr, Dept Psychiat, Taipei, Taiwan.
+   [Shen, Winston W.] Taipei Med Univ, Sch Med, Dept Psychiat, Taipei, Taiwan.
+   [Shinfuku, Naotaka] Kobe Univ, Dept Psychiat, Kobe, Hyogo 657, Japan.
+   [Tan, Chay-Hoon] Natl Univ Singapore, Dept Pharmacol, Singapore 117548, Singapore.
+   [Sartorius, Norman] Assoc Improvement Mental Hlth Programmes, Geneva, Switzerland.
+C3 King George's Medical University; Post Graduate Institute of Medical
+   Education & Research (PGIMER), Chandigarh; Chang Gung Memorial Hospital;
+   Chang Gung University; University of Macau; Peking University; Kyushu
+   University; Korea University; Korea University Medicine (KU Medicine);
+   Chinese University of Hong Kong; Taipei City Hospital; Prince of Songkla
+   University; Universitas Hasanuddin; Airlangga University; Dr Soetomo
+   General Hospital Surabaya; University of Kuala Lumpur; Taipei Medical
+   University; Taipei Municipal WanFang Hospital; Taipei Medical
+   University; Kobe University; National University of Singapore
+RP Chee, KY (corresponding author), Kuala Lumpur Hosp, Dept Psychiat & Mental Hlth, Pahang Rd, Kuala Lumpur 50586, Kuala Lumpur, Malaysia.
+EM cheekokyoon@yahoo.com
+RI Kallivayalil, Roy Abraham/ABA-3617-2020; Mohd Isa, Mohd
+   Fadzli/GWN-1021-2022; LEE, MINSOO/HGE-5845-2022; Tripathi,
+   Adarsh/AAP-9697-2020; Maramis, Margarita/K-9685-2017; Dahlan,
+   Rahima/O-1667-2017
+OI Kallivayalil, Roy Abraham/0000-0002-1991-3796; Tripathi,
+   Adarsh/0000-0002-3885-6475; Maramis, Margarita/0000-0001-8898-5470;
+   Dahlan, Rahima/0000-0002-2659-2572; Sim, Kang/0000-0003-3209-9626;
+   Xiang, Yu-Tao/0000-0002-2906-0029
+FU Taipei City Hospital, Taipei, Taiwan [10201-62-077]
+FX This study was supported in part by grants from the Taipei City Hospital
+   (10201-62-077), Taipei, Taiwan. The authors are grateful to the
+   following clinicians for their contribution to the REAP study: China:
+   Hao Wei, Li Tao, Zhu Min Jie, Zhao Jing Ping, Yu Mei Hong, Yao Jie, Yin
+   Fei Yan, Xue Zhen Kang, XieGuang Ron, Wang Xiao Ping, Tian Tao, TH, Su
+   Ning, Su Lin Yan, Shi Dian Hong, Qiu Mei Hui, Peng Yi Hua, Ni Kai Ji,
+   LuoXueRong, Liu Qiong, Liu Cai Ping, Li Yuan Yuan, Li Qian, Li Ling
+   Jiang, Li HaoJie, Jiang Wen Hui, Ji Chen Feng, HZ, Hao Wei, GR,
+   FengQiang, Fan Qing, Duan Yan Ping, Chen Yu, Chen Chao, Chao Lan, Cao Yu
+   Ping; Hong Kong: Gabor S Ungvari, A Tsang, Arthur Lam, Cheng C, Wong C.,
+   CH Au, I Kam, Chung PW., Grace Leung, KH Tong, LK Cheung, M Wong, MC
+   Hong, PW Chung, W Tai, R Ko, Wong Hoy An, WT Chan; Japan: SentaFujii,
+   Nishimura Ryoji, Uchida Naoki, Shinji Shimodera, SejimaKanako, A
+   Ichimiya, A Yabuki, Arai, C Iwagawa, D Katsuki, Fujinaga, H Fujita,
+   Fukushima, Fukuyuma, H Nori, H Kunitake, H Nagai, H Nawata, H Sanematsu,
+   H Takei, H Tatebayshi, H Tateishi, H Kodoma, Hirano, Lida, Inomata, J
+   Maruo, J Nakamura, J Sato, K Atake, K Kakeda, K Kuroiwa, K Motomura, K
+   Ogomori, K Yamada, K Yamane, Kamiya, M Akamatsu, M Fuji, M Fujioka, M
+   Kawano, M Matsushita, M Ogusu, M Yamana, Miyashita, Miyoshi, N Eto, N
+   Kuwano, Nakagawa, Nishimura, R Tsuchimoto, R Yoshimura, S Nakanishi, S
+   Sakaguchi, S Shimodera, Sakurai, Sejima, Sunami, T Kawashima, T Kubo, T
+   Miura, T Saitou, T Shinkai, T Yoshida, Tomiyama, Y Haraguchi, Y Nakano,
+   Y Nishizima, Y Suga, Yoshimori; Korea: Jong Il-Lee, Eun-Kee Chung,
+   Yong-Chon Park, Sang-Woo Hahn; Singapore: Ee-HeokKua, Jia-Yin Teng,
+   Adrian Loh, Birit, Cecilia Kwok, Cornelia Chee, Cyrus Ho, Donovan Lim,
+   Emily Ho, John Wong, Lai YM, LuiYitShiang, Roger Ho, Sandeep Raj Kala
+   Naik, Surej John, Tina Tan, Tsoi Tung, Tsoi Wing Foo, Vincent John Magat
+   Lu; Taiwan: Yi-Hsin Yang, Shih-Ku Lin, Kuan-Pin Su, Tsung-Ming Hu, CC
+   Chen, KU Chien, MC Hau, GD Huang, YC Huang, SY Lan, GH Lau, CY Lee, Y
+   Lee, JH Pan, JP Wan, PL Wu; India: DipeshBhagabati, Nilesh Shah;
+   Thailand: Nopporn Tantirangsee, Pitchayawadee Theeramoke, Chawit
+   Tunvirachaisakul, Sarosaporn Joowong; Indonesia: Elmeyda Effendy,
+   Hervita Diatri, Isa Multazam Nur, Agung Frijanto, Shelly Iskandar, Carla
+   Marchira, YuniarSunarko, Tini Sri P; Malaysia: Chin LoiFei,
+   RahimaDahlan, Mohd Fadzli Mohammad Isa, Esther Gunaseli Ebenezer,
+   Norhayati Nordin.
+NR 39
+TC 10
+Z9 11
+U1 0
+U2 16
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1758-5864
+EI 1758-5872
+J9 ASIA-PAC PSYCHIAT
+JI Asia-Pac. Psychiatry
+PD SEP
+PY 2015
+VL 7
+IS 3
+BP 276
+EP 285
+DI 10.1111/appy.12170
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CN1JI
+UT WOS:000358175200006
+PM 25641910
+DA 2023-12-03
+ER
+
+PT J
+AU Litsinger, JA
+   Alviola, AL
+   Dela Cruz, CG
+   Canapi, BL
+   Batay-An, EH
+   Barrion, AT
+AF Litsinger, JA
+   Alviola, AL
+   Dela Cruz, CG
+   Canapi, BL
+   Batay-An, EH
+   Barrion, AT
+TI Rice white stemborer <i>Scirpophaga innotata</i> (Walker) in southern
+   Mindanao, Philippines.: I.: Supplantation of yellow stemborer
+   <i>S-incertulas</i> (Walker) and pest status
+SO INTERNATIONAL JOURNAL OF PEST MANAGEMENT
+LA English
+DT Article
+DE rice insect pest; population ecology; diapause; damage; climate change;
+   cultural practices; Scirpophaga innotata; S. incertulas
+ID STEM BORERS
+AB The rice white stemborer ( WSB) Scirpophaga innotata ( Walker) supplanted the closely related rice yellow stemborer ( YSB) S. incertulas ( Walker) in irrigated, double- rice culture in both Koronadal, South Cotabato, Philippines and Java, Indonesia. In Java, WSB became a serious pest but not in Koronadal where damage levels remained unchanged. The species shift and subsequent outbreaks are seen as independent events. The former occurred just after the El Nino droughts in 1982 1983 which suggests that climatic factors triggered the demise of YSB which does not aestivate. A contributing factor may have also been the crop failures from pest outbreaks that occurred during the same period creating long fallows which would have allowed WSB larvae selectively to survive. WSB larvae have been known to diapause for up to 10 - 12 months and consequently is able to survive climatically driven long fallows. Diapause is terminated by rainfall > 10mm after larvae have rested for a minimum of 4 months. Supportive evidence in favour of climate as the causal agent of change is that the distribution of WSB in Asia and Oceania overlaps that of the Intertropical Convergence Zone of the Southern Oscillation. YSB on the other hand is more adapted to a monsoon climate. It is also hypothesised that WSB, normally associated with single- crop, rainfed- rice culture, was able to adapt to double- cropped, irrigated culture due to the introduction of early maturing rices. From what is known about rice stemborer ecology, five cultural practices and natural events were postulated as the reasons keeping WSB densities in check in Koronadal: ( 1) medium maturing varieties to reduce the dry season fallow, ( 2) low inorganic N levels, ( 3) natural enemies, ( 4) destruction of crop residue harbouring larvae and pupae during land preparation, and ( 5) rainfall in the dry season causing suicide flights. Control strategies for areas where WSB is a pest should be based on: ( 1) reducing the fallow period by growing longer maturing varieties and ( 2) undertaking early ploughing for the wet season crop.
+C1 Int Rice Res Inst, Los Banos, Philippines.
+   Monsanto Philippines, Manila, Philippines.
+   Philippine Rice Res Inst, Agusan del Norte, Philippines.
+C3 CGIAR; International Rice Research Institute (IRRI); Philippine Rice
+   Research Institute
+RP Litsinger, JA (corresponding author), 1365 Jacobs Pl, Dixon, CA 95620 USA.
+EM jlitsinger@thegrid.net
+NR 30
+TC 13
+Z9 15
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0967-0874
+EI 1366-5863
+J9 INT J PEST MANAGE
+JI Int. J. Pest Manage.
+PD JAN-MAR
+PY 2006
+VL 52
+IS 1
+BP 11
+EP 21
+DI 10.1080/09670870600552497
+PG 11
+WC Entomology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Entomology
+GA 018ZD
+UT WOS:000235803300002
+DA 2023-12-03
+ER
+
+EF

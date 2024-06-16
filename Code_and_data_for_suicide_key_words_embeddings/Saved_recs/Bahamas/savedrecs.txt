@@ -1,0 +1,53 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Parental involvement and mental health among school-going adolescents in
+   five Caribbean countries
+SO JOURNAL OF PSYCHOLOGY IN AFRICA
+LA English
+DT Article
+DE adolescents; Caribbean; mental health; parental involvement
+ID DEPRESSIVE SYMPTOMS; SUICIDAL IDEATION; RISK; CONNECTEDNESS; BEHAVIORS;
+   ASSOCIATIONS; METAANALYSIS; CHILDREN; VIOLENCE; JAMAICA
+AB The aim of this study was to assess the association between parental involvement and mental health among adolescents in five Caribbean countries: Antigua and Barbuda, Bahamas, Saint Kitts and Nevis, Jamaica and Trinidad, and Tobago. Data were from the cross-sectional Global School-Based Student Health Survey (GSHS) which sampled 10 063 adolescents (mean age 14.3 years, SD = 1.3) from 2009 to 2013. In multivariable logistic regression analyses (adjusted for age, sex, and socioeconomic status), bullied, having close friends and peer support, and higher levels of parental involvement were negatively associated with loneliness, anxiety, and suicidal ideation in all five countries. In Jamaica, parental involvement was not associated with suicide attempt. Parental involvement interventions for improving mental health among the Caribbean adolescents should consider peer influences.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhonpathom, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.; Peltzer, K (corresponding author), Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+EM kpeltzer@hsrc.ac.za
+RI Peltzer, Karl/Q-7334-2019; Peltzer, Karl/D-1518-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 30
+TC 9
+Z9 10
+U1 2
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1433-0237
+EI 1815-5626
+J9 J PSYCHOL AFR
+JI J. Psychol. Afr.
+PY 2018
+VL 28
+IS 5
+BP 394
+EP 399
+DI 10.1080/14330237.2018.1501916
+PG 6
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GY7EQ
+UT WOS:000448769100008
+DA 2023-12-06
+ER
+
+EF

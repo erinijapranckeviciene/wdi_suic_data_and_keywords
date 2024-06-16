@@ -1,0 +1,1308 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Moneim, WMA
+   Yassa, HA
+   George, SM
+AF Moneim, Wafaa M. Abdel
+   Yassa, Heba A.
+   George, Safaa M.
+TI RETRACTED: Suicide Trends in Upper Egypt (Retracted article. See vol.
+   61, pg. 879, 2016)
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article; Retracted Publication
+DE forensic science; suicide; Assiut; Egypt; victims; violent; problem
+ID GENDER-DIFFERENCES; DEPRESSION; RATES
+AB Suicide is an important problem, ranking among the top 10 causes of death for individuals in all ages in developed countries. This article is a retrospective study evaluating suicide cases in Assiut, one of the largest provinces in Egypt, from 2005 to 2009. There were 117 cases, of which involved 68 male victims (58.12%) and 49 women (41.88%). Suicide rates ranged from 0.6 to 0.8 per 100,000. Age predominance was from 20 to =30 years. The method of suicide was different between male and female victims, as male victims tried to use more violent methods than females. The most common cause of death in men was usage of toxins and by hanging 29% and 28%, respectively, while in women was usage of toxins (70%). This study showed that suicide rates have increased since 1987, indicating a grave problem that needs to be solved.
+C1 [Moneim, Wafaa M. Abdel; Yassa, Heba A.; George, Safaa M.] Assiut Univ, Fac Med, Forens Med & Clin Toxicol Dept, Asyut, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Assiut University
+RP Yassa, HA (corresponding author), Assiut Univ, Fac Med, Forens Med & Clin Toxicol Dept, Asyut, Egypt.
+EM heba_yassa@hotmail.com
+RI Yassa, Heba A/N-2106-2019
+OI Yassa, Heba A/0000-0001-9239-7049
+NR 26
+TC 5
+Z9 5
+U1 1
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD SEP
+PY 2012
+VL 57
+IS 5
+BP 1247
+EP 1251
+DI 10.1111/j.1556-4029.2012.02247.x
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA 000MX
+UT WOS:000308391500013
+PM 22900760
+DA 2023-12-03
+ER
+
+PT J
+AU Moneim, WMA
+   Yassa, HA
+   George, SM
+AF Moneim, Wafaa M. Abdel
+   Yassa, Heba A.
+   George, Safaa M.
+TI RETRACTION: Suicide trends in Upper Egypt (Retraction of vol 57, pg
+   1247, 2012)
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Retraction
+NR 1
+TC 0
+Z9 0
+U1 1
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD MAY
+PY 2016
+VL 61
+IS 3
+BP 879
+EP 879
+DI 10.1111/1556-4029.12793
+PG 1
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA DK7AA
+UT WOS:000375076000048
+OA Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Hilal, MA
+   Mohamed, KM
+   Aly, NS
+AF Hilal, Maha A.
+   Mohamed, Khaled M.
+   Aly, Nady S.
+TI Suicide and Homicide by Para-Phenylenediamine Poisoning in Upper Egypt
+SO THERAPEUTIC DRUG MONITORING
+LA English
+DT Meeting Abstract
+CT 13th International Congress of Therapeutic Drug Monitoring and Clinical
+   Toxicology
+CY SEP 22-26, 2013
+CL Salt Lake City, UT
+DE para-phenylenediamine; hair dye; suicidal and homicidal poisoning;
+   detection
+C1 [Hilal, Maha A.] Sohag Univ, Fac Med, Forens Med & Clin Toxicol Dept, Sohag, Egypt.
+   [Mohamed, Khaled M.; Aly, Nady S.] Minist Justice, Medicolegal Dept, Assiut Chem Lab, Assiut, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Sohag University; Ministry of Justice -
+   Egypt
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0163-4356
+EI 1536-3694
+J9 THER DRUG MONIT
+JI Ther. Drug Monit.
+PD OCT
+PY 2013
+VL 35
+IS 5
+BP 710
+EP 711
+PG 2
+WC Medical Laboratory Technology; Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Medical Laboratory Technology; Pharmacology & Pharmacy; Toxicology
+GA 224LP
+UT WOS:000324887600167
+DA 2023-12-03
+ER
+
+PT J
+AU Elhak, SAG
+   El-Ghazali, AM
+   Salama, MM
+   Aboelyazeed, AY
+AF Elhak, Seham A. Gad
+   El-Ghazali, Amr M.
+   Salama, Mohamed M.
+   Aboelyazeed, Ahmed Y.
+TI Fatal suicide cases in Port Said city, Egypt
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Suicide; Port Said; Post-mortem examination
+AB In the present study, a retrospective evaluation of suicide cases in the city of Port Said from 1998 to 2004 is done. The demographic data of the cases were evaluated. There were 80 cases of suicide 54 of them (67.5%) involved males. Age distribution showed a predominance in the age range 20-30 years. Methods of suicide included rodenticides intake in 25% of cases, drowning in 18.75%, burns in 16.25%, firearm injuries in 13.75%, jumping from height in 10%, drug intake in 8.75% and hanging in 7.5%. A medico-legal autopsy had been carried out for all cases. In conclusion, we emphasize the importance of rodenticides control as well as necessity of performing a psychological autopsy. (C) 2008 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Elhak, Seham A. Gad; Salama, Mohamed M.] Mansoura Univ, Forens Med & Toxicol Dept, Mansoura, Egypt.
+   [El-Ghazali, Amr M.] Port Said Forens Inst, Port Said, Egypt.
+   [Aboelyazeed, Ahmed Y.] Mansoura Univ, Dept Community Med, Mansoura, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Mansoura University; Egyptian Knowledge
+   Bank (EKB); Port Said University; Egyptian Knowledge Bank (EKB);
+   Mansoura University
+RP Salama, MM (corresponding author), Mansoura Univ, Forens Med & Toxicol Dept, Mansoura, Egypt.
+EM toxicsalama@hotmail.com
+RI salama, mohamed ahmed hafez/HMO-8981-2023; Abouelyazid,
+   AHMED/P-1678-2018
+OI Abouelyazid, AHMED/0000-0001-9563-3457; Salama,
+   Mohamed/0000-0003-1644-0273
+NR 17
+TC 20
+Z9 22
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JUL
+PY 2009
+VL 16
+IS 5
+BP 266
+EP 268
+DI 10.1016/j.jflm.2008.12.006
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA V16GP
+UT WOS:000207858400006
+PM 19481708
+DA 2023-12-03
+ER
+
+PT J
+AU Abdeen, MS
+   Shaker, NM
+   Elrassas, HH
+   Hashim, MA
+   Zeid, MYA
+AF Abdeen, Mai SeifElDin
+   Shaker, Nermin Mahmoud
+   Elrassas, Hanan Hany
+   Hashim, Mostafa Ahmad
+   Zeid, Mohamed Youssef Abo
+TI Characteristics of the schizophrenia suicide attempts in comparison with
+   the suicide attempts with other diagnosed psychiatric disorders: An
+   Egyptian study
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Schizophrenia; attempted suicide; suicide intent; mental disorders;
+   impulsivity; Egypt
+ID DELIBERATE SELF-HARM; GENDER-DIFFERENCES; 1ST EPISODE; RISK; BEHAVIOR;
+   IMPULSIVITY; MORTALITY; IDEATION; ASSOCIATION; PSYCHOSIS
+AB Background: There has been much literature on schizophrenia, but little is known about the characteristic features of suicide attempts with schizophrenia in comparison with the suicide attempts with other diagnosed psychiatric disorders. Aims: The objective of this study was to clarify the specific characteristics and risk factors among suicide attempters with schizophrenia that differentiate them from other psychiatric disorders. Methods: Thirty-three suicide attempters diagnosed with schizophrenia and 87 suicide attempters with other psychiatric disorders were included. Suicide attempts seriousness were appraised by the Beck's Suicide Intent Scale (BSIS). Standardized scales were applied: Suicide Probability Scale (SPS) and Barratt Impulsiveness Scale, Version 11 (BIS-11). The Structured Clinical Interview for DSM-IV Axis I Disorders (SCID-I) and The Structured Clinical Interview for DSM-IV Axis II Disorders (SCID-II) based on the Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV) was applied to assess the psychiatric status of individuals. Demographic and clinical characteristics, method of suicide and suicide probability scores and impulsivity were compared among both groups (schizophrenia group and other psychiatric disorders group). Results: In total, 27.5% of suicide attempts suffered from schizophrenia. The current study found that having more past history of medical diseases, longer duration of illness, using more violent suicidal methods, and having less significant suicidal ideations were the significant factors that differentiated schizophrenia suicide attempts from those diagnosed with other psychiatric disorders. The schizophrenia group did not show more impulsivity or hostility than other psychiatric disorders group. Conclusion: These results indicated that each group shows its unique characteristics. They give us new perspectives to prevent suicides in schizophrenia according to their different characteristics.
+C1 [Abdeen, Mai SeifElDin; Shaker, Nermin Mahmoud; Elrassas, Hanan Hany; Hashim, Mostafa Ahmad; Zeid, Mohamed Youssef Abo] Ain Shams Univ, Fac Med, Psychiat Dept, 38 Abbaseya St, Cairo 11741, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Ain Shams University
+RP Abdeen, MS (corresponding author), Ain Shams Univ, Fac Med, Psychiat Dept, 38 Abbaseya St, Cairo 11741, Egypt.
+EM mai_saifeldin@med.asu.edu.eg
+RI abdeen, mai/AAA-1014-2021; Elrassas, Hanan/AFQ-3281-2022; Elrassas,
+   Hanan/ABA-2094-2020
+OI abdeen, mai/0000-0002-6573-0739; Shaker, Nermin/0000-0001-5684-0277
+NR 61
+TC 5
+Z9 5
+U1 0
+U2 4
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD AUG
+PY 2019
+VL 65
+IS 5
+BP 368
+EP 377
+DI 10.1177/0020764019852654
+PG 10
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IK3XU
+UT WOS:000476522500003
+PM 31144567
+DA 2023-12-03
+ER
+
+PT J
+AU Okasha, A
+AF Okasha, A
+TI Mental health in Egypt
+SO ISRAEL JOURNAL OF PSYCHIATRY AND RELATED SCIENCES
+LA English
+DT Article
+ID PSYCHOSIS; SAMPLE
+AB The concepts and management of mental health in Egypt are presented from the Pharaonic era through the Islamic Renaissance until today. Papyri from the Pharaonic period show that Soma and Psyche were not differentiated and mental disorders were described as symptoms of the heart and uterus. Although theories of causation were of a mystical nature, mental disorders were treated on a somatic basis. In the Islamic era, mental patients were neither maltreated nor tortured as a consequence of the belief that they may be possessed by a good Moslem genie. In the 14th century mental disorders was one of the four departments in Cairo's Kalawoon Hospital, a precursor of the place of psychiatry in general hospitals that was accepted in Europe six centuries later. The mental health services in Egypt today are described, and transcultural studies carried out in Egypt of the prevalence and phenomenology of anxiety, schizophrenia, depression, suicide, conversion and obsessive compulsive disorders are reviewed. The psychiatric services for children are in their infancy. Since 1983 the common and semi-accepted use of hashish has been joined by abuse by heroin and other substances.
+C1 Ain Shams Univ, Inst Psychiat, WHO Collaborating Ctr Training & Res, Cairo, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Ain Shams University
+RP Okasha, A (corresponding author), Ain Shams Univ, Inst Psychiat, WHO Collaborating Ctr Training & Res, 3,Shawarby St,Kasr El Nil, Cairo, Egypt.
+EM aokasha@internetegypt.com
+NR 26
+TC 15
+Z9 15
+U1 0
+U2 6
+PU GEFEN PUBLISHING HOUSE LTD
+PI JERUSALEM
+PA PO BOX 36004, JERUSALEM 91360, ISRAEL
+SN 0333-7308
+J9 ISRAEL J PSYCHIAT
+JI Isr. J. Psychiatr. Relat. Sci.
+PY 2005
+VL 42
+IS 2
+BP 116
+EP 125
+PG 10
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 985OC
+UT WOS:000233386400010
+PM 16342608
+DA 2023-12-03
+ER
+
+PT J
+AU Cooke, BK
+AF Cooke, Brian K.
+TI Extended Suicide With a Pet
+SO JOURNAL OF THE AMERICAN ACADEMY OF PSYCHIATRY AND THE LAW
+LA English
+DT Article
+ID HOMICIDE-SUICIDE; MUMMIES; THERAPY; DISORDERS; CHILDREN; COMMON; EGYPT;
+   SHAME; LOVE; DOG
+AB The combination of the killing of a pet and a suicide is a perplexing scenario that is largely unexplored in the literature. Many forensic psychiatrists and psychologists may be unaccustomed to considering the significance of the killing of a pet. The subject is important, however, because many people regard their pets as members of their family. A case is presented of a woman who killed her pet dog and herself by carbon monoxide poisoning. The purpose of this article is to provide an initial exploration of the topic of extended suicide with a pet. Forensic mental health evaluations may have a role in understanding the etiology of this event and in opining as to the culpability of individuals who attempt to or successfully kill a pet and then commit suicide. Because the scientific literature is lacking, there is a need to understand this act from a variety of perspectives. First, a social and anthropological perspective will be presented that summarizes the history of the practice of killing of one's pet, with a focus on the ancient Egyptians. A clinical context will examine what relationship animals have to mental illness. A vast body of existing scientific data showing the relevance of human attachment to pets suggests that conclusions from the phenomena of homicide-suicide and filicide-suicide are applicable to extended suicide with a pet. Finally, recommendations will be proposed for both clinical and forensic psychiatrists faced with similar cases.
+C1 [Cooke, Brian K.] Univ Florida, Dept Psychiat, Coll Med, Gainesville, FL 32611 USA.
+C3 State University System of Florida; University of Florida
+RP Cooke, BK (corresponding author), McKnight Brain Inst, POB 100256,1149 Newell Dr L4-100, Gainesville, FL 32610 USA.
+EM cooke@ufl.edu
+NR 57
+TC 13
+Z9 13
+U1 0
+U2 12
+PU AMER ACAD PSYCHIATRY & LAW
+PI BLOOMFIELD
+PA ONE REGENCY DR, PO BOX 30, BLOOMFIELD, CT 06002 USA
+SN 1093-6793
+EI 1943-3662
+J9 J AM ACAD PSYCHIATRY
+JI J. Am. Acad. Psychiatry Law
+PD SEP 1
+PY 2013
+VL 41
+IS 3
+BP 437
+EP 443
+PG 7
+WC Law; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Psychiatry
+GA AN8LT
+UT WOS:000340856400015
+PM 24051598
+DA 2023-12-03
+ER
+
+PT J
+AU Brockington, I
+AF Brockington, I
+TI Suicide in women
+SO INTERNATIONAL CLINICAL PSYCHOPHARMACOLOGY
+LA English
+DT Editorial Material
+DE suicide; depression; women's mental health; menstruation; child bearing;
+   unwanted pregnancy; parturition; divorce; widowhood; domestic violence
+ID CHILDHOOD SEXUAL ABUSE; POSTTRAUMATIC-STRESS-DISORDER; FOLLOW-UP;
+   DOMESTIC VIOLENCE; MENTAL-HEALTH; CLINICAL CHARACTERISTICS;
+   GENERAL-POPULATION; MENSTRUAL-CYCLE; SOCIAL-FACTORS; MARITAL-STATUS
+AB This article reviews research into suicide in women during the last 25 years. National rates vary between the extremes of 19/10(5) per year in Sri Lanka and < 1/10(5) per year in the Philippines and Egypt, but almost everywhere rates for women are much lower than male retest with a median ratio of 2.8/1. The exceptions are in India and China, which report higher rates in young married women. The reproductive process has some influence. While menstruation, hormonal treatment, pregnancy and the puerperium have no major effect, unwanted pregnancy may still lead to suicide under certain circumstances, and severe labour can occasionally do so. Having children protects, but the relative risk is no more than 2.0 in nulliparous women. Social factors also have a limited effect. There are higher rates of suicide in divorced women, but the evidence on widowhood is equivocal. Prosperity and employment have no effect. Sexual abuse, rape and domestic violence undoubtedly lead to suicide attempts, but the evidence on completed suicide is lacking. There are many unanswered questions, especially why rates of completed suicide for women (with a greater prevalence of overt depression) are lower than for men, and why Chinese and Indian women have higher rates. More research is required, especially from developing nations.
+C1 Univ Birmingham, Queen Elizabeth Psychiat Hosp, Dept Psychiat, Birmingham B15 2QZ, W Midlands, England.
+C3 University of Birmingham
+RP Brockington, I (corresponding author), Univ Birmingham, Queen Elizabeth Psychiat Hosp, Dept Psychiat, Birmingham B15 2QZ, W Midlands, England.
+EM i.f.brockington@bham.ac.uk
+NR 164
+TC 39
+Z9 44
+U1 1
+U2 22
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0268-1315
+EI 1473-5857
+J9 INT CLIN PSYCHOPHARM
+JI Int. Clin. Psychopharmacol.
+PD MAR
+PY 2001
+VL 16
+SU 2
+BP S7
+EP S19
+DI 10.1097/00004850-200103002-00003
+PG 13
+WC Pharmacology & Pharmacy; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pharmacology & Pharmacy; Psychiatry
+GA 432BY
+UT WOS:000168668300003
+PM 11349759
+DA 2023-12-03
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; Ministry of National Guard - Health Affairs; King
+   Abdullah International Medical Research Center (KAIMRC); Universitas
+   Islam Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Rezaeian, Mohsen/C-6513-2008; Khan, Murad/AAE-5134-2020; Eskin,
+   Mehmet/AAG-9269-2020; Khader, Yousef Saleh/AAE-9620-2019; Harlak,
+   Hacer/ABC-5916-2020; Noor, Isa Multazam/AAQ-2726-2020; Khan,
+   Aqeel/B-5208-2010; Hamdan, Motasem/AAB-3940-2019
+OI Rezaeian, Mohsen/0000-0003-3070-0166; Khader, Yousef
+   Saleh/0000-0002-7830-6857; Khan, Aqeel/0000-0001-9338-9323; Hendarmin,
+   Laifa A./0000-0001-5281-395X; Isayeva, Ulker/0000-0003-3927-4810; Eskin,
+   Mehmet/0000-0001-9916-9268; Hamdan, Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-03
+ER
+
+PT J
+AU Mccauley, C
+   Scheckter, S
+AF McCauley, Clark
+   Scheckter, Sarah
+TI What's Special about US Muslims? The War on Terrorism as Seen by Muslims
+   in the United States, Morocco, Egypt, Pakistan, and Indonesia
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+AB Since 11 September 2001, Europe has suffered multiple jihadi attacks but the United States has not. This American exceptionalism has been attributed to the special qualities of U.S. Muslims, who are seen as politically better integrated and less sympathetic toward radical politics than other Muslims. This article tests the exceptionalism hypothesis by comparing results from a 2007 Pew poll of U.S. Muslims with results from 2006-2007 START polls of Muslims in Morocco, Egypt, Pakistan, and Indonesia. On questions about religious identity, attitude toward Al Qaeda, U.S. intentions in the War on Terrorism, and suicide terrorism, U.S. Muslims differed only slightly from comparison Muslims.
+C1 [McCauley, Clark] Bryn Mawr Coll, Dept Psychol, Bryn Mawr, PA 19010 USA.
+C3 Bryn Mawr College
+RP Mccauley, C (corresponding author), Bryn Mawr Coll, Dept Psychol, 101 N Merion Ave, Bryn Mawr, PA 19010 USA.
+EM cmccaule@brynmawr.edu
+NR 9
+TC 9
+Z9 9
+U1 0
+U2 8
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2008
+VL 31
+IS 11
+BP 973
+EP 980
+AR PII 905051877
+DI 10.1080/10576100802400193
+PG 8
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 368GU
+UT WOS:000260610400001
+DA 2023-12-03
+ER
+
+PT J
+AU Sharaf, AY
+   Ossman, LH
+   Lachine, OA
+AF Sharaf, Amira Y.
+   Ossman, Laila H.
+   Lachine, Ola A.
+TI A cross-sectional study of the relationships between illness insight,
+   internalized stigma, and suicide risk in individuals with schizophrenia
+SO INTERNATIONAL JOURNAL OF NURSING STUDIES
+LA English
+DT Article
+DE Insight; Moderator; Schizophrenia; Stigma; Suicide risk
+ID MENTAL-ILLNESS; SELF-ESTEEM; PEOPLE; CONSEQUENCES; DEPRESSION;
+   AWARENESS; ASSOCIATION; RELIABILITY; OUTPATIENTS; REDUCTION
+AB Background: Suicide is the major cause of premature death among individuals with schizophrenia. Ironically, one factor that heightens suicide risk is insight into mental illness. Little is known, however, about how insight contributes to suicidality. Recent evidence suggests that negative outcomes related to insight might depend on whether or not the individual accepts the stigmatizing beliefs about the mental illness.
+   Objective: The present study examined the interactive effects of insight and internalized stigma on suicide risk in individuals with schizophrenia. We hypothesized that insight into mental illness and internalized stigma would increase suicide risk and that internalized stigma would moderate the effect of insight on suicide risk.
+   Design and participants: A cross-sectional design was used in this study. A convenience sample of 200 individuals with schizophrenia was recruited from an outpatient clinic in the Eastern catchment area in Alexandria, Egypt.
+   Methods: Eligible study participants were individuals with an illness duration not exceeding ten years, currently in outpatient treatment and follow-up, and post-acute or in a stable phase of their disorder. Individuals provided signed consent to participate and were interviewed to assess suicide risk, insight, internalized stigma of mental illness and depression.
+   Results: Slightly more than 38% of the study participants were classified as having a severe suicide risk As predicted, suicide risk was positively associated with insight (r = .55, p < .001), internalized stigma (r = .79, p < .001), and depression (r = .78, p < .001). However, the influence of insight was not significant after controlling for covariates in the regression model (beta = -.02, ns). Internalized stigma and depression independently predicted suicide risk, explaining 74% of variance in suicide risk, F-change (6,191) = 11.54, p < .001. Greater insight was significantly linked to increased levels of internalized stigma (r = .59, p < .001) and depression (r = .61, p < .001). Internalized stigma did not moderate the influence of insight on suicide risk.
+   Conclusion: The present study draws attention to the robust influence of internalized stigma in increasing suicide risk and suggests clinical approaches for managing internalized stigma and suicide risk among individuals with schizophrenia. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Sharaf, Amira Y.; Ossman, Laila H.; Lachine, Ola A.] Univ Alexandria, Psychiat Nursing & Mental Hlth Dept, Fac Nursing, Alexandria, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Alexandria University
+RP Sharaf, AY (corresponding author), Univ Alexandria, Psychiat Nursing & Mental Hlth Dept, Fac Nursing, Admon Fremon St, Alexandria, Egypt.
+EM amira_psych@yahoo.com
+NR 53
+TC 59
+Z9 69
+U1 1
+U2 36
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0020-7489
+EI 1873-491X
+J9 INT J NURS STUD
+JI Int. J. Nurs. Stud.
+PD DEC
+PY 2012
+VL 49
+IS 12
+BP 1512
+EP 1520
+DI 10.1016/j.ijnurstu.2012.08.006
+PG 9
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA 062LO
+UT WOS:000312921500006
+PM 22939218
+DA 2023-12-03
+ER
+
+PT J
+AU Ahmed, SA
+   Omar, QH
+   Elamaim, AAA
+AF Ahmed, S. A.
+   Omar, Qosai Hossein
+   Elamaim, Aya Ali Abo
+TI Forensic analysis of suicidal ideation among medical students of Egypt:
+   A crosssectional study
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Depression; Adolescence; Risk assessment
+ID MAJOR DEPRESSIVE DISORDER; ANXIETY; PHYSICIANS; US
+AB Suicide is one of the major causes of death in the world. In this study a total of 612 students from two public universities in Cairo were assessed using an online survey that included 19 items from the self administered version of Beck's Suicidal Ideation scale in addition to three questions to assist in forensic analysis of the suicide. 12.75% of respondents scored above 24 in the 19 items from the suicidal ideation scale. Females showed a slightly higher score of suicidal ideation (Mean 18.1, SD 12.22) and year 1 students tended to score higher than pre-clinical and clinical phase students (Mean 15.1, SD 10.1, P value 0.042). Most of the suicide plans were to be executed at home with the use of available medications for overdose. This study shed light on the importance of support systems for medical students with a high stress on family support. (C) 2016 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Ahmed, S. A.] Ain Shams Univ, Fac Med, Forens Med & Clin Toxicol Dept, Cairo 11566, Egypt.
+   [Omar, Qosai Hossein; Elamaim, Aya Ali Abo] Ain Shams Univ, Student Res Assoc AMSRA, Fac Med, Cairo 11566, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Ain Shams University; Egyptian Knowledge
+   Bank (EKB); Ain Shams University
+RP Ahmed, SA (corresponding author), Ain Shams Univ, Fac Med, Forens Med & Clin Toxicol Dept, Cairo 11566, Egypt.
+EM drsamer_ahmed@med.asu.edu.eg; qosai194@gmail.com;
+   aya_aboul_amaim@yahoo.com
+RI Ahmed, Samar Abd elAzim/O-8842-2015
+OI Ahmed, Samar Abd elAzim/0000-0001-8119-9258
+NR 19
+TC 14
+Z9 14
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD NOV
+PY 2016
+VL 44
+BP 1
+EP 4
+DI 10.1016/j.jflm.2016.08.009
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA EE3SC
+UT WOS:000389517100001
+PM 27589377
+DA 2023-12-03
+ER
+
+PT J
+AU Paulis, MG
+   Faheem, AL
+AF Paulis, Melad G.
+   Faheem, Ayman L.
+TI Homicidal Snake Bite in Children
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; snake bite; children; fang marks; homicidal
+ID VENOM; SUICIDE; INJECTION; AUTOPSY
+AB Snake bites are common in many regions of the world. Snake envenomation is relatively uncommon in Egypt; such unfortunate events usually attract much publicity. Snake bite is almost only accidental, occurring in urban areas and desert. Few cases were reported to commit suicide by snake. Homicidal snake poisoning is so rare. It was known in ancient world by executing capital punishment by throwing the victim into a pit full of snakes. Another way was to ask the victim to put his hand inside a small basket harboring a deadly snake. Killing a victim by direct snake bite is so rare. There was one reported case where an old couple was killed by snake bite. Here is the first reported case of killing three children by snake bite. It appeared that the diagnosis of such cases is so difficult and depended mainly on the circumstantial evidences.
+C1 [Paulis, Melad G.] Menia Univ, Fac Med, Forens Med & Clin Toxicol Dept, Al Minya, Egypt.
+   [Faheem, Ayman L.] Egyptian Forens Med Author, Minia Off Forens Med, Al Minya, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Minia University
+RP Paulis, MG (corresponding author), Menia Univ, Fac Med, Forens Med & Clin Toxicol Dept, Al Minya, Egypt.
+EM melad.boulis@mu.edu.eg
+RI Faheem, Ayman L/AAQ-8519-2020
+OI Faheem, Ayman L/0000-0002-8894-6452; Paulis, Melad/0000-0001-6742-6987
+NR 21
+TC 4
+Z9 6
+U1 0
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD MAR
+PY 2016
+VL 61
+IS 2
+BP 559
+EP 561
+DI 10.1111/1556-4029.12997
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA DG4TX
+UT WOS:000372066800040
+PM 27404632
+DA 2023-12-03
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-03
+ER
+
+PT J
+AU Kposowa, AJ
+   Ezzat, DA
+AF Kposowa, Augustine J.
+   Ezzat, Dina Aly
+TI Religiosity,Conservatism, and Acceptability of Anti-Female Spousal
+   Violence in Egypt
+SO JOURNAL OF INTERPERSONAL VIOLENCE
+LA English
+DT Article
+DE domestic violence; cultural contexts; domestic violence and cultural
+   contexts; perceptions of domestic violence; offenders; sexual assault
+ID INTIMATE PARTNER VIOLENCE; DOMESTIC VIOLENCE; WOMENS HEALTH; SUICIDE
+   RATES; ALCOHOL; GENDER; ASSOCIATION; PREVALENCE; DRINKING; RELIGION
+AB Physical violence directed at women is a significant social and public health problem globally. Initial studies tended to concentrate on developed countries, often relying on clinical or shelter samples to assess incidence and prevalence. Although prevalence is critical, reducing or eliminating some problems also requires comprehension of cultural norms and expectations. In the present study, we use a population-based survey to understand factors contributing to attitudes in support of physical violence against married women. More specifically, the aim of the study was to investigate the impact of religiosity and social conservatism on acceptability of physical spousal violence in the Arab Republic of Egypt. Data utilized were derived from Wave 6 of the World Values Survey conducted in 2013. Bivariate and multivariate regression models were fitted to the data. It was found that religiosity was significantly associated with physical spousal violence (b = -123, t = -4.480). Individuals who attended more often were less apt to accept physical spousal violence. Social conservatism was strongly tied to approval of physical violence (b = .368, t = -4.115). It was concluded that culturally biased and patriarchal attitudes that devalue women in Egypt, instead of religion, may be the underlying reason for spousal abuse. It was also concluded that improving higher education for both men and women would reduce physical spousal violence.
+C1 [Kposowa, Augustine J.] Univ Calif Riverside, Dept Sociol, 1150 Watkins Hall, Riverside, CA 92521 USA.
+   [Ezzat, Dina Aly] Assiut Univ, Fac Arts, Dept Sociol, Asyut, Egypt.
+C3 University of California System; University of California Riverside;
+   Egyptian Knowledge Bank (EKB); Assiut University
+RP Kposowa, AJ (corresponding author), Univ Calif Riverside, Dept Sociol, 1150 Watkins Hall, Riverside, CA 92521 USA.
+EM augustine.kposowa@ucr.edu
+RI Kposowa, Augustine J/A-8743-2009
+NR 65
+TC 7
+Z9 10
+U1 1
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0886-2605
+EI 1552-6518
+J9 J INTERPERS VIOLENCE
+JI J. Interpers. Violence
+PD JUN
+PY 2019
+VL 34
+IS 12
+BP 2525
+EP 2550
+DI 10.1177/0886260516660976
+PG 26
+WC Criminology & Penology; Family Studies; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Family Studies; Psychology
+GA IC3GX
+UT WOS:000470848800006
+PM 27456535
+DA 2023-12-03
+ER
+
+PT J
+AU Yassa, HA
+   Badea, ST
+AF Yassa, Heba A.
+   Badea, Shahir T.
+TI Patterns of drug abuse in Upper Egypt: cause or result of violence?
+SO EGYPTIAN JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE Addict; Auto aggression; Cannabis; Drug abuse; Inhalants; Tramadol
+ID SUBSTANCE USE; SUICIDE ATTEMPTS; TRAMADOL; DISORDER; WITHDRAWAL;
+   INHALATION; MISUSE
+AB Background: Drug abuse and violence both are dangerous phenomena in all countries. The relation between drug abuse and violence is obscure, and what comes first is the question. This study clarifies the changes in drug abuse patterns in Upper Egypt and the association between drug abuse and different types of violence.
+   Method: Three hundred patients seeking medical advice in Mental Health Hospital participated in this study. After obtaining their informed written consent, they underwent urine analysis to determine the abused drug and filled up a questionnaire to determine the type of violence. In this study, the patients were asked to fill out two types of scales: Adolescent Alcohol and Drug Involvement Scale (AADIS) and the Modified Overt Aggression Scale (MOAS).
+   Results: Patterns of drug abuse have been changed in Upper Egypt since the appearance of tramadol. The age of onset of abuse was 17.5 +/- 5.5 years old. The age of 21-30 years old is the age of adult which is mostly affected. Most of the patients use combination of tramadol and others like alcohol, cannabis, other opioids, but 25% use tramadol alone. The type of violence changes from one drug abuse to another; auto-aggression was found in cannabis, while aggression towards objects and others was found in tramadol, inhalants, and other opioids.
+   Conclusion: Drug abuse is a direct cause that increases the violence in the community. Types and degree of violence differ according to the drug abuse type.
+C1 [Yassa, Heba A.] Assiut Univ, Forens Med & Clin Toxicol Dept, Asyut, Egypt.
+   [Badea, Shahir T.] Assiut Psychiat Hosp, Asyut, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Assiut University
+RP Yassa, HA (corresponding author), Assiut Univ, Forens Med & Clin Toxicol Dept, Asyut, Egypt.
+EM heba612@holmail.com
+RI Yassa, Heba A/N-2106-2019
+OI Yassa, Heba A/0000-0001-9239-7049
+NR 46
+TC 4
+Z9 4
+U1 0
+U2 6
+PU INT ASSOC LAW & FORENSIC SCIENCES
+PI CAIRO
+PA 1 AWAL MAYO BLDG, EL-NASR RD, CAIRO, 11371, EGYPT
+SN 2090-536X
+EI 2090-5939
+J9 EGYPT J FORENSIC SCI
+JI Egypt. J. Forensic Sci.
+PD MAR 30
+PY 2019
+VL 9
+AR 14
+DI 10.1186/s41935-019-0117-7
+PG 9
+WC Medicine, Legal
+WE Emerging Sources Citation Index (ESCI)
+SC Legal Medicine
+GA HR1UN
+UT WOS:000462921200001
+OA gold
+DA 2023-12-03
+ER
+
+PT J
+AU Yount, KM
+   Dijkerman, S
+   Zureick-Brown, S
+   VanderEnde, KE
+AF Yount, Kathryn M.
+   Dijkerman, Sally
+   Zureick-Brown, Sarah
+   VanderEnde, Kristin E.
+TI Women's empowerment and generalized anxiety in Minya, Egypt
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Agency; Egypt; Enabling resources; Generalized anxiety; Mental health;
+   Patriarchy; Women's empowerment
+ID INTIMATE PARTNER VIOLENCE; MENTAL-HEALTH; PSYCHIATRIC MORBIDITY;
+   DOMESTIC VIOLENCE; GENDER-DIFFERENCES; RURAL BANGLADESH;
+   SEX-DIFFERENCES; MARRIED-WOMEN; RESOURCES; WORK
+AB Gender disparities in mental health are global, with women experiencing higher rates than men of anxiety disorders, mood disorders, and attempted suicide. Women's low social status may partly explain these disparities, yet evidence from Arab and Middle Eastern settings is limited. We assessed whether women's empowerment - or acquisition of enabling resources, and in turn, enhanced agency was associated with their lower generalized anxiety. For 539 ever-married women 22-65 years who participated in the 2005 Egypt Demographic Health Survey (EDHS) and a 2012 follow-up survey in rural Minya, we estimated linear reduced-form and mediation regression models to assess the associations of women's premarital enabling resources with their generalized anxiety in 2012, overall and through measures of their marital agency in 2005. Women's higher schooling attainment, premarital economic activity, later age at first marriage, and greater proximity to natal (or birth) family had significant, adjusted associations with lower generalized anxiety. Measures of women's agency in marriage had mixed associations with generalized anxiety, but their inclusion modestly reduced the coefficients for premarital resources. Parallel qualitative findings confirmed nuanced associations between women's exclusive decision-making and their mental health. Efforts to enhance women's education and premarital economic activity might be combined with efforts to delay first marriage and ensure women's extra-marital social support to maximize their empowerment and its mental-health benefits. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Yount, Kathryn M.; Dijkerman, Sally; Zureick-Brown, Sarah; VanderEnde, Kristin E.] Emory Univ, Hubert Dept Global Hlth, Atlanta, GA 30322 USA.
+   [Yount, Kathryn M.] Emory Univ, Dept Sociol, Atlanta, GA 30322 USA.
+C3 Emory University; Emory University
+RP Yount, KM (corresponding author), Emory Univ, Hubert Dept Global Hlth, 1518 Clifton Rd NE, Atlanta, GA 30322 USA.
+EM kyount@emory.edu; sclukerman@gmail.com; sarah.zureickbrown@emory.edu;
+   kevande@emory.edu
+RI Yount, Kathryn Mary/W-2942-2019; Yount, Kathryn M/K-1239-2012
+OI Yount, Kathryn Mary/0000-0003-1917-1574; 
+FU World Bank's Gender and Economic Research and Policy Action (GERPA)
+   Program; United Nations Development Program (UNDP); Hubert Department of
+   Global Health, Rollins School of Public Health, Emory University
+FX This work was supported by research grants from the World Bank's Gender
+   and Economic Research and Policy Action (GERPA) Program and the United
+   Nations Development Program (UNDP) (PI K M Yount) as well as a the
+   Hubert Department of Global Health, Rollins School of Public Health,
+   Emory University. We thank Dr. Ray Langsten and Dr. Rania Roushdy for
+   their outstanding management of the field activities; Ms. Tahra Hassan,
+   Ms. Eman Shady, and Ms. Katherine Krause for their research assistance;
+   Mr. Ali Rashed for his assistance with data entry and management; Ms.
+   Amal Refaat, for her supervision of the fieldwork; Dr. Ragui Assaad for
+   his advice on study design; and Ms. Carol McMurtray for her assistance
+   with research administration. We wish to thank Dr. Rania Salem and
+   anonymous reviewers for their outstanding comments on earlier versions
+   of this manuscript. Finally, we express our heartfelt gratitude for the
+   time and dedication of the office and field staff in Egypt and of the
+   women who participated in this study, without whom this project would
+   not have been possible.
+NR 72
+TC 33
+Z9 33
+U1 0
+U2 21
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD APR
+PY 2014
+VL 106
+BP 185
+EP 193
+DI 10.1016/j.socscimed.2014.01.022
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA AF1OB
+UT WOS:000334482100023
+PM 24576646
+DA 2023-12-03
+ER
+
+PT J
+AU Karp, E
+   Sebbag, G
+   Peiser, J
+   Dukhno, O
+   Ovnat, A
+   Levy, I
+   Hyam, E
+   Blumenfeld, A
+   Kluger, Y
+   Simon, D
+   Shaked, G
+AF Karp, Erez
+   Sebbag, Gilbert
+   Peiser, Jochanan
+   Dukhno, Oleg
+   Ovnat, Amnon
+   Levy, Isaac
+   Hyam, Eytan
+   Blumenfeld, Amir
+   Kluger, Yoram
+   Simon, Daniel
+   Shaked, Gad
+TI Mass casualty incident after the Taba terrorist attack: an
+   organisational and medical challenge
+SO DISASTERS
+LA English
+DT Article
+DE disaster; mass casualty incident; remote area; Taba; terrorism; triage
+ID TRAUMA; DISASTER; CARE
+AB Two suicide bombings in and around Taba, Egypt, on 7 October 2004 created a complex medical and organisational situation. Since most victims were Israeli tourists, the National Emergency and Disaster Management Division handled their evacuation and treatment. This paper describes the event chronologically, as well as the organisational and management challenges confronted and applied solutions. Forty-nine emergency personnel and physicians were flown early to the disaster area to reinforce scarce local medical resources. Two hundred casualties were recorded: 32 dead and 168 injured. Eilat hospital was transformed into a triage facility. Thirty-two seriously injured patients were flown to two remote trauma centres in central Israel. Management of mass casualty incidents is difficult when local resources are inadequate. An effective response should include: rapid transportation of experienced trauma teams to the disaster zone; conversion of local medical amenities into a triage centre; and rapid evacuation of the seriously injured to higher level medical facilities.
+C1 Soroka Univ, Ctr Med, Div Surg, IL-84101 Beer Sheva, Israel.
+C3 Ben Gurion University; Soroka Medical Center
+RP Sebbag, G (corresponding author), Soroka Univ, Ctr Med, Div Surg, Surg B,POB 151, IL-84101 Beer Sheva, Israel.
+EM gilbert@bgu.ac.il
+NR 17
+TC 8
+Z9 11
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0361-3666
+EI 1467-7717
+J9 DISASTERS
+JI Disasters
+PD MAR
+PY 2007
+VL 31
+IS 1
+BP 104
+EP 112
+DI 10.1111/j.1467-7717.2007.00343.x
+PG 9
+WC Environmental Studies; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Social Sciences - Other Topics
+GA 145RT
+UT WOS:000244882900007
+PM 17367377
+DA 2023-12-03
+ER
+
+PT J
+AU Bjegovic-Mikanovic, V
+   Abousbie, ZAS
+   Breckenkamp, J
+   Wenzel, H
+   Broniatowski, R
+   Nelson, C
+   Vukovic, D
+   Laaser, U
+AF Bjegovic-Mikanovic, Vesna
+   Abousbie, Zeyad Ali Salem
+   Breckenkamp, Juergen
+   Wenzel, Helmut
+   Broniatowski, Raphael
+   Nelson, Chase
+   Vukovic, Dejana
+   Laaser, Ulrich
+TI A gap analysis of SDG 3 and MDG 4/5mortality health targets in the six
+   Arabic countries of North Africa: Egypt, Libya, Tunisia, Algeria,
+   Morocco, and Mauritania
+SO LIBYAN JOURNAL OF MEDICINE
+LA English
+DT Article
+DE North Africa; Sustainable Development Goals; health development targets;
+   gap analysis; Maternal and Child Health; non-communicable diseases;
+   deadly traffic injuries
+ID MATERNAL MORTALITY
+AB Background: The United Nations Assembly adopted the Sustainable Development Goals to succeed the Millennium Development Goals in September 2015. From a European perspective, the development of health in the countries of North Africa are of special interest as a critical factor of overall social development in Europe's Mediterranean partners. In this paper, we address the mortality related SDG-3 targets, the likelihood to achieve them until 2030 and analyze how they are defined. Methods: We projected mortality trends from 2000-2015 to 2030, based on mortality estimates by inter-agency groups and the WHO in mother and child health, non-communicable diseases, and road traffic mortality. The gap analysis compares the time remaining until 2030 to the time needed to complete the target assuming a linear trend of the respective indicator. A delay of not more than 3.75 years is considered likely to achieve the target. Results: The SDG-3 targets of a Maternal Mortality Ratio below 70 per 100 000 live births and an U5MR below 25 per 1 000 live births have been achieved by Egypt, Libya, and Tunisia. Libya and Tunisia have also achieved the target for Newborn Mortality with Egypt close to achieving it as well. Algeria and Morocco are generally on track for most of the indicators, including deaths from non-communicable diseases and suicide rates; however, all of the countries are lagging when it comes to deadly Road Traffic Injuries for 2030. Mauritania is the only North African country which is not likely to reach the 2030 targets for any of the mortality indicators. Conclusions: Although mortality statistics may be incomplete there is an impressive gradient from East to West showing Mauritania and deadly road traffic injuries as the most problematic areas. Given the large differences between countries baselines, we consider it preferable to set realistic targets to be achieved until 2030.
+C1 [Bjegovic-Mikanovic, Vesna; Vukovic, Dejana] Univ Belgrade, Fac Med, Inst Social Med, Belgrade, Serbia.
+   [Abousbie, Zeyad Ali Salem] Univ Belgrade, Fac Med, Sch Publ Hlth & Management, Belgrade, Serbia.
+   [Breckenkamp, Juergen; Laaser, Ulrich] Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+   [Broniatowski, Raphael; Nelson, Chase] EPOS Consulting, Bad Homburg, Germany.
+C3 University of Belgrade; University of Belgrade; University of Bielefeld
+RP Breckenkamp, J (corresponding author), Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+EM juergen.breckenkamp@uni-bielefeld.de
+RI Bjegovic-Mikanovic, Vesna/AAD-9847-2019; Laaser, Ulrich/ACH-6512-2022;
+   Laaser, Ulrich/AAE-9755-2022; Laaser, Ulrich/AAD-9790-2019
+OI Bjegovic-Mikanovic, Vesna/0000-0002-8299-6555; Laaser,
+   Ulrich/0000-0001-5889-4471; Vukovic, Dejana/0000-0002-3323-3711
+FU Open Access Publication Fund of Bielefeld University
+FX We acknowledge support for the Article Processing Charge by the Open
+   Access Publication Fund of Bielefeld University.
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1993-2820
+EI 1819-6357
+J9 LIBYAN J MED
+JI Libyan J. Med.
+PD JAN 1
+PY 2019
+VL 14
+IS 1
+AR 1607698
+DI 10.1080/19932820.2019.1607698
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HV6PD
+UT WOS:000466104400001
+PM 31032713
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Nada, O
+   Abdel-Hamid, M
+   Ismail, A
+   El Shabrawy, L
+   Sidhom, KFS
+   El Badawy, NMA
+   Ghazal, FAA
+   El Daly, M
+   El Kafrawy, S
+   Esmat, G
+   Loffredo, CA
+AF Nada, O
+   Abdel-Hamid, M
+   Ismail, A
+   El Shabrawy, L
+   Sidhom, KFS
+   El Badawy, NMA
+   Ghazal, FAA
+   El Daly, M
+   El Kafrawy, S
+   Esmat, G
+   Loffredo, CA
+TI The role of the tumor necrosis factor (TNF) - Fas L and HCV in the
+   development of hepatocellular carcinoma
+SO JOURNAL OF CLINICAL VIROLOGY
+LA English
+DT Article
+DE Fas ligand; hepatocellular carcinoma; hepatitis C virus; Egypt; HCC;
+   HCV; Fas L; immunohistochemistry; apoptosis
+ID HEPATITIS-C; PROGNOSTIC-SIGNIFICANCE; LYMPHOCYTE APOPTOSIS; SOLUBLE FAS;
+   LIGAND; EXPRESSION; MECHANISM; INFECTION; SUICIDE; PROTEIN
+AB Hepatocellular carcinoma (HCC) is a major public health problem in Egypt due to the high prevalence of hepatitis C viral (HCV) infection. The mechanism by which HCV exerts its carcinogenic effect on the liver is not yet understood. Previous research has suggested that perturbations of the Fas-Fas L tumor necrosis system could result in uncontrolled cancerous cell growth in the liver. This study aims to assess the relationship of Fas ligand (Fas L) to HCC. A total of 28 cases (HCC) and 56 controls (28 cirrhosis and 28 chronic hepatitis) were included in the study. Sera and tissue biopsies were tested for HCV antibody and HCV-RNA. Fas ligand expression in tissue was examined immunohistochemically using a rabbit purified polyclonal antibody. Levels of soluble Fas L were determined in serum by ELISA. The HCC cases were graded as: 17.9% Grade I, 32.1% Grade II, 35.7% Grade III and 14.3% were Grade IV. Among the cases, 81% had evidence of cirrhosis. All the cases and controls were positive for HCV-RNA. Tissue and serum PCR results were identical within the same subjects. Fas ligand cytoplasmic expression was more pronounced in HCC than in cirrhosis, and in cirrhosis more than in chronic hepatitis. This expression was higher with increasing grades of malignancy and in tissues adjacent to the tumor, than in those without nearby tumor. Soluble Fas L levels were higher in cases than in controls, with similar results as that of immunohistochemical expression. These results suggest that HCV and Fas ligand play a key role in hepatocarcinogenesis, consistent with the hypothesis that HCV induces overexpression of Fas ligand in the liver cells, resulting in escape from killing by the immune system cells, with subsequent uncontrolled growth of tissue and the development of malignancy. (C) 2005 Elsevier B.V. All rights reserved.
+C1 Georgetown Univ, Lombardi Canc Ctr, Washington, DC 20057 USA.
+   Ain Shams Univ, Dept Pathol, Cairo, Egypt.
+   Menia Univ, Dept Microbiol, El Minia, Egypt.
+   Ain Shams Univ, Dept Surg, Cairo, Egypt.
+   Menoufia Univ, Natl Liver Inst, Shibin Al Kawm, Egypt.
+   Cairo Univ, Dept Trop Med, Cairo, Egypt.
+C3 Georgetown University; Egyptian Knowledge Bank (EKB); Ain Shams
+   University; Egyptian Knowledge Bank (EKB); Minia University; Egyptian
+   Knowledge Bank (EKB); Ain Shams University; Egyptian Knowledge Bank
+   (EKB); Menofia University; Egyptian Knowledge Bank (EKB); Cairo
+   University
+RP Loffredo, CA (corresponding author), Georgetown Univ, Lombardi Canc Ctr, Washington, DC 20057 USA.
+EM cal9@georgetown.edu
+RI El-Daly, Mai/C-4704-2013
+OI El-Daly, Mai/0000-0002-3864-523X; NADA, OLA/0000-0002-3701-1593
+NR 37
+TC 11
+Z9 13
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1386-6532
+EI 1873-5967
+J9 J CLIN VIROL
+JI J. Clin. Virol.
+PD OCT
+PY 2005
+VL 34
+IS 2
+BP 140
+EP 146
+DI 10.1016/j.jcv.2005.02.012
+PG 7
+WC Virology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Virology
+GA 972FQ
+UT WOS:000232440000010
+PM 16157266
+DA 2023-12-03
+ER
+
+PT J
+AU Dolezal, A
+   Jelen, K
+   Stajnrtová, O
+AF Dolezal, Antonin
+   Jelen, Karel
+   Stajnrtova, Olga
+TI Executions and scientific anatomy
+SO NEUROENDOCRINOLOGY LETTERS
+LA English
+DT Article
+DE executions; history; scientific anatomy; forensic sciences
+ID BODY
+AB The very word "anatomy" tells us about this branch's connection with dissection. Studies of anatomy have taken place for approximately 2,300 years already. Anatomy's birthplace lies in Greece and Egypt.
+   Knowledge in this specific field of science was necessary during surgical procedures in ophthalmology and obstetrics. Embalming took place without public disapproval just like autopsies and manipulation with relics. Thus, anatomical dissection became part of later forensic sciences. Anatomical studies on humans themselves, which needed to be compared with the knowledge gained through studying procedures performed on animals, elicited public disapprobation and prohibition. When faced with a shortage of cadavers, anatomists resorted to obtaining bodies of the executed and suicide victims - since torture, public display of the mutilated body, (including anatomical autopsy), were perceived as an intensification of the death penalty.
+   Decapitation and hanging were the main execution methods meted out for death sentences. Anatomists preferred intact bodies for dissection; hence, convicts could thus avoid torture. This paper lists examples of how this process was resolved. It concerns the manners of killing, vivisection on people in the antiquity and middle-ages, experiments before the execution and after, vivifying from seeming death, experiments with galvanizing electricity on fresh cadavers, evaluating of sensibility after guillotine execution, and making perfect anatomical preparations and publications during Nazism from fresh bodies of the executed.
+C1 [Dolezal, Antonin; Jelen, Karel; Stajnrtova, Olga] Charles Univ Prague, Fac Phys Educ & Sport, Dept Anat & Biomech, Prague, Czech Republic.
+C3 Charles University Prague
+RP Dolezal, A (corresponding author), Charles Univ Prague, Fac Phys Educ & Sport, Jose Martiho 31, Prague, Czech Republic.
+EM dolezal@ftvs.cuni.cz
+RI Jelen, Karel/N-8671-2016; Doležal, Antonín/I-3126-2017; Jelen,
+   Karel/AAV-7162-2021
+OI Jelen, Karel/0000-0002-8151-9810; Doležal, Antonín/0000-0002-6231-1117;
+   Jelen, Karel/0000-0002-8151-9810
+FU  [PRVOUK 38]
+FX This project is supported by grant PRVOUK 38.
+NR 53
+TC 1
+Z9 1
+U1 0
+U2 12
+PU MAGHIRA & MAAS PUBLICATIONS
+PI MUNSBACH
+PA MAGHIRA & MAAS S A R L, 6C, RUE GABRIEL LIPPMANN, L-5365 MUNSBACH,
+   LUXEMBOURG
+SN 0172-780X
+EI 2354-4716
+J9 NEUROENDOCRINOL LETT
+JI Neuroendocrinol. Lett.
+PY 2015
+VL 36
+IS 7
+BP 713
+EP 723
+PG 11
+WC Endocrinology & Metabolism; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Endocrinology & Metabolism; Neurosciences & Neurology
+GA DE9PA
+UT WOS:000370969000014
+PM 26859596
+DA 2023-12-03
+ER
+
+PT C
+AU Hadda, L
+AF Hadda, Lamia
+BA Gambardella, C
+BF Gambardella, C
+BE Corniello, L
+TI The Fatimid Palace at Ajdabiya in Libya as drawn by the French explorer
+   Jean-Raymond Pacho
+SO WORLD HERITAGE AND DEGRADATION: SMART DESIGN, PLANNING AND TECHNOLOGIES
+SE Fabbrica della Conoscenza
+LA English
+DT Proceedings Paper
+CT 14th International Forum of Studies
+CY JUN 16-18, 2016
+CL Naples, ITALY
+DE Libya; Ajdabiya; Fatimid architecture; Jean Raymond Pacho; Fatimid
+   palace
+AB Jean Raymond Pacho was born in Nice, France, on January 23, 1794. After his initial experiences travelling in Egypt he immediately showed an innate passion for architecture started working on painting important Islamic monuments that he had visited. Between 1827 and 1829 two volumes of work were published in Paris; the second of which contains illustrations accompanying the text of the first volume. Immediately after the publication he ended his life by committing suicide in Paris at the age of only thirty-five. Among the monuments of the medieval Libyan territory described and drawn by Pacho the Fatimid palace of Ajdabiya also known as Kasr Ladjedabiah or the castle of Ajdabiya figured prominantely.
+   The Palace, typical rectangular layout, was built so as to accommodate the Fatimid Caliph and his court. It was equipped with round towers at each corner and with rectangular ones in the centre. On one of the shorter sides the only monumental entrance portico - very similar to that of the contemporary palaces of North Africa like Raqqada (9 th century), Al-Qa'im in Mahdia (10 th century), Ziri in Ashir (11 th century) and the entrance of the Great Mosque of Mahdia (912) - was located.
+   In summary, the palace of Ajdabiya is as one of the first Fatimid constructions built between 934 and 946 by Amer al-Qa'im bi-Allah al-Mahdi, For this reason, Pacho's designs take on a far more important role of that of just simple architectural significance.
+C1 [Hadda, Lamia] Univ Naples Suor Orsola Benincasa, Naples, Italy.
+C3 Suor Orsola Benincasa University Naples
+RP Hadda, L (corresponding author), Univ Naples Suor Orsola Benincasa, Naples, Italy.
+EM Lamia.hadda@laposte.net
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCUOLA PITAGORA EDITRICE
+PI NAPOLI
+PA PIAZZA SANTA MARIA DEGLI ANGELI, 1, NAPOLI, 80132, ITALY
+BN 978-88-6542-257-1
+J9 FABBR CONOSCENZA
+PY 2016
+BP 212
+EP 219
+PG 8
+WC Architecture; Art; History
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Architecture; Art; History
+GA BG8WR
+UT WOS:000392751900024
+DA 2023-12-03
+ER
+
+PT J
+AU Zaghloul, NM
+   Megahed, HM
+AF Zaghloul, Nancy M.
+   Megahed, Haidy M.
+TI A descriptive medico-legal study of female deaths in cairo governorate,
+   Egypt
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Female death; Homicide; Trauma; Violence; Egypt
+ID HOMICIDE; MORTALITY; PATTERNS
+AB Background: Mortality is conditioned by biological, political and social factors, as well as by culturally defined behaviors and attitudes that historically characterize the stage of development of a country or a region. Women are often in great danger, where they should be safest. Violence against women is the most pervasive yet the least recognized human rights violation in the world. It is a profound health problem and femicide, is often the tragic end-point of violence. Females represent more than half of the Egyptian population, however, they remain vulnerable.
+   Aim of the study: To describe and analyze data obtained from Zeinhom Morgue records in Cairo, regarding female deaths, throughout two years. To evaluate female deaths regarding age, cause, manner of death, location, perpetrator and motive. To describe the incidence of female homicides and their related injury patterns. To identify the risk factors and nature of violence from victimologic point of view. Finally, to describe the manner of death whether natural, homicidal, suicidal or accidental aiming for early identification of vulnerable females so that actions can be taken to prevent further mortality.
+   Subjects and Methods: This is a national two year retrospective descriptive mortuary based study. The study population comprised of all adult females, aged 18 years and older, whose death was suspicious and medicolegal examination was ordered. Each investigation included a detailed case history, investigation, gross examination, histo-pathological and toxicological examinations. Data was collected from autopsy reports, hospital records and police records. From the available data the victim profile was made.
+   Results: All female deaths aged 18 years and older were retrospectively reviewed for 2 years at Zeinhom morgue of Medico-legal Authority from a total of 1858 autopsy cases. The most common manner of death was homicide. The commonest cause of death in homicides was due to sharp traumatic injuries. Natural death was the least common manner of death and ischemic heart disease constituted the commonest cause. Falling from height was the most common method of suicidal related deaths. Regarding poisoned cases, insecticides and carbon monoxide were the most common detected poisons. According to the cause of death (trauma), blunt trauma injuries were the most common. Falling from height constituted the largest percent of cases under this group.
+   Conclusion and recommendations: Females in the third decade of life with blunt injuries to the head and neck were the majority of adult female autopsies. Homicide was the most common manner of female death using sharp instruments after domestic arguments mainly by a spouse or relative. Accidental death came second mainly due to post-operative complications. In cases of suicide, falling from height was the commonest cause followed by poisoning. These findings could be useful for forensic pathologists and healthcare promoters in predicting and preventing female deaths. Moreover, this emphasizes the need for raising public awareness about the scale of female violence problem in our society. The results of this study indicates that, by not only a strong legal support network, but also by opportunities for economic independency, essential education and awareness, alternative accommodation and a change in attitude and mindset of society, judiciary, legislature, executive, men and most importantly women themselves can lower or even prevent such deaths specially suicidal.
+C1 [Zaghloul, Nancy M.] Misr Univ Sci & Technol, Dept Forens Med & Clin Toxicol, 6th Of October City, Egypt.
+   [Megahed, Haidy M.] Alexandria Univ, Fac Med, Dept Forens Med & Clin Toxicol, Alexandria, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Misr University for Science & Technology;
+   Egyptian Knowledge Bank (EKB); Alexandria University
+RP Megahed, HM (corresponding author), Alexandria Univ, Fac Med, Dept Forens Med & Clin Toxicol, Alexandria, Egypt.
+EM drhaidym@hotmail.com
+RI Megahed, Haidy/AAP-3071-2020
+OI Zaghloul, Nancy M/0000-0002-1596-7367
+NR 32
+TC 5
+Z9 5
+U1 0
+U2 9
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD AUG
+PY 2019
+VL 66
+BP 25
+EP 32
+DI 10.1016/j.jflm.2019.05.018
+PG 8
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA IM4DC
+UT WOS:000477943900004
+PM 31176278
+DA 2023-12-03
+ER
+
+PT J
+AU Rabbani, M
+AF Rabbani, Mouin
+TI A Hamas perspective on the movement's evolving role - An interview with
+   Khalid Mishal: Part II
+SO JOURNAL OF PALESTINE STUDIES
+LA English
+DT Editorial Material
+AB In this second installment of his interview for JPS, Khalid Mishal, Hamas politburo chief since 1996 and head of the movement since the assassination of Shaykh Ahmad Yasin in 2004, continues his discussion of Hamas's evolution and strategy. Whereas the focus of part I was Mishal's personal background, political formation, and the founding of the movement, here Hamas's more recent history is foregrounded. From the unfolding conflict and troubled relations with Fatah since the mid-1990s, Mishal recounts the thinking behind the decision formally to integrate into the Palestinian political system born of Oslo by participating the 2006 legislative elections and joining the Palestinian Authority government. He also delves into the ongoing repercussions of these decisions, including the splits within the Palestinian movement culminating in Hamas's seizure of power in the Gaza Strip in June 2007. In the course of the more than three-hour interview, Mishal's straightforward manner is on display, as well as his willingness to be challenged on matters as sensitive as Hamas's suicide bombings and the targeting of Israeli civilians, the utility of armed resistance, and the morality of the struggle.
+   Two themes underlying the interview were Mishal's preoccupation with the need to repair the intra-Palestinian split ("our greatest priority") and the devastating impact of the ongoing siege of the Gaza. Since our interview in early March 2008, two potentially significant developments with relevance to these concerns have taken place. On the internal Palestinian front, Mishal repeatedly emphasized the need for intra-Palestinian dialogue without preconditions, with all subjects on the table including controversial topics like early elections. A first step toward reconciliation was made on 24 March 2008, when Hamas and Fatah representatives signed the "Sana'a Declaration," negotiated in the Yemeni capital, which outlined points of consensus on various domestic issues including security and political institutions. Though the declaration quickly ran aground, with Fatah demanding that Hamas immediately cede control of Gaza before implementation of other aspects would be discussed, by June 2008, Hamas and Fatah were once again considering national unity talks on the basis of the Yemeni initiative. As for alleviating the extreme external pressures on the Hamas-led Gaza Strip, indirect negotiations between Hamas and Israel mediated by Egypt produced a bilateral cease-fire that went into effect on 18 June. Though initially confined to Gaza, the understandings also call for a gradual reversal of the siege as well as renewed negotiations on a prisoner exchange, including the release of captured IDF soldier Gilad Shalit.
+   Hovering over both Hamas-Israel and Hamas-Fatah relations is Washington, which remains opposed to any deals through which the Palestinian Islamists can emerge from their enforced isolation. Yet whatever the ultimate success of either development, the reality is that Mishal and Hamas are increasingly central players in the intraPalestinian, Israeli-Palestinian, and broader regional equations. Indeed, it was Mishal, not Abbas, whose movement reached an agreement with Israel before the expiration of the Bush administration.
+NR 6
+TC 14
+Z9 14
+U1 1
+U2 4
+PU UNIV CALIFORNIA PRESS
+PI BERKELEY
+PA C/O JOURNALS & DIGITAL PUBLISHING DIVISION, 2000 CENTER ST, STE 303,
+   BERKELEY, CA 94704-1223 USA
+SN 0377-919X
+J9 J PALESTINE STUD
+JI J. Palest. Stud.
+PD SUM
+PY 2008
+VL 37
+IS 4
+BP 59
+EP 81
+PG 23
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 338SX
+UT WOS:000258530200005
+DA 2023-12-03
+ER
+
+EF

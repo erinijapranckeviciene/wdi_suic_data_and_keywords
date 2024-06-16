@@ -1,0 +1,3322 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Innos, K
+   Rahu, K
+   Rahu, M
+   Baburin, A
+AF Innos, K
+   Rahu, K
+   Rahu, M
+   Baburin, A
+TI Suicides among cancer patients in Estonia: a population-based study
+SO EUROPEAN JOURNAL OF CANCER
+LA English
+DT Article
+DE cancer patients; suicide; Estonia; cohort study
+ID RISK; ALCOHOL; DEATH
+AB The objective of this study was to determine the suicide risk among cancer patients in Estonia. This risk was examined in a cohort of 65 419 persons diagnosed with cancer in 1983-1998. Standardised mortality ratios (SMR) were calculated using the suicide rates of the population of Estonia as a reference. During 192 078 person-years of follow-up between 1983 and 2000, 197 suicides occurred in the cohort. An increased suicide risk was found for men (SMR = 1.73; 95% Confidence Interval (CI) 1.45-2.01), but not for women (SMR = 0.50 95% CI 0.37-0.66). Men had the highest risk 90-179 days following their diagnosis (SMR = 4.27; 95% CI 2.81-6.21). During this time interval, among men, the risk was more pronounced for cancers of the oesophagus (SM R = 35.63; 95% CI 9.71-91.22) and pancreas (SMR = 14.53; 95% CI 1.76-52.50). This study provides further evidence that cancer is a risk factor for suicide, at least in men. (C) 2003 Elsevier Ltd. All rights reserved.
+C1 Inst Clin & Expt Med, Dept Epidemiol & Biostat, EE-11619 Tallinn, Estonia.
+   Inst Clin & Expt Med, Estonian Ctr Excellence Behav & Hlth Sci, EE-11619 Tallinn, Estonia.
+RP Rahu, M (corresponding author), Inst Clin & Expt Med, Dept Epidemiol & Biostat, Hiiu 42, EE-11619 Tallinn, Estonia.
+EM rahum@ekmi.ee
+RI Rahu, Mati/A-9981-2008; Innos, Kaire/ACK-5304-2022; Rahu,
+   Kaja/P-7330-2018
+OI Innos, Kaire/0000-0003-0120-2213; Rahu, Kaja/0000-0001-9693-7540
+NR 30
+TC 42
+Z9 43
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-8049
+EI 1879-0852
+J9 EUR J CANCER
+JI Eur. J. Cancer
+PD OCT
+PY 2003
+VL 39
+IS 15
+BP 2223
+EP 2228
+DI 10.1016/S0959-8049(03)00598-7
+PG 6
+WC Oncology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology
+GA 733JL
+UT WOS:000185996800016
+PM 14522382
+DA 2023-12-07
+ER
+
+PT J
+AU Kolves, K
+   Tran, US
+   Voracek, M
+AF Kolves, Kairi
+   Tran, Ulrich S.
+   Voracek, Martin
+TI Knowledge about suicide and local suicide prevalence: Comparison of
+   Estonia and Austria
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID NATIONAL INTELLIGENCE; RISK; HYPOTHESIS; COUNTRIES; FACTS
+AB Knowledge about suicide might be positively correlated with local suicide prevalence. This hypothesis was tested with a sample of 107 medical and social science undergraduates from Estonia, a country with a high suicide rate, using Hubbard and McIntosh's 1992 Revised Facts on Suicide Quiz. Compared (independent-groups t tests),with a sample of undergraduates from Austria, which has a markedly lower suicide rate, Estonians presented significantly higher overall knowledge about suicide (d=0.39), particularly concerning demographic and epidemiological facts about suicide (d=0.77) but not pertaining to clinical and interpersonal knowledge contents (d= -0.06). Study limitations and suggestions for extension of this preliminary inquiry are discussed.
+C1 Univ Vienna, Dept Basic Psychol Res, Sch Psychol, A-1010 Vienna, Austria.
+   Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Dept Basic Psychol Res, Sch Psychol, Liebiggasse 5,Rm 0342, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016; Kolves, Kairi/ABE-7564-2020
+OI Voracek, Martin/0000-0001-6109-6155; Kolves, Kairi/0000-0002-1638-8981;
+   Tran, Ulrich/0000-0002-6589-3167
+NR 17
+TC 17
+Z9 17
+U1 0
+U2 3
+PU PERCEPTUAL MOTOR SKILLS
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807 USA
+SN 0031-5125
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD AUG
+PY 2007
+VL 105
+IS 1
+BP 3
+EP 7
+DI 10.2466/PMS.105.1.3-7
+PG 5
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 210FE
+UT WOS:000249441300001
+PM 17918542
+DA 2023-12-07
+ER
+
+PT J
+AU Värnik, A
+   Kolves, K
+   Wasserman, D
+AF Värnik, A
+   Kolves, K
+   Wasserman, D
+TI Suicide among Russians in Estonia:: database study before and after
+   independence
+SO BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+C1 Estonian Swedish Inst Suicidol, EE-10119 Tallinn, Estonia.
+   Karolinska Inst, Swedish Natl & Stockholm Cty Ctr Suicide Res & Pr, Stockholm, Sweden.
+C3 Karolinska Institutet
+RP Värnik, A (corresponding author), Estonian Swedish Inst Suicidol, Hariduse 6, EE-10119 Tallinn, Estonia.
+EM Airi.Varnik@ipm.ki.se
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981
+NR 5
+TC 21
+Z9 22
+U1 0
+U2 0
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0959-535X
+J9 BRIT MED J
+JI Br. Med. J.
+PD JAN 22
+PY 2005
+VL 330
+IS 7484
+BP 176
+EP 177
+DI 10.1136/bmj.38328.454294.55
+PG 2
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 891OQ
+UT WOS:000226590800018
+PM 15601680
+OA Green Published, Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Kolves, K
+   Värnik, A
+   Schneider, B
+   Fritze, J
+   Allik, J
+AF Kolves, Kairi
+   Vaernik, Airi
+   Schneider, Barbara
+   Fritze, Juergen
+   Allik, Juri
+TI Recent life events and suicide:: A case-control study in Tallinn and
+   Frankfurt
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE suicide; life events; values; Estonia; Germany; gender
+ID CONTROL PSYCHOLOGICAL AUTOPSY; RISK-FACTORS; COMPLETED SUICIDE;
+   MENTAL-DISORDERS; ELDERLY-PEOPLE; GERMANY; YOUNG; EAST
+AB The purpose of this study was to analyze the differences in the disposition and frequency of recent life events preceding suicide in two cities with different socio-political backgrounds: Tallinn in Estonia and Frankfurt/Main in Germany. The information about 156 suicidents in Tallinn and 163 suicidents in Frankfurt was compiled using the psychological autopsy technique [Shneidman, E. S. (1981). The psychological autopsy. Suicide and Life-Threatening Behavior, 11, 325-340; Jacobs, D., & Klein-Benheim, M. (1995). The psychological autopsy: A useful tool for determining proximate causation in suicide cases. Bulletin of American Academy of Psychiatry Law, 23(2), 165-182]. General population controls were matched by age and sex.
+   The occurrence of recent life events was similar among suicidents in Tallinn (81%) and Frankfurt (77%). However, in both sites only male suicides had higher risk of occurrence of any life event than controls (Tallinn: OR' = 1.9; 95% CI = 1.1-3.7; Frankfurt: OR' = 2.0; 95% CI = 1.0-4.1) and the mean number of life events was significantly higher among male suicidents in Tallinn in comparison with controls. This may indicate that males are more sensitive to the rapid changes in a society undergoing transition. It seems that it is not the number of life events, but rather their meaning and disposition that creates the risk of suicide, Family discord (weighted OR = 4.5; 95% CI 2.5-8.1), loss of job (weighted OR = 2.6; 95% CI = 1.0-6.4) and financial deterioration (weighted OR = 2.2; 95% CI = 1.3-3.8) were more prevalent among suicides in Tallinn in comparison with those in Frankfurt. The most significant differences between suicides and controls were family discord, separation and loss of job in Tallinn and somatic illness in Frankfurt.
+   These differences between the two societies, post-Soviet Estonia and Germany, could be explained by the different positions of Estonia and Germany on the survival/self-expression dimensions recorded by the World Value Survey. People in Estonia tend to emphasize economic and physical security above all other goals, and feel threatened by the changes taking place in society. In Germany, good health is considered a necessity for a consumer and self-expressive style of life, and poor health is perceived as a serious threat to the quality of life in a post-materialistic value system. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   Univ Tartu, Dept Sociol, EE-50090 Tartu, Estonia.
+   Karolinska Inst, Swedish Natl & Stockholm Cty Ctr Suicide Res & Pr, NASP, S-10401 Stockholm, Sweden.
+   Goethe Univ Frankfurt, Ctr Psychiat, Dept Psychiat & Psychotherapy, D-6000 Frankfurt, Germany.
+   Univ Tartu, Dept Psychol, Estonian Ctr Behav & Hlth Sci, EE-50090 Tartu, Estonia.
+C3 University of Tartu; Karolinska Institutet; Goethe University Frankfurt;
+   University of Tartu
+RP Kolves, K (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+EM kaikolves@hot.ee; airiv@online.ee; B.Schnieider@em.uni-frankfurt.de;
+   J.Fritze@em.uni-frankfurt.de; Juri.Allik@ut.ee
+RI Kolves, Kairi/ABE-7564-2020; Allik, Jüri/D-5609-2009; Allik,
+   Jüri/N-3038-2019
+OI Kolves, Kairi/0000-0002-1638-8981; Allik, Jüri/0000-0002-8358-4747;
+   Allik, Jüri/0000-0002-8358-4747
+NR 39
+TC 42
+Z9 50
+U1 0
+U2 15
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUN
+PY 2006
+VL 62
+IS 11
+BP 2887
+EP 2896
+DI 10.1016/j.socscimed.2005.11.048
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 047HL
+UT WOS:000237870300024
+PM 16427172
+DA 2023-12-07
+ER
+
+PT J
+AU Voracek, M
+   Loibl, LM
+   Swami, V
+   Vintila, M
+   Kolves, K
+   Sinniah, D
+   Pillai, SK
+   Ponnusamy, S
+   Sonneck, G
+   Furnham, A
+   Lester, D
+AF Voracek, Martin
+   Loibl, Lisa Mariella
+   Swami, Viren
+   Vintila, Mona
+   Kolves, Kairi
+   Sinniah, Dhachayani
+   Pillai, Subash Kumar
+   Ponnusamy, Subramaniam
+   Sonneck, Gernot
+   Furnham, Adrian
+   Lester, David
+TI The Beliefs in the Inheritance of Risk Factors for Suicide Scale
+   (BIRFSS): Cross-Cultural Validation in Estonia, Malaysia, Romania, the
+   United Kingdom, and the United States
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID DISCRIMINANT VALIDITY; SOCIAL DESIRABILITY; GENETICS; RATES; HYPOTHESIS;
+   BEHAVIOR; RELIABILITY; POPULATION; KNOWLEDGE; ATTITUDES
+AB The genetics of suicide is increasingly recognized and relevant for mental health literacy, but actual beliefs may lag behind current knowledge. We examined such beliefs in student samples (total N = 686) from Estonia, Malaysia, Romania, the United Kingdom, and the United States with die Beliefs in the Inheritance of Risk Factors for Suicide Scale. Cultural effects were small, those of key demographics nil. Several facets of construct validity were demonstrated. Marked differences in perceived plausibility of evidence about the genetics of suicide according to research design, observed in all samples, may be of general interest for investigating lily theories of abnormal behavior and communicating behavioral and psychiatric genetic research findings.
+C1 [Voracek, Martin; Loibl, Lisa Mariella] Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+   [Swami, Viren] Univ Westminster, Dept Psychol, London W1R 8AL, England.
+   [Vintila, Mona] Univ W Timisoara, Dept Psychol, Timisoara, Romania.
+   [Kolves, Kairi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Sinniah, Dhachayani] Univ Kebangsaan Malaysia, Sch Med, Dept Psychiat, Bangi, Malaysia.
+   [Pillai, Subash Kumar] Univ Malaya, Dept Psychiat, Sch Med, Kuala Lumpur, Malaysia.
+   [Sonneck, Gernot] Med Univ Vienna, Ctr Publ Hlth, Dept Med Psychol, Vienna, Austria.
+   [Sonneck, Gernot] Ludwig Boltzmann Inst Social Psychiat, Vienna, Austria.
+   [Furnham, Adrian] UCL, Dept Psychol, London WC1E 6BT, England.
+   [Lester, David] Ctr Study Suicide, Blackwood, NJ USA.
+C3 University of Vienna; University of Westminster; West University of
+   Timisoara; Universiti Kebangsaan Malaysia; Universiti Malaya; Medical
+   University of Vienna; Ludwig Boltzmann Institute; University of London;
+   University College London
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Room 03-46, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI SUBRAMANIAM, SUBASH KUMAR PILLAI/B-9842-2010; Kolves,
+   Kairi/ABE-7564-2020; Furnham, Adrian/ABB-2072-2020; Vintila,
+   Mona/AAC-1563-2022; Voracek, Martin/S-5865-2016
+OI Kolves, Kairi/0000-0002-1638-8981; Voracek, Martin/0000-0001-6109-6155;
+   Subramaniam, Ponnusamy/0000-0002-2361-4780
+NR 45
+TC 4
+Z9 4
+U1 0
+U2 15
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0363-0234
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD DEC
+PY 2008
+VL 38
+IS 6
+BP 688
+EP 698
+DI 10.1521/suli.2008.38.6.688
+PG 11
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 394BS
+UT WOS:000262420800007
+PM 19152299
+DA 2023-12-07
+ER
+
+PT J
+AU Sisask, M
+   Värnik, A
+   Kolves, K
+   Bertolote, JM
+   Bolhari, J
+   Botega, NJ
+   Fleischmann, A
+   Vijayakumar, L
+   Wasserman, D
+AF Sisask, Merike
+   Varnik, Airi
+   Kolves, Kairi
+   Bertolote, Jose M.
+   Bolhari, Jafar
+   Botega, Neury J.
+   Fleischmann, Alexandra
+   Vijayakumar, Lakshmi
+   Wasserman, Danuta
+TI Is Religiosity a Protective Factor Against Attempted Suicide: A
+   Cross-Cultural Case-Control Study
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE attempted suicide; case-control study; cross-cultural study;
+   religiosity; WHO SUPRE-MISS
+ID SOCIAL INTEGRATION; NATIONAL ANALYSIS; DURKHEIM THEORY; RATES;
+   ATTENDANCE; COUNTRIES; IDEATION; HEALTH
+AB This cross-cultural study investigates whether religiosity assessed in three dimensions has a protective effect against attempted suicide. Community controls (n = 5484) were more likely than suicide attempters (n = 2819) to report religious denomination in Estonia (OR = 0.5) and subjective religiosity in four countries: Brazil (OR = 0.2), Estonia (OR = 0.5), Islamic Republic of Iran (OR = 0.6), and Sri Lanka (OR = 0.4). In South Africa, the effect was exceptional both for religious denomination (OR = 5.9) and subjective religiosity (OR = 2.7). No effects were found in India and Vietnam. Organizational religiosity gave controversial results. In particular, subjective religiosity (considering him/herself as religious person) may serve as a protective factor against non-fatal suicidal behavior in some cultures.
+C1 [Sisask, Merike] Estonian Swedish Mental Hlth & Suicidol Inst ERSI, EE-11615 Tallinn, Estonia.
+   [Botega, Neury J.] FCM UNICAMP, Dept Psychiat, Campinas, SP, Brazil.
+   [Fleischmann, Alexandra] WHO, Dept Mental Hlth & Subst Abuse, CH-1211 Geneva, Switzerland.
+   [Vijayakumar, Lakshmi] Voluntary Hlth Serv & SNEHA, Dept Psychiat, Chennai, Tamil Nadu, India.
+   [Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, S-10401 Stockholm, Sweden.
+   [Wasserman, Danuta] Stockholm Cty Councils Ctr Suicide Res & Prevent, Stockholm, Sweden.
+   [Wasserman, Danuta] WHO Lead Collaborating Ctr Mental Hlth Problems &, Stockholm, Sweden.
+C3 Universidade Estadual de Campinas; World Health Organization; Karolinska
+   Institutet
+RP Sisask, M (corresponding author), Estonian Swedish Mental Hlth & Suicidol Inst ERSI, Oie 39, EE-11615 Tallinn, Estonia.
+EM merike.sisask@neti.ee
+RI Kolves, Kairi/ABE-7564-2020; Bolhari, Jafar/L-4049-2018
+OI Kolves, Kairi/0000-0002-1638-8981; Sisask, Merike/0000-0001-6821-6367;
+   Bolhari, Jafar/0000-0001-5360-7541
+NR 39
+TC 73
+Z9 94
+U1 0
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1381-1118
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PY 2010
+VL 14
+IS 1
+BP 44
+EP 55
+DI 10.1080/13811110903479052
+PG 12
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 579YC
+UT WOS:000276412400004
+PM 20112143
+DA 2023-12-07
+ER
+
+PT J
+AU Rahu, K
+   Rahu, M
+   Tekkel, M
+   Bromet, E
+AF Rahu, Kaja
+   Rahu, Mati
+   Tekkel, Mare
+   Bromet, Evelyn
+TI Suicide risk among Chernobyl cleanup workers in Estonia still increased:
+   An updated cohort study
+SO ANNALS OF EPIDEMIOLOGY
+LA English
+DT Article
+DE Chernobyl; cohort; mortality; suicide; Estonia
+ID CANCER
+AB PURPOSE: The aim of the study is to examine the mortality experience among Chernobyl cleanup workers.
+   METHODS: A cohort Study of 4786 men from Estonia who participated in the Chernobyl cleanup from 1986 to 1991 and were traced until December 31, 2002. Standardized mortality ratio (SMR) and adjusted mortality rate ratio (RR) derived through Poisson regression analysis were calculated.
+   RESULTS: During follow-up, 550 deaths occurred, yielding an SMR of 1.01 (95% confidence interval [CI], 0.92-1.09). Increased risks were observed for suicide alone (SMR, 1.32; 95% Cl, 1.03-1.67) and suicide combined with undetermined injury (SMR, 1.29; 95% Cl, 1.03-1.60). One leukemia death Occurred, and no thyroid cancer deaths were found. Elevated mortality also was observed for brain cancer (SMR, 2.78; 95% Cl, 1.02-6.05). The adjusted RR for suicide remained stable over the time passed since return from the Chernobyl area, showing RRs of 1.09 (95 % Cl, 0.56-2.10) for 5 to 9 years and 1.00 (95% Cl, 0.48-2.05) for 10 or more years compared with less than 5 years.
+   CONCLUSIONS: During the 17 years after the accident, Suicide risk in the cohort was greater than in the general male population. No elevated risk in overall mortality and radiation-related cancers was observed. The long-term nature of this elevated risk provides concrete evidence that psychological consequences represent the largest public health problem caused by the accident to date. (c) 2006 Elsevier Inc. All rights reserved.
+C1 Natl Inst Hlth Dev, Dept Epidemiol & Biostat, EE-11619 Tallinn, Estonia.
+   Estonian Ctr Excellence Behav & Hlth Sci, Tartu, Estonia.
+   SUNY Stony Brook, Dept Psychiat, Stony Brook, NY 11794 USA.
+C3 National Institute for Health Development - Estonia; State University of
+   New York (SUNY) System; State University of New York (SUNY) Stony Brook
+RP Rahu, M (corresponding author), Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Hiiu 42, EE-11619 Tallinn, Estonia.
+EM mati.rahu@tai.ee
+RI Rahu, Mati/A-9981-2008; Rahu, Kaja/P-7330-2018
+OI Rahu, Kaja/0000-0001-9693-7540
+NR 7
+TC 42
+Z9 45
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1047-2797
+J9 ANN EPIDEMIOL
+JI Ann. Epidemiol.
+PD DEC
+PY 2006
+VL 16
+IS 12
+BP 917
+EP 919
+DI 10.1016/j.annepidem.2006.07.006
+PG 3
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 120LK
+UT WOS:000243086000009
+PM 17027293
+DA 2023-12-07
+ER
+
+PT J
+AU Tall, K
+   Kolves, K
+   Sisask, M
+   Värnik, A
+AF Tall, Karmel
+   Kolves, Kairi
+   Sisask, Merike
+   Varnik, Airi
+TI Do survivors respond differently when alcohol abuse complicates
+   suicide?: Findings from the psychological autopsy study in Estonia
+SO DRUG AND ALCOHOL DEPENDENCE
+LA English
+DT Article
+DE alcohol use disorder; suicide survivors; bereavement risk factors;
+   emotions
+ID DEATH; FAMILY; BEREAVEMENT
+AB Background: When a person with alcohol use disorder commits suicide, do the immediate family members (parents, spouses, and children) react differently from the relatives of non-alcohol-related suicides?
+   Methods: From a series of 427 psychological autopsies conducted in Estonia we selected 261 cases of suicide where the key informants were close relatives. Of the 261 suicides, 148 met the DSM-IV criteria for alcohol use disorder (alcohol abuse and alcohol dependence), while 113 did not. Unconditional logistic regression was used to estimate the association in terms of emotions.
+   Results: The spouses of alcohol misusing suicides were significantly more likely to react with anger than those when alcohol did not complicate the picture (adjusted OR = 3.8, 95% CI = 1.4-0.4). The children of persons with alcohol use disorder, who committed suicide were less likely to feel guilty (adjusted OR = 0.2, 95% CI = 0.1-0.8) or abandoned (adjusted OR = 0.2, 95% Cl = 0.1-0.7) than children of non-alcohol-related suicide victims. There were no statistically significant differences in surviving parents' emotions.
+   Conclusions: Alcohol use disorder before suicide changes affective responses in spouses and children who are left behind. Bereavement counsellors should be alert for complex grief and mourning responses among this group of suicide survivors. (c) 2008 Published by Elsevier Ireland Ltd.
+C1 [Tall, Karmel; Kolves, Kairi; Sisask, Merike; Varnik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suciodol Inst, EE-11615 Tallinn, Estonia.
+   [Tall, Karmel; Varnik, Airi] Univ Tartu, Fac Social Sci, EE-50410 Tartu, Estonia.
+   [Sisask, Merike; Varnik, Airi] Univ Tallinn, Fac Social Sci, EE-10120 Tallinn, Estonia.
+C3 University of Tartu; Tallinn University
+RP Värnik, A (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suciodol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM airiv@online.ee
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981; Sisask, Merike/0000-0001-6821-6367
+NR 22
+TC 6
+Z9 6
+U1 0
+U2 6
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0376-8716
+J9 DRUG ALCOHOL DEPEN
+JI Drug Alcohol Depend.
+PD MAY 1
+PY 2008
+VL 95
+IS 1-2
+BP 129
+EP 133
+DI 10.1016/j.drugalcdep.2007.12.015
+PG 5
+WC Substance Abuse; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse; Psychiatry
+GA 290WG
+UT WOS:000255152900015
+PM 18325695
+DA 2023-12-07
+ER
+
+PT J
+AU Värnik, A
+   Kolves, K
+   Väli, M
+   Tooding, LM
+   Wasserman, D
+AF Varnik, Airi
+   Kolves, Kairi
+   Vali, Marika
+   Tooding, Liina-Mai
+   Wasserman, Danuta
+TI Do alcohol restrictions reduce suicide mortality?
+SO ADDICTION
+LA English
+DT Article
+DE age; alcohol; alcohol restriction; gender; mortality; suicide
+ID FORMER USSR; MEN; CONSUMPTION; PERESTROIKA; COUNTRIES; RATES; DEATH;
+   WOMEN
+AB Aim Blood alcohol concentration (BAC) at the time of suicide was examined in relation to the marked falls in suicide rates and per capita alcohol consumption in Estonia during the major Soviet anti-alcohol campaign from I June 19 8 5. Design and participants In all, 5054 suicide cases (76% males, 24% females) were examined with respect to the official autopsy reports of the Estonian Bureau of Forensic Medicine (autopsy rates: 95%, of males, 88% of females) before (1981-84), during (1986-88) and after (1989-92) the campaign. Cases were divided by gender and BAC level (0.5-1.49,1.5-2.49 and > 2.5 parts per thousand). Findings During the campaign, annual per capita alcohol consumption in Estonia fell from 10.9 to 6.61. Alcohol in blood was found in 47.9% before, 35.1% during and 40.90% after the campaign. During the intervention, BAC-positive, i.e. alcohol-positive, suicides decreased by 39.2% for males and 41.4%, for females, with the largest fall occurring at the BAC 2.5 parts per thousand + level for both sexes. Changes in BAC-negative suicides were modest. When the campaign ended suicide rates started to rise. Conclusions Investigation on an individual level showed that alcohol consumption was a common precursor to suicide and that rigorous alcohol restrictions were accompanied particularly by a decrease in BAC-positive suicide mortality among both sexes. However, the 'natural experiment' does not, in terms of study design, demonstrate convincingly that the fall in the suicide rate was due specifically to the decrease in alcohol use as such.
+C1 Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Branch, EE-11615 Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, EE-50090 Tartu, Estonia.
+   Univ Tartu, Fac Med, EE-50090 Tartu, Estonia.
+   Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+   Swedish Natl & Stockholm Cty Ctr Suicide Res & Pr, NASP, Inst Psychosocial Med, Stockholm, Sweden.
+C3 University of Tartu; University of Tartu; Karolinska Institutet
+RP Värnik, A (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Branch, Oie 39, EE-11615 Tallinn, Estonia.
+EM airiv@online.ee
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981
+NR 28
+TC 51
+Z9 57
+U1 1
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0965-2140
+EI 1360-0443
+J9 ADDICTION
+JI Addiction
+PD FEB
+PY 2007
+VL 102
+IS 2
+BP 251
+EP 256
+DI 10.1111/j.1360-0443.2006.01687.x
+PG 6
+WC Substance Abuse; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse; Psychiatry
+GA 132KZ
+UT WOS:000243943000016
+PM 17222279
+DA 2023-12-07
+ER
+
+PT J
+AU Laidra, K
+   Rahu, K
+   Kalaus, KE
+   Tekkel, M
+   Leinsalu, M
+AF Laidra, Kaia
+   Rahu, Kaja
+   Kalaus, Katri-Evelin
+   Tekkel, Mare
+   Leinsalu, Mall
+TI Mental Disorders Among Chernobyl Cleanup Workers From Estonia: A
+   Clinical Assessment
+SO PSYCHOLOGICAL TRAUMA-THEORY RESEARCH PRACTICE AND POLICY
+LA English
+DT Article
+DE Chernobyl nuclear accident; cleanup workers; mental disorders; Estonia
+ID DEPRESSION; MORTALITY; HEALTH; QUESTIONNAIRE; INEQUALITIES; CANCER
+AB Objective: To assess, at a clinical level, the mental health of former Chernobyl cleanup workers from Estonia by comparing them with same-age controls. Method: The Mini International Neuropsychiatric Interview (MINI) was administered during 2011-2012 to 99 cleanup workers and 100 population-based controls previously screened for mental health symptoms. Results: Logistic regression analysis showed that cleanup workers had higher odds of current depressive disorder (odds ratio [OR]=3.07, 95% confidence interval [CI: 1.34, 7.01]), alcohol dependence (OR=3.47, 95% CI [1.29, 9.34]), and suicide ideation (OR=3.44, 95% CI [1.28, 9.21]) than did controls. Except for suicide ideation, associations with Chernobyl exposure became statistically nonsignificant when adjusted for education and ethnicity. Conclusion: A quarter of a century after the Chernobyl accident, Estonian cleanup workers were still at increased risk of mental disorders, which was partly attributable to sociodemographic factors.
+C1 [Laidra, Kaia; Rahu, Kaja; Tekkel, Mare; Leinsalu, Mall] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Hiiu 42, EE-11619 Tallinn, Estonia.
+   [Kalaus, Katri-Evelin] Ctr Psychiat & Psychotherapy SENSUS, Tallinn, Estonia.
+   [Leinsalu, Mall] Sodertorn Univ, Stockholm Ctr Hlth & Social Change, Huddinge, Sweden.
+C3 National Institute for Health Development - Estonia; Sodertorn
+   University
+RP Laidra, K (corresponding author), Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Hiiu 42, EE-11619 Tallinn, Estonia.
+EM kaia.laidra@tai.ee
+RI Laidra, Kaia/D-4939-2017; Leinsalu, Mall/I-3768-2018; Rahu,
+   Kaja/P-7330-2018
+OI Laidra, Kaia/0000-0003-4371-1358; Leinsalu, Mall/0000-0003-4453-4760;
+   Rahu, Kaja/0000-0001-9693-7540
+FU Estonian Science Foundation [JD152]; Estonian Ministry of Education and
+   Research [IUT5-1]
+FX This work was supported by a grant from the Estonian Science Foundation
+   (JD152) and by institutional research funding (IUT5-1) from the Estonian
+   Ministry of Education and Research.
+NR 32
+TC 7
+Z9 8
+U1 0
+U2 6
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1942-9681
+EI 1942-969X
+J9 PSYCHOL TRAUMA-US
+JI Psychol. Trauma
+PY 2017
+VL 9
+SU 1
+SI SI
+BP 93
+EP 97
+DI 10.1037/tra0000195
+PG 5
+WC Psychology, Clinical; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA FT9IZ
+UT WOS:000423467000013
+PM 27669164
+DA 2023-12-07
+ER
+
+PT J
+AU Mark, L
+   Samm, A
+   Tooding, LM
+   Sisask, M
+   Aasvee, K
+   Zaborskis, A
+   Zemaitiene, N
+   Värnik, A
+AF Mark, Lauraliisa
+   Samm, Algi
+   Tooding, Liina-Mai
+   Sisask, Merike
+   Aasvee, Katrin
+   Zaborskis, Apolinaras
+   Zemaitiene, Nida
+   Vaernik, Airi
+TI Suicidal Ideation, Risk Factors, and Communication With Parents An HBSC
+   Study on School Children in Estonia, Lithuania, and Luxembourg
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicidal ideation; parent-child communication; smoking; alcohol use;
+   physical fighting; bullying
+ID YOUTH SUICIDE; BEHAVIOR; ADOLESCENTS; CHILDHOOD; STUDENTS
+AB Background: Suicide is a leading cause of death among youth. In the year 2002, Lithuania had the 2nd, Luxembourg the 5th, and Estonia the 9th highest suicide rates among 15- to 19-year-olds across 90 countries worldwide. Suicidal ideation is a significant precursor to suicide. Aims: To report on the prevalence of and associations between suicidal ideation, smoking, alcohol consumption, physical fighting, bullying, and communication with parents among 15-year-old schoolchildren. Methods: The survey analyzes data from the 2005/2006 HBSC study from Estonia, Lithuania, and Luxembourg (N = 4,954). The risk factors were calculated through multinomial logistic regression analyses. Results: The overall prevalence of suicidal ideation in the preceding year was 17%. Suicidal thoughts were associated with communication difficulties with parents (OR from 2.0 to 4.6) and other risk factors, especially multiple risks (OR for 4-5 concurrent risk factors from 4.5 to 13.6). Parent-child communication had a significant mediating effect by decreasing the odds for suicidality and multiple risks. Limitations: The prevalence estimates were obtained by self-reports. The causal relationships need further investigation. Conclusion: The risk factors studied, particularly multiple risks, were associated with higher odds for suicidal ideation. Good parent-child communication is a significant resource for decreasing suicidal ideation among adolescents.
+C1 [Mark, Lauraliisa; Samm, Algi; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Mark, Lauraliisa; Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Samm, Algi; Tooding, Liina-Mai; Vaernik, Airi] Univ Tartu, Tartu, Estonia.
+   [Aasvee, Katrin] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Zaborskis, Apolinaras; Zemaitiene, Nida] Lithuanian Univ Hlth Sci, Kaunas, Lithuania.
+C3 Tallinn University; University of Tartu; National Institute for Health
+   Development - Estonia; Lithuanian University of Health Sciences
+RP Mark, L (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM lauraliisa.mark@gmail.com
+OI Sisask, Merike/0000-0001-6821-6367
+NR 40
+TC 17
+Z9 22
+U1 1
+U2 31
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2013
+VL 34
+IS 1
+BP 3
+EP 12
+DI 10.1027/0227-5910/a000153
+PG 10
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 082AQ
+UT WOS:000314364500002
+PM 22846444
+DA 2023-12-07
+ER
+
+PT J
+AU Nader, IW
+   Niederkrotenthaler, T
+   Schild, AHE
+   Koller, I
+   Tran, US
+   Kapusta, ND
+   Sonneck, G
+   Voracek, M
+AF Nader, Ingo W.
+   Niederkrotenthaler, Thomas
+   Schild, Anne H. E.
+   Koller, Ingrid
+   Tran, Ulrich S.
+   Kapusta, Nestor D.
+   Sonneck, Gernot
+   Voracek, Martin
+TI Development of a Scale to Assess Knowledge about Suicide Postvention
+   using Item Response Theory
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID PREVENTION STRATEGIES; REVISED FACTS; RISK-FACTORS; INTERVENTION;
+   INHERITANCE; VALIDATION; BELIEFS; ESTONIA; PROGRAM; BIRFSS
+AB Knowledge about suicide postvention (KSPV) is an important distal outcome in the evaluation of suicide prevention programs that focus on the bereaved. However, most scales are specifically tailored to the evaluation study in question and psychometric properties are often unsatisfactory. Therefore, we developed the KSPV scale. Scale properties were investigated with Rasch trees, a newly developed method in the framework of item response theory. Additionally, we provide cues for convergent validity. In summary, the scale shows satisfactory properties for assessing KSPV and could be used to evaluate suicide postvention programs more effectively.
+C1 [Nader, Ingo W.; Schild, Anne H. E.; Koller, Ingrid; Tran, Ulrich S.; Voracek, Martin] Univ Vienna, Dept Basic Psychol Res & Res Methods, Sch Psychol, A-1010 Vienna, Austria.
+   [Niederkrotenthaler, Thomas] Med Univ Vienna, Dept Gen Practice & Family Med, Ctr Publ Hlth, Vienna, Austria.
+   [Niederkrotenthaler, Thomas; Sonneck, Gernot] Med Univ Vienna, Dept Med Psychol, Ctr Publ Hlth, Vienna, Austria.
+   [Kapusta, Nestor D.] Med Univ Vienna, Dept Psychoanal & Psychotherapy, Vienna, Austria.
+   [Sonneck, Gernot] Crisis Intervent Ctr, Vienna, Austria.
+   [Sonneck, Gernot] Ludwig Boltzmann Inst Social Psychiat, Vienna, Austria.
+C3 University of Vienna; Medical University of Vienna; Medical University
+   of Vienna; Medical University of Vienna; Ludwig Boltzmann Institute
+RP Nader, IW (corresponding author), Univ Vienna, Dept Basic Psychol Res & Res Methods, Sch Psychol, Liebiggasse 5, A-1010 Vienna, Austria.
+EM ingo.nader@univie.ac.at
+RI Voracek, Martin/S-5865-2016; Kapusta, Nestor D/C-9368-2009
+OI Voracek, Martin/0000-0001-6109-6155; Kapusta, Nestor
+   D/0000-0002-0970-4341; Tran, Ulrich/0000-0002-6589-3167; Nader,
+   Ingo/0000-0002-9673-0360; Niederkrotenthaler, Thomas/0000-0001-9550-628X
+NR 28
+TC 2
+Z9 2
+U1 1
+U2 14
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD APR
+PY 2013
+VL 43
+IS 2
+BP 174
+EP 184
+DI 10.1111/sltb.12006
+PG 11
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 115PN
+UT WOS:000316824500006
+PM 23301518
+DA 2023-12-07
+ER
+
+PT J
+AU Sabre, L
+   Rekand, T
+   Asser, T
+   Korv, J
+AF Sabre, Liis
+   Rekand, Tiina
+   Asser, Toomas
+   Korv, Janika
+TI Mortality and causes of death after traumatic spinal cord injury in
+   Estonia
+SO JOURNAL OF SPINAL CORD MEDICINE
+LA English
+DT Article
+DE Spinal cord injuries; Traumatic; Epidemiology; Paraplegia; Tetraplegia;
+   Estonia; Mortality; Causes of death
+ID LIFE EXPECTANCY; RISK; SURVIVAL; TRENDS; ALCOHOL
+AB Study design: Retrospective population-based study with mortality follow-up.
+   Objective: To study mortality, causes and risk factors for death in Estonian patients with traumatic spinal cord injury (TSCI).
+   Setting: All Estonian hospitals.
+   Methods: Medical records of patients with TSCI from all regional, central, general, and rehabilitation hospitals in Estonia from 1997 to 2007, were retrospectively reviewed. Mortality status was ascertained as of 31 December 2011. Causes of death were collected from the Estonian Causes of Death Registry. Standardized mortality ratios (SMRs) were calculated for the entire sample and for causes of death. A Cox proportional hazards modeling was used to identify the risk indicators for death.
+   Results: During the observation period (1997-2011) 162 patients of 595 died. Nearly half of the patients (n = 76) died during the first year after TSCI. The main causes of death were external causes (30%), cardiovascular disease (29%). and suicide (8%). The overall SMR was 2.81 (95% confidence interval 2.40-3.28) and SMR was higher for women than for men (3.80 vs. 2.70). Cause-specific SMRs were markedly elevated for sepsis and suicide. Mortality was significantly affected by the age at the time of injury, neurological level, and extent of the injury as well as the year of TSCI and complications.
+   Conclusion: Life expectancy is significantly decreased in patients with TSCI in Estonia compared with the general population. Deaths during the first year after the injury have an important impact on statistics. Treatment of cardiovascular diseases, infections, and prevention of suicide are useful for reducing mortality in patients with TSCI.
+C1 [Sabre, Liis; Asser, Toomas; Korv, Janika] Univ Tartu, EE-51014 Tartu, Estonia.
+   [Rekand, Tiina] Haukeland Hosp, N-5021 Bergen, Norway.
+C3 University of Tartu
+RP Sabre, L (corresponding author), Univ Tartu, 8 L Puusepa St, EE-51014 Tartu, Estonia.
+EM liis.sabre@ut.ee
+RI Asser, Toomas/G-8446-2015; Rekand, Tiina/V-7189-2019; Sabre,
+   Liis/D-7931-2014; Rekand, Tiina/A-6201-2008; Kõrv, Janika/I-4395-2015
+OI Sabre, Liis/0000-0002-5727-8404; Rekand, Tiina/0000-0002-2506-9501;
+   Kõrv, Janika/0000-0002-6074-0727
+FU Estonian Science Foundation Research [7868]; Estonian Ministry of
+   Education and Research [SF0180064s07]
+FX The study was supported by the Estonian Science Foundation Research
+   Grant No 7868 and the targeted financing from the Estonian Ministry of
+   Education and Research No SF0180064s07. We thank Anne Selart for
+   valuable statistical assistance.
+NR 28
+TC 20
+Z9 21
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1079-0268
+EI 2045-7723
+J9 J SPINAL CORD MED
+JI J. Spinal Cord. Med.
+PD NOV
+PY 2013
+VL 36
+IS 6
+BP 687
+EP 694
+DI 10.1179/2045772313Y.0000000120
+PG 8
+WC Clinical Neurology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology
+GA 264JC
+UT WOS:000327871900016
+PM 24090049
+OA Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Gailiene, D
+AF Gailiene, Danute
+TI Why Are Suicides So Widespread in Catholic Lithuania?
+SO RELIGIONS
+LA English
+DT Review
+DE religion; suicide rates; Lithuania
+ID RELIGION; ATTITUDES
+AB Religion as a protective factor against suicide was introduced in Durkheim's theory of suicide and analysed from various perspectives in multiple studies. The Lithuanian case is intriguing because before WWII, along with Catholic Poland, it showed much lower suicide rates than its Protestant neighbours Latvia and Estonia. However, today Lithuania is among the leading countries in terms of the prevalence of suicide. Interestingly, not much has changed in Lithuania in terms of religious denomination-about 80% of population call themselves Catholic. The aim of this article was to explore which factors might have affected religions' protective function against suicide during radical historical processes. The method of study consists of an analysis of historical sources, and of recent studies in suicidology and sociology of religion about suicide and religion in Lithuania. The results of this analysis show that two factors seem to be most important-heroicizing resistance suicides and experiencing long-term politics of atheisation.
+C1 [Gailiene, Danute] Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+C3 Vilnius University
+RP Gailiene, D (corresponding author), Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+EM gailiened@gmail.com
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 3
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2077-1444
+J9 RELIGIONS
+JI Religions
+PD MAR
+PY 2018
+VL 9
+IS 3
+AR 71
+DI 10.3390/rel9030071
+PG 8
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA GA7KH
+UT WOS:000428514500007
+OA Green Submitted, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Vaeli, M
+   Lang, K
+   Soonets, R
+   Talumaee, M
+   Grjibovski, AM
+AF Vaeli, Marika
+   Lang, Katrin
+   Soonets, Ruth
+   Talumaee, Marika
+   Grjibovski, Andrej M.
+TI Childhood deaths from external causes in Estonia, 2001-2005
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID UNITED-STATES; INJURIES; ABUSE; UNDERASCERTAINMENT; FATALITIES;
+   MORTALITY
+AB Background: In 2000, the overall rate of injury deaths in children aged 0-14 was 28.7 per 100000 in Estonia, which is more than 5 times higher than the corresponding rate in neighbouring Finland. This paper describes childhood injury mortality in Estonia by cause and age groups, and validates registration of these deaths in the Statistical Office of Estonia against the autopsy data.
+   Methods: The data on causes of all child deaths in Estonia in 2001-2005 were abstracted from the autopsy protocols at the Estonian Bureau of Forensic Medicine. Average annual mortality rates per 100,000 were calculated. Coverage (proportion of the reported injury deaths from the total number of injury deaths) and accuracy (proportion of correctly classified injury deaths) of the registration of causes of death in Statistical Office of Estonia were assessed by comparing the Statistical Office of Estonia data with the data from Estonian Bureau of Forensic Medicine.
+   Results: Average annual mortality from external causes in 0-14 years-old children in Estonia was 19.1 per 100,000. Asphyxia and transport accidents were the major killers followed by poisoning and suicides. Relative contribution of these causes varied greatly between age groups. Intent of death was unknown for more than 10% of injury deaths. Coverage and accuracy of registration of injury deaths by Statistical Office of Estonia were 91.5% and 95.3%, respectively.
+   Conclusion: Childhood mortality from injuries in Estonia is among the highest in the EU. The number of injury deaths in Statistical Office of Estonia is slightly underestimated mostly due to misclassification for deaths from diseases. Accuracy of the Statistical Office of Estonia data was high with some underestimation of intentional deaths. Moreover, high proportion of death with unknown intent suggests underestimation of intentional deaths.
+   Reduction of injury deaths should be given a high priority in Estonia. More information on circumstances around death is needed to enable establishing the intent of death.
+C1 Univ Tartu, Inst Pathol Anat & Forens Med, EE-50411 Tartu, Estonia.
+   Estonian Bur Forens Med, Tallinn, Estonia.
+   Univ Tartu, Dept Publ Hlth, EE-50411 Tartu, Estonia.
+   Univ Tartu, Childrens Clin, EE-50411 Tartu, Estonia.
+   Tartu Support Ctr Abused Children, Tartu, Estonia.
+   Norwegian Inst Publ Hlth, Div Epidemiol, N-0403 Oslo, Norway.
+C3 University of Tartu; University of Tartu; University of Tartu; Norwegian
+   Institute of Public Health (NIPH)
+RP Lang, K (corresponding author), Univ Tartu, Inst Pathol Anat & Forens Med, 19 Ravila St, EE-50411 Tartu, Estonia.
+EM Marika.Vali@ut.ee; Katrin.Lang@ut.ee; Ruth.Soonets@hot.ee;
+   Marika.Talumae@ut.ee; andrei.grjibovski@fhi.no
+RI Grjibovski, Andrej/B-9815-2016; Lang, Katrin/J-9611-2012
+OI Grjibovski, Andrej/0000-0002-5464-0498; , Katrin/0000-0002-0179-5795
+NR 23
+TC 16
+Z9 17
+U1 0
+U2 4
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA MIDDLESEX HOUSE, 34-42 CLEVELAND ST, LONDON W1T 4LB, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 17
+PY 2007
+VL 7
+AR 158
+DI 10.1186/1471-2458-7-158
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 204GR
+UT WOS:000249032400001
+PM 17634113
+OA gold, Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Innos, K
+   Rahu, K
+   Baburin, A
+   Rahu, M
+AF Innos, K
+   Rahu, K
+   Baburin, A
+   Rahu, M
+TI Cancer incidence and cause-specific mortality in male and female
+   physicians: a cohort study in Estonia
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE cohort studies; mortality; neoplasms; physicians; smoking; social class
+ID MEDICAL PRACTITIONERS; DOCTORS; SUICIDE; SMOKING; ENGLAND; RISK;
+   OCCUPATION; FINLAND; WALES
+AB Aims: To evaluate whether the presumed knowledge of physicians about healthier lifestyle decreases their risk of cancer and mortality, a retrospective cohort study of male and female physicians was conducted in Estonia. Methods: The cancer incidence and cause-specific mortality of 3,673 physicians (870 M. 2803 F) in Estonia was compared with the rates of the general population. Information on cancer cases and deaths in the cohort between 1983 and 1998 was obtained from the Estonian Cancer Registry and the mortality database of Estonia. Results: The standardized incidence ratio (SIR) for all cancers was 1.32 (95% confidence interval (CI) 1.15-1.48) in women and 0.92 (95% CI 0.73-1.13) in men. Female physicians had an elevated risk for breast cancer (SIR 2.03, 95% CI 1.62-2.51) and myeloid leukaemia (SIR 3.69, 95% CI 1.35-8.02). Male physicians had an excess of skin melanoma (SIR 4.88, 95% CI 1.58-11.38). A large deficit of lung cancer was observed (SIR 0.24, 95% CI 0.11-0.48). The very low all-cause mortality in the cohort (standardized mortality ratio 0.55, 95% CI 0.50 0.61) was mainly due to large deficits in deaths from lung cancer, cardiovascular diseases and external causes. The suicide rate in the cohort was lower than in the general population. Conclusions: No health risks were observed in the cohort that could be linked to the occupational exposures of physicians. The pattern of cancer incidence and mortality seen in physicians in Estonia in similar to the pattern seen among professional classes in other countries.
+C1 Inst Clin & Expt Med, Dept Epidemiol & Biostat, EE-11619 Tallinn, Estonia.
+RP Rahu, M (corresponding author), Inst Clin & Expt Med, Dept Epidemiol & Biostat, Hiiu 42, EE-11619 Tallinn, Estonia.
+EM rahum@ekmi.ee
+RI Rahu, Kaja/P-7330-2018; Innos, Kaire/ACK-5304-2022
+OI Rahu, Kaja/0000-0001-9693-7540; Innos, Kaire/0000-0003-0120-2213
+NR 45
+TC 22
+Z9 24
+U1 0
+U2 10
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PY 2002
+VL 30
+IS 2
+BP 133
+EP 140
+DI 10.1177/14034948020300020701
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 554EJ
+UT WOS:000175720700007
+PM 12028862
+DA 2023-12-07
+ER
+
+PT J
+AU Kolves, K
+   Sisask, M
+   Anion, L
+   Samm, A
+   Värnik, A
+AF Kolves, Kairi
+   Sisask, Merike
+   Anion, Liivia
+   Samm, Algl
+   Varnik, Airi
+TI Factors predicting suicide among Russians in Estonia in comparison with
+   estonians:: Case-control study
+SO CROATIAN MEDICAL JOURNAL
+LA English
+DT Article
+ID CONTROL PSYCHOLOGICAL AUTOPSY; RISK-FACTORS; ALCOHOL-CONSUMPTION;
+   GENDER-DIFFERENCES; MENTAL-DISORDERS; LIFE EVENTS; AUSTRALIA; RATES;
+   MODERNIZATION; DEPRESSION
+AB Aim To explore differences between suicide victims among Russian immigrants in Estonia and native Estonians, according to socio-demographic background, substance use pattern, and recent life events to find out immigration-specific factors predicting suicide.
+   Methods The psychological autopsy study included 427 people who committed suicide in 1999 and 427 randomly selected controls matched by region, gender, age, and nationality.
+   Results The only variable that differed significantly between Russian and Estonian suicide cases was substance use pattern. Logistic regression models showed that factors associated with suicide for both nationalitics were substance dependence and abuse (Russians: odds ratio [OR], 12.9; 95% confidence interval [95% CI], 4.2-39.2; Estonians: OR, 8.1; 95% Cl, 3.9-16.4), economical inactivity (Russians: OR 5.5; 95% CL 1.3-22.9; Estonians: OR, 3.1; 95% CI, 1.3-7.1), and recent family discord (Russians: OR, 3.2; 95% CI, 1.1-9.9; Estonians: OR, 4.5; 95%, CI, 2.1-9.8). The variables that remained significant in the final model were having no partner (Estonians: OR, 3.0; 95% Cl, 1.6-5.5), being unemployed (Estonians: OR, 5.5; 95% CI, 2.0-15.4), and being an abstainer (Estonians: OR, 6.7; 95% CI, 2.5-17.6) for Estonians, and somatic illness (Russians: OR, 4.1; 95% Cl, 1.4-11.7), separation (Russians: OR, 32.3; 95% Cl, 2.9-364.1), and death of a close person (Russians: OR, 0.2; 95% Cl, 0.04-0.7) for Russians.
+   Conclusion Although the predicting factors of suicide were similar among the Estonian Russians and Estonians, there were still some differences in the nature of recent life events. Higher suicide rate among Estonian Russians in 1999 could be at least partly attributable to their higher substance consumption.
+C1 Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, EE-50090 Tartu, Estonia.
+   Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+   Swedish Natl & Stockholm Cty Ctr Suicide Res & Pr, Inst Psychosocial Med, Stockholm, Sweden.
+C3 University of Tartu; Karolinska Institutet
+RP Kolves, K (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM kaikolves@hot.ee
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981; Sisask, Merike/0000-0001-6821-6367
+NR 51
+TC 10
+Z9 10
+U1 0
+U2 6
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-9504
+EI 1332-8166
+J9 CROAT MED J
+JI Croat. Med. J.
+PD DEC
+PY 2006
+VL 47
+IS 6
+BP 869
+EP 877
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 122ZT
+UT WOS:000243266800010
+PM 17171808
+DA 2023-12-07
+ER
+
+PT J
+AU Rüütel, K
+   Valk, A
+   Lohmus, L
+AF Ruutel, Kristi
+   Valk, Anti
+   Lohmus, Liilia
+TI Suicidality and Associated Factors Among Men Who Have Sex With Men in
+   Estonia
+SO JOURNAL OF HOMOSEXUALITY
+LA English
+DT Article
+DE Depression; HIV; internalized homonegativity; men who have sex with men;
+   outness; problem drinking; suicide
+ID LIFETIME PREVALENCE; RISK-FACTORS; GAY MEN; HEALTH; ORIENTATION;
+   DEPRESSION; MINORITY; POPULATIONS; DISORDERS; BEHAVIORS
+AB Many studies over the last decade provide strong evidence of elevated rates of suicidality among lesbian, gay, bisexual, and transgender populations compared to heterosexual populations. The aim of the current study was to investigate suicidal ideation and attempts and related factors among men who have sex with men (MSM) in Estonia. We conducted a nationwide Internet-based study among MSM with 265 eligible participants. Our results reveal high rates of self-reported suicidal ideation (lifetime prevalence 45%) and attempts (lifetime prevalence 11%) as well as a high rate of problem drinking (33%) and depressive symptoms (32%) among MSM. Recent suicidal ideation (14% had thought about suicide in the last 12months) was related to depressive symptoms and lower socioeconomic situation. There is a need to develop specific interventions to address these issues among MSM and to provide gay-friendly mental health services.
+C1 [Ruutel, Kristi; Valk, Anti; Lohmus, Liilia] Natl Inst Hlth Dev, Infect Dis & Drug Monitoring Dept, Tallinn, Estonia.
+C3 National Institute for Health Development - Estonia
+RP Rüütel, K (corresponding author), Natl Inst Hlth Dev, Hiiu 42, EE-11619 Tallinn, Estonia.
+EM kristi.ruutel@tai.ee
+FU National Institute for Health Development, Estonia, from Estonian
+   Research Council Health promotion research program TerVE
+   [3.2.1002.11-0002]; National Health Plan
+FX This work has been supported by the National Institute for Health
+   Development, Estonia, from Estonian Research Council Health promotion
+   research program TerVE (grant number 3.2.1002.11-0002) and National
+   Health Plan for 2009-2020.
+NR 55
+TC 7
+Z9 10
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0091-8369
+EI 1540-3602
+J9 J HOMOSEXUAL
+JI J. Homosex.
+PY 2017
+VL 64
+IS 6
+BP 770
+EP 785
+DI 10.1080/00918369.2016.1236578
+PG 16
+WC Psychology, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Sciences - Other Topics
+GA ES5SX
+UT WOS:000399605400005
+PM 27645155
+DA 2023-12-07
+ER
+
+PT J
+AU Luhaäär, K
+   Sisask, M
+AF Luhaaar, Katlin
+   Sisask, Merike
+TI Pathways to Attempted Suicide as Reflected in the Narratives of People
+   with Lived Experience
+SO RELIGIONS
+LA English
+DT Article
+DE attempted suicide; narratives; protective factors; religious/spiritual
+   aspects; risk factors; thematic analysis
+ID LIFE EVENTS; RISK; ASSOCIATION; INTERVIEWS; RELIGION; ALCOHOL; HEALTH;
+   SLEEP
+AB Narratives, i.e., stories told by suicidal people, describing personal experiences and meanings given to these experiences, play an important role in understanding suicidal behaviour. The aim of the current study was to analyse suicidal processes that have resulted in attempted suicide and to improve the understanding of protective and risk factors of suicidal behaviour. Special emphasis was paid to religious/spiritual aspects. The material was collected in Estonia by conducting narrative interviews with adults (18 years or older) who had attempted suicide during their lifetimes (N = 8). Thematic analysis was used for analysing the data. The main themes identified from the narratives were: childhood and family relationships, romantic relationships, alcohol/drug abuse, losses, sleep, previous suicide attempts, and religious/spiritual beliefs. The findings of the study show that there are many pathways to attempted suicide and that the process leading to attempted suicide is complex. Protective and risk factors are both multi-faceted.
+C1 [Luhaaar, Katlin; Sisask, Merike] Tallinn Univ, Sch Governance Law & Soc SOGOLAS, Narva Mnt 25, EE-10120 Tallinn, Estonia.
+   [Sisask, Merike] Estonian Swedish Mental Hlth & Suicidol Inst ERSI, Oie 39, EE-11615 Tallinn, Estonia.
+C3 Tallinn University
+RP Sisask, M (corresponding author), Tallinn Univ, Sch Governance Law & Soc SOGOLAS, Narva Mnt 25, EE-10120 Tallinn, Estonia.; Sisask, M (corresponding author), Estonian Swedish Mental Hlth & Suicidol Inst ERSI, Oie 39, EE-11615 Tallinn, Estonia.
+EM katlin656@gmail.com; merike.sisask@tlu.ee
+OI Sisask, Merike/0000-0001-6821-6367
+FU Estonian Research Council [PRG71]
+FX This work was supported by the Estonian Research Council (grant PRG71).
+   The authors are grateful to the Psychiatric Clinic of Parnu Hospital
+   (headed by Raine Pilli) for helping to find participants for the study
+   and to the participants for sharing their stories.
+NR 73
+TC 1
+Z9 1
+U1 1
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-1444
+J9 RELIGIONS
+JI Religions
+PD APR
+PY 2018
+VL 9
+IS 4
+AR 137
+DI 10.3390/rel9040137
+PG 16
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA GJ3HS
+UT WOS:000435183400048
+OA gold
+DA 2023-12-07
+ER
+
+PT J
+AU Burrows, S
+   Auger, N
+   Tamambang, L
+   Barry, AD
+AF Burrows, Stephanie
+   Auger, Nathalie
+   Tamambang, Lum
+   Barry, Amadou D.
+TI Suicide mortality gap between Francophones and Anglophones of Quebec,
+   Canada
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Language groups; Suicide mortality; Ethnicity; Deprivation
+ID MARITAL-STATUS; RISK; DIFFERENTIALS; DEPRIVATION; DISPARITIES; ESTONIA;
+   HEALTH; DEATH; URBAN; RATES
+AB Few studies evaluate language-group differences in suicide mortality. This study assessed the suicide mortality gap between Francophones and Anglophones of Quebec, Canada according to age, sex, method, region and socioeconomic deprivation.
+   Suicide decedents were extracted from the Quebec death file for 1989-2007 (N = 24,465). Age- and sex-specific suicide mortality rates were calculated for four periods (1989-1993, 1994-1998, 1999-2003, 2004-2007) for Francophones and Anglophones aged a parts per thousand yen10 years. Age-standardized rates of suicide by method, region, and level of social and material deprivation were calculated for each sex. Rate ratios and rate differences were estimated.
+   Suicide rates for Francophones were two to three times higher than rates for Anglophones, and differences were greatest for adults aged 25-64 years. Francophone males had more than two times the rate of suicide by hanging or firearms than Anglophone males. Francophone females had twice the rate of hanging, poisoning or firearm suicide as Anglophone females, although precision was low. Francophone-Anglophone suicide mortality gaps were higher in urban areas despite lower suicide rates, and varied little across levels of social and material deprivation.
+   There was a large suicide mortality gap between Francophones and Anglophones of Quebec; especially, among adults aged 25-64 years.
+C1 [Burrows, Stephanie] Montreal Publ Hlth Dept, Montreal, PQ H2L 1M3, Canada.
+   [Burrows, Stephanie; Auger, Nathalie] Univ Montreal Hosp Ctr, Res Ctr, Montreal, PQ, Canada.
+   [Auger, Nathalie; Tamambang, Lum; Barry, Amadou D.] Quebec Natl Inst Publ Hlth, Montreal, PQ, Canada.
+   [Auger, Nathalie; Tamambang, Lum] Univ Montreal, Dept Social & Prevent Med, Montreal, PQ, Canada.
+C3 Universite de Montreal; Universite de Montreal
+RP Burrows, S (corresponding author), Montreal Publ Hlth Dept, 1301 Sherbrooke St East, Montreal, PQ H2L 1M3, Canada.
+EM burrows.stephanie@sympatico.ca; nathalie.auger@inspq.qc.ca;
+   lum.tamambang@umontreal.ca; amadou-diogo.barry@inspq.qc.ca
+RI Auger, Nathalie/E-3736-2016
+OI Auger, Nathalie/0000-0002-2412-0459
+NR 59
+TC 7
+Z9 10
+U1 0
+U2 11
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD JUL
+PY 2013
+VL 48
+IS 7
+BP 1125
+EP 1132
+DI 10.1007/s00127-012-0637-z
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 171TY
+UT WOS:000320953500011
+PM 23262814
+DA 2023-12-07
+ER
+
+PT J
+AU Kòlves, K
+   Värnik, A
+   Tooding, LM
+   Wasserman, D
+AF Kolves, Kairi
+   Varnik, Airi
+   Tooding, Liina-Mai
+   Wasserman, Danuta
+TI The role of alcohol in suicide:: a case-control psychological autopsy
+   study
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+ID MENTAL-DISORDERS; RISK-FACTORS; AXIS-I; NORTHERN-IRELAND; COMMIT
+   SUICIDE; FORMER USSR; DIAGNOSES; VALIDITY; AGE; CONSUMPTION
+AB Background. The purpose of the study was to estimate the proportion of alcohol abuse and dependence (AAD) among Suicides and controls. and to compare the incidence of AAD documented by clinicians with diagnoses derived from a research protocol.
+   Method. AAD according to DSM-IV was diagnosed on the basis of interviews with relatives of people who committed Suicide and with controls. A total of 427 people who committed suicide during one year were paired by region, gender. age and nationality with controls randomly selected front general practitioners' lists.
+   Results. Alcohol abuse was found in 10% and alcohol dependence in 51% of suicide cases. The corresponding figures for controls were 7% and 14% respectively. AAD was a statistically significant predictor of completed suicides, while abstinence was a significant predictor for female suicides and former use a significant predictor for older male suicides. AAD was diagnosed in 68% of male and 29% of female suicides. Middle-aged (35-59 years) males who committed Suicide had the highest risk of alcohol dependence. Among suicide cases only 29% had received a lifetime diagnosis of AAD, against 23% of controls.
+   Conclusions. AAD was significantly more prevalent among suicides than controls. Overall. the proportion of male suicides affected by alcohol was the same in the present psychological autopsy study as in our previous findings for Estonia on the aggregate level. while the share of female suicides with an AAD diagnosis was dramatically higher on the individual level. AAD is markedly underdiagnosed by general practitioners and clinicians.
+C1 Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, Tartu, Estonia.
+   Karolinska Inst, Dept Publ Hlth Sci, Inst Psychosocial Med, Swedish Natl & Stockholm Cty Ctr Suicide Res & Pr, Stockholm, Sweden.
+C3 University of Tartu; Karolinska Institutet
+RP Kolves, K (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM kaikolves@hot.ee
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981
+NR 39
+TC 78
+Z9 83
+U1 0
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD JUL
+PY 2006
+VL 36
+IS 7
+BP 923
+EP 930
+DI 10.1017/S0033291706007707
+PG 8
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 061OF
+UT WOS:000238881300004
+PM 16650347
+DA 2023-12-07
+ER
+
+PT J
+AU Glenn, CR
+   Kleiman, EM
+   Kellerman, J
+   Pollak, O
+   Cha, CB
+   Esposito, EC
+   Porter, AC
+   Wyman, PA
+   Boatman, AE
+AF Glenn, Catherine R.
+   Kleiman, Evan M.
+   Kellerman, John
+   Pollak, Olivia
+   Cha, Christine B.
+   Esposito, Erika C.
+   Porter, Andrew C.
+   Wyman, Peter A.
+   Boatman, Anne E.
+TI Annual Research Review: A meta-analytic review of worldwide suicide
+   rates in adolescents
+SO JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY
+LA English
+DT Review
+DE Adolescence; epidemiology; prevalence; suicidal behavior; suicide
+ID CROSS-NATIONAL PREVALENCE; DEPRESSIVE SYMPTOMS; INCOME INEQUALITY;
+   VIOLENT DEATH; SOCIOECONOMIC-FACTORS; GENDER-DIFFERENCES; YOUTH SUICIDE;
+   UNITED-STATES; RISK-FACTORS; COUNTRIES
+AB Suicide is a leading cause of death among youth worldwide. The purpose of the current review was to examine recent cross-national trends in suicide mortality rates among 10- to 19-year-olds. This study extracted suicide mortality data from the World Health Organization's (WHO) Mortality Database for the most recent year (since 2010) from any country with available high-quality data (as defined by the WHO's guidelines). Data on access to lethal means (firearms, railways) and measures of economic quality (World Bank Income Group) and inequality (Gini coefficients) were obtained from publicly available data sources. Cross-national suicide mortality rates in youth were heterogeneous. The pooled estimate across all ages, sexes, and countries was 3.77/100,000 people. The highest suicide rates were found in Estonia, New Zealand, and Uzbekistan. Suicide rates were higher among older compared with younger adolescents and higher among males than females. The most common suicide methods were hanging/suffocation and jumping/lying in front of a moving object or jumping from a height. Firearm and railway access were related to suicide deaths by firearms and jumping/lying, respectively. Economic quality and inequality were not related to overall suicide mortality rates. However, economic inequality was correlated with a higher ratio of male:female suicides. This study provides a recent update of cross-national suicide trends in adolescents. Findings replicate prior patterns related to age, sex, geographic region, and common suicide methods. New to this review are findings relating suicide method accessibility to suicide mortality rates and the significant association between income inequality and the ratio of male:female suicide. Future research directions include expanding the worldwide coverage to more low- and middle-income countries, examining demographic groupings beyond binary sex and to race/ethnicity within countries, and clarifying factors that account for cross-national differences in suicide trends.
+C1 [Glenn, Catherine R.; Kellerman, John; Esposito, Erika C.; Porter, Andrew C.; Boatman, Anne E.] Univ Rochester, Dept Psychol, 460 Meliora Hall,Box 270266, Rochester, NY 14627 USA.
+   [Glenn, Catherine R.; Wyman, Peter A.] Univ Rochester, Med Ctr, Dept Psychiat, Rochester, NY 14627 USA.
+   [Kleiman, Evan M.] Rutgers State Univ, Dept Psychol, New Brunswick, NJ USA.
+   [Pollak, Olivia; Cha, Christine B.] Columbia Univ, Teachers Coll, Dept Psychol, New York, NY 10027 USA.
+C3 University of Rochester; University of Rochester; Rutgers System;
+   Rutgers New Brunswick; Columbia University; Columbia University Teachers
+   College
+RP Glenn, CR (corresponding author), Univ Rochester, Dept Psychol, 460 Meliora Hall,Box 270266, Rochester, NY 14627 USA.
+EM catherine.glenn@rochester.edu
+RI Kleiman, Evan M/H-3908-2019; Glenn, Catherine/AAV-6958-2021; Porter,
+   Andrew/M-3442-2019
+OI Kleiman, Evan M/0000-0001-8002-1167; Glenn,
+   Catherine/0000-0003-2497-6000
+FU National Institute of Mental Health [L30 MH101616]
+FX The research was partially supported by a grant from the National
+   Institute of Mental Health (L30 MH101616; CRG). The authors would like
+   to thank the following people for their assistance with data extraction
+   for this project: John W. K. Chai, Elizabeth Finer, Damin Paik, and
+   Jessica Robbins. The authors have declared that they have no competing
+   or potential conflicts of interest.
+NR 116
+TC 111
+Z9 125
+U1 9
+U2 70
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9630
+EI 1469-7610
+J9 J CHILD PSYCHOL PSYC
+JI J. Child Psychol. Psychiatry
+PD MAR
+PY 2020
+VL 61
+IS 3
+SI SI
+BP 294
+EP 308
+DI 10.1111/jcpp.13106
+EA AUG 2019
+PG 15
+WC Psychology, Developmental; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA KM9OG
+UT WOS:000480037300001
+PM 31373003
+HC Y
+HP N
+DA 2023-12-07
+ER
+
+PT J
+AU Sisask, M
+   Kolves, K
+   Värnik, A
+AF Sisask, Merike
+   Kolves, Kairi
+   Varnik, Airi
+TI Severity of Attempted Suicide as Measured by the Pierce Suicidal Intent
+   Scale
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide attempt; Pierce Suicidal Intent Scale; components of suicidal
+   intent; gender and age differences
+ID DELIBERATE SELF-HARM; BEHAVIOR; PARASUICIDE; INJURY; PEOPLE
+AB Background: Suicidal intent is an essential feature of suicidal behavior. Previous research has been controversial and the need for further evidence has been pointed out. Aims: The aim of the present study was to characterize the severity of attempted suicide by extracting components of suicidal intent and analyzing levels of suicidal intent by gender, age, and variables indicating the severity of attempted suicide. Methods: Data on suicide attempters (N = 469) were collected in Estonia using WHO SUPRE-MISS methodology. To measure suicidal intent, a revised version of the Pierce Suicidal Intent Scale (PSIS) was used. Results: The level of suicidal intent was not gender-dependent, but rose with age. Males and females were also similar in terms of discrete components. Classified in age groups, their unequivocally expressed "wish to die" was similar, but equivocal communication (components termed "arrangements" and "circumstances") increased with age. Middle-aged groups scored higher for the "alcohol/drugs" component. Psychiatric diagnosis, method of attempting suicide, and duration of hospitalization were linked to suicidal intent, but danger to life as assessed by interviewers was not. Conclusions: In suicide-risk assessment, results from a Suicidal Intent Scale contribute to clinical observation and add valuable information about a suicidal person's real intention.
+C1 [Sisask, Merike; Kolves, Kairi; Varnik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Sisask, Merike; Varnik, Airi] Tallinn Univ, EE-10120 Tallinn, Estonia.
+   [Kolves, Kairi] Australian Inst Suicide Res & Prevent, Brisbane, Qld, Australia.
+   [Varnik, Airi] Univ Tartu, EE-50090 Tartu, Estonia.
+   [Varnik, Airi] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, Stockholm, Sweden.
+   [Varnik, Airi] WHO Lead Collaborating Ctr Mental Hlth Problems &, Ctr Suicide Res & Prevent, Stockholm Cty Councils, Stockholm, Sweden.
+C3 Tallinn University; University of Tartu; Karolinska Institutet
+RP Sisask, M (corresponding author), Oie 39, EE-11615 Tallinn, Estonia.
+EM merike.sisask@neti.ee
+RI Kolves, Kairi/ABE-7564-2020
+OI Kolves, Kairi/0000-0002-1638-8981; Sisask, Merike/0000-0001-6821-6367
+NR 40
+TC 13
+Z9 16
+U1 0
+U2 9
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2009
+VL 30
+IS 3
+BP 136
+EP 143
+DI 10.1027/0227-5910.30.3.136
+PG 8
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 498HA
+UT WOS:000270126800005
+PM 19767269
+DA 2023-12-07
+ER
+
+PT J
+AU Bertolote, JM
+   Fleischmann, A
+   De Leo, D
+   Bolhari, J
+   Botega, N
+   De Silva, D
+   Thanh, HTT
+   Phillips, M
+   Schlebusch, L
+   Värnik, A
+   Vijayakumar, L
+   Wasserman, D
+AF Bertolote, JM
+   Fleischmann, A
+   De Leo, D
+   Bolhari, J
+   Botega, N
+   De Silva, D
+   Thanh, HTT
+   Phillips, M
+   Schlebusch, L
+   Värnik, A
+   Vijayakumar, L
+   Wasserman, D
+TI Suicide attempts, plans, and ideation in culturally diverse sites:: the
+   WHOSUPRE-MISS community survey
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+ID GENERAL-POPULATION; RISK-FACTORS; PREVALENCE; BEHAVIOR; PARASUICIDE;
+   RATES; CHINA
+AB Background. The objectives were to assess thoughts about suicide, plans to commit suicide and suicide attempts in the community, to investigate the use of health services following a suicide attempt, and to describe basic socio-cultural indices of the community.
+   Method. The community survey was one component of the larger WHO multisite intervention study on suicidal behaviours (SUPRE-MISS). In each site, it aimed at randomly selecting and interviewing at least 500 subjects of the general population living in the catchment area of the emergency department where the intervention component of the study was conducted. Communities of eight SUPRE-MISS sites (in Brazil, China, Estonia, India, Iran, South Africa, Sri Lanka, and Viet Nam) participated plus two additional sites from Australia and Sweden conducting similar surveys.
+   Results. Suicide attempts (0(.)4-4(.)2%), plans (1(.)1-15(.)6%), and ideation (2(.)6-25(.)4%) varied by a factor of 10-14 across sites, but remained mostly within the ranges of previously published data. Depending on the site, the ratios between attempts, plans, and thoughts Of Suicide differed substantially. Medical attention following a suicide attempt varied between 22% and 88% of the attempts.
+   Conclusions. The idea of the suicidal process as a continuous and smooth evolution from thoughts to plans and attempts of suicide needs to be further investigated as it seems to be dependent on the cultural setting. There are indications, that the burden of undetected attempted suicide is high in different cultures; an improved response from the health sector on how to identify and support these individuals is needed.
+C1 WHO, Dept Mental Hlth & Substance Abuse, CH-1211 Geneva, Switzerland.
+   Griffith Univ, Australian Inst Suicide Res & Prevent, Brisbane, Qld 4111, Australia.
+   Tehran Psychiat Inst, Mental Hlth Res Ctr, Tehran, Iran.
+   UNICAMP, FCM, Dept Psychiat, Campinas, SP, Brazil.
+   Univ Colombo, Fac Med, Dept Psychol Med, Colombo, Sri Lanka.
+   Hanoi Med Univ, Hanoi, Vietnam.
+   Beijing Hui Long Guan Hosp, Beijing Suicide Res & Prevent Ctr, Beijing, Peoples R China.
+   Univ KwaZulu Natal, Nelson R Mandela Sch Med, Fac Hlth Sci, Dept Behav Med,Sch Family & Publ Hlth Med, Durban, South Africa.
+   Estonian Swedish Mental Hlth & Suicidol Inst, Estonian Ctr Behav & Hlth Sci, Tallinn, Estonia.
+   Voluntary Hlth Serv & SNEHA, Dept Psychiat, Madras, Tamil Nadu, India.
+   Karolinska Inst, Natl & Stockholm Cty Ctr Suicide Res & Prevent Me, Dept Publ Hlth Sci, Stockholm, Sweden.
+   Swedish Natl Inst Psychosocial Med, Stockholm, Sweden.
+C3 World Health Organization; Griffith University; Universidade Estadual de
+   Campinas; University of Colombo; Hanoi Medical University; University of
+   Kwazulu Natal; Karolinska Institutet
+RP Bertolote, JM (corresponding author), WHO, Dept Mental Hlth & Substance Abuse, CH-1211 Geneva, Switzerland.
+EM bertolotej@who.int
+RI Phillips, Michael R/AAE-7585-2021; Bolhari, Jafar/L-4049-2018
+OI Phillips, Michael R/0000-0002-5973-2439; Bolhari,
+   Jafar/0000-0001-5360-7541
+NR 25
+TC 262
+Z9 296
+U1 0
+U2 28
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0033-2917
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD OCT
+PY 2005
+VL 35
+IS 10
+BP 1457
+EP 1465
+DI 10.1017/S0033291705005404
+PG 9
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 974JZ
+UT WOS:000232589000007
+PM 16164769
+OA Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Sisask, M
+   Värnik, A
+   Kolves, K
+   Konstabel, K
+   Wasserman, D
+AF Sisask, Merike
+   Varnik, Airi
+   Kolves, Kairi
+   Konstabel, Kenn
+   Wasserman, Danuta
+TI Subjective psychological well-being (WHO-5) in assessment of the
+   severity of suicide attempt
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Depression; Hopelessness; Severity of suicide attempt; Suicidal intent;
+   Well-being
+ID PRIMARY-CARE; HOPELESSNESS SCALE; MENTAL-HEALTH; DEPRESSION; POPULATION;
+   VALIDITY; PARASUICIDE; DISORDERS; IDEATION; SCIENCE
+AB An objective way to measure the severity of suicide attempt is to use different psychometric scales. Aspects of suicide risk like suicidal intent, depression, hopelessness and well-being can be assessed and different practical scales are in use to facilitate the risk assessment procedure. The aims of current study were: 1) to analyse the association between the severity of suicide attempt measured by suicidal intent scale and characteristics of emotional status of suicide attempters measured by depression, hopelessness and well-being scales in different gender and age groups; 2) to test the applicability of well-being measured by the World Health Organisation well-being index (WHO-5) in suicide risk assessment. The data on suicide attempters (n=469) was obtained in Estonia (Tallinn) by the WHO Suicide PreventionMultisite Intervention Study on Suicidal Behaviours (SUPRE-MISS) methodology. Different psychometric scales were used to measure suicidal intent (Pierce Suicidal Intent Scale) and emotional status (Beck Depression Inventory for depression, Beck Hopelessness Scale for hopelessness, WHO-5 for well-being). All psychometric scales correlated well with each other (P0.05). Low level of well-being associated with high level of suicidal intent, depression and hopelessness. Suicidal intent correlated the most strongly with well-being. Analysis by gender and age groups revealed also significant correlations with two exceptions only: correlation between suicidal intent and hopelessness did not reach the significant level in males and in older adults (40+). The WHO-5 well-being scale, which is a short and emotionally positively loaded instrument measuring protective factors, can be used in settings without psychological/psychiatric expertise in preliminary suicide risk assessment.
+C1 [Sisask, Merike; Varnik, Airi; Kolves, Kairi] Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Sisask, Merike; Varnik, Airi] Tallinn Univ, EE-10120 Tallinn, Estonia.
+   [Varnik, Airi; Konstabel, Kenn] Univ Tartu, Tartu, Estonia.
+   [Konstabel, Kenn] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, Stockholm, Sweden.
+   [Wasserman, Danuta] WHO, Lead Collaborating Ctr Mental Hlth Problems & Sui, Stockholm Cty Council, Ctr Suicide Res & Prevent, Stockholm, Sweden.
+C3 Tallinn University; University of Tartu; National Institute for Health
+   Development - Estonia; Karolinska Institutet; Stockholm County Council;
+   World Health Organization
+RP Sisask, M (corresponding author), Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM merike.sisask@neti.ee
+RI Konstabel, Kenn/C-8948-2011; Konstabel, Kenn/E-9919-2016; Kolves,
+   Kairi/ABE-7564-2020
+OI Konstabel, Kenn/0000-0002-9673-8469; Kolves, Kairi/0000-0002-1638-8981;
+   Sisask, Merike/0000-0001-6821-6367
+NR 37
+TC 51
+Z9 54
+U1 1
+U2 14
+PU INFORMA HEALTHCARE
+PI LONDON
+PA TELEPHONE HOUSE, 69-77 PAUL STREET, LONDON EC2A 4LQ, ENGLAND
+SN 0803-9488
+EI 1502-4725
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PY 2008
+VL 62
+IS 6
+BP 431
+EP 435
+AR PII 903488520
+DI 10.1080/08039480801959273
+PG 5
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 375BT
+UT WOS:000261088600003
+PM 18846444
+DA 2023-12-07
+ER
+
+PT J
+AU Parker, RD
+   Lohmus, L
+   Valk, A
+   Mangine, C
+   Rüütel, K
+AF Parker, R. David
+   Lohmus, Liilia
+   Valk, Anti
+   Mangine, Cara
+   Rueuetel, Kristi
+TI Outcomes associated with anxiety and depression among men who have sex
+   with men in Estonia
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Men who have sex with men; Depression; Anxiety; Substance use; Estonia
+ID SUBSTANCE USE DISORDERS; LIFETIME PREVALENCE; NATIONAL-HEALTH; SUICIDE;
+   GAY; RISK; ORIENTATION; EXPERIENCES; POPULATION; SYMPTOMS
+AB Background: Evidence supports that gay, lesbian, and transgender populations are at increased risk for mental health problems. The current study was conducted to estimate the prevalence of anxiety and depressive symptoms and related factors among men who have sex with men (MSM) in Estonia. This is the only known study of its type in the Eastern European region.
+   Methods: In 2013, an Internet-based survey was conducted among men who have sex with men, collecting data On socio-demographics, sexuality, drug and alcohol use, mental health, suicidality, and internalized homonegativity.
+   Results: 265 MSM completed the questionnaire (median age 31 years, 90% Estonian, 71% from the capital; 73% employed full-time, 42% with at least college education; 44% in a steady relationship; 72% gay, 23% bisexual; 23% reported illegal drug use in the last 12 months). One third met criteria for problem drinking and depressive symptoms with one quarter for anxiety symptoms. Suicidality was 44% reported lifetime suicidal thoughts and 11% with at least one suicide attempt.
+   Limitations: The study instruments, EST-Q and CAGE, only measure symptoms and are not diagnostic tests. A non-random sample which could possibly include persons with easier internet access. Self-reported data and cross-sectional study design are prone to issues with recall bias and temporality.
+   Conclusions: With demonstrated high rates of anxiety, depression, thinking, and drug use among MSM which is consistent with similar studies in Western countries, further research could help determine effective MSM focused interventions to address the broad spectrum of issues among MSM. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Parker, R. David; Mangine, Cara] W Virginia Univ, Sch Publ Hlth, Morgantown, WV 26506 USA.
+   [Lohmus, Liilia; Valk, Anti; Rueuetel, Kristi] Natl Inst Hlth Dev, Infect Dis & Drug Monitoring Dept, EE-11619 Tallinn, Estonia.
+C3 West Virginia University; National Institute for Health Development -
+   Estonia
+RP Parker, RD (corresponding author), W Virginia Univ, Sch Publ Hlth, 1 Med Ctr Dr, Morgantown, WV 26506 USA.
+EM rdparker@hsc.wvu.edu
+RI Parker, R David D/G-6241-2015
+OI Parker, R David D/0000-0002-1955-7445
+FU National Institute for Health Development, Estonia, from Estonian
+   Research Council Health promotion research program TerVE
+   [3.2.1002.11-0002]; National Health Plan
+FX This work has been supported by the National Institute for Health
+   Development, Estonia, from Estonian Research Council Health promotion
+   research program TerVE (Grant number 3.2.1002.11-0002) and National
+   Health Plan 2009-2020.
+NR 30
+TC 15
+Z9 19
+U1 0
+U2 27
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD SEP 1
+PY 2015
+VL 183
+BP 205
+EP 209
+DI 10.1016/j.jad.2015.05.014
+PG 5
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA CK6TQ
+UT WOS:000356361500028
+PM 26025366
+DA 2023-12-07
+ER
+
+PT J
+AU Fond, G
+   Llorca, PM
+   Boucekine, M
+   Zendjidjian, X
+   Brunel, L
+   Lancon, C
+   Auquier, P
+   Boyer, L
+AF Fond, Guillaume
+   Llorca, Pierre-Michel
+   Boucekine, Mohamed
+   Zendjidjian, Xavier
+   Brunel, Lore
+   Lancon, Christophe
+   Auquier, Pascal
+   Boyer, Laurent
+TI Disparities in suicide mortality trends between United States of America
+   and 25 European countries: retrospective analysis of WHO mortality
+   database
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID SEROTONIN REUPTAKE INHIBITORS; RANDOMIZED CONTROLLED-TRIAL; PREVENTION
+   PROGRAM; ANTIDEPRESSANT MEDICATION; DEVELOPMENTAL TRAJECTORIES;
+   BEHAVIORAL-THERAPY; COMMITMENT THERAPY; MENTAL-DISORDERS;
+   TRAINING-PROGRAM; YOUNG-PEOPLE
+AB The objective was to examine changes in temporal trends in suicide mortality in 26 Western countries by retrospective trend analysis of the WHO mortality database on causes of deaths. From 1990 to 2010, there was a median reduction in suicide mortality of 22.7%, ranging from a 46% reduction in Estonia to a 26.2% increase in Romania. Suicide mortality decreased by >= 20% in 15 countries, and the reduction tended to be greater in countries with higher mortality in 1990. In most of the central European countries mortality strongly declined. The median changes in the age groups were -25.3% (range -62.9% to 72.6%) in people aged 15-24 years, -36.9% (-60.5% to 32.4%) in 25-34 years, -3.6% (-57.1% to 92%) in 35-54 years, -12.2% (-37% to 65,7%) in 55-74 years and -16.1% (-54.5% to 166.7%) in >= 75 years. Suicide prevention programs in youths and in the elderly seem to be effective (at least in females for the elderly) and efforts should be pursued in this way. However, suicide mortality of the people aged 35-54 years has increased in half of the studied countries between 1990 and 2010. Public policies should further orientate their efforts toward this population.
+C1 [Fond, Guillaume; Brunel, Lore] Univ Paris Est Creteil Val de Marne, Paris, France.
+   [Fond, Guillaume; Lancon, Christophe] DHU Pe Psy, Pole Psychiat Hop Univ H Mondor, Creteil, France.
+   [Fond, Guillaume] Eq Psychiat Translationnelle, INSERM, U955, Creteil, France.
+   [Fond, Guillaume; Brunel, Lore] Fdn Fondamental Fdn Cooperat Sci St Mentale, Creteil, France.
+   [Zendjidjian, Xavier] La Concept Univ Hosp, Dept Psychiat, Marseille, France.
+   [Boucekine, Mohamed; Zendjidjian, Xavier; Boyer, Laurent] Aix Marseille Univ, EA 3279 Publ Hlth, Chron Dis & Qual Life Res Unit, F-13005 Marseille, France.
+   [Llorca, Pierre-Michel] CHU Clermont Ferrand, Clermont Ferrand, France.
+C3 Universite Paris-Est-Creteil-Val-de-Marne (UPEC); Assistance Publique
+   Hopitaux Paris (APHP); Universite Paris-Est-Creteil-Val-de-Marne (UPEC);
+   Hopital Universitaire Henri-Mondor - APHP; Universite
+   Paris-Est-Creteil-Val-de-Marne (UPEC); Institut National de la Sante et
+   de la Recherche Medicale (Inserm); Aix-Marseille Universite;
+   Aix-Marseille Universite; CHU Clermont Ferrand
+RP Fond, G (corresponding author), Univ Paris Est Creteil Val de Marne, Paris, France.; Fond, G (corresponding author), DHU Pe Psy, Pole Psychiat Hop Univ H Mondor, Creteil, France.; Fond, G (corresponding author), Eq Psychiat Translationnelle, INSERM, U955, Creteil, France.; Fond, G (corresponding author), Fdn Fondamental Fdn Cooperat Sci St Mentale, Creteil, France.
+EM guillaume.fond@gmail.com
+RI Boyer, Laurent/E-5728-2016; Fond, Guillaume/D-7646-2011
+OI Boyer, Laurent/0000-0003-1229-6622; Fond, Guillaume/0000-0003-3249-2030
+FU AP-HP (Assistance Publique des Hopitaux de Paris); Fondation FondaMental
+   (RTRS Sante Mentale); programme Investissements d'Avenir
+   [ANR-11-IDEX-0004-02, ANR-10-COHO-10-01]; INSERM (Institut National de
+   la Sante et de la Recherche Medicale)
+FX We thank Dr Laurent ARNAUD, hopital La Pitie-Salpetriere, Paris, France.
+   This work was supported by AP-HP (Assistance Publique des Hopitaux de
+   Paris), Fondation FondaMental (RTRS Sante Mentale)
+   http://www.fondation-fondamental.org/, by programme Investissements
+   d'Avenir under the references ANR-11-IDEX-0004-02 et ANR-10-COHO-10-01,
+   and by INSERM (Institut National de la Sante et de la Recherche
+   Medicale).
+NR 85
+TC 19
+Z9 19
+U1 2
+U2 18
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD FEB 17
+PY 2016
+VL 6
+AR 20256
+DI 10.1038/srep20256
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DD9HH
+UT WOS:000370235800001
+PM 26883796
+OA Green Published, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Sisask, M
+   Mark, L
+   Värnik, A
+AF Sisask, Merike
+   Mark, Lauraliisa
+   Vaernik, Airi
+TI Internet Comments Elicited by Media Portrayal of a Familicide-Suicide
+   Case
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE familicide-suicide; media; public attitudes; Estonia; content analysis
+ID EPIDEMIOLOGY; POPULATION; MURDER
+AB Background: Events of extraordinary violence attract media attention. Recently, much media reporting has moved to the Internet, giving readers the possibility to comment online. Aims: To analyze the content of public cognitions and the emotional tonality of attitudes expressed in spontaneous Internet comments on a familicide-suicide case reported in the Estonian media. Methods: A content analysis is based on the comments of 6,333 readers following media coverage. Descriptive statistics were used for quantitative data analysis. Results: Of all comments, 27.6% were without manifest content. Manifest content categories were "value judgments" (35.2%), "risk and protective factors" (27.2%), and "critics of media portrayal" (10.0%). As to emotional tonality, the comments were most often angry (34.5%), ironic (24.7%), or neutral (23.3%). "Critics of media portrayal" had the most clearly pronounced emotional tonality, the majority being angry or approving. Comments about "value judgments" were most frequently anguished. Conclusions: An analysis of Internet comments can provide valuable information about value judgments and attitudes in society. From an ethical and preventive perspective, similar homicide and suicide stories should not be open for unmoderated public discussion. Nevertheless, the study represents an original methodological approach for such research and also provides some guidance for public relations campaigns.
+C1 [Sisask, Merike; Mark, Lauraliisa; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst ERSI, EE-11615 Tallinn, Estonia.
+   [Sisask, Merike; Mark, Lauraliisa; Vaernik, Airi] Tallinn Univ, EE-200108 Tallinn, Estonia.
+C3 Tallinn University
+RP Sisask, M (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst ERSI, Oie 39, EE-11615 Tallinn, Estonia.
+EM merike.sisask@neti.ee
+OI Sisask, Merike/0000-0001-6821-6367; Mark, Lauraliisa/0000-0001-6624-8218
+NR 29
+TC 14
+Z9 15
+U1 0
+U2 16
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2012
+VL 33
+IS 4
+BP 222
+EP 229
+DI 10.1027/0227-5910/a000134
+PG 8
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 977JR
+UT WOS:000306655300006
+PM 22450037
+DA 2023-12-07
+ER
+
+PT J
+AU Lipsicas, CB
+   Mäkinen, IH
+   Wasserman, D
+   Apter, A
+   Kerkhof, A
+   Michel, K
+   Renberg, ES
+   van Heeringen, K
+   Värnik, A
+   Schmidtke, A
+AF Lipsicas, Cendrine Bursztein
+   Makinen, Ilkka Henrik
+   Wasserman, Danuta
+   Apter, Alan
+   Kerkhof, Ad
+   Michel, Konrad
+   Renberg, Ellinor Salander
+   van Heeringen, Kees
+   Varnik, Airi
+   Schmidtke, Armin
+TI Gender distribution of suicide attempts among immigrant groups in
+   European countries-an international perspective
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID ETHNIC-DIFFERENCES; SELF-HARM; RATES; BEHAVIOR; WOMEN; NETHERLANDS;
+   MINORITY; YOUNG
+AB Background: Studies report high rates of suicide attempts for female immigrants. This study assesses variations in the distribution of suicide attempts across gender in immigrant and non-immigrant groups in Europe. Method: Data on 64 native and immigrant groups, including 17 662 local and 3755 immigrant person-cases collected, between 1989 and 2003, in 24 million person-years were derived from the WHO/EURO Multicentre Study on Suicidal Behaviour. Female-to-male ratios of suicide attempt rates (SARs) were calculated for all groups. Results: The cases were combined into four major categories: hosts; European and other Western immigrants; non-European immigrants; and Russian immigrants. The non-European immigrants included higher female SARs than the Europeans, both hosts and immigrants. Unlike the other groups, the majority of suicide attempters among the Russian immigrants in Estonia and Estonian hosts were male. This was also true for immigrants from Curacao, Iran, Libya and Sri Lanka. When the single groups with a male majority were excluded, the correlation between female and male SARs was relatively high among the European immigrants (r = 0.74, P < 0.0005) and lower among the non-European immigrants (r = 0.55, P < 0.03). Generalized estimating equation analysis yielded a highly significant difference (P < 0.0005) in gender ratios of suicide attempts between hosts (ratio 1.52) and both non-European immigrants (ratio 2.32) and Russian immigrants (0.68), but not the European immigrants. Conclusions: The higher suicide attempt rates in non-European immigrant females compared with males may be indicative of difficulties in the acculturation processes in Europe. Further understanding of factors underlying suicidal behaviour in immigrant and minority groups is necessary for planning effective prevention strategies.
+C1 [Lipsicas, Cendrine Bursztein; Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, S-10401 Stockholm, Sweden.
+   [Lipsicas, Cendrine Bursztein; Wasserman, Danuta] WHO Lead Collaborating Ctr Mental Hlth Problems &, Stockholm Cty Councils Ctr Suicide Res & Prevent, Stockholm, Sweden.
+   [Makinen, Ilkka Henrik] Sodertorn Univ, Sch Social Sci, SCOHOST, Stockholm, Sweden.
+   [Apter, Alan] Feinberg Child Study Ctr, Petah Tiqwa, Israel.
+   [Apter, Alan] Schneider Childrens Med Ctr, Dept Child & Adolescent Psychiat, Petah Tiqwa, Israel.
+   [Kerkhof, Ad] Vrije Univ Amsterdam, Dept Clin Psychol, Amsterdam, Netherlands.
+   [Michel, Konrad] Univ Psychiat Serv UPD, Bern, Switzerland.
+   [Renberg, Ellinor Salander] Umea Univ, Div Psychiat, Dept Clin Sci, S-90187 Umea, Sweden.
+   [van Heeringen, Kees] Univ Hosp, Unit Suicide Res, Univ Dept Psychiat & Med Psychol, Ghent, Belgium.
+   [Varnik, Airi] Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Schmidtke, Armin] Univ Wurzburg, Dept Psychiat & Psychotherapy, Unit Clin Psychol, Wurzburg, Germany.
+C3 Karolinska Institutet; Sodertorn University; Vrije Universiteit
+   Amsterdam; Umea University; Ghent University; Ghent University Hospital;
+   University of Wurzburg
+RP Lipsicas, CB (corresponding author), Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, S-10401 Stockholm, Sweden.
+EM cendrinebursztein@gmail.com
+RI van Heeringen, Kees/H-2384-2013; Michel, Konrad/AAO-5546-2020
+OI van Heeringen, Kees/0000-0001-5801-194X; Michel,
+   Konrad/0000-0003-0725-5383; Schmidtke, Armin/0000-0001-5719-9856
+FU WHO/EU Network on suicide research and prevention monitoring study
+   project [2003135]; Karolinska Institute PhD financing programme (KID);
+   National Prevention of Suicide and Mental Ill-Health (NASP) at the
+   Karolinska Institute, Stockholm
+FX The WHO/EU Network on suicide research and prevention monitoring study
+   project (No. 2003135); the Karolinska Institute PhD financing programme
+   (KID-funding); the National Prevention of Suicide and Mental Ill-Health
+   (NASP) at the Karolinska Institute, Stockholm.
+NR 28
+TC 16
+Z9 19
+U1 1
+U2 19
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD APR
+PY 2013
+VL 23
+IS 2
+BP 279
+EP 284
+DI 10.1093/eurpub/cks029
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 123XK
+UT WOS:000317425100023
+PM 22577125
+OA Green Published, Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Lemsalu, L
+   Rüütel, K
+   Laisaar, KT
+   Lohmus, L
+   Raidvee, A
+   Uusküla, A
+AF Lemsalu, Liis
+   Ruutel, Kristi
+   Laisaar, Kaja-Triin
+   Lohmus, Liilia
+   Raidvee, Aire
+   Uuskula, Anneli
+CA HIV-BRIDGE Study Grp
+TI Suicidal Behavior Among People Living with HIV (PLHIV) in Medical Care
+   in Estonia and Factors Associated with Receiving Psychological Treatment
+SO AIDS AND BEHAVIOR
+LA English
+DT Article
+DE HIV; Suicide; Suicidal ideation; Estonia; Mental health services
+ID GENERAL-POPULATION; INFECTED PATIENTS; OLDER PERSONS; DEPRESSION; RISK;
+   HEALTH; COHORT; DEATH; AIDS; QUESTIONNAIRE
+AB People living with HIV (PLHIV) have higher rates of suicidal behavior than the general population. This study assessed suicidal behavior (ideation and/or attempts, ever and in the past 12 months) among PLHIV receiving outpatient HIV medical care in Estonia and associations between suicidal behavior and psychological treatment. The cross-sectional study collected data from January to November 2013 using a self-report questionnaire. Eight hundred PLHIV participated, 39 % (n = 306) of whom had been suicidal. Lifetime prevalence was 36 % for suicidal ideation and 20 % for attempts. Younger age, incarceration, having ever abused alcohol and also injected drugs, having lived with HIV for more than 10 years, and being depressed were associated with lifetime suicidal behavior. Suicidal behavior within the past 12 months was reported by 20 % (n = 156) of respondents. Of these, 27 % received psychological treatment (counseling and/or psychotherapy), 20 % had taken antidepressants, and 49 % sedatives. Individuals perceiving a need for treatment were significantly more likely to receive psychological treatment when experiencing suicidal behavior (OR 25.65, 95 % CI 2.92-225.47). In conclusion, suicidal behavior is frequent among PLHIV but psychological treatment is not often received. One of the barriers to treatment is patients' lack of perceived need for help.
+C1 [Lemsalu, Liis; Ruutel, Kristi; Lohmus, Liilia] Natl Inst Hlth Dev, Infect Dis & Drug Monitoring Dept, Hiiu 42, EE-11619 Tallinn, Estonia.
+   [Lemsalu, Liis; Laisaar, Kaja-Triin; Uuskula, Anneli] Univ Tartu, Dept Publ Hlth, Tartu, Estonia.
+   [Raidvee, Aire] Univ Tartu, Dept Psychol, Tartu, Estonia.
+   [Raidvee, Aire] New York Univ Abu Dhabi, Abu Dhabi, U Arab Emirates.
+C3 National Institute for Health Development - Estonia; University of
+   Tartu; University of Tartu; New York University Abu Dhabi
+RP Lemsalu, L (corresponding author), Natl Inst Hlth Dev, Infect Dis & Drug Monitoring Dept, Hiiu 42, EE-11619 Tallinn, Estonia.; Lemsalu, L (corresponding author), Univ Tartu, Dept Publ Hlth, Tartu, Estonia.
+EM liis.lemsalu@tai.ee
+RI Lemsalu, Liis/U-5780-2017; Uusküla, Anneli/H-3303-2015; Raidvee,
+   Aire/G-9403-2012
+OI Lemsalu, Liis/0000-0002-4818-0683; Uusküla, Anneli/0000-0002-4036-3856;
+   Raidvee, Aire/0000-0003-2385-9099
+FU European Union; Estonian Ministry of Education and Research [IUT34-17];
+   National Institute for Health Development, Estonia through National
+   Health Plan
+FX The study was funded by the European Union through the European Regional
+   Development Fund within the research project "Bridging the gap in
+   knowledge and practice of prevention and care for HIV in Estonia
+   (HIV-BRIDGE)'', the Estonian Ministry of Education and Research (Grant
+   #IUT34-17), and National Institute for Health Development, Estonia,
+   through National Health Plan 2009-2020.
+NR 38
+TC 6
+Z9 7
+U1 0
+U2 10
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1090-7165
+EI 1573-3254
+J9 AIDS BEHAV
+JI AIDS Behav.
+PD JUN
+PY 2017
+VL 21
+IS 6
+BP 1709
+EP 1716
+DI 10.1007/s10461-016-1561-0
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA EU4CB
+UT WOS:000400976300021
+PM 27664013
+DA 2023-12-07
+ER
+
+PT J
+AU Stickley, A
+   Koyanagi, A
+   Inoue, Y
+   Leinsalu, M
+AF Stickley, Andrew
+   Koyanagi, Ai
+   Inoue, Yosuke
+   Leinsalu, Mall
+TI Childhood Hunger and Thoughts of Death or Suicide in Older Adults
+SO AMERICAN JOURNAL OF GERIATRIC PSYCHIATRY
+LA English
+DT Article
+DE Childhood; hunger; death ideation; suicidal ideation; Estonia
+ID MENTAL-HEALTH OUTCOMES; DEPRESSIVE SYMPTOMS; FOOD INSECURITY; LIFE;
+   IDEATION; ADVERSITY; ADOLESCENTS; DISORDERS; ANXIETY; STRESS
+AB Objective: There is little research on the effects of childhood hunger on adult mental health. This study examined the association between childhood hunger and recurrent thoughts of death or suicide in older adults. Design: Data collected during the Estonian Health Interview Survey 2006 (N = 2455) were analyzed from adults aged 60 and above. Retrospective information was obtained on the frequency (never, seldom, sometimes, often) of going to bed hungry in childhood and on the presence of recurrent thoughts of death or suicide in the past 4 weeks. Multivariate logistic regression analysis was used to examine associations between variables. Results: Experiencing hunger in childhood was common (37.6%), with 143% of the respondents stating that they often went to bed hungry. In a univariate analysis, going to bed hungry either sometimes or often more than doubled the odds for thoughts of death or suicide. Although adjustment for a range of covariates (including physical diseases and depressive episode) attenuated the associations, in the fully adjusted model, going to bed hungry sometimes continued to be associated with significantly increased odds for thoughts of death or suicide in older adults (odds ratio = 1.74, 95% confidence interval =1.10-2.74, Wald chi(2) = 5.7 degrees of freedom = 1, p = 0.017). Conclusion: The findings of this study suggest that the effects of childhood hunger may be long lasting and associated with mental health and well-being even in older adults.
+C1 [Stickley, Andrew; Leinsalu, Mall] Sodertorn Univ, Stockholm Ctr Hlth & Social Change SCOHOST, 7 Alfred Nobels Alle, S-14189 Huddinge, Sweden.
+   [Koyanagi, Ai] Univ Barcelona, Parc Sanitari St Joan de Deu, Fdn St Joan de Deu, Barcelona, Spain.
+   [Koyanagi, Ai] Inst Salud Carlos III, Ctr Invest Biomed Red Salud Mental CIBERSAM, Madrid, Spain.
+   [Inoue, Yosuke] Univ N Carolina, Carolina Populat Ctr, Chapel Hill, NC 27515 USA.
+   [Leinsalu, Mall] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+C3 Sodertorn University; University of Barcelona; Instituto de Salud Carlos
+   III; CIBER - Centro de Investigacion Biomedica en Red; CIBERSAM;
+   University of North Carolina; University of North Carolina Chapel Hill;
+   National Institute for Health Development - Estonia
+RP Stickley, A (corresponding author), Sodertorn Univ, Stockholm Ctr Hlth & Social Change SCOHOST, 7 Alfred Nobels Alle, S-14189 Huddinge, Sweden.
+EM amstick66@gmail.com
+RI Leinsalu, Mall/I-3768-2018; Koyanagi, Ai/D-3833-2018
+OI Leinsalu, Mall/0000-0003-4453-4760; Koyanagi, Ai/0000-0002-9565-5004
+FU Swedish Foundation for Baltic and East European Studies; Estonian
+   Research Council [IUT5-1]; Miguel Servet contract [CP13/00150,
+   PI15/00862]
+FX The authors declare they have no conflicts of interest. The work of Mall
+   Leinsalu, Ph.D., was supported by the Swedish Foundation for Baltic and
+   East European Studies and by the Estonian Research Council (IUT5-1). The
+   work of Ai Koyanagi, M.D., was supported by the Miguel Servet contract,
+   financed by the CP13/00150 and PI15/00862 projects, integrated into the
+   National R + D + I, and funded by the Institute de Salud Carlos III
+   General Branch Evaluation and Promotion of Health Research and the
+   European Regional Development Fund. These organizations had no role in
+   the study design, collection, analysis, and interpretation; in the
+   writing of the manuscript; and in the decision to submit the paper for
+   publication.
+NR 37
+TC 5
+Z9 5
+U1 2
+U2 16
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1064-7481
+EI 1545-7214
+J9 AM J GERIAT PSYCHIAT
+JI Am. J. Geriatr. Psychiatr.
+PD OCT
+PY 2018
+VL 26
+IS 10
+BP 1070
+EP 1078
+DI 10.1016/j.jagp.2018.06.005
+PG 9
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Geriatrics & Gerontology; Psychiatry
+GA GV0QC
+UT WOS:000445766200010
+PM 30076079
+DA 2023-12-07
+ER
+
+PT J
+AU Lukaschek, K
+   Engelhardt, H
+   Baumert, J
+   Ladwig, KH
+AF Lukaschek, K.
+   Engelhardt, H.
+   Baumert, J.
+   Ladwig, K. -H.
+TI No correlation between rates of suicidal ideation and completed suicides
+   in Europe: Analysis of 49,008 participants (55+years) based on the
+   Survey of Health, Ageing and Retirement in Europe (SHARE)
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Suicidal ideation; Epidemiology; Aging; Cross-national survey
+ID DEATH WISHES; RISK-FACTORS; D SCALE; MORTALITY; GENDER; BEHAVIORS; AGE;
+   POPULATION; DEPRESSION; PREVALENCE
+AB Background: Little is known about country-specific variations in suicidal ideation (SID) by sex and how they correspond with completed suicide rate. Therefore, the aim of the present study was to assess variations in SID prevalence rates by sex and its correlation to completed suicide rates across European countries.
+   Method: SHARE is a cross-national European survey of individuals over the age of 50 and their spouse of any age. The present study relied on wave 4 conducted in 2010-2012 including 49,008 participants aged 55 to 104 years from 16 countries. SID was evaluated using a single item from the Euro-D. Data on completed suicide rates were taken from the WHO mortality database.
+   Results: Of the study population (n = 49,008, 44.3% men, mean age 68.2 +/- 9.1 years), a total of 4139 (8.5%, 95% CI 8.2-8.7) reported suicidal ideation within the last month. The women: men ratio in SID prevalence ranged from 1.30 in Estonia to 2.25 in Spain and Portugal. Regarding country-specific variation, the SID prevalence patterns of both men and women did not correspond to the completed suicide rates for males and females aged 55+ reported by the WHO (2013). Correlations were rather moderate in men (r = 0.45) and especially weak in women (r = 0.16).
+   Conclusion: The study showed remarkable differences in SID prevalence by sex. The most exciting finding was that SID rates did not correspond with completed suicide rates in each country under investigation. However, the strength of these patterns substantially differs across countries. This unexpected finding need to be further evaluated. (C) 2015 Elsevier Masson SAS. All rights reserved.
+C1 [Lukaschek, K.; Baumert, J.; Ladwig, K. -H.] German Res Ctr Environm Hlth, Inst Epidemiol 2, Helmholtz Zentrum Munchen, Neuherberg, Germany.
+   [Engelhardt, H.] Univ Bamberg, Bamberg, Germany.
+   [Ladwig, K. -H.] Tech Univ Munich, Klinikum Rechts Isar, Dept Psychosomat Med & Psychotherapy, D-80290 Munich, Germany.
+C3 Helmholtz Association; Helmholtz-Center Munich - German Research Center
+   for Environmental Health; Otto Friedrich University Bamberg; Technical
+   University of Munich
+RP Ladwig, KH (corresponding author), Helmholtz Zentrum Munchen, Inst Epidemiol 2, Ingolstadter Landstr 1, D-85764 Neuherberg, Germany.
+EM ladwig@helmholtz-muenchen.de
+RI Ladwig, Karl-Heinz/B-5351-2014; Lukaschek, Karoline/N-6224-2014
+OI Ladwig, Karl-Heinz/0000-0003-0710-1720; Lukaschek,
+   Karoline/0000-0002-7966-2001
+NR 31
+TC 12
+Z9 13
+U1 0
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD OCT
+PY 2015
+VL 30
+IS 7
+BP 874
+EP 879
+DI 10.1016/j.eurpsy.2015.07.009
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CS9ZM
+UT WOS:000362453200008
+PM 26443056
+DA 2023-12-07
+ER
+
+PT J
+AU Wasserman, D
+   Carli, V
+   Wasserman, C
+   Apter, A
+   Balazs, J
+   Bobes, J
+   Bracale, R
+   Brunner, R
+   Bursztein-Lipsicas, C
+   Corcoran, P
+   Cosman, D
+   Durkee, T
+   Feldman, D
+   Gadoros, J
+   Guillemin, F
+   Haring, C
+   Kahn, JP
+   Kaess, M
+   Keeley, H
+   Marusic, D
+   Nemes, B
+   Postuvan, V
+   Reiter-Theil, S
+   Resch, F
+   Sáiz, P
+   Sarchiapone, M
+   Sisask, M
+   Varnik, A
+   Hoven, CW
+AF Wasserman, Danuta
+   Carli, Vladimir
+   Wasserman, Camilla
+   Apter, Alan
+   Balazs, Judit
+   Bobes, Julia
+   Bracale, Renata
+   Brunner, Romuald
+   Bursztein-Lipsicas, Cendrine
+   Corcoran, Paul
+   Cosman, Doina
+   Durkee, Tony
+   Feldman, Dana
+   Gadoros, Julia
+   Guillemin, Francis
+   Haring, Christian
+   Kahn, Jean-Pierre
+   Kaess, Michael
+   Keeley, Helen
+   Marusic, Dragan
+   Nemes, Bogdan
+   Postuvan, Vita
+   Reiter-Theil, Stella
+   Resch, Franz
+   Saiz, Pilar
+   Sarchiapone, Marco
+   Sisask, Merike
+   Varnik, Airi
+   Hoven, Christina W.
+TI Saving and Empowering Young Lives in Europe (SEYLE): a randomized
+   controlled trial
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID DELIBERATE SELF-HARM; SUICIDE-PREVENTION; YOUTH SUICIDE; RISK BEHAVIOR;
+   ADOLESCENT SUICIDE; PHYSICAL-ACTIVITY; CHILD; PROGRAM; PARTICIPATION;
+   DEPRESSION
+AB Background: There have been only a few reports illustrating the moderate effectiveness of suicide-preventive interventions in reducing suicidal behavior, and, in most of those studies, the target populations were primarily adults, whereas few focused on adolescents. Essentially, there have been no randomized controlled studies comparing the efficacy, cost-effectiveness and cultural adaptability of suicide-prevention strategies in schools. There is also a lack of information on whether suicide-preventive interventions can, in addition to preventing suicide, reduce risk behaviors and promote healthier ones as well as improve young people's mental health.
+   The aim of the SEYLE project, which is funded by the European Union under the Seventh Framework Health Program, is to address these issues by collecting baseline and follow-up data on health and well-being among European adolescents and compiling an epidemiological database; testing, in a randomized controlled trial, three different suicide-preventive interventions; evaluating the outcome of each intervention in comparison with a control group from a multidisciplinary perspective; as well as recommending culturally adjusted models for promoting mental health and preventing suicidal behaviors.
+   Methods and design: The study comprises 11,000 adolescents emitted from randomized schools in 11 European countries: Austria, Estonia, France, Germany, Hungary, Ireland, Israel, Italy, Romania, Slovenia and Spain, with Sweden serving as the scientific coordinating center. Each country performs three active interventions and one minimal intervention as a control group. The active interventions include gatekeeper training (QPR), awareness training on mental health promotion for adolescents, and screening for at-risk adolescents by health professionals. Structured questionnaires are utilized at baseline, 3- and 12-month follow-ups in order to assess changes.
+   Discussion: Although it has been reported that suicide-preventive interventions can be effective in decreasing suicidal behavior, well-documented and randomized studies are lacking. The effects of such interventions in terms of combating unhealthy lifestyles in young people, which often characterize suicidal individuals, have never been reported. We know that unhealthy and risk-taking behaviors are detrimental to individuals' current and future health. It is, therefore, crucial to test well-designed, longitudinal mental health-promoting and suicide-preventive interventions by evaluating the implications of such activities for reducing unhealthy and risk behaviors while concurrently promoting healthy ones.
+C1 [Wasserman, Danuta; Carli, Vladimir; Durkee, Tony] Karolinska Inst, Natl Swedish Prevent Mental Ill Hlth & Suicide NA, Stockholm, Sweden.
+   [Apter, Alan; Bursztein-Lipsicas, Cendrine; Feldman, Dana] Tel Aviv Univ, Feinberg Child Study Ctr, Schneider Childrens Med Ctr, IL-69978 Tel Aviv, Israel.
+   [Balazs, Judit; Gadoros, Julia] Vadaskert Child & Adolescent Psychiat Hosp, Budapest, Hungary.
+   [Bobes, Julia; Saiz, Pilar] Univ Oviedo, Sch Med, Dept Psychiat, Oviedo, Spain.
+   [Bobes, Julia; Saiz, Pilar] CIBERSAM, Ctr Invest Biomed Red Salud Mental, Oviedo, Spain.
+   [Brunner, Romuald; Kaess, Michael; Resch, Franz] Heidelberg Univ, Clin Child & Adolescent Psychiat, Heidelberg, Germany.
+   [Corcoran, Paul; Keeley, Helen] Natl Suicide Res Fdn, Cork, Ireland.
+   [Cosman, Doina; Nemes, Bogdan] Iuliu Hatieganu Univ Med & Pharm, Dept Clin Psychol, Cluj Napoca, Romania.
+   [Guillemin, Francis] Univ H Poincare, Ctr Epidemiol Clin, EC CIE6, INSERM,CHU NANCY,Hop Marin, Nancy, France.
+   [Kahn, Jean-Pierre] Univ H Poincare, Dept Psychiat, Ctr Hosp Univ CHU NANCY, Nancy, France.
+   [Haring, Christian] UMIT, Res Div Mental Hlth, Innsbruck, Austria.
+   [Marusic, Dragan; Postuvan, Vita] Univ Primorska, PINT, Dept Mental Hlth, Primorska, Slovenia.
+   [Reiter-Theil, Stella] Univ Basel Hosp, Fac Med, Dept Med & Hlth Eth, CH-4031 Basel, Switzerland.
+   [Carli, Vladimir; Bracale, Renata; Sarchiapone, Marco] Univ Molise, Dept Hlth Sci, Campobasso, Italy.
+   [Sisask, Merike; Varnik, Airi] Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Wasserman, Camilla; Hoven, Christina W.] Columbia Univ, New York State Psychiat Inst, Dept Child & Adolescent Psychiat, New York, NY USA.
+C3 Karolinska Institutet; Tel Aviv University; University of Oviedo; CIBER
+   - Centro de Investigacion Biomedica en Red; CIBERSAM; Ruprecht Karls
+   University Heidelberg; Iuliu Hatieganu University of Medicine &
+   Pharmacy; CHU de Nancy; Universite de Lorraine; Assistance Publique
+   Hopitaux Paris (APHP); Hopital Universitaire Marin de Hendaye - APHP;
+   Institut National de la Sante et de la Recherche Medicale (Inserm); CHU
+   de Nancy; Universite de Lorraine; University of Primorska; University of
+   Geneva; University of Basel; University of Molise; New York State
+   Psychiatry Institute; Columbia University
+RP Wasserman, D (corresponding author), Karolinska Inst, Natl Swedish Prevent Mental Ill Hlth & Suicide NA, Stockholm, Sweden.
+EM danuta.wasserman@ki.se
+RI Sarchiapone, Marco/F-6402-2018; Saiz, Pilar A./ABF-5814-2021; Postuvan,
+   Vita/AAI-6910-2020; Bobes, Julio/AAH-4365-2019; Marusic,
+   Dragan/L-1799-2016; Cosman, Doina/L-9087-2013; Carli,
+   Vladimir/G-4728-2012; Nemes, Bogdan/A-8446-2012
+OI Sarchiapone, Marco/0000-0001-9583-3117; Saiz, Pilar
+   A./0000-0002-5705-4523; Bobes, Julio/0000-0003-2187-4033; Cosman,
+   Doina/0000-0001-7102-2432; Nemes, Bogdan/0000-0002-1381-798X; Carli,
+   Vladimir/0000-0001-6922-0675; Sisask, Merike/0000-0001-6821-6367;
+   BRACALE, Renata/0000-0003-3650-7033; Hoven,
+   Christina/0000-0003-1274-2936; Kaess, Michael/0000-0003-0031-7764;
+   Marusic, Dragan/0000-0002-8452-3057
+FU EU; European Community [HEALTH-F2-2009-223091]
+FX The SEYLE project is funded under the specific Cooperation program in
+   the EU Seventh Framework Program for research and technological
+   development (FP7), which is to refund 60% of project costs from 1
+   January 2009 to 31 December 2011. Participating centers must obtain
+   local funding or use their own resources to cover the remaining 40%. The
+   SEYLE project is supported through Coordination Theme 1 (Health) of the
+   European Community's FP7, Grant agreement number HEALTH-F2-2009-223091.
+   The authors wish to thank all researchers and other staff participating
+   in the implementation of the SEYLE project. In particular, we would like
+   to express our gratitude to the following: at the Estonian-Swedish
+   Mental Health & Suicidology Institute, Peeter Varnik, Mari Jushkin,
+   Lauraliisa Heidmets, Zrinka Laido, Thea Rumberg, Kertu Valling and Ruth
+   Soonets; at the University of Nancy, Alexandra Tubiana, Orly
+   Wajesbrot-Elgrably, Renaud Cohen and Anne Kreder; at the University of
+   Heidelberg, Nassrin Koch-Khoury, Peter Parzer, Katja Klug, Gloria
+   Fischer and Joachim Schirmer; at the Vadaskert Child and Adolescent
+   Psychiatric Hospital, Maria Balint, Luca Farkas, Agnes Kereszteny,
+   Gergely Meszaros; at the National Suicide Research Foundation, Carmel
+   McAuliffe, Fawad Elahi, Padraig Cotter, Jacklyn McCarthy and Lee-Ann
+   Burke; at Tel Aviv University, Shai Han Gal, Moran Berman, Adi Rozen,
+   Nomi Shefler and Sami Hamdan; at the University of Molise, Giovannangelo
+   Oriani, Guido Maria Grasso, Marco Marchetti, Giampaolo Nicolais, Alfonso
+   Di Costanzo, Maurizio Gasperi, Laura Recchia, Antonio Parmentola,
+   Massimo Mancini, Maria Grazia Cicchelli, Antonella Germanese, Francesco
+   Basilico, Chiara Graziani and Miriam Iosue; at the Iuliu Hatieganu
+   University of Medicine and Pharmacy, Dana-Cristina Herta, Oana Dobrescu,
+   Minodora Manea, Horia Coman, Alexandra Pop, Miruna Danciu, Claudia
+   Craciun, Roxana de Curieres de Castelnau; at the University of
+   Primorska, Marja Kuzmani, Monica Bertok and Ksenija Maravic; at the
+   University of Oviedo, M<SUP>a</SUP> Paz Garcia-Portilla, Manuel Bousono,
+   Susana Al-Halab, M<SUP>a</SUP> Teresa Bascarin, Eva M<SUP>a</SUP>
+   Diaz-Mesa, Marlen Garrido, Patricia Buron, Jose Luis Rancano, Gonzalo
+   Galvan and M<SUP>a</SUP> Jose Casares; at the National Prevention of
+   Suicide and Mental Ill-Health (NASP) at Karolinska Institutet, Birgit
+   Frisen-Andersson, Maria Beradovic, Christina Bergehed-Bonnevier, Gergo
+   Hadlaczky, Laila Lindahl, and Elizabeth Martensson; and at Columbia
+   University, George J. Musa.
+NR 64
+TC 111
+Z9 120
+U1 2
+U2 51
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD APR 13
+PY 2010
+VL 10
+AR 192
+DI 10.1186/1471-2458-10-192
+PG 14
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 604BG
+UT WOS:000278251700002
+PM 20388196
+OA Green Published, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Lai, T
+   Habicht, J
+   Kiivet, RA
+AF Lai, T.
+   Habicht, J.
+   Kiivet, R. -A.
+TI Measuring burden of disease in Estonia to support public health policy
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE burden of disease; DALY; Estonia; national estimates; population health;
+   public health strategy
+ID EUROPEAN COUNTRIES; BALTIC COUNTRIES; GLOBAL BURDEN; DISABILITY; CARE;
+   MORTALITY; STRATEGIES; ALCOHOL; ISSUES; LIFE
+AB Background: Many countries have an overview on mortality and morbidity but few have performed contextualized national burden of disease studies. The objective of the present study is to provide a first set of national and sub-national burden of disease estimates for Estonia. Further, we present the causes and age-gender distribution of the burden. We conclude with the description of result uptake and impact of the study in Estonian public health policy arena. Methods: A burden of disease estimation procedure modified for best fit to country situation was used. That included disease classification reflecting Estonian disease profile, national disease severity assessments, mortality and morbidity prevalence data. Calculations were performed on national and sub-national levels. Results: Estonian population lost 446 361 (327/1000 persons) disability adjusted life-years in 2002. Premature mortality caused majority of the burden and cardiovascular diseases, external causes (e.g. suicide and injuries) and cancers were main sources of burden. Working age population (16-64 years) shouldered 60% of the burden. Sub-national levels of burden range from 114 to 725 disability adjusted life-years per 1000 persons and are correlated to regional socioeconomic development. Conclusion: Cardiovascular disease and injuries, premature mortality, working age population, male and people from economically less developed regions should be the priority targets for public health interventions. Estonian main public health strategies now address burden of disease concerns highlighted by our study.
+C1 [Lai, T.; Kiivet, R. -A.] Univ Tartu, Dept Publ Hlth, EE-50411 Tartu, Estonia.
+C3 University of Tartu
+RP Lai, T (corresponding author), Univ Tartu, Dept Publ Hlth, Ravila 19, EE-50411 Tartu, Estonia.
+EM taavi.lai@ut.ee
+NR 38
+TC 28
+Z9 29
+U1 0
+U2 7
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD OCT
+PY 2009
+VL 19
+IS 5
+BP 541
+EP 547
+DI 10.1093/eurpub/ckp038
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 499KD
+UT WOS:000270218100021
+PM 19401358
+OA Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Lookene, M
+   Kisuro, A
+   Maciulis, V
+   Banaitis, V
+   Ungvari, GS
+   Gazdag, G
+AF Lookene, Margus
+   Kisuro, Aigars
+   Maciulis, Valentinas
+   Banaitis, Valdas
+   Ungvari, Gabor S.
+   Gazdag, Gabor
+TI Use of electroconvulsive therapy in the Baltic states
+SO WORLD JOURNAL OF BIOLOGICAL PSYCHIATRY
+LA English
+DT Article
+DE electroconvulsive therapy practice; Baltic states; schizophrenia;
+   affective disorders; suicide
+ID ECT
+AB Objectives. While the use of electroconvulsive therapy (ECT) has been investigated worldwide, nothing is known about its use in the Baltic states. The purpose of this study was thus to explore ECT practice in the three Baltic countries. Methods. A 21-item, semi-structured questionnaire was sent out to all psychiatric inpatient settings that provided ECT in 2010. Results. In Lithuania, four services provided ECT in 2010. Only modified ECT with anaesthesia and muscle relaxation is performed in the country. In 2010, approximately 120 patients received ECT, i.e., 0.375 patients/10,000 population. Only two centres offer ECT in Latvia. The first centre treated only three patients with ECT in 2010, while the second centre six patients. In both centres outdated Soviet machines are used. The main indication for ECT was severe, malignant catatonia. ECT is practiced in five psychiatric facilities in Estonia. In 2010, it was used in the treatment of 362 patients (17% women) nationwide, i.e., 2.78 patients/10,000 population. Only a senior psychiatrist may indicate ECT in Estonia and pregnancy is no contraindication. In 2010, the main indication for ECT was schizophrenia (47.8%). Conclusions. This 2010 survey revealed significant differences in the use and availability of ECT between the Baltic countries.
+C1 [Lookene, Margus] North Estonia Med Ctr, Dept Psychiat, Tallinn, Estonia.
+   [Kisuro, Aigars] Riga Ctr Psychiat & Addict Disorders, Riga, Latvia.
+   [Maciulis, Valentinas; Banaitis, Valdas] Vilnius Republican Psychiat Hosp, Vilnius, Lithuania.
+   [Ungvari, Gabor S.] Univ Notre Dame, Marian Ctr, Wembley, WA, Australia.
+   [Ungvari, Gabor S.] Univ Western Australia, Sch Psychiat & Clin Neurosci, Crawley, WA, Australia.
+   [Gazdag, Gabor] Szent Istvan Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Szent Laszlo Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Semmelweis Univ, Fac Med, Dept Psychiat & Psychotherapy, H-1085 Budapest, Hungary.
+C3 The University of Notre Dame Australia; University of Western Australia;
+   Szent Laszlo Hospital; Semmelweis University
+RP Gazdag, G (corresponding author), Szt Istvan Hosp, Ctr Psychiat & Addict Med, Gyali Ut 17-19, H-1097 Budapest, Hungary.
+EM gazdag@lamb.hu
+RI Gazdag, Gábor/S-2158-2018; Gazdag, Gábor/ISU-9358-2023
+OI Gazdag, Gábor/0000-0002-6914-8041; Gazdag, Gábor/0000-0002-6914-8041
+NR 32
+TC 11
+Z9 11
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1562-2975
+EI 1814-1412
+J9 WORLD J BIOL PSYCHIA
+JI World J. Biol. Psychiatry
+PD JUL
+PY 2014
+VL 15
+IS 5
+BP 419
+EP 424
+DI 10.3109/15622975.2013.866692
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AM8HM
+UT WOS:000340113700009
+PM 24329398
+DA 2023-12-07
+ER
+
+PT J
+AU Saluvere, T
+AF Saluvere, Tiina
+TI A Peculiar Correspondence
+SO TUNA-AJALOOKULTUURI AJAKIRI
+LA Estonian
+DT Article
+AB The correspondence between Helmi Maelo (1898-1978) and Ulo Koit (1925-1996) is deposited in the Helmi and Bernhard Math) collections at the Estonian Cultural History Archives (EKLA, collection 226, m. 17:15 (Maelo to Koit) and EKLA, collection 226, m 24:11 (Koit to Melo)). Their correspondence began in 1956, meaning practically immediately after contacts became possible between Soviet Estonia and the world abroad after the CPSU 20th Congress, which is surprising since the persons involved were not at all so close to each other to restore contact at the first opportunity.
+   Helmi Maelo was a nationalist with conservative views who had been active primarily in the field of journalism in the Republic of Estonia, editing several women's and children's periodicals. She had also started her work in fictional literature. She was active in the temperance movement and supported other idealistic undertakings. She had escaped to Germany with her family in 1944 and from there onward to Sweden. She earned a living in Sweden as an office clerk at a publishing house, directing most of her energy to her own literary activity. Maelo has penned over ten novels, a number of stories for young people, several works of memoirs and numerous brochures on temperance and education. It was at her initiative that Mothers' Day started being observed in Estonia beginning in 1923.
+   Ulo Koit, who was born in the Republic of Estonia, was evacuated at the age of 16 with his mother to the rear area in the Soviet Union when the war broke out. There he studied at courses for Party employees and began his career as a KGB agent after the war upon returning to Estonia, and later as a confidant while working at the same time as the editor of the Valgamaalane newspaper (1944-1950). He served as deputy chairman of the Estonian SSR Television and Radio Committee (1950-1975). His dead body was found in September of 1996 in the Lielupe River in Latvia and to this day it is not known if it was an accident, suicide or murder. Their correspondence began when Maelo wrote to Koit's mother, whom she knew from the period of Estonian independence. Since the latter had died during the war, her son answered the letter. The correspondence continued until Helmi Maelo's death and later continued to a lesser extent between Ulo Koit and Bernhard Maelo. They exchanged information about cultural events and their personal lives, but also about politics. The correspondence gave Maelo an overview of life in her occupied homeland. Koit, on the other hand, acquired information about the moods and fears of expatriate circles and helped him gain contacts among expatriate Estonians abroad. This could help readers of the publication to understand those barriers that had arisen between Estonians in the homeland and expatriate Estonians abroad during the post-war decades, to see the different ways that contacts were established but also to see the hidden reefs in this intercommunication.
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU RAHVUSARHIV-NATL ARCH ESTONIA
+PI TALLINN
+PA TONISMAGI 16, TALLINN, 10119, ESTONIA
+SN 1406-4030
+J9 TUNA-AJALOOKULT AJAK
+JI Tuna-Ajalookultuuri Ajak.
+PY 2013
+VL 16
+IS 4
+BP 121
+EP +
+PG 4
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 281EN
+UT WOS:000329082900009
+DA 2023-12-07
+ER
+
+PT J
+AU Rahu, K
+   Auvinen, A
+   Hakulinen, T
+   Tekkel, M
+   Inskip, PD
+   Bromet, EJ
+   Boice, JD
+   Rahu, M
+AF Rahu, Kaja
+   Auvinen, Anssi
+   Hakulinen, Timo
+   Tekkel, Mare
+   Inskip, Peter D.
+   Bromet, Evelyn J.
+   Boice, John D., Jr.
+   Rahu, Mati
+TI Chernobyl cleanup workers from Estonia: follow-up for cancer incidence
+   and mortality
+SO JOURNAL OF RADIOLOGICAL PROTECTION
+LA English
+DT Article
+ID TRADE-CENTER RESCUE; THYROID-CANCER; EMERGENCY WORKERS; RISK; ACCIDENT;
+   EXPOSURE; DISORDERS; RECOVERY; LEUKEMIA; INCREASE
+AB This study examined cancer incidence (1986-2008) and mortality (1986-2011) among the Estonian Chernobyl cleanup workers in comparison with the Estonian male population. The cohort of 4810 men was followed through nationwide population, mortality and cancer registries. Cancer and death risks were measured by standardised incidence ratio (SIR) and standardised mortality ratio (SMR), respectively. Poisson regression was used to analyse the effects of year of arrival, duration of stay and time since return on cancer and death risks. The SIR for all cancers was 1.06 with 95% confidence interval 0.93-1.20 (232 cases). Elevated risks were found for cancers of the pharynx, the oesophagus and the joint category of alcohol-related sites. No clear evidence of an increased risk of thyroid cancer, leukaemia or radiation-related cancer sites combined was apparent. The SMR for all causes of death was 1.02 with 95% confidence interval 0.96-1.08 (1018 deaths). Excess mortality was observed for mouth and pharynx cancer, alcohol-related cancer sites together and suicide. Duration of stay rather than year of arrival was associated with increased mortality. Twenty-six years of follow-up of this cohort indicates no definite health effects attributable to radiation, but the elevated suicide risk has persisted.
+C1 [Rahu, Kaja; Tekkel, Mare; Rahu, Mati] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+   [Auvinen, Anssi] Univ Tampere, Sch Hlth Sci, FIN-33101 Tampere, Finland.
+   [Auvinen, Anssi] Radiat & Nucl Safety Author, Helsinki, Finland.
+   [Hakulinen, Timo] Finnish Canc Registry, FIN-00170 Helsinki, Finland.
+   [Inskip, Peter D.] NCI, Radiat Epidemiol Branch, Div Canc Epidemiol & Genet, NIH, Bethesda, MD 20892 USA.
+   [Bromet, Evelyn J.] SUNY Stony Brook, Sch Med, Dept Psychiat & Behav Sci, Stony Brook, NY 11794 USA.
+   [Boice, John D., Jr.] Natl Council Radiat Protect & Measurements, Bethesda, MD USA.
+   [Boice, John D., Jr.] Vanderbilt Univ, Sch Med, Nashville, TN 37212 USA.
+C3 National Institute for Health Development - Estonia; Tampere University;
+   Radiation & Nuclear Safety Authority (STUK); Finnish Cancer Registry;
+   National Institutes of Health (NIH) - USA; NIH National Cancer Institute
+   (NCI); State University of New York (SUNY) System; State University of
+   New York (SUNY) Stony Brook; Vanderbilt University
+RP Rahu, K (corresponding author), Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+EM kaja.rahu@tai.ee
+RI Auvinen, Anssi/AAD-9311-2020; Rahu, Mati/A-9981-2008; Auvinen,
+   Anssi/AAL-2111-2020; Rahu, Kaja/P-7330-2018
+OI Auvinen, Anssi/0000-0003-1125-4818; Rahu, Kaja/0000-0001-9693-7540
+FU Estonian Ministry of Education and Science [SF0940026s07]; Intramural
+   Research Program of the National Institutes of Health, National Cancer
+   Institute, Division of Cancer Epidemiology and Genetics; US National
+   Cancer Institute [N01-CP-85638-03]
+FX This study was supported financially by the Estonian Ministry of
+   Education and Science (target funding SF0940026s07) and the Intramural
+   Research Program of the National Institutes of Health, National Cancer
+   Institute, Division of Cancer Epidemiology and Genetics. The initial
+   work was financed by US National Cancer Institute Contract
+   N01-CP-85638-03. The authors thank Dr Margit Magi and Pille Harmaorg
+   from the Estonian Cancer Registry, and Gleb Denissov from the Estonian
+   Cause of Death Registry for their invaluable contribution to data
+   collection.
+NR 49
+TC 20
+Z9 22
+U1 0
+U2 19
+PU IOP Publishing Ltd
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0952-4746
+EI 1361-6498
+J9 J RADIOL PROT
+JI J. Radiol. Prot.
+PD JUN
+PY 2013
+VL 33
+IS 2
+BP 395
+EP 411
+DI 10.1088/0952-4746/33/2/395
+PG 17
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA 157FV
+UT WOS:000319882300014
+PM 23532116
+OA Green Accepted
+DA 2023-12-07
+ER
+
+PT J
+AU Wasserman, D
+AF Wasserman, Danuta
+TI Review of health and risk-behaviours, mental health problems and
+   suicidal behaviours in young Europeans on the basis of the results from
+   the EU-funded Saving and Empowering Young Lives in Europe (SEYLE) study
+SO PSYCHIATRIA POLSKA
+LA English
+DT Review
+DE SEYLE; risk-behaviours; suicide attempts
+ID PATHOLOGICAL INTERNET USE; ADOLESCENTS; PSYCHOPATHOLOGY; PREVALENCE;
+   ALCOHOL; ANXIETY
+AB An estimated 800 000 suicide deaths occur worldwide. The global suicide rate is 11.4 per 100 000 population; 15.0/100 000 for males and 8.0/100 000 for females. Globally, suicide is the second leading cause of death in 15-29 year olds. In a collaborative effort to reduce the high rates of suicide and mental health problems among youth across Europe, the European Union 7(th) Framework funded the Saving and Empowering Young Lives in Europe (SEYLE) project. SEYLE is a randomized controlled trial (RCT) aimed to promote mental health and healthy lifestyles, while preventing psychopathology and suicidal behaviours among adolescents. The epidemiological data on 11,110 pupils in the age group 14-16 years, with a mean age of 14.8 years (SD +/- 0.8), who were recruited from 168 schools across 10 European Union countries: Austria, Estonia, France, Germany, Hungary, Ireland, Italy, Romania, Slovenia and Spain, with Sweden as the coordinating centre showed the following prevalences: alcohol use (13.4%), smoking (30.9%), physical inactivity (32.8%), pathological Internet use (4.4%) and sleeping on average 7.7 hours per night. In terms of reproductive health, the prevalence of sexual debut was 18.8% for the total sample. Pupils aged >= 16 years had a higher prevalence (38%) of sexual debut compared to those aged <= 15 years (13.2%). Males had a higher prevalence (21.3%) than females (16.9%). Three clusters of adolescents were identified: 57.8% with low frequency of all risk-behaviours; 13.2% with high frequency of all risk behaviours; and 29% so-called `invisible' risk group, which did not show any striking externalised risk behaviours, but scored positive for high use of Internet/TV/videogames, sedentary behaviour and reduced sleep. When comparing pupils in the `invisible' risk group with those in the high-risk group, similar prevalence rates of anxiety (8% vs. 9.2%), subthreshold depression (33.2% vs. 34%), depression (13.4% vs. 14.7%) and suicidal thoughts (42.2% vs. 44%) were observed. Pupils meeting the criteria of depression and subthreshold depression were 10.5% and 32%, respectively. Prevalence rates for anxiety and subthreshold anxiety was 5.8% and 29.2%, respectively. Lifetime prevalence of deliberate self-injurious behaviours (D-SIB) was 27.6%, with higher rates reported for occasional D-SIB (19.7%) compared to repetitive D-SIB (7.8%). Suicidal ideation was present in approximately one third of the sample (32.3%). More than four percent (4.2%) of the sample reported attempting suicide during their lifetime, with a significantly higher prevalence among girls (5.1% vs. 3.0%, p<0.05). In comparing the effectiveness of the three active SEYLE interventions, based on three specific preventive strategies directed towards teachers and school staff, professionals and pupils in comparison to a control group, the intervention empowering pupils, called the Youth Aware of Mental Health (YAM) showed significant results in preventing new cases of suicide attempts, severe suicidal ideation with plans and depression. More than a 50% reduction of incident cases of suicide attempts (OR: 0.45 [0.24 - 0.85]; p=0.014), and of incident cases of severe suicidal ideation and plans (OR: 0.50 [0.27 - 0.92]; p=0.025), as well as a significant reduction by 30% of incident cases with moderate to severe depression (OR: 0.71 [0.52- 0.97]; p=0.031) was observed.
+C1 [Wasserman, Danuta] Karolinska Inst, Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Stockholm, Sweden.
+C3 Karolinska Institutet
+RP Wasserman, D (corresponding author), Natl Prevent Suicide & Mental Ill Hlth, Dept Learning Informat Management & Eth LIME, C7, S-17177 Stockholm, Sweden.
+NR 30
+TC 25
+Z9 26
+U1 0
+U2 31
+PU WYDAWNICZY POLSKIEGO TOWARZYSTWA
+PI CRACOW
+PA LENARTOWICZA 14 STRREET,, CRACOW, 31-138, POLAND
+SN 0033-2674
+J9 PSYCHIATR POL
+JI Psychiatr. Pol.
+PY 2016
+VL 50
+IS 6
+BP 1093
+EP 1107
+DI 10.12740/PP/66954
+PG 15
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EJ3OS
+UT WOS:000393122100003
+PM 28211549
+OA gold
+DA 2023-12-07
+ER
+
+PT J
+AU Hsieh, WH
+   Wang, CH
+   Lu, TH
+AF Hsieh, Wan-Hua
+   Wang, Chien-Hsing
+   Lu, Tsung-Hsueh
+TI Drowning mortality by intent: a population-based cross-sectional study
+   of 32 OECD countries, 2012-2014
+SO BMJ OPEN
+LA English
+DT Article
+DE drowning; mortality; international comparisons
+ID ENVIRONMENTAL INTERVENTIONS; SUICIDE-PREVENTION; UNITED-STATES; DEATHS;
+   MANNER; AGE; US
+AB Objective To compare the drowning mortality rates and proportion of deaths of each intent among all drowning deaths in Organisation for Economic Co-operation and Development (OECD) countries in 2012-2014.
+   Design A population-based cross-sectional study.
+   Setting 32 OECD countries.
+   Participants Individuals in OECD countries who died from drowning.
+   Main outcome measures Drowning mortality rates (deaths per 100000 population) and proportion (%) of deaths of each intent (ie, unintentional intent, intentional self-harm, assault, undetermined intent and all intents combined) among all drowning deaths.
+   Results Countries with the highest drowning mortality rates (deaths per 100000 population) were Estonia (3.53), Japan (3.49) and Greece (2.40) for unintentional intent; Ireland (0.96), Belgium (0.96) and Korea (0.89) for intentional self-harm; Austria (0.57), Korea (0.56) and Hungary (0.44) for undetermined intent and Japan (4.35), Estonia (3.70) and Korea (2.73) for all intents combined. Korea ranked 12th and 3rd for unintentional intent and all intents combined, respectively. By contrast, Belgium ranked 2nd and 15th for intentional self-harm and all intents combined, respectively. The proportion of deaths of each intent among all drowning deaths in each country varied greatly: from 26.2% in Belgium to 96.8% in Chile for unintentional intent; 0.7% in Mexico to 57.4% in Belgium for intentional self-harm; 0.0% in nine countries to 4.9% in Mexico for assault and 0.0% in Israel and Turkey to 38.3% in Austria for undetermined intent.
+   Conclusions A large variation in the practice of classifying undetermined intent in drowning deaths across countries was noted and this variation hinders valid international comparisons of intent-specific (unintentional and intentional self-harm) drowning mortality rates.
+C1 [Hsieh, Wan-Hua] Tzu Chi Univ, Dept Publ Hlth, Hualien, Taiwan.
+   [Wang, Chien-Hsing] Hualien Tzu Chi Hosp, Buddhist Tzu Chi Med Fdn, Dept Surg, Div Plast Surg, Hualien, Taiwan.
+   [Wang, Chien-Hsing] Hualien Tzu Chi Hosp, Buddhist Tzu Chi Med Fdn, Ctr Trauma, Hualien, Taiwan.
+   [Lu, Tsung-Hsueh] Natl Cheng Kung Univ, NCKU Res Ctr Hlth Data, Tainan, Taiwan.
+   [Lu, Tsung-Hsueh] Natl Cheng Kung Univ, Dept Publ Hlth, Tainan, Taiwan.
+C3 Tzu Chi University; Buddhist Tzu Chi General Hospital; Hualien Tzu Chi
+   Hospital; Buddhist Tzu Chi General Hospital; Hualien Tzu Chi Hospital;
+   National Cheng Kung University; National Cheng Kung University
+RP Lu, TH (corresponding author), Natl Cheng Kung Univ, NCKU Res Ctr Hlth Data, Tainan, Taiwan.; Lu, TH (corresponding author), Natl Cheng Kung Univ, Dept Publ Hlth, Tainan, Taiwan.
+EM robertlu@mail.ncku.edu.tw
+RI lu, tairong/IUO-6758-2023
+NR 24
+TC 13
+Z9 13
+U1 0
+U2 6
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PD SEP
+PY 2018
+VL 8
+IS 7
+AR e021501
+DI 10.1136/bmjopen-2018-021501
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA GV5YI
+UT WOS:000446181900132
+PM 30037871
+OA Green Published, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Ringmets, I
+   Tuusov, J
+   Lang, K
+   Väli, M
+   Pärna, K
+   Tonisson, M
+   Helander, A
+   McKee, M
+   Leon, DA
+AF Ringmets, Inge
+   Tuusov, Jana
+   Lang, Katrin
+   Vaeli, Marika
+   Paerna, Kersti
+   Tonisson, Mailis
+   Helander, Anders
+   McKee, Martin
+   Leon, David A.
+TI Alcohol and premature death in Estonian men: a study of forensic
+   autopsies using novel biomarkers and proxy informants
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID URINARY ETHYL GLUCURONIDE; LIVER-CIRRHOSIS; EASTERN-EUROPE;
+   HEART-DISEASE; RISK-FACTOR; MORTALITY; SULFATE; RUSSIA;
+   PHOSPHATIDYLETHANOL; CONSUMPTION
+AB Background: Alcohol makes an important contribution to premature mortality in many countries in Eastern Europe, including Estonia. However, the full extent of its impact, and the mechanisms underlying it, are challenging issues to research. We describe the design and initial findings of a study aimed at investigating the association of alcohol with mortality in a large series of forensic autopsies of working-age men in Estonia.
+   Methods: 1299 male deaths aged 25-54 years were subject to forensic autopsy in 2008-2009. The routine autopsy protocol was augmented by a more systematic inspection of organs, drug testing, assay of liver enzymes and novel biomarkers of alcohol consumption (EtG, EtS and PEth), together with proxy interviews with next of kin for deaths among men who lived in or close to a major town.
+   Results: 595 augmented autopsies were performed. Of these, 66% were from external causes (26% suicide, 25% poisoning). 17% were attributed to circulatory system diseases and 7% to alcoholic liver disease. Blood alcohol concentrations (BAC) of >= 0.2 mg/g were found for 55% of deaths. Interviews were conducted with proxy informants for 61% of the subjects who had resided in towns. Of these, 28% were reported in the previous year to have been daily or almost daily drinkers and 10% had drunk non-beverage alcohols. Blood ethanol and the liver enzyme GGT were only associated with daily drinking. However, the novel biomarkers showed a more graded response with recent consumption. In contrast, the liver enzymes AST and ALT were largely uninformative because of post-mortem changes. The presence of extremely high PEth concentrations in some samples also suggested post-mortem formation.
+   Conclusion: We have shown the feasibility of deploying an extended research protocol within the setting of routine forensic autopsies that offer scope to deepen our understanding of the alcohol-related burden of premature mortality. The most unique feature of the study is the information on a wide range of informative alcohol biomarkers, several of which have not been used previously in this sort of post-mortem research study. We have demonstrated, for the first time, the epidemiological value and validity of these novel alcohol biomarkers in post-mortem samples.
+C1 [Ringmets, Inge; Lang, Katrin; Paerna, Kersti] Univ Tartu, Dept Publ Hlth, EE-50411 Tartu, Estonia.
+   [Tuusov, Jana; Vaeli, Marika; Tonisson, Mailis] Univ Tartu, Inst Pathol Anat & Forens Med, EE-50411 Tartu, Estonia.
+   [Tuusov, Jana; Vaeli, Marika; Tonisson, Mailis] Estonian Forens Sci Inst, Tallinn, Estonia.
+   [Helander, Anders] Karolinska Univ Lab Huddinge, Karolinska Inst, Dept Lab Med, Alcohol Lab, S-14186 Stockholm, Sweden.
+   [McKee, Martin] Univ London, London Sch Hyg & Trop Med, ECOHOST, London WC1H 9SH, England.
+   [Leon, David A.] Univ London, London Sch Hyg & Trop Med, Dept Noncommunicable Dis Epidemiol, London WC1E 7HT, England.
+C3 University of Tartu; University of Tartu; Karolinska Institutet;
+   University of London; London School of Hygiene & Tropical Medicine;
+   University of London; London School of Hygiene & Tropical Medicine
+RP Ringmets, I (corresponding author), Univ Tartu, Dept Publ Hlth, Ravila 19, EE-50411 Tartu, Estonia.
+EM inge.ringmets@ut.ee
+RI Lang, Katrin/J-9611-2012; Leon, David A/G-2195-2010; McKee, Marc
+   D/E-2187-2011; McKee, Martin/E-6673-2018
+OI Leon, David A/0000-0001-9747-1762; McKee, Marc D/0000-0001-8349-965X;
+   McKee, Martin/0000-0002-0121-9683; Parna, Kersti/0000-0001-7677-9493; ,
+   Katrin/0000-0002-0179-5795; Helander, Anders/0000-0001-7480-8078
+FU Estonian Science Foundation [8847]; Wellcome Trust [078557]
+FX This study was funded by the Estonian Science Foundation (grant number
+   8847) and the Wellcome Trust (grant number 078557). We thank all
+   forensic doctors of the Estonian Forensic Science Institute who
+   participated in the study.
+NR 29
+TC 9
+Z9 10
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD FEB 27
+PY 2012
+VL 12
+AR 146
+DI 10.1186/1471-2458-12-146
+PG 14
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 927MY
+UT WOS:000302913200001
+PM 22369510
+OA Green Accepted, Green Published, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Rahu, K
+   Rahu, M
+   Tekkel, M
+   Veidebaum, T
+   Hakulinen, T
+   Auvinen, A
+   Bigbee, WL
+   Hartshorne, MF
+   Inskip, PD
+   Boice, JD
+AF Rahu, Kaja
+   Rahu, Mati
+   Tekkel, Mare
+   Veidebaum, Toomas
+   Hakulinen, Timo
+   Auvinen, Anssi
+   Bigbee, William L.
+   Hartshorne, Michael F.
+   Inskip, Peter D.
+   Boice, John D., Jr.
+TI Chernobyl cleanup workers from Estonia: cohort description and related
+   epidemiological research
+SO JOURNAL OF RADIOLOGICAL PROTECTION
+LA English
+DT Review
+DE Chernobyl cleanup workers; cancer incidence; cohort; mortality;
+   radiation exposure; record linkage; suicide
+ID MINISATELLITE MUTATION-RATE; CANCER INCIDENCE; THYROID-CANCER;
+   FOLLOW-UP; RISK; LIQUIDATORS; ACCIDENT; BIODOSIMETRY; MORTALITY;
+   CHILDREN
+AB The Estonian study of Chernobyl cleanup workers was one of the first investigations to evaluate the possible health consequences of working in the Chernobyl area (the 30 km exclusion zone and/or adjacent territories) after the 1986 reactor accident. The cohort consists of 4831 men who were dispatched in 1986-1991 for tasks involving decontamination, construction of buildings, transport, radiation measurement, guard duty or other activities. By 31 December 2012, the follow-up of the cohort yielded 102 158 person-years of observation. Exposure and health data were collected by postal questionnaires, biodosimetry evaluations, thyroid screenings, and record-linkages with cancer, causes of death and health insurance reimbursement registers and databases. These data cover socio-demographic factors, employment history, aspects of health behaviour, medical history, work and living conditions in the Chernobyl area, biomarkers of exposure, cancer and non-cancer disease occurrence and causes of death. Cancer incidence data were obtained for 1986-2008, mortality data for 1986-2011 and non-cancer morbidity data for 2004-2012. Although the cohort is relatively small, it has been extensively examined and benefited from comprehensive nationwide population and health registers. The major finding was an increased risk of suicide. Thyroid examinations did not reveal an association with thyroid nodular disease and radiation dose, but did indicate the importance of accounting for screening when making comparisons with unscreened populations. No risk of leukaemia was observed and risks higher than 2.5-fold could be excluded with 95% confidence. Biodosimetry included GPA analyses and chromosomal translocation analyses and indicated that the Estonian cleanup workers experienced a relatively low mean exposure of the order of 0.1 Gy. One value of the Estonian study is in the methodologic processes brought to bear in addressing possible health effects from the Chernobyl accident. Twenty-five years of research are summarised and opportunities for the future listed.
+C1 [Rahu, Kaja; Rahu, Mati; Tekkel, Mare] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+   [Veidebaum, Toomas] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Hakulinen, Timo] Finnish Canc Registry, FIN-00170 Helsinki, Finland.
+   [Auvinen, Anssi] Univ Tampere, Sch Hlth Sci, FIN-33101 Tampere, Finland.
+   [Auvinen, Anssi] STUK Radiat & Nucl Safety Author, Helsinki, Finland.
+   [Bigbee, William L.] Univ Pittsburgh, Sch Med, Dept Pathol, Pittsburgh, PA USA.
+   [Bigbee, William L.] Univ Pittsburgh, Hillman Canc Ctr, Inst Canc, Pittsburgh, PA USA.
+   [Hartshorne, Michael F.] Univ New Mexico, Dept Radiol, Albuquerque, NM 87131 USA.
+   [Inskip, Peter D.] NCI, Dept Hlth & Human Serv, Radiat Epidemiol Branch, Div Canc Epidemiol & Genet,NIH, Bethesda, MD 20892 USA.
+   [Boice, John D., Jr.] Natl Council Radiat Protect & Measurements, Bethesda, MD USA.
+   [Boice, John D., Jr.] Vanderbilt Univ, Sch Med, Div Epidemiol, Nashville, TN 37212 USA.
+C3 National Institute for Health Development - Estonia; National Institute
+   for Health Development - Estonia; Finnish Cancer Registry; Tampere
+   University; Radiation & Nuclear Safety Authority (STUK); Pennsylvania
+   Commonwealth System of Higher Education (PCSHE); University of
+   Pittsburgh; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); University of Pittsburgh; University of New Mexico; National
+   Institutes of Health (NIH) - USA; NIH National Cancer Institute (NCI);
+   Vanderbilt University
+RP Rahu, K (corresponding author), Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+EM kaja.rahu@tai.ee
+RI Auvinen, Anssi/AAD-9311-2020; Rahu, Mati/A-9981-2008; Auvinen,
+   Anssi/AAL-2111-2020; Rahu, Kaja/P-7330-2018
+OI Auvinen, Anssi/0000-0003-1125-4818; Rahu, Kaja/0000-0001-9693-7540
+FU Estonian Research Council [IUT5-1]; US National Cancer Institute
+   [N01-CP-85638-03]
+FX This stage of the study was supported by the Estonian Research Council
+   (IUT5-1). The initial work was financed by US National Cancer Institute
+   Contract N01-CP-85638-03.
+NR 31
+TC 9
+Z9 9
+U1 0
+U2 12
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0952-4746
+EI 1361-6498
+J9 J RADIOL PROT
+JI J. Radiol. Prot.
+PD DEC
+PY 2015
+VL 35
+IS 4
+BP R35
+EP R45
+DI 10.1088/0952-4746/35/4/R35
+PG 11
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA CY4OU
+UT WOS:000366388500003
+PM 26512763
+OA Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Brunner, R
+   Kaess, M
+   Parzer, P
+   Fischer, G
+   Carli, V
+   Hoven, CW
+   Wasserman, C
+   Sarchiapone, M
+   Resch, F
+   Apter, A
+   Balazs, J
+   Barzilay, S
+   Bobes, J
+   Corcoran, P
+   Cosmanm, D
+   Haring, C
+   Iosuec, M
+   Kahn, JP
+   Keeley, H
+   Meszaros, G
+   Nemes, B
+   Podlogar, T
+   Postuvan, V
+   Saiz, PA
+   Sisask, M
+   Tubiana, A
+   Varnik, A
+   Wasserman, D
+AF Brunner, Romuald
+   Kaess, Michael
+   Parzer, Peter
+   Fischer, Gloria
+   Carli, Vladimir
+   Hoven, Christina W.
+   Wasserman, Camilla
+   Sarchiapone, Marco
+   Resch, Franz
+   Apter, Alan
+   Balazs, Judith
+   Barzilay, Shira
+   Bobes, Julio
+   Corcoran, Paul
+   Cosmanm, Doina
+   Haring, Christian
+   Iosuec, Miriam
+   Kahn, Jean-Pierre
+   Keeley, Helen
+   Meszaros, Gergely
+   Nemes, Bogdan
+   Podlogar, Tina
+   Postuvan, Vita
+   Saiz, Pilar A.
+   Sisask, Merike
+   Tubiana, Alexandra
+   Varnik, Airi
+   Wasserman, Danuta
+TI Life-time prevalence and psychosocial correlates of adolescent direct
+   self-injurious behavior: A comparative study of findings in 11 European
+   countries
+SO JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY
+LA English
+DT Article
+DE Direct self-injurious behavior; self-harm; nonsuicidal self-injury;
+   psychopathology; gender; adolescents; suicide
+ID EMPOWERING YOUNG LIVES; COMMUNITY SAMPLE; RISK-FACTORS; HARM; SUICIDE;
+   NETHERLANDS; EMOTION; SCHOOLS; PEOPLE; SEYLE
+AB ObjectivesTo investigate the prevalence and associated psychosocial factors of occasional and repetitive direct self-injurious behavior (D-SIB), such as self-cutting, -burning, -biting, -hitting, and skin damage by other methods, in representative adolescent samples from 11 European countries.
+   MethodsCross-sectional assessment of adolescents was performed within the European Union funded project, Saving and Empowering Young Lives in Europe (SEYLE), which was conducted in 11 European countries. The representative sample comprised 12,068 adolescents (F/M: 6,717/5,351; mean age: 14.90.89) recruited from randomly selected schools. Frequency of D-SIB was assessed by a modified 6-item questionnaire based on previously used versions of the Deliberate Self-Harm Inventory (DSHI). In addition, a broad range of demographic, social, and psychological factors was assessed.
+   ResultsOverall lifetime prevalence of D-SIB was 27.6%; 19.7% reported occasional D-SIB and 7.8% repetitive D-SIB. Lifetime prevalence ranged from 17.1% to 38.6% across countries. Estonia, France, Germany, and Israel had the highest lifetime rates of D-SIB, while students from Hungary, Ireland, and Italy reported low rates. Suicidality as well as anxiety and depressive symptoms had the highest odds ratios for both occasional and repetitive D-SIB. There was a strong association of D-SIB with both psychopathology and risk-behaviors, including family related neglect and peer-related rejection/victimization. Associations between psychosocial variables and D-SIB were strongly influenced by both gender and country. Only a minor proportion of the adolescents who reported D-SIB ever received medical treatment.
+   ConclusionThese results suggest high lifetime prevalence of D-SIB in European adolescents. Prevalence as well as psychosocial correlates seems to be significantly influenced by both gender and country. These results support the need for a multidimensional approach to better understand the development of SIB and facilitate culturally adapted prevention/intervention.
+C1 [Brunner, Romuald; Kaess, Michael; Parzer, Peter; Fischer, Gloria; Resch, Franz] Heidelberg Univ, Ctr Psychosocial Med, Clin Child & Adolescent Psychiat, D-69115 Heidelberg, Germany.
+   [Kaess, Michael] Orygen Youth Hlth, Melbourne, Vic, Australia.
+   [Carli, Vladimir; Wasserman, Danuta] Karolinska Inst, Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Stockholm, Sweden.
+   [Hoven, Christina W.; Wasserman, Camilla] Columbia Univ, New York State Psychiat Inst, Dept Child & Adolescent Psychiat, New York, NY USA.
+   [Hoven, Christina W.] Columbia Univ, Dept Epidemiol, Mailman Sch Publ Hlth, New York, NY USA.
+   [Wasserman, Camilla; Sarchiapone, Marco; Iosuec, Miriam] Univ Molise, Dept Hlth Sci, Campobasso, Italy.
+   [Apter, Alan; Barzilay, Shira] Tel Aviv Univ, Schneider Childrens Med Ctr, Feinberg Child Study Ctr, IL-69978 Tel Aviv, Israel.
+   [Balazs, Judith; Meszaros, Gergely] Vadaskert Child & Adolescent Psychiat Hosp, Budapest, Hungary.
+   [Balazs, Judith] Eotvos Lorand Univ, Inst Psychol, Budapest, Hungary.
+   [Bobes, Julio; Saiz, Pilar A.] Univ Oviedo, Dept Psychiat, Sch Med, Ctr Invest Biomed Red Salud Mental,CIBERSAM, Oviedo, Spain.
+   [Corcoran, Paul; Keeley, Helen] Natl Suicide Res Fdn, Cork, Ireland.
+   [Cosmanm, Doina; Nemes, Bogdan] Iuliu Hatieganu Univ Med & Pharm, Dept Clin Psychol, Cluj Napoca, Romania.
+   [Haring, Christian] Univ Med Informat Technol UMIT, Res Div Mental Hlth, Hall In Tirol, Austria.
+   [Kahn, Jean-Pierre; Tubiana, Alexandra] Univ Lorraine, Ctr Hosp Univ CHU NANCY, Dept Psychiat & Clin Psychol, Nancy, France.
+   [Podlogar, Tina; Postuvan, Vita] Univ Primorska, UPIAM, Slovene Ctr Suicide Res, Koper, Slovenia.
+   [Sisask, Merike; Varnik, Airi] Tallinn Univ, Estonian Swedish Mental Hlth & Suicidol Inst, Estonian Ctr Excellence Behav & Hlth Sci, EE-10120 Tallinn, Estonia.
+C3 Ruprecht Karls University Heidelberg; Orygen, The National Centre of
+   Excellence in Youth Mental Health; Karolinska Institutet; Columbia
+   University; New York State Psychiatry Institute; Columbia University;
+   University of Molise; Tel Aviv University; Eotvos Lorand University;
+   CIBER - Centro de Investigacion Biomedica en Red; CIBERSAM; University
+   of Oviedo; Iuliu Hatieganu University of Medicine & Pharmacy; CHU de
+   Nancy; Universite de Lorraine; University of Primorska; Tallinn
+   University
+RP Kaess, M (corresponding author), Heidelberg Univ, Sect Disorders Personal Dev, Dept Child & Adolescent Psychiat, Ctr Psychosocial Med, Blumenstr 8, D-69115 Heidelberg, Germany.
+EM michael.kaess@med.uni-heidelberg.de
+RI Carli, Vladimir/G-4728-2012; Saiz, Pilar A./ABF-5814-2021; Postuvan,
+   Vita/AAI-6910-2020; Cosman, Doina/L-9087-2013; Sarchiapone,
+   Marco/F-6402-2018; Nemes, Bogdan/A-8446-2012; Bobes, Julio/AAH-4365-2019
+OI Saiz, Pilar A./0000-0002-5705-4523; Cosman, Doina/0000-0001-7102-2432;
+   Sarchiapone, Marco/0000-0001-9583-3117; Nemes,
+   Bogdan/0000-0002-1381-798X; Bobes, Julio/0000-0003-2187-4033; Kaess,
+   Michael/0000-0003-0031-7764; Hoven, Christina/0000-0003-1274-2936;
+   Carli, Vladimir/0000-0001-6922-0675; Sisask, Merike/0000-0001-6821-6367
+FU European Union [HEALTH-F2-2009-223091]; Estonian Ministry of Social
+   Affairs
+FX The SEYLE project is supported by the European Union through the Seventh
+   Framework Program (FP7), Grant agreement number HEALTH-F2-2009-223091.
+   SEYLE Project Leader and Principal Investigator is Professor in
+   Psychiatry and Suicidology Danuta Wasserman (D.W.), National Centre for
+   Suicide Research and Prevention of Mental Ill-Health (NASP) Karolinska
+   Institutet, Stockholm, Sweden. The Executive Committee comprises Danuta
+   Wasserman and Vladimir Carli, both from NASP, Sweden; Marco Sarchiapone,
+   University of Molise, Campobasso, Italy; Christina W. Hoven, and Camilla
+   Wasserman, both from Columbia University, NY, USA; the SEYLE Consortium
+   comprises sites in 12 European countries. Site leaders are Danuta
+   Wasser-man (NASP, Coordinating Centre), Christian Haring (Austria), Airi
+   Varnik (Estonia), J-.P. Kahn (France), Romuald Brunner (Germany), Judit
+   Balazs (Hungary), Paul Corcoran (Ireland), Alan Apter (Israel), Marco
+   Sarchiapone (Italy), Donia Cosman (Romania), Dragan Marusic/Vita
+   Postuvan (Slovenia), and Julio Bobes (Spain).; In addition, special
+   thanks to: Katja Klug, Judith Frisch, Lisa Gobelbecker, and Sarah
+   Schneider from the University of Heidelberg in Germany; Maria Balint,
+   Agnes Kereszteny, Luca Farkas, and Julia Gadoros from Hungary; the
+   Estonian Ministry of Social Affairs for the financial support and all
+   researchers and other staff participating in the implementation of the
+   SEYLE project in Estonia, in particular Peeter Varnik and Mari Jushkin;
+   at the University of Oviedo-CIBERSAM, Ma Paz Garcia-Portilla, Manuel
+   Bousono, Susana Al-Halabi, Ma Teresa Bascaran, Eva Ma Diaz-Mesa, Marlen
+   Garrido, Patricia Buron, Jose Luis Rancano, and Gonzalo Galvan; Miriam
+   Iosue, Marianna D'Aulerio, and Francesco Basilico at University of
+   Molise in Italy.
+NR 59
+TC 258
+Z9 303
+U1 8
+U2 126
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9630
+EI 1469-7610
+J9 J CHILD PSYCHOL PSYC
+JI J. Child Psychol. Psychiatry
+PD APR
+PY 2014
+VL 55
+IS 4
+BP 337
+EP 348
+DI 10.1111/jcpp.12166
+PG 12
+WC Psychology, Developmental; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA AD4JU
+UT WOS:000333218100005
+PM 24215434
+OA Green Published
+HC Y
+HP N
+DA 2023-12-07
+ER
+
+PT J
+AU Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+AF Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+TI Registration of external causes of death in the Baltic States 1970-1997
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Baltic States; epidemiology; external causes of deaths; trends;
+   1970-1997
+ID ALCOHOL-CONSUMPTION; FORMER USSR; MORTALITY; PERESTROIKA; SUICIDES;
+   TRENDS
+AB Background: Trends in external causes of deaths in the Baltic States - Estonia, Latvia and Lithuania - were analysed against the background of turbulent political, social and economic changes. The reliability of mortality statistics concerning external causes of death in these countries is considered to be good. Method: This study is based on data published by the statistical offices of the three Baltic States and on data obtained through interviews with personnel employed at the national statistical offices. The study period was divided, by socio-political and economic factors, into a period of stagnation (1970-1984) and a period of reforms (1985-1997). Results: During 1970-1984 a stable slightly upward trend of external causes of death rates was observed. The curve became S-shaped in the reform period: between 1984 and 1988 a marked decrease occurred followed by a rapid increase of rates until 1994, and then by 1997 a fall to the approximate level of 1984. The male to female ratio of external causes of death was between 3.4:1 and 4.2:1. External deaths accounted for 10% to 14% of all deaths before 1984. During the period 1984-1988 the proportion of external deaths was under 10% and peaked in 1994 at 16%, Fluctuations in the trends of external death were more pronounced among males than females in all Baltic countries. Conclusion: Trends in external causes of death were similar in Baltic States. High proportions of violent death decreased life-expectancy for both sexes, but markedly for males. Social stresses and alcohol consumption could be considered as factors influencing the mortality rates and specific fluctuations in trends of external death, especially among males.
+C1 Estonian Swedish Inst Suicidol, Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, Tartu, Estonia.
+   Karolinska Inst, Natl Swedish & Stockholm Cty Ctr Suicide Res & Pr, Natl Inst Psychosocial Med, Div Publ Hlth Sci, Stockholm, Sweden.
+   Estonian Minist Social Affairs, Med Stat Bur, Tallinn, Estonia.
+C3 University of Tartu; Karolinska Institutet
+EM airiv@online.ee
+NR 31
+TC 29
+Z9 29
+U1 0
+U2 6
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD MAR
+PY 2001
+VL 11
+IS 1
+BP 84
+EP 88
+DI 10.1093/eurpub/11.1.84
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 418DZ
+UT WOS:000167876800015
+PM 11276577
+OA Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Ohmann, V
+AF Ohmann, Valdur
+TI The Story of the 1st Secretary of the Central Committee of the Estonian
+   Communist Party in the Focus of Two Communist Party Functionaries of
+   Long Tenure
+SO TUNA-AJALOOKULTUURI AJAKIRI
+LA Estonian
+DT Article
+AB The Soviet Union declared the former 1st Secretary of the Central Committee of the Estonian Communist (Bolshevist) Party [EC(B)P] a traitor at the 8th Plenum of the EC(B)P Central Committee in 1950. It was impossible to check this accusation because the archival records associated with him were inaccessible. An old Communist Party veteran started researching the underground communist movement, in the course of which she also gained access to materials associated with Karl Sare. Certain suspicions arose in her and she decided to write to Nigol Andresen, who had been in direct contact with Karl Sam in 1940-1941. Furthermore, Karl Sare turned to Nigol Andresen in particular first of all upon his arrival in Estonia in 1938. It appears from his letter in reply to Alma Vaarman that Nigol Andresen had also pondered over and thought about this matter. He knew a thing or two about Karl Sare's captivity in Berlin. Sare had attempted to commit suicide and had written on the wall in blood: Es lebe der kommunismus! (Long live communism!). Based on existing information, Nigol Andresen finds that Karl Sam did not betray the Soviet regime, unlike the official version of that time. Alas, even 1981 was not yet the time when Karl Sare's reputation as a traitor could have been refuted. As a matter of fact, such a situation did not come about until the end of the Soviet regime (1991). Hence Karl Sare continues to circulate with his reputation as a traitor in many publications to this day.
+C1 [Ohmann, Valdur] Eesti Rahvusarhiivi Teadus & Publitseerimisbur, Maneezi 4, Tallinn, Estonia.
+RP Ohmann, V (corresponding author), Eesti Rahvusarhiivi Teadus & Publitseerimisbur, Maneezi 4, Tallinn, Estonia.
+EM valdur.ohmann@ra.ee
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RAHVUSARHIV-NATL ARCH ESTONIA
+PI TALLINN
+PA TONISMAGI 16, TALLINN, 10119, ESTONIA
+SN 1406-4030
+J9 TUNA-AJALOOKULT AJAK
+JI Tuna-Ajalookultuuri Ajak.
+PY 2019
+IS 4
+BP 110
+EP +
+PG 5
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA KI4IW
+UT WOS:000511314800009
+DA 2023-12-07
+ER
+
+PT J
+AU Saar, S
+   Lomp, A
+   Laos, J
+   Mihnovits, V
+   Salkauskas, R
+   Lustenberger, T
+   Vali, M
+   Lepner, U
+   Talving, P
+AF Saar, S.
+   Lomp, A.
+   Laos, J.
+   Mihnovits, V.
+   Salkauskas, R.
+   Lustenberger, T.
+   Vali, M.
+   Lepner, U.
+   Talving, P.
+TI Population-Based Autopsy Study of Traumatic Fatalities
+SO WORLD JOURNAL OF SURGERY
+LA English
+DT Article
+ID CARDIAC TRAUMA; EPIDEMIOLOGY; BLUNT
+AB Background Injuries result in 5.8 million global fatalities annually and are the leading cause of death in younger individuals. Nevertheless, population-based autopsy investigations on traumatic deaths are scarce. We set out to study all consecutive autopsies on traumatic fatalities performed in a 5-year time segment in Estonia.
+   Methods After the ethics review board approval, all consecutive autopsies after blunt or penetrating deaths occurring in prehospital or in-hospital settings between January 1, 2009, and December 31, 2013, were retrospectively reviewed using the National Forensic Medicine Database. Fatalities due to suffocation, intoxication, burns, or freezing were excluded. Data collection included demographics, mechanism of injuries, cause of death, and a detailed injury profile. Primary outcome was cause of death. Secondary outcomes included injury patterns.
+   Results Overall, 1344 autopsies were included. 75.7% of deaths were following blunt trauma. Mean age was 50.4 +/- 18.5 years, and 77.1% were male. A total of 71.8% of deaths occurred in the prehospital setting. Accidents, assaults, and suicides constituted 64.4, 20.5, and 15.2% of deaths, respectively. A total of 51.1% of injury fatalities had a positive blood alcohol level (BAL). Mean injury severity score was 39.7 +/- 23.9. Most common cause of death was due to head injuries at 50.5% followed by hemorrhage at 30.4%. Cardiac and aortic injuries were the predominant cause of hemorrhage-related fatalities.
+   Conclusions The current population-based investigation documented brain injury as the predominant cause of death followed by cardiac and aortic injuries. High incidence of positive BAL among injury fatalities requires national initiatives for alcohol harm reduction and law enforcement efforts.
+C1 [Saar, S.; Lomp, A.; Laos, J.; Mihnovits, V.; Salkauskas, R.; Vali, M.; Lepner, U.; Talving, P.] Univ Tartu, Sch Med, Tartu, Estonia.
+   [Saar, S.; Laos, J.; Talving, P.] North Estonia Med Ctr, Div Acute Care Surg, Dept Surg, Tallinn, Estonia.
+   [Salkauskas, R.; Lepner, U.; Talving, P.] Tartu Univ Hosp, Dept Surg, Ulikooli 18, EE-50090 Tartu, Estonia.
+   [Lustenberger, T.] Goethe Univ Hosp, Div Trauma, Frankfurt, Germany.
+   [Vali, M.] Univ Tartu, Dept Pathol Anat & Forens Med, Tartu, Estonia.
+C3 University of Tartu; Goethe University Frankfurt; Goethe University
+   Frankfurt Hospital; University of Tartu
+RP Talving, P (corresponding author), Univ Tartu, Sch Med, Tartu, Estonia.; Talving, P (corresponding author), North Estonia Med Ctr, Div Acute Care Surg, Dept Surg, Tallinn, Estonia.; Talving, P (corresponding author), Tartu Univ Hosp, Dept Surg, Ulikooli 18, EE-50090 Tartu, Estonia.
+EM peep.talving@ut.ee
+OI Mihnovits, Vladislav/0000-0003-3897-7311
+NR 15
+TC 17
+Z9 22
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0364-2313
+EI 1432-2323
+J9 WORLD J SURG
+JI World J.Surg.
+PD JUL
+PY 2017
+VL 41
+IS 7
+BP 1790
+EP 1795
+DI 10.1007/s00268-017-3929-3
+PG 6
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Surgery
+GA EX2KY
+UT WOS:000403056400018
+PM 28255632
+DA 2023-12-07
+ER
+
+PT J
+AU Tanaka, H
+   Nusselder, WJ
+   Bopp, M
+   Bronnum-Hansen, H
+   Kalediene, R
+   Lee, JS
+   Leinsalu, M
+   Martikainen, P
+   Menvielle, G
+   Kobayashi, Y
+   Mackenbach, JP
+AF Tanaka, Hirokazu
+   Nusselder, Wilma J.
+   Bopp, Matthias
+   Bronnum-Hansen, Henrik
+   Kalediene, Ramune
+   Lee, Jung Su
+   Leinsalu, Mall
+   Martikainen, Pekka
+   Menvielle, Gwenn
+   Kobayashi, Yasuki
+   Mackenbach, Johan P.
+TI Mortality inequalities by occupational class among men in Japan, South
+   Korea and eight European countries: a national register-based study,
+   1990-2015
+SO JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH
+LA English
+DT Article
+DE epidemiology; cause of death; trends; socioeconomic factors; middle
+   aged; registries
+ID BIOLOGICAL RISK-FACTORS; LONG WORKING HOURS; SOCIOECONOMIC INEQUALITIES;
+   HEALTH INEQUALITIES; MOBILITY; KAROSHI; DETERMINANTS; DISPARITIES;
+   POPULATION; MAGNITUDE
+AB Background We compared mortality inequalities by occupational class in Japan and South Korea with those in European countries, in order to determine whether patterns are similar. Methods National register-based data from Japan, South Korea and eight European countries (Finland, Denmark, England/Wales, France, Switzerland, Italy (Turin), Estonia, Lithuania) covering the period between 1990 and 2015 were collected and harmonised. We calculated age-standardised all-cause and cause-specific mortality among men aged 35-64 by occupational class and measured the magnitude of inequality with rate differences, rate ratios and the average inter-group difference. Results Clear gradients in mortality were found in all European countries throughout the study period: manual workers had 1.6-2.5 times higher mortality than upper non-manual workers. However, in the most recent time-period, upper non-manual workers had higher mortality than manual workers in Japan and South Korea. This pattern emerged as a result of a rise in mortality among the upper non-manual group in Japan during the late 1990s, and in South Korea during the late 2000s, due to rising mortality from cancer and external causes (including suicide), in addition to strong mortality declines among lower non-manual and manual workers. Conclusion Patterns of mortality by occupational class are remarkably different between European countries and Japan and South Korea. The recently observed patterns in the latter two countries may be related to a larger impact on the higher occupational classes of the economic crisis of the late 1990s and the late 2000s, respectively, and show that a high socioeconomic position does not guarantee better health.
+C1 [Tanaka, Hirokazu; Nusselder, Wilma J.; Mackenbach, Johan P.] Erasmus MC, Dept Publ Hlth, POB 2040, NL-3000 CA Rotterdam, Netherlands.
+   [Tanaka, Hirokazu; Lee, Jung Su; Kobayashi, Yasuki] Univ Tokyo, Grad Sch Med, Dept Publ Hlth, Tokyo, Japan.
+   [Bopp, Matthias] Univ Zurich, Epidemiol Biostat & Prevent Inst, Zurich, Switzerland.
+   [Bronnum-Hansen, Henrik] Univ Copenhagen, Dept Publ Hlth, Copenhagen, Denmark.
+   [Kalediene, Ramune] Lithuanian Univ Hlth Sci, Dept Hlth Management, Kaunas, Lithuania.
+   [Leinsalu, Mall] Sodertorn Univ, Stockholm Ctr Hlth & Social Change, Huddinge, Sweden.
+   [Leinsalu, Mall] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+   [Martikainen, Pekka] Univ Helsinki, Dept Social Reseach, Populat Res Unit, Helsinki, Finland.
+   [Menvielle, Gwenn] Sorbonne Univ, INSERM, Inst Pierre Louis Epidemiol & Sante Publ, Paris, France.
+C3 Erasmus University Rotterdam; Erasmus MC; University of Tokyo;
+   University of Zurich; University of Copenhagen; Lithuanian University of
+   Health Sciences; Sodertorn University; National Institute for Health
+   Development - Estonia; University of Helsinki; Sorbonne Universite;
+   Institut National de la Sante et de la Recherche Medicale (Inserm)
+RP Mackenbach, JP (corresponding author), Erasmus MC, Dept Publ Hlth, POB 2040, NL-3000 CA Rotterdam, Netherlands.
+EM j.mackenbach@erasmusmc.nl
+RI Tanaka, Hirokazu/K-4646-2015; Leinsalu, Mall/I-3768-2018
+OI Tanaka, Hirokazu/0000-0002-3153-8802; Leinsalu,
+   Mall/0000-0003-4453-4760; Bronnum-Hansen, Henrik/0000-0003-3513-7245;
+   Bopp, Matthias/0000-0003-0766-3723; Martikainen,
+   Pekka/0000-0001-9374-1438
+FU Erasmus MC [S171N126010017]; European Commission [FP7-CP-FP 278511,
+   633666]
+FX This work was supported by the following funding. HT received the Japan
+   Public-Private Partnership Student Study Abroad Program (Tobitate! Study
+   Abroad Initiative) funding [S171N126010017] to study at Erasmus MC. This
+   study was conducted as part of the LIFEPATH project, which has received
+   financial support from European Commission Horizon 2020 Grant [633666].
+   Data were partly collected as part of the Developing Methodologies to
+   Reduce Inequalities in the Determinants of Health (DEMETRIQ) project,
+   which received support from European Commission Grant [FP7-CP-FP
+   278511]. The funder had no role in the design and conduct of the study;
+   collection, management, analysis and interpretation of the data;
+   preparation, review or approval of the manuscript; and decision to
+   submit the manuscript for publication.
+NR 50
+TC 31
+Z9 31
+U1 0
+U2 8
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0143-005X
+EI 1470-2738
+J9 J EPIDEMIOL COMMUN H
+JI J. Epidemiol. Community Health
+PD AUG
+PY 2019
+VL 73
+IS 8
+BP 750
+EP 758
+DI 10.1136/jech-2018-211715
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA IN8HJ
+UT WOS:000478920900011
+PM 31142611
+OA hybrid, Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Ojamaa, T
+AF Ojamaa, Triinu
+TI Messages from the "Edge of the World": Aksel Valgma's Letters to Artur
+   Adson
+SO TUNA-AJALOOKULTUURI AJAKIRI
+LA Estonian
+DT Article
+AB Aksel Valgma was born in Estonia in 1910 and died in Australia in 1966. In 1933 he became a professional journalist. lie worked for several newspapers in Tallinn and, in addition to this, he published humorous stories and children's books. During the Second World War, Valgma fled to Germany and emigrated from there to Sydney - to the "edge of the world", as he himself called his new domicile. He worked at a felt factory, managed a chicken farm, and was editor of the Australian Estonians' weekly Meie Kodu (Our Home).
+   While he was working as a journalist in Tallinn, he became acquainted with Artur Adson (1889-1977), a poet, writer and theatre critic, who fled to Sweden from the Soviet occupation. They never met again, yet for a short while their old acquaintance was renewed through correspondence. Artur Adson and Marie Under's collection at the Estonian Cultural History Archives contains thirteen letters written by Valgma to Adson in the period from 3 February 1964 to 25 May 1966. The addressee on the envelopes is Artur Adson, yet in several letters he turns to Adson and his wife, the poetess Marie Under, with news for both of them. Some of the letters are in aerogram format, whereas others are in ordinary envelopes, as they contained photographs and banknotes, which could not be enclosed in the aerogram. The collection of letters is complete, without gaps in content, so it could be assumed that Adson preserved all of Valgma's letters. The last letter by Valgma is dated three months before he committed suicide. Its content suggests that life goes on and the correspondence continues; there is no indication of its being the last letter, which it actually was.
+   When Valgma started correspondence with Adson, twenty years had passed since their last meeting. The letters indicate several reasons for renewing their acquaintance. Valgma was looking for contributions to the newspaper and wished it to come from Europe; he had a strong province complex and considered Australia to be a cultureless country. On the other hand, Valgma was looking for someone to whom he could confess the pain he felt from losing his homeland. The first letters focus on reminiscences, the later ones discuss more topics from the present. Valgma suggests collaboration to Adson, hoping that his articles would enhance the prestige of Meie Kodu among the readership and would have a considerable impact on the editor's unstable self-esteem.
+   The topic most often discussed by Valgma and Adson is trends in refugee literature. Adson is disturbed by the depictions of intimate life in the works of younger authors, and in his reply Valgma agrees with him, although this topic is not very important for him. Valgma is worried about the writers' divergence from the refugees who constitute the only target group of exile literature. In Valgma's opinion, the interest of the refugees in Estonian-language literature was approaching the critical line. Valgma thinks that exile literature should refrain from "philosophical sophistry" and use, above all, refugees' everyday life as a source of inspiration. During the years of correspondence, Valgma wrote his novel Elu uksiklinnud (The Solitary Birds of Life, Lund 1966), which precisely follows the requirements for exile literature that he had explained to Adson. As Valgma wrote the novel and letters in parallel, they overlap remarkably in terms of sentiments and their general mood, which in places is rather depressive. The book reviews and obituaries dedicated to the author have emphasised the biographical side of the novel.
+   In his fourth letter to Adson, Valgma writes that his mother-in-law, Mrs. Moolmann, who stayed in Estonia during the war, has been granted a permit to settle in Australia. The seventh letter evidences that Adson has asked Mrs. Moolmann, through Valgma, to help him find out about the destiny of his former neighbours. The tenth letter reveals an interesting fact: mediation of news from their homeland developed into a correspondence between Moolmann and Under. Together with Adson's letters addressed to Valgma, Under's letters to Moolmann reached Australia. Valgma enclosed his mother-in-law's answers in the envelopes addressed to Adson, and this is how news from Soviet Estonia moved through Australia to Sweden.
+   The sub-section "Selected letters" presents complete texts of three letters which provide an insight into the problems that creative intellectuals focused on in their discussions in the first decades of exile. The letters also refer to the reasons that inhibited Estonian refugees' adaptation to life in Australia.
+C1 [Ojamaa, Triinu] Eesti Kirjandusmuuseum, Vanemuise 42, EE-51003 Tartu, Estonia.
+C3 Estonian Literary Museum
+RP Ojamaa, T (corresponding author), Eesti Kirjandusmuuseum, Vanemuise 42, EE-51003 Tartu, Estonia.
+EM triinu@folklore.ee
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RAHVUSARHIV-NATL ARCH ESTONIA
+PI TALLINN
+PA TONISMAGI 16, TALLINN, 10119, ESTONIA
+SN 1406-4030
+J9 TUNA-AJALOOKULT AJAK
+JI Tuna-Ajalookultuuri Ajak.
+PY 2019
+IS 4
+BP 123
+EP +
+PG 11
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA KI4IW
+UT WOS:000511314800011
+DA 2023-12-07
+ER
+
+PT J
+AU Carli, V
+   Wasserman, C
+   Wasserman, D
+   Sarchiapone, M
+   Apter, A
+   Balazs, J
+   Bobes, J
+   Brunner, R
+   Corcoran, P
+   Cosman, D
+   Guillemin, F
+   Haring, C
+   Kaess, M
+   Kahn, JP
+   Keeley, H
+   Keresztény, A
+   Iosue, M
+   Mars, U
+   Musa, G
+   Nemes, B
+   Postuvan, V
+   Reiter-Theil, S
+   Saiz, P
+   Varnik, P
+   Varnik, A
+   Hoven, CW
+AF Carli, Vladimir
+   Wasserman, Camilla
+   Wasserman, Danuta
+   Sarchiapone, Marco
+   Apter, Alan
+   Balazs, Judit
+   Bobes, Julio
+   Brunner, Romuald
+   Corcoran, Paul
+   Cosman, Doina
+   Guillemin, Francis
+   Haring, Christian
+   Kaess, Michael
+   Kahn, Jean Pierre
+   Keeley, Helen
+   Kereszteny, Agnes
+   Iosue, Miriam
+   Mars, Ursa
+   Musa, George
+   Nemes, Bogdan
+   Postuvan, Vita
+   Reiter-Theil, Stella
+   Saiz, Pilar
+   Varnik, Peeter
+   Varnik, Airi
+   Hoven, Christina W.
+TI The Saving and Empowering Young Lives in Europe (SEYLE) Randomized
+   Controlled Trial (RCT): methodological issues and participant
+   characteristics
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE SEYLE; Mental Health Promotion; Suicide prevention; Promotion;
+   Well-being; Adolescents; Schools; RCT; Intervention; ProfScreen; QPR;
+   Awareness
+ID HEALTH OBJECTIVES; ADOLESCENTS; INTERVENTION; PREVENTION; DEPRESSION;
+   YOUTH; DIFFICULTIES; PROGRAM; RISK; DISORDERS
+AB Background: Mental health problems and risk behaviours among young people are of great public health concern. Consequently, within the VII Framework Programme, the European Commission funded the Saving and Empowering Young Lives in Europe (SEYLE) project. This Randomized Controlled Trial (RCT) was conducted in eleven European countries, with Sweden as the coordinating centre, and was designed to identify an effective way to promote mental health and reduce suicidality and risk taking behaviours among adolescents.
+   Objective: To describe the methodological and field procedures in the SEYLE RCT among adolescents, as well as to present the main characteristics of the recruited sample.
+   Methods: Analyses were conducted to determine: 1) representativeness of study sites compared to respective national data; 2) response rate of schools and pupils, drop-out rates from baseline to 3 and 12 month follow-up, 3) comparability of samples among the four Intervention Arms; 4) properties of the standard scales employed: Beck Depression Inventory, Second Edition (BDI-II), Zung Self-Rating Anxiety Scale (Z-SAS), Strengths and Difficulties Questionnaire (SDQ), World Health Organization Well-Being Scale (WHO-5).
+   Results: Participants at baseline comprised 12,395 adolescents (M/F: 5,529/6,799; mean age=14.9 +/- 0.9) from Austria, Estonia, France, Germany, Hungary, Ireland, Israel, Italy, Romania, Slovenia and Spain. At the 3 and 12 months follow up, participation rates were 87.3% and 79.4%, respectively. Demographic characteristics of participating sites were found to be reasonably representative of their respective national population. Overall response rate of schools was 67.8%. All scales utilised in the study had good to very good internal reliability, as measured by Cronbach's alpha (BDI-II: 0.864; Z-SAS: 0.805; SDQ: 0.740; WHO-5: 0.799).
+   Conclusions: SEYLE achieved its objective of recruiting a large representative sample of adolescents within participating European countries. Analysis of SEYLE data will shed light on the effectiveness of important interventions aimed at improving adolescent mental health and well-being, reducing risk-taking and self-destructive behaviour and preventing suicidality.
+C1 [Carli, Vladimir; Wasserman, Danuta] Karolinska Inst, Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Stockholm, Sweden.
+   [Carli, Vladimir; Wasserman, Danuta] WHO Collaborating Ctr Res Methods Dev & Training, Stockholm, Sweden.
+   [Wasserman, Camilla; Musa, George; Hoven, Christina W.] Columbia Univ, New York State Psychiat Inst, Dept Child & Adolescent Psychiat, New York, NY USA.
+   [Wasserman, Camilla; Sarchiapone, Marco; Iosue, Miriam] Univ Molise, Dept Hlth Sci, Campobasso, Italy.
+   [Apter, Alan] Tel Aviv Univ, Schneider Childrens Med Ctr, Feinberg Child Study Ctr, IL-69978 Tel Aviv, Israel.
+   [Balazs, Judit] Vadaskert Child & Adolescent Psychiat Hosp, Budapest, Hungary.
+   [Balazs, Judit; Kereszteny, Agnes] Eotvos Lorand Univ, Inst Psychol, Budapest, Hungary.
+   [Bobes, Julio; Saiz, Pilar] Univ Oviedo, Dept Psychiat, Ctr Invest Biomed Red Salud Mental, CIBERSAM, Oviedo, Spain.
+   [Brunner, Romuald; Kaess, Michael] Clin Child & Adolescent Psychiat, Sect Disorders Personal Dev, Heidelberg, Germany.
+   [Brunner, Romuald; Kaess, Michael] Heidelberg Univ, Ctr Psychosocial Med, Heidelberg, Germany.
+   [Corcoran, Paul; Keeley, Helen] Natl Suicide Res Fdn, Cork, Ireland.
+   [Cosman, Doina; Nemes, Bogdan] Iuliu Hatieganu Univ Med & Pharm, Dept Clin Psychol, Cluj Napoca, Romania.
+   [Guillemin, Francis] Nancy Univ Hosp, Inserm CIC EC, Nancy, France.
+   [Haring, Christian] Univ Med Informat Technol, Res Div Mental Hlth, Hall In Tirol, Austria.
+   [Kahn, Jean Pierre] Univ Lorraine, Ctr Hosp Univ Nancy, Dept Psychiat, Nancy, France.
+   [Kereszteny, Agnes] Semmelweis Univ, Sch PhD Studies, Budapest, Hungary.
+   [Mars, Ursa; Postuvan, Vita] Univ Primorska, UP IAM, Slovene Ctr Suicide Res, Koper, Slovenia.
+   [Reiter-Theil, Stella] Univ Basel Hosp, CH-4031 Basel, Switzerland.
+   [Reiter-Theil, Stella] Univ Basel, IBMB, Psychiat Clin, Basel, Switzerland.
+   [Varnik, Peeter] Tallinn Univ, Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Varnik, Airi; Hoven, Christina W.] Columbia Univ, Dept Epidemiol, Mailman Sch Publ Hlth, New York, NY USA.
+C3 Karolinska Institutet; Columbia University; New York State Psychiatry
+   Institute; University of Molise; Tel Aviv University; Eotvos Lorand
+   University; University of Oviedo; CIBER - Centro de Investigacion
+   Biomedica en Red; CIBERSAM; Ruprecht Karls University Heidelberg; Iuliu
+   Hatieganu University of Medicine & Pharmacy; CHU de Nancy; Institut
+   National de la Sante et de la Recherche Medicale (Inserm); Universite de
+   Lorraine; CHU de Nancy; Semmelweis University; University of Primorska;
+   University of Basel; University of Basel; Tallinn University; Columbia
+   University
+RP Carli, V (corresponding author), Karolinska Inst, Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Stockholm, Sweden.
+EM vladimir.carli@ki.se
+RI Nemes, Bogdan/A-8446-2012; Postuvan, Vita/AAI-6910-2020; Carli,
+   Vladimir/G-4728-2012; Bobes, Julio/AAH-4365-2019; Saiz, Pilar
+   A./ABF-5814-2021; Sarchiapone, Marco/F-6402-2018; Iosue,
+   Miriam/IQR-6668-2023; Cosman, Doina/L-9087-2013
+OI Nemes, Bogdan/0000-0002-1381-798X; Bobes, Julio/0000-0003-2187-4033;
+   Saiz, Pilar A./0000-0002-5705-4523; Sarchiapone,
+   Marco/0000-0001-9583-3117; Cosman, Doina/0000-0001-7102-2432; Hoven,
+   Christina/0000-0003-1274-2936; Kaess, Michael/0000-0003-0031-7764;
+   Iosue, Miriam/0000-0002-3703-1578; Carli, Vladimir/0000-0001-6922-0675
+FU Coordination Theme 1 (Health) of the European Union Seventh Framework
+   Program (FP7) [HEALTH-F2-2009-223091]
+FX The SEYLE project was supported through Coordination Theme 1 (Health) of
+   the European Union Seventh Framework Program (FP7), Grant agreement
+   number HEALTH-F2-2009-223091.
+NR 36
+TC 54
+Z9 55
+U1 0
+U2 41
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD MAY 16
+PY 2013
+VL 13
+AR 479
+DI 10.1186/1471-2458-13-479
+PG 13
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 152FJ
+UT WOS:000319516000001
+PM 23679917
+OA Green Published, gold
+DA 2023-12-07
+ER
+
+EF

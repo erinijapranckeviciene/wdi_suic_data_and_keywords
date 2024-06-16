@@ -1,0 +1,572 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rancans, E
+   Renberg, ES
+   Jacobsson, L
+AF Rancans, E
+   Renberg, ES
+   Jacobsson, L
+TI Major demographic, social and economic factors associated to suicide
+   rates in Latvia 1980-48
+SO ACTA PSYCHIATRICA SCANDINAVICA
+LA English
+DT Article
+DE suicide; gender; Latvia; alcohol; unemployment; epidemiology
+ID FORMER USSR; ALCOHOL-CONSUMPTION; COUNTRIES; TRENDS; PERESTROIKA;
+   PREVENTION; DEPRESSION; GENDER; AGE
+AB Objective: The aim of this study is to analyse the dynamics of suicide rates in Latvia 1980-98, when dramatic social and economical changes took place. Special attention is given to demographic risk groups and major socioeconomic correlates influencing the dynamics of suicide rates.
+   Method: Descriptive statistics of suicide rates and major social and economical correlates.
+   Results: During 1980-98 there were rapid swings of suicide rates. The increase was generated mainly by males reaching a maximum of 72 per 100 000 population in 1993. The sudden drop in gross domestic product, the rapid increase in first-time alcohol psychosis and the percentage of people unemployed did not correspond strictly with the dynamics of suicide rates.
+   Conclusion: Demographic and socioeconomic factors could not explain sufficiently the rapid changes in suicide rates in Latvia during the years 1980-98; psychological factors also have to be considered.
+C1 Riga Psychoneurol Hosp, LV-1005 Riga, Latvia.
+   Umea Univ, Dept Clin Sci, Div Psychiat, Umea, Sweden.
+C3 Umea University
+RP Rancans, E (corresponding author), Riga Psychoneurol Hosp, Tvaika Str 2, LV-1005 Riga, Latvia.
+RI Rancans, Elmars/AAE-4467-2019; Rancans, Elmars/IRZ-2854-2023
+OI Rancans, Elmars/0000-0002-8329-7887; Rancans, Elmars/0000-0002-8329-7887
+NR 35
+TC 39
+Z9 40
+U1 0
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-690X
+EI 1600-0447
+J9 ACTA PSYCHIAT SCAND
+JI Acta Psychiatr. Scand.
+PD APR
+PY 2001
+VL 103
+IS 4
+BP 275
+EP 281
+DI 10.1034/j.1600-0447.2001.00007.x
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 424KH
+UT WOS:000168231100007
+PM 11328241
+DA 2023-12-07
+ER
+
+PT J
+AU Springe, L
+   Pulmanis, T
+   Velika, B
+   Pudule, I
+   Grinberga, D
+   Villerusa, A
+AF Springe, Lauma
+   Pulmanis, Toms
+   Velika, Biruta
+   Pudule, Iveta
+   Grinberga, Daiga
+   Villerusa, Anita
+TI Self-reported suicide attempts and exposure to different types of
+   violence and neglect during childhood: Findings from a young adult
+   population survey in Latvia
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Abuse; adverse childhood experiences; childhood; family dynamics;
+   neglect; suicide attempts; violence
+ID SEXUAL-ABUSE; PHYSICAL ABUSE; RISK-FACTORS; EXPERIENCES; IDEATION;
+   ADVERSITIES; PREVALENCE; AMERICAN; VALIDITY; OUTCOMES
+AB Aims: Suicide rates in Latvia are among the highest in the EU. Among 18-25 year-old young adults, it is the second leading cause of death. This study investigates the prevalence of self-reported suicide attempts in young adults and examines its association with neglect or violence of a physical, emotional or sexual nature. Methods: A questionnaire was administered to 1259 young adults 18-25 years of age, selected by targeted quota sampling from secondary and vocational schools. Results: The prevalence of self-reported suicide attempts was 6.1%. Physical and emotional adverse experiences showed clear associations with attempted suicide. Although prevalence of reported physical neglect was higher than for physical violence (27.0% versus 16.3%, respectively) the latter posed a higher risk for attempted suicide (OR = 4.0; 95% CI, 2.4-6.6). Conversely, emotional violence had a higher prevalence than emotional neglect (31.5% vs. 23.6%, respectively), but neglect showed a stronger association with attempted suicide (OR = 4.4; 95% CI, 2.6-7.3). Conclusions: The high OR for attempted suicide associated with emotional neglect, together with findings that emotional violence had the highest prevalence, and that emotional neglect and emotional violence showed the highest population attributable risk fraction (PopAR%) of 46.8 and 40.4, respectively, suggested that emotional factors merit special attention in further investigations of attempted suicide among young adults in Latvia. The targeted quota sampling method from five cities representing all regions of Latvia and 43.8% of its population, ensure national relevance of our findings for policy and program development by legislative, educational and public health institutions.
+C1 [Springe, Lauma; Villerusa, Anita] Riga Stradins Univ, Dept Epidemiol & Publ Hlth, Kronvalda Blvd 9, LV-1010 Riga, Latvia.
+   [Pulmanis, Toms] Ctr Dis Control & Prevent, Dept Hlth Promot, Riga, Latvia.
+   [Velika, Biruta; Pudule, Iveta; Grinberga, Daiga] Ctr Dis Control & Prevent, Dept Res & Hlth Stat, Riga, Latvia.
+C3 Riga Stradins University
+RP Springe, L (corresponding author), Riga Stradins Univ, Dept Epidemiol & Publ Hlth, Kronvalda Blvd 9, LV-1010 Riga, Latvia.
+EM lauma.springe@rsu.lv
+OI Springe, Lauma/0000-0001-7681-9184
+NR 29
+TC 13
+Z9 13
+U1 0
+U2 20
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2016
+VL 44
+IS 4
+BP 411
+EP 417
+DI 10.1177/1403494816631394
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DL4AC
+UT WOS:000375573800012
+PM 26865568
+DA 2023-12-07
+ER
+
+PT J
+AU Rancans, E
+   Pulmanis, T
+   Taube, M
+   Springe, L
+   Velika, B
+   Pudule, I
+   Grinberga, D
+AF Rancans, Elmars
+   Pulmanis, Toms
+   Taube, Maris
+   Springe, Lauma
+   Velika, Biruta
+   Pudule, Iveta
+   Grinberga, Daiga
+TI Prevalence and sociodemographic characteristics of self-reported
+   suicidal behaviours in Latvia in 2010: A population-based study
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE population; suicide; Latvia; gender; Behaviours
+ID GENERAL-POPULATION; RISK-FACTORS; MENTAL-HEALTH; IDEATION; ADULTS;
+   THOUGHTS; PLANS
+AB Background: The fact that Latvia is among the countries with the highest suicide mortality rates in the European Union highlights the importance of research in this field. Aims: The aims of the study were to determine the 2010 prevalence of self-reported suicidal behaviours in Latvia, to identify sociodemographic risk factors and to examine sequences for reporting of suicidal behaviours. Methods: Computer assisted personal interviews were carried out to gather information on a representative sample of the Latvian population aged 18 to 64 (n = 2816). The study sample was selected using a combination of stratified random sampling and quota methods. Results: Last year prevalence of any type of suicidal behaviour was 18.5% - nearly threefold lower than observed in 2000 (52.6%). Middle age, non-cohabitation status and lower level of education were significant risk factors for serious types of suicidal behaviour (suicidal ideation, suicidal plans, suicide attempts) among men, but only lower level of education was for women. Risk factors regarding mild types of suicidal behaviour (life-weariness, death wishes) were the same for men and women: older and middle aged, non-cohabitation status, and lower level of education. A total of 79.6% reported a continuous pattern of suicidal behaviours. Conclusions: Several sociodemographic risk factors for suicidal behaviours have been found. Further research is needed to clarify additional risk factors, especially in the high-risk groups studied and specific determinants contributing to reduction in prevalence of suicidal behaviours and suicide mortality in Latvia.
+C1 [Rancans, Elmars] Riga Stradins Univ, Dept Psychiat & Narcol, Riga, Latvia.
+   [Pulmanis, Toms; Velika, Biruta; Pudule, Iveta; Grinberga, Daiga] Ctr Dis Prevent & Control Latvia, Dept Res Stat & Hlth Promot, Riga, Latvia.
+   [Taube, Maris] Natl Hlth Serv, Riga, Latvia.
+   [Springe, Lauma] Riga Stradins Univ, Dept Publ Hlth & Epidemiol, Riga, Latvia.
+C3 Riga Stradins University; Riga Stradins University
+RP Rancans, E (corresponding author), Riga Stradins Univ, Dept Psychiat & Addict Disorders, Tvaika St 2, LV-1005 Riga, Latvia.
+EM erancans@latnet.lv
+RI Rancans, Elmars/IRZ-2854-2023; Taube, Maris/AAG-9277-2019; Rancans,
+   Elmars/AAE-4467-2019
+OI Rancans, Elmars/0000-0002-8329-7887; Taube, Maris/0000-0002-1144-8586;
+   Rancans, Elmars/0000-0002-8329-7887; Springe, Lauma/0000-0001-7681-9184
+NR 23
+TC 9
+Z9 9
+U1 1
+U2 4
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0803-9488
+EI 1502-4725
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PD APR 2
+PY 2016
+VL 70
+IS 3
+BP 195
+EP 201
+DI 10.3109/08039488.2015.1077887
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DE9MJ
+UT WOS:000370961500006
+PM 26360335
+DA 2023-12-07
+ER
+
+PT J
+AU Gailiene, D
+AF Gailiene, Danute
+TI Why Are Suicides So Widespread in Catholic Lithuania?
+SO RELIGIONS
+LA English
+DT Review
+DE religion; suicide rates; Lithuania
+ID RELIGION; ATTITUDES
+AB Religion as a protective factor against suicide was introduced in Durkheim's theory of suicide and analysed from various perspectives in multiple studies. The Lithuanian case is intriguing because before WWII, along with Catholic Poland, it showed much lower suicide rates than its Protestant neighbours Latvia and Estonia. However, today Lithuania is among the leading countries in terms of the prevalence of suicide. Interestingly, not much has changed in Lithuania in terms of religious denomination-about 80% of population call themselves Catholic. The aim of this article was to explore which factors might have affected religions' protective function against suicide during radical historical processes. The method of study consists of an analysis of historical sources, and of recent studies in suicidology and sociology of religion about suicide and religion in Lithuania. The results of this analysis show that two factors seem to be most important-heroicizing resistance suicides and experiencing long-term politics of atheisation.
+C1 [Gailiene, Danute] Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+C3 Vilnius University
+RP Gailiene, D (corresponding author), Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+EM gailiened@gmail.com
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 3
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2077-1444
+J9 RELIGIONS
+JI Religions
+PD MAR
+PY 2018
+VL 9
+IS 3
+AR 71
+DI 10.3390/rel9030071
+PG 8
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA GA7KH
+UT WOS:000428514500007
+OA Green Submitted, gold
+DA 2023-12-07
+ER
+
+PT J
+AU Rancans, E
+   Lapins, J
+   Renberg, ES
+   Jacobsson, L
+AF Rancans, E
+   Lapins, J
+   Renberg, ES
+   Jacobsson, L
+TI Self-reported suicidal and help seeking behaviours in the general
+   population in Latvia
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE suicide behaviours; age; gender; population; Latvia; survey
+ID COMMUNITY SURVEY; RISK-FACTORS; IDEATION; PREVALENCE; PARASUICIDE;
+   ATTEMPTERS; ATTITUDES; FEELINGS; ADULTS; RATES
+AB Background The aims of this study were to assess the prevalence of suicidal behaviours in the general population in Latvia, to identify risk groups for suicidal behaviour, to examine a possible continuous sequence of suicidal behaviours with underlying gradient of severity, to assess patterns of help seeking behaviours and preferences of different types of services for suicidal persons. Method A postal survey of a stratified proportional sample of the general population aged 18 and older was carried out. Results The last year and lifetime prevalence of any type of suicidal behaviours was 52.6 and 60.2%. The incidence of self-reported suicide attempts was 1.8 and 5.1%, respectively. Females reported significantly less serious types (includes ideation, plans and/or attempts) of suicidal behaviours (OR 0.04, p = 0.001) during last year than males. Younger age, lower level of education, urban residency and Latvian ethnicity were identified as risk factors for serious types of suicidal behaviours in both genders. Non-cohabitation status (OR 5.3, p = 0.01) and lower level of education for males, but higher levels of education for females were identified as significant risk factors for mild types (solely life-weariness and/or death wishes) of suicidal behaviours. The results indicated no simple cumulative relationship between the suicidal behaviours. Age, gender, previous help seeking experience and severity of self-reported suicidal behaviours influenced help seeking behaviours. The overall acceptance of professional services was high, but people who reported suicidal behaviours ranked them lower. Conclusions A postal survey can provide a reasonable coverage of suicidal behaviours and description of risk groups in the general population. Higher prevalence of suicidal behaviours among males might indicate that nowadays males are under certain stress in Latvia.
+C1 Latvian Acad Med, Dept Psychiat, LV-1005 Riga, Latvia.
+   Cent Bur Stat, Riga, Latvia.
+   Umea Univ, Dept Clin Sci, Div Psychiat, Umea, Sweden.
+C3 Umea University
+RP Rancans, E (corresponding author), Latvian Acad Med, Dept Psychiat, Tvaika Str 2, LV-1005 Riga, Latvia.
+EM erancans@latnet.lv
+RI Rancans, Elmars/IRZ-2854-2023; Rancans, Elmars/AAE-4467-2019
+OI Rancans, Elmars/0000-0002-8329-7887; Rancans, Elmars/0000-0002-8329-7887
+NR 34
+TC 29
+Z9 29
+U1 0
+U2 3
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD JAN
+PY 2003
+VL 38
+IS 1
+BP 18
+EP 26
+DI 10.1007/s00127-003-0602-y
+PG 9
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 648UW
+UT WOS:000181169900003
+PM 12563555
+DA 2023-12-07
+ER
+
+PT J
+AU Rancans, E
+   Alka, I
+   Renberg, ES
+   Jacobsson, L
+AF Rancans, E
+   Alka, I
+   Renberg, ES
+   Jacobsson, L
+TI Suicide attempts and serious suicide threats in the city of Riga and
+   resulting contacts with medical services
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE epidemiology; Latvia; methods; sex; suicide attempts
+ID DELIBERATE SELF-HARM; WHO/EURO MULTICENTER; PARASUICIDE; THEMSELVES;
+   FOLLOW; TRENDS; EUROPE
+AB The acute treatment of persons attempting suicide is recognized as very important in a prevention context. The aim of this study is to describe the medical services available to patients who have made suicide attempts or serious threats to commit suicide (SAST) within the city of Riga, to trace their passage through the various medical facilities, and to estimate SAST rates. Data for 1999 were collected from electronic case reports of the Emergency Medical Service (EMS) in Riga and monitoring forms of suicide attempters in Riga Psychoneurological Hospital (RPH) and Narcological Hospital (NH). In 1999 the first contact with the medical service in Riga for 95% of all cases (1024) was the EMS. Of the cases, 51.8% were treated at the general and 17.0% at the orthopaedic hospital. Of all SAST patients 99% have been assessed by at least one psychiatrist, and 43.8% were admitted to the psychiatric hospital at some time. The overall rate of suicide attempts is 149 per 100 000. The male to female ratio for SAST in Riga for individuals aged 15 years and more was 1:0.9. The highest figures were for females aged 15-24 and men aged 25-34. Females used poisonings in 75% of cases, but males used violent suicide methods in 60% of cases, most often involving cutting and associated with the use of alcohol. Data from existing medical services provide reasonably good information on the SAST population in Riga City.
+C1 Riga Psychoneurol Hosp, LV-1005 Riga, Latvia.
+   Emergency Med Stn, Riga, Latvia.
+   Umea Univ, Div Psychiat, Dept Clin Sci, Umea, Sweden.
+C3 Umea University
+RP Rancans, E (corresponding author), Riga Psychoneurol Hosp, Tvaika St 2, LV-1005 Riga, Latvia.
+RI Rancans, Elmars/AAE-4467-2019; Rancans, Elmars/IRZ-2854-2023
+OI Rancans, Elmars/0000-0002-8329-7887; Rancans, Elmars/0000-0002-8329-7887
+NR 28
+TC 10
+Z9 10
+U1 0
+U2 2
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA CORT ADELERSGT 17, PO BOX 2562, SOLLI, 0202 OSLO, NORWAY
+SN 0803-9488
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PY 2001
+VL 55
+IS 4
+BP 279
+EP 286
+DI 10.1080/080394801681019147
+PG 8
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 470DB
+UT WOS:000170854200009
+PM 11839119
+DA 2023-12-07
+ER
+
+PT J
+AU Bellis, MA
+   Hughes, K
+   Leckenby, N
+   Jones, L
+   Baban, A
+   Kachaeva, M
+   Povilaitis, R
+   Pudule, I
+   Qirjako, G
+   Ulukol, B
+   Raleva, M
+   Terzic, N
+AF Bellis, Mark A.
+   Hughes, Karen
+   Leckenby, Nicola
+   Jones, Lisa
+   Baban, Adriana
+   Kachaeva, Margarita
+   Povilaitis, Robertas
+   Pudule, Iveta
+   Qirjako, Gentiana
+   Ulukol, Betul
+   Raleva, Marija
+   Terzic, Natasa
+TI Adverse childhood experiences and associations with health-harming
+   behaviours in young adults: surveys in eight eastern European countries
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID FOLLOW-UP; ABUSE; DISEASE; MALTREATMENT; METAANALYSIS; PREVALENCE;
+   NEGLECT; BURDEN
+AB Objective To evaluate the association between adverse childhood experiences e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration and the health of young adults in eight eastern European countries.
+   Methods Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey. There were 10 696 respondents 59.7% female - aged 18-25 years. Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+   Findings Over half of the respondents reported at least one adverse childhdod experience. Having one adverse childhood experience increased the probability of having other adverse childhood experiences. The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours. Compared with those Who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, Cl: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide. Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.
+   Conclusion Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods. Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.
+C1 [Bellis, Mark A.; Hughes, Karen; Leckenby, Nicola; Jones, Lisa] Liverpool John Moores Univ, Ctr Publ Hlth, Liverpool L3 2ET, Merseyside, England.
+   [Baban, Adriana] Univ Babes Bolyai, Dept Psychol, R-3400 Cluj Napoca, Romania.
+   [Kachaeva, Margarita] Serbsky Natl Res Ctr Social & Forens Psychiat, Moscow, Russia.
+   [Povilaitis, Robertas] Vilnius State Univ, Fac Philosophy, Dept Clin & Org Psychol, Vilnius, Lithuania.
+   [Pudule, Iveta] Ctr Dis Prevent & Control, Riga, Latvia.
+   [Qirjako, Gentiana] Univ Med, Fac Publ Hlth, Tirana, Albania.
+   [Ulukol, Betul] Ankara Univ Sch Med, Dept Social Paediat, Ankara, Turkey.
+   [Raleva, Marija] Univ St Cyril & Methudius, Univ Clin Psychiat, Skopje 91000, North Macedonia.
+   [Terzic, Natasa] Inst Publ Hlth, Podgorica, Montenegro.
+C3 Liverpool John Moores University; Babes Bolyai University from Cluj;
+   Vilnius University; Ankara University; Saints Cyril & Methodius
+   University of Skopje
+RP Bellis, MA (corresponding author), Liverpool John Moores Univ, Ctr Publ Hlth, 15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM m.a.bellis@ljmu.ac.uk
+RI Wilson, Gregory/AAA-9035-2021; Bellis, Mark A./HGA-2019-2022; Jones,
+   Lisa/C-2678-2013; Hughes, Karen/JOK-1499-2023
+OI Jones, Lisa/0000-0001-5136-5614; Ulukol, Betul/0000-0001-8058-0911;
+   Bellis, Mark/0000-0001-6980-1963; Hughes, Karen/0000-0001-8097-3395
+FU violence prevention research programme at Liverpool John Moores
+   University
+FX This analysis was funded as part of the violence prevention research
+   programme at Liverpool John Moores University.
+NR 37
+TC 177
+Z9 190
+U1 7
+U2 83
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD SEP
+PY 2014
+VL 92
+IS 9
+BP 641
+EP 655
+DI 10.2471/BLT.13.129247
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AQ3UM
+UT WOS:000342719000008
+PM 25378755
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2023-12-07
+ER
+
+PT J
+AU Lookene, M
+   Kisuro, A
+   Maciulis, V
+   Banaitis, V
+   Ungvari, GS
+   Gazdag, G
+AF Lookene, Margus
+   Kisuro, Aigars
+   Maciulis, Valentinas
+   Banaitis, Valdas
+   Ungvari, Gabor S.
+   Gazdag, Gabor
+TI Use of electroconvulsive therapy in the Baltic states
+SO WORLD JOURNAL OF BIOLOGICAL PSYCHIATRY
+LA English
+DT Article
+DE electroconvulsive therapy practice; Baltic states; schizophrenia;
+   affective disorders; suicide
+ID ECT
+AB Objectives. While the use of electroconvulsive therapy (ECT) has been investigated worldwide, nothing is known about its use in the Baltic states. The purpose of this study was thus to explore ECT practice in the three Baltic countries. Methods. A 21-item, semi-structured questionnaire was sent out to all psychiatric inpatient settings that provided ECT in 2010. Results. In Lithuania, four services provided ECT in 2010. Only modified ECT with anaesthesia and muscle relaxation is performed in the country. In 2010, approximately 120 patients received ECT, i.e., 0.375 patients/10,000 population. Only two centres offer ECT in Latvia. The first centre treated only three patients with ECT in 2010, while the second centre six patients. In both centres outdated Soviet machines are used. The main indication for ECT was severe, malignant catatonia. ECT is practiced in five psychiatric facilities in Estonia. In 2010, it was used in the treatment of 362 patients (17% women) nationwide, i.e., 2.78 patients/10,000 population. Only a senior psychiatrist may indicate ECT in Estonia and pregnancy is no contraindication. In 2010, the main indication for ECT was schizophrenia (47.8%). Conclusions. This 2010 survey revealed significant differences in the use and availability of ECT between the Baltic countries.
+C1 [Lookene, Margus] North Estonia Med Ctr, Dept Psychiat, Tallinn, Estonia.
+   [Kisuro, Aigars] Riga Ctr Psychiat & Addict Disorders, Riga, Latvia.
+   [Maciulis, Valentinas; Banaitis, Valdas] Vilnius Republican Psychiat Hosp, Vilnius, Lithuania.
+   [Ungvari, Gabor S.] Univ Notre Dame, Marian Ctr, Wembley, WA, Australia.
+   [Ungvari, Gabor S.] Univ Western Australia, Sch Psychiat & Clin Neurosci, Crawley, WA, Australia.
+   [Gazdag, Gabor] Szent Istvan Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Szent Laszlo Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Semmelweis Univ, Fac Med, Dept Psychiat & Psychotherapy, H-1085 Budapest, Hungary.
+C3 The University of Notre Dame Australia; University of Western Australia;
+   Szent Laszlo Hospital; Semmelweis University
+RP Gazdag, G (corresponding author), Szt Istvan Hosp, Ctr Psychiat & Addict Med, Gyali Ut 17-19, H-1097 Budapest, Hungary.
+EM gazdag@lamb.hu
+RI Gazdag, Gábor/S-2158-2018; Gazdag, Gábor/ISU-9358-2023
+OI Gazdag, Gábor/0000-0002-6914-8041; Gazdag, Gábor/0000-0002-6914-8041
+NR 32
+TC 11
+Z9 11
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1562-2975
+EI 1814-1412
+J9 WORLD J BIOL PSYCHIA
+JI World J. Biol. Psychiatry
+PD JUL
+PY 2014
+VL 15
+IS 5
+BP 419
+EP 424
+DI 10.3109/15622975.2013.866692
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AM8HM
+UT WOS:000340113700009
+PM 24329398
+DA 2023-12-07
+ER
+
+PT J
+AU Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+AF Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+TI Registration of external causes of death in the Baltic States 1970-1997
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Baltic States; epidemiology; external causes of deaths; trends;
+   1970-1997
+ID ALCOHOL-CONSUMPTION; FORMER USSR; MORTALITY; PERESTROIKA; SUICIDES;
+   TRENDS
+AB Background: Trends in external causes of deaths in the Baltic States - Estonia, Latvia and Lithuania - were analysed against the background of turbulent political, social and economic changes. The reliability of mortality statistics concerning external causes of death in these countries is considered to be good. Method: This study is based on data published by the statistical offices of the three Baltic States and on data obtained through interviews with personnel employed at the national statistical offices. The study period was divided, by socio-political and economic factors, into a period of stagnation (1970-1984) and a period of reforms (1985-1997). Results: During 1970-1984 a stable slightly upward trend of external causes of death rates was observed. The curve became S-shaped in the reform period: between 1984 and 1988 a marked decrease occurred followed by a rapid increase of rates until 1994, and then by 1997 a fall to the approximate level of 1984. The male to female ratio of external causes of death was between 3.4:1 and 4.2:1. External deaths accounted for 10% to 14% of all deaths before 1984. During the period 1984-1988 the proportion of external deaths was under 10% and peaked in 1994 at 16%, Fluctuations in the trends of external death were more pronounced among males than females in all Baltic countries. Conclusion: Trends in external causes of death were similar in Baltic States. High proportions of violent death decreased life-expectancy for both sexes, but markedly for males. Social stresses and alcohol consumption could be considered as factors influencing the mortality rates and specific fluctuations in trends of external death, especially among males.
+C1 Estonian Swedish Inst Suicidol, Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, Tartu, Estonia.
+   Karolinska Inst, Natl Swedish & Stockholm Cty Ctr Suicide Res & Pr, Natl Inst Psychosocial Med, Div Publ Hlth Sci, Stockholm, Sweden.
+   Estonian Minist Social Affairs, Med Stat Bur, Tallinn, Estonia.
+C3 University of Tartu; Karolinska Institutet
+EM airiv@online.ee
+NR 31
+TC 29
+Z9 29
+U1 0
+U2 6
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD MAR
+PY 2001
+VL 11
+IS 1
+BP 84
+EP 88
+DI 10.1093/eurpub/11.1.84
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 418DZ
+UT WOS:000167876800015
+PM 11276577
+OA Bronze
+DA 2023-12-07
+ER
+
+PT J
+AU Saluvere, T
+AF Saluvere, Tiina
+TI A Peculiar Correspondence
+SO TUNA-AJALOOKULTUURI AJAKIRI
+LA Estonian
+DT Article
+AB The correspondence between Helmi Maelo (1898-1978) and Ulo Koit (1925-1996) is deposited in the Helmi and Bernhard Math) collections at the Estonian Cultural History Archives (EKLA, collection 226, m. 17:15 (Maelo to Koit) and EKLA, collection 226, m 24:11 (Koit to Melo)). Their correspondence began in 1956, meaning practically immediately after contacts became possible between Soviet Estonia and the world abroad after the CPSU 20th Congress, which is surprising since the persons involved were not at all so close to each other to restore contact at the first opportunity.
+   Helmi Maelo was a nationalist with conservative views who had been active primarily in the field of journalism in the Republic of Estonia, editing several women's and children's periodicals. She had also started her work in fictional literature. She was active in the temperance movement and supported other idealistic undertakings. She had escaped to Germany with her family in 1944 and from there onward to Sweden. She earned a living in Sweden as an office clerk at a publishing house, directing most of her energy to her own literary activity. Maelo has penned over ten novels, a number of stories for young people, several works of memoirs and numerous brochures on temperance and education. It was at her initiative that Mothers' Day started being observed in Estonia beginning in 1923.
+   Ulo Koit, who was born in the Republic of Estonia, was evacuated at the age of 16 with his mother to the rear area in the Soviet Union when the war broke out. There he studied at courses for Party employees and began his career as a KGB agent after the war upon returning to Estonia, and later as a confidant while working at the same time as the editor of the Valgamaalane newspaper (1944-1950). He served as deputy chairman of the Estonian SSR Television and Radio Committee (1950-1975). His dead body was found in September of 1996 in the Lielupe River in Latvia and to this day it is not known if it was an accident, suicide or murder. Their correspondence began when Maelo wrote to Koit's mother, whom she knew from the period of Estonian independence. Since the latter had died during the war, her son answered the letter. The correspondence continued until Helmi Maelo's death and later continued to a lesser extent between Ulo Koit and Bernhard Maelo. They exchanged information about cultural events and their personal lives, but also about politics. The correspondence gave Maelo an overview of life in her occupied homeland. Koit, on the other hand, acquired information about the moods and fears of expatriate circles and helped him gain contacts among expatriate Estonians abroad. This could help readers of the publication to understand those barriers that had arisen between Estonians in the homeland and expatriate Estonians abroad during the post-war decades, to see the different ways that contacts were established but also to see the hidden reefs in this intercommunication.
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU RAHVUSARHIV-NATL ARCH ESTONIA
+PI TALLINN
+PA TONISMAGI 16, TALLINN, 10119, ESTONIA
+SN 1406-4030
+J9 TUNA-AJALOOKULT AJAK
+JI Tuna-Ajalookultuuri Ajak.
+PY 2013
+VL 16
+IS 4
+BP 121
+EP +
+PG 4
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 281EN
+UT WOS:000329082900009
+DA 2023-12-07
+ER
+
+EF

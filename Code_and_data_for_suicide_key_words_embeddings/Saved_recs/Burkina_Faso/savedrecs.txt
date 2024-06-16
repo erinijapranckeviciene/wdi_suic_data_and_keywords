@@ -1,0 +1,140 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cange, CW
+   Wirtz, AL
+   Ky-Zerbo, O
+   Lougue, M
+   Kouanda, S
+   Baral, S
+AF Cange, Charles W.
+   Wirtz, Andrea L.
+   Ky-Zerbo, Odette
+   Lougue, Marcel
+   Kouanda, Seni
+   Baral, Stefan
+TI Effects of traumatic events on sex workers' mental health and suicide
+   intentions in Burkina Faso: a trauma-informed approach
+SO SEXUAL HEALTH
+LA English
+DT Article
+DE HIV/AIDS; mixed methods; trauma; violence
+ID VIOLENCE; RISK; IMPACT
+AB Background Data from other settings suggest that female sex workers (FSWs) are regularly exposed to violence and risks of psychological and physical trauma, although less is known about the effects of this violence. The objective of this study was to understand the experiences of violence and relationships with mental health symptomatology among FSWs. Methods: A mixed-methods design was used to explore the contexts and social perceptions of violence and mental health effects among FSW in Burkina Faso in 2013. Results: In all, 696 FSWs were recruited via respondent-driven sampling and enrolled in the study in Ouagadougou and Bobo-Dioulasso, Burkina Faso. Seventy participants were also recruited into qualitative research. Nearly two-thirds of quantitative respondents (61.7%) reported experiencing lifetime physical violence, of whom 77.4% reported experiencing violence after initiating sex work. Further, 40.9% of participants reported forced non-consensual sex, most of which occurred after they had started sex work (73.0%). In some cases, the male perpetrator used physical force to force non-consensual sex. Forced non-consensual sex was often without condoms. Among quantitative participants, 41.8% reported ever having feelings of depression; there was also a high prevalence of suicide ideation in this group. Qualitative participants also described feelings of depression, alienation, and suicide ideation. Some qualitative participants described using protective methods to avoid violence and to promote social protection among FSWs. Conclusions: The findings suggest that stigma and physical and sexual abuse are prevalent among FSWs. Within this context of sex work, lifetime experiences of physical and sexual violence were highly correlated with self-reported mental health symptoms.
+C1 [Cange, Charles W.; Wirtz, Andrea L.; Baral, Stefan] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, Ctr Publ Hlth & Human Rights, 615 N Wolfe St, Baltimore, MD 21205 USA.
+   [Cange, Charles W.] CUNY, Lehman Coll, Dept Hlth Sci, 250 Bedford Pk Blvd, New York, NY 10468 USA.
+   [Ky-Zerbo, Odette; Lougue, Marcel; Kouanda, Seni] Program Appui Monde Associatif & Communautaire, 11 BP 1023 CMS, Ouagadougou, Burkina Faso.
+C3 Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health; City University of New York (CUNY) System; Lehman College (CUNY)
+RP Cange, CW (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, Ctr Publ Hlth & Human Rights, 615 N Wolfe St, Baltimore, MD 21205 USA.; Cange, CW (corresponding author), CUNY, Lehman Coll, Dept Hlth Sci, 250 Bedford Pk Blvd, New York, NY 10468 USA.
+EM cange@uw.edu
+RI Baral, Stefan/AAG-4818-2020
+OI Baral, Stefan/0000-0002-5482-2419; Odette, Ky-Zerbo/0000-0002-0018-1580
+FU US Agency for International Development [GHH-I-00-0700032-00];
+   President's Emergency Plan for AIDS Relief; College of Arts and
+   Sciences' Dean's Office, University of Maryland, Baltimore County
+   (UMBC); Global Fund to Fight AIDS, Tuberculosis and Malaria; National
+   Council against AIDS (SP/CNLS), Burkina Faso; Johns Hopkins University
+   Center for AIDS Research; National Institutes of Health [P30AI094189]
+FX The USAID and Project SEARCH, Task Order No. 2 USAID and Project SEARCH,
+   Task Order No. 2, was funded by the US Agency for International
+   Development under Contract No. GHH-I-00-0700032-00, and supported by the
+   President's Emergency Plan for AIDS Relief. The Research to Prevention
+   Project (R2P) was led by the Johns Hopkins Center for Global Health and
+   managed by the Johns Hopkins School of Public Health's Center for
+   Communication Programs (CCP). An earlier presentation of the abstract at
+   the 2015 Annual Meeting of the American Public Health Association (APHA)
+   in Chicago, IL, USA by Charles W. Cange was supported by the College of
+   Arts and Sciences' Dean's Office, University of Maryland, Baltimore
+   County (UMBC). Additional funding was from Global Fund to Fight AIDS,
+   Tuberculosis and Malaria, and the Permanent Secretary of the National
+   Council against AIDS (SP/CNLS), Burkina Faso. Stefan Baral's effort was
+   supported, in part, by the Johns Hopkins University Center for AIDS
+   Research, and National Institutes of Health-funded program
+   (P30AI094189). The article's content is solely the responsibility of the
+   authors and does not necessarily represent the official views of the US
+   Government.
+NR 38
+TC 3
+Z9 3
+U1 1
+U2 5
+PU CSIRO PUBLISHING
+PI CLAYTON
+PA UNIPARK, BLDG 1, LEVEL 1, 195 WELLINGTON RD, LOCKED BAG 10, CLAYTON, VIC
+   3168, AUSTRALIA
+SN 1448-5028
+EI 1449-8987
+J9 SEX HEALTH
+JI Sex Health
+PY 2019
+VL 16
+IS 4
+BP 348
+EP 357
+DI 10.1071/SH17213
+PG 10
+WC Public, Environmental & Occupational Health; Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Infectious Diseases
+GA IO4AH
+UT WOS:000479321400006
+PM 31295417
+DA 2023-12-06
+ER
+
+PT J
+AU Traore, S
+   Somé, TI
+   Sanou, AL
+   Yakoro, A
+   Guissou, PI
+AF Traore, Salimata
+   Some, Touridomon Issa
+   Sanou, Assita Lamien
+   Yakoro, Alphonse
+   Guissou, Pierre Innocent
+TI Descriptive Study of Acute Poisoning Cases Admitted to Yalgado Ouedraogo
+   University Hospital in Ouagadougou, Burkina Faso
+SO INTERNATIONAL JOURNAL OF MEDICAL TOXICOLOGY AND FORENSIC MEDICINE
+LA English
+DT Article
+DE Epidemiology; Acute poisoning; Medical emergency; Ouagadougou
+AB Background: To analyze the features of the acute poisoning cases admitted to Yalgado Ouedraogo University Hospital (CHU) in Ouagadougou.
+   Methods: It is a prospective study conducted in 2014. All the poisoning cases admitted to the Medical and Paediatric Emergency services in Yalgado Ouedraogo University Hospital (CHU) in Ouagadougou since January to December 2014 were included in this study. The clinical records of poisoned patients were analysed. The data collection was done through a questionnaire.
+   Results: Acute poisoning comprised 672(5%) out of 13442 of all the admissions to the Medical and Paediatric Emergency services in Yalgado Ouedraogo University Hospital (CHU) in Ouagadougou. About 47% of the poisoned were children up to 16 years old. Also, 55% of the poisoned were female. Medicines were the major responsible factor (41%) and then household products (27%). The poisonings were mainly (70%) accidental and unintentional; and the remaining were intentional (suicide attempt). The study tools were clinical diagnosis, history taking, and physical examination. The outcomes were positive in 70% of the cases; but negative and resulting in death in 3% of cases. About 7% of those poisoned ran away during their hospitalisation and 20% were transferred to other wards for the rest of their treatment.
+   Conclusion: The study provided an inventory of the situation regarding acute poisoning in the emergency services of Yalgado Ouedraogo University Hospital in Ouagadougou.
+C1 [Traore, Salimata; Sanou, Assita Lamien] Univ Ouaga I Prof Joseph Ki Zerbo, Fac Hlth Sci, Dept Basic & Mixed Sci, Ouagadougou, Burkina Faso.
+   [Some, Touridomon Issa; Guissou, Pierre Innocent] Univ Ouaga I Prof Joseph Ki Zerbo, Fac Hlth Sci, Dept Appl Pharmaceut Sci, Ouagadougou, Burkina Faso.
+   [Yakoro, Alphonse] Natl Publ Hlth Lab, Ouagadougou, Burkina Faso.
+RP Traore, S (corresponding author), Univ Ouaga I Prof Joseph Ki Zerbo, Fac Hlth Sci, Dept Basic & Mixed Sci, Ouagadougou, Burkina Faso.
+EM salimatatra@hotmail.com
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SHAHEED BEHESHTI MEDICAL UNIV-MEDICAL SCIENCES & HEALTH SERVICES
+PI TEHRAN
+PA SHAHEED BAHONAR AVE, DARABAD, TEHRAN, 19569, IRAN
+SN 2251-8762
+EI 2251-8770
+J9 INT J MED TOX FORENS
+JI Int. J. Med. Toxicol. Forens. Med.
+PD WIN
+PY 2018
+VL 8
+IS 1
+BP 15
+EP 19
+DI 10.22037/ijmtfm.v8i1(Winter).18942
+PG 5
+WC Medicine, Legal; Toxicology
+WE Emerging Sources Citation Index (ESCI)
+SC Legal Medicine; Toxicology
+GA HP2YR
+UT WOS:000461542600004
+DA 2023-12-06
+ER
+
+EF

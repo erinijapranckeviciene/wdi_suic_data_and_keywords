@@ -1,0 +1,187 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rodriguez, C
+   Bonilla-Escobar, FJ
+   Restrepo-Lopera, C
+   Markovtsova, A
+   Medina, MT
+   Puyana, JC
+AF Rodriguez, Cristina
+   Bonilla-Escobar, Francisco J.
+   Restrepo-Lopera, Catalina
+   Markovtsova, Anastasia
+   Medina, Marco T.
+   Puyana, Juan Carlos
+TI A trauma registry experience from the main referral center of Honduras:
+   A call for action
+SO INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED
+LA English
+DT Article
+DE Public health surveillance; Honduras; Violence; Wounds and injuries;
+   Traffic accidents; Attempted suicide (source: MeSH, NLM)
+ID DEVELOPING-COUNTRIES; INJURY SURVEILLANCE; ACCIDENTS; VIOLENCE; ALCOHOL;
+   SYSTEM; CARE
+AB Background: Honduras is one of the most violent countries in the world and it has limited epidemiological data that describes the extent of intentional and unintentional injuries. This research is needed to develop and inform prevention programs in Honduras, as well as to spread international awareness.
+   Methods: A cross-sectional study was carried out on a paper-based injury surveillance system (InSS) with the help of Honduras' University Medical School Hospital (UMSH), the main referral medical center in Tegucigalpa-Honduras. Descriptive statistics and bivariate analysis were carried out using data from all registered injuries in 2013.
+   Results: Of the 17,971 injuries reported, intentional injuries made up 18.14% of all injuries. Interpersonal violence from gun violence, robberies, and physical altercations accounted for 14.68%. Self-inflicted injuries made up 3.46% of injuries, with suicide falls and poison intoxications being the most frequent (1.9% and 1.2%, respectively). Sexual harassment was minimally reported (0.27%, n = 48). Unintentional injuries made up 81.79% of the total injuries. The most common causes of unintentional injuries were falls (38.01%) and road traffic injuries (16.65%). Motorocyclists made up 35.4% of those injured by road traffic accidents. In general, injuries occured during the weekend and mainly affected men during the ages when they would be most likely to work and maintain jobs. The modified Kampala trauma score (M-KTS) showed that most of the injuries were mild (range 3-11), with 59.59% of the patients with a M-KTS of 9, and an overall mortality rate of 0.65% (n = 117).
+   Conclusion: The description of injuries provides the basis for prevention. The disproportionate number of unintentional injuries (4: 1) seen in Honduras' referral hospital calls for further research in: 1) trauma care logistics and emergency systems, 2) mortality and lethality of intentional injuries, and 3) analysis of the types of unintentional injuries. Further research is necessary to evaluate interventions and identify the socioeconomic effects of injuries in the region. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Rodriguez, Cristina] Univ Nacl Autonoma Honduras, Hosp Escuela Univ, Tegucigalpa, Honduras.
+   [Bonilla-Escobar, Francisco J.] Univ Pittsburgh, ICRE, Pittsburgh, PA 15260 USA.
+   [Bonilla-Escobar, Francisco J.; Restrepo-Lopera, Catalina; Markovtsova, Anastasia; Puyana, Juan Carlos] Univ Pittsburgh, Global Hlth, Div Trauma & Surg, Pittsburgh, PA 15260 USA.
+   [Bonilla-Escobar, Francisco J.] Univ Valle, Cisalva Inst, Cali, Colombia.
+   [Bonilla-Escobar, Francisco J.] SCISCO Fdn, Cali, Colombia.
+   [Medina, Marco T.] Univ Nacl Autonoma Honduras, Fac Ciencias Med, Tegucigalpa, Honduras.
+   [Restrepo-Lopera, Catalina] Univ CES, Radiol Dept, Medellin, Colombia.
+C3 Universidad Nacional Autonoma de Honduras; Pennsylvania Commonwealth
+   System of Higher Education (PCSHE); University of Pittsburgh;
+   Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh; Universidad del Valle; Universidad Nacional Autonoma de
+   Honduras; Universidad CES
+RP Bonilla-Escobar, FJ (corresponding author), Dept Surg, F1265,200 Lothrop St, Pittsburgh, PA 15213 USA.
+EM cristina.rodriguez@hospitalescuela.edu.hn;
+   francisco.bonilla@correounivalle.edu.co; carestrepolo@uces.edu.co;
+   anastasiamarkovtsova@gmail.com; marco.medina@unah.edu.hn;
+   puyajc@upmc.edu
+RI Bonilla-Escobar, Francisco Javier/AAK-8367-2020
+OI Bonilla-Escobar, Francisco Javier/0000-0002-0224-3482; Medina, Marco
+   Tulio/0000-0003-0469-054X
+FU FIC NIH HHS [D43 TW007560] Funding Source: Medline
+NR 32
+TC 4
+Z9 4
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0020-1383
+EI 1879-0267
+J9 INJURY
+JI Injury-Int. J. Care Inj.
+PD APR
+PY 2019
+VL 50
+IS 4
+BP 883
+EP 889
+DI 10.1016/j.injury.2019.03.022
+PG 7
+WC Critical Care Medicine; Emergency Medicine; Orthopedics; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Emergency Medicine; Orthopedics; Surgery
+GA HX6UC
+UT WOS:000467537800010
+PM 30935746
+DA 2023-12-03
+ER
+
+PT J
+AU Yacoub, S
+   Arellano, S
+   Padgett-Moncada, D
+AF Yacoub, S
+   Arellano, S
+   Padgett-Moncada, D
+TI Violence related injuries, deaths and disabilities in the capital of
+   Honduras
+SO INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED
+LA English
+DT Article
+DE violence; Tegucigalpa; Honduras; homicide; firearms; injuries; sequelae
+ID MORTALITY
+AB Background: Honduras has the second highest incidence of violence in the Americas. The aim of this study is to explore the number and mechanism of fatal injuries, non-fatal injuries and the sequelae of these injuries due to violence. This is compared with unintentional injuries, in the capital of Honduras for 2001, with a view to better-targeted prevention.
+   Methods: Data for non-fatal injuries was retrospectively obtained from medical records of all admissions from the public: Emergency Department in Tegucigalpa for 2001. Data on fatal injuries were obtained from the national forensic department. All injuries were reviewed for intention, mechanism and age group.
+   Results: There were 1631 (rate 138/1100,000) fatal injuries recorded for 2001 in Tegucigalpa. Of these, 1149 (70.4%) were clue to violence, compared to 355 (21.8%) due to unintentional injuries and 127 (7.8%) of unknown intent. Homicides accounted for 1044 (64%), suicides 105 (6.4%) and unintentional deaths 355 (22%). Firearms were the leading cause of death in the homicide group (84.3%). In addition 1592 (rate 235/ 100,000) non-fatal injuries were documented for people 15 years and above, with 1228 (77.1%) caused by violence, of which 640 (52.1%) were caused by firearms. The age group 15-24 years had the highest rates of fatal and non-fatal injuries due to violence. Twenty percent had permanent sequelae as a result of their injuries. Firearm injuries had the highest proportion of sequelae (28.8%).
+   Conclusion: Violence in Tegucigalpa is a major cause of injury resulting in substantial morbidity, mortality and disability, particularly in young individuals. Firearms are the most common form of violence related injury mechanism and carry the highest associated mortality and permanent disability. Prevention programs are urgently needed to address this devastating problem. (C) 2005 Elsevier Ltd. All rights reserved.
+C1 Cent Middlesex Hosp, Dept Accid & Emergency, London NW10 7NS, England.
+   Univ London Imperial Coll Sci Technol & Med, Royal Brompton Hosp, London SW3 6NP, England.
+   Natl Autonomous Univ Honduras, Hosp Escuela, Trop & Internal Med Dept, Tegucigalpa, Honduras.
+C3 Imperial College London; Imperial College London; Royal Brompton
+   Hospital; Universidad Nacional Autonoma de Honduras
+RP Arellano, S (corresponding author), Cent Middlesex Hosp, Dept Accid & Emergency, Acton Lane,Pk Royal, London NW10 7NS, England.
+EM sarellano@doctors.org.uk
+OI Yacoub, Sophie/0000-0002-2910-7819
+NR 19
+TC 15
+Z9 15
+U1 0
+U2 3
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0020-1383
+EI 1879-0267
+J9 INJURY
+JI Injury-Int. J. Care Inj.
+PD MAY
+PY 2006
+VL 37
+IS 5
+BP 428
+EP 434
+DI 10.1016/j.injury.2005.12.001
+PG 7
+WC Critical Care Medicine; Emergency Medicine; Orthopedics; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine; Emergency Medicine; Orthopedics; Surgery
+GA 037RH
+UT WOS:000237164100011
+PM 16494880
+DA 2023-12-03
+ER
+
+PT J
+AU Romo, ML
+   Kelvin, EA
+AF Romo, Matthew L.
+   Kelvin, Elizabeth A.
+TI Impact of bullying victimization on suicide and negative health
+   behaviors among adolescents in Latin America
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE Bullying; adolescent; suicide; tobacco; alcohol drinking; aggression;
+   sexual behavior; school health; Latin America
+ID MIDDLE-SCHOOL STUDENTS; SUBSTANCE USE; DEPRESSION; RISK; ASSOCIATION;
+   CHILDHOOD; IDEATION; MEXICO
+AB Objective. To compare the prevalence of bullying victimization, suicidal ideation, suicidal attempts, and negative health behaviors (current tobacco use, recent heavy alcohol use, truancy, involvement in physical fighting, and unprotected sexual intercourse) in five different Latin American countries and determine the association of bullying victimization with these outcomes, exploring both bullying type and frequency.
+   Methods. Study data were from Global School-based Student Health Surveys from Bolivia, Costa Rica, Honduras, Peru, and Uruguay, which covered nationally representative samples of school-going adolescents. The surveys used a two-stage clustered sample design, sampling schools and then classrooms. Logistic regression models were run to determine the statistical significance of associations with bullying.
+   Results. Among the 14 560 school-going adolescents included in this study, the prevalence of any bullying victimization in the past 30 days was 37.8%. Bullying victimization was associated with greater odds of suicidal ideation with planning (adjusted odds ratio (AOR): 3.12; P < 0.0001) and at least one suicide attempt (AOR: 3.07; P < 0.0001). An increasing exposure-response effect of increasing days of bullying victimization on suicide outcomes was also observed. Bullying victimization was associated with higher odds of current tobacco use (AOR: 2.14; P < 0.0001); truancy (AOR: 1.76; P < 0.0001); physical fighting (AOR: 2.40; P < 0.0001); and unprotected sexual intercourse (AOR: 1.77; P < 0.0001).
+   Conclusions. Although the prevalence of bullying victimization varied by country, its association with suicidal ideation and behavior and negative health behaviors remained relatively consistent. Addressing bullying needs to be made a priority in Latin America, and an integrated approach that also includes mental and physical health promotion is needed.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+EM elizabeth.kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Kelvin,
+   Elizabeth/0000-0002-0566-8697
+NR 28
+TC 36
+Z9 44
+U1 1
+U2 17
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD NOV
+PY 2016
+VL 40
+IS 5
+BP 347
+EP 355
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EJ4UT
+UT WOS:000393213100009
+PM 28076584
+DA 2023-12-03
+ER
+
+EF

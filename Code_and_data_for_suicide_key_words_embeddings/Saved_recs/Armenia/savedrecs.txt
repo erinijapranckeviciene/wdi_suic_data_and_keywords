@@ -1,0 +1,103 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vinokurov, E
+AF Vinokurov, Evgenij
+TI Among Partners The Eurasian Economic Union
+SO OSTEUROPA
+LA German
+DT Article
+AB The Eurasian Economic Union, founded in 2015, is the most important integration project in post-Soviet space. After more than two decades of disintegration and failed reintegration, Russia, Belarus, Armenia, Kazakhstan, and Kyrgyzstan now have for the first time a common market for goods and services. However, some goods are exempt and non-tariff barriers are numerous. For now, coordination of monetary and fiscal policies remains only a goal. Just as important as internal integration is the expansion of cooperation with China and the European Union as the new common market's most important partners. The creation of a "Fortress Eurasia" would be suicide.
+C1 [Vinokurov, Evgenij] Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RP Vinokurov, E (corresponding author), Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RI Vinokurov, Evgeny/F-1668-2014
+OI Vinokurov, Evgeny/0000-0002-9584-3494
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 5
+PU BWV-BERLINER WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA AXEL-SPRINGER-STR 54 A, BERLIN, D-10117, GERMANY
+SN 0030-6428
+EI 2509-3444
+J9 OSTEUROPA
+JI Osteuropa
+PY 2016
+VL 66
+IS 5
+BP 129
+EP +
+PG 13
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA DZ6RD
+UT WOS:000385988700008
+DA 2023-12-06
+ER
+
+PT J
+AU Vardanyan, KK
+   Volel, BA
+   Harutyunjan, G
+   Ghazaryan, GA
+   Hovhannesyan, AI
+   Hayrapetyan, AK
+AF Vardanyan, K. K.
+   Volel, B. A.
+   Harutyunjan, G.
+   Ghazaryan, G. A.
+   Hovhannesyan, A., I
+   Hayrapetyan, A. K.
+TI PECULIARITIES OF SPECIAL CONTINGENT'S PERSONALITY IN PENITENTIARY
+   INSTITUTIONS OF ARMENIA
+SO NEW ARMENIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE convicts; affective temperament; personality peculiarities; character
+   accentuations; penitentiary institutions; mental health
+ID AFFECTIVE TEMPERAMENTS; TEMPS-A; SUICIDE; DISORDERS
+AB Existing living conditions put forward increased demands on mental health of the person, which acquire special significance for people serving their sentence in the conditions of criminal and reform institutions. The study aimed to describe present subclinical manifestations of affective disorders, their prevalence and structure among the special contingent of penal institutions of Armenia.
+   The data analysis of investigating personality peculiarities of the special contingent has shown that in the general structure of the revealed types of affective temperaments (910) the hyperthymic type (291) had a significant prevalence with the specific weight of 32.0%, then comes dysphoric - 23.4% (213), cyclothymic - 17.7% (161), irritable - 14.4% (131) and eventually the anxious type - 12.6% (113). In the overwhelming majority of the investigated contingent on the whole by the selection this or that accentuation was determined in 87.03% (436) cases. The level of occurrence frequency of people with affective temperament among male and female contingent was 86.17% (355) and 88.73% (63) correspondingly and among the teenagers - 100.00% (18).
+   The results obtained during the investigation can promote creating a methodological base directed to the personality harmonization, alleviating the destructive influence of the penal institutions environment, as well as improving the quality of the medical service in the penitentiary system. The determination of the most expressed types of the affective temperament among the special contingent will allow to make a prognosis of their further behavior in conditions of criminal-executive institutions of Republic of Armenia.
+C1 [Vardanyan, K. K.] Yerevan State Med Univ, Dept Hyg & Ecol, Yerevan, Armenia.
+   [Volel, B. A.] IM Sechenov First Moscow State Med Univ, Dept Psychiat & Psychosomat, Moscow, Russia.
+   [Harutyunjan, G.] Paracelsus Med Univ, Dept Neurol, Salzburg, Austria.
+   [Ghazaryan, G. A.] Yerevan State Med Univ, Dept Med Psychol, Yerevan, Armenia.
+   [Hovhannesyan, A., I] Minist Justice Penitentiary Serv Republ Armenia, Dept Med Provis, Yerevan, Armenia.
+   [Hayrapetyan, A. K.] Yerevan State Med Univ, Dept Publ Hlth, Yerevan, Armenia.
+C3 Yerevan State Medical University; Sechenov First Moscow State Medical
+   University; Paracelsus Private Medical University; Yerevan State Medical
+   University; Yerevan State Medical University
+RP Vardanyan, KK (corresponding author), Yerevan State Med Univ M Heratsi, 2 Koryn St, Yerevan 0025, Armenia.
+EM green@ysmu.am
+RI Vardanyan, Kristina/W-9265-2019; Vardanyan, Kristina/X-9312-2019
+OI Vardanyan, Kristina/0000-0002-7970-9631
+NR 19
+TC 1
+Z9 1
+U1 0
+U2 3
+PU YEREVAN STATE MEDICAL UNIV
+PI YEREVAN
+PA 2 KORYUN ST, YEREVAN, 0025, ARMENIA
+SN 1829-0825
+J9 NEW ARMEN MED J
+JI New Armen. Med. J.
+PY 2018
+VL 12
+IS 1
+BP 34
+EP 42
+PG 9
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA GG5SR
+UT WOS:000432756500004
+DA 2023-12-06
+ER
+
+EF

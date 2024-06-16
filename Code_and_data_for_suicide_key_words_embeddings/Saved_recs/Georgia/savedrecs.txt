@@ -1,0 +1,1932 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Annor, FB
+   Bayakly, RA
+   Morrison, RA
+   Bryan, MJ
+   Gilbert, LK
+   Ivey-Stephenson, AZ
+   Holland, KM
+   Simon, TR
+AF Annor, Francis B.
+   Bayakly, Rana A.
+   Morrison, Reynolds A.
+   Bryan, Michael J.
+   Gilbert, Leah K.
+   Ivey-Stephenson, Asha Z.
+   Holland, Kristin M.
+   Simon, Thomas R.
+TI Suicide Among Persons With Dementia, Georgia, 2013 to 2016
+SO JOURNAL OF GERIATRIC PSYCHIATRY AND NEUROLOGY
+LA English
+DT Article
+DE dementia; suicide; Alzheimer's disease; depression
+ID DIAGNOSIS; RISK; PREDICTORS; NATIONWIDE; DISORDERS; BEHAVIOR; IDEATION
+AB Introduction: Findings from studies examining the relationship between dementia and suicide have been inconsistent. This study examined the characteristics, precipitants, and risk factors for suicide among persons with dementia. Methods: Data from the Georgia Alzheimer's Disease and Related Dementia registry were linked with 2013 to 2016 data from Georgia Vital Records and Georgia Violent Death Reporting System. Descriptive statistics were calculated and logistic regression was used to examine risk factors for suicide. Results: Ninety-one Georgia residents with dementia who died by suicide were identified. Among decedents with known circumstances, common precipitants included depressed mood (38.7%) and physical health problems (72.6%). Suicide rate among persons with dementia was 9.3 per 100 000 person-years overall and substantially higher among those diagnosed in the past 12 months (424.5/100 000 person-years). Being male, dementia diagnosis before age 65, and a recent diagnosis of dementia independently predicted suicide, but not depression or cardiovascular diseases. Conclusion: Prevention strategies that identify at-risk individuals, provide support, and ensure continuity of care for persons diagnosed with dementia may help reduce suicide in this population.
+C1 [Annor, Francis B.] Ctr Dis Control & Prevent, Epidem Intelligence Serv, Atlanta, GA USA.
+   [Annor, Francis B.; Gilbert, Leah K.; Ivey-Stephenson, Asha Z.; Holland, Kristin M.; Simon, Thomas R.] Ctr Dis Control & Prevent, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA USA.
+   [Bayakly, Rana A.; Morrison, Reynolds A.; Bryan, Michael J.] Georgia Dept Publ Hlth, Atlanta, GA USA.
+C3 Centers for Disease Control & Prevention - USA; Centers for Disease
+   Control & Prevention - USA
+RP Annor, FB (corresponding author), Ctr Dis Control & Prevent, Div Violence Prevent, 4770 Buford Hwy NE,MS F-64, Atlanta, GA 30341 USA.
+EM fannor@cdc.gov
+RI Gilbert, Leah K./ABG-8942-2020
+FU Intramural CDC HHS [CC999999] Funding Source: Medline
+NR 45
+TC 14
+Z9 14
+U1 1
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0891-9887
+EI 1552-5708
+J9 J GERIATR PSYCH NEUR
+JI J. Geriatr. Psychiatry Neurol.
+PD JAN
+PY 2019
+VL 32
+IS 1
+BP 31
+EP 39
+DI 10.1177/0891988718814363
+PG 9
+WC Geriatrics & Gerontology; Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Geriatrics & Gerontology; Neurosciences & Neurology; Psychiatry
+GA HH6MM
+UT WOS:000455845500004
+PM 30477384
+OA Green Accepted, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Reedy, SJD
+   Schwartz, MD
+   Chang, AS
+   Morgan, BW
+AF Reedy, S. J. D.
+   Schwartz, M. D.
+   Chang, A. S.
+   Morgan, B. W.
+TI Georgia Awash in "Detergent Suicides": A Case Series of Hydrogen Sulfide
+   Suicides
+SO CLINICAL TOXICOLOGY
+LA English
+DT Meeting Abstract
+C1 [Reedy, S. J. D.; Chang, A. S.] Emory Univ, Atlanta, GA 30322 USA.
+   [Schwartz, M. D.; Morgan, B. W.] Georgia Poison Ctr, Atlanta, GA USA.
+C3 Emory University
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU INFORMA HEALTHCARE
+PI NEW YORK
+PA 52 VANDERBILT AVE, NEW YORK, NY 10017 USA
+SN 1556-3650
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD JUL
+PY 2010
+VL 48
+IS 6
+MA 28
+BP 610
+EP 610
+PG 1
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 671HY
+UT WOS:000283492900048
+DA 2023-12-06
+ER
+
+PT J
+AU Lavender, A
+   Ramirez-Irizarry, V
+   Bayakly, AR
+   Koplan, C
+   Bryan, JM
+AF Lavender, Antionette
+   Ramirez-Irizarry, Viani
+   Bayakly, A. Rana
+   Koplan, Carol
+   Bryan, J. Michael
+TI Violent Deaths Among Georgia Workers An Examination of Suicides and
+   Homicides by Occupation, 2006-2009
+SO AMERICAN JOURNAL OF PREVENTIVE MEDICINE
+LA English
+DT Article
+ID PREVENTION; WORKPLACE; INJURIES; HEALTH
+AB Introduction: Workers in certain occupations may be at an increased risk of a violent-related death such as homicide or suicide. The purpose of this study is to describe rates of violent deaths among Georgia workers by occupation, including cases occurring at work and outside of the workplace, and identify leading circumstances surrounding suicides and homicides for the occupations most at risk.
+   Methods: Data from the 2006-2009 Georgia Violent Death Reporting System were used. Occupational text fields were recoded into 23 major occupation categories based on the 2010 Standard Occupational Classification system. Crude rates and standardized mortality ratios for violent deaths (suicides and homicides) were calculated by occupation among Georgia workers aged >= 16 years. The leading circumstances precipitating violent deaths among the high-risk occupations were described. Analyses were conducted during 2012-2013 and 2015.
+   Results: A total of 4,616 Georgia resident workers were victims of a violent death during 2006-2009. Of these deaths, 2,888 (62.6%) were suicides and 1,728 (37.4%) were homicides. Farming, fishing, and forestry occupations had the highest rate of violent deaths at 80.5 per 100,000 workers followed by construction and extraction occupations at 65.5 per 100,000. The most common suicide circumstances among workers were having a current depressed mood, a current mental health problem, and an intimate partner problem.
+   Conclusions: Use of the Violent Death Reporting System provides a unique opportunity to explore violent deaths among workers. This analysis shows the need to ensure that workers have access to workplace and community-based suicide and violence prevention services. (C) 2016 American Journal of Preventive Medicine. Published by Elsevier Inc.
+C1 [Lavender, Antionette; Ramirez-Irizarry, Viani; Bayakly, A. Rana; Bryan, J. Michael] Georgia Dept Publ Hlth, Div Hlth Protect, Program Epidemiol, Atlanta, GA USA.
+   [Koplan, Carol] Emory Univ, Rollins Sch Publ Hlth, Dept Behav Sci & Hlth Educ, Atlanta, GA 30322 USA.
+C3 Emory University; Rollins School Public Health
+RP Lavender, A (corresponding author), Georgia Dept Publ Hlth, Div Hlth Protect, 2 Peachtree St NW,14th Floor, Atlanta, GA 30303 USA.
+EM antionette.lavender@dph.ga.gov
+OI Picchetti, Viani/0000-0002-8994-6542
+FU Centers for Disease Control and Prevention; National Center for Injury
+   Prevention and Control [2U17CE423100]; National Institute for
+   Occupational Safety and Health of the Centers for Disease Control and
+   Prevention [5V600H00-9870]
+FX Publication of this article was supported by the Centers for Disease
+   Control and Prevention. The findings and conclusions in this article are
+   those of the author(s) and do not necessarily represent the official
+   position of the Centers for Disease Control and Prevention, the Georgia
+   Deparment of Public Health, or Emory University.; This research was
+   supported in part by cooperative agreements from the National Center for
+   Injury Prevention and Control (2U17CE423100) and the National Institute
+   for Occupational Safety and Health (5V600H00-9870) of the Centers for
+   Disease Control and Prevention. No review was required by IRB because
+   the analysis was conducted on existing data collected by other agencies
+   and did not include any personal identifiers.
+NR 32
+TC 6
+Z9 6
+U1 1
+U2 9
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0749-3797
+EI 1873-2607
+J9 AM J PREV MED
+JI Am. J. Prev. Med.
+PD NOV
+PY 2016
+VL 51
+IS 5
+SU 3
+BP S241
+EP S250
+DI 10.1016/j.amepre.2016.07.025
+PG 10
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA EA7CB
+UT WOS:000386784600009
+PM 27745613
+OA hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Abe, K
+   Mertz, KJ
+   Powell, KE
+   Hanzlick, RL
+AF Abe, Karon
+   Mertz, Kristen J.
+   Powell, Kenneth E.
+   Hanzlick, Randy L.
+TI Characteristics of Black and White suicide decedents in Fulton County,
+   Georgia, 1988-2002
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID AFRICAN-AMERICAN SUICIDE; NATIONAL-COMORBIDITY-SURVEY; YOUTH SUICIDE;
+   RISK-FACTORS; UNITED-STATES; TRENDS; GENDER; DEPRESSION; PREVALENCE;
+   PATTERNS
+AB Objectives. We compared the prevalence of risk factors for Black and White suicide decedents in Fulton County, Georgia, from 1988-2002.
+   Methods. We used data from the Fulton County Medical Examiner's Office to compile information on suicides that occurred in Fulton County between 1988 and 2002. We used the chi(2) test and logistic regression to identify associations between suicide risk factors and race.
+   Results. Black suicide decedents were more likely than White suicide decedents to be male (odds ratio [OR] = 2.06; 95% confidence interval [CI] = 1.38, 3.09), to be younger, (<= 24 y [OR=4.74; 95% CI=2.88, 7.81]; 25-34 y [OR=2.79; 95% CI = 1.74, 4.471; 35-44 y [OR 1.86; 95% CI = 1.13, 3.071), and to hurt others in a suicide (OR = 4.22; 95% CI 1.60, 11.15) but less likely to report depression (OR=0.63; 95% CI = 0.48, 0.83), to have a family history of suicide (OR=0.08; 95% CI = 0.01, 0.61), or to leave a suicide note (OR=0.37; 95% CI =0.26, 0.52).
+   Conclusions. Future research should consider that Black suicide decedents are less likely to report depression than White suicide decedents. This suicide risk difference is important when developing effective suicide prevention programs.
+C1 Georgia Dept Human Resources, Div Publ Hlth, Atlanta, GA USA.
+   Fulton Cty Med Examiners Off, Atlanta, GA USA.
+RP Abe, K (corresponding author), Ctr Dis Control & Prevent, 4770 Buford Hwy,Mail Stop K-23, Atlanta, GA 30341 USA.
+EM kabe@cdc.gov
+NR 36
+TC 11
+Z9 11
+U1 0
+U2 1
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 800 I STREET, NW, WASHINGTON, DC 20001-3710 USA
+SN 0090-0036
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PD OCT
+PY 2006
+VL 96
+IS 10
+BP 1794
+EP 1798
+DI 10.2105/AJPH.2005.082131
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 089OX
+UT WOS:000240891200021
+PM 17008575
+OA Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Abe, K
+   Mertz, KJ
+   Powell, KE
+   Hanzlick, RL
+AF Abe, Karon
+   Mertz, Kristen J.
+   Powell, Kenneth E.
+   Hanzlick, Randy L.
+TI Characteristics of Black and White suicide decedents in Fulton County,
+   Georgia, 1988-2002 (Reprinted from Am J Public Health, vol 96, pg
+   1794-1798, 2006)
+SO AMERICAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Reprint
+ID AFRICAN-AMERICAN SUICIDE; RISK-FACTORS; YOUTH SUICIDE; UNITED-STATES;
+   GENDER; TRENDS; DEPRESSION; PREVALENCE; PATTERNS; AGE
+AB Objectives. We compared the prevalence of risk factors for Black and White suicide decedents in Fulton County, Georgia, from 1988-2002.
+   Methods. We used data from the Fulton County Medical Examiner's Office to compile information on suicides that occurred in Fulton County between 1988 and 2002. We used the X2 test and logistic regression to identify associations between suicide risk factors and race.
+   Results. Black suicide decedents were more likely than White suicide decedents to be male (odds ratio [OR]=2.06; 95% confidence interval [Cl] = 1.38, 3.09), to be younger, (! 24 y [OR = 4.74; 95% Cl = 2.88, 7.811; 25-34 y [OR = 2.79; 95% CI = 1.74, 4.471; 35-44 y [OR = 1.86; 95% Cl = 1. 13, 3.071), and to hurt others in a suicide (OR = 4.22; 95% Cl = 1.60, 11.15) but less likely to report depression (OR = 0.63; 95% Cl = 0.413, 0.83), to have a family history of suicide (OR =0.08; 95% C1 = 0.01, 0.61), or to le3ve a suicide note (OR = 0.37; 95% C1 = 0.26, 0.52).
+   Conclusions. Future research should consider that Black suicide decedents are less likely to report depression than White suicide decedents. This suicide risk difference is important when developing effective suicide prevention programs.
+C1 [Abe, Karon; Mertz, Kristen J.; Powell, Kenneth E.] Georgia Dept Human Resources, Div Publ Hlth, Atlanta, GA USA.
+   [Hanzlick, Randy L.] Fulton Cty Med Examiners Off, Atlanta, GA USA.
+RP Abe, K (corresponding author), Ctr Dis Control & Prevent, 4770 Buford Hwy,Mail Stop K-23, Atlanta, GA 30341 USA.
+EM kabe@cdc.gov
+NR 37
+TC 7
+Z9 7
+U1 0
+U2 1
+PU AMER PUBLIC HEALTH ASSOC INC
+PI WASHINGTON
+PA 800 I STREET, NW, WASHINGTON, DC 20001-3710 USA
+SN 0090-0036
+EI 1541-0048
+J9 AM J PUBLIC HEALTH
+JI Am. J. Public Health
+PY 2008
+VL 98
+SU 1
+BP S132
+EP S136
+DI 10.2105/AJPH.98.Supplement_1.S132
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 338AH
+UT WOS:000258476600032
+PM 18687597
+OA Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Swahn, MH
+   Bossarte, RM
+   Ashby, JS
+   Meyers, J
+AF Swahn, Monica H.
+   Bossarte, Robert M.
+   Ashby, Jeffrey S.
+   Meyers, Joel
+TI Pre-teen alcohol use initiation and suicide attempts among middle and
+   high school students: Findings from the 2006 Georgia Student Health
+   Survey
+SO ADDICTIVE BEHAVIORS
+LA English
+DT Article
+DE Alcohol initiation; Alcohol use; Suicide attempts; Alcohol attitudes and
+   alcohol education
+ID UNINTENTIONAL INJURY; ADOLESCENT SUICIDE; RISK BEHAVIOR; SUBSTANCE USE;
+   DRINKING; AGE; CONSUMPTION; ONSET; PEER; INTERVENTIONS
+AB Early alcohol use initiation has been linked to suicide attempts among youth. However, very little is known about the potential impact of alcohol-related norms and beliefs and how these may impact the association between alcohol use and suicide attempt. This study examines the associations between early alcohol use and suicide attempts while controlling for demographic characteristics, and alcohol-related beliefs and norms (e.g., believing alcohol causes harm to health or that adults or friends disapprove of alcohol use) and potential confounders. Analyses were based on the 2006 Georgia Student Health Survey (N = 175,311) of students in grades 6, 8, 10 and 12. The current analyses were limited to students in grades 8, 10 and 12, who either began drinking prior to age 13 or who were non drinkers (n = 87,349). Pre-teen alcohol use initiation was associated with suicide attempts (Adj.OR = 1.51; 95%CI:1.38-1.66) relative to not drinking with similar associations for boys (Adj.OR = 1.72; 95%CI:1.52-1.94) and girls (Adj.OR = 1.26; 95%CI:1.08-1.45). Students who believed that alcohol was harmful to their health, or that friends or adults disapproved of their alcohol use, or who had been taught about substance use in school were less likely to make a suicide attempt, although findings differed for boys and girls. Pre-teen alcohol use initiation is an important risk factor for suicide attempts among boys and girls in Georgia. Increased efforts to delay and reduce early alcohol use through clinical interventions, education, and policies that impact norms and knowledge related to alcohol use are needed and may in turn reduce suicide attempts. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Swahn, Monica H.] Georgia State Univ, Inst Publ Hlth, Atlanta, GA 30302 USA.
+   [Bossarte, Robert M.] Univ Rochester, Dept Psychiat, Rochester, NY 14627 USA.
+   [Ashby, Jeffrey S.; Meyers, Joel] Georgia State Univ, Counseling Serv, Atlanta, GA 30302 USA.
+   [Ashby, Jeffrey S.; Meyers, Joel] Georgia State Univ, Psychol Serv, Atlanta, GA 30302 USA.
+C3 University System of Georgia; Georgia State University; University of
+   Rochester; University System of Georgia; Georgia State University;
+   University System of Georgia; Georgia State University
+RP Swahn, MH (corresponding author), Georgia State Univ, Inst Publ Hlth, POB 3995, Atlanta, GA 30302 USA.
+EM MSwahn@gsu.edu
+RI Swahn, Monica H/A-7545-2009; Bossarte, Robert/AAF-8571-2019; Bossarte,
+   Robert/GYA-1648-2022
+OI Swahn, Monica H/0000-0002-6663-3885; 
+FU Georgia Department of Education
+FX The Georgia Department of Education provided funding for the
+   implementation of the study. They collected the data and contracted with
+   Georgia State University's Center for Research on School Safety, School
+   Climate and Classroom Management to analyze the data. The funding agency
+   had no involvement in data analyses, interpretation of data, or the
+   preparation of this manuscript. In addition, the funding agency had no
+   role in the decision to submit the manuscript to this journal.
+NR 47
+TC 41
+Z9 49
+U1 0
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0306-4603
+EI 1873-6327
+J9 ADDICT BEHAV
+JI Addict. Behav.
+PD MAY
+PY 2010
+VL 35
+IS 5
+BP 452
+EP 458
+DI 10.1016/j.addbeh.2009.12.017
+PG 7
+WC Psychology, Clinical; Substance Abuse
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Substance Abuse
+GA 576BG
+UT WOS:000276118000012
+PM 20089362
+DA 2023-12-06
+ER
+
+PT J
+AU Sharashidze, M
+   Naneishvili, G
+   Silagadze, T
+   Begiashvili, A
+   Sulaberidze, B
+   Beria, Z
+AF Sharashidze, M
+   Naneishvili, G
+   Silagadze, T
+   Begiashvili, A
+   Sulaberidze, B
+   Beria, Z
+TI Georgia mental health country profile
+SO INTERNATIONAL REVIEW OF PSYCHIATRY
+LA English
+DT Article
+AB This article is on the mental health of the population of Georgia describing context and mental health needs, extrinsic and intrinsic influences on mental health in the country, and health and social services for people with mental health problems and mental illnesses. The mental health profile of Georgia has been compiled with the help of an instrument developed by the International Consortium on Mental Health. Georgia is one of the former republics of the USSR with a population of about 4.5 million people. Political, social and economic changes have led to wide scale social stress in Georgia in recent years and to related psychosocial and behavioural problems. Difficult economic conditions and internal displacement are thought to be key contributory factors to the three-fold increase in suicide experienced during the decade following independence. Georgia has produced a written mental health policy. However, its implementation is hampered by the lack of resources, training and community awareness. The Government has passed a Mental Health Act, but this is also ineffective at present due to a lack of staff, financing and appropriate facilities.
+C1 Georgian Assoc Mental Hlth, Inst Psychiat, GE-380077 Tbilisi, Georgia.
+   Tbilisi State Univ, Dept Psychiat & Med Psychol, GE-380086 Tbilisi, Georgia.
+   Psychosocial Rehabil Ctr, Tbilisi, Georgia.
+C3 Ivane Javakhishvili Tbilisi State University
+RP Sharashidze, M (corresponding author), Georgian Assoc Mental Hlth, Inst Psychiat, 10 Asatiani St, GE-380077 Tbilisi, Georgia.
+EM mental@gamh.org.ge
+NR 14
+TC 10
+Z9 10
+U1 0
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0954-0261
+EI 1369-1627
+J9 INT REV PSYCHIATR
+JI Int. Rev. Psych.
+PD FEB-MAY
+PY 2004
+VL 16
+IS 1-2
+BP 107
+EP 116
+DI 10.1080/09540260310001635159
+PG 10
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 804KB
+UT WOS:000220296500011
+PM 15276943
+DA 2023-12-06
+ER
+
+PT J
+AU Price, JH
+   Khubchandani, J
+AF Price, James H.
+   Khubchandani, Jagdish
+TI The Changing Characteristics of African-American Adolescent Suicides,
+   2001-2017
+SO JOURNAL OF COMMUNITY HEALTH
+LA English
+DT Article
+DE Suicide; Violence; African-American; Injury; Firearms
+ID RISK BEHAVIOR SURVEILLANCE; HOUSEHOLD FIREARM OWNERSHIP; UNITED-STATES;
+   LIFETIME PREVALENCE; MENTAL-DISORDERS; RATES; INTERVENTIONS; PREDICTORS;
+   12-MONTH; TRENDS
+AB African-American (AA) adolescents (13-19 years of age) have disproportionately higher rates of suicide. In this study, to explore the nature of suicidal deaths and suicide attempts in African- American adolescents, we utilized the Youth Risk Behavior Surveys (YRBS) and the Web-Based Injury Statistics Query and Reporting System (WISQARS) database from years 2001 to 2017. The rate of AA male suicides increased by 60% and for AA females increased by 182% from 2001 to 2017. Suicides were the second leading cause of death for AA adolescents. Additionally, in 2017 alone, 68,528 AA males and 94,760 AA females made suicide attempts serious enough that they had to be treated by health professionals. Males were most likely to use firearms (52%) or to hang/suffocate themselves (34%) to commit suicide. Females used hanging/suffocation (56%) or firearms (21%) to commit suicides. The ten states with the greatest number of AA adolescent suicides (2015-2017) were: Georgia, Texas, Florida, North Carolina, Ohio, Illinois, Michigan, Pennsylvania, New York, and Missouri. There is an urgent need to further explore the changing nature and epidemiology of AA adolescent suicides and to study for whom and under what circumstances interventions can reduce suicides and suicidal behaviors in AA adolescents.
+C1 [Price, James H.] Univ Toledo, Publ Hlth, 2801 W Bancroft St, Toledo, OH 43606 USA.
+   [Khubchandani, Jagdish] Ball State Univ, Muncie, IN 47306 USA.
+C3 University System of Ohio; University of Toledo; Ball State University
+RP Price, JH (corresponding author), Univ Toledo, Publ Hlth, 2801 W Bancroft St, Toledo, OH 43606 USA.
+EM jprice@utnet.utoledo.edu
+RI Khubchandani, Jagdish/D-1831-2014
+OI Khubchandani, Jagdish/0000-0002-9058-4278
+NR 68
+TC 59
+Z9 77
+U1 3
+U2 15
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0094-5145
+EI 1573-3610
+J9 J COMMUN HEALTH
+JI J. Community Health
+PD AUG
+PY 2019
+VL 44
+IS 4
+BP 756
+EP 763
+DI 10.1007/s10900-019-00678-x
+PG 8
+WC Health Policy & Services; Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA IH5YK
+UT WOS:000474569200016
+PM 31102116
+DA 2023-12-06
+ER
+
+PT J
+AU Hourani, LL
+   Davidson, L
+   Clinton-Sherrod, M
+   Patel, N
+   Marshall, M
+   Crosby, AE
+AF Hourani, Laurel L.
+   Davidson, Lucy
+   Clinton-Sherrod, Monique
+   Patel, Nita
+   Marshall, Maureen
+   Crosby, Alex E.
+TI Suicide prevention and community-level indictors
+SO EVALUATION AND PROGRAM PLANNING
+LA English
+DT Article
+DE suicide rates; suicide prevention; social indicators; community;
+   evaluation; needs assessment
+ID MENTAL-HEALTH-SERVICES; SOCIAL-INDICATORS; NEEDS; STATES; RATES;
+   UNEMPLOYMENT; POLICY; RISK
+AB This study sought to develop a set of easily obtainable, relevant measures of a community's condition that could be used to guide its suicide prevention efforts. Existing data were gathered across 159 Georgia counties for nine potential social indicators (rates of net migration, divorce, unemployment, violent crimes reported, driving under the influence of alcohol or drugs [DUI] crashes, high school dropouts, Temporary Assistance for Needy Families [TANF], percentage of population aged 65 or older, and percentage of population who are white males) that had been chosen by the communities. Data on the social indicators from 1995 through 1999 were averaged and analyzed to determine their correlation with aggregated 5-year county suicide rates. Results of multivariate modeling procedures showed number of DUI crashes and percentage of the population aged 65 or older to be significant correlates of the suicide rate, controlling for other potential indicators. These preliminary data may provide a useful model of a county's 5-year suicide rate among counties reporting 20 or more suicides. Research with additional indicators and in other states will help determine the generalizability of these findings to other communities. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 RTI Int, Dept Hlth Social & Econ Res, Res Triangle Pk, NC 27709 USA.
+   Task Force Child Survival & Dev, Decatur, GA 30030 USA.
+   Natl Ctr Injury Prevent & Control, Ctr Dis Control & Prevent, Atlanta, GA 30341 USA.
+C3 Research Triangle Institute; Centers for Disease Control & Prevention -
+   USA
+RP Hourani, LL (corresponding author), RTI Int, Dept Hlth Social & Econ Res, 3040 Cornwallis Rd, Res Triangle Pk, NC 27709 USA.
+EM hourani@rti.org
+NR 45
+TC 3
+Z9 4
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0149-7189
+EI 1873-7870
+J9 EVAL PROGRAM PLANN
+JI Eval. Program Plan.
+PD NOV
+PY 2006
+VL 29
+IS 4
+BP 377
+EP 385
+DI 10.1016/j.evalprogplan.2006.08.001
+PG 9
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA 114VV
+UT WOS:000242694600005
+PM 17950865
+DA 2023-12-06
+ER
+
+PT J
+AU Ellis, BH
+   Lankau, EW
+   Ao, T
+   Benson, MA
+   Miller, AB
+   Shetty, S
+   Cardozo, BL
+   Geltman, PL
+   Cochran, J
+AF Ellis, B. Heidi
+   Lankau, Emily W.
+   Trong Ao
+   Benson, Molly A.
+   Miller, Alisa B.
+   Shetty, Sharmila
+   Cardozo, Barbara Lopes
+   Geltman, Paul L.
+   Cochran, Jennifer
+TI Understanding Bhutanese Refugee Suicide Through the
+   Interpersonal-Psychological Theory of Suicidal Behavior
+SO AMERICAN JOURNAL OF ORTHOPSYCHIATRY
+LA English
+DT Article
+DE refugee; suicide; Bhutanese
+ID HOPKINS SYMPTOM CHECKLIST-25; MENTAL-HEALTH; PERCEIVED BURDENSOMENESS;
+   PSYCHIATRIC-SYMPTOMS; TRAUMATIC EVENTS; IDEATION; TORTURE; ASSOCIATION;
+   DISTRESS; STRESS
+AB Attention has been drawn to high rates of suicide among refugees after resettlement and in particular among the Bhutanese refugees. This study sought to understand the apparent high rates of suicide among resettled Bhutanese refugees in the context of the Interpersonal-Psychological Theory of Suicidal Behavior (IPTS). Expanding on a larger investigation of suicide in a randomly selected sample of Bhutanese men and women resettled in Arizona, Georgia, New York, and Texas (Ao et al., 2012), the current study focused on 2 factors, thwarted belongingness and perceived burdensomeness, examined individual and postmigration variables associated with these factors, and explored how they differed by gender. Overall, factors such as poor health were associated with perceived burdensomeness and thwarted belongingness. For men, stressors related to employment and providing for their families were related to feeling burdensome and/or alienated from family and friends, whereas for women, stressors such as illiteracy, family conflict, and being separated from family members were more associated. IPTS holds promise in understanding suicide in the resettled Bhutanese community.
+C1 [Ellis, B. Heidi; Benson, Molly A.; Miller, Alisa B.] Boston Childrens Hosp, Boston, MA 02115 USA.
+   [Ellis, B. Heidi; Benson, Molly A.; Miller, Alisa B.] Harvard Univ, Sch Med, Dept Psychiat, Cambridge, MA 02138 USA.
+   [Lankau, Emily W.] Ctr Dis Control & Prevent, Div Global Migrat & Quarantine, Atlanta, GA USA.
+   [Trong Ao] Ctr Dis Control & Prevent, Global Dis Detect Branch, Atlanta, GA USA.
+   [Shetty, Sharmila] Ctr Dis Control & Prevent, Immigrant Refugee & Migrant Hlth Branch, Atlanta, GA USA.
+   [Cardozo, Barbara Lopes] Ctr Dis Control & Prevent, Emergency Response & Recovery Branch, Ctr Global Hlth, Atlanta, GA USA.
+   [Geltman, Paul L.] Massachusetts Dept Publ Hlth, Div Global Populat & Infect Dis Prevent, Jamaica Plain, MA USA.
+   [Geltman, Paul L.] Harvard Univ, Sch Med, Dept Pediat, Cambridge, MA 02138 USA.
+   [Cochran, Jennifer] Massachusetts Dept Publ Hlth, Div Global Populat & Infect Dis Prevent, Bur Infect Dis, Jamaica Plain, MA USA.
+C3 Harvard University; Boston Children's Hospital; Harvard University;
+   Centers for Disease Control & Prevention - USA; Centers for Disease
+   Control & Prevention - USA; Centers for Disease Control & Prevention -
+   USA; Centers for Disease Control & Prevention - USA; Massachusetts
+   Department of Public Health; Harvard University; Massachusetts
+   Department of Public Health
+RP Ellis, BH (corresponding author), Boston Childrens Hosp, Dept Psychiat, 21 Autumn St,1st Floor, Boston, MA 02115 USA.
+EM heidi.ellis@childrens.harvard.edu
+OI Geltman, Paul/0000-0002-9704-7782; Lankau, Emily/0000-0002-7094-7780
+FU Refugee Health Technical Assistance Center - Office of Refugee
+   Resettlement; Centers for Disease Control and Prevention
+FX This research was supported by the Refugee Health Technical Assistance
+   Center (funded by Office of Refugee Resettlement) and the Centers for
+   Disease Control and Prevention. We thank our Bhutanese colleagues, Radha
+   Adhikari, Tej Mishra, and Luna Mulder, for their thoughtful review of
+   this article and their invaluable contributions to the interpretation of
+   the study's findings and Laura Vonnahme, for her help with data
+   analysis.
+NR 54
+TC 32
+Z9 43
+U1 4
+U2 24
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 0002-9432
+EI 1939-0025
+J9 AM J ORTHOPSYCHIAT
+JI Am. J. Orthopsychiatr.
+PD JAN
+PY 2015
+VL 85
+IS 1
+BP 43
+EP 55
+DI 10.1037/ort0000028
+PG 13
+WC Psychiatry; Social Work
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry; Social Work
+GA CA7CS
+UT WOS:000349075600006
+PM 25642653
+OA Bronze, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Aseltine, RH
+   James, A
+   Schilling, EA
+   Glanovsky, J
+AF Aseltine, Robert H., Jr.
+   James, Amy
+   Schilling, Elizabeth A.
+   Glanovsky, Jaime
+TI Evaluating the SOS suicide prevention program: a replication and
+   extension
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID DIAGNOSES
+AB Background: Suicide is a leading cause of death for children and youth in the United States. Although school based programs have been the principal vehicle for youth suicide prevention efforts for over two decades, few have been systematically evaluated. This study examined the effectiveness of the Signs of Suicide (SOS) prevention program in reducing suicidal behavior.
+   Methods: 4133 students in 9 high schools in Columbus, Georgia, western Massachusetts, and Hartford, Connecticut were randomly assigned to intervention and control groups during the 2001-02 and 2002-03 school years. Self-administered questionnaires were completed by students in both groups approximately 3 months after program implementation.
+   Results: Significantly lower rates of suicide attempts and greater knowledge and more adaptive attitudes about depression and suicide were observed among students in the intervention group. Students' race/ethnicity, grade, and gender did not alter the impact of the intervention on any of the outcomes assessed in this analysis.
+   Conclusion: This study has confirmed preliminary analysis of Year 1 data with a larger and more racially and socio-economically diverse sample. SOS continues to be the only universal school-based suicide prevention program to demonstrate significant effects of self-reported suicide attempts in a study utilizing a randomized experimental design. Moreover, the beneficial effects of SOS were observed among high school-aged youth from diverse racial/ethnic backgrounds, highlighting the program's utility as a universal prevention program.
+   Trial registration: clinicaltrials. gov NCT000387855.
+C1 Univ Connecticut, Ctr Hlth, Div Biomed Sci & Community Hlth, E Hartford, CT 06108 USA.
+   Univ Connecticut, Inst Publ Hlth, E Hartford, CT 06108 USA.
+   Univ Connecticut, Dept Stat, E Hartford, CT 06108 USA.
+   Univ Connecticut, Publ Hlth Res Inst, E Hartford, CT 06108 USA.
+C3 University of Connecticut; University of Connecticut; University of
+   Connecticut; University of Connecticut
+RP Aseltine, RH (corresponding author), Univ Connecticut, Ctr Hlth, Div Biomed Sci & Community Hlth, 99 Ash St,MC 7160, E Hartford, CT 06108 USA.
+EM aseltine@uchc.edu; ajames@uchc.edu; eschilling@uchc.edu;
+   jglanovsky@uchc.edu
+NR 20
+TC 168
+Z9 196
+U1 5
+U2 45
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA MIDDLESEX HOUSE, 34-42 CLEVELAND ST, LONDON W1T 4LB, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 18
+PY 2007
+VL 7
+AR 161
+DI 10.1186/1471-2458-7-161
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 198UV
+UT WOS:000248653900001
+PM 17640366
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Florez, IA
+   LoParo, D
+   Valentine, N
+   Lamis, DA
+AF Florez, Ivonne Andrea
+   LoParo, Devon
+   Valentine, Nakia
+   Lamis, Dorian A.
+TI Early Identification of Youth at Risk for Suicidal Behavior Patterns of
+   Identification and Referrals From Three Community Behavioral Health
+   Centers in Georgia
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide prevention; early identification; referral patterns; youth;
+   rural communities
+ID YOUNG-ADULTS; SERVICE USE; PREVENTION; ADOLESCENT
+AB Background: Early identification and appropriate referral services are priorities to prevent suicide. Aims: The aim of this study was to describe patterns of identification and referrals among three behavioral health centers and determine whether youth demographic factors and type of training received by providers were associated with identification and referral patterns. Method: The Early Identification Referral Forms were used to gather the data of interest among 820 youth aged 10-24 years who were screened for suicide risk (females = 53.8%). Descriptive statistics and binary logistic regressions were conducted to examine significant associations. Results: Significant associations between gender, race, and age and screening positive for suicide were found. Age and race were significantly associated with different patterns of referrals and/ or services received by youths. For providers, being trained in Counseling on Access to Lethal Means was positively associated with number of referrals to inpatient services. Limitations: The correlational nature of the study and lack of information about suicide risk and comorbidity of psychiatric symptoms limit the implications of the findings. Conclusion: The results highlight the importance of considering demographic factors when identifying and referring youth at risk to ensure standard yet culturally appropriate procedures to prevent suicide.
+C1 [Florez, Ivonne Andrea; LoParo, Devon; Lamis, Dorian A.] Emory Univ, Sch Med, Dept Psychiat & Behav Sci, 10 Pk Pl SE, Atlanta, GA 30303 USA.
+   [Valentine, Nakia] Georgia Dept Behav Hlth & Dev Disabil, Atlanta, GA USA.
+C3 Emory University
+RP Lamis, DA (corresponding author), Emory Univ, Sch Med, Dept Psychiat & Behav Sci, 10 Pk Pl SE, Atlanta, GA 30303 USA.
+EM dorian.lamis@emory.edu
+RI Lamis, Dorian A./AAM-3651-2020; LoParo, Devon/IXW-9697-2023
+OI Lamis, Dorian/0000-0001-5405-0239
+FU Substance Abuse and Mental Health Services Administration (SAMHSA)
+   [1H79SM062896-01]
+FX This manuscript was developed, in part, under grant number
+   1H79SM062896-01 from the Substance Abuse and Mental Health Services
+   Administration (SAMHSA). The views, opinions, and content of this
+   publication are those of the authors and contributors, and do not
+   necessarily reflect the views, opinions, or policies of CMHS.
+NR 27
+TC 0
+Z9 0
+U1 1
+U2 8
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD SEP
+PY 2019
+VL 40
+IS 5
+BP 326
+EP 332
+DI 10.1027/0227-5910/a000569
+PG 7
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA IX6JW
+UT WOS:000485790500004
+PM 30644775
+DA 2023-12-06
+ER
+
+PT J
+AU Foster, A
+   Chaudhary, N
+   Murphy, J
+   Lok, B
+   Waller, J
+   Buckley, PF
+AF Foster, Adriana
+   Chaudhary, Neelam
+   Murphy, James
+   Lok, Benjamin
+   Waller, Jennifer
+   Buckley, Peter F.
+TI The Use of Simulation to Teach Suicide Risk Assessment to Health
+   Profession Trainees-Rationale, Methodology, and a Proof of Concept
+   Demonstration with a Virtual Patient
+SO ACADEMIC PSYCHIATRY
+LA English
+DT Article
+DE Virtual patient; Video; Communication Checklist; Suicide risk
+ID MEDICAL-STUDENTS; ATTITUDES; SKILLS; PSYCHIATRY; MANAGEMENT; INTERVIEW;
+   PROGRAM
+AB Objective There is increasing use of educational technologies in medical and surgical specialties. Described herein is the development and application of an interactive virtual patient (VP) to teach suicide risk assessment to health profession trainees. We studied the effect of the following: (1) an interaction with a bipolar VP who attempts suicide or (2) completion of a video-teaching module on interviewing a bipolar patient, on medical students' proficiency in assessing suicide risk in standardized patients. We hypothesized that students who interact with a bipolar VP will be at least as likely to assess suicide risk, as their peers who completed a video module.
+   Methods In a randomized, controlled study, we compared the frequency with which second-year students at the Medical College of Georgia asked suicide risk and bipolar symptoms questions by VP/video group.
+   Results We recruited 67 students. The VP group inquired more frequently than the video group in 4 of 5 suicide risk areas and 11 of 14 other bipolar symptomatology areas. There were minimal to small effect sizes in favor of the VP technology. The students preferred the video over the VP as an educational tool (p=0.007).
+   Conclusions Our study provides proof of concept that both VP and video module approaches are feasible for teaching students to assess suicide risk, and we present evidence about the role of active learning to improve communication skills. Depending on the learning context, interviewing a VP or observation of a videotaped interview can enhance the students' suicide risk assessment proficiency in an interview with a standardized patient. An interactive VP is a plausible modality to deliver basic concepts of suicide risk assessment to medical students, can facilitate individual preferences by providing easy access and portability, and has potential generalizability to other aspects of psychiatric training.
+C1 [Foster, Adriana; Chaudhary, Neelam; Murphy, James; Waller, Jennifer; Buckley, Peter F.] Georgia Regents Univ, Med Coll Georgia, Augusta, GA 30912 USA.
+   [Lok, Benjamin] Univ Florida, Gainesville, FL USA.
+C3 University System of Georgia; Augusta University; State University
+   System of Florida; University of Florida
+RP Foster, A (corresponding author), Georgia Regents Univ, Med Coll Georgia, Augusta, GA 30912 USA.
+EM afoster@gru.edu
+RI Lok, Benjamin/AAW-6501-2021
+FU American Foundation for Suicide Prevention [PRG-1-009-11]
+FX This study was funded by pilot grant PRG-1-009-11 awarded to Adriana
+   Foster, MD, from American Foundation for Suicide Prevention. The content
+   is solely the responsibility of the authors and does not necessarily
+   represent the official views of the American Foundation for Suicide
+   Prevention.
+NR 42
+TC 29
+Z9 30
+U1 0
+U2 12
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1042-9670
+EI 1545-7230
+J9 ACAD PSYCHIATR
+JI Acad. Psych.
+PD DEC
+PY 2015
+VL 39
+IS 6
+BP 620
+EP 629
+DI 10.1007/s40596-014-0185-9
+PG 10
+WC Education & Educational Research; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Psychiatry
+GA CX7FW
+UT WOS:000365868600004
+PM 25026950
+DA 2023-12-06
+ER
+
+PT J
+AU deJong, JL
+   Hanzlick, R
+AF deJong, JL
+   Hanzlick, R
+TI Level of agreement between opinions of medical examiner investigators
+   and forensic pathologist medical examiners regarding the manner of death
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE cause of death; manner of death; medical examiner; forensic pathologist;
+   medical examiner investigator; homicide; suicide; accident; natural
+   death; undetermined manner of death; death certificates
+AB To evaluate the level of agreement between medical examiner investigators' opinion of the manner of death and what the manner of death was as certified by forensic pathologist medical examiners (MEs), we reviewed the case records stored in a database of all deaths reported to the office of the medical examiner in Fulton County, Georgia. Of 15,771 deaths reported to the office during a 10-year period, a difference exists in 1908 cases. In 900 natural deaths, the investigators recorded 135 accident, 10 homicide, 10 suicide, and 745 undetermined manners of death. In 755 accidental deaths, the investigators recorded 16 natural, 8 homicide, 13 suicide, and 718 undetermined manners of death. In 107 homicides, the investigators recorded 12 natural, 8 accident, 0 suicide, and 87 undetermined manners of death. In 70 suicides, the investigators recorded 9 natural, 9 accident, 3 homicide, and 49 undetermined manners of death. In 61 deaths classified as undetermined, the investigators recorded 25 natural, 13 accident, 17 homicide, and 6 suicide manners of death. In 15 deaths, the discrepancy exists due to an apparent error in the database information. This study confirms a high concordance between investigator and ME opinion regarding manner of death but also documents the need for case review and autopsies by forensic pathologists to confirm the investigators' opinion of the manner of death, determine the manner of death when the investigator selects undetermined, and on occasion, refute the investigators' opinion regarding the manner of death.
+C1 Fulton Cty Med Examiners Ctr, Atlanta, GA USA.
+RP deJong, JL (corresponding author), Michigan Forens Med, 1945 Boston SE,Suite G1, Grand Rapids, MI 49506 USA.
+OI deJong, Joyce/0000-0002-8222-3587
+NR 0
+TC 13
+Z9 13
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-7910
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD MAR
+PY 2000
+VL 21
+IS 1
+BP 11
+EP 20
+DI 10.1097/00000433-200003000-00003
+PG 10
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine; Pathology
+GA 292RE
+UT WOS:000085808200003
+PM 10739221
+DA 2023-12-06
+ER
+
+PT J
+AU Verulava, T
+   Mamulashvili, M
+   Kachkachishvili, I
+   Lorbenadze, R
+AF Verulava, Tengiz
+   Mamulashvili, Mariam
+   Kachkachishvili, Iago
+   Lorbenadze, Revaz
+TI The Attitude of the Orthodox Parishioners Toward Euthanasia: Evidence
+   From Georgia
+SO INTERNATIONAL QUARTERLY OF COMMUNITY HEALTH EDUCATION
+LA English
+DT Article
+DE attitude toward euthanasia; physician-assisted suicide; ethics; health
+   care; end-of-life care
+ID ASSISTED SUICIDE; SERVICES
+AB Background The right of euthanasia is the subject of worldwide discussion today, as it is one of the most controversial medical, religious, political, or ethical issues. This study aims to survey the attitudes of Orthodox parishioners toward the euthanasia. Methods: Within the quantitative study, the survey was conducted through a semistructured questionnaire. Respondents were the parishioners of the Orthodox Church. Within the qualitative study, the survey of the experts of the Orthodox Church, in particular the clergy, was conducted. During the survey of the experts, we used the snowball method. Results The majority of respondents (81%) were aware of euthanasia. The dominant opinion is that euthanasia is "the consent to life termination during the illness, when there is no way out and recovery is impossible" or "a terminally ill person voluntarily decides to end life painlessly." Those who disagree with euthanasia rely on the religious factors (why the church prohibits it). Those who agree with euthanasia action argue the legitimate human rights and free will of person. Most of the respondents (86%) have not heard about euthanasia practices in Georgia. Most of the respondents (71%) knew that the Orthodox Church prohibits euthanasia; 39% of the respondents believe that euthanasia is justified in medical terms. Conclusion It is advisable to raise public awareness on euthanasia in religious, medical, cultural, social, and legal aspects.
+C1 [Verulava, Tengiz] Ilia State Univ, Sch Business, Hlth Policy & Insurance Inst, Kakutsa Cholokashvili Ave 3-5, GE-0162 Tbilisi, Georgia.
+   [Mamulashvili, Mariam; Kachkachishvili, Iago] Tbilisi State Univ, Dept Sociol & Social Work, Fac Social & Polit Sci, Tbilisi, Georgia.
+   [Lorbenadze, Revaz] G Chapidze Emergency Cardiol Ctr, Tbilisi, Georgia.
+C3 Ilia State University; Ivane Javakhishvili Tbilisi State University
+RP Verulava, T (corresponding author), Ilia State Univ, Sch Business, Hlth Policy & Insurance Inst, Kakutsa Cholokashvili Ave 3-5, GE-0162 Tbilisi, Georgia.
+EM tengiz.verulava@iliauni.edu.ge
+RI Verulava, Tengiz/N-7462-2014; University, Ivane Javakhishvili Tbilisi
+   State/AAD-5796-2021
+OI Verulava, Tengiz/0000-0001-8110-5485; 
+NR 22
+TC 3
+Z9 3
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0272-684X
+EI 1541-3519
+J9 INT Q COMMUNITY HEAL
+JI Int. Q. Community Health Educ.
+PD JAN
+PY 2019
+VL 39
+IS 2
+BP 101
+EP 107
+DI 10.1177/0272684X18819963
+PG 7
+WC Public, Environmental & Occupational Health
+WE Emerging Sources Citation Index (ESCI)
+SC Public, Environmental & Occupational Health
+GA HF8NL
+UT WOS:000454499000003
+PM 30799771
+DA 2023-12-06
+ER
+
+PT C
+AU Greneker, G
+AF Greneker, G
+BE Trebits, RN
+   Kurtz, JL
+TI Very low cost stand-off suicide bomber detection system using human gait
+   analysis to screen potential bomb carrying individuals
+SO Radar Sensor Technology 1X
+SE PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+   (SPIE)
+LA English
+DT Proceedings Paper
+CT Conference on Radar Sensor Technology IX
+CY MAR   31, 2005
+CL Orlando, FL
+SP SPIE
+DE radar; suicide-bomber; detection; classification; gait analysis
+AB Individuals who carry bombs on their bodies and detonate those bombs in public places are a security problem. There is belief that suicide bombings currently used in the mid-east may spread to the United States if the organized terrorist groups operating in the United States are not identified and the cell members arrested. While bombs in vehicles are the primary method currently used to spread terror in Iraq, U. S. warfighters are starting to face suicide bombers. This may become more of the situation if a stand-off detection capability is developed for the vehicle bomb case.
+   This paper presents a concept, that if developed and commercialized, could provide an inexpensive suicide bomber screening system that could be used to screen individuals approaching a checkpoint while the individual is still 500 to 1,000 feet from the checkpoint. The proposed system measures both the radar cross-section of the individual and the radar derived gait characteristics that are associated with individuals carrying a bomb on their body.
+   GTRI researchers propose to use human gait characteristics, as detected by radar, to determine if a human subject who is carrying no visible load on the body is actually carrying a concealed load under their clothes. The use of radar gait as a metric for the detection (as opposed to a video system) of a suicide bomber is being proposed because detection of gait characteristics are thought to be less sensitive to where the bomb is located on the body, lighting conditions, and the fact that the legs may be shrouded in a robe. The detection of a bomb using radar gait analysis may also prove to be less sensitive to changing tactics regarding where the bomb is placed on the body.
+   An inert suicide bomb vest was constructed using water pipes to simulate the explosive devices. Wiring was added to simulated detonators. The vest weighs approximately 35 pounds. Radar data was taken on the volunteer subject wearing the vest that simulated the suicide bomb. This paper discusses the findings after the data was analyzed. A Provisional Patent has been filed by Georgia Tech Research Corporation on the subject matter that is discussed in this paper.
+C1 Georgia Tech Res Inst, SEAL, Atlanta, GA 30332 USA.
+C3 University System of Georgia; Georgia Institute of Technology
+RP Greneker, G (corresponding author), Georgia Tech Res Inst, SEAL, 225 N Ave,NW, Atlanta, GA 30332 USA.
+NR 0
+TC 16
+Z9 19
+U1 0
+U2 4
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+BN 0-8194-5773-6
+J9 P SOC PHOTO-OPT INS
+PY 2005
+VL 5788
+BP 46
+EP 56
+DI 10.1117/12.600603
+PG 11
+WC Instruments & Instrumentation; Imaging Science & Photographic Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Instruments & Instrumentation; Imaging Science & Photographic Technology
+GA BCR79
+UT WOS:000230961200005
+DA 2023-12-06
+ER
+
+PT J
+AU Smalley, KB
+   Warren, JC
+   Barefoot, KN
+AF Smalley, K. Bryant
+   Warren, Jacob C.
+   Barefoot, K. Nikki
+TI Connection Between Experiences of Bullying and Risky Behaviors in Middle
+   and High School Students
+SO SCHOOL MENTAL HEALTH
+LA English
+DT Article
+DE Bullying; Risky behavior; Substance use; Suicidality; Weapon carrying
+ID VICTIMIZATION; SUICIDE; PREVALENCE
+AB The goal of the current study was to investigate the association of experiences of bullying with 17 individual risk behaviors in a large, non-clinical sample of middle and high school students. Data were analyzed from the 2013 Georgia Student Health Survey II, administered to 6th-12th grade students in all public schools in Georgia (n = 513,909). Bullied students reported higher levels of engagement in every risk behavior investigated, with the largest connections related to safety-related absenteeism (OR 25.4, p < 0.001 and OR 17.0, p < 0.001 for high/middle school students, respectively) and bringing a weapon to school (OR 10.9, p < 0.001 and OR 6.81, p < 0.001 for high/middle school students, respectively). Overall, the current findings reveal alarming relationships between bullying and risk-taking behaviors that suggest bullying is associated with a large portion of substance use, self-harm, and weapons seen in middle and high school students. These behaviors place bullied children at risk of long-term physical and psychological consequences, as well as potential legal complications.
+C1 [Smalley, K. Bryant; Barefoot, K. Nikki] Georgia Southern Univ, Rural Hlth Res Inst, GSU Box 8028, Statesboro, GA 30460 USA.
+   [Smalley, K. Bryant] Georgia Southern Univ, Dept Psychol, Statesboro, GA 30460 USA.
+   [Warren, Jacob C.] Mercer Univ, Sch Med, Ctr Rural Hlth & Hlth Dispar, 1550 Coll St, Macon, GA 31207 USA.
+   [Warren, Jacob C.] Mercer Univ, Dept Community Med, Macon, GA 31207 USA.
+C3 University System of Georgia; Georgia Southern University; University
+   System of Georgia; Georgia Southern University; Mercer University;
+   Mercer University
+RP Smalley, KB (corresponding author), Georgia Southern Univ, Rural Hlth Res Inst, GSU Box 8028, Statesboro, GA 30460 USA.; Smalley, KB (corresponding author), Georgia Southern Univ, Dept Psychol, Statesboro, GA 30460 USA.
+EM bsmalley@georgiasouthern.edu; warren_jc@mercer.edu;
+   kbarefoot@georgiasouthern.edu
+NR 32
+TC 13
+Z9 13
+U1 0
+U2 15
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1866-2625
+EI 1866-2633
+J9 SCH MENT HEALTH
+JI School Ment. Health
+PD MAR
+PY 2017
+VL 9
+IS 1
+BP 87
+EP 96
+DI 10.1007/s12310-016-9194-z
+PG 10
+WC Psychology, Educational; Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA EL1FD
+UT WOS:000394365000007
+DA 2023-12-06
+ER
+
+PT J
+AU Platner, M
+   Loucks, TL
+   Lindsay, MK
+   Ellis, JE
+AF Platner, Marissa
+   Loucks, Tammy L.
+   Lindsay, Michael K.
+   Ellis, Jane E.
+TI Pregnancy-Associated Deaths in Rural, Nonrural, and Metropolitan Areas
+   of Georgia
+SO OBSTETRICS AND GYNECOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 35th Annual Scientific Pregnancy Meeting of the
+   Society-for-Maternal-Fetal-Medicine (SMFM)
+CY FEB 02-07, 2015
+CL San Diego, CA
+SP Soc Maternal Fetal Med
+ID UNITED-STATES; MATERNAL MORTALITY
+AB OBJECTIVE: To characterize pregnancy-associated deaths and examine the relationship between area of residence and pregnancy-associated deaths and pregnancy-related mortality ratios in Georgia from 2010 to 2012.
+   METHODS: The cohort of pregnancy-associated deaths was reviewed and categorized as pregnancy-related or resulting from other medical conditions not related to pregnancy, suicide, drug toxicity, homicide, or motor vehicle accident. Georgia Online Analytical Statistical Information System data were used to calculate pregnancy-related mortality ratio by rural, nonrural, and metropolitan Atlanta area and by race. Causes of death and pregnancy-related mortality ratio were compared by area of residence and race using chi(2) tests; a P value <.05 was considered significant.
+   RESULTS: There were 262 pregnancy-associated deaths; 40.1% (n=105) were pregnancy-related. The 2010-2012 pregnancy-related mortality ratio was 26.5 per 100,000 live births and the pregnancy-related mortality ratio did not differ statistically among rural (27.1), nonrural (24.4), and metropolitan Atlanta (27.7) areas (P=.845). Most pregnancy-related deaths were the result of hemorrhage and cardiovascular factors. In aggregate, the pregnancy-related mortality ratio for black women was 49.5 compared with 14.3 for white women (P<.001). The gap in pregnancy-related mortality ratio between black and white women was highest for metropolitan Atlanta (51.6 compared with 12.4, P<.001), less in nonrural areas (50.3 compared with 12.0, P<.001), and comparable in rural areas (39.4 compared with 22.4, P=.281).
+   CONCLUSION: Although the pregnancy-related mortality ratio was similar for rural, nonrural, and metropolitan Atlanta areas, it was significantly higher for black compared with white women living outside of rural areas.
+C1 Yale Univ, Div Maternal Fetal Med, New Haven, CT USA.
+   Emory Univ, Dept Gynecol & Obstet, Atlanta, GA 30322 USA.
+   Emory Univ, Div Maternal Fetal Med, Dept Gynecol & Obstet, Atlanta, GA 30322 USA.
+C3 Yale University; Emory University; Emory University
+RP Ellis, JE (corresponding author), 69 Jesse Hill Jr Dr SE, Atlanta, GA 30303 USA.
+EM jellis@emory.edu
+RI Loucks, Tammy/N-8223-2019
+OI Loucks, Tammy/0000-0001-7651-7602
+NR 17
+TC 13
+Z9 17
+U1 0
+U2 9
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0029-7844
+J9 OBSTET GYNECOL
+JI Obstet. Gynecol.
+PD JUL
+PY 2016
+VL 128
+IS 1
+BP 113
+EP 120
+DI 10.1097/AOG.0000000000001456
+PG 8
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Obstetrics & Gynecology
+GA DQ9DE
+UT WOS:000379509800016
+PM 27275792
+DA 2023-12-06
+ER
+
+PT J
+AU Heninger, M
+   Hanzlick, R
+AF Heninger, Michael
+   Hanzlick, Randy
+TI Nonnatural deaths of adolescents and teenagers - Fulton County, Georgia,
+   1985-2004
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE epidemiology; violence; nonnatural death; injury; poisoning; teenagers;
+   adolescents
+ID SUICIDE; CHILD
+AB Context: Childhood deaths are carefully scrutinized by many different government agencies, fatality review panels, researchers, and other groups. Many such deaths, especially those that involve external causes such as injury and poisoning, are amenable to prevention. Characterizing the causes and circumstances of nonnatural childhood deaths may provide information that is useful for development of prevention strategies and programs.
+   Methods: This is a retrospective review of all nonnatural deaths investigated and certified by the Fulton County Medical Examiner involving persons 10 to 19 years of age during the years 1985-2004, inclusive. Cases were identified by searching electronic death investigation files maintained during the Study period. Demographic and circumstantial information were tabulated for homicides, suicides, motor-vehicle fatalities, and other accidental deaths, and crude death rates were calculated for each 5-year period during the study.
+   Results: During the 20 year period there were 961 nonnatural deaths due to among person, 10 to 19 years of age. Most deaths were homicide (48%) followed by motor-vehicle fatalities (30%). suicide (12%), and nontraffic accidental fatalities (10%). Black males had the highest death rates among the homicide, suicide, and nontraffic accidental deaths, although the rates. For each of these were lower in the most recent 5 year period than the first 5-year period. The number of deaths increased in each category as age increased. and this observation was most marked for homicides and least marked for nontraffic accidental deaths, firearms were involved in 88% of homicides and 61% of suicides. Most nontraffic accidental deaths were clue to water-related accidents, followed by drug and/or alcohol toxicity, fire-related injuries, and accidental firearms injuries.
+   Conclusions: Homicide accounts for almost half of all deaths among persons 10 to 19 years of age. Black males are at particularly high risk for nonnatural death in comparison with other race/sex groups, especially for homicide. If effective firearm fatality prevention strategies and programs could be implemented, data in this study suggests that such a measure alone could cut in half the nonnatural mortality rate in the 10 to 19 year age group in Fulton County. Although homicide and suicide rates have declined, there remains room for improvement in these areas, as is the case for traffic-related and other accidental fatalities.
+C1 [Heninger, Michael; Hanzlick, Randy] Emory Univ, Sch Med, Atlanta, GA USA.
+C3 Emory University
+RP Heninger, M (corresponding author), 430 Pryor St SW, Atlanta, GA 30312 USA.
+EM michael.heninger@co.fulton.ga.us
+NR 26
+TC 9
+Z9 9
+U1 0
+U2 7
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0195-7910
+EI 1533-404X
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD SEP
+PY 2008
+VL 29
+IS 3
+BP 208
+EP 213
+DI 10.1097/PAF.0b013e3181802c82
+PG 6
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine; Pathology
+GA 341QN
+UT WOS:000258729800003
+PM 18725773
+DA 2023-12-06
+ER
+
+PT J
+AU Kobau, R
+   DiIorio, CA
+   Price, PH
+   Thurman, DJ
+   Martin, LM
+   Ridings, DL
+   Henry, TR
+AF Kobau, R
+   DiIorio, CA
+   Price, PH
+   Thurman, DJ
+   Martin, LM
+   Ridings, DL
+   Henry, TR
+TI Prevalence of epilepsy and health status of adults with epilepsy in
+   Georgia and Tennessee: Behavioral Risk Factor Surveillance System, 2002
+SO EPILEPSY & BEHAVIOR
+LA English
+DT Article
+DE epilepsy; seizure; comorbidity; health outcomes; obesity; smoking
+ID SUDDEN UNEXPECTED DEATH; OBSTRUCTIVE SLEEP-APNEA; QUALITY-OF-LIFE;
+   DEPRESSION; FREQUENCY; OUTCOMES; SUICIDE; FITNESS; PROGRAM; STIGMA
+AB Behavioral risk factors associated with comorbidity in people with epilepsy are largely unknown. We studied a population-based sample of 8057 adults through the 2002 Behavioral Risk Factor Surveillance System, in Georgia and Tennessee, ascertaining a lifetime epilepsy prevalence of 2.1% in this population. This structured interview revealed that those with epilepsy had significantly worse self-reported fair or poor health status (39% vs 17% in adults without epilepsy), significantly greater cigarette smoking (38.8% vs 24.9% in other adults), and high rates of obesity (34.1% vs 23.7% in adults without epilepsy). Large percentages of adults with epilepsy reported currently symptomatic asthma and recent joint pain. Adults with epilepsy had lower educational attainment and lower household incomes, but a higher rate of medical insurance coverage, than did other adults. This type of population-based survey can serve to identify health disparities, behavioral risk factors for other chronic diseases, and unmet health care needs in individuals with epilepsy, and to track changes in these measures over time. Published by Elsevier Inc.
+C1 Ctr Dis Control & Prevent, Program Epidemiol, Hlth Care & Aging Studies Branch, Atlanta, GA 30341 USA.
+   Emory Univ, Rollins Sch Publ Hlth, Dept Behav Sci & Hlth Educ, Atlanta, GA 30322 USA.
+   Georgia Dept Human Resources, Div Publ Hlth, Atlanta, GA 30303 USA.
+   Tennessee Dept Hlth, Nashville, TN USA.
+   Emory Univ, Dept Neurol, Emory Epilepsy Ctr, Atlanta, GA 30322 USA.
+C3 Centers for Disease Control & Prevention - USA; Emory University;
+   Rollins School Public Health; Tennessee Department Health; Emory
+   University
+RP Kobau, R (corresponding author), Ctr Dis Control & Prevent, Program Epidemiol, Hlth Care & Aging Studies Branch, 4770 Buford Highway NE,MS-K51, Atlanta, GA 30341 USA.
+EM rmk4@cdc.gov
+RI Henry, Thomas/X-1756-2019
+OI Henry, Thomas/0000-0002-5708-903X; Thurman, David/0000-0002-0533-7062;
+   Kobau, Rosemarie/0000-0003-2455-2638
+NR 46
+TC 112
+Z9 117
+U1 0
+U2 9
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1525-5050
+EI 1525-5069
+J9 EPILEPSY BEHAV
+JI Epilepsy Behav.
+PD JUN
+PY 2004
+VL 5
+IS 3
+BP 358
+EP 366
+DI 10.1016/j.yebeh.2004.02.007
+PG 9
+WC Behavioral Sciences; Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Behavioral Sciences; Neurosciences & Neurology; Psychiatry
+GA 824NZ
+UT WOS:000221694600013
+PM 15145306
+DA 2023-12-06
+ER
+
+PT J
+AU Polizzi, N
+   Martin, RP
+   Dombrowski, SC
+AF Polizzi, Nicholas
+   Martin, Roy P.
+   Dombrowski, Stefan C.
+TI Season of birth of students receiving special education services under a
+   diagnosis of emotional and behavioral disorder
+SO SCHOOL PSYCHOLOGY QUARTERLY
+LA English
+DT Article
+DE emotional disturbance; special education; season-of-birth; age-in-grade
+ID SCHIZOPHRENIA; EXPOSURE; SUICIDE
+AB For several decades, evidence has been accumulating that pathologies of the central nervous system occur more frequency for persons born between January and June than during the remainder of the year. The strongest findings are for schizophrenia, but associations have been reported for a range of mental illnesses. The purpose of the current study was to extend this research to children receiving special education services for behavioral and emotional disorder. A sample in excess of 8,000 was studied from northern Georgia. The results strongly indicate that fewer than expected numbers of students are diagnosed as having a behavioral and emotional disorder if they are born during the fall months, and a greater than expected number are born during the late spring and summer. These findings could be the result of prenatal insults or could be related to relative age-in-grade. The implications of these interpretations for school psychology are discussed.
+C1 [Polizzi, Nicholas; Martin, Roy P.] Univ Georgia, Dept Educ Psychol, Athens, GA 30602 USA.
+   [Polizzi, Nicholas] Univ Georgia, Sch Psychol, Athens, GA 30602 USA.
+   [Dombrowski, Stefan C.] Rider Univ, Sch Psychol Program, Lawrenceville, NJ 08648 USA.
+C3 University System of Georgia; University of Georgia; University System
+   of Georgia; University of Georgia; Rider University
+RP Martin, RP (corresponding author), Univ Georgia, Dept Educ Psychol, 325 Aderhold Hall, Athens, GA 30602 USA.
+EM rpmartin@uga.edu
+RI Dombrowski, Stefan/AAZ-7534-2020
+NR 39
+TC 14
+Z9 14
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1045-3830
+EI 1939-1560
+J9 SCHOOL PSYCHOL QUART
+JI Sch. Psychol. Q.
+PD MAR
+PY 2007
+VL 22
+IS 1
+BP 44
+EP 57
+DI 10.1037/1045-3830.22.1.44
+PG 14
+WC Psychology, Educational
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 273DO
+UT WOS:000253910800005
+DA 2023-12-06
+ER
+
+PT J
+AU Hulland, E
+   Chowdhury, R
+   Sarnat, S
+   Chang, HH
+   Steenland, K
+AF Hulland, Erin
+   Chowdhury, Ritam
+   Sarnat, Stefanie
+   Chang, Howard H.
+   Steenland, Kyle
+TI Socioeconomic Status and Non-Fatal Adult Injuries in Selected Atlanta
+   (Georgia USA) Hospitals
+SO PREHOSPITAL AND DISASTER MEDICINE
+LA English
+DT Article
+DE accidents; traffic; emergency service; hospital; income; social class;
+   United States
+ID MORTALITY; RISK; INEQUALITIES; DISPARITIES; ACCIDENT; HEALTH
+AB Background: Injury mortality data for adults in the United States and other countries consistently show higher mortality for those with lower socioeconomic status (SES). Data are sparse regarding the role of SES among adult, non-fatal US injuries. The current study estimated non-fatal injury risk by household income using hospital emergency department (ED) visits.
+   Methods: A total of 1,308,892 ED visits at 10 Atlanta (Georgia USA) hospitals from 2001-2004 (347,866 injuries) were studied. The SES was based on US census-block group income, with subjects assigned to census blocks based on reported residence. Logistic regression was used to determine risk by SES for injuries versus all other ED visits, adjusting for demographics, hospital, and weather. Supplemental analyses using hospital data from 2010-2013, without data on SES, were conducted to determine whether earlier patterns by race, age, and gender persisted.
+   Results: Risk for many injury categories increased with higher income. Odds ratio by quartiles of increasing income (lowest quartile as referent, 95% confidence interval [CI] given for upper most quartile) were 1.00, 1.23, 1.34, 1.40 (95% CI 1.36-1.45) for motor vehicle accidents; 1.00, 1.03, 1.11, 1.24 (95% CI 1.20-1.29) for being struck by objects; 1.00. 0.99, 1.04, 1.12 (95% CI 1.00-1.25) for suicide; and 1.00, 1.03, 1.05, 1.12 (95% CI 1.09-1.15) for falls. In contrast, decreased injury risk with increased household income was seen for assaults (1.00, 0.83, 0.73, 0.67 [95% CI 0.63-0.72], by increasing quartiles). These trends by income did not differ markedly by race and gender. Whites generally had less risk of injuries, with the exception of assaults and motor vehicle accidents. Males had higher risk of injury than females, with the exception of falls and suicide attempts. Patterns of risk for race, age, and gender were consistent between 2001-2004 and 2010-2013.
+   Conclusion: For most non-fatal injuries, those with higher income had more risk of ED visits, although the opposite was true for assault.
+C1 [Hulland, Erin; Chang, Howard H.] Emory Univ, Rollins Sch Publ Hlth, Dept Biostat & Bioinformat, Atlanta, GA 30322 USA.
+   [Chowdhury, Ritam; Steenland, Kyle] Emory Univ, James T Laney Sch Grad Studies, Dept Epidemiol, Atlanta, GA 30322 USA.
+   [Chowdhury, Ritam] Harvard Sch Publ Hlth, Dept Biostat, Boston, MA USA.
+   [Sarnat, Stefanie; Steenland, Kyle] Emory Univ, Rollins Sch Publ Hlth, Dept Environm Hlth, Atlanta, GA 30322 USA.
+   [Sarnat, Stefanie; Steenland, Kyle] Emory Univ, James T Laney Sch Grad Studies, Atlanta, GA 30322 USA.
+C3 Emory University; Rollins School Public Health; Emory University;
+   Harvard University; Harvard T.H. Chan School of Public Health; Emory
+   University; Rollins School Public Health; Emory University
+RP Chowdhury, R (corresponding author), 677 Huntington Ave, Boston, MA 02115 USA.
+EM ritam@mail.harvard.edu
+OI Hulland, Erin/0000-0003-0525-1856; Chowdhury, Ritam/0000-0002-7319-9503
+FU Centers for Disease Control and Prevention (Atlanta, Georgia USA) [1 R49
+   CE001494]
+FX This publication was made possible by a pilot grant to Emory University
+   (Atlanta, Georgia USA) from the Centers for Disease Control and
+   Prevention (Atlanta, Georgia USA)-funded Emory Center for Injury Control
+   (1 R49 CE001494). The authors report no conflicts of interest. The
+   authors alone are responsible for the content and writing of the paper.
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1049-023X
+EI 1945-1938
+J9 PREHOSPITAL DISASTER
+JI Prehospital Disaster Med.
+PD AUG
+PY 2017
+VL 32
+IS 4
+BP 403
+EP 413
+DI 10.1017/S1049023X17000255
+PG 11
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Emergency Medicine
+GA FO3EO
+UT WOS:000416701000009
+PM 28359343
+DA 2023-12-06
+ER
+
+PT J
+AU Spaulding, AC
+   Seals, RM
+   McCallum, VA
+   Perez, SD
+   Brzozowski, AK
+   Steenland, NK
+AF Spaulding, Anne C.
+   Seals, Ryan M.
+   McCallum, Victoria A.
+   Perez, Sebastian D.
+   Brzozowski, Amanda K.
+   Steenland, N. Kyle
+TI Prisoner Survival Inside and Outside of the Institution: Implications
+   for Health-Care Planning
+SO AMERICAN JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE cause of death; health status disparities; hepatitis C; mortality;
+   prisons; prisoners; survival analysis
+ID RECENTLY RELEASED PRISONERS; MORTALITY; DEATH; RISK; SUICIDE; COHORT;
+   DRUGS
+AB The life expectancy of persons cycling through the prison system is unknown. The authors sought to determine the 15.5-year survival of 23,510 persons imprisoned in the state of Georgia on June 30, 1991. After linking prison and mortality records, they calculated standardized mortality ratios (SMRs). The cohort experienced 2,650 deaths during follow-up, which were 799 more than expected (SMR = 1.43, 95% confidence interval (CI): 1.38, 1.49). Mortality during incarceration was low (SMR = 0.85, 95% CI: 0.77, 0.94), while postrelease mortality was high (SMR = 1.54, 95% CI: 1.48, 1.61). SMRs varied by race, with black men exhibiting lower relative mortality than white men. Black men were the only demographic subgroup to experience significantly lower mortality while incarcerated (SMR = 0.66, 95% CI: 0.58, 0.76), while white men experienced elevated mortality while incarcerated (SMR = 1.28, 95% CI: 1.10, 1.48). Four causes of death (homicide, transportation, accidental poisoning, and suicide) accounted for 74% of the decreased mortality during incarceration, while 6 causes (human immunodeficiency virus infection, cancer, cirrhosis, homicide, transportation, and accidental poisoning) accounted for 62% of the excess mortality following release. Adjustment for compassionate releases eliminated the protective effect of incarceration on mortality. These results suggest that the low mortality inside prisons can be explained by the rarity of deaths unlikely to occur in the context of incarceration and compassionate releases of moribund patients.
+C1 [Spaulding, Anne C.; Seals, Ryan M.; McCallum, Victoria A.; Brzozowski, Amanda K.; Steenland, N. Kyle] Emory Univ, Rollins Sch Publ Hlth, Dept Epidemiol, Atlanta, GA 30322 USA.
+   [Perez, Sebastian D.] Emory Univ, Rollins Sch Publ Hlth, Dept Biostat, Atlanta, GA 30322 USA.
+   [Steenland, N. Kyle] Emory Univ, Rollins Sch Publ Hlth, Dept Occupat & Environm Hlth, Atlanta, GA 30322 USA.
+C3 Emory University; Rollins School Public Health; Emory University;
+   Rollins School Public Health; Emory University; Rollins School Public
+   Health
+RP Spaulding, AC (corresponding author), Emory Univ, Rollins Sch Publ Hlth, Dept Epidemiol, 1518 Clifton Rd,Room 3033, Atlanta, GA 30322 USA.
+EM aspauld@emory.edu
+FU Pfizer, Inc. (New York, New York)
+FX Pfizer, Inc. (New York, New York) provided funds for this study through
+   a 2007 Fellowship in Public Health.
+NR 38
+TC 162
+Z9 187
+U1 1
+U2 27
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0002-9262
+EI 1476-6256
+J9 AM J EPIDEMIOL
+JI Am. J. Epidemiol.
+PD MAR 1
+PY 2011
+VL 173
+IS 5
+BP 479
+EP 487
+DI 10.1093/aje/kwq422
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 726SK
+UT WOS:000287746200001
+PM 21239522
+OA hybrid, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Wang, CX
+   La Salle, T
+   Wu, CR
+   Do, KA
+   Sullivan, KE
+AF Wang, Cixin
+   La Salle, Tamika
+   Wu, Chaorong
+   Kieu Anh Do
+   Sullivan, Kathryn E.
+TI School Climate and Parental Involvement Buffer the Risk of Peer
+   Victimization on Suicidal Thoughts and Behaviors Among Asian American
+   Middle School Students
+SO ASIAN AMERICAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE victimization; school climate; parental involvement; suicide thoughts
+   and behaviors; gender
+ID BULLYING VICTIMIZATION; GENDER-DIFFERENCES; SOCIAL SUPPORT; SUBSTANCE
+   USE; IDEATION; CONNECTEDNESS; ADOLESCENTS; ASSOCIATIONS; DISTRESS;
+   STRESS
+AB Suicide is the second leading cause of death among Asian American youth. Few studies have examined the risk and protective factors for suicidal thoughts and behaviors (STB) for Asian American middle school students. This study used data from the Georgia Student Health Survey 2.0 to examine the relationship between individual (gender, grade level, substance use, mental health difficulties, face-to-face victimization, and cyber victimization), school (school climate, racial diversity at school, school size, student-teacher ratio, and socioeconomic status), and familial (parental involvement) predictors of STB among 12,511 Asian American middle school students from 510 schools (50.1% girls). Results showed that both face-to-face and cyber victimization predicted higher levels of STB. Positive school climate at the individual level buffered the relationship between face-to-face victimization and STB, whereas positive school climate at the school level buffered the relationship between cyber victimization and STB. Gender was also a significant moderator of these relationships. Specifically, both types of peer victimization predicted more STB for girls than for boys. Parental involvement mitigated the relationship between face-to-face victimization and STB for girls. Positive school climate at the individual level buffered the relationship between cyber victimization and STB for boys. Findings highlight the importance of school climate, parental involvement, and gender differences in STB among Asian American students.
+C1 [Wang, Cixin; Kieu Anh Do; Sullivan, Kathryn E.] Univ Maryland, Dept Counseling Higher Educ & Special Educ, 3234 Benjamin Bldg, College Pk, MD 20742 USA.
+   [La Salle, Tamika] Univ Connecticut, Dept Educ Psychol, Storrs, CT USA.
+   [Wu, Chaorong] Univ Iowa, Inst Clin & Translat Sci, Iowa City, IA 52242 USA.
+   [Kieu Anh Do] Univ Maryland Eastern Shore, Dept Human Ecol, Princess Anne, MD USA.
+C3 University System of Maryland; University of Maryland College Park;
+   University of Connecticut; University of Iowa; University System of
+   Maryland; University of Maryland Eastern Shore
+RP Wang, CX (corresponding author), Univ Maryland, Dept Counseling Higher Educ & Special Educ, 3234 Benjamin Bldg, College Pk, MD 20742 USA.
+EM cxwang@umd.edu
+RI Anh, Kieu/I-8825-2019; farjad, farshad/AGC-9105-2022
+OI Anh, Kieu/0000-0002-0958-3148; 
+NR 52
+TC 30
+Z9 42
+U1 1
+U2 34
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1948-1985
+EI 1948-1993
+J9 ASIAN AM J PSYCHOL
+JI Asian Am. J. Psychol.
+PD DEC
+PY 2018
+VL 9
+IS 4
+SI SI
+BP 296
+EP 307
+DI 10.1037/aap0000138
+PG 12
+WC Ethnic Studies; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Ethnic Studies; Psychology
+GA HE3DO
+UT WOS:000453232100006
+DA 2023-12-06
+ER
+
+PT J
+AU Ertl, A
+   Sheats, KJ
+   Petrosky, E
+   Betz, CJ
+   Yuan, KM
+   Fowler, KA
+AF Ertl, Allison
+   Sheats, Kameron J.
+   Petrosky, Emiko
+   Betz, Carter J.
+   Yuan, Keming
+   Fowler, Katherine A.
+TI Surveillance for Violent Deaths - National Violent Death Reporting
+   System, 32 States, 2016
+SO MMWR SURVEILLANCE SUMMARIES
+LA English
+DT Article
+ID SUICIDE-PREVENTION PROGRAM; INTIMATE PARTNER VIOLENCE; UNITED-STATES;
+   ETHNIC DISPARITIES; USE DISORDER; YOUTH; RISK; VICTIMIZATION; HOMICIDES;
+   WOMEN
+AB Problem/Condition: In 2016, approximately 65,000 persons died in the United States as a result of violence-related injuries. This report summarizes data from CDC's National Violent Death Reporting System (NVDRS) regarding violent deaths from 32 U.S. states for 2016. Results are reported by sex, age group, race/ethnicity, type of location where injured, method of injury, circumstances of injury, and other selected characteristics.
+   Period Covered: 2016.
+   Description of System: NVDRS collects data regarding violent deaths obtained from death certificates, coroner/medical examiner reports, law enforcement reports, and secondary sources (e.g., child fatality review team data, Supplementary Homicide Reports, hospital data, and crime laboratory data). This report includes data collected from 32 states for 2016 (Alaska, Arizona, Colorado, Connecticut, Georgia, Hawaii, Illinois, Indiana, Iowa, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Utah, Vermont, Virginia, Washington, and Wisconsin). NVDRS collates information for each death and links deaths that are related (e.g., multiple homicides, homicide followed by suicide, or multiple suicides) into a single incident.
+   Results: For 2016, NVDRS captured 40,374 fatal incidents involving 41,466 deaths in the 32 states included in this report. The majority (62.3%) of deaths were suicides, followed by homicides (24.9%), deaths of undetermined intent (10.8%), legal intervention deaths (1.2%) (i.e., deaths caused by law enforcement and other persons with legal authority to use deadly force acting in the line of duty, excluding legal executions), and unintentional firearm deaths (<1.0%). (The term legal intervention is a classification incorporated into the International Classification of Diseases, Tenth Revision [ICD-10] and does not denote the lawfulness or legality of the circumstances surrounding a death caused by law enforcement.) Demographic patterns varied by manner of death. Suicide rates were highest among males, non-Hispanic American Indians/Alaska Natives, non-Hispanic whites, adults aged 45-64 years, and men aged >= 75 years. The most common method of injury was a firearm among males and poisoning among females. Suicides were most often preceded by a mental health, intimate partner, substance abuse, or physical health problem or a recent or impending crisis during the previous or upcoming 2 weeks. Homicide rates were highest among males and persons aged <1 year and 15-44 years. Among males, non-Hispanic blacks accounted for most homicides and had the highest rate of any racial/ethnic group. The most common method of injury was a firearm. Homicides were most often precipitated by an argument or conflict, occurred in conjunction with another crime, or for females, were related to intimate partner violence. When the relationship between a homicide victim and a suspected perpetrator was known, the suspect was most frequently an acquaintance/friend among males and a current or former intimate partner among females. Legal intervention death rates were highest among men aged 20-44 years, and the rate among non-Hispanic black males was three times the rate among non-Hispanic white males. Precipitating circumstances for legal intervention deaths most frequently were an alleged criminal activity in progress, reported use of a weapon by the victim in the incident, a mental health or substance abuse problem (other than alcohol abuse), an argument or conflict, or a recent or impending crisis. Unintentional firearm deaths were more frequent among males, non-Hispanic whites, and persons aged 15-24 years. These deaths most often occurred while the shooter was playing with a firearm and most often were precipitated by a person unintentionally pulling the trigger or mistakenly thinking the firearm was unloaded. Rates of deaths of undetermined intent were highest among males, particularly non-Hispanic black and American Indian/Alaska Native males, and adults aged 25-64 years. Substance abuse, mental health problems, physical health problems, and a recent or impending crisis were the most common circumstances preceding deaths of undetermined intent. In 2016, a total of 3,655 youths aged 10-24 years died by suicide. The majority of these decedents were male, non-Hispanic white, and aged 18-24 years. Most decedents aged 10-17 years died by hanging/strangulation/suffocation (49.3%), followed by a firearm (40.4%), and suicides among this age group were most often precipitated by mental health, family relationship, and school problems. Most suicides among decedents aged 18-24 years were by a firearm (46.2%), followed by hanging/strangulation/suffocation (37.4%), and were precipitated by mental health, substance abuse, intimate partner, and family problems.
+   A recent crisis, an argument or conflict, or both were common precipitating circumstances among all youth suicide decedents.
+   Interpretation: This report provides a detailed summary of data from NVDRS for 2016. Suicides rates were highest among nonHispanic American Indian/Alaska Native and white males, whereas homicide rates were highest among non-Hispanic black males. Mental health problems, intimate partner problems, interpersonal conflicts, and acute life stressors were primary precipitating events for multiple types of violent deaths, including suicides among youths aged 10-24 years.
+   Public Health Action: NVDRS data are used to monitor the occurrence of violence-related fatal injuries and assist public health authorities in the development, implementation, and evaluation of programs and policies to reduce and prevent violent deaths. For example, Utah VDRS data were used to help identify suicide risk factors among youths aged 10-17 years, Rhode Island VDRS suicide data were analyzed to identify precipitating circumstances of youth suicides over a 10-year period, and Kansas VDRS data were used by the Kansas Youth Suicide Prevention Task Force. In 2019, NVDRS expanded data collection to include all 50 states, Puerto Rico, and the District of Columbia. This expansion is essential to public health efforts to reduce violent deaths.
+C1 [Ertl, Allison; Sheats, Kameron J.; Petrosky, Emiko; Betz, Carter J.; Yuan, Keming; Fowler, Katherine A.] CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30333 USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Ertl, A (corresponding author), CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30333 USA.
+EM moq4@cdc.gov
+NR 54
+TC 60
+Z9 72
+U1 1
+U2 13
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1545-8636
+J9 MMWR SURVEILL SUMM
+JI MMWR Surv. Summ.
+PD OCT 4
+PY 2019
+VL 68
+IS 9
+BP 1
+EP 36
+DI 10.15585/mmwr.ss.6809a1
+PG 36
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA KA6TB
+UT WOS:000505928300001
+PM 31581165
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Fowler, KA
+   Jack, SPD
+   Lyons, BH
+   Betz, CJ
+   Petrosky, E
+AF Fowler, Katherine A.
+   Jack, Shane P. D.
+   Lyons, Bridget H.
+   Betz, Carter J.
+   Petrosky, Emiko
+TI Surveillance for Violent Deaths - National Violent Death Reporting
+   System, 18 States, 2014
+SO MMWR SURVEILLANCE SUMMARIES
+LA English
+DT Article
+ID PROGRAM
+AB Problem/Condition: In 2014, approximately 59,000 persons died in the United States as a result of violence-related injuries. This report summarizes data from CDC's National Violent Death Reporting System (NVDRS) regarding violent deaths from 18 U.S. states for 2014. Results are reported by sex, age group, race/ethnicity, marital status, location of injury, method of injury, circumstances of injury, and other selected characteristics.
+   Reporting Period Covered: 2014.
+   Description of System: NVDRS collects data from participating states regarding violent deaths. Data are obtained from death certificates, coroner/medical examiner reports, law enforcement reports, and secondary sources (e.g., child fatality review team data, supplemental homicide reports, hospital data, and crime laboratory data). This report includes data from 18 states that collected statewide data for 2014 (Alaska, Colorado, Georgia, Kentucky, Maryland, Massachusetts, Michigan, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Utah, Virginia, and Wisconsin). NVDRS collates documents for each death and links deaths that are related (e.g., multiple homicides, a homicide followed by a suicide, or multiple suicides) into a single incident.
+   Results: For 2014, a total of 22,098 fatal incidents involving 22,618 deaths were captured by NVDRS in the 18 states included in this report. The majority of deaths were suicides (65.6%), followed by homicides (22.5%), deaths of undetermined intent (10.0%), deaths involving legal intervention (1.3%) (i.e., deaths caused by law enforcement and other persons with legal authority to use deadly force, excluding legal executions), and unintentional firearm deaths (< 1%). The term "legal intervention" is a classification incorporated into the International Classification of Diseases, Tenth Revision (ICD-10) and does not denote the lawfulness or legality of the circumstances surrounding a death caused by law enforcement. Suicides occurred at higher rates among males, non-Hispanic American Indian/Alaska Natives (AI/AN), non-Hispanic whites, persons aged 45-54 years, and males aged = 75 years. Suicides were preceded primarily by a mental health, intimate partner, substance abuse, or physical health problem or a crisis during the previous or upcoming 2 weeks. Homicide rates were higher among males and persons aged < 1 year and 15-44 years; rates were highest among non-Hispanic black and AI/AN males. Homicides primarily were precipitated by arguments and interpersonal conflicts, occurrence in conjunction with another crime, or related to intimate partner violence (particularly for females). When the relationship between a homicide victim and a suspected perpetrator was known, it was most often either an acquaintance/ friend or an intimate partner. Legal intervention death rates were highest among males and persons aged 20-44 years; rates were highest among non-Hispanic black males and Hispanic males. Precipitating factors for the majority of legal intervention deaths were alleged criminal activity in progress, the victim reportedly using a weapon in the incident, a mental health or substance abuse problem, an argument or conflict, or a recent crisis. Deaths of undetermined intent occurred more frequently among males, particularly non-Hispanic black and AI/AN males, and persons aged 30-54 years. Substance abuse, mental health problems, physical health problems, and a recent crisis were the most common circumstances preceding deaths of undetermined intent. Unintentional firearm deaths were more frequent among males, non-Hispanic whites, and persons aged 10-24 years; these deaths most often occurred while the shooter was playing with a firearm and were most often precipitated by a person unintentionally pulling the trigger or mistakenly thinking the firearm was unloaded.
+   Interpretation: This report provides a detailed summary of data from NVDRS for 2014. The results indicate that violent deaths resulting from self-inflicted or interpersonal violence disproportionately affected persons aged < 65 years, males, and certain minority populations. The primary precipitating factors for homicides and suicides were intimate partner problems, interpersonal conflicts, mental health and substance abuse problems, and recent crises.
+   Public Health Action: NVDRS data are used to monitor the occurrence of violence-related fatal injuries and assist public health authorities in the development, implementation, and evaluation of programs and policies to reduce and prevent violent deaths. For example, North Carolina VDRS data were used to improve case ascertainment of pregnancy-associated suicides, Wisconsin VDRS data were used to develop the statewide suicide prevention strategy, and Colorado VDRS data were used to develop programs and prevention strategies for suicide among veterans. The continued development and expansion of NVDRS to include all U.S. states, territories, and the District of Columbia are essential to public health efforts to reduce the impact of violence.
+C1 [Fowler, Katherine A.; Jack, Shane P. D.; Lyons, Bridget H.; Betz, Carter J.; Petrosky, Emiko] CDC, Natl Ctr Injury Prevent & Control, Div Violence Prevent, Atlanta, GA 30333 USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Fowler, KA (corresponding author), CDC, Natl Ctr Injury Prevent & Control, Div Violence Prevent, Atlanta, GA 30333 USA.
+EM kafowler@cdc.gov
+OI Lyons, Bridget/0000-0003-1152-9439
+NR 30
+TC 32
+Z9 33
+U1 0
+U2 15
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1545-8636
+J9 MMWR SURVEILL SUMM
+JI MMWR Surv. Summ.
+PD FEB 2
+PY 2018
+VL 67
+IS 2
+BP 1
+EP 31
+PG 31
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GC7GQ
+UT WOS:000429961600001
+PM 29389917
+OA Green Published, Green Submitted, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Lyons, BH
+   Fowler, KA
+   Jack, SPD
+   Betz, CJ
+   Blair, JM
+AF Lyons, Bridget H.
+   Fowler, Katherine A.
+   Jack, Shane P. D.
+   Betz, Carter J.
+   Blair, Janet M.
+TI Surveillance for Violent Deaths - National Violent Death Reporting
+   System, 17 States, 2013
+SO MMWR SURVEILLANCE SUMMARIES
+LA English
+DT Article
+ID MENTAL-HEALTH; SUICIDE; TOXICOLOGY; HOMICIDE; PROGRAM; CARE
+AB Problem/Condition: In 2013, more than 57,000 persons died in the United States as a result of violence-related injuries. This report summarizes data from CDC's National Violent Death Reporting System (NVDRS) regarding violent deaths from 17 U.S. states for 2013. Results are reported by sex, age group, race/ethnicity, marital status, location of injury, method of injury, circumstances of injury, and other selected characteristics.
+   Reporting Period Covered: 2013.
+   Description of System: NVDRS collects data from participating states regarding violent deaths obtained from death certificates, coroner/medical examiner reports, law enforcement reports, and secondary sources (e.g., child fatality review team data, supplemental homicide reports, hospital data, and crime laboratory data). This report includes data from 17 states that collected statewide data for 2013 (Alaska, Colorado, Georgia, Kentucky, Maryland, Massachusetts, North Carolina, New Jersey, New Mexico, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Utah, Virginia, and Wisconsin). NVDRS collates documents for each death and links deaths that are related (e.g., multiple homicides, a homicide followed by a suicide, or multiple suicides) from a single incident.
+   Results: For 2013, a total of 18,765 fatal incidents involving 19,251 deaths were captured by NVDRS in the 17 states included in this report. The majority (66.2%) of deaths were suicides, followed by homicides (23.2%), deaths of undetermined intent (8.8%), deaths involving legal intervention (1.2%) (i.e., deaths caused by law enforcement and other persons with legal authority to use deadly force, excluding legal executions), and unintentional firearm deaths (<1%). (The term legal intervention is a classification incorporated into the International Classification of Diseases, Tenth Revision [ICD-10] and does not denote the lawfulness or legality of the circumstances surrounding a death caused by law enforcement.) Suicides occurred at higher rates among males, non-Hispanic whites, American Indian/Alaska Natives, persons aged 45-64 years, and males aged 75 years. Suicides were preceded primarily by a mental health, intimate partner, or physical health problem or a crisis during the previous or upcoming 2 weeks. Homicide rates were higher among males and persons aged 15-44 years; rates were highest among non-Hispanic black males. Homicides primarily were precipitated by arguments and interpersonal conflicts, occurrence in conjunction with another crime, or were related to intimate partner violence (particularly for females). A known relationship between a homicide victim and a suspected perpetrator was most likely either that of an acquaintance or friend or an intimate partner. Legal intervention death rates were highest among males and persons aged 20-24 years and 30-34 years; rates were highest among non-Hispanic black males. Precipitating factors for the majority of legal intervention deaths were another crime, a mental health problem, or a recent crisis. Deaths of undetermined intent occurred at the highest rates among males and persons aged <1 year and 45-54 years. Substance abuse and mental or physical health problems were the most common circumstances preceding deaths of undetermined intent. Unintentional firearm death rates were higher among males, non-Hispanic whites, and persons aged persons aged 15-19 and 55-64 years; these deaths were most often precipitated by a person unintentionally pulling the trigger while playing with a firearm or while hunting.
+   Interpretation: This report provides a detailed summary of data from NVDRS for 2013. The results indicate that violent deaths resulting from self-inflicted or interpersonal violence disproportionately affected persons aged <65 years, males, and certain minority populations. For homicides and suicides, intimate partner problems, interpersonal conflicts, mental health problems, and recent crises were primary precipitating factors.
+   Public Health Action: NVDRS data are used to monitor the occurrence of violence-related fatal injuries and assist public health authorities in the development, implementation, and evaluation of programs and policies to reduce and prevent violent deaths. For example, Utah Violent Death Reporting System (VDRS) data were used to develop policies that support children of intimate partner homicide victims, Colorado VDRS data to develop a web-based suicide prevention program targeting middle-aged men, and Rhode Island VDRS data to help guide suicide prevention efforts at workplaces. The continued development and expansion of NVDRS to include all U.S. states, territories, and the District of Columbia are essential to public health efforts to reduce the impact of violence.
+C1 [Lyons, Bridget H.; Fowler, Katherine A.; Jack, Shane P. D.; Betz, Carter J.; Blair, Janet M.] CDC, Natl Ctr Injury Prevent & Control, Div Violence Prevent, Atlanta, GA 30333 USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Lyons, BH (corresponding author), CDC, Natl Ctr Injury Prevent & Control, Div Violence Prevent, Atlanta, GA 30333 USA.
+EM blyons@cdc.gov
+OI Lyons, Bridget/0000-0003-1152-9439
+NR 40
+TC 25
+Z9 25
+U1 0
+U2 21
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1545-8636
+J9 MMWR SURVEILL SUMM
+JI MMWR Surv. Summ.
+PD AUG 19
+PY 2016
+VL 65
+IS 10
+BP 1
+EP 42
+PG 42
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DX3MD
+UT WOS:000384276300001
+PM 27537325
+OA Green Published, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Jack, SPD
+   Petrosky, E
+   Lyons, BH
+   Blair, JM
+   Ertl, AM
+   Sheats, KJ
+   Betz, CJ
+AF Jack, Shane P. D.
+   Petrosky, Emiko
+   Lyons, Bridget H.
+   Blair, Janet M.
+   Ertl, Allison M.
+   Sheats, Kameron J.
+   Betz, Carter J.
+TI Surveillance for Violent Deaths - National Violent Death Reporting
+   System, 27 States, 2015
+SO MMWR SURVEILLANCE SUMMARIES
+LA English
+DT Article
+ID INTIMATE PARTNER VIOLENCE; UNITED-STATES; VICTIMIZATION; HOMICIDES;
+   PROGRAM; WOMEN; RISK
+AB Problem/Condition: In 2015, approximately 62,000 persons died in the United States as a result of violence-related injuries. This report summarizes data from CDC's National Violent Death Reporting System (NVDRS) regarding violent deaths from 27 U.S. states for 2015. Results are reported by sex, age group, race/ethnicity, location of injury, method of injury, circumstances of injury, and other selected characteristics.
+   Reporting Period: 2015.
+   Description of System: NVDRS collects data regarding violent deaths obtained from death certificates, coroner/medical examiner reports, law enforcement reports, and secondary sources (e.g., child fatality review team data, supplemental homicide reports, hospital data, and crime laboratory data). This report includes data from 27 states that collected statewide data for 2015 (Alaska, Arizona, Colorado, Connecticut, Georgia, Hawaii, Kansas, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, Utah, Vermont, Virginia, and Wisconsin). NVDRS collates documents for each death and links deaths that are related (e.g., multiple homicides, a homicide followed by a suicide, or multiple suicides) into a single incident.
+   Results: For 2015, NVDRS captured 30,628 fatal incidents involving 31,415 deaths in the 27 states included in this report. The majority (65.1%) of deaths were suicides, followed by homicides (23.5%), deaths of undetermined intent (9.5%), legal intervention deaths (1.3%) (i.e., deaths caused by law enforcement and other persons with legal authority to use deadly force, excluding legal executions), and unintentional firearm deaths (<1.0%). (The term "legal intervention" is a classification incorporated into the International Classification of Diseases, Tenth Revision [ICD-10] and does not denote the lawfulness or legality of the circumstances surrounding a death caused by law enforcement.) Demographic patterns varied by manner of death. Suicide rates were highest among males, non-Hispanic American Indian/Alaska Natives, non-Hispanic whites, adults aged 45-54 years, and men aged >= 75years. The most common method of injury was a firearm. Suicides often were preceded by a mental health, intimate partner, substance abuse, or physical health problem, or a crisis during the previous or upcoming 2 weeks. Homicide rates were higher among males and persons aged <1 year and 20-34 years. Among males, non-Hispanic blacks accounted for the majority of homicides and had the highest rate of any racial/ethnic group. Homicides primarily involved a firearm, were precipitated by arguments and interpersonal conflicts, were related to intimate partner violence (particularly for females), or occurred in conjunction with another crime. When the relationship between a homicide victim and a suspected perpetrator was known, an acquaintance/friend or an intimate partner frequently was involved. Legal intervention death rates were highest among males and persons aged 20-54 years; rates among non-Hispanic black males were approximately double the rates of those among non-Hispanic white males. Precipitating circumstances for legal intervention deaths most frequently were an alleged criminal activity in progress, the victim reportedly using a weapon in the incident, a mental health or substance abuse problem (other than alcohol abuse), an argument or conflict, or a recent crisis (during the previous or upcoming 2 weeks). Unintentional firearm deaths were more frequent among males, non-Hispanic whites, and persons aged 10-24 years; these deaths most often occurred while the shooter was playing with a firearm and most often were precipitated by a person unintentionally pulling the trigger or mistakenly thinking the firearm was unloaded. Deaths of undetermined intent were more frequent among males, particularly non-Hispanic black and American Indian/Alaska Native males, and persons aged 30-54 years. Substance abuse, mental health problems, physical health problems, and a recent crisis were the most common circumstances preceding deaths of undetermined intent. In 2015, approximately 3,000 current or former military personnel died by suicide. The majority of these decedents were male, non-Hispanic white, and aged 45-74 years. Most suicides among military personnel involved a firearm and were precipitated by mental health, physical health, and intimate partner problems, as well as a recent crisis.
+   Interpretation: This report provides a detailed summary of data from NVDRS for 2015. The results indicate that deaths resulting from self-inflicted or interpersonal violence most frequently affect males and certain age groups and minority populations. Mental health problems, intimate partner problems, interpersonal conflicts, and general life stressors were primary precipitating events for multiple types of violent deaths, including suicides among current or former military personnel.
+   Public Health Action: NVDRS data are used to monitor the occurrence of violence-related fatal injuries and assist public health authorities in the development, implementation, and evaluation of programs and policies to reduce and prevent violent deaths. For example, Virginia VDRS data are used to help identify suicide risk factors among active duty service members, Oregon VDRS suicide data are used to coordinate information and activities across community agencies that support veterans and active duty service members, and Arizona VDRS data are used to develop recommendations for primary care providers who deliver care to veterans. The continued development and expansion of NVDRS to include all 50 states, U.S. territories, and the District of Columbia are essential to public health efforts to reduce deaths due to violence.
+C1 [Jack, Shane P. D.; Petrosky, Emiko; Lyons, Bridget H.; Blair, Janet M.; Ertl, Allison M.; Sheats, Kameron J.; Betz, Carter J.] CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30341 USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Jack, SPD (corresponding author), CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30341 USA.
+EM spjack@cdc.gov
+RI Lyons, Bridget/IAO-2421-2023
+OI Lyons, Bridget/0000-0003-1152-9439
+NR 39
+TC 61
+Z9 77
+U1 1
+U2 17
+PU CENTERS  DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA 1600 CLIFTON RD, ATLANTA, GA 30333 USA
+SN 1545-8636
+J9 MMWR SURVEILL SUMM
+JI MMWR Surv. Summ.
+PD SEP 28
+PY 2018
+VL 67
+IS 11
+BP 1
+EP 32
+DI 10.15585/mmwr.ss6711a1
+PG 32
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GV1CK
+UT WOS:000445805200001
+PM 30260938
+OA Green Published, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Parks, SE
+   Johnson, LL
+   McDaniel, DD
+   Gladden, M
+AF Parks, Sharyn E.
+   Johnson, Linda L.
+   McDaniel, Dawn D.
+   Gladden, Matthew
+TI Surveillance for Violent Deaths - National Violent Death Reporting
+   System, 16 States, 2010
+SO MMWR SURVEILLANCE SUMMARIES
+LA English
+DT Article
+AB Problem/Condition: An estimated 55,000 persons die annually in the United States as a result of violence-related injuries. This report summarizes data from CDC's National Violent Death Reporting System (NVDRS) regarding violent deaths from 16 U. S. states for 2010. Results are reported by sex, age group, race/ethnicity, marital status, location of injury, method of injury, circumstances of injury, and other selected characteristics.
+   Reporting Period Covered: 2010.
+   Description of System: NVDRS collects data regarding violent deaths obtained from death certificates, coroner/medical examiner reports, law enforcement reports, and secondary sources (e. g., child fatality review team data, supplementary homicide reports, hospital data, and crime laboratory data). NVDRS data collection began in 2003 with seven states (Alaska, Maryland, Massachusetts, New Jersey, Oregon, South Carolina, and Virginia) participating; six states (Colorado, Georgia, North Carolina, Oklahoma, Rhode Island, and Wisconsin) joined in 2004, four (California, Kentucky, New Mexico, and Utah) in 2005, and two in 2010 (Ohio and Michigan), for a total of 19 states. This report includes data from 16 states that collected statewide data in 2010; data from California are not included in this report because data were not collected after 2009. Ohio and Michigan were excluded because data collection, which began in 2010, did not occur statewide until 2011.
+   Results: For 2010, a total of 15,781 fatal incidents involving 16,186 deaths were captured by NVDRS in the 16 states included in this report. The majority (62.8%) of deaths were suicides, followed by homicides and deaths involving legal intervention (i.e., deaths caused by law enforcement and other persons with legal authority to use deadly force, excluding legal executions) (24.4%), deaths of undetermined intent (12.2%), and unintentional firearm deaths (0.7%). Suicides occurred at higher rates among males, non-Hispanic whites, American Indians/Alaska Natives, and persons aged 45-54 years. Suicides most often occurred in a house or apartment and involved the use of firearms. Suicides were preceded primarily by a mental health or intimate partner problem, a crisis during the previous 2 weeks, or a physical health problem. Homicides occurred at higher rates among males and persons aged 20-24 years; rates were highest among non-Hispanic black males. The majority of homicides involved the use of a firearm and occurred in a house or apartment or on a street/highway. Homicides were precipitated primarily by arguments and interpersonal conflicts or in conjunction with another crime.
+   Interpretation: This report provides a detailed summary of data from NVDRS for 2010. The results indicate that violent deaths resulting from self-inflicted or interpersonal violence disproportionately affected persons aged < 55 years, males, and certain minority populations. For homicides and suicides, relationship problems, interpersonal conflicts, mental health problems, and recent crises were among the primary precipitating factors. Because additional information might be reported subsequently as participating states update their findings, the data provided in this report are preliminary.
+   Public Health Action: For the occurrence of violent deaths in the United States to be better understood and ultimately prevented, accurate, timely, and comprehensive surveillance data are necessary. NVDRS data can be used to monitor the occurrence of violence-related fatal injuries and assist public health authorities in the development, implementation, and evaluation of programs and policies to reduce and prevent violent deaths at the national, state, and local levels. NVDRS data have been used to enhance prevention programs. Examples include use of linked NVDRS data and adult protective service data to better target elder maltreatment prevention programs and improve staff training to identify violent death risks for older adults in North Carolina, use of Oklahoma VDRS homicide data to help evaluate the effectiveness of a new police and advocate intervention at domestic violence incident scenes, and data-informed changes in primary care practice in Oregon to more effectively address older adult suicide prevention. The continued development and expansion of NVDRS is essential to CDC's efforts to reduce the personal, familial, and societal impacts of violence. Further efforts are needed to increase the number of states participating in NVDRS, with an ultimate goal of full national representation.
+C1 [Parks, Sharyn E.; McDaniel, Dawn D.; Gladden, Matthew] CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30333 USA.
+   [Johnson, Linda L.] Acentia Corp, Atlanta, GA USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Gladden, M (corresponding author), CDC, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30333 USA.
+EM gkv7@cdc.gov
+NR 13
+TC 417
+Z9 488
+U1 3
+U2 97
+PU CENTER DISEASE CONTROL & PREVENTION
+PI ATLANTA
+PA MAILSTOP E-90, ATLANTA, GA 30333 USA
+SN 1545-8636
+J9 MMWR SURVEILL SUMM
+JI MMWR Surv. Summ.
+PD JAN 17
+PY 2014
+VL 63
+IS 1
+BP 1
+EP 34
+PG 34
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 302TK
+UT WOS:000330627600001
+PM 25356673
+HC Y
+HP N
+DA 2023-12-06
+ER
+
+PT J
+AU Lomia, N
+   Berdzuli, N
+   Sturua, L
+   Kereselidze, M
+   Topuridze, M
+   Pestvenidze, E
+   Stray-Pedersen, B
+AF Lomia, Nino
+   Berdzuli, Nino
+   Sturua, Lela
+   Kereselidze, Maia
+   Topuridze, Marina
+   Pestvenidze, Ekaterine
+   Stray-Pedersen, Babill
+TI Leading causes of death of women of reproductive age in the Republic of
+   Georgia: findings from the National Reproductive Age Mortality Survey
+   (2014)
+SO INTERNATIONAL JOURNAL OF WOMENS HEALTH
+LA English
+DT Article
+DE women's health; mortality; verbal autopsy; noncommunicable diseases;
+   injuries; cancer
+ID MULTIDRUG-RESISTANT TUBERCULOSIS; CORONARY-HEART-DISEASE; HEPATITIS-C
+   VIRUS; CERVICAL-CANCER; CARDIOVASCULAR-DISEASE; VERBAL AUTOPSY; CIVIL
+   REGISTRATION; HIGH PREVALENCE; RISK BEHAVIORS; SOVIET-UNION
+AB Purpose: An understanding of women's health problems during the reproductive years, based on reliable cause-of-death data, is of critical importance to avoid premature female mortality. This study aimed to investigate mortality levels, cause-specific patterns, and trends in women of reproductive age in Georgia.
+   Materials and methods: The National Reproductive Age Mortality Survey (2014) was conducted to identify all causes of death for women aged 15-49 years in 2012. The leading causes were compared with those in 2006, using directly age-standardized death rates (ASDRs). The accuracy of official cause-of-death data was assessed against verbal autopsy (VA) diagnoses, using kappa statistics, sensitivity, positive predictive value, and misclassification analyses.
+   Results: Of 913 eligible deaths, VAs were completed for 878 deaths. Noncommunicable diseases (NCDs) were the dominant causes of death (69.6% or 53.1/100,000), with cancer taking a major toll (45.2% or 34.5/100,000), followed by injuries (18.6% or 14.2/100,000). Breast cancer (12.5%), road injuries (9.1%), cervical cancer (6.5%), cerebrovascular diseases (5.2%), uterine cancer (4.1%), brain cancer (3.4%), suicide (3.1%), stomach cancer (3.0%), maternal disorders (2.6%), and liver cirrhosis (2.2%) contributed to the 10 leading specific causes of death, with the majority being substantially underreported in official statistics. This was primarily due to a significantly higher proportion (84%, p<0.05) of deaths routinely assigned ill-defined codes. Since 2006, statistically significant changes in ASDRs, with declines, were observed only for undetermined causes (40%, p<0.05) and ovarian cancer (54%, p<0.05); ovarian cancer and tuberculosis were replaced by stomach cancer and liver cirrhosis in the top 10 cause-of-death list.
+   Conclusion: NCDs continue to be the major health threats for Georgian women of reproductive age. The VA method proved a feasible tool to yield essential cause-of-death information for this population. Further research is needed to inform national health promotion and disease prevention interventions to be focused on NCDs and reproductive health needs with an integrated approach.
+C1 [Lomia, Nino; Berdzuli, Nino; Pestvenidze, Ekaterine; Stray-Pedersen, Babill] Univ Oslo, Fac Med, Inst Clin Med, Oslo, Norway.
+   [Sturua, Lela] Natl Ctr Dis Control & Publ Hlth, Dept Noncommunicable Dis, Tbilisi, Georgia.
+   [Kereselidze, Maia] Natl Ctr Dis Control & Publ Hlth, Dept Med Stat, Tbilisi, Georgia.
+   [Topuridze, Marina] Natl Ctr Dis Control & Publ Hlth, Dept Noncommunicable Dis, Hlth Promot Div, Tbilisi, Georgia.
+   [Stray-Pedersen, Babill] Oslo Univ Hosp, Rikshosp, Dept Obstet & Gynecol, Oslo, Norway.
+C3 University of Oslo; National Center for Disease Control & Public Health
+   - Georgia; National Center for Disease Control & Public Health -
+   Georgia; National Center for Disease Control & Public Health - Georgia;
+   University of Oslo; National Hospital Norway
+RP Lomia, N (corresponding author), Univ Oslo, Rikshosp, Inst Clin Med, Sognsvannsveien 20, N-0450 Oslo, Norway.
+EM ninolomia@yahoo.com
+OI Kereselidze, Maia/0000-0003-4016-327X; Lomia, Nino/0000-0003-3865-2584;
+   Pestvenidze, Ekaterine/0000-0001-5616-423X
+FU US International Development Agency; Letten Foundation
+FX The authors thank the US International Development Agency for funding
+   this study and Letten Foundation for providing financial support for
+   this work. The authors are also grateful to the NCDC&PH staff and all
+   other contributors to this study. The funding agency had no role in the
+   study design and data collection, data analysis, or preparation of this
+   manuscript.
+NR 82
+TC 6
+Z9 6
+U1 0
+U2 2
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-1411
+J9 INT J WOMENS HEALTH
+JI Int. J. Womens Health
+PY 2018
+VL 10
+BP 437
+EP 452
+DI 10.2147/IJWH.S164053
+PG 16
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Obstetrics & Gynecology
+GA GQ5WB
+UT WOS:000441763500001
+PM 30147381
+OA Green Submitted, Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Paulozzi, LJ
+   Mercy, J
+   Frazier, L
+   Annest, JL
+AF Paulozzi, LJ
+   Mercy, J
+   Frazier, L
+   Annest, JL
+TI CDC's national violent death reporting system: Background and
+   methodology
+SO INJURY PREVENTION
+LA English
+DT Article
+ID FIREARM; MANNER
+AB Objectives: This paper describes a new surveillance system called the National Violent Death Reporting System (NVDRS), initiated by the United States Centers for Disease Control and Prevention. NVDRS's mission is the collection of detailed, timely information on all violent deaths.
+   Design: NVDRS is a population based, active surveillance system designed to obtain a complete census of all resident and occurrent violent deaths. Each state collects information on its own deaths from death certificates, medical examiner/coroner files, law enforcement records, and crime laboratories. Deaths occurring in the same incident are linked. Over 270 data elements can be collected on each incident.
+   Setting: The 13 state health departments of Alaska, Colorado, Georgia, Maryland, Massachusetts, New Jersey, North Carolina, Oklahoma, Oregon, Rhode Island, South Carolina, Virginia, and Wisconsin.,
+   Subjects: Cases consist of violent deaths from suicide, homicide, undetermined intent, legal intervention, and unintentional firearm injury. Information is collected on suspects as well as victims.
+   Interventions: None.
+   Outcome measures: The quality of surveillance will be measured in terms of its acceptability, accuracy, sensitivity, timeliness, utility, and cost.
+   Results: The system has just been started. There are no results as yet.
+   Conclusions: NVDRS has achieved enough support to begin data collection efforts in selected states. This system will need to overcome the significant barriers to such a large data collection effort. Its success depends on the use of its data to inform and assess violence prevention efforts. If successful, it will open a new chapter in the use of empirical information to guide public policy around violence in the United States.
+C1 Ctr Dis Control & Prevent, Div Violence Prevent, Natl Ctr Injury Prevent & Control, Atlanta, GA 30341 USA.
+C3 Centers for Disease Control & Prevention - USA
+RP Paulozzi, LJ (corresponding author), Ctr Dis Control & Prevent, Div Violence Prevent, Natl Ctr Injury Prevent & Control, 4770 Buford Hwy NE,Mailstop K60, Atlanta, GA 30341 USA.
+EM lbpA@cdc.gov
+NR 15
+TC 124
+Z9 142
+U1 0
+U2 4
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD FEB
+PY 2004
+VL 10
+IS 1
+BP 47
+EP 52
+DI 10.1136/ip.2003.003434
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 778RL
+UT WOS:000189254500012
+PM 14760027
+OA Green Published, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Bradley, B
+   DeFife, JA
+   Guarnaccia, C
+   Phifer, J
+   Fani, N
+   Ressler, KJ
+   Westen, D
+AF Bradley, Bekh
+   DeFife, Jared A.
+   Guarnaccia, Clifford
+   Phifer, Justine
+   Fani, Negar
+   Ressler, Kerry J.
+   Westen, Drew
+TI Emotion Dysregulation and Negative Affect: Association With Psychiatric
+   Symptoms
+SO JOURNAL OF CLINICAL PSYCHIATRY
+LA English
+DT Article
+ID BORDERLINE PERSONALITY-DISORDER; POSTTRAUMATIC-STRESS-DISORDER; CITY
+   SUBSTANCE USERS; ABUSE SCREENING-TEST; ASSESSING AXIS II; INTERNALIZING
+   SYMPTOMS; INDIVIDUAL-DIFFERENCES; LONGITUDINAL COURSE; TRAUMA EXPOSURE;
+   FOLLOW-UP
+AB Objective: A growing body of research focuses on the development and correlates of emotion dysregulation, or deficits in the ability to regulate intense and shifting emotional states. Current models of psychopathology have incorporated the construct of emotion dysregulation, suggesting its unique and interactive contributions, along with childhood disruptive experiences and negative affect, in producing symptomatic distress. Some researchers have suggested that emotion dysregulation is simply a variant of high negative affect. The aim of this study was to assess the construct and incremental validity of self-reported emotion dysregulation over and above childhood trauma and negative affect in predicting a range of psychopathology.
+   Method: Five hundred thirty individuals aged 18 to 77 years (62% female) were recruited from the waiting areas of the general medical and obstetric/gynecologic clinics in an urban public hospital in Atlanta, Georgia. Participants completed a battery of self-report measures obtained by interview, including the Childhood Trauma Questionnaire, the Positive and Negative Affect Schedule, and the Emotion Dysregulation Scale. Regression analyses examined the unique and incremental associations of these self-report measurements of childhood traumatic experiences, negative affect, and emotion dysregulation with concurrent structured interview-based measurements of psychiatric distress and history of self-destructive behaviors. These measures included the Clinician-Administered PTSD Scale, the Alcohol Use Disorders Identification Test, the Short Drug Abuse Screening Test, the Beck Depression Inventory, and the Global Adaptive Functioning Scale from the Longitudinal Interval Follow-Up Evaluation. The presented data were collected between 2005 and 2009.
+   Results: Regression models including age, gender, childhood trauma, negative affect, and emotion dysregulation were significantly (P <= .001) associated with each of the study's criterion variables, accounting for large portions of the variance in posttraumatic stress symptoms (R-2=0.21), alcohol and drug abuse (R-2=0.28 and 0.21, respectively), depression (R-2=0.55), adaptive functioning (R-2=0.14), and suicide history (omnibus chi(2)=74.80, P<.001). Emotion dysregulation added statistically significant (P<.01) incremental validity to each regression model (beta=0.25, 0.34, 0.35, 0.34, and -0.18, and Wald = 24.43, respectively).
+   Conclusions: Results support the conceptualization of emotion dysregulation as a distinct and clinically meaningful construct associated with psychiatric distress that is not reducible to negative affect. Emotion dysregulation is a key component in a range of psychiatric symptoms and disorders and a core target for psychopharmacologic and psychosocial treatment interventions. J Clin Psychiatry 2011;72(5):685-691 (C) Copyright 2011 Physicians Postgraduate Press, Inc.
+C1 [DeFife, Jared A.] Emory Univ, Lab Personal & Psychopathol, Dept Psychol, Sch Med, Atlanta, GA 30332 USA.
+   [Bradley, Bekh; Phifer, Justine; Fani, Negar; Ressler, Kerry J.; Westen, Drew] Emory Univ, Sch Med, Dept Psychiat & Behav Sci, Atlanta, GA 30332 USA.
+   [Ressler, Kerry J.] Emory Univ, Yerkes Natl Primate Res Ctr, Atlanta, GA 30332 USA.
+   [Bradley, Bekh] Atlanta Vet Affairs Med Ctr, Atlanta, GA USA.
+   [Ressler, Kerry J.] Howard Hughes Med Inst, Chevy Chase, MD USA.
+C3 Emory University; Emory University; Emory University; US Department of
+   Veterans Affairs; Veterans Health Administration (VHA); Atlanta VA
+   Health Care System; Howard Hughes Medical Institute
+RP DeFife, JA (corresponding author), Emory Univ, Lab Personal & Psychopathol, Dept Psychol, Sch Med, 36 Eagle Row,Ste 415, Atlanta, GA 30332 USA.
+EM jdefife@emory.edu
+RI Bradley, Bekh/H-8399-2012; Fani, Negar/AAW-1445-2021; Fani,
+   Negar/O-8274-2017; Ressler, Kerry J/N-8741-2018
+OI Fani, Negar/0000-0002-7720-252X; Fani, Negar/0000-0002-7720-252X;
+   Ressler, Kerry J/0000-0002-5158-1103; DeFife, Jared/0000-0003-3445-2294
+FU National Institute of Mental Health, Bethesda, Maryland [MH071537,
+   MH078100, MH082256]; Emory and Grady Memorial Hospital General Clinical
+   Research Center, Atlanta, Georgia; National Institutes of Health
+   National Centers for Research Resources, Bethesda, Maryland
+   [M01RR00039]; American Foundation for Suicide Prevention, New York, New
+   York; Burroughs Wellcome Fund, Research Triangle Park, North Carolina
+FX This work was primarily supported by the National Institute of Mental
+   Health (grants MH071537, MH078100, and MH082256), Bethesda, Maryland;
+   Emory and Grady Memorial Hospital General Clinical Research Center,
+   Atlanta, Georgia; the National Institutes of Health National Centers for
+   Research Resources (grant M01RR00039), Bethesda, Maryland; the American
+   Foundation for Suicide Prevention, New York, New York; and the Burroughs
+   Wellcome Fund, Research Triangle Park, North Carolina.
+NR 87
+TC 205
+Z9 265
+U1 1
+U2 58
+PU PHYSICIANS POSTGRADUATE PRESS
+PI MEMPHIS
+PA P O BOX 752870, MEMPHIS, TN 38175-2870 USA
+SN 0160-6689
+EI 1555-2101
+J9 J CLIN PSYCHIAT
+JI J. Clin. Psychiatry
+PD MAY
+PY 2011
+VL 72
+IS 5
+BP 685
+EP 691
+DI 10.4088/JCP.10m06409blu
+PG 7
+WC Psychology, Clinical; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 772NM
+UT WOS:000291240600015
+PM 21658350
+OA Green Accepted
+DA 2023-12-06
+ER
+
+EF

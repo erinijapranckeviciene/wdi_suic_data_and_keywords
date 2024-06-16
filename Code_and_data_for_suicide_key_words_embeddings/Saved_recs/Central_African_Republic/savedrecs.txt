@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Flaherty, MG
+   Roberts, LF
+AF Flaherty, Mary Grace
+   Roberts, Leslie F.
+TI Internet searching produces misleading findings regarding violent deaths
+   in crisis settings: short report
+SO CONFLICT AND HEALTH
+LA English
+DT Letter
+DE Violent death rate; Internet searching; Humanitarian injustice
+AB Donor and agency priorities are influenced by a variety of political, social, and media-related forces that can have a profound impact on response and resource provision. We have attempted to assess how well internet searches articulate the span of violent death rates for five current crisis settings. In three graduate classes (2 public health, 1 information science) at US universities, during a four month period in 2017-2018, we asked approximately 60 graduate students to conduct an internet search to determine which of five countries had the highest and lowest violence specific mortality rate: Venezuela, Syria, Yemen, Central African Republic (CAR), or Mali. Students were divided into groups of three, and within each group explored this question by three approaches. Many graduate students in all groups could not determine the relative rates, especially which country had the lowest violence specific mortality rate. Of the 34 searches that identified a highest violent death rate country, 27.5 (81%) concluded it was Venezuela, followed by Syria (4.5; 13%), Mali (1; 3%) and CAR (1; 3%). Of the 26 searches that identified a least violent death rate 21.5 (83%) reported either CAR or Mali, followed by Yemen (2.5; 10%) and Syria (2; 8%). Aside from lack of data on CAR and Mali, students were perplexed about whether to include suicides or executions in the measure. This resulted in almost half of all inquiries unable to estimate a highest and lowest rate among these five countries. Where conclusions were drawn, it is likely the internet drew students to the opposite conclusion from reality. There are several reasons for this discordance, such as differing categories of violent deaths as defined by the World Health Organization, and search engine algorithms. It is probable, however, that larger issues of connectivity of individual societies with each other and the outside world are playing a profound role in the deceptive results found in this exercise. This insight emphasizes the internet's under-reporting in the world's most poor and remote locations, and highlights the importance of primary data collection and reporting in such settings.
+C1 [Flaherty, Mary Grace] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+   [Roberts, Leslie F.] Columbia Univ, Mailman Sch Publ Hlth, Populat & Family Hlth, New York, NY 10023 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Columbia University
+RP Flaherty, MG (corresponding author), Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+EM mgflaher@email.unc.edu
+OI Flaherty, Mary Grace/0000-0002-8623-4259
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PD FEB 15
+PY 2019
+VL 13
+AR 4
+DI 10.1186/s13031-019-0187-z
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HL9CG
+UT WOS:000459039400001
+PM 30815029
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

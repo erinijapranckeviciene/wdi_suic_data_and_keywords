@@ -1,0 +1,501 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pacha, NA
+AF Pacha, N. Ali
+TI Algeria, from social issue to self-immolation; autopsy of a
+   "fashionable" suicide
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Pacha, N. Ali] A Mira Univ, Med, Bejaia, Algeria.
+C3 Universite de Bejaia
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2017
+VL 41
+SU S
+MA EV1458
+BP S884
+EP S884
+DI 10.1016/j.eurpsy.2017.01.1788
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EZ8CS
+UT WOS:000404952600851
+DA 2023-12-03
+ER
+
+PT J
+AU Benabbas, M
+   Benelmouloud, O
+AF Benabbas, M.
+   Benelmouloud, O.
+TI Psychological autopsies, suicide and psychopathological significance
+   (Results of a survey of mental health from 2000 to 2008 in east of
+   Algeria)
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Benabbas, M.] HMRU C5e RM, Psychiat, Constantine, Algeria.
+   [Benelmouloud, O.] Univ Constantine 3, Psychiat, Fac Med, Constantine, Algeria.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2017
+VL 41
+SU S
+MA EV1460
+BP S884
+EP S885
+DI 10.1016/j.eurpsy.2017.01.1790
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EZ8CS
+UT WOS:000404952600853
+DA 2023-12-03
+ER
+
+PT C
+AU Akli, FM
+AF Akli, Faradji Mohamed
+BE Uslu, F
+TI YOUTH SUICIDE IN ALGERIA: A FORM OF SOCIAL EXCLUSION?
+SO ADVED 2017: 3RD INTERNATIONAL CONFERENCE ON ADVANCES IN EDUCATION AND
+   SOCIAL SCIENCE
+LA English
+DT Proceedings Paper
+CT 3rd International Conference on Advances in Education and Social Science
+   (ADVED)
+CY OCT 09-11, 2017
+CL Istanbul, TURKEY
+DE Suicide; Kabylie; sociologie; social exclusion
+AB The suicide phenomenon is assuming alarming proportions worldwide; an average of 1,200 cases of suicide per day recorded by the World Health organization.
+   In Algeria, the phenomenon has long remained taboo subject, despite its scientific importance, and its profound consequences, which continue to touch the brunt of the population in general and youth in particular.
+   Suicide has experienced in recent years, a wide media coverage which tends to regard it as the result of several factors. This transition to the act is often associated with problems of the population and the difficulties of everyday life.
+   This communication proposes therefore a sociological reading of deferent observed suicidal tendencies, and analyzed, from, of an empirical survey conducted in the last two years in the region of Kabylia. The aim through this proposal; is to try to explain the specificity of cultural and sociological factors that characterize the phenomenon of suicide in this region.
+C1 [Akli, Faradji Mohamed] Univ Bejaia, Bejaia 06000, Algeria.
+C3 Universite de Bejaia
+RP Akli, FM (corresponding author), Univ Bejaia, Bejaia 06000, Algeria.
+EM Algeria.faradji_makli@yahoo.fr
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 1
+PU INT ORGANIZATION CENTER ACAD RESEARCH
+PI ISTANBUL
+PA YUNUS EMRE CAD AKASYA SK NO 22, UGUR MUMCU, ISTANBUL, KARTAL 00000,
+   TURKEY
+BN 978-605-82433-0-9
+PY 2017
+BP 540
+EP 547
+PG 8
+WC Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Social Sciences - Other Topics
+GA BK1II
+UT WOS:000431839500078
+DA 2023-12-03
+ER
+
+PT S
+AU Aliouche, H
+   Fernandez, DB
+AF Aliouche, Hachemi
+   Fernandez, Dominique Bonet
+BE Hendrikse, GWJ
+   Cliquet, G
+   Ehrmann, T
+   Windsperger, J
+TI Social Entrepreneurship and Franchising: A Panacea for Emerging
+   Countries? The Case of Algeria
+SO MANAGEMENT AND GOVERNANCE OF NETWORKS: FRANCHISING, COOPERATIVES, AND
+   STRATEGIC ALLIANCES
+SE Contributions to Management Science
+LA English
+DT Article; Book Chapter
+ID AGENCY THEORY; FIRMS
+AB One of the most intractable social and economic challenges in emerging countries, namely, high unemployment, may be tackled by social entrepreneurship and franchising. In this ongoing research, we focus on Algeria as the case study to demonstrate the practical application of social entrepreneurship and franchising in an emerging country. Though Algeria has invested heavily in large-scale government- sponsored employment programs, unemployment, especially among the youth, remains stubbornly high, leading to a number of serious social and security problems (criminality, drug usage, suicides, illegal emigration, terrorism, etc.). We argue that social entrepreneurship combined with franchising has the potential to foster quickly a large number of social entrepreneurs, leading to the creation of a large number of sustainable jobs, especially among the educated youth in Algeria and, by extension, in many emerging countries.
+C1 [Aliouche, Hachemi] Univ New Hampshire, Peter T Paul Coll Business & Econ, Rosenberg Int Franchise Ctr, 10 Garrison Ave, Durham, NH 03824 USA.
+   [Fernandez, Dominique Bonet] Aix Marseille Univ, IPAG Business Sch, CRET LOG, 184 Blvd St Germain, F-75006 Paris, France.
+C3 University System Of New Hampshire; University of New Hampshire; IPAG
+   Business School; Aix-Marseille Universite
+RP Aliouche, H (corresponding author), Univ New Hampshire, Peter T Paul Coll Business & Econ, Rosenberg Int Franchise Ctr, 10 Garrison Ave, Durham, NH 03824 USA.; Fernandez, DB (corresponding author), Aix Marseille Univ, IPAG Business Sch, CRET LOG, 184 Blvd St Germain, F-75006 Paris, France.
+EM hachemi.aliouche@unh.edu; d.bonet@ipag.fr
+NR 35
+TC 4
+Z9 5
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013, UNITED STATES
+SN 1431-1941
+BN 978-3-319-57276-5; 978-3-319-57275-8
+J9 CONTRIB MANAG SCI
+PY 2017
+BP 75
+EP 90
+DI 10.1007/978-3-319-57276-5_5
+D2 10.1007/978-3-319-57276-5
+PG 16
+WC Business; Management
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Business & Economics
+GA BK8ZS
+UT WOS:000444178300005
+DA 2023-12-03
+ER
+
+PT J
+AU McManus, AM
+AF McManus, Anne-Marie
+TI SENTIMENTAL TERROR NARRATIVES GENDERING VIOLENCE, DIVIDING SYMPATHY
+SO JOURNAL OF MIDDLE EAST WOMENS STUDIES
+LA English
+DT Article
+ID MEDIA
+AB Why do novels and studies originating in the United States and Europe sympathetically depict Middle Eastern women who commit or support forms of violence identified as terrorist? This article draws on scholarship on cosmopolitanism and the sentimental novel, as well as on novelistic and journalistic accounts of Palestinian female suicide bombers from the United States and Algeria/France: Barbara Victor's Army of Roses: Inside the World of Palestinian Suicide Bombers (Rodale, 2003) and Yasmina Khadra's The Attack (Doubleday, 2005). It argues that sentimental terror narratives use gendered, maternal imagery to produce a liberal stance on terrorism that combines sympathetic comprehension of the forces that foster violence with condemnation of the violence itself The article uses Syrian novelist Khaled Khalifa's Madih al-Karahiya (In Praise of Hatred, 2006) as an alternative literary depiction of gender and violence, aimed at a Syrian audience, that produces non-normative forms of sympathy to foster national reconciliation after civil conflict.
+C1 [McManus, Anne-Marie] Yale Univ, New Haven, CT 06520 USA.
+   [McManus, Anne-Marie] Washington Univ, St Louis, MO 63130 USA.
+C3 Yale University; Washington University (WUSTL)
+RP McManus, AM (corresponding author), Yale Univ, New Haven, CT 06520 USA.
+NR 59
+TC 9
+Z9 9
+U1 0
+U2 14
+PU DUKE UNIV PRESS
+PI DURHAM
+PA 905 W MAIN ST, STE 18-B, DURHAM, NC 27701 USA
+SN 1552-5864
+EI 1558-9579
+J9 J MIDDLE E WOMENS ST
+JI J. Middle East Womens Stud.
+PD SPR
+PY 2013
+VL 9
+IS 2
+BP 80
+EP 107
+DI 10.2979/jmiddeastwomstud.9.2.80
+PG 28
+WC Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Women's Studies
+GA 153VO
+UT WOS:000319630800005
+DA 2023-12-03
+ER
+
+PT J
+AU Hawley, JC
+AF Hawley, John C.
+TI Jihad as rite of passage: Tahar Djaout's <i>The Last Summer of
+   Reason</i> and Slimane Benaissa's <i>The Last Night of a Damned Soul</i>
+SO JOURNAL OF POSTCOLONIAL WRITING
+LA English
+DT Article
+DE jihad; masculinities; fundamentalism; conversion; Tahar Djaout; Slimane
+   Benaissa
+AB Two recent novels by Algerians (Tahar Djaout's The Last Summer of Reason, and Slimane Benaissa's The Last Night of a Damned Soul) offer critiques of Islamic totalitarianism in two settings: local Arab states like the one fictionalized by Djaout, and the cosmopolitan community of diasporic Muslims recruited to the ranks of suicide bombers in the name of self-and social purification. Djaout, assassinated by fundamentalists outside his home in Algeria for writing against them, and Benaissa, charting the psychological path towards violence taken by one westernized Muslim in the United States, instantiate the ongoing debate within Islam.
+C1 Santa Clara Univ, Santa Clara, CA 95053 USA.
+C3 Santa Clara University
+RP Hawley, JC (corresponding author), Santa Clara Univ, Santa Clara, CA 95053 USA.
+EM jhawley@scu.edu
+NR 37
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1744-9855
+EI 1744-9863
+J9 J POSTCOLONIAL WRIT
+JI J. Postcolonial Writ.
+PY 2010
+VL 46
+IS 3-4
+SI SI
+BP 394
+EP 404
+DI 10.1080/17449855.2010.482429
+PG 11
+WC Literature
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA V33GH
+UT WOS:000209006800015
+DA 2023-12-03
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-03
+ER
+
+PT J
+AU Ouellet, E
+   Lacroix-Leclair, J
+   Pahlavi, P
+AF Ouellet, Eric
+   Lacroix-Leclair, Jerome
+   Pahlavi, Pierre
+TI The Institutionalization of Al-Qaeda in the Islamic Maghreb (AQMI)
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+DE Algeria; Al-Qaeda; AQMI; institutional analysis; Maghreb; suicide
+   bombing; terrorism
+ID TERRORISM
+AB A number of observers have expressed serious concerns that Al-Qaeda in the Islamic Maghreb (AQMI), as it expands in the Sahel, may become strong enough to be a threat to Europe and carry on the global mission of Al-Qaeda as conceived by bin Laden. This fear seems unwarranted. Using institutional analysis to study the AQMI behavioral fluctuations over the last decade, this article argues that AQMI's need to find a compromise between external and internal legitimacy has constrained its behavior. The affiliation of the Algerian terrorists with Al-Qaeda was in many ways a marriage of convenience that created a number of internal contradictions. At the cognitive level, implicit Algerian nationalism to rid the country of its corrupt regime remains at odds with pan-Islamic views shared by Al-Qaeda's leadership. At the normative level, indiscriminate suicide bombing supported by Al-Qaeda is abhorrent to many Algerian terrorists, who construe their mandate in the spirit of the Algerian war of independence where it is their duty to protect civilians. These and other contradictions prevent AQMI from developing a coherent political agenda and thus it is less likely to engage in a long-term conflict against European societies.
+C1 [Ouellet, Eric; Pahlavi, Pierre] Canadian Forces Coll, Dept Def Studies, Toronto, ON M5M 3H9, Canada.
+   [Ouellet, Eric; Pahlavi, Pierre] Royal Mil Coll Canada, Toronto, ON M5M 3H9, Canada.
+   [Lacroix-Leclair, Jerome] French Air Force, Paris, France.
+C3 Royal Military College - Canada
+RP Ouellet, E (corresponding author), Canadian Forces Coll, Dept Def Studies, 215 Yonge Blvd, Toronto, ON M5M 3H9, Canada.
+EM eric.ouellet@rmc.ca
+RI Ouellet, Eric/JPL-0978-2023
+NR 52
+TC 4
+Z9 5
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0954-6553
+EI 1556-1836
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PY 2014
+VL 26
+IS 4
+BP 650
+EP 665
+DI 10.1080/09546553.2012.745853
+PG 16
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA AN0AX
+UT WOS:000340244700009
+DA 2023-12-03
+ER
+
+PT J
+AU Aksoy, D
+   Carter, DB
+   Wright, J
+AF Aksoy, Deniz
+   Carter, David B.
+   Wright, Joseph
+TI Terrorism In Dictatorships
+SO JOURNAL OF POLITICS
+LA English
+DT Article
+ID TIME-SERIES ANALYSIS; TRANSNATIONAL TERRORISM; AUTHORITARIAN
+   INSTITUTIONS; POLITICAL VIOLENCE; SUICIDE TERRORISM; STRATEGIC LOGIC;
+   DEMOCRACY; ALGERIA; WAR; CONFLICT
+AB A key finding in the terrorism literature is that dictatorships experience less terrorism than democracies. However, we have few explanations for why some dictatorships experience substantial threats from terrorism while others do not. A growing body of work on authoritarian politics focuses on political institutions in these regimes to explain a broad range of political outcomes. Building on this literature, we argue that opposition political party activity increases the collective action capacity of regime opponents and that elected legislatures can channel this mobilized capacity into support for the government. However, when active opposition parties operate in the absence of legislatures, political opponents increasingly turn to terrorism. We find evidence that terrorist groups are most likely to emerge in dictatorships with opposition political parties but no elected legislature. These regimes also experience the highest volume of subsequent attacks.
+C1 [Aksoy, Deniz; Carter, David B.] Princeton Univ, Dept Polit, Princeton, NJ 08544 USA.
+   [Aksoy, Deniz] Princeton Univ, Woodrow Wilson Sch, Princeton, NJ 08544 USA.
+   [Wright, Joseph] Penn State Univ, Dept Polit Sci, University Pk, PA 16802 USA.
+C3 Princeton University; Princeton University; Pennsylvania Commonwealth
+   System of Higher Education (PCSHE); Pennsylvania State University;
+   Pennsylvania State University - University Park
+RP Aksoy, D (corresponding author), Princeton Univ, Dept Polit, Princeton, NJ 08544 USA.
+NR 75
+TC 63
+Z9 76
+U1 0
+U2 30
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0022-3816
+J9 J POLIT
+JI J. Polit.
+PD JUL
+PY 2012
+VL 74
+IS 3
+BP 810
+EP 826
+DI 10.1017/S0022381612000400
+PG 17
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA 985CR
+UT WOS:000307241500022
+DA 2023-12-03
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-03
+ER
+
+PT J
+AU Bjegovic-Mikanovic, V
+   Abousbie, ZAS
+   Breckenkamp, J
+   Wenzel, H
+   Broniatowski, R
+   Nelson, C
+   Vukovic, D
+   Laaser, U
+AF Bjegovic-Mikanovic, Vesna
+   Abousbie, Zeyad Ali Salem
+   Breckenkamp, Juergen
+   Wenzel, Helmut
+   Broniatowski, Raphael
+   Nelson, Chase
+   Vukovic, Dejana
+   Laaser, Ulrich
+TI A gap analysis of SDG 3 and MDG 4/5mortality health targets in the six
+   Arabic countries of North Africa: Egypt, Libya, Tunisia, Algeria,
+   Morocco, and Mauritania
+SO LIBYAN JOURNAL OF MEDICINE
+LA English
+DT Article
+DE North Africa; Sustainable Development Goals; health development targets;
+   gap analysis; Maternal and Child Health; non-communicable diseases;
+   deadly traffic injuries
+ID MATERNAL MORTALITY
+AB Background: The United Nations Assembly adopted the Sustainable Development Goals to succeed the Millennium Development Goals in September 2015. From a European perspective, the development of health in the countries of North Africa are of special interest as a critical factor of overall social development in Europe's Mediterranean partners. In this paper, we address the mortality related SDG-3 targets, the likelihood to achieve them until 2030 and analyze how they are defined. Methods: We projected mortality trends from 2000-2015 to 2030, based on mortality estimates by inter-agency groups and the WHO in mother and child health, non-communicable diseases, and road traffic mortality. The gap analysis compares the time remaining until 2030 to the time needed to complete the target assuming a linear trend of the respective indicator. A delay of not more than 3.75 years is considered likely to achieve the target. Results: The SDG-3 targets of a Maternal Mortality Ratio below 70 per 100 000 live births and an U5MR below 25 per 1 000 live births have been achieved by Egypt, Libya, and Tunisia. Libya and Tunisia have also achieved the target for Newborn Mortality with Egypt close to achieving it as well. Algeria and Morocco are generally on track for most of the indicators, including deaths from non-communicable diseases and suicide rates; however, all of the countries are lagging when it comes to deadly Road Traffic Injuries for 2030. Mauritania is the only North African country which is not likely to reach the 2030 targets for any of the mortality indicators. Conclusions: Although mortality statistics may be incomplete there is an impressive gradient from East to West showing Mauritania and deadly road traffic injuries as the most problematic areas. Given the large differences between countries baselines, we consider it preferable to set realistic targets to be achieved until 2030.
+C1 [Bjegovic-Mikanovic, Vesna; Vukovic, Dejana] Univ Belgrade, Fac Med, Inst Social Med, Belgrade, Serbia.
+   [Abousbie, Zeyad Ali Salem] Univ Belgrade, Fac Med, Sch Publ Hlth & Management, Belgrade, Serbia.
+   [Breckenkamp, Juergen; Laaser, Ulrich] Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+   [Broniatowski, Raphael; Nelson, Chase] EPOS Consulting, Bad Homburg, Germany.
+C3 University of Belgrade; University of Belgrade; University of Bielefeld
+RP Breckenkamp, J (corresponding author), Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+EM juergen.breckenkamp@uni-bielefeld.de
+RI Bjegovic-Mikanovic, Vesna/AAD-9847-2019; Laaser, Ulrich/ACH-6512-2022;
+   Laaser, Ulrich/AAE-9755-2022; Laaser, Ulrich/AAD-9790-2019
+OI Bjegovic-Mikanovic, Vesna/0000-0002-8299-6555; Laaser,
+   Ulrich/0000-0001-5889-4471; Vukovic, Dejana/0000-0002-3323-3711
+FU Open Access Publication Fund of Bielefeld University
+FX We acknowledge support for the Article Processing Charge by the Open
+   Access Publication Fund of Bielefeld University.
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1993-2820
+EI 1819-6357
+J9 LIBYAN J MED
+JI Libyan J. Med.
+PD JAN 1
+PY 2019
+VL 14
+IS 1
+AR 1607698
+DI 10.1080/19932820.2019.1607698
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HV6PD
+UT WOS:000466104400001
+PM 31032713
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+EF

@@ -1,0 +1,48 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Moyo, S
+AF Moyo, Stanzia
+TI Indigenous knowledge systems and attitudes towards male infertility in
+   Mhondoro-Ngezi, Zimbabwe
+SO CULTURE HEALTH & SEXUALITY
+LA English
+DT Article
+DE male infertility; indigenous knowledge; psychosocial impacts; Zimbabwe
+ID EXPERIENCES; GAMBIA
+AB Male impotence and infertility are health and social problems that have resulted in significant suffering to men the world over. From an African perspective, and in Zimbabwe in particular, the taboo nature of male impotence and infertility carries a lot of mystique. Based on evidence from focus-group discussions, in-depth and key-informant interviews, this study reveals rural Shona people to have indigenous knowledge systems that trigger the investigatation of signs of impotence (perceived as associated with male infertility) at infancy, puberty and after marriage. Male infertility carries overtones of failure, frustration, pain, social ostracism, stigma, marital instability, discomfiture and suicide. Intervention strategies to remedy perceived problems were exclusively sociocultural, involving the administration of traditional herbs and traditional healers' divination. Given the existence of indigenous knowledge systems for the investigation and mediation of male impotence and infertility, it is worth incorporating traditional healers in future strategies targeting these emasculating conditions. La impotencia y la infertilidad masculinas son problemas sociales y sanitarios que causan mucho sufrimiento a los hombres en todo el mundo. Desde una perspectiva africana, y de Zimbabue en particular, el caracter tabu de la impotencia y la infertilidad masculinas tiene mucha mistica. Basandonos en datos recogidos en charlas en grupo y en entrevistas exhaustivas con informantes clave, en este estudio indicamos que el pueblo Shona rural utiliza sistemas indigenas de conocimiento para poner en marcha un sistema que estudia los signos de impotencia (percibida como asociada a la infertilidad masculina) en la infancia, la pubertad y despues del matrimonio. La infertilidad masculina esta asociada a fracaso, frustracion, dolor, ostracismo social, estigma, inestabilidad matrimonial, decepcion y suicidio. Las estrategias de intervencion para remediar los problemas percibidos eran exclusivamente socioculturales, entre ellas la administracion de hierbas tradicionales y la divinacion de curanderos tradicionales. Dada la existencia de los sistemas indigenas de conocimiento para el estudio y la mediacion de la impotencia y la infertilidad masculinas, seria positivo que en los futuros programas sobre estos trastornos de la poblacion masculina se tuviera en cuenta a los curanderos tradicionales. L'impuissance et l'infertilite masculines sont des problemes sanitaires et sociaux qui ont pour consequence une souffrance considerable parmi les hommes dans le monde. Dans une vision africaine, au Zimbabwe en particulier, le caractere tabou de ces troubles leur confere une forte dimension mystique. S'appuyant sur des preuves ayant emerge de discussions de groupes thematiques, d'entretiens en profondeur et avec des informateurs cle, cette etude revele que chez les Shona vivant dans les zones rurales il existe des systemes de connaissance qui permettent la recherche de signes d'impuissance (percue comme associee a l'infertilite masculine) a la prime enfance, a la puberte et apres le mariage. L'infertilite masculine a des connotations d'echec, de frustration, de douleur, d'ostracisme social, de stigma, d'instabilite conjugale, de desarroi et de suicide. Les traitements des problemes dont la presence est percue grace a ces methodes sont exclusivement socio-culturels et comprennent l'administration d'herbes traditionnelles et la divination de guerisseurs traditionnels.
+   Etant donnee l'existence de ces systemes indigenes de connaissance permettant la recherche et la soumission a la mediation de l'impuissance et de l'infertilite masculines, il convient d'integrer les guerisseurs traditionnels aux futures strategies ciblant ces troubles castrateurs.
+C1 Univ Zimbabwe, Ctr Populat Studies, Harare, Zimbabwe.
+C3 University of Zimbabwe
+RP Moyo, S (corresponding author), Univ Zimbabwe, Ctr Populat Studies, Harare, Zimbabwe.
+EM moyos@sociol.uz.ac.zw
+NR 43
+TC 16
+Z9 17
+U1 1
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-1058
+EI 1464-5351
+J9 CULT HEALTH SEX
+JI Cult. Health Sex
+PD JUN 1
+PY 2013
+VL 15
+IS 6
+BP 667
+EP 679
+DI 10.1080/13691058.2013.779029
+PG 13
+WC Family Studies; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Biomedical Social Sciences
+GA 163TM
+UT WOS:000320359800003
+PM 23550631
+DA 2023-12-06
+ER
+
+EF

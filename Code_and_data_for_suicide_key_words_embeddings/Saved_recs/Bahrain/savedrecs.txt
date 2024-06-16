@@ -1,0 +1,169 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al Ansari, A
+   Hamadeh, RR
+   Ali, MK
+   El Offi, A
+AF Al Ansari, Ahmed
+   Hamadeh, Randah R.
+   Ali, Mazin K.
+   El Offi, Adel
+TI Suicide in Bahrain in the last decade
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; age; sex; ethnicity; Bahrain
+ID DEVELOPING-WORLD; TRENDS; RATES; YOUTH
+AB A combination of social, legal, and religious factors make reporting of suicide difficult in Bahrain, an Islamic country. Limited available data indicates a very low incidence rate of 3 per 100,000. The objective of the present study was to describe the pattern of suicide in Bahrain during a 10-year period. The registered suicide cases (N = 304) at the Ministry of Interior for the 10-year period from 1995 to 2004 were reviewed and analyzed. The mean suicide rate was 0.6 per 100,000 for the Bahraini nationals and 12.6 per 100,000 for the non-Bahrainis with and 17.7 per 100,000 for the Indian migrants. Men were six times more likely than women to commit suicide. The majority of the subjects were under 35 years of age with financial domestic problems being the most common reason reported in the record and hanging the mostly commonly used mode of suicide (92.8%). The suicide rate for the Bahraini population remains low compared to other countries. The higher rate of suicide among Indians merits further investigation. Moreover, more research is needed on the epidemiology of suicide risk factors in ethnic groups for further prevention and intervention.
+C1 Arabian Gulf Univ, Coll Med & Med Sci, Dept Psychiat, Manama, Bahrain.
+   Arabian Gulf Univ, Coll Med & Med Sci, Dept Community Med & Gen Practice, Manama, Bahrain.
+C3 Arabian Gulf University; Arabian Gulf University
+EM AANsari@health.gov.bh
+RI Hamadeh, Randah R./AAE-9720-2020
+OI Hamadeh, Randah R./0000-0002-4205-1354
+NR 23
+TC 26
+Z9 28
+U1 0
+U2 1
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+J9 CRISIS
+JI Crisis
+PY 2007
+VL 28
+IS 1
+BP 11
+EP 15
+DI 10.1027/0227-5910.28.1.11
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 167GW
+UT WOS:000246440600003
+PM 17555028
+DA 2023-12-06
+ER
+
+PT J
+AU Al Ansari, A
+   Hamadeh, RR
+   Jahrami, H
+   Haji, EA
+AF Al Ansari, Ahmed
+   Hamadeh, Randah R.
+   Jahrami, Haitham
+   Haji, Eman A.
+TI Outcomes of children with attention deficit/hyperactivity disorder:
+   global functioning and symptoms persistence
+SO EASTERN MEDITERRANEAN HEALTH JOURNAL
+LA English
+DT Article
+ID DEFICIT HYPERACTIVITY DISORDER; ADULTHOOD; ADHD; PREVALENCE; COMMUNITY;
+   BAHRAIN
+AB Many adolescents with ADHD show antisocial behaviour and low educational achievement. These issues have not been validated in the World Health Organization Eastern Mediterranean Region. The objective of this study was to assess the global functioning and behaviour of children with ADHD growing into adolescence 10 years after initial diagnosis. Parents were interviewed using a structured questionnaire, Conner's Short Version Test and the Children's Global Assessment Scale. Nearly half of our sample had low academic achievement and 36% had no friends. A quarter of the cases were smokers, one admitted abusing drugs and one had attempted suicide. One third of the sample continued to have ADHD symptoms. Adolescents with ADHD had similar school performance and peer relationships to those reported previously, but differences with regard to drug use, suicide and other impulsive behaviour. A follow-up study into adult life using a control group is recommended.
+C1 [Al Ansari, Ahmed; Hamadeh, Randah R.] Arabian Gulf Univ, Coll Med & Med Sci, Manama, Bahrain.
+   [Jahrami, Haitham; Haji, Eman A.] Minist Hlth, Manama, Bahrain.
+C3 Arabian Gulf University; Ministry of Health - Bahrain
+RP Hamadeh, RR (corresponding author), Arabian Gulf Univ, Coll Med & Med Sci, Manama, Bahrain.
+EM randah@agu.edu.bh
+RI Hamadeh, Randah R./AAE-9720-2020; Jahrami, Haitham/Q-5765-2019
+OI Hamadeh, Randah R./0000-0002-4205-1354; Jahrami,
+   Haitham/0000-0001-8990-1320
+NR 35
+TC 6
+Z9 6
+U1 1
+U2 3
+PU WHO EASTERN MEDITERRANEAN REGIONAL OFFICE
+PI NASR CITY, CAIRO
+PA P. O. BOX 7608, NASR CITY, CAIRO, EGYPT
+SN 1020-3397
+EI 1687-1634
+J9 E MEDITERR HEALTH J
+JI East Mediterr. Health J.
+PY 2017
+VL 23
+IS 9
+BP 589
+EP 593
+DI 10.26719/2017.23.9.589
+PG 5
+WC Health Care Sciences & Services; Health Policy & Services; Public,
+   Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA FP2NY
+UT WOS:000417456000002
+PM 29178114
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Al Khaja, KAJ
+   Al-Haddad, MK
+   Al-Offi, AR
+   Abdulraheem, MH
+   Sequeira, RP
+AF Al Khaja, Khalid A. J.
+   Al-Haddad, Mohammed K.
+   Al-Offi, Adel R.
+   Abdulraheem, Masooma H.
+   Sequeira, Reginald P.
+TI Use of dextropropoxyphene plus acetaminophen fixed-dose combination in
+   psychiatric hospital in Bahrain: is there a cause for concern?
+SO FUNDAMENTAL & CLINICAL PHARMACOLOGY
+LA English
+DT Article
+DE co-proxamol; irrational use; prescribing pattern; psychiatric hospital;
+   psychotropics; risks; substance abuse
+ID CO-PROXAMOL; FATAL POISONINGS; PROPOXYPHENE; ALCOHOL; ANTIDEPRESSANTS;
+   AMITRIPTYLINE; ABNORMALITIES; METHADONE; SUICIDE; DEATHS
+AB There are concerns about the safety of the dextropropoxyphene and acetaminophen fixed-dose combination, particularly in patients with psychiatric morbidity, which has led to a phased withdrawal of this fixed-dose combination in many countries. A retrospective prescription audit was conducted to evaluate the dextropropoxyphene + acetaminophen fixed-dose combination prescribing pattern in the major psychiatric hospital of Bahrain. The data analysis was performed using SPSS/PC+ version 14.0. Prescriptions with the dextropropoxyphene + acetaminophen fixed-dose combination comprised 11.8% of all dispensed prescriptions and in most instances for outpatients undergoing substance abuse rehabilitation. Nearly half of the patients received >= 20 tablets of this fixed-dose combination (mean +/- SD: 30.9 +/- 13.1; range 20-126) as multiple doses. The dextropropoxyphene + acetaminophen fixed-dose combination was often co-prescribed with psychotropics, such as benzodiazepines (BZDs) (25.4%), BZDs + antidepressants (62.9%), BZDs + antipsychotics (3.7%) and BZDs + anticonvulsants (1.9%). Approximately 40% of prescriptions with the dextropropoxyphene + acetaminophen fixed-dose combination were written 'as required' (prn), basis. Despite poor safety and efforts to restrict or withdraw worldwide, the dextropropoxyphene + acetaminophen fixed-dose combination continues to be irrationally prescribed to outpatients undergoing substance abuse rehabilitation in Bahrain. Health policy decision-makers should introduce a phased withdrawal of this drug from clinical use. In the meanwhile, it is important to create awareness among prescribers of the risks associated with over-dosage of the dextropropoxyphene + acetaminophen fixed-dose combination and its interaction with other psychotropic medications.
+C1 [Al Khaja, Khalid A. J.; Sequeira, Reginald P.] Arabian Gulf Univ, Dept Pharmacol & Therapeut, Manama, Bahrain.
+   [Al-Haddad, Mohammed K.] Arabian Gulf Univ, Dept Psychiat, Manama, Bahrain.
+   [Al-Offi, Adel R.; Abdulraheem, Masooma H.] Hosp Psychiat, Minist Hlth, Manama, Bahrain.
+C3 Arabian Gulf University; Arabian Gulf University; Ministry of Health -
+   Bahrain
+RP Al Khaja, KAJ (corresponding author), Arabian Gulf Univ, Dept Pharmacol & Therapeut, Manama, Bahrain.
+EM khlidj@agu.edu.bh
+RI Al Khaja, Khalid Ahmed Jassim/GLT-3790-2022; Sequeira, Reginald
+   Paul/GLT-3405-2022
+OI Al Khaja, Khalid Ahmed Jassim/0000-0001-6591-7686; Sequeira, Reginald
+   Paul/0000-0002-4417-9431
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0767-3981
+EI 1472-8206
+J9 FUND CLIN PHARMACOL
+JI Fundam. Clin. Pharmacol.
+PD APR
+PY 2009
+VL 23
+IS 2
+BP 253
+EP 258
+DI 10.1111/j.1472-8206.2008.00662.x
+PG 6
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 421QK
+UT WOS:000264373200013
+PM 19645819
+DA 2023-12-06
+ER
+
+EF

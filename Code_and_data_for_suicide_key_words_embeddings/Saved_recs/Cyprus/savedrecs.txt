@@ -1,0 +1,460 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zacharakis, CA
+   Hadjivassilis, V
+   Madianos, MG
+   Papadimitriou, GN
+   Stefanis, CN
+AF Zacharakis, CA
+   Hadjivassilis, V
+   Madianos, MG
+   Papadimitriou, GN
+   Stefanis, CN
+TI Suicide in Cyprus 1988-1999
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Article
+DE suicide; Cyprus; gender; methods; social; cultural
+ID CEREBROSPINAL-FLUID; DISORDERS; MORTALITY; BEHAVIOR; GREECE
+AB Suicide is a universally observed human behavior related to bio-psychological, social and cultural factors. The aim of the present study was to examine suicide in Cyprus, an island that has known many civilizations and cultures. All completed suicide cases in the Christian population of Cyprus during the years 1988-1999 were included in the study and they were analyzed according to age, gender, reported reasons for suicide and suicide methods. The main results indicate that: 1. The mean age-standardized suicide rate is the lowest in Europe, in males (3.08/100,000) and also in females (1.05/100,000). 2. Mean suicide rates increase significantly with age in males only. 3. Female suicide rates are highest in the 15-24 age group. 4. Statistically significant rising trends of male and female suicide rates in the all-ages group. 5. Suicide methods were mostly violent. Among males, the most common methods were poisoning, firearms-explosives, and hanging, while in females, jumping, hanging and poisoning. 6. Mental disorders, physical illness, interpersonal and financial problems were the main reported reasons for suicide. The epidemiological characteristics of suicide in Cyprus might be attributed to a combined effect of social and cultural factors and probably reflect influences from countries to which Cyprus is ethnically, historically or geographically related. (c) 2005 Elsevier SAS. All rights reserved.
+C1 Univ Athens, Zografou Community Ment Hlth Ctr, Sch Hlth Sci, Athens 15773, Greece.
+   Limassol Gen Hosp, Mental Hlth Serv, Limassol, Cyprus.
+   Univ Athens, Mental Hlth Res Inst, Athens, Greece.
+   Univ Athens, Sch Med, Dept Psychiat, Eginit Hosp, Athens, Greece.
+C3 National & Kapodistrian University of Athens; National & Kapodistrian
+   University of Athens; National & Kapodistrian University of Athens;
+   Athens Medical School
+RP Madianos, MG (corresponding author), Univ Athens, Zografou Community Ment Hlth Ctr, Sch Hlth Sci, 42 Davaki Pindou St, Athens 15773, Greece.
+EM zacharak@otenet.gr
+NR 26
+TC 13
+Z9 13
+U1 0
+U2 5
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2005
+VL 20
+IS 2
+BP 110
+EP 114
+DI 10.1016/j.eurpsy.2004.11.011
+PG 5
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 921TI
+UT WOS:000228787500006
+PM 15797694
+DA 2023-12-06
+ER
+
+PT J
+AU Sönmez, I
+   Akbirgün, A
+   Bozkurt, A
+AF Sonmez, Ipek
+   Akbirgun, Abidin
+   Bozkurt, Ali
+TI A research on suicide attempt with drug overdose in North Cyprus: data
+   analysis of 2002-2012
+SO ANADOLU PSIKIYATRI DERGISI-ANATOLIAN JOURNAL OF PSYCHIATRY
+LA Turkish
+DT Article
+DE suicide attempt; suicide; North Cyprus
+ID SEASONAL-VARIATION; COMORBIDITY; ADOLESCENTS; DISORDERS; RATES
+AB Objective: The aim of the study was to analyze the properties of 2334 cases who applied to North Cyprus Nicosia Burhan Nalbantoglu State Hospital with suicide attempts by drug intoxication in 11 years. Methods: This study has been conducted by analyzing age, gender and suicide attempts dates of the files of 2334 cases retrospectively, who applied to Cyprus Nicosia Burhan Nalbantoglu State Hospital with suicide attempts by drug intoxication between years 2012-2012. Results: 64.1% (n=1497) of patients were female and 35.9% (n=837) were male. The female/male ratio was 1.79. The mean age of women and male patients were 25.80 +/- 11.36 and 27.94 +/- 12.44 respectively. The mean age of women compared with men was statistically significant low. Women attempted suicide more often between ages 16-22, this range was 18-24 for men and 18-22 for whole subjects. When we analyze all subjects together age range was 12-92, mean age was 26.57 +/-+/- 11.80. The numbers of suicide attempts were 183 in 2002, 158 in 2003 and started to increase by 2004. Conclusion: The female/male ratio was 1.79 of suicide attempts similar to Japan data. The difference of Cypriot sample may be related with higher employment ratios in women and less stressful life events in a small island. The lower mean age of this sample compared with the literature might be related with low coping styles, hopelessness and despair of young people in negative life events. One of the possible causes of the beginning of increase in suicide numbers in 2004 can be the results of the referendum.
+C1 [Sonmez, Ipek; Bozkurt, Ali] Yakin Dogu Univ, Tip Fak, Psikiyatri ABD, Lefkosa, Kuzey Kibris, Turkey.
+   [Akbirgun, Abidin] Baris Ruh & Sinir Hastanesi Klin Sefi, Lefkosa, Kuzey Kibris, Turkey.
+C3 Near East University
+RP Sönmez, I (corresponding author), Yakin Dogu Univ, Tip Fak, Psikiyatri ABD, Lefkosa, Kuzey Kibris, Turkey.
+EM dr_ipeks@yahoo.com
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 9
+PU CUMHURIYET UNIV TIP FAK PSIKIYATRI ANABILIM DALI
+PI SIVAS
+PA CUMHURIYET UNIV TIP FAK PSIKIYATRI ABD, SIVAS, 58140, TURKEY
+SN 1302-6631
+J9 ANADOLU PSIKIYATR DE
+JI Anadolu Psikiyatr. Derg.
+PD JUN
+PY 2015
+VL 16
+IS 3
+BP 173
+EP 179
+DI 10.5455/apd.167084
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA AZ3TF
+UT WOS:000348148800004
+DA 2023-12-06
+ER
+
+PT J
+AU Christou, R
+   Michael, N
+   Stylianou, E
+   Yiallourou, AI
+   Pantavou, K
+   Nikolopoulos, GK
+AF Christou, Rafaella
+   Michael, Niki
+   Stylianou, Eirini
+   Yiallourou, Anneza I.
+   Pantavou, Katerina
+   Nikolopoulos, Georgios K.
+TI Data on knowledge and beliefs of students, physicians and other health
+   professionals about ethical issues in Cyprus
+SO DATA IN BRIEF
+LA English
+DT Article; Data Paper
+AB This article presents data collected in a field, questionnaire-based survey about ethical issues in the Republic of Cyprus. The participants were students of the University of Cyprus, and physicians and other health professionals of the Medical School, University of Cyprus and of the Archbishop Makarios III Hospital. The questionnaire included items on sociodemographic characteristics of the participants, and on their knowledge and beliefs about three different ethical issues. Beliefs on the same ethical issues but under specific, hypothetical scenarios were also reported by the participants. The ethical issues examined included euthanasia, assisted suicide, and gender selection through in vitro fertilization. Data from 259 questionnaires were collected in March and April of 2018. (C) 2019 Published by Elsevier Inc.
+C1 [Christou, Rafaella; Michael, Niki; Stylianou, Eirini; Yiallourou, Anneza I.; Pantavou, Katerina; Nikolopoulos, Georgios K.] Univ Cyprus, Sch Med, Nicosia, Cyprus.
+C3 University of Cyprus
+RP Nikolopoulos, GK (corresponding author), Univ Cyprus, Sch Med, Nicosia, Cyprus.
+EM nikolopoulos.georgios@ucy.ac.cy
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-3409
+J9 DATA BRIEF
+JI Data Brief
+PD FEB
+PY 2019
+VL 22
+BP 1031
+EP 1035
+DI 10.1016/j.dib.2019.01.046
+PG 5
+WC Multidisciplinary Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Science & Technology - Other Topics
+GA HK6SP
+UT WOS:000458114600141
+PM 30740489
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT C
+AU Rahnama, S
+   Tarkhan, M
+   Khalatbari, J
+AF Rahnama, Shirin
+   Tarkhan, Morteza
+   Khalatbari, Javad
+BE Uzunboylu, H
+   Demirok, M
+TI Effectiveness of imagery rescripting and reprocessing therapy on
+   suicidal ideation in individuals with suicide attempt history
+SO 3RD WORLD CONFERENCE ON PSYCHOLOGY, COUNSELING AND GUIDANCE, WCPCG-2012
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT 3rd World Conference on Psychology, Counselling and Guidance (WCPCG)
+CY MAY 09-12, 2012
+CL Efes, TURKEY
+DE Suicide; nightmare; intrusive memory; suicidal ideation; imagery
+   rescripting and reprocessing therapy
+AB Suicidal is consequence of mental pain over of individual endurance. Depressed and formerly suicidal patients reported experiencing detailed mental imagery. Imagery rescripting and reprocessing therapy is applied across a wide range of psychological disorders like suicidality. In this study two groups, each of them 13 patients were examined by beck's depression and suicide scale inventories. Experimental group received 2-9(mean 6.5) sessions of IRRT.Univaiate covariance analysis demonstrated large treatment effects. Omission of suicidal ideation was observed in the patients significantly. Our findings provide evidence that IIRT is effective technique in treatment of suicidal ideation. (C) 2013 The Authors. Published by Elsevier Ltd. Selection and peer-review under responsibility of Prof. Dr. Huseyin Uzunboylu & Dr. Mukaddes Demirok, Near East University, Cyprus
+C1 [Rahnama, Shirin] Tonekabon Islamic Azad Univ, Tonekabon, Iran.
+C3 Islamic Azad University
+EM shi.rama@yahoo.com
+RI Khalatbari, Javad/AAO-4004-2021
+NR 12
+TC 3
+Z9 4
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2013
+VL 84
+BP 1095
+EP 1099
+DI 10.1016/j.sbspro.2013.06.706
+PG 5
+WC Psychology, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Psychology; Social Sciences - Other Topics
+GA BGS47
+UT WOS:000323984200208
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Televantos, A
+   Talias, MA
+   Charalambous, M
+   Soteriades, ES
+AF Televantos, Anastasios
+   Talias, Michael A.
+   Charalambous, Marianna
+   Soteriades, Elpidoforos S.
+TI Attitudes towards euthanasia in severely ill and dementia patients and
+   cremation in Cyprus: a population-based survey
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Euthanasia; Cremation; Religion; Population survey; Cyprus
+ID PHYSICIAN-ASSISTED SUICIDE; ACCEPTANCE; NURSES; FAMILY; CARE
+AB Background: Population studies on end-of-life decisions have not been conducted in Cyprus. Our study aim was to evaluate the beliefs and attitudes of Greek Cypriots towards end-of-life issues regarding euthanasia and cremation.
+   Methods: A population-based telephone survey was conducted in Cyprus. One thousand randomly selected individuals from the population of Cyprus age 20 years or older were invited to participate. Beliefs and attitudes on end-of-life decisions were collected using an anonymous and validated questionnaire. Statistical analyses included cross-tabulations, Pearson's chi-square tests and multivariable-adjusted logistic regression models.
+   Results: A total of 308 males and 689 females participated in the survey. About 70% of the respondents did not support euthanasia for people with incurable illness and/or elders with dementia when requested by them and 77% did not support euthanasia for people with incurable illness and/or elders with dementia when requested by relatives. Regarding cremation, 78% were against and only 14% reported being in favor. Further statistical analyses showed that male gender, being single and having reached higher educational level were factors positively associated with support for euthanasia in a statistically significant fashion. On the contrary, the more religiosity expressed by study participants, the less support they reported for euthanasia or cremation.
+   Conclusions: The vast majority of Greek Cypriots does not support euthanasia for people with incurable illness and/or elders with dementia and also do not support cremation. Certain demographic characteristics such as age and education have a positive influence towards attitudes for euthanasia and cremation, while religiosity exerts a strong negative influence on the above. Family bonding as well as social and cultural traditions may also play a role although not comprehensively evaluated in the current study.
+C1 [Televantos, Anastasios; Soteriades, Elpidoforos S.] Cyprus Inst Biomed Sci, CY-2042 Nicosia, Cyprus.
+   [Talias, Michael A.; Charalambous, Marianna] Open Univ Cyprus, Healthcare Management Program, CY-2252 Nicosia, Cyprus.
+   [Soteriades, Elpidoforos S.] Harvard Univ, Sch Publ Hlth, Dept Environm Hlth Environm & Occupat Med & Epide, Boston, MA 02115 USA.
+C3 Open University of Cyprus; Harvard University; Harvard T.H. Chan School
+   of Public Health
+RP Soteriades, ES (corresponding author), Cyprus Inst Biomed Sci, Athienitis Strovolos Pk,2A Elia Venezi St,2nd Fl, CY-2042 Nicosia, Cyprus.
+EM esoteria@hsph.harvard.edu
+RI Talias, Michael A./R-1867-2017
+OI Talias, Michael A./0000-0002-1802-5586; Charalambous,
+   Marianna/0000-0002-8329-3034
+NR 24
+TC 9
+Z9 9
+U1 0
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD SEP 23
+PY 2013
+VL 13
+AR 878
+DI 10.1186/1471-2458-13-878
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 283XB
+UT WOS:000329279200003
+PM 24060291
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Karanikola, MNK
+   Papathanassoglou, EED
+AF Karanikola, Maria N. K.
+   Papathanassoglou, Elizabeth E. D.
+TI Exploration of the Burnout Syndrome Occurrence Among Mental Health
+   Nurses in Cyprus
+SO ARCHIVES OF PSYCHIATRIC NURSING
+LA English
+DT Article
+ID WORKPLACE EMPOWERMENT; OCCUPATIONAL STRESS; PSYCHIATRIC-NURSES;
+   JOB-SATISFACTION; SUICIDE RISK; HPA AXIS; DEPRESSION; CARE; OUTCOMES;
+   NEUROBIOLOGY
+AB Nurses' work-related stress might be associated with psychiatric symptoms, leading to altered professional attitudes. The aim of this study was to explore the levels of burnout and associations with anxiety and depressive symptoms among Greek-Cypriot psychiatric-mental health nurses (PMHNs). A descriptive correlational design with cross-sectional comparisons was applied. A sample of 226 PMHNs was used. Participants reported low levels of burnout. However, 10% of them manifested clinically significant anxiety and depressive symptoms. Emotional exhaustion and depersonalization were associated with depressive (r = 0.562, p < 0.0001, and r = 0.616,p < 0.0001, respectively) and anxiety (r = 0394, p < 0.0001, and r = 0.448, p < 0.0001, respectively) symptoms. Further research investigating the biological aetiopathology of these psychological alterations is warranted. (C) 2013 Elsevier Inc. All rights reserved.
+C1 [Karanikola, Maria N. K.; Papathanassoglou, Elizabeth E. D.] Cyprus Univ Technol, Sch Hlth Sci, Dept Nursing, CY-3041 Limassol, Cyprus.
+C3 Cyprus University of Technology
+RP Karanikola, MNK (corresponding author), Cyprus Univ Technol, Sch Hlth Sci, Dept Nursing, 15 Vragadinou Str, CY-3041 Limassol, Cyprus.
+EM maria.karanikola@cut.ac.cy; e.papathanassoglou@cut.ac.cy
+RI Papathanassoglou, Elizabeth/I-3734-2013; Karanikola, Maria
+   NK/AEV-1405-2022
+OI Papathanassoglou, Elizabeth/0000-0002-7439-1492; Karanikola, Maria
+   NK/0000-0003-2708-1851
+NR 70
+TC 13
+Z9 19
+U1 0
+U2 41
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0883-9417
+EI 1532-8228
+J9 ARCH PSYCHIAT NURS
+JI Arch. Psychiatr. Nurs.
+PD DEC
+PY 2013
+VL 27
+IS 6
+BP 319
+EP 326
+DI 10.1016/j.apnu.2013.08.004
+PG 8
+WC Nursing; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing; Psychiatry
+GA 257VI
+UT WOS:000327415500010
+PM 24238013
+DA 2023-12-06
+ER
+
+PT J
+AU Harris, SE
+AF Harris, Sarah E.
+TI Cyprus as a degraded landscape or resilient environment in the wake of
+   colonial intrusion
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE colonial policies; goats; Mediterranean degradation
+ID TRAGEDY; HISTORY
+AB Concerns about global warming, degradation of fragile ecosystems, and environmental and societal collapse have increased interest for lessons and/or solutions for today's environmental issues. Popular writers have turned to a classic degradation thesis of deforestation and presumed desertification within the Eastern Mediterranean as a cautionary tale of how past societies have committed ecological suicide. However, degradation and/or collapse is far more complex than the thesis permits, and uncritical adoption of such simplified stories encourages continued use of inaccurate assumptions about human-environment interaction. In Cyprus, such a degradation story materialized 150 y ago, and its promoters aimed to impress on readers their responsibility to reverse past environmental mistakes. Both the British Colonial authorities (1878-1960) and the post-Independence Cypriot government used it to justify their environmental policies. Unfortunately, this thesis was formed around several misunderstandings about Cypriot environments and society: (i) judgment of degradation without appropriate consideration of the difference between degradation and change; (ii) oversimplified representation of ruling powers and those people ruled; and (iii) denigration of the shepherd lifestyle and its presumed environmental impact. A multimethod approach using archival and field research offers a more nuanced understanding of the complexity of human-environment interaction, the underappreciated environmental and societal resilience of areas classified as degraded, and the importance of placing events within changing socioeconomic and political contexts. This study of natural resource management and environmental resilience illustrates that the practices that the colonial government viewed as unsustainable likely were sustainable.
+C1 Wright State Univ, Dept Urban Affairs & Geog, Dayton, OH 45435 USA.
+C3 University System of Ohio; Wright State University Dayton
+RP Harris, SE (corresponding author), Wright State Univ, Dept Urban Affairs & Geog, Dayton, OH 45435 USA.
+EM cycemp@gmail.com
+NR 72
+TC 27
+Z9 31
+U1 1
+U2 20
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD MAR 6
+PY 2012
+VL 109
+IS 10
+BP 3670
+EP 3675
+DI 10.1073/pnas.1114085109
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Science & Technology - Other Topics
+GA 903LJ
+UT WOS:000301117700021
+PM 22371577
+OA Bronze, Green Published
+DA 2023-12-06
+ER
+
+PT C
+AU Farah, D
+   Ali, RM
+   Bahman, A
+   Rahbar, M
+AF Farah, Darvishi
+   Ali, Mohamad Rahmani
+   Bahman, Akbari
+   Rahbar, Morteza
+BE Uzunboylu, H
+   Demirok, M
+TI A comparison of relationship between early maladaptive schemas with
+   depression severity in suicidal group and non-clinical sample
+SO 3RD WORLD CONFERENCE ON PSYCHOLOGY, COUNSELING AND GUIDANCE, WCPCG-2012
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT 3rd World Conference on Psychology, Counselling and Guidance (WCPCG)
+CY MAY 09-12, 2012
+CL Efes, TURKEY
+DE Early maladaptive schema; suicide; Depression severity
+ID SHORT-FORM; PSYCHOMETRIC PROPERTIES; QUESTIONNAIRE
+AB The aim of this study was to compare the relationship between between the content of early maladaptive schema and depression severity in suicidal patients and non-clinical. Sampling method was available of including 101 participants of suicidal patient and 108 non-clinical participants who have been selected with random sampling method The young schema questioner short form version (75 items) and The Beck Depression Inventory-II were used. Significant relationship was found between, early maladaptive schemas with depression severity in both groups. Based on hierarchical regression analyses defectiveness/shame, failure, entitlement/grandiosity in suicidal group predicted depression severity and predictor schemas in non-clinical group were defectiveness/shame, entitlement/grandiosity, vulnerability to harm, and unrelenting standard. Analysis on z fishers didn't indicate any significant difference for comparison relationships between of two groups. (C) 2013 The Authors. Published by Elsevier Ltd. Selection and peer-review under responsibility of Prof. Dr. Huseyin Uzunboylu & Dr. Mukaddes Demirok, Near East University, Cyprus
+C1 [Farah, Darvishi] Guilan Univ Med Sci, Razi Hosp, Poisoning Ctr, Rasht, Iran.
+C3 Tehran University of Medical Sciences
+RI Taramsari, Morteza Rahbar/I-7593-2017
+OI Taramsari, Morteza Rahbar/0000-0003-0950-7599
+NR 24
+TC 4
+Z9 5
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2013
+VL 84
+BP 1072
+EP 1077
+DI 10.1016/j.sbspro.2013.06.702
+PG 6
+WC Psychology, Multidisciplinary; Social Sciences, Interdisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Psychology; Social Sciences - Other Topics
+GA BGS47
+UT WOS:000323984200204
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Maragkaki, A
+   Konstantinidis, T
+   Sarafis, P
+AF Maragkaki, A.
+   Konstantinidis, T.
+   Sarafis, P.
+TI The consequences of austerity policies on the health of Greeks in the
+   years of the economic crisis
+SO ARCHIVES OF HELLENIC MEDICINE
+LA Greek
+DT Article
+DE Financial crisis; Healthcare reforms; Social policy; Socio-economic
+   indicators
+AB The global financial crisis, which started in 2008 in the USA, influenced most of the European countries, and in particular Greece, with serious socio-economic and political consequences. The Greek Government, faced with the risk of bankruptcy, was forced to accept financial, signing memoranda that imposed austerity, reductions in expenditure and structural reforms in all sectors. The purpose of this study was to investigate the effects of the austerity policies in the health systems of Greece and other countries that applied budgetary stability programs, and to present the most significant health-care reforms that were instituted from 2010 onwards. A literature search was conducted of the economic indicators of the last 10 years in the international databases of WHO, OECD Health Statistics, Eurostat, the European Core Health Indicators and the statistical service of Cyprus. During the economic crisis the health level of the Greek population was documented to be at a satisfactory level, comparable with the other countries that experienced austerity, and even with Germany, a country with large expenditures on health, which did not experience economic crisis. Despite reduction in health expenditure and increasing unemployment, improvement of most health indicators was observed, with the exception of overall mortality and suicide. Major reforms implemented after 2010 in the Greek health system include restructuring of primary health care services, e-prescribing and the free access of all (including the uninsured) to the Greek National Health Service. Although many health indicators of the Greek population show improvement over this period, it is important to review the data and redefine the priorities in the field of health care at regular intervals, and in population subgroups.
+C1 [Maragkaki, A.] Hlth Ctr Kissamos, Reg Med Ctr Maleme, Khania, Greece.
+   [Konstantinidis, T.] Technol Educ Inst Crete, Dept Nursing, Iraklion 71410, Crete, Greece.
+   [Sarafis, P.] Cyprus Univ Technol, Dept Nursing, Limassol, Cyprus.
+C3 Hellenic Mediterranean University; Cyprus University of Technology
+RP Konstantinidis, T (corresponding author), Technol Educ Inst Crete, Dept Nursing, Iraklion 71410, Crete, Greece.
+EM harriskon@gmail.com
+OI Konstantinidis, Theocharis/0000-0002-6990-2585
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 7
+PU ATHENS MEDICAL SOC
+PI ATHENS
+PA 23 MAEANDROU ST, ATHENS, 115 28, GREECE
+SN 1105-3992
+J9 ARCH HELL MED
+JI Arch. Hell. Med.
+PD SEP-OCT
+PY 2019
+VL 36
+IS 5
+BP 687
+EP 694
+PG 8
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA JF0WK
+UT WOS:000491107600014
+DA 2023-12-06
+ER
+
+EF

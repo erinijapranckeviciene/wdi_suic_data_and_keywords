@@ -1,0 +1,604 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al-Waheeb, S
+   Al-Kandary, N
+AF Al-Waheeb, Salah
+   Al-Kandary, Nadia
+TI Patterns of Suicide in Kuwait: a retrospective descriptive study from
+   2003-2009
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID STATES; RATES
+AB Background: Prior to the invasion of Kuwait by Iraq in 1990, suicides were almost unheard of in Kuwait. However, there has been a notable increase in the referrals of suicide cases to the forensic authorities since then. A review of suicide cases was performed to investigate the demographics of this phenomenon and the suicide modalities used and to uncover issues that can be addressed by the region's government.
+   Methods: The sole source of data was the general department of criminal evidence (GDCE), where cases are referred by police authorities and by hospital investigators from the entire country. All cases signed out by forensic investigators as "suicide" during the time period 2003-2009 were retrieved. A full review of the data from the case files was made. This included demographic data, scene examination, radiographic investigations, autopsies with histo-pathological examination findings and toxicological screening results in each case.
+   Results: A total of 347 cases were retrieved and studied. Hanging was found to be the most common suicide modality used by subjects (60 %). Non-citizens constituted 87 % of cases, and no significant difference was found between married and single subjects or between Muslims and non-Muslims. Regions that were more populated with an expatriate labour force had the highest suicide prevalence.
+   Conclusion: The government of Kuwait needs to investigate the dire conditions in which some expatriates live and to improve their situation. More control over the dispensing of certain medications needs to be enforced. Finally, strict firearm control could help reduce the suicide rates in Kuwait.
+C1 [Al-Waheeb, Salah] Kuwait Univ, Fac Med, Shamiyah 71661, Kuwait.
+   [Al-Kandary, Nadia] Minist Interior, Gen Dept Criminal Evidence, Farwaniyah, Kuwait.
+C3 Kuwait University
+RP Al-Waheeb, S (corresponding author), Kuwait Univ, Fac Med, Shamiyah 71661, Kuwait.
+EM salah.w@hsc.edu.kw
+RI alwaheeb, salah/AAW-9743-2020
+NR 33
+TC 10
+Z9 10
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUN 4
+PY 2015
+VL 15
+AR 527
+DI 10.1186/s12889-015-1862-7
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CJ5DW
+UT WOS:000355508600002
+PM 26041552
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Alsalman, R
+AF Alsalman, R.
+TI Gender differences in suicide ideation among college students in Kuwait
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Alsalman, R.] Kuwait Univ, Dept Psychol, Kuwait, Kuwait.
+C3 Kuwait University
+NR 0
+TC 2
+Z9 2
+U1 1
+U2 2
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2016
+VL 33
+SU S
+MA EV1244
+BP S597
+EP S597
+DI 10.1016/j.eurpsy.2016.01.2229
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA VI5UY
+UT WOS:000497501502332
+DA 2023-12-03
+ER
+
+PT J
+AU Hassan, DA
+   Ghaleb, SS
+   Kotb, H
+   Agamy, M
+   Kharoshah, M
+AF Hassan, Dalia Abd-Elwahab
+   Ghaleb, Sherein S.
+   Kotb, Heba
+   Agamy, Mervat
+   Kharoshah, Magdy
+TI Suicidal hanging in Kuwait: Retrospective analysis of cases from 2010 to
+   2012
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Suicide by hanging; Retrospective; Kuwait
+ID INJURIES; NECK
+AB Suicide is an important health hazard worldwide. We retrospectively analyzed the autopsy records of the Institute of Forensic Medicine between 2010 and 2012 to document the characteristics of fatalities resulting from hanging in Kuwait. Upon analysis of death scene investigation and autopsy reports together with the information gathered from the police, the cases of hanging fatalities of suicidal origin were selected. A retrospective study was carried out on 118 suicidal hanging cases autopsied at Forensic Medicine Center in Kuwait (from 2010 to 2012). Of these cases, 86 (73%) were males and 32 females (27%). There was an increasing trend of hanging among ages between 21 and 50 years (87.3%) and the third decade had the highest number of victims (about 43%) between all age groups. Local Kuwaiti nationals comprised a small proportion of cases (7 persons, 5.9%), while the others were foreigners working in Kuwait with an Indian precedence (54 persons, 54.8%), followed by other 12 different nationalities representing 39.3% of the cases.
+   In conclusion, there was a decreasing trend of suicide by hanging in Kuwait from 44 cases in 2010 to 25 cases in 2012. (C) 2013 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Hassan, Dalia Abd-Elwahab] Beni Suif Univ, Forens Med & Clin Toxicol Dept, Cairo, Egypt.
+   [Ghaleb, Sherein S.; Kotb, Heba] Cairo Univ, Forens Med & Clin Toxicol Dept, Cairo, Egypt.
+   [Agamy, Mervat] Forens Med Org, Kuwait, Kuwait.
+   [Kharoshah, Magdy] Inst Forens Med, Cairo, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Beni Suef University; Egyptian Knowledge
+   Bank (EKB); Cairo University
+RP Hassan, DA (corresponding author), Beni Suif Univ, Forens Med & Clin Toxicol Dept, Cairo, Egypt.
+EM daliaabdelwahab@ymail.com
+RI Kharoshah, Magdy/ADR-5349-2022; Kotb, Heba/JGK-3207-2023
+NR 27
+TC 16
+Z9 16
+U1 0
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD NOV
+PY 2013
+VL 20
+IS 8
+BP 1118
+EP 1121
+DI 10.1016/j.jflm.2013.09.021
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 262FM
+UT WOS:000327719700040
+PM 24237833
+DA 2023-12-03
+ER
+
+PT J
+AU Alsaleh, A
+AF Alsaleh, Amer
+TI The Impact of Community Structural Instability on Bedoon and Suicidal
+   Behavior in Kuwait
+SO AFRICAN AND ASIAN STUDIES
+LA English
+DT Article
+DE adolescent suicide; community instability; indigenous peoples; Bedoon
+ID SMALL-AREA; CRIME; NEIGHBORHOOD; MULTILEVEL; CITIZENSHIP; IDEATION; EAST
+AB The current study examines the impact of community structural instability on the suicidal behaviors of the indigenous community of the Bedoon in Kuwait. I hypothesize that the Bedoon's lack of documentation and limited opportunities in Kuwait, combined with community structural instability, increase suicide ideation and attempts. The contextual influence of community structural instability should be mediated by weak attachments to social norms and values (anomie) and by contact with suicidal others (attempt and ideation). The data, coming from a survey of 2,583 Bedoon adolescents between 14 and 18 years old, indicate that the community level of residential mobility has a positive, contextual effect on Bedoon suicidal behavior. The findings also indicate that the contextual effect of residential mobility is mediated by both anomie and attempt and ideation and offer the possibility of identifying communities that carry a substantial risk for adolescent suicide as well as the mechanisms that mediate the influence of community structural characteristics on Bedoon adolescent risk behavior.
+C1 Kuwait Univ, Fac Social Sci, Dept Sociol, Kuwait, Kuwait.
+C3 Kuwait University
+RP Alsaleh, A (corresponding author), Kuwait Univ, Fac Social Sci, Dept Sociol, Kuwait, Kuwait.
+EM amer3_@hotmail.com
+NR 51
+TC 0
+Z9 0
+U1 0
+U2 6
+PU BRILL
+PI LEIDEN
+PA PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 1569-2094
+EI 1569-2108
+J9 AFR ASIAN STUD
+JI Afr. Asian Stud.
+PY 2014
+VL 13
+IS 3
+BP 272
+EP 290
+DI 10.1163/15692108-12341299
+PG 19
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA AQ0MG
+UT WOS:000342476800002
+DA 2023-12-03
+ER
+
+PT J
+AU Askar, AHG
+   Ben Nakhi, M
+   Al-Rashidi, K
+   Al-Musabbahie, BAM
+   Shah, NM
+AF Askar, AHG
+   Ben Nakhi, M
+   Al-Rashidi, K
+   Al-Musabbahie, BAM
+   Shah, NM
+TI Physicians' attitudes towards euthanasia in Kuwait
+SO MEDICAL PRINCIPLES AND PRACTICE
+LA English
+DT Article
+DE mercy killing; euthanasia; physician-assisted suicide; Kuwait
+ID ASSISTED SUICIDE; LIFE; END
+AB Objectives: The attitudes of physicians in Kuwait towards euthanasia were examined. An additional objective was to examine whether physician characteristics such as nationality, qualifications, years of experience and/or religion affect their attitude toward euthanasia. A comparison was also made between the experience of physicians who generally treat terminally ill patients and those who generally treat non-terminally ill patients in terms of attitudes toward hastening death to alleviate suffering. Methods: A descriptive study using a self-administered questionnaire was conducted among 228 physicians working in 5 selected government hospitals. The response was 92%. Results: Nearly 92% of all the respondents did not support the provision of means for terminally ill patients to commit suicide while 8% did. A majority favored providing pain killers and comfort even if this hastens the patient's death. About 20% of the physicians felt that the Ministry of Health should allow euthanasia under certain restricted conditions. About 47% of Hindu, 23% of Christian and 17% of Muslim physicians agreed to the legalization of euthanasia. Approximately 27% of physicians who were frequently exposed and 10% of those who were rarely exposed to terminally ill patients reported that they had been asked to hasten death. Physicians in Kuwait have not dealt with euthanasia as much as physicians in other countries such as Australia and are much less favorable towards it. Conclusion: The findings of this survey indicate that a minority of physicians in Kuwait believe that euthanasia should be legalized under certain conditions. Thus, there is a need for the medical community and the Ministry of Health to recognize and deal with this controversial topic. Copyright (C) 2001 S. Karger AG, Basel.
+C1 Kuwait Univ, Hlth Sci Ctr, Fac Med, Dept Community Med, Safat 13110, Kuwait.
+C3 Kuwait University
+RP Shah, NM (corresponding author), Kuwait Univ, Hlth Sci Ctr, Fac Med, Dept Community Med, POB 24923, Safat 13110, Kuwait.
+NR 13
+TC 3
+Z9 3
+U1 0
+U2 4
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 1011-7571
+J9 MED PRIN PRACT
+JI Med. Princ. Pract.
+PD OCT-DEC
+PY 2000
+VL 9
+IS 4
+BP 268
+EP 281
+DI 10.1159/000054254
+PG 14
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 432PZ
+UT WOS:000168706000005
+OA Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Badr, HES
+AF Badr, Hanan El-Sayed
+TI Suicidal Behaviors Among Adolescents - The Role of School and Home
+   Environment Findings From a Cross-Sectional National-Based Survey
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicidal behaviors; suicide ideation; suicide planning; suicide attempt;
+   adolescents
+ID RISK; IMPULSIVITY; DEPRESSION; CHILDHOOD; STUDENTS; GENDER; HEALTH
+AB Aim: This study aimed to determine the prevalence of suicidal behaviors (ideation, planning, and attempts) among adolescents aged 13-16, and to identify psychosocial correlates of suicidal behaviors. Method: The 2010 Kuwait Global School-Based Student Health Survey (GSHS) cross-sectional study employed a two-stage cluster sample design targeting a representative sample of 2,672 students. A weighting factor was applied to make inferences to all students of the same age. Students' suicidal behaviors were the focus of this paper. Results: The prevalence rates of suicide ideation, planning, and attempts were 20.0% (95% CI = 18.5-21.6%), 14.0% (95% CI = 12.7-15.4%), and 18.1% (95% CI = 16.6-19.5%), respectively. About 26% of adolescents reported at least one suicidal behavior, while 8.5% experienced all three suicidal behaviors. Multivariate analysis revealed that girls, smoking, physical violence, feeling lonely, exposure to bullying at school, and having nonempathetic parents were significant correlates of the experience of suicidal behaviors among adolescents. Moreover, suicidal ideation stood out as a predictor of attempting suicide more than suicidal planning in both the total population and separately by gender. Conclusion: The prevalence of suicidal behaviors was alarmingly high among Kuwaiti adolescents. Adverse school and home environments strongly contributed to such behaviors. School-based mental health programs are necessary to reduce these life-threatening behaviors in Kuwait.
+C1 [Badr, Hanan El-Sayed] Kuwait Univ, Fac Med, Dept Community Med & Behav Sci, POB 24923, Safat 13110, Kuwait.
+C3 Kuwait University
+RP Badr, HES (corresponding author), Kuwait Univ, Fac Med, Dept Community Med & Behav Sci, POB 24923, Safat 13110, Kuwait.
+EM hanan@hsc.edu.kw
+NR 38
+TC 8
+Z9 8
+U1 1
+U2 9
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD MAY
+PY 2017
+VL 38
+IS 3
+BP 168
+EP 176
+DI 10.1027/0227-5910/a000426
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA EY6XV
+UT WOS:000404128700004
+PM 27659513
+DA 2023-12-03
+ER
+
+PT J
+AU Lester, D
+AF Lester, David
+TI Does Religiosity Predict Suicidal Behavior?
+SO RELIGIONS
+LA English
+DT Review
+DE religiosity; suicidal ideation; attempted suicide
+ID PROTECTIVE FACTOR; MENTAL-HEALTH; AFRICAN-AMERICAN; IDEATION;
+   SPIRITUALITY; ASSOCIATIONS; ADOLESCENTS; INVENTORY; KUWAIT; MODEL
+AB Research was reviewed on whether self-report measures of religiosity were a protective factor against suicidal behaviors. It was found that scores on Francis's measure of religiosity was negatively associated with non-lethal suicidal behavior (ideation and attempts), a protective effect. Similarly, it was found that intrinsic religiosity (but not extrinsic religiosity) was negatively associated with non-lethal suicidal behaviors. However, these associations were weak. Research is needed on the issue whether counselors can use their patients' religiosity to reduce the risk of dying by suicide.
+C1 [Lester, David] Stockton Univ, Dept Psychol, Galloway, NJ 08205 USA.
+C3 Stockton University
+RP Lester, D (corresponding author), Stockton Univ, Dept Psychol, Galloway, NJ 08205 USA.
+EM david.lester@stockton.edu
+NR 46
+TC 22
+Z9 22
+U1 0
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2077-1444
+J9 RELIGIONS
+JI Religions
+PD NOV
+PY 2017
+VL 8
+IS 11
+AR 238
+DI 10.3390/rel8110238
+PG 8
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA FO2EF
+UT WOS:000416586200005
+OA Green Submitted, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Abohaimed, S
+   Matar, B
+   Al-Shimali, H
+   Al-Thalji, K
+   Al-Othman, O
+   Zurba, Y
+   Shah, N
+AF Abohaimed, Shaikhah
+   Matar, Basma
+   Al-Shimali, Hussain
+   Al-Thalji, Khalid
+   Al-Othman, Omar
+   Zurba, Yasmin
+   Shah, Nasra
+TI Attitudes of Physicians towards Different Types of Euthanasia in Kuwait
+SO MEDICAL PRINCIPLES AND PRACTICE
+LA English
+DT Article
+DE Mercy killing; End of life; Assisted suicide; Death
+AB Objective: Although in recent years the world has witnessed great advances in the medical field, much ambiguity still surrounds the issue of euthanasia and physician-assisted suicide, with increasingly favorable attitudes among physicians around the world. In our study, we aimed to assess the attitudes of physicians in Kuwait towards different types of euthanasia and examine whether physicians' frequent encounters with terminally ill patients were associated with their approval. Subjects and Methods: We conducted a cross- sectional study on 464 physicians employed in government hospitals (6 general and 3 specialty hospitals). A self-administered questionnaire adapted from previous studies was used. Results: Of the physicians in our study, 43.9% reported that the Ministry of Health should legalize euthanasia under certain restricted conditions. In addition, 29.1% of our population was willing to perform euthanasia. After controlling for several characteristics in logistic regression analysis, approval of passive euthanasia was significantly associated with the following 2 factors: frequent exposure to terminally ill patients (AOR = 2.45) and obtention of the basic medical degree from Asia (AOR = 4.36) or North America/Europe (AOR = 3.24) compared to Kuwait. Male gender was significantly associated with willingness to perform euthanasia. Religion was the major reason for opposing euthanasia. Conclusion: The attitudes of physicians towards euthanasia are diverse, and therefore the Ministry of Health should provide guidelines for physicians dealing with situations where patients or their families request euthanasia.
+C1 [Abohaimed, Shaikhah; Matar, Basma; Al-Shimali, Hussain; Al-Thalji, Khalid; Al-Othman, Omar; Zurba, Yasmin] Kuwait Univ, Fac Med, Jabriya, Kuwait.
+   [Shah, Nasra] Kuwait Univ, Fac Med, Dept Community Med, Jabriya, Kuwait.
+C3 Kuwait University; Kuwait University
+RP Abohaimed, S (corresponding author), POB 23845, Safat 13099, Kuwait.
+EM sabohaimed@gmail.com
+RI AlShimali, Hussain/IUN-0304-2023
+OI AlShimali, Hussain/0000-0003-0178-1542
+NR 23
+TC 9
+Z9 9
+U1 0
+U2 4
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 1011-7571
+EI 1423-0151
+J9 MED PRIN PRACT
+JI Med. Princ. Pract.
+PY 2019
+VL 28
+IS 3
+BP 199
+EP 207
+DI 10.1159/000497377
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA ID8TP
+UT WOS:000471959300001
+PM 30703772
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Badr, HE
+   Francis, K
+AF Badr, Hanan E.
+   Francis, Konstantinos
+TI Psychosocial perspective and suicidal behaviors correlated with
+   adolescent male smoking and illicit drug use
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Tobacco smoking; Illicit drug use; Suicide behaviors; Male adolescents;
+   Kuwait
+ID CIGARETTE-SMOKING; SUBSTANCE USE; BULLYING VICTIMIZATION; PARENTAL
+   SMOKING; FOLLOW-UP; ATTITUDES; STUDENTS; RISK; INITIATION; PATTERNS
+AB Objectives: To assess the prevalence of smoking and drug use among adolescent boys, and to examine adolescents' psychosocial factors, and suicidal behaviors associated with adolescents' substance use.
+   Methods: The Kuwait Global School-Based Student Health Survey employed a two-stage cluster sample design targeting a representative sample of adolescents. This study focused on the participated 1310 boys. Statistical analysis included Chi-square test, student t-test, and multivariate analysis.
+   Results: The mean age was 14.5 +/- 0.03 years. The reported prevalence of: smoking, ever drug use, and both smoking and drug use were 26.6% (95% CI:24.2-29.1%) and 7.4% (95% CI:6.1-9.0%) and 5.5% (95% CI:4.4-6.9%) respectively. Logistic regression model analysis revealed that adolescents whose parents smoke, suffered from insomnia, were victims of bullying, and had negative social school environment, were more likely than others to be smokers, drug users or both. Addendum, suicidal ideation, and its combination with suicidal planning and/or suicidal attempt were significantly associated with smoking. The odds of these life-threatening behaviors increased when drug use was reported and augmented when both smoking and drug use were experienced.
+   Conclusions: Prevalence of smoking and illicit drug use were high among adolescent boys. This study confirmed the association between adolescents' smoking and substance use with psychosocial context, and suicidal behaviors. Addressing these predictors would be crucial in the development of effective strategies targeting the prevention of smoking and substance use, which might consequently reduce suicidal behaviors among adolescents.
+C1 [Badr, Hanan E.] Kuwait Univ, Fac Med, Dept Community Med & Behav Sci, POB 24923, Safat 13110, Kuwait.
+   [Francis, Konstantinos] Kuwait Ctr Mental Hlth, Kuwait, Kuwait.
+C3 Kuwait University
+RP Badr, HE (corresponding author), Kuwait Univ, Fac Med, Dept Community Med & Behav Sci, POB 24923, Safat 13110, Kuwait.
+EM hanan@hsc.edu.kw; cfrancis@otenet.gr
+FU Kuwait Foundation for the Advancement of Sciences (KFAS) [2009-1302-01]
+FX Funding for this study was provided by Kuwait Foundation for the
+   Advancement of Sciences (KFAS) as part of funding the study entitled
+   Global School-Based Student Health Survey (GSHS) in Kuwait, Project
+   Code: 2009-1302-01. KFAS had no role in the study design, collection,
+   analysis or interpretation of the data, writing the manuscript, or the
+   decision to submit the paper for publication.
+NR 41
+TC 6
+Z9 6
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD OCT
+PY 2018
+VL 37
+BP 51
+EP 57
+DI 10.1016/j.ajp.2018.08.004
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GY3RJ
+UT WOS:000448471300012
+PM 30118993
+DA 2023-12-03
+ER
+
+PT J
+AU Ahmed, RA
+   Sorum, PC
+   Mullet, E
+AF Ahmed, Ramadan A.
+   Sorum, Paul C.
+   Mullet, Etienne
+TI Young Kuwaitis' views of the acceptability of physician-assisted suicide
+SO JOURNAL OF MEDICAL ETHICS
+LA English
+DT Article
+ID END-OF-LIFE; EUTHANASIA; DEATH; NETHERLANDS; PERSPECTIVE; COUNTRIES;
+   ATTITUDES; PEOPLE; LAW
+AB Aim To study the views of people in a largely Muslim country, Kuwait, of the acceptability of a life-ending action such as physician-assisted suicide (PAS).
+   Method 330 Kuwaiti university students judged the acceptability of PAS in 36 scenarios composed of all combinations of four factors: the patient's age (35, 60 or 85 years); the level of incurability of the illness (completely incurable vs extremely difficult to cure); the type of suffering (extreme physical pain or complete dependence) and the extent to which the patient requests a life-ending procedure, euthanasia or PAS (no request, some form of request, repeated requests). In all scenarios, the patients were women who were receiving the best possible care. The ratings were subjected to cluster analysis and analyses of variance.
+   Results Five clusters were found. For 44%, PAS was always very unacceptable, no matter what the circumstances. For 23%, it was unacceptable, but less so if the patient was older or requested it repeatedly. For 16%, it was unacceptable if the patient was young but was acceptable if the patient was elderly. For 5%, it was unacceptable if the patient had extreme pain but was acceptable if completely dependent. For 11%, it was unacceptable if the patient did not request it but acceptable if she did.
+   Conclusion The majority of the Kuwaiti university students opposed PAS either categorically or with a slight variation according to circumstances. Nonetheless, a minority approved of PAS in some cases, particularly when the patient was elderly.
+C1 [Ahmed, Ramadan A.] Kuwait Univ, Dept Psychol, Kuwait, Kuwait.
+   [Mullet, Etienne] Inst Adv Studies, Paris, France.
+C3 Kuwait University
+RP Sorum, PC (corresponding author), Albany Med Coll, 724 Watervliet Shaker Rd, Latham, NY 12110 USA.
+EM sorump@mail.amc.edu
+NR 26
+TC 16
+Z9 16
+U1 0
+U2 6
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0306-6800
+EI 1473-4257
+J9 J MED ETHICS
+JI J. Med. Ethics
+PD NOV
+PY 2010
+VL 36
+IS 11
+BP 671
+EP 676
+DI 10.1136/jme.2010.036012
+PG 6
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA 692XN
+UT WOS:000285189300009
+PM 20817813
+DA 2023-12-03
+ER
+
+PT C
+AU Berman, P
+   Clarke, A
+   Dinkha, J
+AF Berman, Pearl
+   Clarke, Adam
+   Dinkha, Juliet
+BE Pracana, C
+   Silva, L
+TI RECOGNIZING THE WARNING SIGNS OF VIOLENCE ACROSS THE LIFESPAN: SAMPLES
+   FROM KUWAIT AND THE USA
+SO INPACT 2013: INTERNATIONAL PSYCHOLOGICAL APPLICATIONS CONFERENCE AND
+   TRENDS
+LA English
+DT Proceedings Paper
+CT International Psychological Applications Conference and Trends
+CY APR 26-28, 2013
+CL Madrid, SPAIN
+SP World Inst Adv Res & Sci, PsychNol Journal, Jean Piaget Soc
+DE Violence prevention; Outcome assessment; Teaching effectiveness
+ID PREVALENCE
+AB The World Health Organization (WHO) labeled interpersonal violence a world-wide public health crisis. In the United States alone, 1.5 million women, and 800,000 men reported being abused by a partner while an estimated three million children witnessed it; these acts might involve physical as well as sexual assaults. An assaultive parent might force a child to participate in the assaults and there was a 30%-60% co-occurrence with child abuse. In 2006, 3.3 million reports of child maltreatment were investigated and as elder abuse hotlines expanded, so did statistics on elder abuse and neglect. Comprehensive violence education could serve as a valuable form of primary prevention but its empirical validity would need to be established. The Warning Signs Survey was developed as an outcome instrument and measured the effectiveness of violence education efforts at two universities. Its three major sections contained phrases indicating distractor items as well as warning signs of: violence, suicide, a maltreated child, an abusive parent, and a neglectful parent. Objectives: Assessed the internal consistency of the Warning Signs Survey scales. Assessed the perceptions students had about warning signs of destructive behavior. Assessed the utility of the survey for informing instructors about the strengths and weaknesses of their violence education efforts: Design: Students completed the survey at the beginning and end of their academic terms. Methods: Subjects included 156 students from Indiana University of Pennsylvania (IUP) and 136 students at the American University of Kuwait (AUK) who were taking psychology courses. Findings: Internal consistency varied by scale and country with Cronbach's alpha ranging from .5-1.0. Item analysis indicated that AUK and IUP students showed some divergent perceptions of the warning signs of destructive behavior. MANOVA indicated that students learned more about violence, suicide, and acceptable parenting strategies over the course of the term. However, IUP students knew more about most warning signs than AUK students; however, this may have been a result of taking a survey in their non-native language. Conclusions: Survey showed some potential as an effective outcome instrument but was in need of revision to reduce ceiling effects, and increase clarity, of some scales. The second version of the survey has currently been evaluated on approximately 700 IUP students. Ceiling effects have been significantly reduced and Cronbach's alphas now range form .7-1.0 on all its scales; which have been expanded to include intimate partner violence and elder abuse and neglect. It is currently being translated into Arabic for use at AUK.
+C1 [Berman, Pearl; Clarke, Adam] Indiana Univ Penn, Dept Psychol, Indiana, PA 15705 USA.
+   [Dinkha, Juliet] Amer Univ Kuwait, Kuwait, Kuwait.
+C3 Pennsylvania State System of Higher Education (PASSHE); Indiana
+   University of Pennsylvania; American University of Kuwait
+RP Berman, P (corresponding author), Indiana Univ Penn, Dept Psychol, Indiana, PA 15705 USA.
+NR 6
+TC 0
+Z9 0
+U1 1
+U2 4
+PU WORLD INST ADVANCED RESEARCH & SCIENCE
+PI LISBON
+PA RUA TOMAS RIBEIRO, 45, 1 DTO, LISBON, 1050-225, PORTUGAL
+BN 978-989-97866-0-8
+PY 2013
+BP 205
+EP 209
+PG 5
+WC Psychology, Multidisciplinary
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Psychology
+GA BC6ZB
+UT WOS:000354623100051
+DA 2023-12-03
+ER
+
+PT J
+AU Zahreddine, N
+   Hady, RT
+   Chammai, R
+   Kazour, F
+   Hachem, D
+   Richa, S
+AF Zahreddine, Nada
+   Hady, Rima Talaat
+   Chammai, Rabih
+   Kazour, Francois
+   Hachem, Dory
+   Richa, Sami
+TI Psychiatric Morbidity, Phenomenology and Management in Hospitalized
+   Female Foreign Domestic Workers in Lebanon
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE Domestic workers; Living conditions; Psychiatric morbidity; Mental
+   health care; Phenomenology
+ID RATING-SCALE; MIGRATION; SCHIZOPHRENIA; DISORDERS; IMMIGRANTS;
+   HOUSEMAIDS; SYMPTOMS; HEALTH; KUWAIT; RISK
+AB 40 million female domestic workers worldwide experience the inhumane conditions associated with this unregulated occupation, a situation that induces psychiatric morbidities in many. The case in Lebanon is not any better where it is estimated that one foreign domestic worker (FDW) commits suicide weekly. 33 female FDW and 14 female Lebanese (control group, CG) were enrolled. Brief Psychotic Rating Scale (BPRS) and Clinical Global Impression (CGI) scales were administered on admission and discharge and socio-demographic, living conditions, mental health care data and phenomenological observations were collected. Sexual, physical, and verbal abuses were detected in FDW (12.5, 37.5, and 50.0 %. respectively). 66.7 % of them were diagnosed with brief psychotic episode. The mean duration of hospital stay (13.1 days) was significantly lower in the FDW group. The mean cumulative antipsychotic dose of the FDW was 337.1 mg of chlorpromazine equivalent and the mean BPRS total pre-score of FDW was 66.4 with a much improved state on the CGI global improvement scale, all of which were nonsignificantly different from the CG. Striking phenomenological findings among FDW were acute anorexia (39.4 %), nudity (30.3 %), catatonic features (21.2 %), and delusion of pregnancy (12.1 %). Inpatient FDW are more diagnosed with psychotic than affective disorders and receive approximately similar treatment as controls in spite of the trend to rapidly discharge and deport the worker to limit the costs. Both groups presented with similar severity, although the FDW had peculiar phenomenological observations.
+C1 [Zahreddine, Nada; Hady, Rima Talaat; Kazour, Francois; Richa, Sami] St Joseph Univ, Dept Psychiat, Beirut, Lebanon.
+   [Hady, Rima Talaat] Amer Univ Beirut, Fac Arts & Sci, Beirut, Lebanon.
+   [Hachem, Dory] Hosp Cross, Beirut, Lebanon.
+C3 American University of Beirut
+RP Richa, S (corresponding author), St Joseph Univ, Dept Psychiat, Beirut, Lebanon.
+EM zahreddinenada@hotmail.com; zahreddinenada@hotmail.com;
+   rabihelchammay@yahoo.fr; francosikazour@hotmail.com;
+   dorypat@hotmail.com; samiric@idm.net.lb
+RI richa, sami/ABF-6036-2020
+OI Kazour, Francois/0000-0001-9337-4797
+NR 59
+TC 13
+Z9 14
+U1 0
+U2 12
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD JUL
+PY 2014
+VL 50
+IS 5
+BP 619
+EP 628
+DI 10.1007/s10597-013-9682-7
+PG 10
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA AJ6HB
+UT WOS:000337790700016
+PM 24370752
+DA 2023-12-03
+ER
+
+EF

@@ -1,0 +1,237 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jaen-Varas, D
+   Ribeiro, WS
+   Whitfield, J
+   Mari, JD
+AF Jaen-Varas, Denisse
+   Ribeiro, Wagner Silva
+   Whitfield, Jessie
+   Mari, Jair de Jesus
+TI Mental health and psychiatric care in Bolivia: what do we know?
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH SYSTEMS
+LA English
+DT Review
+DE Mental health service; Public policy; Health policy; Developing
+   countries; Bolivia; South America; Alcohol Addiction; Domestic Violence;
+   Suicide
+ID INTIMATE PARTNER VIOLENCE
+AB Background: Recently Bolivia has implemented a universal health system, but their mental health policy is still emerging.
+   Objectives: To investigate the current state of the mental health care system in Bolivia and discuss challenges for structuring a coordinated network of services that can effectively meet the needs of the Bolivian population.
+   Methods: This review was conducted by searching for scholarly articles through the databases Lilacs, Medline OPS, HISA and IBECS REPIDISCA via the search portal in the Virtual Health Library - NLM (www.bireme.br).
+   Results: Bolivia has a National Mental Health Plan that is intended to guide mental health promotion, prevention, treatment and rehabilitation of mental illness, but the resources for this area of health are limited. There are 1.06 psychiatrists and 0.46 psychologists per 100, 000 inhabitants. Information on psychiatric morbidity in Bolivia and the impact of mental disorders on the global burden of disease is scarce. Admission statistics reported by psychiatric hospitals in the country show that the main cause of hospitalization is substance abuse (30%). Alcohol consumption is responsible for 90% of these admissions, in addition to being a major cause of deaths in traffic and one of the main risk factors for domestic violence. Almost one in two women in Bolivia (47%) experienced some form of violence from their partner in the last year. Nineteen percent of women living with a partner reported being physically abused, while 7% were sexually abused by their partners. Isolated studies report that suicide rates are disproportionately high in Bolivia.
+   Conclusions: Although there is a shortage of epidemiological data in Bolivia, it is clear the impact of alcohol addiction in psychiatric admissions, domestic violence and traffic accidents. Violence against women and suicides are important issues to be tackled. Among the proposed strategies to afford human resources for mental health in Bolivia, "task shifting", the delegation of tasks to non-specialists should be extensively adopted in the country to improve mental health care.
+C1 [Jaen-Varas, Denisse; Ribeiro, Wagner Silva; Mari, Jair de Jesus] Univ Fed Sao Paulo, Dept Psiquitria, BR-04038000 Sao Paulo, Brazil.
+   [Whitfield, Jessie] St Louis Univ, Sch Med, St Louis, MO USA.
+C3 Universidade Federal de Sao Paulo (UNIFESP); Saint Louis University
+RP Jaen-Varas, D (corresponding author), Univ Fed Sao Paulo, Dept Psiquitria, Rua Borges Lagoa 570, BR-04038000 Sao Paulo, Brazil.
+EM deni_clau@hotmail.com
+RI de Jesus Mari, Jair/A-7309-2008; Ribeiro, Wagner/O-2927-2018
+OI de Jesus Mari, Jair/0000-0002-5403-0112; Ribeiro,
+   Wagner/0000-0001-6735-3861
+NR 16
+TC 10
+Z9 10
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-4458
+J9 INT J MENT HEALTH SY
+JI Int. J. Ment. Health Syst.
+PD MAY 15
+PY 2014
+VL 8
+AR 18
+DI 10.1186/1752-4458-8-18
+PG 7
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AH3ZB
+UT WOS:000336063900001
+PM 24843384
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Exner, CJ
+   Ayala, GU
+AF Exner, Christopher J.
+   Ayala, Guillermo Urquizo
+TI ORGANOPHOSPHATE AND CARBAMATE INTOXICATION IN LA PAZ, BOLIVIA
+SO JOURNAL OF EMERGENCY MEDICINE
+LA English
+DT Article
+DE Organophosphate; Carbamate; Poisoning; Bolivia; La Paz
+ID PESTICIDES; MANAGEMENT
+AB Intoxication with organophosphate (OP) and carbamate (CM) compounds is a common reason for presentation to the Emergency Department (ED) in La Paz, Bolivia. The objective of this study was to describe the demographics, presenting symptoms, and hospital course of patients presenting with OP or CM intoxication to the ED of the Hospital de Clinicas, La Paz, Bolivia, with the aim of determining which factors might predict a complicated hospital course. This was a retrospective chart review, using predefined criteria, of 300 patients who presented from January 1, 2003 to December 31, 2003. The intoxications were all oral, mostly intentional (97%), and in young patients (mean age 23.9 years, range 13-62 years). Females outnumbered males almost 2:1. The most common symptoms on presentation were abdominal pain (83%), nausea/vomiting (79%), miosis (72%), bronchorrhea (44%), diarrhea (41%), and fasciculations (31%). The most frequent complications were aspiration (18%), cardiopulmonary arrest (9%), and seizure (7%); mortality was 6%. Treatments included gastric lavage in 96% of patients, and atropine (median 5 mg per patient, range 0-48 mg). Miosis, bronchorrhea, diarrhea, and fasciculations at presentation were associated with a higher rate of complications. Although almost all intoxications were suicide attempts, less than half of patients received a psychiatric consultation. OP intoxication is a common cause of self-inflicted morbidity and mortality among young people in La Paz, Bolivia. Presence of miosis, bronchorrhea, diarrhea, and fasciculations at presentation suggest a higher likelihood of complications. (C) 2009 Elsevier Inc.
+C1 [Exner, Christopher J.] St Anthony Hosp, Dept Emergency Med, Chicago, IL 60623 USA.
+   [Ayala, Guillermo Urquizo] Hosp Clin, Dept Internal Med, La Paz, Bolivia.
+RP Exner, CJ (corresponding author), St Anthony Hosp, Dept Emergency Med, 2875 W 19th St, Chicago, IL 60623 USA.
+NR 20
+TC 6
+Z9 6
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0736-4679
+J9 J EMERG MED
+JI J. Emerg. Med.
+PD MAY
+PY 2009
+VL 36
+IS 4
+BP 348
+EP 352
+DI 10.1016/j.jemermed.2007.10.063
+PG 5
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Emergency Medicine
+GA 441JL
+UT WOS:000265765000005
+PM 18439788
+DA 2023-12-06
+ER
+
+PT J
+AU Romo, ML
+   Kelvin, EA
+AF Romo, Matthew L.
+   Kelvin, Elizabeth A.
+TI Impact of bullying victimization on suicide and negative health
+   behaviors among adolescents in Latin America
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE Bullying; adolescent; suicide; tobacco; alcohol drinking; aggression;
+   sexual behavior; school health; Latin America
+ID MIDDLE-SCHOOL STUDENTS; SUBSTANCE USE; DEPRESSION; RISK; ASSOCIATION;
+   CHILDHOOD; IDEATION; MEXICO
+AB Objective. To compare the prevalence of bullying victimization, suicidal ideation, suicidal attempts, and negative health behaviors (current tobacco use, recent heavy alcohol use, truancy, involvement in physical fighting, and unprotected sexual intercourse) in five different Latin American countries and determine the association of bullying victimization with these outcomes, exploring both bullying type and frequency.
+   Methods. Study data were from Global School-based Student Health Surveys from Bolivia, Costa Rica, Honduras, Peru, and Uruguay, which covered nationally representative samples of school-going adolescents. The surveys used a two-stage clustered sample design, sampling schools and then classrooms. Logistic regression models were run to determine the statistical significance of associations with bullying.
+   Results. Among the 14 560 school-going adolescents included in this study, the prevalence of any bullying victimization in the past 30 days was 37.8%. Bullying victimization was associated with greater odds of suicidal ideation with planning (adjusted odds ratio (AOR): 3.12; P < 0.0001) and at least one suicide attempt (AOR: 3.07; P < 0.0001). An increasing exposure-response effect of increasing days of bullying victimization on suicide outcomes was also observed. Bullying victimization was associated with higher odds of current tobacco use (AOR: 2.14; P < 0.0001); truancy (AOR: 1.76; P < 0.0001); physical fighting (AOR: 2.40; P < 0.0001); and unprotected sexual intercourse (AOR: 1.77; P < 0.0001).
+   Conclusions. Although the prevalence of bullying victimization varied by country, its association with suicidal ideation and behavior and negative health behaviors remained relatively consistent. Addressing bullying needs to be made a priority in Latin America, and an integrated approach that also includes mental and physical health promotion is needed.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+EM elizabeth.kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Kelvin,
+   Elizabeth/0000-0002-0566-8697
+NR 28
+TC 36
+Z9 44
+U1 1
+U2 17
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD NOV
+PY 2016
+VL 40
+IS 5
+BP 347
+EP 355
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EJ4UT
+UT WOS:000393213100009
+PM 28076584
+DA 2023-12-06
+ER
+
+PT J
+AU Caqueo-Urízar, A
+   Urzúa, A
+   Boyer, L
+   Williams, DR
+AF Caqueo-Urizar, Alejandra
+   Urzua, Alfonso
+   Boyer, Laurent
+   Williams, David R.
+TI Religion involvement and quality of life in patients with schizophrenia
+   in Latin America
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Quality of life; Schizophrenia; Religion; Spirituality
+ID MENTAL-HEALTH; SPIRITUALITY; QUESTIONNAIRE; OUTPATIENTS; PREDICTORS;
+   COUNTRIES; RELATIVES; SUICIDE; AYMARA
+AB The aim of the study was to explore the relationship between religion involvement (RI) and quality of life (QoL) in patients with schizophrenia from three countries in Latin America, while considering key confounding factors such as socio-demographic and clinical characteristics.
+   This cross-sectional study was conducted in the public mental health services in La Paz, Bolivia; Arica, Chile; and Tacna, Peru. The data collected included RI, socio-demographic information, clinical characteristics, type of treatment and QoL using the S-QoL 18 questionnaire. A multivariate analysis using multiple linear regressions was performed to determine variables associated with QoL levels.
+   Two hundred and fifty-three patients with schizophrenia were enrolled in our study. Significant positive associations were found between RI and QoL (the S-QoL 18 index: beta = 0.13; p = 0.048; autonomy dimension: beta = 0.15; p = 0.027). Other socio-cultural and economic factors were also associated with low QoL level: being a woman, older patient, low education level and being Aymara. Severity of the psychotic symptoms was associated to a lower QoL for all the dimension (beta from 0.15 to 0.31), except for the resilience.
+   Our study found that socio-cultural and economic factors including RI were associated with QoL in patients with schizophrenia in Latin America, suggesting that these factors may influence positively health outcome. However, these relationships were moderate in strength, especially in comparison to symptoms severity which remained the most important features associated with QoL.
+C1 [Caqueo-Urizar, Alejandra] Univ Tarapaca, Escuela Psicol & Filosofia, Ave 18 Septiembre 2222, Arica, Chile.
+   [Caqueo-Urizar, Alejandra; Williams, David R.] Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, 677 Huntington Ave, Boston, MA 02115 USA.
+   [Boyer, Laurent] Aix Marseille Univ, Res Unit, EA Publ Hlth Chron Dis & Qual Life 3279, F-13005 Marseille, France.
+   [Urzua, Alfonso] Univ Catolica Norte, Angamos 0610, Antofagasta, Chile.
+C3 Universidad de Tarapaca; Harvard University; Harvard T.H. Chan School of
+   Public Health; Aix-Marseille Universite; Universidad Catolica del Norte
+RP Caqueo-Urízar, A (corresponding author), Univ Tarapaca, Escuela Psicol & Filosofia, Ave 18 Septiembre 2222, Arica, Chile.; Caqueo-Urízar, A (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, 677 Huntington Ave, Boston, MA 02115 USA.
+EM acaqueo@uta.cl; alurzua@ucn.cl; Laurent.BOYER@ap-hm.fr;
+   dwilliam@hsph.harvard.edu
+RI Williams, David/HKN-3732-2023; Boyer, Laurent/E-5728-2016;
+   Caqueo-Urízar, Alejandra/AAW-4045-2021; Urzúa, Alfonso/A-1208-2012
+OI Boyer, Laurent/0000-0003-1229-6622; Caqueo-Urízar,
+   Alejandra/0000-0002-4614-8380; Urzúa, Alfonso/0000-0002-0882-2194
+FU CONICYT; BECAS-CHILE Postdoctorado en el Extranjero [74140004]; Convenio
+   de Desempeno UTA-MINEDUC
+FX This research was funded in part by CONICYT and BECAS-CHILE
+   Postdoctorado en el Extranjero (74140004), the Convenio de Desempeno
+   UTA-MINEDUC. We thank Felipe Ponce y Jorge Escudero for their assistance
+   in the study and also the following people and facilities: Dr. Hugo
+   Sanchez, Dr. Ricardo Alvites, Dr. Andres Collado, Gladys Coaquira, Vilma
+   Liendo and specially thanks to Dr. Jose Revilla from Hipolito Unanue
+   Hospital in Tacna, Peru; Dr. Marcio Soto from Arequipa, Peru; Dr.
+   Fernando Garitano, Dr. Mauricio Peredo and Dra. Mabel Romero from Centro
+   de Rehabilitacion y Salud Mental San Juan de Dios; and the Director of
+   Hospital Psiquiatrico de la Caja Nacional de Salud from La Paz, Bolivia.
+   We also thank Dra. Magdalena Gardilcic, Ester Lopez, and Alejandra Lagos
+   from Servicio de Salud de Arica, Chile, and extend a special thanks to
+   all the patients and caregivers who participated in this study. Finally,
+   a special thanks to the Dr. Stephen Gilman from National Institute of
+   Child Health and Human Development who assisted with the preparation and
+   proof reading of the manuscript.
+NR 51
+TC 9
+Z9 9
+U1 1
+U2 16
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD APR
+PY 2016
+VL 51
+IS 4
+BP 521
+EP 528
+DI 10.1007/s00127-015-1156-5
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DI7UN
+UT WOS:000373707600006
+PM 26614006
+DA 2023-12-06
+ER
+
+EF

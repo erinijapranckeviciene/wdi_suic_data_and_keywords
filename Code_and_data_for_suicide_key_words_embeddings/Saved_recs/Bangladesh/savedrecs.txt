@@ -1,0 +1,3341 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Soron, TR
+AF Soron, Tanjir Rashid
+TI Decriminalizing suicide in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Soron, Tanjir Rashid] Telepsychiat Res & Innovat Network, Cyberpsychol Res Org, Dhaka, Bangladesh.
+RP Soron, TR (corresponding author), Telepsychiat Res & Innovat Network, Cyberpsychol Res Org, Dhaka, Bangladesh.
+EM tanjirsoron@yahoo.com
+RI Soron, Tanjir Rashid/L-7648-2015
+OI Soron, Tanjir Rashid/0000-0001-9810-5000
+NR 12
+TC 8
+Z9 8
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD JAN
+PY 2019
+VL 39
+BP 91
+EP 92
+DI 10.1016/j.ajp.2018.12.012
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HI6AO
+UT WOS:000456535700023
+PM 30597442
+DA 2023-12-06
+ER
+
+PT J
+AU Shah, MMA
+   Sajib, MWH
+   Arafat, SMY
+AF Shah, Md Mohsin Ali
+   Sajib, Mohammad Waliul Hasnat
+   Arafat, S. M. Yasir
+TI Demography and risk factor of suicidal behavior in Bangladesh: A
+   cross-sectional observation from patients attending a suicide prevention
+   clinic of Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Shah, Md Mohsin Ali; Sajib, Mohammad Waliul Hasnat; Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM mohsin_ashah@yahoo.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 8
+TC 15
+Z9 15
+U1 0
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD JUN
+PY 2018
+VL 35
+BP 4
+EP 5
+DI 10.1016/j.ajp.2018.04.035
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GK7PB
+UT WOS:000436398300004
+PM 29715650
+DA 2023-12-06
+ER
+
+PT J
+AU Chowdhury, FR
+   Dewan, G
+   Verma, VR
+   Knipe, DW
+   Isha, IT
+   Faiz, MA
+   Gunnell, DJ
+   Eddleston, M
+AF Chowdhury, Fazle Rabbi
+   Dewan, Gourab
+   Verma, Vasundhara R.
+   Knipe, Duleeka W.
+   Isha, Ishrat Tahsin
+   Faiz, M. Abul
+   Gunnell, David J.
+   Eddleston, Michael
+TI Bans of WHO Class I Pesticides in Bangladesh-suicide prevention without
+   hampering agricultural output
+SO INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE Bangladesh; pesticides; suicide; prevention; agriculture
+ID DEATHS; IMPACT
+AB Background: Pesticide self-poisoning is a major problem in Bangladesh. Over the past 20-years, the Bangladesh government has introduced pesticide legislation and banned highly hazardous pesticides (HHPs) from agricultural use. We aimed to assess the impacts of pesticide bans on suicide and on agricultural production.
+   Methods: We obtained data on unnatural deaths from the Statistics Division of Bangladesh Police, and used negative binomial regression to quantify changes in pesticide suicides and unnatural deaths following removal of WHO Class I toxicity HHPs from agriculture in 2000. We assessed contemporaneous trends in other risk factors, pesticide usage and agricultural production in Bangladesh from 1996 to 2014.
+   Results: Mortality in hospital from pesticide poisoning fell after the 2000 ban: 15.1% vs 9.5%, relative reduction 37.1% [95% confidence interval (CI) 35.4 to 38.8%]. The pesticide poisoning suicide rate fell from 6.3/100 000 in 1996 to 2.2/100 000 in 2014, a 65.1% (52.0 to 76.7%) decline. There was a modest simultaneous increase in hanging suicides [20.0% (8.4 to 36.9%) increase] but the overall incidence of unnatural deaths fell from 14.0/100 000 to 10.5/100 000 [25.0% (18.1 to 33.0%) decline]. There were 35 071 (95% CI 25 959 to 45 666) fewer pesticide suicides in 2001 to 2014 compared with the number predicted based on trends between 1996 to 2000. This reduction in rate of pesticide suicides occurred despite increased pesticide use and no change in admissions for pesticide poisoning, with no apparent influence on agricultural output.
+   Conclusions: Strengthening pesticide regulation and banning WHO Class I toxicity HHPs in Bangladesh were associated with major reductions in deaths and hospital mortality, without any apparent effect on agricultural output. Our data indicate that removing HHPs from agriculture can rapidly reduce suicides without imposing substantial agricultural costs.
+C1 [Chowdhury, Fazle Rabbi; Isha, Ishrat Tahsin] Sylhet MAG Osmani Med Coll, Dept Med, Sylhet, Bangladesh.
+   [Chowdhury, Fazle Rabbi] Univ Oxford, Nuffield Dept Med, Ctr Trop Med & Global Hlth, Oxford, England.
+   [Chowdhury, Fazle Rabbi] Hlth Directorate DGHS, OSD, Dhaka, Bangladesh.
+   [Dewan, Gourab] Rangamati Med Coll, Dept Med, Rangamati, Bangladesh.
+   [Verma, Vasundhara R.; Eddleston, Michael] Univ Edinburgh, Univ BHF Ctr Cardiovasc Sci, Pharmacol Toxicol & Therapeut, Edinburgh, Midlothian, Scotland.
+   [Knipe, Duleeka W.; Gunnell, David J.] Univ Bristol, Sch Social & Community Med, Bristol, Avon, England.
+   [Faiz, M. Abul] Dev Care Fdn, Dhaka, Bangladesh.
+   [Knipe, Duleeka W.; Eddleston, Michael] Univ Peradeniya, South Asian Clin Toxicol Res Collaborat, Peradeniya, Sri Lanka.
+C3 Sylhet MAG Osmani Medical College; University of Oxford; University of
+   Edinburgh; University of Bristol; University of Peradeniya
+RP Chowdhury, FR (corresponding author), Univ Oxford, Peter Medawar Bldg Pathogen Res,S Parks Rd, Oxford OX1 3SY, England.
+EM fazle.chowdhury@ndm.ox.ac.uk
+RI Knipe, M Duleeka W/D-2714-2009; Gunnell, David/ABE-6653-2020
+OI Knipe, M Duleeka W/0000-0002-1040-7635; Gunnell,
+   David/0000-0002-0829-6470; Chowdhury, Fazle Rabbi/0000-0001-9579-0030
+FU Economic and Social Research Council [ES/P009735/1] Funding Source:
+   researchfish; National Institute for Health Research [NF-SI-0512-10068]
+   Funding Source: researchfish; ESRC [ES/P009735/1] Funding Source: UKRI
+NR 51
+TC 52
+Z9 54
+U1 1
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0300-5771
+EI 1464-3685
+J9 INT J EPIDEMIOL
+JI Int. J. Epidemiol.
+PD FEB
+PY 2018
+VL 47
+IS 1
+BP 175
+EP 184
+DI 10.1093/ije/dyx157
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FX5UZ
+UT WOS:000426148300030
+PM 29024951
+OA hybrid, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+   Mali, B
+   Akter, H
+AF Arafat, S. M. Yasir
+   Mali, Bithika
+   Akter, Hasina
+TI Quality of online news reporting of suicidal behavior in Bangladesh
+   against World Health Organization guidelines
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Bangladesh; Media reporting; Content analysis; WHO guidelines
+ID RISK-FACTORS; PREVENTION; DEMOGRAPHY
+AB Background: Suicide is a major, however under attended public health problem in Bangladesh. There is dearth of research regarding how newspapers communicate it to the mass population.
+   Objectives: We assessed the quality of online newspapers reporting of suicidal behaviors in Bangladesh against World Health Organization suicide reporting guidelines.
+   Methods: We searched and scrutinized published contents of 8 Bangla online news portals against the World Health Organization suicide reporting guidelines retrospectively.
+   Results: About 85% of the reports were connected to suicide, 93% reported single suicide, single person was involved in 82.50% of reports, and associated homicide was found in 7.50% of reports. About 96% of reports mentioned the name of the victims, 97% mentioned occupation, 96% mentioned method of suicide, 69% mentioned life events, and 64% reported certain mono-causality. Suicide in headline was found in about 94% of reports, 19% mentioned method in headline and 32% reported life events in headline. About 14% reports posted images of victims and no article provided any potentially helpful reporting practices.
+   Conclusion: Media reports of suicidal behavior in Bangladesh in online portal were found to be poor quality when assessed against WHO suicide reporting guidelines. Details of victims, methods, life events and mono-causal explanations were being mentioned regularly. Substantial lacking has been noticed in approaches of educating the population and introducing preventive measures in the reports.
+C1 [Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+   [Mali, Bithika; Akter, Hasina] Bangabandhu Sheikh Mujib Med Univ, Dept Nursing, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU); Bangabandhu Sheikh
+   Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708; Akter, Hasina/0000-0003-3412-934X
+NR 19
+TC 26
+Z9 26
+U1 3
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD FEB
+PY 2019
+VL 40
+BP 126
+EP 129
+DI 10.1016/j.ajp.2018.10.010
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HQ7YX
+UT WOS:000462641100032
+PM 30314714
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+AF Arafat, S. M. Yasir
+TI Suicide prevention activities in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 5
+TC 14
+Z9 14
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD AUG
+PY 2018
+VL 36
+BP 38
+EP 38
+DI 10.1016/j.ajp.2018.06.009
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GV6TV
+UT WOS:000446249900015
+PM 29960133
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+AF Arafat, S. M. Yasir
+TI Suicide by intravenous kerosene: A case report in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 7
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD MAR
+PY 2018
+VL 33
+BP 126
+EP 127
+DI 10.1016/j.ajp.2017.11.010
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GG5MW
+UT WOS:000432740700027
+PM 29174351
+DA 2023-12-06
+ER
+
+PT J
+AU Salam, SS
+   Alonge, O
+   Islam, MI
+   Hoque, DME
+   Wadhwaniya, S
+   Ul Baset, MK
+   Mashreky, SR
+   El Arifeen, S
+AF Salam, Shumona Sharmin
+   Alonge, Olakunle
+   Islam, Md Irteja
+   Hoque, Dewan Md Emdadul
+   Wadhwaniya, Shirin
+   Ul Baset, Md Kamran
+   Mashreky, Saidur Rahman
+   El Arifeen, Shams
+TI The Burden of Suicide in Rural Bangladesh: Magnitude and Risk Factors
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE suicide; attempted suicide; burden; risk factors; rural; Bangladesh;
+   injury; violence
+ID MARITAL-STATUS; PREVENTION PROGRAMS; COMPLETED SUICIDE; WOMEN; VIOLENCE;
+   DEATH; ASIA; IDEATION; PEOPLE; HEALTH
+AB The aim of the paper is to quantify the burden and risk factors of fatal and non-fatal suicidal behaviors in rural Bangladesh. A census was carried out in seven sub-districts encompassing 1.16 million people. Face-to-face interviews were conducted at the household level. Descriptive analyses were done to quantify the burden and Poisson regression was run to determine on risk factors. The estimated rates of fatal and non-fatal suicide were 3.29 and 9.86 per 100,000 person years (PY) observed, respectively. The risk of suicide was significantly higher by 6.31 times among 15-17 and 4.04 times among 18-24 olds compared to 25-64 years old. Married adolescents were 22 times more likely to commit suicide compared to never-married people. Compared to Chandpur/Comilla district, the risk of suicide was significantly higher in Narshingdi. Students had significantly lower risk of non-fatal suicidal behavior compared to skilled laborers. The risk of non-fatal suicidal behavior was lower in Sherpur compared to Chandpur/Comilla. Among adolescents, unskilled laborers were 16 times more likely to attempt suicide than students. The common methods for fatal and non-fatal suicidal behaviors were hanging and poisoning. Suicide is a major public health problem in Bangladesh that needs to be addressed with targeted interventions.
+C1 [Salam, Shumona Sharmin; Islam, Md Irteja; Hoque, Dewan Md Emdadul; El Arifeen, Shams] Int Ctr Diarrhoeal Dis Res, GPO Box 128, Dhaka 1000, Bangladesh.
+   [Alonge, Olakunle; Wadhwaniya, Shirin] Johns Hopkins Univ, Dept Int Hlth, Bloomberg Sch Publ Hlth, Baltimore, MA 21205 USA.
+   [Ul Baset, Md Kamran; Mashreky, Saidur Rahman] Ctr Injury Prevent & Res, House B-162,Rd 23, Dhaka 1206, Bangladesh.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); Johns
+   Hopkins University; Johns Hopkins Bloomberg School of Public Health
+RP Salam, SS (corresponding author), Int Ctr Diarrhoeal Dis Res, GPO Box 128, Dhaka 1000, Bangladesh.
+EM shumona@icddrb.org; oalonge1@jhu.edu; irteja.islam@icddrb.org;
+   emdad@icddrb.org; swadhwa2@jhu.edu; kamran_baset@yahoo.co.uk;
+   mashreky@ciprb.org; shams@icddrb.org
+RI Hoque, Dewan Md. Emdadul/J-1999-2019; Hoque, Dewan/O-3606-2015;
+   Wadhwaniya, Shirin/I-8833-2018; Mashreky, Saidur/N-9113-2017
+OI Hoque, Dewan Md. Emdadul/0000-0001-8219-9196; Hoque,
+   Dewan/0000-0001-8219-9196; Mashreky, Saidur/0000-0001-7892-798X; Salam,
+   Shumona/0000-0001-9517-7041; Alonge, Olakunle/0000-0001-7642-2806;
+   Islam, Md Irteja/0000-0001-7637-5907; Arifeen, Shams/0000-0002-5372-5932
+FU Bloomberg Philanthropies; Center for Injury Prevention and Research,
+   Bangladesh (CIPRB); icddr,b
+FX We would like to thank Bloomberg Philanthropies for providing the
+   funding to implement the Saving of Lives from Drowning (SoLiD) study. We
+   would also like to thank our local partners, Center for Injury
+   Prevention and Research, Bangladesh (CIPRB) and icddr,b for their
+   invaluable expertise and support in helping us implement the project.
+NR 47
+TC 28
+Z9 28
+U1 0
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD SEP
+PY 2017
+VL 14
+IS 9
+AR 1032
+DI 10.3390/ijerph14091032
+PG 16
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA FH9YO
+UT WOS:000411574400084
+PM 28891939
+OA Green Submitted, Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Iqbal, Y
+   Jahan, R
+   Matin, MR
+AF Iqbal, Yeshim
+   Jahan, Rubina
+   Matin, Muhtasabbib Rumman
+TI Descriptive characteristics of callers to an emotional support and
+   suicide prevention helpline in Bangladesh (first five years)
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Helpline; Prevention; Call descriptions; Bangladesh
+ID CRISIS HOTLINE OUTCOMES; RISK-FACTORS; DEMOGRAPHY; BEHAVIOR
+AB Although crisis helplines are an established method of suicide prevention, there is little research on their operation in developing countries. This paper reviews calls (N = 14,344) to the only suicide prevention hotline in Bangladesh during the first five years of the helpline's operation. Call characteristics were recorded on checklists, compiled, and analyzed. Results indicate that callers are about half male, mostly between the ages of twenty and thirty-nine, and mostly not suicidal. Callers display a wide range of reasons for calling, with relationship issues, mental illness/substance abuse, and emotions constituting the majority of calls.
+C1 [Iqbal, Yeshim] NYU, 8th Floor,Kimball Hall,246 Greene St, New York, NY 10003 USA.
+   [Jahan, Rubina] BRAC Univ, James P Grant Sch Publ Hlth, 5th Floor,Icddr B Bldg, Dhaka, Bangladesh.
+   [Matin, Muhtasabbib Rumman] Kaan Pete Roi Emot Support & Suicide Prevent Help, Block C, Dhaka, Bangladesh.
+C3 New York University; Bangladesh Rural Advancement Committee BRAC; BRAC
+   University
+RP Iqbal, Y (corresponding author), NYU, 8th Floor,Kimball Hall,246 Greene St, New York, NY 10003 USA.
+EM yi330@nyu.edu; rubina.rumi@bracu.ac.bd; muhtasabbib@gmail.com
+NR 21
+TC 6
+Z9 7
+U1 1
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD OCT
+PY 2019
+VL 45
+BP 63
+EP 65
+DI 10.1016/j.ajp.2019.09.005
+PG 3
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA JF5YQ
+UT WOS:000491464800015
+PM 31520881
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+AF Arafat, S. M. Y.
+TI Suicide with intravenous kerosene: A case report in Bangladesh
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Arafat, S. M. Y.] Bangabandhu Sheikh Mujib Med Univ, Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2018
+VL 48
+SU S
+MA EV0909
+BP S553
+EP S553
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HO9BQ
+UT WOS:000461256107135
+DA 2023-12-06
+ER
+
+PT J
+AU Soron, TR
+AF Soron, Tanjir Rashid
+TI Use of facebook for developing suicide database in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Soron, Tanjir Rashid] Telepsychiat Res & Innovat Network, Cyberpsychol Res Org, Dhaka, Bangladesh.
+RP Soron, TR (corresponding author), Telepsychiat Res & Innovat Network, Cyberpsychol Res Org, Dhaka, Bangladesh.
+EM tanjirsoron@gmail.com
+RI Soron, Tanjir Rashid/L-7648-2015
+OI Soron, Tanjir Rashid/0000-0001-9810-5000
+NR 13
+TC 6
+Z9 6
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD JAN
+PY 2019
+VL 39
+BP 110
+EP 111
+DI 10.1016/j.ajp.2018.12.017
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HI6AO
+UT WOS:000456535700028
+PM 30599451
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+   Mali, B
+   Akter, H
+AF Arafat, S. M. Yasir
+   Mali, Bithika
+   Akter, Hasina
+TI Demography and risk factors of suicidal behavior in Bangladesh: A
+   retrospective online news content analysis
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicide in Bangladesh; Suicide; Demography; Risk factors; Hanging;
+   Suicidal behavior
+ID PREVENTION
+AB Background: Suicide is an under attended public health problem in Bangladesh as there is no central suicide database and no national suicide surveillance system in the country.
+   Objectives: We aimed to look into the suicide metrics in Bangladesh by analyzing the online news portals, retrospectively.
+   Methods: Eight Bangla online news portals were selected purposively to include in the study and news of suicides were searched retrospectively. Search was conducted by the word "suicide news" (Attohottar Khabor). Initially news portal were searched with the searching word retrospectively. Then links of all news were collected. After removal of the repetitions data were inputted into software.
+   Results: Since 2009 to April 2018, three hundred fifty-eight reports were scrutinized. Mean age was 23.84 ( +/- 11.42) years, ranging from 10-85 years. Seventy percent of the reported cases were less than 30 years of age, 60.1% were female, 37.7% were student, 48.6% from rural background, and about 51% were unmarried. Hanging was found as the commonest method (60.9%) and affair related issues remained as a noticeable risk factor (14.25%). About 8% of the respondents were found to have suicide notes and suicides were found higher in night & spring.
+   Conclusion: Early adult, female gender, unmarried, students were more vulnerable. Hanging was commonest method followed by poisoning. Affair related aspects, marital discord, familial disharmony drew attention as risk factors. Suicide happened higher in the night and spring season.
+C1 [Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+   [Mali, Bithika; Akter, Hasina] Bangabandhu Sheikh Mujib Med Univ, Dept Nursing, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU); Bangabandhu Sheikh
+   Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708; Akter, Hasina/0000-0003-3412-934X
+NR 13
+TC 30
+Z9 32
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD AUG
+PY 2018
+VL 36
+BP 96
+EP 99
+DI 10.1016/j.ajp.2018.07.008
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GV6TV
+UT WOS:000446249900032
+PM 30048863
+DA 2023-12-06
+ER
+
+PT J
+AU Mashreky, SR
+   Rahman, F
+   Rahman, A
+AF Mashreky, Saidur Rahman
+   Rahman, Fazlur
+   Rahman, Aminur
+TI Suicide Kills More Than 10,000 People Every Year in Bangladesh
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE Bangladesh; developing countries; epidemiology; suicide
+ID MARITAL-STATUS; RISK-FACTORS; RATES; INDIA; DEATHS; INJURY
+AB This study set out to explore the epidemiology of suicide in Bangladesh. A cross-sectional study was carried out during 2003 (January to December). This encompassed a population of 819,429 of all age-groups and sexes. Data was collected by face-to-face interviews at a household level. Suicide was found to be the leading cause of death by injury in the age group of 10-19 years. Adolescent females (10-19 year age group) were found to be the most vulnerable. Overall, the suicide rate was 7.3 (95% CI 5.6-9.5) per 100,000 per year and the highest rate was found in the age group of 60+ years. The rate of suicide was found to be 17-fold higher (95% CI 5.36-54.64) in the rural population, compared to urban rates. Adolescent suicide rate in rural areas was 20.1 (95% CI 12.6-31.7) per 100,000. The rate was 17.7 (95% CI 8.6-34.9) and 22.7(95% CI 12-42) among males and females respectively. Poisoning was found as the most frequent method of suicide. The majority of the suicide victims were found to be very poor and illiterate. Suicide is a major public health problem in Bangladesh. Age, place of residence, economic status and literacy were the major associating factors related to suicide. Adolescents, elderly and those residing in rural regions were the most vulnerable groups.
+C1 [Mashreky, Saidur Rahman; Rahman, Fazlur; Rahman, Aminur] Ctr Injury Prevent & Res Bangladesh CIPRB, Dhaka 1206, Bangladesh.
+RP Mashreky, SR (corresponding author), Ctr Injury Prevent & Res Bangladesh CIPRB, House 162,Rd 23,New DOHS Mohakhali, Dhaka 1206, Bangladesh.
+EM mashreky@ciprb.org
+RI Mashreky, Saidur/N-9113-2017
+OI Mashreky, Saidur/0000-0001-7892-798X
+NR 33
+TC 44
+Z9 45
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PD OCT 1
+PY 2013
+VL 17
+IS 4
+BP 387
+EP 396
+DI 10.1080/13811118.2013.801809
+PG 10
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 266YL
+UT WOS:000328060000006
+PM 24224672
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+   Karmakar, S
+AF Arafat, S. M. Yasir
+   Karmakar, Shilabrata
+TI Seasonality of suicide in Thakurgaon district, Bangladesh, 2014-2018
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+ID PREVENTION
+C1 [Arafat, S. M. Yasir] CARe Med Coll, Dept Psychiat, Dhaka 1207, Bangladesh.
+   [Arafat, S. M. Yasir] Biomed Res Fdn, Dhaka, Bangladesh.
+RP Arafat, SMY (corresponding author), CARe Med Coll, Dept Psychiat, Dhaka 1207, Bangladesh.; Arafat, SMY (corresponding author), Biomed Res Fdn, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD AUG
+PY 2019
+VL 44
+BP 119
+EP 120
+DI 10.1016/j.ajp.2019.07.042
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA JF5YY
+UT WOS:000491465700033
+PM 31369946
+DA 2023-12-06
+ER
+
+PT J
+AU Chowdhury, SM
+   Mashreky, SR
+   Rahman, AKMF
+AF Chowdhury, Salim Mahmud
+   Mashreky, Saidur Rahman
+   Rahman, A. K. M. Fazlur
+TI SUICIDE IN BANGLADESH: UNFOLDING THE EPIDEMIOLOGICAL BURDEN FROM A
+   NATIONWIDE SURVEY
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+C1 [Chowdhury, Salim Mahmud; Mashreky, Saidur Rahman; Rahman, A. K. M. Fazlur] CIPRB, Dhaka, Bangladesh.
+RI Mashreky, Saidur/N-9113-2017
+OI Mashreky, Saidur/0000-0001-7892-798X
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD NOV
+PY 2018
+VL 24
+SU 2
+MA PA 20-4-20
+BP A46
+EP A46
+DI 10.1136/injuryprevention-2018-safety.123
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GW1FN
+UT WOS:000446617400124
+DA 2023-12-06
+ER
+
+PT J
+AU Salam, SS
+   Alonge, O
+   Islam, MI
+   Hoque, DME
+   El Arifeen, S
+AF Salam, Shumona Sharmin
+   Alonge, Olakunle
+   Islam, Md Irteja
+   Hoque, D. M. E.
+   El Arifeen, Shams
+TI THE BURDEN OF SUICIDE IN RURAL BANGLADESH: MAGNITUDE AND RISK FACTORS
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+C1 [Salam, Shumona Sharmin; Islam, Md Irteja; Hoque, D. M. E.; El Arifeen, Shams] Icddr B, Dhaka, Bangladesh.
+   [Alonge, Olakunle] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); Johns
+   Hopkins University; Johns Hopkins Bloomberg School of Public Health
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD NOV
+PY 2018
+VL 24
+SU 2
+MA PW 1608
+BP A109
+EP A109
+DI 10.1136/injuryprevention-2018-safety.302
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GW1FN
+UT WOS:000446617400303
+DA 2023-12-06
+ER
+
+PT J
+AU Soron, TR
+AF Soron, Tanjir Rashid
+TI "I will kill myself" - The series of posts in Facebook and unnoticed
+   departure of a life
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Facebook; Bangladesh; Schadenfreude
+ID SUICIDE
+AB Social media has connected the world and transformed the concept of social interaction and traditional communication. However, the concern is rising as people started using the platform for sharing fake news, violent intentions and activities including suicide and homicide. In this paper, I report the case of a media worker in Bangladesh who committed suicide after sharing series of Facebook posts mentioning her intensions to commit suicide. Thousands of her Facebook friends and followers noticed the posts; few of them shared the posts and made critical comments. This case documented the use of Facebook to disclose the intention of committing suicide in Bangladesh. Though Facebook is gaining attention as a potential source to predict and provide timely intervention to prevent suicide, this case raised the question about the effective participation of Facebook users in such programs. We need to emphasis and focus on ensuring active participation of most of Facebook users in any social media based suicide prevention program. This report may inspire future researchers to find out more user friendly and participatory social media focused suicide prevention programs.
+C1 [Soron, Tanjir Rashid] Cyberpsychol Res Org Telepsychiat Res & Innovat N, Dhaka, Bangladesh.
+RP Soron, TR (corresponding author), Cyberpsychol Res Org Telepsychiat Res & Innovat N, Dhaka, Bangladesh.
+EM tanjirsoron@yahoo.com
+RI Soron, Tanjir Rashid/L-7648-2015
+OI Soron, Tanjir Rashid/0000-0001-9810-5000
+NR 21
+TC 4
+Z9 4
+U1 0
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD AUG
+PY 2019
+VL 44
+BP 55
+EP 57
+DI 10.1016/j.ajp.2019.07.002
+PG 3
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA JF5YY
+UT WOS:000491465700015
+PM 31323535
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+   Khan, ST
+AF Arafat, S. M. Yasir
+   Khan, Sanjida Tanjin
+TI Suicide prevention in Bangladesh: Only decriminalization would not be
+   beneficial in an expected fashion
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+C1 [Arafat, S. M. Yasir] CARe Med Coll, Dept Psychiat, Dhaka, Bangladesh.
+   [Khan, Sanjida Tanjin] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), CARe Med Coll, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 9
+TC 5
+Z9 5
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2019
+VL 42
+BP 22
+EP 23
+DI 10.1016/j.ajp.2019.03.027
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HY4ZN
+UT WOS:000468136700006
+PM 30947091
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+AF Arafat, S. M. Yasir
+TI Females are dying more than males by suicide in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+ID RISK-FACTORS; PREVENTION; DEMOGRAPHY; BEHAVIOR
+C1 [Arafat, S. M. Yasir] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+C3 Bangabandhu Sheikh Mujib Medical University (BSMMU)
+RP Arafat, SMY (corresponding author), Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 19
+TC 15
+Z9 15
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD FEB
+PY 2019
+VL 40
+BP 124
+EP 125
+DI 10.1016/j.ajp.2018.10.014
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HQ7YX
+UT WOS:000462641100031
+PM 30309753
+DA 2023-12-06
+ER
+
+PT J
+AU Arafat, SMY
+AF Arafat, S. M. Yasir
+TI Psychological autopsy study in Bangladesh: An unmet need to formulate
+   preventive strategy of suicide
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+ID DISORDER; ASIA
+C1 [Arafat, S. M. Yasir] CARe Med Coll, Dept Psychiat, Dhaka, Bangladesh.
+   [Arafat, S. M. Yasir] Biomed Res Fdn, Dhaka, Bangladesh.
+RP Arafat, SMY (corresponding author), CARe Med Coll, Dept Psychiat, Dhaka, Bangladesh.; Arafat, SMY (corresponding author), Biomed Res Fdn, Dhaka, Bangladesh.
+EM arafatdmc62@gmail.com
+RI Arafat, S M Yasir/P-9260-2015
+OI Arafat, S M Yasir/0000-0003-0521-5708
+NR 12
+TC 7
+Z9 7
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD JUN
+PY 2019
+VL 43
+BP 85
+EP 86
+DI 10.1016/j.ajp.2019.05.019
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA IS5XW
+UT WOS:000482227500020
+PM 31102914
+DA 2023-12-06
+ER
+
+PT J
+AU Jordans, MJD
+   Kaufman, A
+   Brenman, NF
+   Adhikari, RP
+   Luitel, NP
+   Tol, WA
+   Komproe, I
+AF Jordans, Mark J. D.
+   Kaufman, Anne
+   Brenman, Natassia F.
+   Adhikari, Ramesh P.
+   Luitel, Nagendra P.
+   Tol, Wietse A.
+   Komproe, Ivan
+TI Suicide in South Asia: a scoping review
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Review; South Asia; Scoping
+ID KANIYAMBADI BLOCK; TAMIL-NADU; SELF-HARM; RATES; INDIA; EPIDEMIOLOGY;
+   MORTALITY; DEATH; BANGLADESH; INJURY
+AB Background: Globally, suicide is an important cause of mortality. In low- and middle income settings, it is difficult to find unequivocal data to establish suicide rates. The objective of this review is to synthesize the reporting of suicide incidence in six south Asian countries.
+   Methods: We conducted a scoping review combining peer-reviewed studies (PubMed, PsycINFO, EMBASE) with in-country searches for grey literature in Afghanistan, Pakistan, Sri Lanka, India, Nepal and Bangladesh. The review included mapping reported suicide rates, quality appraisals of the studies, use of definitions of suicide and means of committing suicide.
+   Results: In total, 114 studies and reports were included in the review, including 50 peer-reviewed publications. Reported suicide rates varied widely from 0.43/100,000 to 331.0/100,000. The average suicide rate across studies was found to be high compared to the world average, however many studies were of poor quality or not representative. The majority of studies failed to explicitly define suicide (84% of the published articles and 92% of the grey literature documents). Poisoning and hanging were consistently the most common methods of committing suicide on the sub-continent.
+   Conclusions: The reported suicide rates in South Asia are high compared to the global average, but there is a paucity of reliable data on suicide rates in South Asia. Reports are likely to diminish rather than exaggerate the magnitude of suicide rates. There is an urgent need to establish new, or evaluate existing, national suicide surveillance systems in the South Asian countries.
+RP Adhikari, RP (corresponding author), Transcultural Psychosocial Org TPO Nepal, Res Dept, GPO Box 8974-CPC Box 612, Kathmandu, Nepal.
+EM radhikari@tponepal.org.np
+RI Komproe, Ivan/AAJ-8699-2021; Tol, Wietse A/G-8587-2013
+OI Tol, Wietse A/0000-0003-2216-0526; Adhikari, Ramesh
+   Prasad/0000-0002-0896-2074; Jordans, Mark/0000-0001-5925-8039; Komproe,
+   Ivan/0000-0001-8084-8519; Brenman, Natassia/0000-0002-6567-2129
+FU DFID's South Asia Research Hub
+FX We would like to thank the members of our Research Advisory Group, Dr.
+   Arzu Deuba, Dr. Murad Khan, Professor Atif Rahman and Dr. Athula
+   Sumathipala, as well as the external reviewers, Daniela Fuhr (London
+   School of Hygiene and Tropical Medicine), and Joanna Teuton (NHS
+   Scotland), for their support and review of the search protocol. We also
+   want to thank the consultants for in-country data-collection, Dr.
+   Hamdard Naqibullah (Afghanistan), Dr. Nafisa Huq (Bangladesh), Ms. Mona
+   Sharma (India), Dr. Jamil Ahmed (Pakistan), and Dr. Tom Widger (Sri
+   Lanka). This research was done with financial support from DFID's South
+   Asia Research Hub, for which we are thankful. The funding agency had no
+   role in the collection, analysis and interpretation of the data; in the
+   writing of the manuscript and the decision to submit the manuscript for
+   publication.
+NR 65
+TC 48
+Z9 53
+U1 1
+U2 14
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD DEC 24
+PY 2014
+VL 14
+AR 358
+DI 10.1186/s12888-014-0358-9
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AZ3WT
+UT WOS:000348155300001
+PM 25539951
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Kabir, SMS
+AF Kabir, Syed Muhammad Sajjad
+TI Psychological health challenges of the hill-tracts region for climate
+   change in Bangladesh
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Health challenge; Climate change; Hill-tracts; Bangladesh
+ID MENTAL-HEALTH; PROLONGED DROUGHT; IMPACTS
+AB The aim of this paper is to provide an overview of the deleterious effects of climate change on psychological health of the Hill-Tracts and government to deal with these adverse psychological health impacts. Although knowledge is still limited about the connections between climate change and psychological health, the evidence is indicating that impacts can be felt at both the individual and community levels, with psychological health outcomes ranging from psychological distress, depression, and anxiety, to increased addictions and suicide rates. Drawing from 125 in-depth interviews conducted between January 2015 and October 2016 with community members and local and regional health professionals, participants reported that climate change was negatively impacting psychological health and well-being. The results stated that climate change enhanced the possibility of an increased drug, family stress, alcohol use, amplified previous traumas, psychological health stressors, and were implicated in increased potential for suicide ideation of the Hill-Tracts region in Bangladesh. These exploratory findings indicate that climate change is becoming an additional psychological health stressor for Hill-Tracks' dwellers in Bangladesh.
+C1 [Kabir, Syed Muhammad Sajjad] Jagannath Univ, Dept Psychol Life & Earth Sci, Dhaka 1100, Bangladesh.
+RP Kabir, SMS (corresponding author), Jagannath Univ, Dept Psychol Life & Earth Sci, Dhaka 1100, Bangladesh.
+EM smskabir@psy.jnu.ac.bd
+NR 21
+TC 12
+Z9 12
+U1 1
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2018
+VL 34
+BP 74
+EP 77
+DI 10.1016/j.ajp.2018.04.001
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA GD9QE
+UT WOS:000430846800023
+PM 29665567
+DA 2023-12-06
+ER
+
+PT J
+AU Yusuf, HR
+   Akhter, HH
+   Rahman, MH
+   Chowdhury, MEEK
+   Rochat, RW
+AF Yusuf, HR
+   Akhter, HH
+   Rahman, MH
+   Chowdhury, MEEK
+   Rochat, RW
+TI Injury-related deaths among women aged 10-50 years in Bangladesh,
+   1996-97
+SO LANCET
+LA English
+DT Article
+ID RURAL BANGLADESH; EPIDEMIOLOGY; DELHI; INDIA
+AB Background Few studies have examined injury-related deaths among women in Bangladesh. We did a case-finding study to identify causes and the impact of intentional and unintentional injury-related deaths among women aged 10-50 years in Bangladesh.
+   Methods Between 1996 and 1997, health care and other service providers at 4751 health facilities throughout Bangladesh were interviewed about their knowledge of deaths among women aged 10-50 years. In addition, at all public facilities providing inpatient service. medical records of women who died during the study period were reviewed. The reported circumstances surrounding each death were carefully reviewed to attribute the most likely cause of death.
+   Findings 28 998 deaths among women aged 10-50 years were identified in our study, and, of these, 6610 (23%) were thought to be caused by intentional or unintentional injuries. About half (3317) of the injury deaths were attributable to suicide, 352 (5%) to homicide, 1100 (17%) to accidental injuries, and the intent was unknown for 1841 (28%) deaths. The unadjusted rate of suicides were higher in the Khulna administrative division (27.0 per 100 000) than the other four administrative divisions of Bangladesh (range 3.5-11.3 per 100 000). Poisoning (n=3971) was the commonest cause of injury-related death-60% of all injury deaths (6610) and 14% of all deaths (28 998). Other common causes of injury deaths in order of frequency were hanging or suffocation, road traffic accidents, bums, drowning, physical assault, firearm or sharp instrument injury, and snake or animal bite.
+   Interpretation Intentional and unintentional injuries are a major cause of death among women aged 10-50 years in Bangladesh. Strategies to reduce injury-related deaths among women need to be devised.
+C1 Ctr Dis Control & Prevent, Immunisat Serv Div, Hlth Serv Res & Evaluat Branch, Atlanta, GA 30333 USA.
+   Bangladesh Inst Res & Promot Essential & Reprod H, Dhaka, Bangladesh.
+   Ctr Dis Control & Prevent, Natl Ctr Chron Dis Prevent & Hlth Promot, Div Reprod Hlth, Atlanta, GA USA.
+C3 Centers for Disease Control & Prevention - USA; Centers for Disease
+   Control & Prevention - USA
+RP Yusuf, HR (corresponding author), Ctr Dis Control & Prevent, Immunisat Serv Div, Hlth Serv Res & Evaluat Branch, Atlanta, GA 30333 USA.
+RI Rochat, Roger/J-9802-2012
+NR 22
+TC 42
+Z9 43
+U1 0
+U2 2
+PU LANCET LTD
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0140-6736
+J9 LANCET
+JI Lancet
+PD APR 8
+PY 2000
+VL 355
+IS 9211
+BP 1220
+EP 1224
+DI 10.1016/S0140-6736(00)02088-2
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 303VX
+UT WOS:000086448000011
+PM 10770304
+DA 2023-12-06
+ER
+
+PT J
+AU Guzder, J
+AF Guzder, Jaswant
+TI Women who jump into wells: Reflections on suicidality in women from
+   conflict regions of the Indian subcontinent
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE suicide; gender; refugees; South Asian women; political conflict
+ID MORTALITY
+AB This paper examines narratives of women from the Indian subcontinent, including Canadian refugee claimants, emerging from the conflict regions of Pakistan, Punjab, Bangladesh, and Sri Lanka, who have presented suicidal ideation or attempts or died by suicide. The focus is on the relationship of suicide and suicide behavior to particular systemic stressors related to familial, social, and group agendas. The vulnerability of individual women is presented in the context of gender issues, deeply embedded group trauma, historical legacies, and intragenerational dynamics, as well as acute stressors that contribute to the underlying distress of these women.
+C1 McGill Univ, Ctr Child Dev & Mental Hlth, Inst Community & Family Psychiat, Montreal, PQ H3T 1E4, Canada.
+C3 McGill University
+RP Guzder, J (corresponding author), McGill Univ, Ctr Child Dev & Mental Hlth, Inst Community & Family Psychiat, 4335 Cote St Catherine Rd, Montreal, PQ H3T 1E4, Canada.
+EM jaswant@videotron.ca
+NR 33
+TC 6
+Z9 8
+U1 1
+U2 10
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD NOV
+PY 2011
+VL 48
+IS 5
+BP 585
+EP 603
+DI 10.1177/1363461511425098
+PG 19
+WC Anthropology; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry
+GA 851ZQ
+UT WOS:000297311800004
+PM 22123835
+DA 2023-12-06
+ER
+
+PT J
+AU Hadi, A
+AF Hadi, A
+TI Risk factors of violent death in rural Bangladesh, 1990-1999
+SO DEATH STUDIES
+LA English
+DT Article
+ID INJURIES; WOMEN; MORTALITY; HOMICIDE; CHILDREN
+AB This study attempts to improve our understanding of the prevalence and determinants of violent death in rural Bangladesh. Data came from a demographic surveillance system covering a Population Of nearly 62,000 in 10 districts Of the country. Findings reveal that drowning and homicide were the leading causes of death followed by traffic accident and suicide. Significant sociodemographic differentials in violent death existed. The probability to become the victim of violent death was 61.2 per 100,000 if the person was very young, male, poor, illiterate and Muslim. The author concludes that the public health program should consider the appropriate mechanisms to prevent many avoidable events of death in rural Bangladesh.
+C1 BRAC, Res & Evaluat Div, Dhaka 1212, Bangladesh.
+C3 Bangladesh Rural Advancement Committee BRAC
+RP Hadi, A (corresponding author), BRAC, Res & Evaluat Div, 75 Mohakhali, Dhaka 1212, Bangladesh.
+EM hadi.a@brac.net
+NR 23
+TC 9
+Z9 9
+U1 0
+U2 0
+PU BRUNNER/MAZEL INC
+PI BRISTOL
+PA 1900 FROST RD, STE 101, BRISTOL, PA 19007-1598 USA
+SN 0748-1187
+J9 DEATH STUD
+JI Death Stud.
+PD JUL-AUG
+PY 2005
+VL 29
+IS 6
+BP 559
+EP 572
+DI 10.1080/07481180590962695
+PG 14
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 945RD
+UT WOS:000230518900005
+PM 16187479
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Fair, CC
+   Hamza, A
+   Heller, R
+AF Fair, C. Christine
+   Hamza, Ali
+   Heller, Rebecca
+TI Who Supports Suicide Terrorism in Bangladesh? What the Data Say
+SO POLITICS AND RELIGION
+LA English
+DT Article
+ID MILITANT POLITICS EVIDENCE; POVERTY; EDUCATION; CONFLICT; ROOTS
+AB Bangladesh, one of the world's largest Muslim countries, is generally viewed as a success story with a strong tradition of secular democracy. Unfortunately, this assertion rests on a weak empirical foundation. Since becoming independent from Pakistan in 1971, democracy and secularism have been consistently undermined. Moreover, since 2000 Bangladesh has experienced more than 100 incidents of Islamist terrorism. More recently, the Islamic State and Al-Qaeda Indian Subcontinent have assaulted religious and ethnic minorities as well as secular and liberal activists. While these turns of events are alarming, Islamist militancy in Bangladesh remains understudied. In this article, we address this lacuna by undertaking regression analysis of recent Pew Research Center survey data to exposit the determinants of popular support of Islamist terrorism. With this study, we hope other scholars will be motivated to turn their attention to this increasingly important state.
+C1 [Fair, C. Christine] Georgetown Univ, Sch Foreign Serv, Secur Studies Program, Washington, DC 20057 USA.
+   [Hamza, Ali; Heller, Rebecca] Georgetown Univ, Washington, DC 20057 USA.
+C3 Georgetown University; Georgetown University
+RP Fair, CC (corresponding author), Georgetown Univ, Secur Studies Program Walsh Sch Foreign Serv, 202 Mortara Bldg,37th & O St NW, Washington, DC 20057 USA.
+EM ccf33@georgetown.edu
+RI Fair, C. Christine/J-7053-2019; Hamza, Ali/U-5041-2019; Hamza,
+   Ali/HDN-5092-2022
+OI Fair, C. Christine/0000-0002-6240-3863; 
+FU Georgetown Undergraduate Research Opportunities Program
+FX We are very grateful to Rebecca Littman, Elizabeth Nugent, Jacob N.
+   Shapiro, and Neil Malhotra whose collaborations on Pakistan-related
+   projects yielded important insights for this paper. We are also thankful
+   to Ali Riaz and Alyssa Ayres for their comments on an early draft of
+   this essay as well as the trenchant criticisms offered by the various
+   anonymous reviewers. Despite the efforts and interventions of these
+   varied persons, we alone are responsible for any errors of fact or
+   interpretation. Finally, this project could not be possible with the
+   support of the Georgetown Undergraduate Research Opportunities Program,
+   which sponsored the work of Ms. Heller, or the unstinting support of the
+   Security Studies Program, which supported the work of Mr. Hamza.
+NR 113
+TC 20
+Z9 20
+U1 1
+U2 18
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1755-0483
+EI 1755-0491
+J9 POLIT RELIG
+JI Polit. Relig.
+PD SEP
+PY 2017
+VL 10
+IS 3
+BP 622
+EP 661
+DI 10.1017/S1755048317000347
+PG 40
+WC Political Science; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Government & Law; Religion
+GA FB0GN
+UT WOS:000405823300006
+DA 2023-12-06
+ER
+
+PT J
+AU Rezaeian, M
+AF Rezaeian, Mohsen
+TI The geographical belt of self-immolation
+SO BURNS
+LA English
+DT Article
+DE Self-immolation; Young married illiterate women; Geography
+ID SUICIDE; EPIDEMIOLOGY; BANGLADESH; DEATH; BURN
+AB According to the existing literature self-immolation especially among young married illiterate women occurs with a high rate in India, Bangladesh, Sri Lanka, Pakistan, Afghanistan, Iran and the Kurdish Regions of Iraq. Looking at the geographical map of the world highlights that these countries are all located within Asia and have common borders with each other. In this article I observe that in the current world we are facing a geographical belt of self-immolation and we should try exploring the social issues/phenomena causing this.
+C1 [Rezaeian, Mohsen] Rafsanjan Univ Med Sci, Rafsanjan Med Sch, Epidemiol & Biostat Dept, Rafsanjan, Iran.
+   [Rezaeian, Mohsen] Rafsanjan Univ Med Sci, Occupat Environm Res Ctr, Rafsanjan, Iran.
+RP Rezaeian, M (corresponding author), Rafsanjan Univ Med Sci, Rafsanjan Med Sch, Epidemiol & Biostat Dept, Rafsanjan, Iran.
+EM moeygmr2@yahoo.co.uk
+RI Rezaeian, Mohsen/C-6513-2008
+OI Rezaeian, Mohsen/0000-0003-3070-0166
+NR 23
+TC 14
+Z9 14
+U1 0
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-4179
+EI 1879-1409
+J9 BURNS
+JI Burns
+PD AUG
+PY 2017
+VL 43
+IS 5
+BP 896
+EP 897
+DI 10.1016/j.burns.2017.01.001
+PG 2
+WC Critical Care Medicine; Dermatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Dermatology; Surgery
+GA EY4ZD
+UT WOS:000403985900001
+DA 2023-12-06
+ER
+
+PT J
+AU Ahmed, MK
+   van Ginneken, J
+   Razzaque, A
+   Alam, N
+AF Ahmed, MK
+   van Ginneken, J
+   Razzaque, A
+   Alam, N
+TI Violent deaths among women of reproductive age in rural Bangladesh
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE mortality; violence; intentional injuries; women of reproductive age;
+   risk factors
+ID PATRIARCHY
+AB The objectives of this paper are to investigate levels and trends in mortality due to violence in women of reproductive age and the social and demographic factors associated with such mortality. The study took place in Matlab, a rural subdistrict in Bangladesh between 1982 and 1998. The data were furnished by a longitudinal population-based demographic surveillance system located in that area. A case-control design study was used out to identify factors associated with death due to violence, and data from death registration forms were analyzed. The death rate due to violence, defined in terms of suicides and homicides, was higher among women than men. Death rates from violence remained at the same level during the study period while death rates from other causes decreased. Young, not yet married women were a high risk group with respect to death from violence. Oppression, physical and mental abuse by husbands and relatives often preceded suicides and homicides. The disadvantaged position of women in Bangladesh society is the key underlying social cause of the violence that occurred. In order for violence against women to decrease, improvement in the social position of women is essential. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 ICDDR B, Hlth & Demograph Surveillance Syst, B Ctr Hlth & Populat Res, Dhaka 1000, Bangladesh.
+   Netherlands Interdisciplinary Demog Inst, The Hague, Netherlands.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); Royal
+   Netherlands Academy of Arts & Sciences; Netherlands Interdisciplinary
+   Demographic Institute (NIDI-KNAW)
+RP Ahmed, MK (corresponding author), ICDDR B, Hlth & Demograph Surveillance Syst, B Ctr Hlth & Populat Res, GPO Box 128, Dhaka 1000, Bangladesh.
+EM kapillani@yahoo.com; ginneken@nidi.nl
+OI Alam, Nurul/0000-0002-1202-4451
+NR 23
+TC 36
+Z9 43
+U1 0
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2004
+VL 59
+IS 2
+BP 311
+EP 319
+DI 10.1016/j.socscimed.2004.01.020
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 820EI
+UT WOS:000221369600008
+PM 15110422
+DA 2023-12-06
+ER
+
+PT J
+AU Mamun, MA
+   Hossain, MS
+   Griffiths, MD
+AF Mamun, Mohammed A.
+   Hossain, Md Sharif
+   Griffiths, Mark D.
+TI Mental Health Problems and Associated Predictors Among Bangladeshi
+   Students
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH AND ADDICTION
+LA English
+DT Article
+DE Mental health problems; Depression; Anxiety; Stress; Suicide risk;
+   Bangladeshi students
+ID UNIVERSITY-STUDENTS; RISK-FACTORS; DEPRESSION; ANXIETY; STRESS;
+   PREVALENCE
+AB Common mental health problems are regarded as public health concerns and can contribute to risky behaviors such as suicide among university students in extreme cases. However, there is a lack of studies concerning such issues in Bangladesh. The present study aimed to fill this knowledge gap by investigating the prevalence and associated risk predictors of depression, anxiety, and stress among Bangladeshi university students. The sample comprised 590 undergraduates attending Jahangirnagar University (Dhaka, Bangladesh) who completed an offline survey including sociodemographic questions, behavioral variables, and the 21-item Bangla Depression, Anxiety and Stress Scale (BDASS-21). The prevalence of moderate to the extremely severe levels of depression, anxiety, and stress was 52.2%, 58.1%, and 24.9%, respectively. There were no significant gender differences in depression, anxiety, and stress. Risk factors for depression included coming from a lower class family, being a cigarette smoker, and engaging in less physical exercise. Risk factors for anxiety and stress included being engaged in a relationship. The findings need to be further replicated among other Bangladeshi university students to help in the development of better intervention programs and appropriate support services targeting this vulnerable group including a focus of suicide prevention and awareness.
+C1 [Mamun, Mohammed A.; Hossain, Md Sharif] Jahangirnagar Univ, Dept Publ Hlth & Informat, Dhaka, Bangladesh.
+   [Mamun, Mohammed A.; Hossain, Md Sharif] Undergrad Res Org, Dhaka, Bangladesh.
+   [Griffiths, Mark D.] Nottingham Trent Univ, Psychol Dept, Int Gaming Res Unit, 50 Shakespeare St, Nottingham NG1 4FQ, England.
+C3 Jahangirnagar University; Nottingham Trent University
+RP Griffiths, MD (corresponding author), Nottingham Trent Univ, Psychol Dept, Int Gaming Res Unit, 50 Shakespeare St, Nottingham NG1 4FQ, England.
+EM mamunphi46@gmail.com; tanzimsharifju@gmail.com; mark.griffiths@ntu.ac.uk
+RI Hossain, Md. Sharif/GLS-1199-2022; Griffiths, Mark D./AAY-3546-2021;
+   Mamun, Mohammed/Y-2064-2019
+OI Hossain, Md. Sharif/0000-0001-8135-4211; Griffiths, Mark
+   D./0000-0001-8880-6524; Mamun, Mohammed/0000-0002-1728-8966
+NR 42
+TC 33
+Z9 36
+U1 0
+U2 0
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1557-1874
+EI 1557-1882
+J9 INT J MENT HEALTH AD
+JI Int. J. Mental Health Addict.
+PD APR
+PY 2022
+VL 20
+IS 2
+BP 657
+EP 671
+DI 10.1007/s11469-019-00144-8
+EA OCT 2019
+PG 15
+WC Psychology, Clinical; Substance Abuse; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Substance Abuse; Psychiatry
+GA ZV1ZM
+UT WOS:000493256700002
+OA hybrid, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Verma, V
+   Paul, S
+   Ghose, A
+   Eddleston, M
+   Konradsen, F
+AF Verma, Vasundhara
+   Paul, Sujat
+   Ghose, Aniruddha
+   Eddleston, Michael
+   Konradsen, Flemming
+TI Treatment of self-poisoning at a tertiary-level hospital in Bangladesh:
+   cost to patients and government
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE self-poisoning; Bangladesh; agrochemical; cost; prospective study
+ID SRI-LANKA; SUICIDE
+AB OBJECTIVES Approximately 10000 people die from suicide annually in Bangladesh, many from pesticide poisoning. We aimed to estimate financial costs to patients and health services of treating patients with self-poisoning.
+   METHODS Data on direct costs to families, sources of funds for treatment and family wealth were collected prospectively over a one-month period in 2016 at the tertiary Chittagong Medical College Hospital, Bangladesh. Aggregate operational costs to the government were calculated using annual budget, bed occupancy and length-of-stay data.
+   RESULTS Agrochemicals were the most common substances ingested (58.8%). Median duration of stay and of illness was 2 and 5days, respectively. Median total cost to patients was conservatively estimated at US$ 98.40, highest in agrochemical poisoning (US$ 179.50), with the greatest cost due to medicines and equipment. Misdiagnosis as organophosphorus poisoning in 17.0% of agrochemical cases resulted in increased cost to patients. Only 51.9% of patients had indicators of wealth; 78.1% borrowed money to cover costs. Conservatively estimated median healthcare costs (US$ 21.30 per patient) were markedly lower than costs to patients.
+   CONCLUSIONS Cost to patients of treating a case of agrochemical poisoning was approximately three times the cost of one month's essential items basket. Incorrect diagnosis at admission costs families substantial sums of money and increased length of stay; it costs the national government an estimated US$ 80428.80 annually. Widespread access to a list of pesticides used in self-poisoning plus greater focus on training doctors to better manage different forms of agrochemical poisoning should reduce the financial burden to patients and healthcare systems.
+C1 [Verma, Vasundhara] Univ Edinburgh, Univ BHF Ctr Cardiovasc Sci, Pharmacol Toxicol & Therapeut, Edinburgh, Midlothian, Scotland.
+   [Paul, Sujat; Ghose, Aniruddha] Chittagong Med Coll Hosp, Dept Med, Chittagong, Bangladesh.
+   [Eddleston, Michael] Univ Edinburgh, Ctr Pesticide Suicide Prevent, Edinburgh, Midlothian, Scotland.
+   [Eddleston, Michael] Univ Peradeniya, South Asian Clin Toxicol Res Collaborat, Peradeniya, Sri Lanka.
+   [Konradsen, Flemming] Univ Copenhagen, Dept Publ Hlth, Copenhagen, Denmark.
+C3 University of Edinburgh; Chittagong Medical College; University of
+   Edinburgh; University of Peradeniya; University of Copenhagen
+RP Verma, V (corresponding author), PTT, QMRI 3-22a,47 Little France Crescent, Edinburgh EH16 4T, Midlothian, Scotland.
+EM vasundhara.rhian@gmail.com
+OI Ghose, Aniruddha/0000-0002-5551-6691; Konradsen,
+   Flemming/0000-0003-1036-6949
+NR 17
+TC 10
+Z9 10
+U1 1
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1360-2276
+EI 1365-3156
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD DEC
+PY 2017
+VL 22
+IS 12
+BP 1551
+EP 1560
+DI 10.1111/tmi.12991
+PG 10
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA FO8IU
+UT WOS:000417130000008
+PM 29064144
+OA Green Submitted, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Feldman, S
+AF Feldman, Shelley
+TI Shame and honour: The violence of gendered norms under conditions of
+   global crisis
+SO WOMENS STUDIES INTERNATIONAL FORUM
+LA English
+DT Article
+ID BANGLADESH; WOMEN; PURDAH
+AB Santi Rozario (1992)) creatively and subtly explores shame and honour to understand village life in Doria, Bangladesh. Moving beyond descriptive accounts and causal explanations, she examines the values that guide village norms and the political economy that constitutes their implementation. In this paper, I contribute to the effort to understand gendered interpretations of normative practice by highlighting the institutional and regulatory regimes that constitute and legitimate forms of rule that appeal to idioms of shame and honour, fear, and humiliation. Engaging a moral regulation analytic of overlapping civil, religious and customary norms and expectations, I suggest that sanctions for noncompliance can reveal women's agentic capacities in decisions about suicide. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 Cornell Univ, Ithaca, NY 14853 USA.
+C3 Cornell University
+RP Feldman, S (corresponding author), Cornell Univ, 391 Uris Hall, Ithaca, NY 14853 USA.
+NR 73
+TC 28
+Z9 34
+U1 0
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-5395
+J9 WOMEN STUD INT FORUM
+JI Women Stud. Int. Forum
+PD JUL-AUG
+PY 2010
+VL 33
+IS 4
+SI SI
+BP 305
+EP 315
+DI 10.1016/j.wsif.2010.02.004
+PG 11
+WC Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Women's Studies
+GA 614ME
+UT WOS:000279062400002
+DA 2023-12-06
+ER
+
+PT J
+AU Gunnell, D
+   Knipe, D
+   Chang, SS
+   Pearson, M
+   Konradsen, F
+   Lee, WJ
+   Eddleston, M
+AF Gunnell, David
+   Knipe, Duleeka
+   Chang, Shu-Sen
+   Pearson, Melissa
+   Konradsen, Flemming
+   Lee, Won Jin
+   Eddleston, Michael
+TI Prevention of suicide with regulations aimed at restricting access to
+   highly hazardous pesticides: a systematic review of the international
+   evidence
+SO LANCET GLOBAL HEALTH
+LA English
+DT Review
+ID UNITED-STATES; SRI-LANKA; RATES; EPIDEMIOLOGY; TRENDS; MORTALITY;
+   DEATHS; IMPACT; AVAILABILITY; INSECTICIDES
+AB Background Pesticide self-poisoning accounts for 14-20% of suicides worldwide. Regulation aimed at restricting access to pesticides or banning highly hazardous pesticides is one approach to reducing these deaths. We systematically reviewed the evidence of the effectiveness of pesticide regulation in reducing the incidence of pesticide suicides and overall suicides.
+   Methods We did a systematic review of the international evidence. We searched MEDLINE, PsycINFO, and Embase for studies published between Jan 1, 1960, and Dec 31, 2016, which investigated the effect of national or regional bans, and sales or import restrictions, on the availability of one or more pesticides and the incidence of suicide in different countries. We excluded other interventions aimed at limiting community access to pesticides. We extracted data from studies presenting pesticide suicide data and overall suicide data from before and after national sales restrictions. Two reviewers independently assessed papers for inclusion, extracted data, and assessed risk of bias. We undertook a narrative synthesis of the data in each report, and where data were available for the years before and after a ban, we pooled data for the 3 years before and the 3 years after to obtain a crude estimate of the effect of the ban. This study is registered through PROSPERO, number CRD42017053329.
+   Findings We identified 27 studies undertaken in 16 countries-five low-income or middle-income countries (Bangladesh, Colombia, India, Jordan and Sri Lanka), and 11 high-income countries (Denmark, Finland, Germany, Greece, Hungary, Ireland, Japan, South Korea, Taiwan, UK, and USA). Assessments largely focused on national bans of specific pesticides (12 studies of bans in six countries-Jordan, Sri Lanka, Bangladesh, Greece [ Crete], South Korea, and Taiwan) or sales restrictions (eight studies of restrictions in five countries-India, Denmark, Ireland, the UK and the USA). Only five studies used optimum analytical methods. National bans on commonly ingested pesticides in five of the six countries studied, including four studies using optimum analytical methods, were followed by reductions in pesticide suicides and, in three of these countries, falls in overall suicide mortality. Greece was the only country studied that did not show a decrease in pesticide suicide following a ban. There were no high-quality studies of restricting sales to people for occupational uses; four of the seven studies (in three of the five countries studied-India, Denmark, and the USA) showed sales restrictions were followed by decreases in pesticide suicides; one of the two studies investigating trends in overall suicide mortality reported a fall in deaths in Denmark, but there were also decreases in suicide deaths from other methods.
+   Interpretation National bans on highly hazardous pesticides, which are commonly ingested in acts of self-poisoning, seem to be effective in reducing pesticide-specific and overall suicide rates. Evidence is less consistent for sales restrictions. A worldwide ban on the use of highly hazardous pesticides is likely to prevent tens of thousands of deaths every year. Copyright (C) The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license.
+C1 [Gunnell, David; Knipe, Duleeka] Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Canynge Hall, Bristol BS8 2PS, Avon, England.
+   [Gunnell, David; Knipe, Duleeka; Pearson, Melissa; Konradsen, Flemming; Eddleston, Michael] Univ Peradeniya, South Asian Clin Toxicol Res Collaborat, Peradeniya, Sri Lanka.
+   [Gunnell, David] Univ Hosp Bristol NHS Fdn Trust, Biomed Res Ctr, Natl Inst Hlth Res, Bristol, Avon, England.
+   [Gunnell, David] Univ Bristol, Bristol, Avon, England.
+   [Chang, Shu-Sen] Natl Taiwan Univ, Inst Hlth Behav & Community Sci, Taipei, Taiwan.
+   [Chang, Shu-Sen] Natl Taiwan Univ, Dept Publ Hlth, Coll Publ Hlth, Taipei, Taiwan.
+   [Pearson, Melissa; Eddleston, Michael] Univ Edinburgh, Univ British Heart Fdn, Ctr Cardiovasc Sci, Pharmacol Toxicol & Therapeut, Edinburgh, Midlothian, Scotland.
+   [Konradsen, Flemming] Univ Copenhagen, Fac Hlth & Med Sci, Dept Publ Hlth, Copenhagen, Denmark.
+   [Lee, Won Jin] Korea Univ, Coll Med, Dept Prevent Med, Seoul, South Korea.
+C3 University of Bristol; University of Peradeniya; University of Bristol;
+   University of Bristol; National Taiwan University; National Taiwan
+   University; University of Edinburgh; University of Copenhagen; Korea
+   University; Korea University Medicine (KU Medicine)
+RP Gunnell, D (corresponding author), Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Canynge Hall, Bristol BS8 2PS, Avon, England.
+EM d.j.gunnell@bristol.ac.uk
+RI Chang, Shu-Sen/AAH-6733-2021; Pearson, Melissa/ITW-0263-2023; Gunnell,
+   David/ABE-6653-2020; Chang, Shu-Sen/B-3518-2012; Pearson,
+   Melissa/M-5250-2014; Knipe, M Duleeka W/D-2714-2009
+OI Chang, Shu-Sen/0000-0001-5012-1132; Pearson,
+   Melissa/0000-0001-6683-3628; Gunnell, David/0000-0002-0829-6470; Chang,
+   Shu-Sen/0000-0001-5012-1132; Pearson, Melissa/0000-0001-6683-3628;
+   Knipe, M Duleeka W/0000-0002-1040-7635; Lee, Won Jin/0000-0002-0254-7267
+FU UK Economic and Social Research Council; ESRC [ES/P009735/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/P009735/1]
+   Funding Source: researchfish; National Institute for Health Research
+   [NF-SI-0512-10068] Funding Source: researchfish
+FX DK is funded by the UK Economic and Social Research Council. We thank
+   Mio Ozawa, Gill Gunnell, Yana Kovacheva, Eszter Szilassy, and Renata
+   Titurusova for providing assistance with translation, Rick Langley and
+   Corinne Schmitt for clarifying details of their research, and Pik
+   Hampton for administrative support.
+NR 67
+TC 116
+Z9 124
+U1 1
+U2 26
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2214-109X
+J9 LANCET GLOB HEALTH
+JI Lancet Glob. Health
+PD OCT
+PY 2017
+VL 5
+IS 10
+BP E1026
+EP E1037
+DI 10.1016/S2214-109X(17)30299-1
+PG 12
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FG4GY
+UT WOS:000410200600024
+PM 28807587
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Alonge, O
+   Agrawal, P
+   Talab, A
+   Rahman, QS
+   Rahman, AKMF
+   El Arifeen, S
+   Hyder, AA
+AF Alonge, Olakunle
+   Agrawal, Priyanka
+   Talab, Abu
+   Rahman, Qazi S.
+   Rahman, A. K. M. Fazlur
+   El Arifeen, Shams
+   Hyder, Adnan A.
+TI Fatal and non-fatal injury outcomes: results from a purposively sampled
+   census of seven rural subdistricts in Bangladesh
+SO LANCET GLOBAL HEALTH
+LA English
+DT Article
+ID INCOME COUNTRIES; HEALTH PROBLEM; GLOBAL BURDEN; RISK-FACTORS;
+   PREVENTION; EPIDEMIOLOGY; MORTALITY; CHILDREN; DEATHS; BURNS
+AB Background 90% of the global burden of injuries is borne by low-income and middle-income countries (LMICs). However, details of the injury burden in LMICs are less clear because of the scarcity of data and population-based studies. The Saving of Lives from Drowning project, implemented in rural Bangladesh, did a census on 1.2 million people to fill this gap. This Article describes the epidemiology of fatal and non-fatal injuries from the study.
+   Methods In this study, we used data from the baseline census conducted as part of the Saving of Lives from Drowning (SoLiD) project. The census was implemented in 51 unions from seven purposively sampled rural subdistricts of Bangladesh between June and November, 2013. Sociodemographic, injury mortality, and morbidity information were collected for the whole population in the study area. We analysed the data for descriptive measures of fatal and non-fatal injury outcomes. Age and gender distribution, socioeconomic characteristics, and injury characteristics such as external cause, intent, location, and body part affected were reported for all injury outcomes.
+   Findings The census covered a population of 1 169 593 from 270 387 households and 451 villages. The overall injury mortality rate was 38 deaths per 100 000 population per year, and 104 703 people sustained major non-fatal injuries over a 6-month recall period. Drowning was the leading external cause of injury death for all ages, and falls caused the most number of non-fatal injuries. Fatal injury rates were highest in children aged 1-4 years. Non-fatal injury rates were also highest in children aged 1-4 years and those aged 65 years and older. Males had more fatal and non-fatal injuries than females across all external causes except for burns. Suicide was the leading cause of injury deaths in individuals aged 15-24 years, and more than 50% of the suicides occurred in females. The home environment was the most common location for most injuries.
+   Interpretation The burden of fatal and non-fatal injuries in rural Bangladesh is substantial, accounting for 44 050 deaths and 21 million people suffering major events annually. Targeted approaches addressing drowning in children (especially those aged 1-4 years), falls among the elderly, and suicide among young female adults are urgently needed to reduce injury deaths and morbidity in Bangladesh.
+   Funding Bloomberg Philanthropies. Copyright (C) The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license.
+C1 [Alonge, Olakunle; Agrawal, Priyanka; Hyder, Adnan A.] Johns Hopkins Bloomberg Sch Publ Hlth, Johns Hopkins Int Injury Res Unit, Baltimore, MD 21205 USA.
+   [Talab, Abu; Rahman, A. K. M. Fazlur] Ctr Injury Prevent & Res, Dhaka, Bangladesh.
+   [Rahman, Qazi S.; El Arifeen, Shams] Int Ctr Diarrheal Dis Res, Dhaka, Bangladesh.
+C3 Johns Hopkins University; Johns Hopkins Medicine; Johns Hopkins
+   Bloomberg School of Public Health; International Centre for Diarrhoeal
+   Disease Research (ICDDR)
+RP Alonge, O (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Int Hlth, Baltimore, MD 21205 USA.
+EM oalonge1@jhu.edu
+RI Agarwal, Priyanka/H-5040-2019; Hyder, Adnan/AAT-9503-2021
+OI Alonge, Olakunle/0000-0001-7642-2806; Hyder, Adnan/0000-0002-7292-577X;
+   Arifeen, Shams/0000-0002-5372-5932
+FU Bloomberg Philanthropies
+FX Bloomberg Philanthropies.
+NR 48
+TC 44
+Z9 45
+U1 0
+U2 19
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2214-109X
+J9 LANCET GLOB HEALTH
+JI Lancet Glob. Health
+PD AUG
+PY 2017
+VL 5
+IS 8
+BP E818
+EP E827
+DI 10.1016/S2214-109X(17)30244-9
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FA5NV
+UT WOS:000405491100024
+PM 28716352
+OA Green Accepted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Yusuf, HR
+   Akhter, HH
+   Chowdhury, ME
+   Rochat, RW
+AF Yusuf, Hussain R.
+   Akhter, Halida H.
+   Chowdhury, Mahbub Elahi
+   Rochat, Roger W.
+TI Causes of death among women aged 10-50 years in Bangladesh, 1996-1997
+SO JOURNAL OF HEALTH POPULATION AND NUTRITION
+LA English
+DT Article
+DE causes of death; maternal mortality; pregnancy; pregnancy complications;
+   Bangladesh
+ID MATERNAL MORTALITY; RURAL BANGLADESH; EPIDEMIOLOGY; DISTRICT; TETANUS
+AB Limited information is available at the national and district levels on causes of death among women of reproductive age in Bangladesh. During 1996-1997, health-service functionaries in facilities providing obstetric and maternal and child-heath services were interviewed on their knowledge of deaths of women aged 10-50 years in the past 12 months. In addition, case reports were abstracted from medical records in facilities with in-patient services. The study covered 4,751 health facilities in Bangladesh. Of 28,998 deaths reported, 13,502 (46.6%) occurred due to medical causes, 8,562 (29.5%) due to pregnancy-related causes, 6,168 (21.3%) due to injuries, and 425 (1.5%) and 259 (0.9%) due to injuries and medical causes during pregnancy respectively. Cardiac problems (11.7%), infectious diseases (11.3%), and system disorders (9.1%) were the major medical causes of deaths. Pregnancy-associated causes included direct maternal deaths (20.1%), abortion (5.1%), and indirect maternal deaths (4.3%). The highest proportion of deaths among women aged 10-19 years was due to injuries (39.3%) with suicides accounting for 21.7%. The largest proportion of direct obstetric deaths occurred among women aged 20-29 years (30.5%). At least one quarter (24.3%) of women (n=28,998) did not receive any treatment prior to death, and 47.8% received treatment either from a registered physician or in a facility. More focus is needed on all causes of deaths among women of reproductive age in Bangladesh.
+C1 Int Ctr Diarrhoeal Dis Res, Publ Hlth Sci Div, Reprod Hlth Unit, Dhaka 1000, Bangladesh.
+   Emory Univ, Rollins Sch Publ Hlth, Dept Global Hlth, Atlanta, GA 30322 USA.
+   Hlth Promot Ltd, Baitul Aman Housing Soc, Dhaka 1207, Bangladesh.
+   Bangladesh Inst Res Promot Essential, Dhaka 1209, Bangladesh.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); Emory
+   University; Rollins School Public Health
+RP Chowdhury, ME (corresponding author), Int Ctr Diarrhoeal Dis Res, Publ Hlth Sci Div, Reprod Hlth Unit, GPO Box 128, Dhaka 1000, Bangladesh.
+EM melahi@icddrb.org
+RI Rochat, Roger/J-9802-2012
+NR 18
+TC 18
+Z9 19
+U1 0
+U2 0
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1606-0997
+EI 2072-1315
+J9 J HEALTH POPUL NUTR
+JI J. Heatlh Popul. Nutr.
+PD SEP
+PY 2007
+VL 25
+IS 3
+BP 302
+EP 311
+PG 10
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 238HK
+UT WOS:000251437900006
+PM 18330063
+DA 2023-12-06
+ER
+
+PT C
+AU Choudhury, AA
+   Khan, MRH
+   Nahim, NZ
+   Tulon, SR
+   Islam, S
+   Chakrabarty, A
+AF Choudhury, Ahnaf Atef
+   Khan, Md. Rezwan Hassan
+   Nahim, Nabuat Zaman
+   Tulon, Sadid Rafsun
+   Islam, Samiul
+   Chakrabarty, Amitabha
+GP IEEE
+TI Predicting Depression in Bangladeshi Undergraduates using Machine
+   Learning
+SO PROCEEDINGS OF 2019 IEEE REGION 10 SYMPOSIUM (TENSYMP)
+SE IEEE Region 10 Symposium
+LA English
+DT Proceedings Paper
+CT IEEE-Region-10 Symposium (TENSYMP)
+CY JUN 07-09, 2019
+CL Kolkata, INDIA
+SP IEEE Reg 10, IEEE, IEEE Kolkata Sect
+DE Depression; Machine Learning; Prediction; Undergraduate Student;
+   Bangladesh
+AB Depression is a major disorder and a growing problem that impacts a person's way of living and disrupts natural functioning. Depression is especially prevalent in the younger population of underdeveloped and developing countries. Youth in countries such as Bangladesh face difficulties with studies, jobs, relationships, drugs, family problems which are all major or minor contributors in a pathway to depression. This research besides predicting depression in university undergraduates 14 the purpose of recommendation to a psychiatrist focuses on gaining valuable insights as to why university students of Bangladesh, undergraduates, in particular suffer from depression. The data 14 this research was collected by a survey designed after consultation with psychologists, counselors and professors. The best method for predicting depression among Bangladesh undergraduates was found out after using three algorithms to train and test the dataset. Random Forest was found to be the best algorithm, closely followed by Support Vector Machine with similar accuracy and f-measure of around 75% and 60% respectively but Random Forest giving a better precision, recall and lower false negatives. The objective of this research is to check whether depression can be successfully predicted with the help of related features. This research aims to identify depression in its early stages and ensure a fast recovery for victims so that heartbreaking incidents like suicide can be avoided.
+C1 [Choudhury, Ahnaf Atef; Khan, Md. Rezwan Hassan; Nahim, Nabuat Zaman; Tulon, Sadid Rafsun; Islam, Samiul; Chakrabarty, Amitabha] BRAC Univ, Dept Comp Sci & Engn, Dhaka, Bangladesh.
+C3 Bangladesh Rural Advancement Committee BRAC; BRAC University
+RP Choudhury, AA (corresponding author), BRAC Univ, Dept Comp Sci & Engn, Dhaka, Bangladesh.
+EM ahnafchoudhury11@gmail.com; md.rezwanhassankhan@gmail.com;
+   nabuatz@gmail.com; srtulon6@gmail.com; samiul.islam@bracu.ac.bd;
+   amitabha@bracu.ac.bd
+OI Chakrabarty, Amitabha/0000-0003-0306-4029
+NR 17
+TC 7
+Z9 7
+U1 1
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2640-821X
+BN 978-1-7281-0297-9
+J9 IEEE REGION 10 SYMP
+PY 2019
+BP 789
+EP 794
+DI 10.1109/tensymp46218.2019.8971369
+PG 6
+WC Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BP1KO
+UT WOS:000539913200141
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Ahmed, N
+   Quadir, MM
+   Rahman, MA
+   Alamgir, H
+AF Ahmed, Nayeema
+   Quadir, Mohammad Morshedul
+   Rahman, Mohammad Akhlasur
+   Alamgir, Hasanat
+TI Community integration and life satisfaction among individuals with
+   spinal cord injury living in the community after receiving institutional
+   care in Bangladesh
+SO DISABILITY AND REHABILITATION
+LA English
+DT Article
+DE Spinal cord injury; community integration; life satisfaction; Bangladesh
+ID QUALITY-OF-LIFE; HEALTH-STATUS; POPULATION; MORTALITY; SUICIDE; SERVICE
+AB Purpose: This study reports level of community integration and life satisfaction among individuals who sustained traumatic spinal cord injuries, received institutional rehabilitation care services, and went back to live in the community in Bangladesh. It examines the impact of type of injury, demographic characteristics, socio-economic profile, and secondary health conditions on community integration and life satisfaction and explores the association between these two measures.
+   Method: Individuals with spinal cord injury were telephone interviewed by the Centre for the Rehabilitation of the Paralysed, Bangladesh from February to June of 2014. Data were collected from the subjects on type of injury, demographic and socio-economic profile, and secondary health conditions. The outcome measures were determined by using two validated tools-Community Integration Questionnaire and Life Satisfaction 9 Questionnaire.
+   Results: Total community integration and life satisfaction scores were 15.09 and 3.69, respectively. A significant positive relationship between community integration and life satisfaction was revealed. Type of injury, gender, and age were found to be significant predictors of both community integration and life satisfaction scores. Higher education was significantly related to community integration and life satisfaction scores.
+   Conclusion: Participants scored low in total community integration and life satisfaction, suggesting there is a great need to develop interventions by governmental and non-governmental organizations to better integrate individuals with spinal cord injury in the community.
+C1 [Ahmed, Nayeema] Univ Texas Houston, Sch Publ Hlth, Houston, TX USA.
+   [Quadir, Mohammad Morshedul; Rahman, Mohammad Akhlasur] Ctr Rehabil Paralysed, Dhaka, Bangladesh.
+   [Alamgir, Hasanat] New York Med Coll, Sch Hlth Sci & Practice, Dept Hlth Policy & Management, New York, NY 10595 USA.
+C3 University of Texas System; University of Texas Health Science Center
+   Houston; University of Texas School Public Health; New York Medical
+   College
+RP Alamgir, H (corresponding author), New York Med Coll, Sch Hlth Sci & Practice, Dept Hlth Policy & Management, New York, NY 10595 USA.
+EM Hasanat_alamgir@nymc.edu
+RI de Jager, Aimee/AAL-1264-2021; Alamgir, Hasanat/U-9354-2019
+OI Quadir, Mohammad Morshedul/0000-0002-2627-4726
+FU University of Texas Health Science Center, School of Public Health
+FX The authors would like to thank Centre for the Rehabilitation of the
+   Paralysed for conducting telephone interviews to collect data and
+   translating the survey questionnaire into Bengali, and also the
+   University of Texas Health Science Center, School of Public Health for
+   awarding one of the authors with R Palmer Beasley Award for
+   international travel.
+NR 32
+TC 20
+Z9 22
+U1 0
+U2 11
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0963-8288
+EI 1464-5165
+J9 DISABIL REHABIL
+JI Disabil. Rehabil.
+PY 2018
+VL 40
+IS 9
+BP 1033
+EP 1040
+DI 10.1080/09638288.2017.1283713
+PG 8
+WC Rehabilitation
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Rehabilitation
+GA FW9WQ
+UT WOS:000425689200006
+PM 28637130
+DA 2023-12-06
+ER
+
+PT J
+AU Karunarathne, A
+   Gunnell, D
+   Konradsen, F
+   Eddleston, M
+AF Karunarathne, Ayanthi
+   Gunnell, David
+   Konradsen, Flemming
+   Eddleston, Michael
+TI How many premature deaths from pesticide suicide have occurred since the
+   agricultural Green Revolution?
+SO CLINICAL TOXICOLOGY
+LA English
+DT Review
+DE Pesticide poisoning; suicide; mortality; Green Revolution
+ID POISONING DEATHS; CHINA; RATES; INDIA; MORTALITY; TRAGEDY; TRENDS;
+   IMPACT
+AB Introduction: The agricultural Green Revolution in the 1950s and 60s is thought to have averted many deaths from famine. However, it also introduced highly hazardous pesticides such as parathion and endrin into poor rural communities that were totally unequipped to store or use them safely. Pesticide self-poisoning rapidly became one of the two most common global means of suicide. Thus far, no attempt has been made to enumerate the total number of deaths that have occurred subsequent to the Green Revolution. Objective: To calculate plausible estimates for the total global number of pesticide suicides that have occurred since 1960. Methods: We performed a literature review on Medline and Embase databases to July 2019 to find papers that reported national or global numbers of pesticide suicides. We restricted our search to papers published in English. We used the search terms: pesticide) OR insecticide) OR paraquat) OR organophosphate) OR organophosphorus) OR agrochemical) AND suicide) OR "") OR deliberate) AND poison in all fields. These searches identified 2,144 papers; a further 8 citations were added through the searching of reference lists and our own paper collections. 2,136 papers were excluded as they contained no data on pesticide suicide, or were case reports, case series, or related to specific socio-demographic groups, or were non-human studies. This left 16 papers giving country specific or global pesticide suicide data. Long-term national trend in pesticide suicides: We found studies from one low- and middle-income country (Sri Lanka) that recorded long-term trends in suicide throughout the Green Revolution. These data showed a steady increase in suicides from 1960 to the early 1970s, with a more rapid increase from 1979 to 1984. The number of suicides plateaued until 1995, when they started a steady almost linear decrease that has continued at least until 2015. We used the Sri Lankan epidemiology as a model of the incidence of pesticide suicides in other low- and middle-income countries. Data from Bangladesh suggested that the decrease might have started in 2002. Estimating global numbers since 1960: Starting from a conservative estimate of zero deaths in 1960, the best estimate of the total global burden of pesticide suicides from 1960 to 2018 is 14,272,105 or 14,936,000 (depending on whether a fall in incidence began in 1995 or 2002), with a plausible range of 9,859,667 to 17,303,333 deaths. These are likely underestimates because suicide is illegal in many countries, and most pesticide suicides occur in poor rural areas without effective death registration systems. Conclusions: Pesticide self-poisoning has been a major clinical and public health problem in rural Asia for decades, while being long ignored. Most pesticide suicides are relatively impulsive with little planning: in the absence of highly hazardous pesticides, many people would have survived their suicidal impulse, gone on to find support amongst family, community, and health services, and lived a full life. Pesticide suicides must therefore be considered a category 4 occupation condition following Schilling's classification - if they had not been brought into rural communities for agricultural use, pesticide suicides would not have occurred. Preventing these deaths should be a global public health priority.
+C1 [Karunarathne, Ayanthi; Eddleston, Michael] Univ Edinburgh, Univ BHF Ctr Cardiovasc Sci, Ctr Pesticide Suicide Prevent & Pharmacol, Toxicol & Therapeut, QMRI E3-22a,47 Little France Crescent, Edinburgh EH16 4TJ, Midlothian, Scotland.
+   [Gunnell, David] Univ Bristol, Bristol Med Sch, Populat Hlth Sci, Bristol, Avon, England.
+   [Konradsen, Flemming] Univ Copenhagen, Dept Publ Hlth, Global Hlth Sect, Copenhagen, Denmark.
+C3 University of Edinburgh; University of Bristol; University of Copenhagen
+RP Eddleston, M (corresponding author), Univ Edinburgh, Univ BHF Ctr Cardiovasc Sci, Ctr Pesticide Suicide Prevent & Pharmacol, Toxicol & Therapeut, QMRI E3-22a,47 Little France Crescent, Edinburgh EH16 4TJ, Midlothian, Scotland.
+EM m.eddleston@ed.ac.uk
+RI Gunnell, David/ABE-6653-2020; Karunarathne, Ayanthi/JJG-1877-2023
+OI Gunnell, David/0000-0002-0829-6470; Eddleston,
+   Michael/0000-0002-6857-3441; Karunarathne, Ayanthi/0000-0001-8664-7726;
+   Konradsen, Flemming/0000-0003-1036-6949
+FU Open Philanthropy Project Fund, an advised fund of Silicon Valley
+   Community Foundation; NIHR Biomedical Research Centre at University
+   Hospitals Bristol NHS Foundation Trust; University of Bristol, England;
+   MRC [MR/M024075/1] Funding Source: UKRI
+FX We thank Dr Odin Chang and Dr Tse Man-Li for their help with reviewing
+   the early Chinese language literature on pesticide poisoning. The Centre
+   for Pesticide Suicide Prevention is funded by an Incubator Grant from
+   the Open Philanthropy Project Fund, an advised fund of Silicon Valley
+   Community Foundation, on the recommendation of GiveWell, USA. DG is
+   supported by the NIHR Biomedical Research Centre at University Hospitals
+   Bristol NHS Foundation Trust and the University of Bristol, England. The
+   views expressed in this publication are those of the author(s) and not
+   necessarily those of the NHS, the National Institute for Health Research
+   or the Department of Health and Social Care.
+NR 61
+TC 66
+Z9 70
+U1 2
+U2 18
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD APR 2
+PY 2020
+VL 58
+IS 4
+BP 227
+EP 232
+DI 10.1080/15563650.2019.1662433
+EA SEP 2019
+PG 6
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Toxicology
+GA KO4RI
+UT WOS:000485515000001
+PM 31500467
+OA hybrid, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Rafi, MA
+   Mamun, MA
+   Hsan, K
+   Hossein, M
+   Gozal, D
+AF Rafi, Md Abdur
+   Mamun, Mohammed A.
+   Hsan, Kamrul
+   Hossein, Moazzem
+   Gozal, David
+TI Psychological Implications of Unemployment Among Bangladesh Civil
+   Service Job Seekers: A Pilot Study
+SO FRONTIERS IN PSYCHIATRY
+LA English
+DT Article
+DE depression; anxiety; stress; job seekers; unemployed graduates;
+   Bangladesh Civil Service
+ID COMPLETED SUICIDE; DEPRESSION; PREVALENCE; ANXIETY; STRESS; INSECURITY;
+   COUNTRIES; STUDENTS; HEALTH
+AB Background: Recent trends suggest that university graduates seeking jobs are more susceptible to common mental disorders, such as depression, anxiety, or stress. However, the mental health issues among unemployed graduates has not been explored in Bangladesh yet.
+   Aims: This study aimed to assess for the first time the prevalence and associated risk factors of depression, anxiety, and stress among Bangladesh Civil Service (BCS) job seekers. Three hundred four graduates residing in Rajshahi, Bangladesh, who were preparing to attend the 40th BCS examination, the most sought-after employment opportunity in the country, were surveyed.
+   Methods: Measures included socio-demographics, field of study, and career-related variables, and the Bangla Depression Anxiety Stress Scale (DASS-21). Chi-square test, Fisher exact test, and binary logistic regression with "depression," "anxiety," and "stress" as the dependent variables were carried out to identify the factors associated with these.
+   Results: Overall, the prevalence of moderate to extremely severe depression, anxiety, and stress was 49.3%, 53.6%, and 28.3%, respectively, with no detectable differences between genders. Insecurity related to a BCS job (OR = 0.41; CI = 0.26-0.65, p < 0.001; ref: job insecurity), family and social pressure to obtain a BCS job (OR = 4.58; CI = 1.67-12.56, p < 0.001), and stress (OR = 8.33; CI = 4.47-15.51, p < 0.001) emerged as independent predictors for depression. In addition, having part-time job was associated with anxiety (OR = 2.38; CI = 1.34-4.23, p = 0.003), and security in a BCS job and serving the nation through this job were negatively associated with stress (OR = 0.59; CI = 0.35-0.98, p = 0.042 vs. OR = 0.59; CI = 0.36-1.00, p = 0.05).
+   Conclusion: The relatively high rates of depression, anxiety, and stress among graduate job seekers should prompt implementation of market force initiatives that incorporate interventions related to the major risk factors uncovered herein.
+C1 [Rafi, Md Abdur] Rajshahi Med Coll, Rajshahi, Bangladesh.
+   [Rafi, Md Abdur; Mamun, Mohammed A.] Undergrad Res Org, Dhaka, Bangladesh.
+   [Mamun, Mohammed A.; Hsan, Kamrul] Jahangirnagar Univ, Dept Publ Hlth & Informat, Dhaka, Bangladesh.
+   [Hsan, Kamrul; Hossein, Moazzem] Inst Allergy & Clin Immunol Bangladesh, Dhaka, Bangladesh.
+   [Gozal, David] Univ Missouri, Sch Med, Dept Child Hlth, Columbia, MO 65212 USA.
+   [Gozal, David] Univ Missouri, Sch Med, Child Hlth Res Inst, Columbia, MO 65212 USA.
+C3 Rajshahi Medical College; Jahangirnagar University; University of
+   Missouri System; University of Missouri Columbia; University of Missouri
+   System; University of Missouri Columbia
+RP Gozal, D (corresponding author), Univ Missouri, Sch Med, Dept Child Hlth, Columbia, MO 65212 USA.; Gozal, D (corresponding author), Univ Missouri, Sch Med, Child Hlth Res Inst, Columbia, MO 65212 USA.
+EM gozald@health.missouri.edu
+RI Mamun, Mohammed/Y-2064-2019; Gozal, David/ABH-3805-2020
+OI Mamun, Mohammed/0000-0002-1728-8966; RAFI, MD ABDUR/0000-0002-5415-6399
+FU National Institutes of Health [1R01HL130984, R56 HL140548]
+FX DG is supported by National Institutes of Health grants 1R01HL130984 and
+   R56 HL140548.
+NR 44
+TC 37
+Z9 37
+U1 0
+U2 16
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-0640
+J9 FRONT PSYCHIATRY
+JI Front. Psychiatry
+PD AUG 12
+PY 2019
+VL 10
+AR 578
+DI 10.3389/fpsyt.2019.00578
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IP9ZU
+UT WOS:000480410300001
+PM 31456705
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Nahar, Q
+   El Arifeen, S
+   Jamil, K
+   Streatfield, PK
+AF Nahar, Quamrun
+   El Arifeen, Shams
+   Jamil, Kanta
+   Streatfield, Peter Kim
+TI Causes of adult female deaths in Bangladesh: findings from two National
+   Surveys
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Adult female mortality; Causes of death; Verbal autopsy; BMMS;
+   Bangladesh; NCD
+ID DIAGNOSTIC-ACCURACY; CHILDHOOD DEATHS; VERBAL AUTOPSIES; REPRODUCTIVE
+   AGE; WOMEN; MORTALITY; EPIDEMIOLOGY; CHILDREN
+AB Background: Assessment of causes of death and changes in pattern of causes of death over time are needed for programmatic purposes. Limited national level data exist on the adult female causes of death in Bangladesh.
+   Method: Using data from two nationally representation surveys, the 2001 and 2010 Bangladesh Maternal Mortality Surveys (BMMS), the paper examines the causes of adult female death, aged 15-49 years, and changes in the patterns of these deaths. In both surveys, all household deaths three years prior to the survey were identified. Adult female deaths were then followed by a verbal autopsy (VA) using the WHO structured questionnaire. Two physicians independently reviewed the VA forms to assign a cause of death using the ICD-10; in case of disagreement, a third physician made an independent review and assigned a cause of death.
+   Results: The overall mortality rates for women aged 15-49 in 2001 and 2010 were 182 per 100,000 and 120 per 100,000 respectively. There is a shift in the pattern of causes of death during the period covered by the two surveys. In the 2001 survey, the main causes of death were maternal (20 %), followed by diseases of the circulatory system (15 %), malignancy (14 %) and infectious diseases (13 %). However, in the 2010 survey, malignancies were the leading cause (21 %), followed by diseases of the circulatory system (16 %), maternal causes (14 %) and infectious diseases (8 %). While maternal deaths remained the number one cause of death among 20-34 years old in both surveys, unnatural deaths were the main cause for teenage deaths, and malignancies were the main cause of death for older women. Although there is an increasing trend in the proportion of women who died in hospitals, in both surveys most women died at home (74 % in 2001 and 62 % in 2010).
+   Conclusion: The shift in the pattern of causes of adult female deaths is in agreement with the overall change in the disease pattern from communicable to non-communicable diseases in Bangladesh. Suicide and other violent deaths as the primary cause of deaths among teenage girls demands specific interventions to prevent such premature deaths. Prevention of deaths due to non-communicable diseases should also be a priority.
+C1 [Nahar, Quamrun; El Arifeen, Shams; Streatfield, Peter Kim] Icddr B, Dhaka 1212, Bangladesh.
+   [Jamil, Kanta] USAID Bangladesh, Dhaka 1212, Bangladesh.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); United
+   States Agency for International Development (USAID)
+RP Nahar, Q (corresponding author), Icddr B, 68 Shaheed Tajuddin Ahmed Sharani, Dhaka 1212, Bangladesh.
+EM quamrun@icddrb.org
+OI Arifeen, Shams/0000-0002-5372-5932
+FU United States Agency for International Development (USAID); UK
+   Department for International Development (UKaid); Government of the
+   People's Republic of Bangladesh; USAID; AusAID
+FX This work was funded by the United States Agency for International
+   Development (USAID) and the UK Department for International Development
+   (UKaid). This work is based on the 2001 and 2010 BMMS which were funded
+   by the Government of the People's Republic of Bangladesh, USAID and
+   AusAID.
+NR 35
+TC 6
+Z9 6
+U1 1
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD SEP 18
+PY 2015
+VL 15
+AR 911
+DI 10.1186/s12889-015-2256-6
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CR6GF
+UT WOS:000361442200002
+PM 26381481
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Gausia, K
+   Fisher, C
+   Ali, M
+   Oosthuizen, J
+AF Gausia, Kaniz
+   Fisher, Colleen
+   Ali, Mohammed
+   Oosthuizen, Jacques
+TI Antenatal depression and suicidal ideation among rural Bangladeshi
+   women: a community-based study
+SO ARCHIVES OF WOMENS MENTAL HEALTH
+LA English
+DT Article
+DE Antenatal depression; Self-harming thoughts; Suicide; Rural women;
+   Bangladesh
+ID INTIMATE PARTNER VIOLENCE; LOW-BIRTH-WEIGHT; POSTNATAL DEPRESSION;
+   PREGNANCY; PREVALENCE; POSTPARTUM; COHORT; MOTHERS; ANXIETY; SAMPLE
+AB Depression during pregnancy is a significant public health problem because of its negative effects on the health of both mother and infant. Data on its prevalence and determinants are lacking in Bangladesh. To estimate the prevalence of depression during pregnancy and to identify potential contributory factors among rural Bangladeshi women, a community-based study was conducted during 2005 in Matlab sub-district, a rural area of eastern Bangladesh. Three hundred and sixty-one pregnant women were identified through an existing health and demographic surveillance system covering a population of 110,000 people. The women were interviewed at home at 3435 weeks of pregnancy. Information on risk factors was collected through structured questionnaires, with the Bangla version of the Edinburgh Postnatal Depression Scale (EPDS-B) used to measure their psychological status. Both univariate analysis and multivariate logistic regression were applied using the SPSS 15.0 statistical software. The prevalence of depression at 34-35 weeks pregnancy was 33% (95% CI, 27.6-37.5). After adjustment in a multivariate logistic regression model, a history of being beaten by her husband either during or before the current pregnancy had the highest association with depression followed by having an unhelpful or unsupportive mother-in-law or husband, and family preference for a male child. Of the antenatally depressed women, 17 (14%) admitted to thoughts of self-harm during the pregnancy. This paper further explores the reasons why women have considered some form of self-harm during pregnancy. Depression during pregnancy is common among Bangladeshi women, with about a third being affected. The study highlights the need to allocate resources and develop strategies to address depression in pregnancy.
+C1 [Gausia, Kaniz] Edith Cowan Univ, Sch Exercise Biomed & Hlth Sci, Joondalup, WA 6027, Australia.
+   [Gausia, Kaniz] Int Ctr Diarrhoeal Dis Res ICDDR B, Dhaka, Bangladesh.
+   [Gausia, Kaniz; Fisher, Colleen; Oosthuizen, Jacques] Edith Cowan Univ, Perth, WA, Australia.
+   [Ali, Mohammed] Curtin Univ Technol, Ctr Int Hlth, Perth, WA, Australia.
+C3 Edith Cowan University; International Centre for Diarrhoeal Disease
+   Research (ICDDR); Edith Cowan University; Curtin University
+RP Gausia, K (corresponding author), Edith Cowan Univ, Sch Exercise Biomed & Hlth Sci, 270 Joondalup Dr, Joondalup, WA 6027, Australia.
+EM k.gausia@ecu.edu.au
+RI Oosthuizen, Jacques/D-1716-2016; Fisher, Colleen M/H-9188-2014; Gausia,
+   Kaniz/G-8803-2013
+OI Oosthuizen, Jacques/0000-0002-1589-5957; Fisher, Colleen
+   M/0000-0003-1636-8988; Gausia, Kaniz/0000-0003-2499-1403
+FU ICDDR; Department for International Development, UK ( DFID)
+FX This research study was funded by ICDDR, B and the Department for
+   International Development, UK ( DFID). ICDDR, B acknowledges with
+   gratitude the commitment of DFID to the Centre's research efforts.
+   ICDDR, B also gratefully acknowledges the following donors which provide
+   unrestricted support to the Centre's research efforts: Australian Agency
+   for International Development ( AusAID), Government of the People's
+   Republic of Bangladesh, Canadian International Development Agency (
+   CIDA), Embassy of the Kingdom of the Netherlands ( EKN), Swedish
+   International Development Cooperation Agency ( Sida), Swiss Agency for
+   Development and Cooperation ( SDC), and Department for International
+   Development, UK ( DFID). We gratefully acknowledge these donors for
+   their support and commitment to the Centre's research efforts.
+NR 37
+TC 89
+Z9 106
+U1 1
+U2 12
+PU SPRINGER WIEN
+PI WIEN
+PA SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA
+SN 1434-1816
+J9 ARCH WOMEN MENT HLTH
+JI Arch. Womens Ment. Health
+PD OCT
+PY 2009
+VL 12
+IS 5
+BP 351
+EP 358
+DI 10.1007/s00737-009-0080-7
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 505BU
+UT WOS:000270663900011
+PM 19468825
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Kato, TA
+   Tateno, M
+   Shinfuku, N
+   Fujisawa, D
+   Teo, AR
+   Sartorius, N
+   Akiyama, T
+   Ishida, T
+   Choi, TY
+   Balhara, YPS
+   Matsumoto, R
+   Umene-Nakano, W
+   Fujimura, Y
+   Wand, A
+   Chang, JPC
+   Chang, RYF
+   Shadloo, B
+   Ahmed, HU
+   Lerthattasilp, T
+   Kanba, S
+AF Kato, Takahiro A.
+   Tateno, Masaru
+   Shinfuku, Naotaka
+   Fujisawa, Daisuke
+   Teo, Alan R.
+   Sartorius, Norman
+   Akiyama, Tsuyoshi
+   Ishida, Tetsuya
+   Choi, Tae Young
+   Balhara, Yatan Pal Singh
+   Matsumoto, Ryohei
+   Umene-Nakano, Wakako
+   Fujimura, Yota
+   Wand, Anne
+   Chang, Jane Pei-Chen
+   Chang, Rita Yuan-Feng
+   Shadloo, Behrang
+   Ahmed, Helal Uddin
+   Lerthattasilp, Tiraya
+   Kanba, Shigenobu
+TI Does the '<i>hikikomori</i>' syndrome of social withdrawal exist outside
+   Japan? A preliminary international investigation
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Hikikomori; Social withdrawal; Taijin kyofusho; Amae; Internet addiction
+ID CULTURE-BOUND SYNDROME; INTERNET ADDICTION; PSYCHIATRIC COMORBIDITY;
+   LIFETIME PREVALENCE; DIAGNOSIS; DISORDERS; SUICIDE; PARADOX; YOUTHS
+AB To explore whether the 'hikikomori' syndrome (social withdrawal) described in Japan exists in other countries, and if so, how patients with the syndrome are diagnosed and treated.
+   Two hikikomori case vignettes were sent to psychiatrists in Australia, Bangladesh, India, Iran, Japan, Korea, Taiwan, Thailand and the USA. Participants rated the syndrome's prevalence in their country, etiology, diagnosis, suicide risk, and treatment.
+   Out of 247 responses to the questionnaire (123 from Japan and 124 from other countries), 239 were enrolled in the analysis. Respondents' felt the hikikomori syndrome is seen in all countries examined and especially in urban areas. Biopsychosocial, cultural, and environmental factors were all listed as probable causes of hikikomori, and differences among countries were not significant. Japanese psychiatrists suggested treatment in outpatient wards and some did not think that psychiatric treatment is necessary. Psychiatrists in other countries opted for more active treatment such as hospitalization.
+   Patients with the hikikomori syndrome are perceived as occurring across a variety of cultures by psychiatrists in multiple countries. Our results provide a rational basis for study of the existence and epidemiology of hikikomori in clinical or community populations in international settings.
+C1 [Kato, Takahiro A.; Kanba, Shigenobu] Kyushu Univ, Grad Sch Med Sci, Dept Neuropsychiat, Higashi Ku, Fukuoka 8128582, Japan.
+   [Kato, Takahiro A.] Kyushu Univ, Innovat Ctr Med Redox Nav, Fukuoka 8128582, Japan.
+   [Tateno, Masaru] Sapporo Med Univ, Dept Neuropsychiat, Sapporo, Hokkaido, Japan.
+   [Shinfuku, Naotaka] Seinan Gakuin Univ, Sch Human Sci, Fukuoka, Japan.
+   [Fujisawa, Daisuke] Natl Canc Ctr Hosp E, Res Ctr Innovat Oncol, Psychooncol Div, Kashiwa, Chiba, Japan.
+   [Teo, Alan R.] Univ Calif San Francisco, Dept Psychiat, San Francisco, CA USA.
+   [Sartorius, Norman] Assoc Improvement Mental Hlth Programmes, Geneva, Switzerland.
+   [Akiyama, Tsuyoshi] NTT Med Ctr Tokyo, Dept Psychiat, Tokyo, Japan.
+   [Ishida, Tetsuya] Kyushu Univ, Grad Sch Human Environm Studies, Fukuoka 8128582, Japan.
+   [Choi, Tae Young] Catholic Univ Daegu, Dept Psychiat, Sch Med, Taegu, South Korea.
+   [Balhara, Yatan Pal Singh] AIIMS, Dept Psychiat, New Delhi, India.
+   [Balhara, Yatan Pal Singh] AIIMS, Natl Drug Dependence Treatment Ctr, New Delhi, India.
+   [Balhara, Yatan Pal Singh] Lady Hardinge Med Coll & Hosp, Dept Psychiat & De Addict, New Delhi, India.
+   [Balhara, Yatan Pal Singh] SSK Hosp, New Delhi, India.
+   [Matsumoto, Ryohei] Kyoto Prefectural Univ Med, Dept Psychiat, Kyoto, Japan.
+   [Umene-Nakano, Wakako] Univ Occupat & Environm Hlth, Dept Psychiat, Fukuoka, Japan.
+   [Fujimura, Yota] Teikyo Univ, Dept Psychiat, Tokyo 173, Japan.
+   [Wand, Anne] Univ Sydney, Sydney Local Hlth Network, Canterbury Hosp, Sydney, NSW 2006, Australia.
+   [Wand, Anne] Univ Sydney, Sydney Med Sch, Sydney, NSW 2006, Australia.
+   [Chang, Jane Pei-Chen] China Med Univ & Hosp, Dept Psychiat, Taichung, Taiwan.
+   [Chang, Rita Yuan-Feng] Taichung Vet Gen Hosp, Dept Psychiat, ChiaYi Branch, Taichung, Taiwan.
+   [Shadloo, Behrang] Sina Hosp, Dept Psychiat, Kamyaran, Iran.
+   [Ahmed, Helal Uddin] Bangabundhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+   [Lerthattasilp, Tiraya] Thammasart Univ Hosp, Fac Med, Bangkok, Thailand.
+C3 Kyushu University; Kyushu University; Sapporo Medical University;
+   National Cancer Center - Japan; University of California System;
+   University of California San Francisco; Kanto Medical Center NTT EC;
+   Kyushu University; Catholic University of Daegu; All India Institute of
+   Medical Sciences (AIIMS) New Delhi; All India Institute of Medical
+   Sciences (AIIMS) New Delhi; National Drug Dependence Treatment Centre
+   (NDDTC); Lady Hardinge Medical College & Hospital; Lady Hardinge Medical
+   College & Hospital; Kyoto Prefectural University of Medicine; University
+   of Occupational & Environmental Health - Japan; Teikyo University; NSW
+   Health; Canterbury Hospital; University of Sydney; University of Sydney;
+   China Medical University Taiwan; China Medical University Hospital -
+   Taiwan; Taichung Veterans General Hospital; Bangabandhu Sheikh Mujib
+   Medical University (BSMMU); Thammasat University
+RP Kato, TA (corresponding author), Kyushu Univ, Grad Sch Med Sci, Dept Neuropsychiat, Higashi Ku, 3-1-1 Maidashi, Fukuoka 8128582, Japan.
+EM takahiro@npsych.med.kyushu-u.ac.jp
+RI Fujisawa, Daisuke/AAR-5808-2021; Kato, Takahiro/R-7665-2019; Fujimura,
+   Yota/AAK-8327-2020
+OI Kato, Takahiro/0000-0001-5169-2930; Shadloo,
+   Behrang/0000-0003-1884-9371; Teo, Alan/0000-0002-2393-088X; Chang, Jane
+   Pei-Chen/0000-0001-5582-0928; BALHARA, YATAN PAL
+   SINGH/0000-0003-1616-6403
+FU World Psychiatric Association (WPA); Japan Foundation for Neuroscience
+   and Mental Health; Grants-in-Aid for Scientific Research [22791133]
+   Funding Source: KAKEN
+FX The present study was supported by the World Psychiatric Association
+   (WPA) Research Fund 2010, and a grant from Japan Foundation for
+   Neuroscience and Mental Health (both to T. A. K.). We thank the Japan
+   Young Psychiatrists Organization (JYPO) for promoting our research
+   activity. We are grateful to Drs. Horikawa H, Kuga H, Tanaka M and
+   Barroilhet S for their cooperation.
+NR 50
+TC 130
+Z9 137
+U1 2
+U2 91
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD JUL
+PY 2012
+VL 47
+IS 7
+BP 1061
+EP 1075
+DI 10.1007/s00127-011-0411-7
+PG 15
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 964ID
+UT WOS:000305686500005
+PM 21706238
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Hasan, MT
+   Muhaddes, T
+   Camellia, S
+   Selim, N
+   Rashid, SF
+AF Hasan, Md Tanvir
+   Muhaddes, Tisa
+   Camellia, Suborna
+   Selim, Nasima
+   Rashid, Sabina Faiz
+TI Prevalence and Experiences of Intimate Partner Violence Against Women
+   With Disabilities in Bangladesh: Results of an Explanatory Sequential
+   Mixed-Method Study
+SO JOURNAL OF INTERPERSONAL VIOLENCE
+LA English
+DT Article
+DE women with disabilities; intimate partner violence; Bangladesh
+ID DOMESTIC VIOLENCE; PHYSICAL HEALTH; SEXUAL VIOLENCE; MENTAL-HEALTH;
+   RISK; CONSEQUENCES; SUICIDE; ASSAULT; ABUSE
+AB This study was aimed to estimate the prevalence of intimate partner violence (IPV) in a sample of 226 women with disabilities living in four different districts of Bangladesh. It also explored the physical and psychological suffering of women experiencing violence and their various coping strategies. A cross-sectional survey was carried out with 226 women with disabilities to measure the prevalence of IPV, and 16 in-depth interviews were conducted to document in detail the experiences of violence encountered by the abused women. Among the 226 women interviewed in the survey, about 84% reported ever having experienced at least one act of emotional abuse, physical, or sexual violence from their partner during their lifetime. Women who were older (aged above 32 years), separated, and members of economic/savings group were more likely to report ever having experienced any IPV than women with disabilities who were younger (aged 32 years and less), married, and not members of economic/savings group. Most of the women experiencing violence reported sufferings from physical and psychological problems. Of all the women who experienced violence, less than half (45%) reported seeking support to minimize or avoid violence experiences. However, seeking support from informal network such as family and relatives was commonly reported by many (81.4%) of them. Study findings suggest that women with disabilities who possess poor socio-economic status coupled with economic dependency on husbands' income and wide-spread social stigma against disability make them vulnerable to IPV. Future interventions to address IPV against women with disabilities should include building community knowledge of disability and IPV, countering the pervasive social stigma against disabilities, and improving the socio-economic conditions of women with disabilities through education and employment.
+C1 [Hasan, Md Tanvir; Camellia, Suborna; Selim, Nasima; Rashid, Sabina Faiz] BRAC Univ, BRAC Inst Global Hlth BIGH, James P Grant Sch Publ Hlth JPGSPH, Dhaka 1212, Bangladesh.
+   [Muhaddes, Tisa] BRAC Univ, James P Grant Sch Publ Hlth JPGSPH, Dhaka 1212, Bangladesh.
+C3 Bangladesh Rural Advancement Committee BRAC; BRAC University; Bangladesh
+   Rural Advancement Committee BRAC; BRAC University
+RP Hasan, MT (corresponding author), BRAC Univ, BRAC Inst Global Hlth BIGH, James P Grant Sch Publ Hlth JPGSPH, 5th Floor,Icddr,B Bldg, Dhaka 1212, Bangladesh.
+EM thasan@bracu.ac.bd
+OI HASAN, MD TANVIR/0000-0002-5806-060X; Ghai, Anita/0000-0002-5244-0310;
+   Rashid, Sabina Faiz/0000-0003-0916-2631
+NR 35
+TC 37
+Z9 40
+U1 1
+U2 21
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0886-2605
+EI 1552-6518
+J9 J INTERPERS VIOLENCE
+JI J. Interpers. Violence
+PD NOV
+PY 2014
+VL 29
+IS 17
+SI SI
+BP 3105
+EP 3126
+DI 10.1177/0886260514534525
+PG 22
+WC Criminology & Penology; Family Studies; Psychology, Applied
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Family Studies; Psychology
+GA AQ4XT
+UT WOS:000342805500004
+PM 24860077
+DA 2023-12-06
+ER
+
+PT J
+AU Fitch, TJ
+   Moran, J
+   Villanueva, G
+   Sagiraju, HKR
+   Quadir, MM
+   Alamgir, H
+AF Fitch, Taylor Jennelle
+   Moran, Jacxelyn
+   Villanueva, Gabriela
+   Sagiraju, Hari Krishna Raju
+   Quadir, Mohammad Morshedul
+   Alamgir, Hasanat
+TI Prevalence and risk factors of depression among garment workers in
+   Bangladesh
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Depression; female garment workers; Bangladesh; factory workers
+ID POSTTRAUMATIC-STRESS-DISORDER; GLOBAL MENTAL-HEALTH; NATIONAL
+   COMORBIDITY SURVEY; CHRONIC PAIN; INTERSTITIAL CYSTITIS; QUESTIONNAIRE
+   PHQ-9; COMMITMENT THERAPY; TRAUMATIC EVENTS; PTSD CHECKLIST;
+   PRIMARY-CARE
+AB Background: Depression is a growing health issue in both developed and developing countries. General unawareness at the population level, lack of training among health care providers and scarcity of resources including treatment opportunities may conceal the real burden of depression in developing countries, and more epidemiological studies on its prevalence and risk factors are critically needed.
+   Aim: This study reports the prevalence of depression and its associated risk factors among female garment factory workers in Bangladesh - a major supplier country of clothes for the Western market. This research should generate useful evidence for national and international stakeholders who have an interest in improving health, safety and well-being of outsourced factory workers.
+   Methods: A survey was conducted on a sample of 600 lower socio-economic status working women including garment workers. This survey collected data on demographic and health profile of these workers. The primary outcome was depression as measured by Patient Health Questionnaire 9. It also obtained data on traumatic life events and post-traumatic stress disorder.
+   Results: The prevalence of depression was 23.5%: 20.9% among garment workers and 26.4% among others. Part-time employment (odds ratio-OR): 2.36, 95% confidence interval (95% CI): 1.01-5.51), chronic pain (OR: 1.67, 95% CI: 1.01-2.78), two or more traumatic life events (OR: 6.43, 95% CI: 2.85-14.55) and dysuria (OR: 2.50, 95% CI: 1.02-6.15) were found to be significantly associated with depression among these workers in multivariate regression model. Depression prevalene lowered by 11% among these workers for every additional monthly earning of 1,000taka (US$12).
+   Conclusion: Depression is a multifaceted health issue with many personal, social, economic and health determinants and consequences. This study demonstrates that the prevalence of moderate-to-severe depression among working women in Bangladesh is quite high. Prevention and treatment of depression in developing countries and societies can reduce suffering, lower incidence of suicide, and prevent economic loss. Creating awareness on outsourced workers' poor mental health may help in developing initiatives to protect and preserve their well-being.
+C1 [Fitch, Taylor Jennelle] Emory Univ, Sch Med, Stone Mt, GA USA.
+   [Moran, Jacxelyn] Massachusetts Gen Hosp, Boston, MA 02114 USA.
+   [Villanueva, Gabriela] Texas Tech Univ, Hlth Sci Ctr, El Paso, TX USA.
+   [Sagiraju, Hari Krishna Raju] Univ Texas Hlth Sci Ctr Houston, Sch Publ Hlth, Houston, TX 77030 USA.
+   [Quadir, Mohammad Morshedul] CRP, Savar, Bangladesh.
+   [Alamgir, Hasanat] New York Med Coll, Dept Hlth Policy & Management, 40 Sunshine Cottage Rd, Valhalla, NY 10595 USA.
+C3 Emory University; Harvard University; Massachusetts General Hospital;
+   Texas Tech University System; Texas Tech University; University of Texas
+   System; University of Texas Health Science Center Houston; University of
+   Texas School Public Health; New York Medical College
+RP Alamgir, H (corresponding author), New York Med Coll, Dept Hlth Policy & Management, 40 Sunshine Cottage Rd, Valhalla, NY 10595 USA.
+EM hasanat_alamgir@nymc.edu
+RI Alamgir, Hasanat/U-9354-2019
+OI Sagiraju, Hari Krishna Raju/0000-0002-9719-9380; Moran,
+   Jacxelyn/0000-0002-3453-0566; Quadir, Mohammad
+   Morshedul/0000-0002-2627-4726
+FU UT Health Science Center San Antonio's Global Health Program; Friends of
+   CRP, Canada
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This study
+   was supported by funding from the UT Health Science Center San Antonio's
+   Global Health Program and Friends of CRP, Canada.
+NR 59
+TC 20
+Z9 20
+U1 1
+U2 23
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD MAY
+PY 2017
+VL 63
+IS 3
+BP 244
+EP 254
+DI 10.1177/0020764017695576
+PG 11
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EU0MD
+UT WOS:000400704900008
+PM 28466750
+DA 2023-12-06
+ER
+
+PT J
+AU Engel, S
+   Pedersen, D
+AF Engel, Susan
+   Pedersen, David
+TI Microfinance as poverty-shame debt
+SO EMOTIONS AND SOCIETY
+LA English
+DT Article
+DE microfinance; emotions; shame; debt; psychosocial wellbeing
+ID MICRO-CREDIT; ANDHRA-PRADESH; EMOTIONS; VIOLENCE; CRISIS; HEALTH
+AB In an excellent anthropological study of microfinance in Bangladesh, Karim (2008: xviii) argues that it operates as `an economy of shame'. That is to say, microfinance is not the benign tool for financial inclusion and empowerment that mainstream development organisations proclaim. Rather, it unintentionally (perhaps) but nevertheless actively deploys shaming techniques in order to maximise loan repayment rates. Karim, however, does not employ an explicit analysis of shame; instead she emphasises its disciplining power for rural women in Bangladesh. Our article builds on this insight but applies a specific psychosocial approach to shame that critically examines a number of the emotion's harmful practices and outcomes, especially when deployed within microfinance practice. It highlights that microfinance personalises and socialises people's debt relations, making them a matter for group concern, but that at the same time money-debt's impersonalising nature results in coercive and disciplinary actions that would otherwise be seen as intolerable. We demonstrate how the active shaming of microfinance participants all too often degenerates into human rights abuses, including violence. The shame of debt and the active shaming that facilitates microfinance's high repayment rates harms the psychosocial wellbeing of those being shamed as well as their families, and can be linked to a range of concerning outcomes including self-harm and suicide. To conclude, we explore whether the coercion by shame and shaming of microfinance may be linked to its growing use in other areas of development programming.
+C1 [Engel, Susan; Pedersen, David] Univ Wollongong, Wollongong, NSW, Australia.
+C3 University of Wollongong
+RP Engel, S (corresponding author), Univ Wollongong, Wollongong, NSW, Australia.
+EM sengel@uow.edu.au; pdavid@uow.edu.au
+OI Engel, Susan/0000-0002-4184-6139
+NR 71
+TC 6
+Z9 6
+U1 0
+U2 2
+PU BRISTOL UNIV PRESS & POLICY PRESS
+PI BRISTOL
+PA 1-9 OLD PARK HILL, UNIV BRISTOL, BRISTOL, BS2 8BB, ENGLAND
+SN 2631-6897
+EI 2631-6900
+J9 EMOTION SOC
+JI Emotions Soc.
+PD NOV
+PY 2019
+VL 1
+IS 2
+BP 181
+EP 196
+DI 10.1332/263168919X15653391247919
+PG 16
+WC Sociology
+WE Emerging Sources Citation Index (ESCI)
+SC Sociology
+GA VL0ZZ
+UT WOS:000788484100004
+DA 2023-12-06
+ER
+
+PT J
+AU Bow-Bertrand, A
+   Pahan, D
+   Mangeard-Lourme, J
+AF Bow-Bertrand, Anastasia
+   Pahan, David
+   Mangeard-Lourme, Jennifer
+TI An exploration into the psychological impact of leprosy in Sirajganj,
+   Bangladesh
+SO LEPROSY REVIEW
+LA English
+DT Article
+DE leprosy; mental health; depression; anxiety; suicide
+ID MENTAL DISTRESS; ADDIS-ABABA; PREVALENCE; HEALTH; ETHIOPIA
+AB Objectives: Leprosy is a neglected tropical disease still prevalent in the world today. In addition to dealing with the physical complications associated with the condition, people affected by leprosy often also face poor mental health. This study sets out to explore the psychological impact of leprosy by looking at experiences of mental health, and perceptions of the disease and disability, in a community in Bangladesh.
+   Methods: Mixed methods including PHQ-9 and GAD-7 questionnaires and semi-structured interviews (SSI) were used. 30 adult participants were recruited through systematic sampling, with a purposive approach taken to select a sub-group of 6 for a focus group discussion (FGD), prioritising those who recorded severe markers of anxiety, depression and disability level during the SSI/questionnaire.
+   Results: 53% of participants experienced moderate to severe depression and 44% mild depression. 37% experienced severe anxiety and 37% moderate anxiety. Underlying issues for poor mental health included high levels of disability, being a woman, low educational levels, and economic dependence. Participants identified ways to recover from mental distress such as engaging with non-affected people, increased public awareness, strengthened education and restoring their ability to financially sustain themselves.
+   Conclusion: These findings add to the growing body of literature that evidences the high mental distress associated with leprosy. Despite anxiety, depression and suicidal ideation being common challenges people with leprosy experience, leprosy treatment rarely includes provision for mental health care.
+C1 [Bow-Bertrand, Anastasia] UCL, London, England.
+   [Pahan, David] Lepra Bangladesh, Programmes, House 80,Rd 07,Block H, Dhaka 1213, Bangladesh.
+   [Mangeard-Lourme, Jennifer] Lepra UK, 28 Middleborough, Colchester CO1 1TG, Essex, England.
+C3 University of London; University College London
+RP Bow-Bertrand, A (corresponding author), UCL, UCL Great Ormond St Inst Child Hlth, 30 Guilford St, London WC1N 1EH, England.
+EM abowbertrand@hotmail.com
+OI Alden, Anastasia/0000-0001-7552-7729
+NR 33
+TC 1
+Z9 1
+U1 0
+U2 1
+PU LEPRA
+PI COLCHESTER
+PA 28 MIDDLEBOROUGH, COLCHESTER CO1 1TG, ESSEX, ENGLAND
+SN 0305-7518
+EI 2162-8807
+J9 LEPROSY REV
+JI Lepr. Rev.
+PD DEC
+PY 2019
+VL 90
+IS 4
+BP 399
+EP 417
+PG 19
+WC Dermatology; Infectious Diseases; Pathology; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Dermatology; Infectious Diseases; Pathology; Tropical Medicine
+GA JT3WN
+UT WOS:000500923600007
+DA 2023-12-06
+ER
+
+PT J
+AU Uddin, MG
+   Biswas, RSR
+   Mamun, SMH
+AF Uddin, Mohammad Gias
+   Biswas, Rajat Sanker Roy
+   Mamun, Shaikh Md Hasan
+TI Sociodemographic Profile and Intention of Deliberate Self-harm among
+   Patients Admitted in a Tertiary Care Hospital, Chittagong, Bangladesh
+SO JOURNAL OF THE SCIENTIFIC SOCIETY
+LA English
+DT Article
+DE Deliberate self-harm; intension; suicide
+AB Introduction: Deliberate self-harm (DSH) is an act with nonfatal outcome, in which an individual deliberately initiates a nonhabitual behavior that, without intervention from others, will cause self-harm, or deliberately ingests a substance in excess of prescribed or generally recognized therapeutic dosage. Here, the objective of the present study was to demonstrate the sociodemographic profile and intention of DSH in our context. Methods: This prospective observational study was done during 1 year. A total of 51 cases were recruited. Sociodemographic data were collected and intension to DSH was assessed using Beck's Suicide Intent Scale. All patients were followed up until discharge, and data were analyzed using the SPSS-20. Results: Among all 51 cases female were the most common 48 (94.1%), Muslims were more 41 (80.4%), 31 (60.8%) were from urban origin, most were homemaker, 20 (39.2%) were single, 16 (31.4%) were poor, and most were at age group <20 years. Intention to DSH revealed, 12 (23.5%) cases were to cope from a difficult situation, 5 (9.8%) cases due to broken-up relationships, 15 (29.4%) cases were for problems in conjugal life, 11 (21.6%) due to quarrel with family. 39 (76.5%) attempted for the first time and 12 (23.5% had a history of multiple attempts. Most 27 (52.9%) patients used sedatives. Among all 12 (23.5%) had a major depressive disorder, 6 (11.8%) had borderline personality disorder, 3 (5.9%) had schizophrenia, 28 (54.9%) had no psychiatric disorders. 37 (72.5%) had low suicidal intent and 11 (21.6%) had high intent 36 (70.6%) were brought to a hospital quickly and all were conscious during admission, 2 developed organ dysfunction, 3 (5.9%) stayed more than 2 days in the hospital, and 49 (96.1%) had an uneventful recovery. Conclusion: DSH attempters are at increased risk of making further attempts and of dying by means of suicide. Interventions, which focus on enhancing treatment and support for these people, may reduce the risk of repeating this type of behavior.
+C1 [Uddin, Mohammad Gias] Chattagram Maa O Shishu Hosp Med Coll, Dept Psychiat, Chittagong, Bangladesh.
+   [Biswas, Rajat Sanker Roy; Mamun, Shaikh Md Hasan] Chattagram Maa O Shishu Hosp Med Coll, Dept Med, Chittagong, Bangladesh.
+RP Biswas, RSR (corresponding author), Chattagram Maa O Shishu Hosp Med Coll, Dept Med, Chittagong, Bangladesh.
+EM rajatbiswas76@yahoo.com
+RI Biswas, Rajat Sanker Roy/AAK-8954-2021
+OI Biswas, Rajat Sanker Roy/0000-0003-1487-1619
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI MUMBAI
+PA WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2
+   VILLAGE MAROL, ANDHERI EAST, MUMBAI, 400059, INDIA
+SN 0974-5009
+EI 2278-7127
+J9 J SCI SOC
+JI J Sci. Soc.
+PD MAY-AUG
+PY 2019
+VL 46
+IS 2
+BP 53
+EP 56
+DI 10.4103/jss.JSS_9_19
+PG 4
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA VJ7OS
+UT WOS:000621617800006
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Islam, MJ
+   Broidy, L
+   Mazerolle, P
+   Baird, K
+   Mazumder, N
+   Zobair, KM
+AF Islam, Md. Jahirul
+   Broidy, Lisa
+   Mazerolle, Paul
+   Baird, Kathleen
+   Mazumder, Nurunnahar
+   Zobair, Khondker Mohammad
+TI Do Maternal Depression and Self-Esteem Moderate and Mediate the
+   Association Between Intimate Partner Violence After Childbirth and
+   Postpartum Suicidal Ideation?
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE intimate partner violence; women's mental health; postpartum suicidal
+   ideation; postpartum depression; self-esteem; Bangladesh
+ID POSTNATAL DEPRESSION; RISK-FACTORS; PERINATAL-PERIOD; DOMESTIC VIOLENCE;
+   WOMENS HEALTH; MENTAL-HEALTH; PREGNANCY; PREVALENCE; CARE; EXPERIENCES
+AB Intimate partner violence (IPV) during the perinatal period is believed to have an adverse effect on maternal mental health. Given the risks of suicide and related public health concerns, the aim of this study is to examine (1) the association of experiencing physical, psychological, and sexual IPV after childbirth on postpartum suicidal ideation (SI), and (2) whether postpartum depression and self-esteem act to mediate or moderate the relationship between IPV and postpartum SI. A cross-sectional survey was conducted from October 2015 to January 2016 in the Chandpur District of Bangladesh among 426 new mothers, aged 15 to 49 years, who were in the first 6 months postpartum. Multivariate logistic regression models were used to examine the association between experiencing IPV and postpartum SI, controlling for a range of other known influences. The prevalence of postpartum SI was 30.8%. Accounting the influence of other confounders, the odds of postpartum SI were significantly higher among women who reported physical IPV victimization (adjusted odds ratio: 2.65; 95% confidence interval = 1.36, 5.18) at any point during the first 6 months following childbirth as opposed to those who did not. In addition, postpartum depression increased postpartum SI, while high self-esteem significantly reduced reports of SI. Both postpartum depression and maternal self-esteem notably mediate and moderate the effect of physical IPV after childbirth on postpartum SI. The findings illuminate that IPV victimization after childbirth significantly increases the odds of postpartum SI. This study reinforces the need to detect women with a history of IPV who may be at risk for SI, not only to offer them help and support but also to prevent or reduce SI.
+C1 [Islam, Md. Jahirul; Broidy, Lisa] Griffith Univ, Sch Criminol & Criminal Justice, Brisbane, Qld, Australia.
+   [Islam, Md. Jahirul] Bangladesh Planning Commiss, Minist Planning, Dhaka, Bangladesh.
+   [Broidy, Lisa] Univ New Mexico, Dept Sociol, Albuquerque, NM 87131 USA.
+   [Mazerolle, Paul] Univ New Brunswick, Fredericton, NB, Canada.
+   [Baird, Kathleen] Griffith Univ, Menzies Hlth Inst Queensland, Sch Nursing & Midwifery, Brisbane, Qld, Australia.
+   [Mazumder, Nurunnahar] Jagannath Univ, Dept Law, Dhaka, Bangladesh.
+   [Zobair, Khondker Mohammad] Griffith Univ, Dept Int Business & Asian Studies, Brisbane, Qld, Australia.
+C3 Griffith University; University of New Mexico; University of New
+   Brunswick; Griffith University; Menzies Health Institute Queensland;
+   Griffith University
+RP Islam, MJ (corresponding author), Griffith Univ, Sch Criminol & Criminal Justice, 176 Messines Ridge Rd, Mt Gravatt, Qld 4122, Australia.
+EM mdjahirul.bd@gmail.com
+RI Islam, Dr Md Jahirul/J-4093-2019; Baird, Kathleen/AAP-1894-2021
+OI Islam, Dr Md Jahirul/0000-0001-6409-6724; Baird,
+   Kathleen/0000-0003-0142-6962; Zobair, Khondker/0000-0002-4143-9680
+FU Joint Donors Technical Assistance Fund (JDTAF) at the Ministry of Health
+   and Family Welfare, Bangladesh
+FX The study was partially funded by the Joint Donors Technical Assistance
+   Fund (JDTAF) at the Ministry of Health and Family Welfare, Bangladesh.
+   The funding authority had no role in study design, data collection, data
+   analysis, data interpretation, or writing of the manuscript. The
+   corresponding author had full access to all data in the study and had
+   final responsibility for the decision to submit for publication.
+NR 85
+TC 14
+Z9 14
+U1 1
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PD OCT 1
+PY 2020
+VL 24
+IS 4
+BP 609
+EP 632
+DI 10.1080/13811118.2019.1655507
+EA SEP 2019
+PG 24
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA OY2KG
+UT WOS:000488116200001
+PM 31462186
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Streatfield, PK
+   Khan, WA
+   Bhuiya, A
+   Hanifi, SMA
+   Alam, N
+   Diboulo, E
+   Niamba, L
+   Sié, A
+   Lankoandé, B
+   Millogo, R
+   Soura, AB
+   Bonfoh, B
+   Kone, S
+   Ngoran, EK
+   Utzinger, J
+   Ashebir, Y
+   Melaku, YA
+   Weldearegawi, B
+   Gomez, P
+   Jasseh, M
+   Azongo, D
+   Oduro, A
+   Wak, G
+   Wontuo, P
+   Attaa-Pomaa, M
+   Gyapong, M
+   Manyeh, AK
+   Kant, S
+   Misra, P
+   Rai, SK
+   Juvekar, S
+   Patil, R
+   Wahab, A
+   Wilopo, S
+   Bauni, E
+   Mochamah, G
+   Ndila, C
+   Williams, TN
+   Khaggayi, C
+   Nyaguara, A
+   Obor, D
+   Odhiambo, FO
+   Ezeh, A
+   Oti, S
+   Wamukoya, M
+   Chihana, M
+   Crampin, A
+   Collinson, MA
+   Kabudula, CW
+   Wagner, R
+   Herbst, K
+   Mossong, JL
+   Emina, JBO
+   Sankoh, OA
+   Byass, P
+AF Streatfield, P. Kim
+   Khan, Wasif A.
+   Bhuiya, Abbas
+   Hanifi, Syed M. A.
+   Alam, Nurul
+   Diboulo, Eric
+   Niamba, Louis
+   Sie, Ali
+   Lankoande, Bruno
+   Millogo, Roch
+   Soura, Abdramane B.
+   Bonfoh, Bassirou
+   Kone, Siaka
+   Ngoran, Eliezer K.
+   Utzinger, Juerg
+   Ashebir, Yemane
+   Melaku, Yohannes A.
+   Weldearegawi, Berhe
+   Gomez, Pierre
+   Jasseh, Momodou
+   Azongo, Daniel
+   Oduro, Abraham
+   Wak, George
+   Wontuo, Peter
+   Attaa-Pomaa, Mary
+   Gyapong, Margaret
+   Manyeh, Alfred K.
+   Kant, Shashi
+   Misra, Puneet
+   Rai, Sanjay K.
+   Juvekar, Sanjay
+   Patil, Rutuja
+   Wahab, Abdul
+   Wilopo, Siswanto
+   Bauni, Evasius
+   Mochamah, George
+   Ndila, Carolyne
+   Williams, Thomas N.
+   Khaggayi, Christine
+   Nyaguara, Amek
+   Obor, David
+   Odhiambo, Frank O.
+   Ezeh, Alex
+   Oti, Samuel
+   Wamukoya, Marylene
+   Chihana, Menard
+   Crampin, Amelia
+   Collinson, Mark A.
+   Kabudula, Chodziwadziwa W.
+   Wagner, Ryan
+   Herbst, Kobus
+   Mossong, Joe L.
+   Emina, Jacques B. O.
+   Sankoh, Osman A.
+   Byass, Peter
+TI Mortality from external causes in Africa and Asia: evidence from INDEPTH
+   Health and Demographic Surveillance System Sites
+SO GLOBAL HEALTH ACTION
+LA English
+DT Article
+DE external causes; accidents; suicide; assault; transport; drowning;
+   Africa; Asia; mortality; INDEPTH Network; verbal autopsy; InterVA
+ID PROFILE; POPULATION; SUICIDE; DEATH
+AB Background: Mortality from external causes, of all kinds, is an important component of overall mortality on a global basis. However, these deaths, like others in Africa and Asia, are often not counted or documented on an individual basis. Overviews of the state of external cause mortality in Africa and Asia are therefore based on uncertain information. The INDEPTH Network maintains longitudinal surveillance, including cause of death, at population sites across Africa and Asia, which offers important opportunities to document external cause mortality at the population level across a range of settings.
+   Objective: To describe patterns of mortality from external causes at INDEPTH Network sites across Africa and Asia, according to the WHO 2012 verbal autopsy (VA) cause categories.
+   Design: All deaths at INDEPTH sites are routinely registered and followed up with VA interviews. For this study, VA archives were transformed into the WHO 2012 VA standard format and processed using the InterVA-4 model to assign cause of death. Routine surveillance data also provide person-time denominators for mortality rates.
+   Results: A total of 5,884 deaths due to external causes were documented over 11,828,253 person-years. Approximately one-quarter of those deaths were to children younger than 15 years. Causes of death were dominated by childhood drowning in Bangladesh, and by transport-related deaths and intentional injuries elsewhere. Detailed mortality rates are presented by cause of death, age group, and sex.
+   Conclusions: The patterns of external cause mortality found here generally corresponded with expectations and other sources of information, but they fill some important gaps in population-based mortality data. They provide an important source of information to inform potentially preventive intervention designs.
+C1 [Streatfield, P. Kim] Matlab HDSS, Chandpur Dist, Bangladesh.
+   [Streatfield, P. Kim; Khan, Wasif A.] Int Ctr Diarrhoeal Dis Res, Dhaka 1000, Bangladesh.
+   [Streatfield, P. Kim; Khan, Wasif A.; Bhuiya, Abbas; Hanifi, Syed M. A.; Alam, Nurul; Diboulo, Eric; Niamba, Louis; Sie, Ali; Lankoande, Bruno; Millogo, Roch; Soura, Abdramane B.; Bonfoh, Bassirou; Kone, Siaka; Ngoran, Eliezer K.; Utzinger, Juerg; Ashebir, Yemane; Melaku, Yohannes A.; Weldearegawi, Berhe; Gomez, Pierre; Jasseh, Momodou; Azongo, Daniel; Oduro, Abraham; Wak, George; Wontuo, Peter; Attaa-Pomaa, Mary; Gyapong, Margaret; Manyeh, Alfred K.; Kant, Shashi; Misra, Puneet; Rai, Sanjay K.; Juvekar, Sanjay; Patil, Rutuja; Wahab, Abdul; Wilopo, Siswanto; Bauni, Evasius; Mochamah, George; Ndila, Carolyne; Williams, Thomas N.; Khaggayi, Christine; Nyaguara, Amek; Obor, David; Odhiambo, Frank O.; Ezeh, Alex; Oti, Samuel; Wamukoya, Marylene; Chihana, Menard; Crampin, Amelia; Collinson, Mark A.; Kabudula, Chodziwadziwa W.; Wagner, Ryan; Herbst, Kobus; Mossong, Joe L.; Emina, Jacques B. O.; Sankoh, Osman A.; Byass, Peter] INDEPTH Network, POB KD213, Kanda, Accra, Ghana.
+   [Khan, Wasif A.] Bandarban HDSS, Bandarban, Bangladesh.
+   [Bhuiya, Abbas; Hanifi, Syed M. A.] Chakaria HDSS, Chakaria, Bangladesh.
+   [Bhuiya, Abbas; Hanifi, Syed M. A.] Int Ctr Diarrhoeal Dis Res, Ctr Equity & Hlth Syst, Dhaka 1000, Bangladesh.
+   [Alam, Nurul] AMK HDSS, Dhaka, Bangladesh.
+   [Alam, Nurul] Int Ctr Diarrhoeal Dis Res, Ctr Populat Urbanisat & Climate Change, Dhaka 1000, Bangladesh.
+   [Diboulo, Eric; Niamba, Louis; Sie, Ali] Nouna HDSS, Nouna, Burkina Faso.
+   [Diboulo, Eric; Niamba, Louis; Sie, Ali] Nouna Hlth Res Ctr, Nouna, Burkina Faso.
+   [Lankoande, Bruno; Millogo, Roch; Soura, Abdramane B.] Ouagadougou HDSS, Ouagadougou, Burkina Faso.
+   [Lankoande, Bruno; Millogo, Roch; Soura, Abdramane B.] Univ Ouagadougou, Inst Super Sci Populat, Ouagadougou, Burkina Faso.
+   [Bonfoh, Bassirou; Kone, Siaka; Ngoran, Eliezer K.; Utzinger, Juerg] Taabo HDSS, Taabo, Cote Ivoire.
+   [Bonfoh, Bassirou; Kone, Siaka] Ctr Suisse Rech Sci Cote Ivoire, Abidjan, Cote Ivoire.
+   [Ngoran, Eliezer K.] Univ Felix Houphoet Boigny, Abidjan, Cote Ivoire.
+   [Utzinger, Juerg] Swiss Trop & Publ Hlth Inst, Basel, Switzerland.
+   [Ashebir, Yemane; Melaku, Yohannes A.; Weldearegawi, Berhe] Kilite Awlaelo HDSS, Kilite Awlaelo, Ethiopia.
+   [Ashebir, Yemane; Melaku, Yohannes A.; Weldearegawi, Berhe] Mekelle Univ, Coll Hlth Sci, Dept Publ Hlth, Mekelle, Ethiopia.
+   [Gomez, Pierre; Jasseh, Momodou] Farafenni HDSS, Farafenni, Gambia.
+   [Gomez, Pierre; Jasseh, Momodou] MRC, Gambia Unit, Fajara, Gambia.
+   [Azongo, Daniel; Oduro, Abraham; Wak, George; Wontuo, Peter] Navrongo HDSS, Navrongo, Ghana.
+   [Azongo, Daniel; Oduro, Abraham; Wak, George; Wontuo, Peter] Navrongo Hlth Res Ctr, Navrongo, Ghana.
+   [Attaa-Pomaa, Mary; Gyapong, Margaret; Manyeh, Alfred K.] Dodowa HDSS, Dodowa, Ghana.
+   [Attaa-Pomaa, Mary; Gyapong, Margaret; Manyeh, Alfred K.] Dodowa Hlth Res Ctr, Dodowa, Ghana.
+   [Kant, Shashi; Misra, Puneet; Rai, Sanjay K.] Ballabgarh HDSS, Ballabgarh, India.
+   [Kant, Shashi; Misra, Puneet; Rai, Sanjay K.] All India Inst Med Sci, New Delhi, India.
+   [Juvekar, Sanjay; Patil, Rutuja] Vadu HDSS, Vadu, India.
+   [Juvekar, Sanjay; Patil, Rutuja] KEM Hosp Res Ctr, Vadu Rural Hlth Program, Pune, Maharashtra, India.
+   [Wahab, Abdul; Wilopo, Siswanto] Purworejo HDSS, Purworejo, Indonesia.
+   [Wahab, Abdul; Wilopo, Siswanto] Univ Gadjah Mada, Dept Publ Hlth, Yogyakarta, Indonesia.
+   [Bauni, Evasius; Mochamah, George; Ndila, Carolyne; Williams, Thomas N.] Kilifi HDSS, Kilifi, Kenya.
+   [Bauni, Evasius; Mochamah, George; Ndila, Carolyne; Williams, Thomas N.] KEMRI Wellcome Trust Res Programme, Kilifi, Kenya.
+   [Williams, Thomas N.] Univ London Imperial Coll Sci Technol & Med, St Marys Hosp, Dept Med, London, England.
+   [Khaggayi, Christine; Nyaguara, Amek; Obor, David; Odhiambo, Frank O.] Kisumu HDSS, Kisumu, Kenya.
+   [Khaggayi, Christine; Nyaguara, Amek; Obor, David; Odhiambo, Frank O.] KEMRI CDC Res & Publ Hlth Collaborat, Kisumu, Kenya.
+   [Khaggayi, Christine; Nyaguara, Amek; Obor, David; Odhiambo, Frank O.] KEMRI Ctr Global Hlth Res, Kisumu, Kenya.
+   [Ezeh, Alex; Oti, Samuel; Wamukoya, Marylene] Nairobi HDSS, Nairobi, Kenya.
+   [Ezeh, Alex; Oti, Samuel; Wamukoya, Marylene] African Populat & Hlth Res Ctr, Nairobi, Kenya.
+   [Chihana, Menard; Crampin, Amelia] Karonga HDSS, Karonga, Malawi.
+   [Chihana, Menard; Crampin, Amelia] Karonga Prevent Study, Chilumba, Malawi.
+   [Crampin, Amelia] London Sch Hyg & Trop Med, London WC1, England.
+   [Collinson, Mark A.; Kabudula, Chodziwadziwa W.; Wagner, Ryan] Agincourt HDSS, Johannesburg, South Africa.
+   [Collinson, Mark A.; Kabudula, Chodziwadziwa W.; Wagner, Ryan; Byass, Peter] Univ Witwatersrand, Fac Hlth Sci, Sch Publ Hlth, MRC Wits Rural Publ Hlth & Hlth Transit Res Unit, Johannesburg, South Africa.
+   [Collinson, Mark A.; Herbst, Kobus; Mossong, Joe L.] Umea Univ, Umea Ctr Global Hlth Res, Umea, Sweden.
+   [Herbst, Kobus; Mossong, Joe L.] Univ KwaZulu Natal, Africa Ctr Hlth & Populat Studies, Somkhele, KwaZulu Natal, South Africa.
+   [Mossong, Joe L.] Natl Hlth Lab, Surveillance & Epidemiol Infect Dis, Dudelange, Luxembourg.
+   [Sankoh, Osman A.] Univ Witwatersrand, Fac Hlth Sci, Sch Publ Hlth, Johannesburg, South Africa.
+   [Sankoh, Osman A.] Hanoi Med Univ, Hanoi 100803, Vietnam.
+   [Byass, Peter] Umea Ctr Global Hlth Res, WHO Collaborating Ctr Verbal Autopsy, Umea, Sweden.
+C3 International Centre for Diarrhoeal Disease Research (ICDDR); INDEPTH
+   Network; International Centre for Diarrhoeal Disease Research (ICDDR);
+   International Centre for Diarrhoeal Disease Research (ICDDR); University
+   of Basel; Swiss Tropical & Public Health Institute; Mekelle University;
+   University of London; London School of Hygiene & Tropical Medicine;
+   Navrongo Health Research Center; All India Institute of Medical Sciences
+   (AIIMS) New Delhi; Gadjah Mada University; Imperial College London;
+   African Population & Health Research Centre; Malawi Epidemiology and
+   Intervention Research Unit; University of London; London School of
+   Hygiene & Tropical Medicine; University of Witwatersrand; Umea
+   University; University of Kwazulu Natal; University of Witwatersrand;
+   Hanoi Medical University
+RP Sankoh, OA (corresponding author), INDEPTH Network, POB KD213, Kanda, Accra, Ghana.
+EM osman.sankoh@indepth-network.org
+RI Manyeh, Alfred Kwesi/AAW-6001-2020; Herbst, Abraham J/E-4848-2010;
+   Wilopo, Siswanto/AAC-9417-2022; Melaku, Yohannes Adama/S-2451-2019;
+   Jasseh, Momodou/HSE-4804-2023; Mossong, Joël/D-4998-2009; Patil,
+   Rutuja/O-9996-2018; Wagner, Ryan G/AFK-7323-2022; Azongo, Daniel
+   K./G-2602-2010; Sankoh, Osman/ABB-3755-2020; Wilopo,
+   Siswanto/AAJ-2092-2020; Manyeh, Alfred Kwesi/GRX-9185-2022; Ezeh,
+   Alex/AAN-8646-2020; Wahab, Abdul/W-2456-2019; Kabudula,
+   Chodziwadziwa/AAV-6704-2021; Jasseh, Momodou/AAB-6071-2022
+OI Manyeh, Alfred Kwesi/0000-0002-7005-5707; Herbst, Abraham
+   J/0000-0002-5436-9386; Melaku, Yohannes Adama/0000-0002-3051-7313;
+   Jasseh, Momodou/0000-0002-1026-1082; Mossong, Joël/0000-0003-0717-9835;
+   Patil, Rutuja/0000-0001-6390-4363; Wagner, Ryan G/0000-0003-2741-3676;
+   Azongo, Daniel K./0000-0002-0210-3906; Sankoh,
+   Osman/0000-0003-4405-9808; Ezeh, Alex/0000-0002-1309-4697; Wilopo,
+   Siswanto Agus/0000-0003-1284-7228; Crampin, Amelia/0000-0002-1513-4330;
+   Sahle, Berhe W/0000-0003-3243-9176; Gyapong,
+   Margaret/0000-0002-4818-3497; Byass, Peter/0000-0001-5474-4361; Millogo,
+   Roch Modeste/0000-0003-1735-7789; Wamukoya,
+   Marylene/0000-0002-2900-9178; misra, puneet/0000-0002-2019-1524;
+   Mochamah, George/0000-0002-8597-8264; Kabudula, Chodziwadziwa
+   Whiteson/0000-0002-5867-0336; ODURO, ABRAHAM/0000-0002-4191-7419;
+   Hanifi, Manzoor A./0000-0002-1483-5557; chihana,
+   menard/0000-0003-2616-9894; SIE, Ali/0000-0002-3959-2520; Alam,
+   Nurul/0000-0002-1202-4451; Juvekar, Sanjay/0000-0002-7209-6924; Wak,
+   George/0000-0001-6892-1007; Wahab, Abdul/0000-0003-3198-8851
+FU Sida; Wellcome Trust; William & Flora Hewlett Foundation; Forte; Swedish
+   Research Council for Health, Working Life and Welfare [2006-1512];
+   European Community Marie Curie Actions IPHTRE project [295168]; Wellcome
+   Trust [WT081993MA, 091758, 084538]; US Centers for Disease Control and
+   Prevention (CDC); Ethiopian Public Health Association (EPHA); EPHA-CDC
+   Cooperative Agreement [5U22/PS022179_10]; Mekelle University; KEM
+   Hospital Research Centre; KEMRI; CDC; Rockefeller Foundation (USA);
+   Wellcome Trust (UK); William and Flora Hewlett Foundation (USA); Comic
+   Relief (UK); Swedish International Development Cooperation Agency
+   (SIDA); Bill and Melinda Gates Foundation (USA); Wellcome Trust, UK
+   [058893/Z/99/A, 069683/Z/02/Z, 085477/Z/08/Z]; William and Flora Hewlett
+   Foundation; Andrew W. Mellon Foundation, USA; Medical Research Council
+   [MC_UP_A900_1123] Funding Source: researchfish; MRC [MC_UP_A900_1123]
+   Funding Source: UKRI
+FX We are grateful to all the residents of INDEPTH HDSS sites who have
+   contributed personal information to this mortality data set, and to the
+   field staff who undertook so many verbal autopsy interviews and data
+   management staff who handled the data at every participating site.
+   INDEPTH acknowledges all the site scientists who have participated in
+   bringing this work together, and who variously participated in analysis
+   workshops in Ghana, Belgium, Thailand, and the United Kingdom. The
+   INDEPTH Network is grateful for core funding from Sida, the Wellcome
+   Trust, and the William & Flora Hewlett Foundation. The Umea Centre for
+   Global Health Research is core funded by Forte, the Swedish Research
+   Council for Health, Working Life and Welfare (grant no. 2006-1512). PB's
+   residency at the University of the Witwatersrand Rural Knowledge Hub to
+   analyse and draft these results was supported by the European Community
+   Marie Curie Actions IPHTRE project (no. 295168). icddr,b is thankful to
+   the Governments of Australia, Bangladesh, Canada, Sweden and the UK for
+   providing core/unrestricted support. The Ouagadougou site acknowledges
+   the Wellcome Trust for its financial support to the Ouagadougou HDSS
+   (grant no. WT081993MA). The Kilite Awlaelo HDSS is supported by the US
+   Centers for Disease Control and Prevention (CDC) and the Ethiopian
+   Public Health Association (EPHA), in accordance with the EPHA-CDC
+   Cooperative Agreement No. 5U22/PS022179_10 and Mekelle University,
+   though these findings do not necessarily represent the funders' official
+   views. The Farafenni site is supported by the UK Medical Research
+   Council. The Vadu site acknowledges core continued funding support from
+   the KEM Hospital Research Centre since 2004. The Kilifi HDSS is
+   supported through core support to the KEMRI-Wellcome Trust Major
+   Overseas Programme from the Wellcome Trust. TNW is supported by a Senior
+   Fellowship (no. 091758) and CN through a Strategic Award (no. 084538)
+   from the Wellcome Trust. This article is published with permission from
+   the Director of KEMRI. The Kisumu site wishes to acknowledge the
+   contribution of the late Dr Kubaje Adazu to the development of the
+   KEMRI/CDC HDSS, which was implemented and continues to be supported
+   through a cooperative agreement between KEMRI and CDC. The Nairobi Urban
+   Health and Demographic Surveillance System (NUHDSS), Kenya, since its
+   inception has received support from the Rockefeller Foundation (USA),
+   the Wellcome Trust (UK), the William and Flora Hewlett Foundation (USA),
+   Comic Relief (UK), the Swedish International Development Cooperation
+   Agency (SIDA) and the Bill and Melinda Gates Foundation (USA). The
+   Agincourt site acknowledges that the School of Public Health and Faculty
+   of Health Sciences, University of the Witwatersrand, and the Medical
+   Research Council, South Africa, have provided vital support since the
+   inception of the Agincourt HDSS. Core funding has been provided by the
+   Wellcome Trust, UK (Grants 058893/Z/99/A, 069683/Z/02/Z, and
+   085477/Z/08/Z), with contributions from the National Institute on Aging
+   (NIA) of the NIH, the William and Flora Hewlett Foundation, and the
+   Andrew W. Mellon Foundation, USA.
+NR 34
+TC 24
+Z9 24
+U1 0
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+EI 1654-9880
+J9 GLOBAL HEALTH ACTION
+JI Glob. Health Action
+PY 2014
+VL 7
+AR 25366
+DI 10.3402/gha.v7.25366
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA V44FN
+UT WOS:000209735000001
+OA gold, Green Published, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Disu, TR
+   Anne, NJ
+   Griffiths, MD
+   Mamun, MA
+AF Disu, Tasnim Rahman
+   Anne, Nusrat J.
+   Griffiths, Mark D.
+   Mamun, Mohammed A.
+TI Risk factors of geriatric depression among elderly Bangladeshi people: A
+   pilot interview study
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Depression; Geriatric depression; Elderly depression; Late-life
+   depression; Depression risk factors; Bangladeshi older people
+ID LATE-LIFE DEPRESSION; PHYSICAL-ACTIVITY; OLDER-ADULTS; PREVALENCE;
+   SUICIDE; HEALTH; MOOD; ASSOCIATION; POPULATION; SYMPTOMS
+AB Globally, geriatric depression (GD) has been recognized to be one of the most prevalent problems among the elderly. However, there is an only one previous Bangladeshi study addressing the issue. Consequently, the present study investigated GD and its associated risk factors. A semi-structured face-to-face interview was conducted among 168 self-reported healthy elderly residents (59.5% female) aged 60-80 years in Patuakhali city and the neighboring village. Measures included the Geriatric Depression Scale-15, socio-demographic variables, psychosocial factors, physical health-related factors, lifestyle factors, and dietary factors. Results showed the GD prevalence rate was 36.9% (n = 62). Risk factors for GD included living in a rural area, having no history of chronic disease, having a history of previous personal and/or family depression, not engaging in daily life activities, not exercising regularly, having no hobbies, having a poor diet, and not engaging in religious practices regularly. The GD prevalence rate was generally higher compared to previous studies in other countries. This may have been due to the inclusion criterion of selecting self-reported healthy elderly individuals. It is recommended that a nationally representative study is carried out to assess the actual figure of GD in Bangladesh. The findings are helpful for depression-reducing intervention programs.
+C1 [Disu, Tasnim Rahman] Natl Inst Prevent & Social Med NIPSOM, Dept Prevent & Social Med, Dhaka, Bangladesh.
+   [Anne, Nusrat J.; Mamun, Mohammed A.] Undergrad Res Org, Gerua Rd, Dhaka 1342, Bangladesh.
+   [Griffiths, Mark D.] Nottingham Trent Univ, Psychol Dept, 50 Shakespeare St, Nottingham NG1 4FQ, England.
+   [Mamun, Mohammed A.] Jahangirnagar Univ, Dept Publ Hlth & Informat, Dhaka, Bangladesh.
+   [Anne, Nusrat J.] Independent Univ, Sch Publ Hlth, Dhaka, Bangladesh.
+C3 Nottingham Trent University; Jahangirnagar University; Independent
+   University Bangladesh (IUB)
+RP Mamun, MA (corresponding author), Undergrad Res Org, Gerua Rd, Dhaka 1342, Bangladesh.
+EM mamunphi46@gmail.com
+RI Griffiths, Mark D./AAY-3546-2021; Mamun, Mohammed/Y-2064-2019
+OI Griffiths, Mark D./0000-0001-8880-6524; Mamun,
+   Mohammed/0000-0002-1728-8966; Rahman Disu, Dr.
+   Tasnim/0000-0002-2725-3783
+NR 57
+TC 41
+Z9 43
+U1 1
+U2 17
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD AUG
+PY 2019
+VL 44
+BP 163
+EP 169
+DI 10.1016/j.ajp.2019.07.050
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA JF5YY
+UT WOS:000491465700044
+PM 31382211
+DA 2023-12-06
+ER
+
+PT J
+AU Yount, KM
+   Dijkerman, S
+   Zureick-Brown, S
+   VanderEnde, KE
+AF Yount, Kathryn M.
+   Dijkerman, Sally
+   Zureick-Brown, Sarah
+   VanderEnde, Kristin E.
+TI Women's empowerment and generalized anxiety in Minya, Egypt
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Agency; Egypt; Enabling resources; Generalized anxiety; Mental health;
+   Patriarchy; Women's empowerment
+ID INTIMATE PARTNER VIOLENCE; MENTAL-HEALTH; PSYCHIATRIC MORBIDITY;
+   DOMESTIC VIOLENCE; GENDER-DIFFERENCES; RURAL BANGLADESH;
+   SEX-DIFFERENCES; MARRIED-WOMEN; RESOURCES; WORK
+AB Gender disparities in mental health are global, with women experiencing higher rates than men of anxiety disorders, mood disorders, and attempted suicide. Women's low social status may partly explain these disparities, yet evidence from Arab and Middle Eastern settings is limited. We assessed whether women's empowerment - or acquisition of enabling resources, and in turn, enhanced agency was associated with their lower generalized anxiety. For 539 ever-married women 22-65 years who participated in the 2005 Egypt Demographic Health Survey (EDHS) and a 2012 follow-up survey in rural Minya, we estimated linear reduced-form and mediation regression models to assess the associations of women's premarital enabling resources with their generalized anxiety in 2012, overall and through measures of their marital agency in 2005. Women's higher schooling attainment, premarital economic activity, later age at first marriage, and greater proximity to natal (or birth) family had significant, adjusted associations with lower generalized anxiety. Measures of women's agency in marriage had mixed associations with generalized anxiety, but their inclusion modestly reduced the coefficients for premarital resources. Parallel qualitative findings confirmed nuanced associations between women's exclusive decision-making and their mental health. Efforts to enhance women's education and premarital economic activity might be combined with efforts to delay first marriage and ensure women's extra-marital social support to maximize their empowerment and its mental-health benefits. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Yount, Kathryn M.; Dijkerman, Sally; Zureick-Brown, Sarah; VanderEnde, Kristin E.] Emory Univ, Hubert Dept Global Hlth, Atlanta, GA 30322 USA.
+   [Yount, Kathryn M.] Emory Univ, Dept Sociol, Atlanta, GA 30322 USA.
+C3 Emory University; Emory University
+RP Yount, KM (corresponding author), Emory Univ, Hubert Dept Global Hlth, 1518 Clifton Rd NE, Atlanta, GA 30322 USA.
+EM kyount@emory.edu; sclukerman@gmail.com; sarah.zureickbrown@emory.edu;
+   kevande@emory.edu
+RI Yount, Kathryn Mary/W-2942-2019; Yount, Kathryn M/K-1239-2012
+OI Yount, Kathryn Mary/0000-0003-1917-1574; 
+FU World Bank's Gender and Economic Research and Policy Action (GERPA)
+   Program; United Nations Development Program (UNDP); Hubert Department of
+   Global Health, Rollins School of Public Health, Emory University
+FX This work was supported by research grants from the World Bank's Gender
+   and Economic Research and Policy Action (GERPA) Program and the United
+   Nations Development Program (UNDP) (PI K M Yount) as well as a the
+   Hubert Department of Global Health, Rollins School of Public Health,
+   Emory University. We thank Dr. Ray Langsten and Dr. Rania Roushdy for
+   their outstanding management of the field activities; Ms. Tahra Hassan,
+   Ms. Eman Shady, and Ms. Katherine Krause for their research assistance;
+   Mr. Ali Rashed for his assistance with data entry and management; Ms.
+   Amal Refaat, for her supervision of the fieldwork; Dr. Ragui Assaad for
+   his advice on study design; and Ms. Carol McMurtray for her assistance
+   with research administration. We wish to thank Dr. Rania Salem and
+   anonymous reviewers for their outstanding comments on earlier versions
+   of this manuscript. Finally, we express our heartfelt gratitude for the
+   time and dedication of the office and field staff in Egypt and of the
+   women who participated in this study, without whom this project would
+   not have been possible.
+NR 72
+TC 33
+Z9 33
+U1 0
+U2 21
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD APR
+PY 2014
+VL 106
+BP 185
+EP 193
+DI 10.1016/j.socscimed.2014.01.022
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA AF1OB
+UT WOS:000334482100023
+PM 24576646
+DA 2023-12-06
+ER
+
+PT J
+AU Kato, TA
+   Shinfuku, N
+   Fujisawa, D
+   Tateno, M
+   Ishida, T
+   Akiyama, T
+   Sartorius, N
+   Teo, AR
+   Choi, TY
+   Wand, APF
+   Balhara, YPS
+   Chang, JPC
+   Chang, RYF
+   Shadloo, B
+   Ahmed, HU
+   Lerthattasilp, T
+   Umene-Nakano, W
+   Horikawa, H
+   Matsumoto, R
+   Kuga, H
+   Tanaka, M
+   Kanba, S
+AF Kato, Takahiro A.
+   Shinfuku, Naotaka
+   Fujisawa, Daisuke
+   Tateno, Masaru
+   Ishida, Tetsuya
+   Akiyama, Tsuyoshi
+   Sartorius, Norman
+   Teo, Alan R.
+   Choi, Tae Young
+   Wand, Anne P. F.
+   Balhara, Yatan Pal Singh
+   Chang, Jane Pei-Chen
+   Chang, Rita Yuan-Feng
+   Shadloo, Behrang
+   Ahmed, Helal Uddin
+   Lerthattasilp, Tiraya
+   Umene-Nakano, Wakako
+   Horikawa, Hideki
+   Matsumoto, Ryohei
+   Kuga, Hironori
+   Tanaka, Masuo
+   Kanba, Shigenobu
+TI Introducing the concept of modern depression in Japan; an international
+   case vignette survey
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Depression; Vignette; Shuchaku-kishitsu; Typus melancholicus; Typus
+   dysthymicus; Dysthymia
+ID DISORDERS; CYCLOTHYMIA; DYSTHYMIA
+AB Aim: Japanese psychiatrists have increasingly reported patients with depression that does not seem to fit the criteria of the ICD-10 and the DSM-IV, and which has recently been called modern type depression (MTD). We explored whether MTD is frequently seen in Japan and also in other countries, and if so, how patients with MTD are diagnosed and treated.
+   Methods: The questionnaires, with two case vignettes (traditional type depression (TTD) and MTD), were sent to psychiatrists in Australia, Bangladesh, India, Iran, Japan, Korea, Taiwan, Thailand and the USA. Participants rated their opinions about each case's prevalence in their country, etiology, diagnosis, suicide risk, and treatment using Likert scales.
+   Results: Out of 247 responses (123 from Japan and 124 from other countries), two hundred thirty-nine valid responses were received. MTD was recognized in all participating countries, and especially in urban areas. Generally, the factor of personality was regarded as the most probable cause of MTD. Whereas about 90% of Japanese psychiatrists applied the ICD/DSM criteria to TTD, only about 60% applied the criteria to MID.
+   Conclusion: Our results indicate that Japan's MID seems to be occurring in many other countries, and that the present ICD/DSM criteria may not be sufficient to diagnose MID. Therefore, it could be an important candidate for a new international diagnostic criterion as a subtype of depression. A clear diagnostic framework and consensus on the interventions to treat MID would be valuable. Further clinical, psychopathological and international epidemiological studies are needed to confirm our preliminary findings of MID. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Kato, Takahiro A.] Kyushu Univ, Dept Neuropsychiat, Grad Sch Med Sci, Higashi Ku, Fukuoka 8128582, Japan.
+   [Kato, Takahiro A.] Kyushu Univ, Innovat Ctr Med Redox Nav, Fukuoka 8128582, Japan.
+   [Shinfuku, Naotaka] Seinan Gakuin Univ, Sch Human Sci, Fukuoka, Japan.
+   [Fujisawa, Daisuke] Natl Canc Ctr Hosp E, Psychooncol Div, Res Ctr Innovat Oncol, Kashiwa, Chiba, Japan.
+   [Tateno, Masaru] Sapporo Med Univ, Dept Neuropsychiat, Sapporo, Hokkaido, Japan.
+   [Ishida, Tetsuya] Kyushu Univ, Grad Sch Human Environm Studies, Fukuoka 8128582, Japan.
+   [Akiyama, Tsuyoshi] NTT Med Ctr Tokyo, Dept Psychiat, Tokyo, Japan.
+   [Sartorius, Norman] Assoc Improvement Mental Hlth Programmes, Geneva, Switzerland.
+   [Teo, Alan R.] Univ Calif San Francisco, Dept Psychiat, San Francisco, CA USA.
+   [Choi, Tae Young] Catholic Univ Daegu, Sch Med, Dept Psychiat, Taegu, South Korea.
+   [Wand, Anne P. F.] Univ Sydney, Canterbury Hosp, Sydney Local Hlth Network, Sydney, NSW 2006, Australia.
+   [Wand, Anne P. F.] Univ Sydney, Sydney Med Sch, Sydney, NSW 2006, Australia.
+   [Balhara, Yatan Pal Singh] All India Inst Med Sci, Dept Psychiat, New Delhi, India.
+   [Balhara, Yatan Pal Singh] All India Inst Med Sci, Natl Drug Dependence Treatment Ctr, New Delhi, India.
+   [Balhara, Yatan Pal Singh] Lady Hardinge Med Coll & Hosp, Dept Psychiat & De Addict, New Delhi, India.
+   [Balhara, Yatan Pal Singh] SSK Hosp, New Delhi, India.
+   [Chang, Jane Pei-Chen] China Med Univ & Hosp, Dept Psychiat, Taichung, Taiwan.
+   [Chang, Rita Yuan-Feng] Taichung Vet Gen Hosp, Dept Psychiat, ChiaYi Branch, Taichung, Taiwan.
+   [Shadloo, Behrang] Sina Hosp, Dept Psychiat, Kamyaran, Iran.
+   [Ahmed, Helal Uddin] Bangabandhu Sheikh Mujib Med Univ, Dept Psychiat, Dhaka, Bangladesh.
+   [Lerthattasilp, Tiraya] Thammasart Univ Hosp, Fac Med, Bangkok, Thailand.
+   [Umene-Nakano, Wakako] Univ Occupat & Environm Hlth, Dept Psychiat, Fukuoka, Japan.
+   [Matsumoto, Ryohei] Kyoto Prefectural Univ Med, Dept Psychiat, Kyoto, Japan.
+   [Kuga, Hironori] Natl Hosp Org Hizen Psychiat Ctr, Saga, Japan.
+   [Tanaka, Masuo] Zikei Hosp, Okayama, Japan.
+C3 Kyushu University; Kyushu University; National Cancer Center - Japan;
+   Sapporo Medical University; Kyushu University; Kanto Medical Center NTT
+   EC; University of California System; University of California San
+   Francisco; Catholic University of Daegu; NSW Health; Canterbury
+   Hospital; University of Sydney; University of Sydney; All India
+   Institute of Medical Sciences (AIIMS) New Delhi; All India Institute of
+   Medical Sciences (AIIMS) New Delhi; National Drug Dependence Treatment
+   Centre (NDDTC); Lady Hardinge Medical College & Hospital; Lady Hardinge
+   Medical College & Hospital; China Medical University Taiwan; China
+   Medical University Hospital - Taiwan; Taichung Veterans General
+   Hospital; Bangabandhu Sheikh Mujib Medical University (BSMMU); Thammasat
+   University; University of Occupational & Environmental Health - Japan;
+   Kyoto Prefectural University of Medicine
+RP Kato, TA (corresponding author), Kyushu Univ, Dept Neuropsychiat, Grad Sch Med Sci, Higashi Ku, 3-1-1 Maidashi, Fukuoka 8128582, Japan.
+EM takahiro@npsych.med.kyushu-u.ac.jp
+RI Fujisawa, Daisuke/AAR-5808-2021; Kato, Takahiro/R-7665-2019
+OI Kato, Takahiro/0000-0001-5169-2930; Chang, Jane
+   Pei-Chen/0000-0001-5582-0928; Shadloo, Behrang/0000-0003-1884-9371; Teo,
+   Alan/0000-0002-2393-088X
+FU World Psychiatric Association; Japan Foundation for Neuroscience and
+   Mental Health; Grants-in-Aid for Scientific Research [22791133] Funding
+   Source: KAKEN
+FX This study design was initially proposed during the NUS-JSPS joint
+   seminar "Depression and Suicide: 21st Century Neuro-Psychopharmacology
+   and Transcultural Differences in Asia" held in Singapore on December
+   2009. This survey was supported by the World Psychiatric Association
+   Research Fund and a grant from Japan Foundation for Neuroscience and
+   Mental Health (to T.A.K.).
+NR 26
+TC 30
+Z9 33
+U1 1
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD DEC
+PY 2011
+VL 135
+IS 1-3
+BP 66
+EP 76
+DI 10.1016/j.jad.2011.06.030
+PG 11
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA 859XD
+UT WOS:000297908200009
+PM 21782250
+DA 2023-12-06
+ER
+
+PT J
+AU Gelaye, KA
+   Tessema, F
+   Tariku, B
+   Abera, SF
+   Gebru, AA
+   Assefa, N
+   Zelalem, D
+   Dedefo, M
+   Kondal, M
+   Kote, M
+   Sisay, MM
+   Mekonnen, W
+   Terefe, MW
+   Biks, GA
+   Eshetu, F
+   Abera, M
+   Fekadu, Y
+   Hailu, GB
+   Tilahun, E
+   Lakew, Y
+AF Gelaye, Kassahun Alemu
+   Tessema, Fasil
+   Tariku, Befikadu
+   Abera, Semaw Ferede
+   Gebru, Alemseged Aregay
+   Assefa, Nega
+   Zelalem, Desalew
+   Dedefo, Melkamu
+   Kondal, Mekdes
+   Kote, Mesfin
+   Sisay, Mitike Molla
+   Mekonnen, Wubegzier
+   Terefe, Mamo Wubshet
+   Biks, Gashaw Andargie
+   Eshetu, Firehywot
+   Abera, Mulumebet
+   Fekadu, Yoseph
+   Hailu, Gessessew Bugssa
+   Tilahun, Etsehiwot
+   Lakew, Yihunie
+TI Injury-related gaining momentum as external causes of deaths in
+   Ethiopian health and demographic surveillance sites: evidence from
+   verbal autopsy study
+SO GLOBAL HEALTH ACTION
+LA English
+DT Article
+DE Accidents; assault; drowning; external causes; mortality; suicide;
+   transport; verbal autopsy; Ethiopia
+ID BANGLADESH; MORTALITY; AFRICA
+AB Background: In Ethiopia, though all kinds of mortality due to external causes are an important component of overall mortality often not counted or documented on an individual basis.
+   Objective: The aim of this study was to describe the patterns of mortality from external causes using verbal autopsy (VA) method at the Ethiopian HDSS Network sites.
+   Methods: All deaths at Ethiopian HDSS sites were routinely registered and followed up with VA interviews. The VA forms comprised deaths up to 28 days, between four weeks and 14 years and 15 years and above. The cause of a death was ascertained based on an interview with next of families or other caregivers using a standardized questionnaire that draws information on signs, symptoms, medical history and circumstances preceding death after 45 days mourning period. Two physician assigned probable causes of death as underlying, immediate and contributing factors independently using information in VA forms based on the WHO ICD-10 and VA code system. Disagreed cases sent to third physician for independent review and diagnosis. The final cause of death considered when two of the three physicians assigned underlying cause of death; otherwise, labeled as undetermined.
+   Results: In the period from 2009 to 2013, a total of 9719 deaths were registered. Of the total deaths, 623 (6.4%) were from external causes. Of these, accidental drowning and submersion, 136 (21.8%), accidental fall, 113 (18.1%) and transport-related accidents, 112 (18.0%) were the topmost three leading external causes of deaths. About 436 (70.0%) of deaths were from the age group above 15 years old. Drowning and submersion and transport-related accidents were high in age group between 5 and 14 years old.
+   Conclusion: In this study, external causes of death are significant public health problems and require attention as one of prior health agenda.
+C1 [Gelaye, Kassahun Alemu; Terefe, Mamo Wubshet; Biks, Gashaw Andargie] Amhara Natl Reg State, Dabat Hlth & Demog Surveillance Site, Gondar, Ethiopia.
+   [Tariku, Befikadu; Kondal, Mekdes; Kote, Mesfin] Southern Nation & Natl Reg State, Arba Minch Hlth & Demog Surveillance Site, Arba Minch, Ethiopia.
+   [Abera, Semaw Ferede; Gebru, Alemseged Aregay; Hailu, Gessessew Bugssa] Tigray Natl Reg State, Kilte Awulalo Hlth & Demog Surveillance Site, Mekelle, Ethiopia.
+   [Sisay, Mitike Molla; Mekonnen, Wubegzier; Tilahun, Etsehiwot] Southern Nation & Natl Reg State, Butajira Hlth & Demog Surveillance Site, Addis Ababa, Ethiopia.
+   [Eshetu, Firehywot] Ctr Dis Control & Prevent, Addis Ababa, Ethiopia.
+   [Fekadu, Yoseph; Lakew, Yihunie] Ethiopian Publ Hlth Assoc, Dept Data Mangment, Addis Ababa, Ethiopia.
+RP Gelaye, KA (corresponding author), Amhara Natl Reg State, Dabat Hlth & Demog Surveillance Site, Gondar, Ethiopia.
+EM kassalemu@gmail.com
+RI Gutema, Befikadu Tariku/AAD-7023-2020
+OI Gutema, Befikadu Tariku/0000-0003-0574-6074; Wordofa, Muluemebet
+   Abera/0000-0001-9232-822X; Assefa, Nega/0000-0003-0341-2329
+FU President's Emergency Plan for AIDS Relief (PEPFAR) through US Centers
+   for Disease Control and Prevention (CDC); EPHA-CDC [GH001039-01]
+FX This research has been supported by the President's Emergency Plan for
+   AIDS Relief (PEPFAR) through US Centers for Disease Control and
+   Prevention (CDC), in accordance with the EPHA-CDC Cooperative
+   AgreementGH001039-01.
+NR 16
+TC 10
+Z9 11
+U1 0
+U2 3
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1654-9880
+J9 GLOBAL HEALTH ACTION
+JI Glob. Health Action
+PD FEB 23
+PY 2018
+VL 11
+IS 1
+AR 1430669
+DI 10.1080/16549716.2018.1430669
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FZ7PM
+UT WOS:000427793400001
+PM 29471744
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Puri, M
+   Tamang, J
+   Shah, I
+AF Puri, Mahesh
+   Tamang, Jyotsna
+   Shah, Iqbal
+TI Suffering in silence: consequences of sexual violence within marriage
+   among young women in Nepal
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID INTIMATE PARTNER VIOLENCE; BANGLADESH; ABUSE; INDIA; RISK; HIV
+AB Background: Despite the grave consequences of sexual violence, and it's persistence both within and outside marriages, this subject has received relatively little attention from researchers, policy makers, and programme managers in Nepal. This paper explores the definition of sexual violence and its various forms and consequences as reported by young married women in Nepal. In addition, it describes the coping mechanisms used by young married women to avoid sexual violence perpetrated against them by their husbands.
+   Methods: This paper analyzes data collected during the qualitative study on "Sexual violence among young couples in Nepal", conducted amongst two major ethnic groups - Brahmin/Chhetri and Tharu - between 2006 and 2007. The data is comprised of 39 free-lists and 15 in-depth case histories with married women aged 15-24 years. The average rank and Smith's Salience were calculated from the free-listing data. The thematic analysis approach was used for the analysis of information from the case histories.
+   Results: Approximately three-quarters (74%) of the young women mentioned 'sex against one's wishes' as sexual violence within marriage (SVWM). Sixty-two percent of respondents described 'forced sex during illness' and 'forced sex after consumption of alcohol' as SVWM. About half of young women (48.7%) who participated in the free-listing exercise reported having experienced SVWM. The types of SVWM ranged from unwanted sexual touch to forced sex. Backache, headache, lower abdominal pain, vaginal bleeding and thoughts of suicide were the most commonly reported negative physical and psychological health consequences of SVWM. Women reported various coping strategies including 'trying to convince husbands', 'sleeping in a separate room', 'visiting maternal home', 'waking up the children', and 'using pretexts such as being ill or menstruating', to avoid SVWM. However, in most cases, women reported that these coping strategies were unsuccessful. Almost all women experiencing SVWM were socially isolated and did not turn to institutions, relatives or friends for advice and support.
+   Conclusions: Sexual violence within marriage is common in Nepal. Findings provide circumstantial evidence of links between sexual violence and negative general and reproductive health outcomes for women. Various actions are required to prevent SVWM and provide immediate support to the victims.
+C1 [Puri, Mahesh; Tamang, Jyotsna] CREHPA, Kathmandu, Nepal.
+   [Shah, Iqbal] WHO, Dept Reprod Hlth & Res, CH-1211 Geneva 27, Switzerland.
+C3 World Health Organization
+RP Puri, M (corresponding author), CREHPA, Kathmandu, Nepal.
+EM mahesh@crehpa.org.np
+FU Department of Reproductive Health and Research, World Health
+   Organization (WHO), Geneva
+FX The authors are grateful to the Department of Reproductive Health and
+   Research, World Health Organization (WHO), Geneva for providing
+   financial and technical support to this study. We would to extend our
+   heartfelt thanks to Nepal Health Research Council and WHO research
+   ethics review committees for the review and ethical approval to carry
+   out the study in Nepal. Finally, we pay special thanks to Ms. Catherine
+   Packer and Ms. Laura Seckel, John Hopkins University, USA for editing
+   the revised version of this article.
+NR 31
+TC 55
+Z9 61
+U1 1
+U2 18
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JAN 12
+PY 2011
+VL 11
+AR 29
+DI 10.1186/1471-2458-11-29
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 710NN
+UT WOS:000286518600001
+PM 21223603
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

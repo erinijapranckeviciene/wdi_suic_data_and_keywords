@@ -1,0 +1,1912 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tomasson, H
+   Helgason, T
+   Zoëga, T
+AF Tomasson, H
+   Helgason, T
+   Zoëga, T
+TI Suicide and antidepressant sales -: Reply
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Letter
+ID ICELAND
+C1 Univ Iceland, Fac Econ & Business Adm, IS-101 Reykjavik, Iceland.
+   Natl Univ Hosp Reykjavik, Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital
+RP Tomasson, H (corresponding author), 4 Midleiti, IS-103 Reykjavik, Iceland.
+EM tomashe@isholf.is
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD MAY
+PY 2005
+VL 186
+BP 446
+EP 446
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 923LK
+UT WOS:000228911200021
+DA 2023-12-05
+ER
+
+PT J
+AU Sverrisson, K
+   Pálsson, S
+   Sigvaldason, K
+   Kárason, S
+AF Sverrisson, K.
+   Palsson, S.
+   Sigvaldason, K.
+   Karason, S.
+TI Suicide attempts (SA) admitted to a general Intensive Care Unit at
+   Landspitali University Hospital in Iceland in the years 2000-2004.:
+   Demographic factors, treatment and outcome
+SO ACTA ANAESTHESIOLOGICA SCANDINAVICA
+LA English
+DT Meeting Abstract
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 0001-5172
+J9 ACTA ANAESTH SCAND
+JI Acta Anaesthesiol. Scand.
+PY 2007
+VL 51
+SU 118
+BP 11
+EP 11
+PG 1
+WC Anesthesiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Anesthesiology
+GA 206QR
+UT WOS:000249198500032
+DA 2023-12-05
+ER
+
+PT J
+AU Pridmore, S
+   Ahmadi, J
+   Majeed, ZA
+AF Pridmore, Saxby
+   Ahmadi, Jamshid
+   Majeed, Zainab Abd
+TI Suicide in Old Norse and Finnish folk stories
+SO AUSTRALASIAN PSYCHIATRY
+LA English
+DT Article
+DE culture; folklore; suicide
+AB Objective: The aim of this study was to examine the folk stories of Norway, Iceland and Finland with a view to discovering accounts of suicide as an escape option from intolerable predicaments, and to compare any such accounts with material from Southern Europe.
+   Method: The Poetic Edda (Norway/Iceland) and The Kalevala (Finland) were examined for accounts of suicide, and evidence regarding the influence of these texts and individual accounts was collected.
+   Results: The Poetic Edda provided one account and The Kalevala three accounts of suicide performed as a means of escaping intolerable situations. Both the Poetic Edda and The Kalevala are in public awareness and have influenced the politics and culture of their respective regions. The individual suicides have been depicted in literature, music and the visual arts, from the distant past to the present time.
+   Conclusion: Suicide as a means of escape from intolerable predicaments has been public knowledge in these regions for a millennium. This is consistent with findings from Southern Europe and substantiates that intolerable predicaments may lead to suicide.
+C1 [Pridmore, Saxby] Univ Tasmania, GPO, Hobart, Tas 7001, Australia.
+   [Ahmadi, Jamshid] Shiraz Univ Med Sci, Shiraz, Iran.
+   [Majeed, Zainab Abd] Int Med Univ, Seremban, Malaysia.
+C3 University of Tasmania; Shiraz University of Medical Science;
+   International Medical University Malaysia
+RP Pridmore, S (corresponding author), Univ Tasmania, GPO, Private Bag 27, Hobart, Tas 7001, Australia.
+EM S.Pridmore@utas.edu.au
+RI Ahmadi, Jamshid/P-1381-2017
+OI Ahmadi, Jamshid/0000-0002-7060-469X; Pridmore, Saxby/0000-0002-9170-1798
+NR 11
+TC 5
+Z9 5
+U1 0
+U2 5
+PU INFORMA HEALTHCARE
+PI NEW YORK
+PA 52 VANDERBILT AVE, NEW YORK, NY 10017 USA
+SN 1039-8562
+J9 AUSTRALAS PSYCHIATRY
+JI Australas. Psychiatry
+PD AUG
+PY 2011
+VL 19
+IS 4
+BP 321
+EP 324
+DI 10.3109/10398562.2011.603331
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 815AB
+UT WOS:000294497400007
+PM 21879867
+DA 2023-12-05
+ER
+
+PT J
+AU Oskarsson, H
+   Tómasson, K
+   Pálsson, SP
+   Tómasson, H
+AF Oskarsson, Hogni
+   Tomasson, Kristinn
+   Palsson, Sigurdur Pall
+   Tomasson, Helgi
+TI Economic crises and incidence of suicide in Iceland 1911-2017
+SO LAEKNABLADID
+LA Icelandic
+DT Article
+DE Economic crisis; Iceland; Suicide; century; quasi-Poisson model; time
+   series
+ID GREAT RECESSION; MORTALITY; UNEMPLOYMENT; TRENDS; INCOME; RATES; USA
+AB Introduction: Suicides are number 16 as a cause of death worldwide. Causes are not always known, often associated with depression or trauma. Suicide incidence has decreased world-wide in the past three decades. The economic crisis of 2008 led to an increase in many countries. Many confounding factors make comparisons between countries difficult. This study assesses the possible impact of economic crises in Iceland on suicide incidence.
+   Material and Methods: The work is based on suicide data from 1911 to 2017 and six economic crises from 1918 to 2008. The incidence is calculated five and ten years before and after the index year of each crisis. Possible crisis impact was assessed by applying a quasi-Poisson model to the data. Variance can be greater than model shows, so overdispersion was assessed. The evolution over time is assessed by inspection of cumulative sum of squared residuals (CUSUMSQ).
+   Results: Suicide incidence increased from 1930, beginning to decline around 1990. Given a small population size there are wide upwards incidence fluctuations, within and outside the crisis periods. The crises of 1931 and 1948 showed an increase, wheras in the others there is no change or a decrease. The sizes of deviations from expected value are, for the whole period, in compliance with the quasi-poisson model for counts.
+   Conclusion: There is no statistical correlation between the six economic crises and suicide incidence in the Icelandic data. The study is based on population incidence and does not preclude a negative impact of economic crises on individuals.
+C1 [Oskarsson, Hogni] Humus Inc, Austin, TX 78704 USA.
+   [Tomasson, Kristinn] Laekning Inc, Shanghai, Peoples R China.
+   [Palsson, Sigurdur Pall] Landspitati Univ Hosp, Forens Psychiat & Secur Unit, Reykjavik, Iceland.
+   [Tomasson, Helgi] Univ Iceland, Fac Econ, Reykjavik, Iceland.
+C3 University of Iceland
+RP Oskarsson, H (corresponding author), Humus Inc, Austin, TX 78704 USA.
+EM hogni@humus.is
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 2
+PU LAEKNAFELAG ISLANDS-ICELANDIC MEDICAL ASSOC
+PI KOPAVOGUR
+PA HLIDASMARI 8, KOPAVOGUR, 200, ICELAND
+SN 0023-7213
+EI 1670-4959
+J9 LAEKNABLADID
+JI Laeknabladid
+PY 2019
+VL 105
+IS 11
+BP 483
+EP 488
+DI 10.17992/lbl.2019.11.255
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA JJ2JA
+UT WOS:000493986700001
+PM 31663511
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Kanerva, K
+AF Kanerva, Kirsi
+TI FEMALE SUICIDE IN THIRTEENTH-CENTURY ICELAND: THE CASE OF BRYNHILDR IN
+   <i>VOLSUNGA SAGA</i>
+SO VIATOR-MEDIEVAL AND RENAISSANCE STUDIES
+LA English
+DT Article
+DE history of suicide; gender; medieval history; medieval Iceland; Old
+   Norse-Icelandic saga literature; legend of Brynhildr
+AB The article examines thirteenth-century Icelandic conceptions of female suicide and ideas about their causes and motives by conducting a case study of a saga figure called Brynhildr, who commits suicide. The story of Brynhildr is told in several medieval Icelandic sources: in the mytho-heroic legendary saga (fbrnaldarsaga)Volsunga saga, Snort Sturluson's Prose Edda and the Poetic Edda. The story of Brynhildr in these sources offers fruitful material for the study of the history of suicide, since the northern version in question differs from the southern version of the Brynhildr legend that was known especially in medieval Germany, in which Brynhildr does not kill herself. In this study, the causes and background factors of B thildr's suicide and her motives for her deed, which are described and mentioned in the sources, represent possibilities for female behavior that were part of the mental toolbox of medieval Icelanders. It is argued that the Icelandic audience believed some women committed suicide to protect or restore their honor, or to take revenge, and that such an act required determination. capability to make rational choices, and sense of responsibility. The act could also be seen as a manifestation of power and authority: the woman decided herself when her life would end. However, Brynhildr's death represents only one possible type of female suicide, and not all were expected to be the same. Committing such a preconceived self-killing as Brynhildr's required an especially strong will. Most women, who were usually maintained by men, were thought not to possess such might and strength.
+C1 [Kanerva, Kirsi] Univ Turku, Sch Hist Culture & Arts Studies, Turku, Finland.
+C3 University of Turku
+RP Kanerva, K (corresponding author), Univ Turku, Sch Hist Culture & Arts Studies, Turku, Finland.
+EM kirsi.kanerva@gmail.com
+OI Kanerva, Kirsi/0000-0003-2926-9751
+NR 115
+TC 2
+Z9 2
+U1 1
+U2 4
+PU BREPOLS PUBL
+PI TURNHOUT
+PA BEGIJNHOF 67, B-2300 TURNHOUT, BELGIUM
+SN 0083-5897
+EI 2031-0234
+J9 VIATOR-MEDIEV REN
+JI Viat.-Mediev. Stud.
+PY 2018
+VL 49
+IS 3
+BP 129
+EP 154
+DI 10.1484/J.VIATOR.5.119576
+PG 26
+WC Medieval & Renaissance Studies
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics
+GA VJ2XX
+UT WOS:000572179000005
+DA 2023-12-05
+ER
+
+PT J
+AU Helgason, T
+   Tómasson, H
+   Zoëga, T
+AF Helgason, T
+   Tómasson, H
+   Zoëga, T
+TI Antidepressants and public health in Iceland -: Time series analysis of
+   national data
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID PRIMARY-CARE; SUICIDE-PREVENTION; DEPRESSION
+AB Background Major depressive disorder is the second leading cause of disability-adjusted life-years in developed regions of the world and antidepressants are the third-ranking therapy class worldwide.
+   Aims To test the public health impact of the escalating sales of antidepressants.
+   Method Nationwide data from Iceland are used as an example to study the effect of sales of antidepressants on suicide, disability, hospital admissions and outpatient visits.
+   Results Sales of antidepressants increased from 8.4 daily defined doses per 1000 inhabitants per day in 1975 to 72.7 in 2000, which is a user prevalence of 8.7% for the adult population. Suicide rates fluctuated during 1950-2000 but did not show any definite trend. Rates for outpatient visits increased slightly over the period 1989-2000 and admission rates increased even more. The prevalence of disability due to depressive and anxiety disorders has not decreased over the past 25 years.
+   Conclusions The dramatic increase in the sales of antidepressants has not had any marked impact on the selected public health measures. Obviously, better treatment for depressive disorders is still needed in order to reduce the burden caused by them.
+   Declaration of interest None.
+C1 Univ Iceland, Fac Med, Reykjavik, Iceland.
+   Univ Iceland, Fac Econ & Business Adm, Reykjavik, Iceland.
+C3 University of Iceland; University of Iceland
+RP Helgason, T (corresponding author), 4 Midleiti, IS-103 Reykjavik, Iceland.
+EM tomashe@isholf.is
+NR 26
+TC 95
+Z9 101
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD FEB
+PY 2004
+VL 184
+BP 157
+EP 162
+DI 10.1192/bjp.184.2.157
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 771DY
+UT WOS:000188771400011
+PM 14754829
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Asgeirsdóttir, HG
+   Asgeirsdóttir, TL
+   Nyberg, U
+   Thorsteinsdottir, TK
+   Mogensen, B
+   Matthíasson, P
+   Lund, SH
+   Valdimarsdóttir, UA
+   Hauksdóttir, A
+AF Asgeirsdottir, Hildur G.
+   Asgeirsdottir, Tinna L.
+   Nyberg, Ullakarin
+   Thorsteinsdottir, Thordis K.
+   Mogensen, Brynjolfur
+   Matthiasson, Pall
+   Lund, Sigrun H.
+   Valdimarsdottir, Unnur A.
+   Hauksdottir, Arna
+TI Suicide attempts and self-harm during a dramatic national economic
+   transition: a population-based study in Iceland
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+ID FOLLOW-UP; RECESSION; HEALTH; UNEMPLOYMENT; EUROPE; CRISIS; MORTALITY;
+   RATES; AUSTERITY; COUNTRIES
+AB Background: Macroeconomic downturns have been associated with increased suicide rates. This study examined potential changes in suicide attempts and self-harm in Iceland during a period of major economic transition (2003-12). Methods: Data were retrieved from the National University Hospital in Reykjavik (population size: 204.725), containing all ICD-10 diagnoses connected to potential suicidal behaviour. Poisson regression models were used to compare attendance rates before and after the 2008 economic collapse. Results: During the study period, a total of 4537 attendances of 2816 individuals were recorded due to suicide attempts or self-harm. We noted a significant change in total attendance rates among men, characterized by an annual increase in attendance rate pre-collapse of 1.83 per 100.000 inhabitants and a decrease of 3.06 per 100.000 inhabitants post-collapse (P= 0.0067). Such pattern was not observed among women. When restricting to first attendances only, we found a reduced incidence post-crisis among both men (RR: 0.85; 0.76-0.96) and women (RR: 0.86; 0.79-0.92). We further found 1% increase in unemployment rate and balance of trade to be associated with reduced attendance rates among men (RR: 0.84; 0.76-0.93 and RR: 0.81; 0.75-0.88, respectively) but not among women. Conclusion: These data suggest no overall increase in attendance rates due to suicide attempts or selfharm following the 2008 Icelandic economic collapse. In fact, a high-point in self-harm and suicide attempts was observed among men at the height of the economic boom and a decrease in new attendances among both men and women after the economic collapse.
+C1 [Asgeirsdottir, Hildur G.; Lund, Sigrun H.; Valdimarsdottir, Unnur A.; Hauksdottir, Arna] Univ Iceland, Ctr Publ Hlth Sci, Fac Med, Reykjavik, Iceland.
+   [Asgeirsdottir, Tinna L.] Univ Iceland, Fac Econ, Reykjavik, Iceland.
+   [Nyberg, Ullakarin] Karolinska Inst, Stockholm Ctr Psychiat Res & Educ, Dept Clin Neurosci, Stockholm, Sweden.
+   [Thorsteinsdottir, Thordis K.; Mogensen, Brynjolfur] Natl Univ Hosp Iceland, Res Inst Emergency Care, Reykjavik, Iceland.
+   [Thorsteinsdottir, Thordis K.] Univ Iceland, Fac Nursing, Reykjavik, Iceland.
+   [Mogensen, Brynjolfur; Matthiasson, Pall] Univ Iceland, Fac Med, Reykjavik, Iceland.
+   [Matthiasson, Pall] Natl Univ Hosp Iceland, Reykjavik, Iceland.
+   [Valdimarsdottir, Unnur A.] Karolinska Inst, Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+   [Valdimarsdottir, Unnur A.] Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+C3 University of Iceland; University of Iceland; Karolinska Institutet;
+   Landspitali National University Hospital; University of Iceland;
+   University of Iceland; Landspitali National University Hospital;
+   Karolinska Institutet; Harvard University; Harvard T.H. Chan School of
+   Public Health
+RP Asgeirsdóttir, HG (corresponding author), Univ Iceland, Ctr Publ Hlth Sci, Fac Med, Reykjavik, Iceland.
+EM hga@hi.is
+RI Thorsteinsdottir, Thordis K/L-9936-2015; Ásgeirsdóttir, Tinna
+   Laufey/ISA-3677-2023; Lund, Sigrun Helga/K-9144-2015; Lund, Sigrún
+   Helga/AAG-6042-2019
+OI Thorsteinsdottir, Thordis K/0000-0002-3585-006X; Lund, Sigrun
+   Helga/0000-0002-3806-2296; Lund, Sigrún Helga/0000-0002-3806-2296;
+   Mogensen, Brynjolfur/0000-0002-7583-0661; Hauksdottir,
+   Arna/0000-0002-4253-1059; Valdimarsdottir, Unnur/0000-0001-5382-946X
+FU Rannis Icelandic Research fund [130611-051]; University of Iceland;
+   Landspitali University Hospital Science fund
+FX This work was supported by Rannis Icelandic Research fund (130611-051),
+   the University of Iceland Research fund and Assistant Fund, and the
+   Landspitali University Hospital Science fund. The role of the funding
+   was to employ the PhD student (corresponding author) to implement the
+   research.
+NR 40
+TC 9
+Z9 9
+U1 0
+U2 11
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD APR
+PY 2017
+VL 27
+IS 2
+BP 339
+EP 345
+DI 10.1093/eurpub/ckw137
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EQ4YB
+UT WOS:000398086400028
+PM 27587564
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Titelman, D
+   Oskarsson, H
+   Wahlbeck, K
+   Nordentoft, M
+   Mehlum, L
+   Jiang, GX
+   Erlangsen, A
+   Nrugham, L
+   Wasserman, D
+AF Titelman, David
+   Oskarsson, Hogni
+   Wahlbeck, Kristian
+   Nordentoft, Merete
+   Mehlum, Lars
+   Jiang, Guo-Xin
+   Erlangsen, Annette
+   Nrugham, Latha
+   Wasserman, Danuta
+TI Suicide mortality trends in the Nordic countries 1980-2009
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Nordic countries; Social factors; Suicide; Suicide in the young; Young
+   women
+ID EUROPEAN-ALLIANCE; RISK
+AB Background and aim: The Nordic countries provide a suitable setting for comparing trends in suicide mortality. The aim of this report is to compare suicide trends by age, gender, region and methods in Denmark, Finland, Iceland, Norway and Sweden 1980-2009. Methods: Suicide statistics 1980-2009 were analyzed for men and women aged 15 years and above and the age group 15-24 years. Regional suicide rates in 2009 were presented in maps. Results: The suicide rates across the Nordic countries declined from 25-50 per 100,000 in 1980 to 20-36 in 2009 for men and from 9-26 in 1980 to 8-11 in 2009 for women. The rates in Finland were consistently higher than those of the other countries. A significant increase of suicides in young women in Finland and Norway and a lack of a decline among young women in Sweden were noted. The male-female ratio of suicide converged to approximately 3:1 across the region during the study period. Rural areas in Finland, Norway and Sweden saw the highest suicide rates, whereas the rates in the capital regions of Denmark, Norway and Sweden were lower than the respective national rates. Conclusions: We hold that the overall decline of suicide rates in the Nordic countries reflects the socio-economic development and stability of the region, including the well-functioning healthcare. The increasing rates in Finland and Norway and the unchanged rate in Sweden of suicide in young women are an alarming trend break that calls for continued monitoring.
+C1 [Titelman, David; Jiang, Guo-Xin; Wasserman, Danuta] Karolinska Inst, Natl Ctr Suicide Res & Prevent Mental Hlth NASP 3, S-17177 Stockholm, Sweden.
+   [Oskarsson, Hogni] Iceland Alliance Depress, Reykjavik, Iceland.
+   [Wahlbeck, Kristian] Natl Inst Hlth & Welf, Mental Hlth Serv, Helsinki, Finland.
+   [Nordentoft, Merete; Erlangsen, Annette] Mental Hlth Ctr, Capital Region Of Denmar, Denmark.
+   [Mehlum, Lars; Nrugham, Latha] Univ Oslo, Fac Med, Inst Clin Med, Natl Ctr Suicide Res & Prevent, Oslo, Norway.
+C3 Karolinska Institutet; Finland National Institute for Health & Welfare;
+   University of Oslo
+RP Titelman, D (corresponding author), Karolinska Inst, NASP, S-17177 Stockholm, Sweden.
+EM david.titelman@ki.se
+RI Nordentoft, Merete/AAH-3253-2019; Erlangsen, Annette/ABE-1547-2021;
+   Nrugham, Latha/E-4351-2012; Mehlum, Lars/AAV-9241-2021; Wahlbeck,
+   Kristian/F-8394-2011; Erlangsen, Annette/A-7153-2017
+OI Erlangsen, Annette/0000-0003-3475-0558; Wahlbeck,
+   Kristian/0000-0003-3754-3933; Erlangsen, Annette/0000-0003-3475-0558;
+   Nordentoft, Merete/0000-0003-4895-7023; Titelman,
+   David/0000-0001-9001-0883
+FU NordForsk
+FX This study was initiated in discussions of the Nordic Consortium for
+   Suicide Prevention, in which all of the collaborating centers and
+   university departments are active. During 2010-2012, the consortium
+   meetings were coordinated with the activities of a Nordic research
+   network focusing on the theme "Mental health and evidence: linking
+   research to practice ". The network was conjointly led by Danuta
+   Wasserman, NASP, and Lars Freden, the Nordic School for Public Health in
+   Gothenburg, and supported by a grant from NordForsk.
+NR 31
+TC 50
+Z9 50
+U1 0
+U2 25
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0803-9488
+EI 1502-4725
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PD DEC
+PY 2013
+VL 67
+IS 6
+BP 414
+EP 423
+DI 10.3109/08039488.2012.752036
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 255OE
+UT WOS:000327248900007
+PM 23293897
+DA 2023-12-05
+ER
+
+PT J
+AU Kristinsson, J
+   Palsson, R
+   Gudjonsdottir, GA
+   Blondal, M
+   Gudmundsson, S
+   Snook, CP
+AF Kristinsson, Jakob
+   Palsson, Runolfur
+   Gudjonsdottir, Gudborg A.
+   Blondal, Margret
+   Gudmundsson, Sigurdur
+   Snook, Curtis P.
+TI Acute poisonings in Iceland: A prospective nationwide study
+SO CLINICAL TOXICOLOGY
+LA English
+DT Article
+DE toxic exposures; acute poisoning; children; adults; drugs; chemicals
+ID EMERGENCY-DEPARTMENTS; PSYCHIATRIC ASPECTS; ACUTE OVERDOSE; SELF;
+   EPIDEMIOLOGY; SUICIDE; TRONDHEIM; IRELAND; ENGLAND; NORWAY
+AB Introduction. Poisoning is a common cause of emergency visits and hospital admission in Western countries. The purpose of this study was to assess the incidence and type of toxic exposures presenting to emergency medical facilities in Iceland. Materials and methods. The study was prospective and included all patients with confirmed or suspected poisoning presenting to hospitals and rural medical centers providing emergency services in Iceland during the twelve-month period from April 2001 until March 2002. Results. A total of 1,121 toxic exposures were documented representing an incidence of 3.91 cases per 1,000 inhabitants per year. The female to male ratio was 1.23. The majority of exposures (56.7%) occurred in the patient's home, 60% were deliberate, 72% had drugs and/or alcohol as their main cause, and 11% involved illicit drugs. Exposures to chemicals other than drugs were usually unintentional. Conclusion. Toxic exposures requiring emergency medical care are common in Iceland. Self-poisonings by ingestion of prescription drugs and/or alcohol accounted for the majority of cases.
+C1 [Snook, Curtis P.] Univ Cincinnati, Med Ctr, Dept Emergency Med, Div Toxicol, Cincinnati, OH 45267 USA.
+   [Kristinsson, Jakob] Univ Iceland, Inst Pharm Pharmacol & Toxicol, Reykjavik, Iceland.
+   [Kristinsson, Jakob; Gudjonsdottir, Gudborg A.] Iceland Poison Informat Ctr, Reykjavik, Iceland.
+   [Palsson, Runolfur] Landspistalli Univ Hosp, Div Nephrol, Reykjavik, Iceland.
+   [Palsson, Runolfur] Landspistalli Univ Hosp, Dept Med, Reykjavik, Iceland.
+   [Palsson, Runolfur] Univ Iceland, Reykjavik, Iceland.
+   [Blondal, Margret] Landspistalli Univ Hosp, Dept Emergency Med, Reykjavik, Iceland.
+   [Gudmundsson, Sigurdur] Directorate Hlth, Reykjavik, Iceland.
+   [Snook, Curtis P.] Univ Cincinnati, Med Ctr, Dept Emergency Med, Div Toxicol, Cincinnati, OH 45267 USA.
+C3 University System of Ohio; University of Cincinnati; University of
+   Iceland; University of Iceland; University System of Ohio; University of
+   Cincinnati
+RP Snook, CP (corresponding author), Univ Cincinnati, Med Ctr, Dept Emergency Med, Div Toxicol, 234 Goodman St,ML 769, Cincinnati, OH 45267 USA.
+EM snookfamily@msn.com
+NR 34
+TC 38
+Z9 39
+U1 0
+U2 3
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD FEB
+PY 2008
+VL 46
+IS 2
+BP 126
+EP 132
+DI 10.1080/15563650701438268
+PG 7
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 274TA
+UT WOS:000254022800007
+PM 18259960
+DA 2023-12-05
+ER
+
+PT J
+AU Tüzün, B
+   Polat, O
+   Vatansever, S
+   Elmas, I
+AF Tüzün, B
+   Polat, O
+   Vatansever, S
+   Elmas, I
+TI Questioning the psycho-socio-cultural factors that contribute to the
+   cases of suicide attempts:: an investigation
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article; Proceedings Paper
+CT 4th International Symposium on Advances in Legal Medicine (ISALMIV)
+CY SEP 22-25, 1999
+CL ACAD SCI & LITERATURE, MAINZ, GERMANY
+HO ACAD SCI & LITERATURE
+DE suicide attempt; psycho-socio-cultural factors
+ID RISK-FACTORS; UNEMPLOYMENT; ADOLESCENT; BEHAVIOR; ADULTS
+AB Suicide attempts can be described to include all actions tal;en by an individual to end their life as a result of acute desperation. In parallel with the changes in the make-up of human societies both globally and in this country in recent years, suicide attempts ale receiving attention in ever increasing proportions. The current study is aimed at investigating the psycho-socio-cultural factors that contribute to the known cases of suicide attempts. The study included 116 cases admitted to the Emergency Internal Medicine and Surgery Units of the University of Istanbul, Faculty of Medicine Hospital between 1 December 1998 and 31 May 1999. In only 47 cases, a 30-point questionnaire was used in several face-to-face interviews with the patients following the preparation of a clinical case study. In establishing the socio-demographic, socio-cultural and socio-economic attributes of each individual case, a range of contributing effective factors is questioned. Including the specific reasons for each suicide attempt, thc emotional state of the individual prior to the suicide attempt, the type of suicide action chosen and reasons for this selection, immediate family structure, personal psychiatric antecedent, substance abuse. The results of out investigations are compared with the existing literature in a multi-faceted discussion. (C) 2000 Elsevier Science Iceland Ltd. All rights reserved.
+C1 Istanbul Univ, Istanbul Fac Med, Dept Forens Med, TR-34390 Capa, Turkey.
+   Marmara Univ, Fac Med, Dept Forens Med, TR-34390 Capa, Turkey.
+   Istanbul Univ, Istanbul Fac Med, Emergency Internal Med Unit, TR-34390 Capa, Turkey.
+C3 Istanbul University; Marmara University; Istanbul University
+RP Istanbul Univ, Istanbul Fac Med, Dept Forens Med, TR-34390 Capa, Turkey.
+EM birgl@yahoo.com
+RI elmas, imdat/AAD-6054-2020
+NR 29
+TC 13
+Z9 13
+U1 0
+U2 7
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+EI 1872-6283
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD SEP 11
+PY 2000
+VL 113
+IS 1-3
+SI SI
+BP 297
+EP 301
+DI 10.1016/S0379-0738(00)00237-1
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Legal Medicine
+GA 358AJ
+UT WOS:000089534800050
+PM 10978640
+DA 2023-12-05
+ER
+
+PT J
+AU Rafnsson, V
+   Olafsson, E
+   Hauser, WA
+   Gudmundsson, G
+AF Rafnsson, V
+   Olafsson, E
+   Hauser, WA
+   Gudmundsson, G
+TI Cause-specific mortality in adults with unprovoked seizures - A
+   population-based incidence cohort study
+SO NEUROEPIDEMIOLOGY
+LA English
+DT Article
+DE epilepsy; seizures; mortality; suicide; Iceland
+ID EPILEPSY
+AB Purpose: To determine the cause-specific mortality relative to that expected in a population-based incidence cohort of people with unprovoked seizures. Methods: The cohort comprises 224 inhabitants of Iceland first diagnosed as suffering from unprovoked seizures during a 5-year period from 1960 to 1964. The expected number of deaths was calculated by multiplying person-years of observation within 5-year age categories for each year from diagnosis through 1995 by cause-specific and sex-specific national death rates for those aged 20 years and above. The standardized mortality ratio (SMR) and 95% confidence intervals (95% CI) were calculated. Results: All-cause mortality was increased among men (SMR 2.25, 95% Cl 1.56-3.14) but not women (SMR 0.79, 95% CI 0.38-1.46). Among men, there were 8 deaths from accidents, poisoning and violence observed versus 2.82 expected (SMR 2.84, 95% CI 1.22-5.59) and 4 deaths from suicide versus 0.69 expected (SMR 5.80, 95% CI 1.56-14.84). All-cause mortality for men was still elevated after restriction of analysis to those with seizures of unknown etiology (SMR 1.73, 95% CI 1.05-2.67) with the excess deaths attributable to suicide (SMR 5.26, 95% CI 1.06-15.38). Both males and females with remote symptomatic unprovoked seizures had an increase in all-cause mortality due to excess mortality from all cancers, cerebrovascular disease and accidents. Conclusion: When compared with the age-, time-period- and gender-specific mortality in the general population, there is excess mortality in men but not women. The increased mortality for men is partly attributable to excess mortality from accidents and suicides. Copyright (C) 2001 S. Karger AG, Basel.
+C1 Univ Iceland, Dept Prevent Med, IS-105 Reykjavik, Iceland.
+   Natl Univ Hosp Reykjavik, Dept Neurol, Reykjavik, Iceland.
+   Columbia Univ, Coll Phys & Surg, Dept Neurol, New York, NY USA.
+   Columbia Univ, Coll Phys & Surg, Sch Publ Hlth, New York, NY USA.
+C3 University of Iceland; Landspitali National University Hospital;
+   Columbia University; Columbia University
+RP Rafnsson, V (corresponding author), Univ Iceland, Dept Prevent Med, IS-105 Reykjavik, Iceland.
+RI Hauser, W Allen/AAB-5277-2020; Olafsson, Elias/R-8517-2019
+FU NINDS NIH HHS [R01 NS32663] Funding Source: Medline
+NR 17
+TC 88
+Z9 92
+U1 0
+U2 3
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0251-5350
+J9 NEUROEPIDEMIOLOGY
+JI Neuroepidemiology
+PD OCT
+PY 2001
+VL 20
+IS 4
+BP 232
+EP 236
+DI 10.1159/000054795
+PG 5
+WC Public, Environmental & Occupational Health; Clinical Neurology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Neurosciences & Neurology
+GA 491UN
+UT WOS:000172128600003
+PM 11684898
+DA 2023-12-05
+ER
+
+PT J
+AU Bernburg, JG
+   Thorlindsson, T
+   Sigfusdottir, ID
+AF Bernburg, Jon Gunnar
+   Thorlindsson, Thorolfur
+   Sigfusdottir, Inga D.
+TI The spreading of suicidal behavior: The contextual effect of community
+   household poverty on adolescent suicidal behavior and the mediating role
+   of suicide suggestion
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Adolescent suicidal behavior; Suicide suggestion; Community; Contextual
+   effects; Poverty; Iceland; Adolescents
+ID RISK-FACTORS; PSYCHOLOGICAL DISTRESS; SOCIOECONOMIC-STATUS; MULTILEVEL
+   ANALYSIS; DELINQUENCY; MORTALITY; LEVEL; DURKHEIM; HEALTH; INCOME
+AB Despite the longstanding interest of social researchers in the social factors that influence suicide and suicidal behavior, multilevel research on this topic has been limited. Using nested survey data on 5331 Icelandic adolescents (born in 1990 and 1991) in 83 school-communities, the current study examines the contextual effect of community household poverty on adolescent suicidal behavior (suicide ideation and suicide attempt). The findings show that the concentration of household poverty in the school-community has a significant, contextual effect on adolescent suicidal behavior. Furthermore, we test an "epidemic" explanation for this effect, examining the mediating role of suicide suggestion (contact with suicidal others). We find that suicide suggestion mediates a substantial part of the contextual effect of community household poverty on suicide attempt, while mediation is modest in the case of suicide ideation. The findings indicate that community household poverty increases the risk of adolescent suicidal behavior in part because communities in which household poverty is common entail a higher risk for adolescents of associating with suicidal others. The study demonstrates how the concentration of individual problems can have macrolevel implications, creating social mechanisms that cannot be reduced to the circumstances or characteristics of individuals. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Bernburg, Jon Gunnar] Univ Iceland, Fac Social Sci, IS-101 Reykjavik, Iceland.
+C3 University of Iceland
+RP Bernburg, JG (corresponding author), Univ Iceland, Fac Social Sci, IS-101 Reykjavik, Iceland.
+EM bernburg@hi.is; thorotho@hi.is; ingadora@ru.is
+RI Thorlindsson, Thorolfur/Q-5547-2019; Bernburg, Jón Gunnar/M-2600-2015
+OI Bernburg, Jón Gunnar/0000-0001-7534-7613; Thorlindsson,
+   Thorolfur/0000-0001-5178-5360
+NR 64
+TC 42
+Z9 50
+U1 1
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JAN
+PY 2009
+VL 68
+IS 2
+BP 380
+EP 389
+DI 10.1016/j.socscimed.2008.10.020
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 405EG
+UT WOS:000263204900022
+PM 19019522
+DA 2023-12-05
+ER
+
+PT J
+AU Arnarsson, A
+   Sveinbjornsdottir, S
+   Thorsteinsson, EB
+   Bjarnason, T
+AF Arnarsson, Arsaell
+   Sveinbjornsdottir, Sigrun
+   Thorsteinsson, Einar B.
+   Bjarnason, Thoroddur
+TI Suicidal risk and sexual orientation in adolescence: A population-based
+   study in Iceland
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Adolescent; sexuality; homosexuality; suicide; LGB
+ID YOUTH; BEHAVIORS; HEALTH; GAY; ASSOCIATIONS; PREVALENCE; SAMPLE
+AB Aim: Suicidality is an important public health problem, particularly among lesbian, gay, and bisexual (LGB) adolescents and young adults. The purpose of the present study is to compare the rate of suicide ideations and attempts among LGB adolescent to that of non-LGB adolescents in a population-based sample, and to identify important protective factors as well as risk factors Method: We used the Icelandic data set from the 2009/2010 Health Behaviour in School-aged Children (HBSC) study. The sample consisted of 3813 grade 10 Icelandic adolescents; 1876 girls and 1937 boys. The participants were asked about attraction and/or activity, as well as about suicidal ideation and/or attempts. The questionnaire also included various other items regarding health and lifestyle. Results: LGB adolescents were five to six times more likely to have had frequent suicidal ideations. Factors that were associated with less suicide ideations and fewer attempts were easy communication and liking school. The LGB girls were six times more likely to have had frequent suicide attempts, whilst the LGB boys were 17 times more likely to have attempted suicide that often. No specific protective or risk factors were identified for suicidality in LGB adolescents other than bullying. Conclusions: Adolescents that had engaged in heterosexual activity and those that had LGB attraction had similarly heightened risk for suicidality, but sexually active LGB adolescents were far more likely to have suicidal ideations or to have attempted suicide.
+C1 [Arnarsson, Arsaell; Sveinbjornsdottir, Sigrun] Univ Akureyri, Dept Psychol, IS-600 Akureyri, Iceland.
+   [Thorsteinsson, Einar B.] Univ New England, Sch Behav Cognit & Social Sci, Armidale, NSW, Australia.
+   [Bjarnason, Thoroddur] Univ Akureyri, Dept Sociol, IS-600 Akureyri, Iceland.
+C3 University of Akureyri; University of New England; University of
+   Akureyri
+RP Arnarsson, A (corresponding author), Univ Akureyri, IS-600 Akureyri, Iceland.
+EM aarnarsson@unak.is
+RI Bjarnason, Thoroddur/A-9603-2008; Thorsteinsson, Einar B./B-3182-2009
+OI Bjarnason, Thoroddur/0000-0002-1400-231X; Thorsteinsson, Einar
+   B./0000-0003-2065-1989
+FU Icelandic Directorate of Health, KEA; University of Akureyri
+FX The study is supported by grants from the Icelandic Directorate of
+   Health, KEA and the University of Akureyri.
+NR 29
+TC 21
+Z9 25
+U1 0
+U2 41
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUL
+PY 2015
+VL 43
+IS 5
+BP 497
+EP 505
+DI 10.1177/1403494815585402
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CM3KQ
+UT WOS:000357581300008
+PM 25964125
+DA 2023-12-05
+ER
+
+PT J
+AU Sverrisson, KO
+   Pálsson, SP
+   Sigvaldason, K
+   Kárason, S
+AF Sverrisson, Kristinn Orn
+   Palsson, Sigurdur Pall
+   Sigvaldason, Kristinn
+   Karason, Sigurbergur
+TI Clinical aspects and follow up of suicide attempts treated in a general
+   Intensive Care Unit at Landspitali University Hospital in Iceland
+   2000-2004
+SO LAEKNABLADID
+LA Icelandic
+DT Article
+DE Suicide attempt; suicide; drug poisoning; intensive care; mental health
+   care
+ID RISK; NATIONWIDE; OVERDOSE
+AB Objective: To gather information on patients admitted to an intensive care unit (ICU) after a serious suicide attempt (SA). Methods: Retrospective analysis and follow up of admittances to ICUs of Landspitali University Hospital after SA years 2000-2004.
+   Results: Admittances because of SA were 251 (4% of ICU admissions, 61% females, 39% males, mean age 36 yr +/- 14). Ten percent were admitted more than once and 61% had prior history of SA. Drug intoxication was the most prevalent type of SA (91%) and the most frequent complication was pneumonia. Following ICU stay 36% of the patients were admitted to psychiatric wards and 80% received psychiatric follow up. The main psychiatric diagnosis was addiction (43%). Majority of patients were divorced or single and the rate of unemployment was high. Mortality during ICU stay was 3%. During 3-7 year follow up 21 patients died (10%), majority due to suicide. In a survival analysis only the number of tablets taken, APACHE II score and number of somatic diseases predicted risk of death.
+   Conclusion: The patient group is young (36 yr), majority are women (61%), repeated attempts are frequent, social circumstances are poor and death rate after discharge from hospital is high (10%) even though the vast majority (80%) receives psychiatric follow up. This raises the question if the offered treatment is effective enough.
+C1 [Sverrisson, Kristinn Orn] Haskolasjukrahusinu Lundi, Svipjod, Israel.
+EM skarason@landspitali.is
+NR 31
+TC 4
+Z9 4
+U1 0
+U2 4
+PU LAEKNAFELAG ISLANDS-ICELANDIC MEDICAL ASSOC
+PI KOPAVOGUR
+PA HLIDASMARI 8, KOPAVOGUR, 200, ICELAND
+SN 0023-7213
+J9 LAEKNABLADID
+JI Laeknabladid
+PD FEB
+PY 2010
+VL 96
+IS 2
+BP 101
+EP 107
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 555MB
+UT WOS:000274513800005
+PM 20118504
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Gunnarsdottir, OS
+   Rafnsson, V
+AF Gunnarsdottir, OS
+   Rafnsson, V
+TI Mortality of the users of a hospital emergency department
+SO EMERGENCY MEDICINE JOURNAL
+LA English
+DT Article
+ID FREQUENT USERS; FOLLOW-UP; CARE; ACCIDENT; URBAN; ATTENDANCES; ATTENDERS
+AB Objective: To ascertain the annual number of users who were discharged home after visits to the emergency department (ED), grouped by age, sex, and number of visits during the calendar year, and to assess whether a higher number of visits to the department predicted a higher mortality.
+   Methods: This was a retrospective cohort study, with follow up of cause specific mortality through a national registry, in the Reykjavik area of Iceland. In total, 19 259 patients who visited the ED during the period 1995-2001 and who were discharged home at the Landspitali University Hospital, Reykjavik, Iceland, were enrolled. The main outcome measures were the standardised mortality ratio, with expected number based on national mortality rates, and hazard ratio calculations using time dependent multivariate regression analysis.
+   Results: The annual increase in visits to the ED among the patients discharged home was 7-14% per age group during the period 1995 - 2001, with the highest increase among older men. When emergency department users were compared with the general population, the standardised mortality ratio was 1.81 for men and 1.93 for women. Among those attending the ED two, three, or more times in a calendar year, the mortality rate was higher than among those coming only once in a year. The causes of death that led to the highest mortality among frequent users of the ED were neoplasm, ischaemic heart diseases, and external causes, particularly drug intoxication, suicides, and probable suicides.
+   Conclusions: The mortality of those who had used the ED and been discharged home was found to be higher than that of the general population. Frequent users of the ED had a higher mortality than those visiting the department no more than once a year. As the ED serves general medicine and surgery patients, not injuries, the high mortality due to drug intoxication, suicide, and probable suicide is interesting. Further studies are needed into the diagnosis at discharge of those frequently using the ED, in an attempt to understand and possibly prevent this marked mortality rate.
+C1 Univ Iceland, Dept Prevent Med, IS-107 Reykjavik, Iceland.
+   Landspitali Univ Hosp, Div Med Educ & Sci, Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital
+RP Rafnsson, V (corresponding author), Univ Iceland, Dept Prevent Med, Neshagi 16, IS-107 Reykjavik, Iceland.
+EM vilraf@hi.is
+NR 24
+TC 34
+Z9 38
+U1 0
+U2 2
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1472-0205
+EI 1472-0213
+J9 EMERG MED J
+JI Emerg. Med. J.
+PD APR
+PY 2006
+VL 23
+IS 4
+BP 269
+EP 273
+DI 10.1136/emj.2005.026690
+PG 5
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Emergency Medicine
+GA 023RS
+UT WOS:000236144500009
+PM 16549571
+OA Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Gisladottir, B
+   Gronfeldt, B
+   Kristjansson, AL
+   Sigfusdottir, ID
+AF Gisladottir, Berglind
+   Gronfeldt, Bjarki
+   Kristjansson, Alfgeir Logi
+   Sigfusdottir, Inga Dora
+TI Psychological Well-Being of Sexual Minority Young Adults in Iceland:
+   Assessing Differences by Sexual Attraction and Gender
+SO SEX ROLES
+LA English
+DT Article
+DE Gender; Bisexuality; Sexual minority; Young adults; Mental well-being;
+   Depressed mood; Anger; Perceived stress
+ID MENTAL-HEALTH; BISEXUAL MEN; SAME-SEX; DEPRESSIVE SYMPTOMS; PEER
+   VICTIMIZATION; ANGER EXPRESSION; SUICIDE ATTEMPTS; PHYSICAL ABUSE;
+   UNITED-STATES; ADOLESCENTS
+AB The literature on sexual minority adolescents and young adults has highlighted a poor mental status among those groups compared to their heterosexual peers. Sexual minorities are also more likely to experience stress factors such as bullying and physical violence. However, sexual minority young adults have not been studied much in Iceland, a Nordic country renowned for a high degree of sexual equality. Given what the literature has shown to date, a noteworthy question is whether patterns of mental well-being of sexual minority adolescents and young adults in Iceland are comparable to other countries. The aim of the present study was to provide an assessment of mental well-being in sexual minority young adults in Iceland. We used population data to examine a selection of mental well-being indicators in 16-20 year-olds, both-sex-attracted and same-sex-attracted participants, and compared them to other-sex-attracted peers. Findings indicated that sexual minority young adults exhibited significantly greater levels of depressed mood, anger, and perceived stress than other-sex-attracted young adults. However, when stratified by gender and sexual attraction pattern, the analyses revealed that both-sex-attracted young women scored significantly higher on all indicators than any other group. We conclude that studies in this area should strive to distinguish between same-sex and both-sex attraction as well as to stratify analyses by gender. The well-being of both-sex-attracted young women is a compelling topic for future research.
+C1 [Gisladottir, Berglind] Univ Iceland, Sch Educ, Dept Teacher Educ, Reykjavik, Iceland.
+   [Gisladottir, Berglind; Gronfeldt, Bjarki; Sigfusdottir, Inga Dora] Reykjavik Univ, Sch Business, Dept Psychol, Reykjavik, Iceland.
+   [Kristjansson, Alfgeir Logi] West Virginia Univ, Sch Publ Hlth, Dept Social & Behav Sci, Morgantown, WV USA.
+   [Sigfusdottir, Inga Dora] Columbia Univ, Teachers Coll, Dept Hlth & Behav Studies, New York, NY 10027 USA.
+C3 University of Iceland; Reykjavik University; West Virginia University;
+   Columbia University Teachers College; Columbia University
+RP Gisladottir, B (corresponding author), Univ Iceland, Sch Educ, Dept Teacher Educ, Reykjavik, Iceland.; Gisladottir, B (corresponding author), Reykjavik Univ, Sch Business, Dept Psychol, Reykjavik, Iceland.
+EM berglindg@hi.is
+OI Gisladottir, Berglind/0000-0002-1787-3006; Gronfeldt,
+   Bjarki/0000-0001-9941-7903
+NR 55
+TC 5
+Z9 5
+U1 2
+U2 19
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0360-0025
+EI 1573-2762
+J9 SEX ROLES
+JI Sex Roles
+PD JUN
+PY 2018
+VL 78
+IS 11-12
+BP 822
+EP 832
+DI 10.1007/s11199-017-0847-7
+PG 11
+WC Psychology, Developmental; Psychology, Social; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Psychology; Women's Studies
+GA GF9WP
+UT WOS:000432330100009
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Zoëga, H
+   Baldursson, G
+   Hrafnkelsson, B
+   Almarsdóttir, AB
+   Valdimarsdóttir, U
+   Halldórsson, M
+AF Zoega, Helga
+   Baldursson, Gisli
+   Hrafnkelsson, Birgir
+   Almarsdottir, Anna Birna
+   Valdimarsdottir, Unnur
+   Halldorsson, Matthias
+TI Psychotropic Drug Use among Icelandic Children: A Nationwide
+   Population-Based Study
+SO JOURNAL OF CHILD AND ADOLESCENT PSYCHOPHARMACOLOGY
+LA English
+DT Article
+ID SEROTONIN REUPTAKE INHIBITORS; ANTIDEPRESSANT USE; MEDICATION USE;
+   PRACTICE PATTERNS; ADOLESCENTS; SUICIDE; TRENDS; SAFETY; DEPRESSION;
+   PREVALENCE
+AB Objective: The aim of this study was to investigate psychotropic drug use among children in Iceland between 2003 and 2007.
+   Methods: A nationwide population-based drug use study covering the total pediatric population (ages 0-17)in Iceland. Information was obtained from the National Medicines Registry to calculate prevalence of use by year and psychotropic drug group; incidence by year, psychotropic drug group, child's age and sex, and medical specialty of prescriber; the most commonly used psychotropic chemical substances, off-label and unlicensed use and concomitant psychotropic drug use.
+   Results: The overall prevalence of psychotropic drug use was 48.7 per 1000 Icelandic children in 2007. Stimulants and antidepressants increased in prevalence from 2003 to 2007 and were the two most prevalent psychotropic drug groups, respectively, 28.4 and 23.4 per 1000 children in 2007. A statistically significant trend of declining prevalence (p = 0.00013) and incidence (p = 0.0018) of antidepressant use occurred during the study period. Out of 21,986 psychotropic drugs dispensed in 2007, 25.4% were used off-label.
+   Conclusions: With reference to reports from other European countries, the results indicate extensive psychotropic drug use among children in Iceland between 2003 and 2007. Further scrutiny is needed to assess the rationale behind this widespread use.
+C1 [Zoega, Helga] Univ Iceland, Ctr Publ, Ctr Publ Hlth Sci, Sch Hlth Sci, IS-101 Reykjavik, Iceland.
+   [Baldursson, Gisli] Landspitali Univ Hosp, Dept Child & Adolescent Psychiat, Reykjavik, Iceland.
+   [Zoega, Helga; Halldorsson, Matthias] Directorate Hlth Iceland, Seltjarnarnes, Iceland.
+   [Zoega, Helga; Almarsdottir, Anna Birna] Univ Iceland, Res Ctr Pharmaceut Outcomes & Policy, IS-101 Reykjavik, Iceland.
+   [Hrafnkelsson, Birgir] Univ Iceland, Inst Sci, IS-101 Reykjavik, Iceland.
+   [Zoega, Helga; Almarsdottir, Anna Birna] Univ Iceland, Sch Hlth Sci, Fac Pharmaceut Sci, IS-101 Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital;
+   University of Iceland; University of Iceland; University of Iceland
+RP Zoëga, H (corresponding author), Univ Iceland, Ctr Publ, Ctr Publ Hlth Sci, Sch Hlth Sci, IS-101 Reykjavik, Iceland.
+EM hez2@hi.is
+RI Almarsdottir, Anna Birna/R-5299-2017; Zoega, Helga/M-1968-2015
+OI Almarsdottir, Anna Birna/0000-0002-5354-2976; Valdimarsdottir,
+   Unnur/0000-0001-5382-946X; Zoega, Helga/0000-0003-0761-9028
+FU Icelandic Centre for Research (RANNIS); University of Iceland Doctoral
+   Student Fund
+FX This study received funding from the Icelandic Centre for Research
+   (RANNIS) and the University of Iceland Doctoral Student Fund. All
+   authors declare independence from these public sources of funding.
+NR 48
+TC 58
+Z9 59
+U1 0
+U2 7
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+SN 1044-5463
+EI 1557-8992
+J9 J CHILD ADOL PSYCHOP
+JI J. Child Adolesc. Psychopharmacol.
+PD DEC
+PY 2009
+VL 19
+IS 6
+BP 757
+EP 764
+DI 10.1089/cap.2009.0003
+PG 8
+WC Pediatrics; Pharmacology & Pharmacy; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Pharmacology & Pharmacy; Psychiatry
+GA 536OL
+UT WOS:000273053600017
+PM 20035594
+DA 2023-12-05
+ER
+
+PT J
+AU Gunnarsdottir, OS
+   Rafnsson, V
+AF Gunnarsdottir, Oddny S.
+   Rafnsson, Vilhjalmur
+TI NON-CAUSATIVE DISCHARGE DIAGNOSIS FROM THE EMERGENCY DEPARTMENT AND RISK
+   OF SUICIDE
+SO JOURNAL OF EMERGENCY MEDICINE
+LA English
+DT Article
+DE discharge diagnosis; cause-specific death; record linkage; violent
+   death; suicide
+ID SELF-HARM; FOLLOW-UP; MORTALITY; POPULATION; USERS; PREVALENCE;
+   ACCIDENT; CONTACTS; COHORT
+AB Approximately 20% of Emergency Department (ED) users discharged home receive a non-causative discharge diagnosis in the category of "Symptoms, signs, abnormal findings, and ill-defined causes," according to the International Classification of Diseases. The objective of this study was to evaluate the association of these non-causative discharge diagnoses with mortality in general and with violent death and suicide in particular. This is a prospective study; the primary source of data was computer records from the ED at Landspitali University Hospital, Hringbraut, Reykjavik, Iceland over the period 1995-2001. The main discharge diagnoses were recorded according to the International Classification of Diseases. Individuals with a non-causative discharge diagnosis were followed-up for cause-specific mortality through national registries by record linkage and were compared to national mortality rates and the rates of those with causative physical diagnoses. The standardized mortality ratios, hazard ratios, and 95% confidence intervals (CI) were calculated. The data on individuals with a non-causative discharge diagnosis from the ED revealed that the standardized mortality ratio for all causes was 1.57 (95% CI 1.39-1.77) among men and 1.83 (95% CI 1.61-2.08) among women. The hazard ratio for violent death was 1.64 (95% CI 1.07-2.52) and for suicide 2.08 (95% CI 1.02-4.24), adjusted for age and gender, among individuals with a non-causative discharge diagnosis compared to those having causative physical discharge diagnoses. Through analysis of the discharge diagnoses "Symptoms, signs, abnormal findings and ill-defined causes," this study has identified an association between the group of patients discharged from the ED with a non-causative diagnosis who are at high risk of suicide and who may, through further studies, become subjects for suicide prevention strategies. (C) 2010 Elsevier Inc.
+C1 [Rafnsson, Vilhjalmur] Univ Iceland, Dept Prevent Med, IS-107 Reykjavik, Iceland.
+   [Gunnarsdottir, Oddny S.] Landspitali Univ Hosp, Off Educ Res & Dev, Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital
+RP Rafnsson, V (corresponding author), Univ Iceland, Dept Prevent Med, Neshagi 16, IS-107 Reykjavik, Iceland.
+FU Landspitali University Hospital Research Fund; Icelandic Nurses'
+   Association Science Fund
+FX This study was supported by a grant from the Landspitali University
+   Hospital Research Fund and the Icelandic Nurses' Association Science
+   Fund.
+NR 27
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0736-4679
+EI 1090-1280
+J9 J EMERG MED
+JI J. Emerg. Med.
+PD APR
+PY 2010
+VL 38
+IS 3
+BP 286
+EP 292
+DI 10.1016/j.jemermed.2007.09.061
+PG 7
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Emergency Medicine
+GA 581ZI
+UT WOS:000276564200002
+PM 18657928
+DA 2023-12-05
+ER
+
+PT J
+AU Sigfusdottir, ID
+   Asgeirsdottir, BB
+   Gudjonsson, GH
+   Sigurdsson, JF
+AF Sigfusdottir, Inga Dora
+   Asgeirsdottir, Bryndis Bjork
+   Gudjonsson, Gisli H.
+   Sigurdsson, Jon Fridrik
+TI Suicidal ideations and attempts among adolescents subjected to childhood
+   sexual abuse and family conflict/violence: The mediating role of anger
+   and depressed mood
+SO JOURNAL OF ADOLESCENCE
+LA English
+DT Article
+DE Suicidal ideations; Suicide attempts; Anger; Depressed mood; Family
+   conflict; Violence; Sexual abuse
+ID GENERAL STRAIN THEORY; EMOTIONAL-REACTIONS; RISK-FACTORS; BEHAVIOR;
+   PREVALENCE; ASSOCIATIONS; ADVERSITIES; ADJUSTMENT; CONFLICT; NEGLECT
+AB Based on a sample of 9085 16- to 19-year-old students attending all high schools in Iceland in 2004, the current study examines depressed mood and anger as potential mediators between family conflict/violence and sexual abuse, on the one hand, and suicidal ideations and suicide attempts on the other. Agnew's general strain theory provides the theoretical framework for the study. Structural equation modelling (SEM) was conducted allowing explicit modelling of both direct and mediating effects using observed and latent variables. The findings showed that both depressed mood and anger mediated the relationship between family conflict/violence and sexual abuse and suicidal attempts. However, when testing the mediating pathways between sexual abuse and family conflict/violence and suicidal ideations, only depressed mood but not anger turned out to be a significant mediator. The authors discuss how these finding may inform and facilitate the design and development of interventions to reduce the likelihood of suicide attempts among young people. (C) 2013 The Foundation for Professionals in Services for Adolescents. Published by Elsevier Ltd. All rights reserved.
+C1 [Sigfusdottir, Inga Dora; Asgeirsdottir, Bryndis Bjork; Gudjonsson, Gisli H.; Sigurdsson, Jon Fridrik] Reykjavik Univ, Dept Psychol, IS-101 Reykjavik, Iceland.
+   [Sigfusdottir, Inga Dora] Columbia Univ, Teachers Coll, New York, NY 10027 USA.
+   [Gudjonsson, Gisli H.] Kings Coll London, Inst Psychiat, London SE5 8AF, England.
+   [Sigurdsson, Jon Fridrik] Univ Iceland, Fac Med, Landspitali, IS-101 Reykjavik, Iceland.
+C3 Reykjavik University; Columbia University Teachers College; Columbia
+   University; University of London; King's College London; University of
+   Iceland
+RP Sigfusdottir, ID (corresponding author), Reykjavik Univ, Dept Psychol, Menntavegi 1, IS-101 Reykjavik, Iceland.
+EM ingadora@ru.is
+RI Sigurdsson, Jon Fridrik/M-1844-2015
+OI Sigurdsson, Jon Fridrik/0000-0001-6873-8157
+NR 60
+TC 41
+Z9 44
+U1 3
+U2 65
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0140-1971
+EI 1095-9254
+J9 J ADOLESCENCE
+JI J. Adolesc.
+PD DEC
+PY 2013
+VL 36
+IS 6
+BP 1227
+EP 1236
+DI 10.1016/j.adolescence.2013.10.001
+PG 10
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 275XX
+UT WOS:000328713800023
+PM 24215969
+DA 2023-12-05
+ER
+
+PT J
+AU Tatano, C
+AF Tatano, Cheryl
+TI State of the science on postpartum depression - What nurse researchers
+   have contributed - Part 1
+SO MCN-THE AMERICAN JOURNAL OF MATERNAL-CHILD NURSING
+LA English
+DT Article
+DE postpartum depression; postnatal depression; postpartum mood disorders
+ID KONG CHINESE WOMEN; SOCIAL SUPPORT; POSTNATAL DEPRESSION; TAIWANESE
+   WOMEN; IDENTIFYING WOMEN; PREDICTORS; SYMPTOMS; METAANALYSIS;
+   EXPERIENCES; FATIGUE
+AB Postpartum depression has been described as a thief that steals motherhood. It can result in tragedy and sometimes in headline-gripping maternal suicide or infanticide. Because one of the highest priorities for nursing is to continually advance the knowledge the underlies nursing practice, it is essential that we understand what nurse researchers have done to advance the knowledge base of postpartum depression. This integrative review is a two-part series for MCN that summarizes 141 postpartum depression studies conducted by nurse researchers from around the globe, including United States, Australia, Canada, China (Hong Kong, Taiwan), Finland, Iceland Sweden, Turkey, and Malaysia. Specific areas of postpartum depression to which nurse researchers have devoted their primary attention include epidemiology, risk factors, transcultural perspectives, instrument development, screening, interventions and mother-infant interactions.
+C1 Univ Connecticut, Sch Nursing, Storrs, CT 06269 USA.
+C3 University of Connecticut
+RP Tatano, C (corresponding author), Univ Connecticut, Sch Nursing, Storrs, CT 06269 USA.
+EM Cberyl.beck@uconn.edu
+NR 59
+TC 12
+Z9 23
+U1 1
+U2 14
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0361-929X
+EI 1539-0683
+J9 MCN-AM J MATERN-CHIL
+JI MCN-Am. J. Matern.-Child Nurs.
+PD MAR-APR
+PY 2008
+VL 33
+IS 2
+BP 121
+EP 126
+PG 6
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA 275EU
+UT WOS:000254055500010
+PM 18327112
+DA 2023-12-05
+ER
+
+PT J
+AU Gunnarsdottir, AS
+   Kristbjornsdottir, A
+   Gudmundsdottir, R
+   Gunnarsdottir, OS
+   Rafnsson, V
+AF Gunnarsdottir, Anna Steinunn
+   Kristbjornsdottir, Adalbjorg
+   Gudmundsdottir, Ragnhildur
+   Gunnarsdottir, Oddny Sigurborg
+   Rafnsson, Vilhjalmur
+TI Survival of patients with alcohol use disorders discharged from an
+   emergency department: a population-based cohort study
+SO BMJ OPEN
+LA English
+DT Article
+ID EXCESS MORTALITY; METAANALYSIS; SUICIDE; VISITS; RISK; CONSUMPTION;
+   PREDICTORS; DEPENDENCE; DISEASE; ABUSE
+AB Objectives: The aim was to study the cause-specific mortality of users of the emergency department (ED) who received a diagnosis of alcohol use disorder (AUD) in comparison with mortality of other users of the department.
+   Design: A population-based prospective cohort study.
+   Participants: All patients aged 18 years and above who were subsequently discharged home from the ED during the years 2002-2008. A total of 107 237 patients were followed by record linkage to a nationwide cause-of-death registry: 1210 patients with AUD as the main discharge diagnosis and 106 027 patients in the comparison group. HR and 95% CIs were calculated.
+   Setting: ED at Landspitali-the National University Hospital of Iceland, Reykjavik, Iceland. The hospital offers tertiary care and is the number one trauma centre and community hospital for the greater Reykjavik area. According to the population registry, 78% of the inhabitants of the area attended the ED during the study period.
+   Results: 72 patients died in the AUD group and 4807 in the comparison group. The adjusted HR for all causes of death was 1.91 (95% CI 1.51 to 2.42). The HR for AUDs was 47.68 (95% CI 11.56 to 196.59) while for alcohol liver disease the HR was 19.06 (95% CI 6.07 to 59.87). The HR was also elevated for diseases of the circulatory system: HR 2.52 (95% CI 1.73 to 3.68); accidental poisoning: HR=13.64, (95% CI 3.98 to 46.73); suicide: HR=2.72 (95% CI 1.08 to 6.83); and event of undetermined intent: HR=10.89 (95% CI 4.53 to 26.16).
+   Conclusions: AUD as the discharge diagnosis at the ED, among patients who were not admitted to a hospital ward but discharged home, predicts increased mortality. As the results conclusively show the vulnerability of these patients, one can question whether their needs are adequately met at the ED.
+C1 [Gunnarsdottir, Anna Steinunn; Kristbjornsdottir, Adalbjorg; Gudmundsdottir, Ragnhildur] Univ Iceland, Ctr Publ Hlth Sci, Fac Med, Reykjavik, Iceland.
+   [Gunnarsdottir, Oddny Sigurborg] Landspitali, Reykjavik, Iceland.
+   [Rafnsson, Vilhjalmur] Univ Iceland, Dept Prevent Med, Fac Med, Reykjavik, Iceland.
+C3 University of Iceland; University of Iceland
+RP Rafnsson, V (corresponding author), Univ Iceland, Dept Prevent Med, Fac Med, Reykjavik, Iceland.
+EM vilraf@hi.is
+FU Landspitali-the National University Hospital Research Fund; Icelandic
+   Nurse's Association Research Fund [311055-2249]; University of Iceland
+   Research Fund [1238-123368]
+FX This study was supported by grants from Landspitali-the National
+   University Hospital Research Fund and the Icelandic Nurse's Association
+   Research Fund, grant number 311055-2249; and the University of Iceland
+   Research Fund, grant number 1238-123368.
+NR 29
+TC 8
+Z9 8
+U1 1
+U2 5
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PY 2014
+VL 4
+IS 12
+AR e006327
+DI 10.1136/bmjopen-2014-006327
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA AU7EF
+UT WOS:000345762900011
+PM 25479796
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Guojónsdóttir, GA
+   Thórdardóttir, AM
+   Kristinsson, J
+AF Gudjonsdottir, Gudborg Audur
+   Thordardottir, Anna Maria
+   Kristinsson, Jakob
+TI A prospective study on acute poisonings presenting to the Emergency
+   Department at Landspitali University Hospital in Iceland 2012
+SO LAEKNABLADID
+LA Icelandic
+DT Article
+DE toxicology; acute poisoning; epidemiology; self-poisoning
+ID NORDIC COUNTRIES; FOLLOW-UP; EPIDEMIOLOGY; SUICIDE; OVERDOSE; IRELAND;
+   ENGLAND
+AB Introduction: The purpose of the study was to assess the incidence and type of toxic exposures presenting to the Emergency Department (ED) at Landspitali University Hospital in Iceland over one year and compare the results to another study performed eleven years before.
+   Methods: The study was prospective and included all visits due to acute poisoning to the ED between January 1, and December 31, 2012.
+   Results: A total of 977 toxic exposures were documented. Females were 554 (57%) and males 423 (43%). The age range was from 2 months to 96 years old. More than half of the patients were under 30 years old. The majority of exposures occurred in private homes and ingestion was the most common route of exposure. Deliberate poisonings accounted for 66% of all the poisonings and 76% had drugs and/or alcohol as their main cause. Exposures to chemicals other than drugs were usually unintentional and 31% of them were occupational exposures. 80% of patients received treatment and were discharged from the ED, 20% were admitted to other departments, thereof 21% to ICU. Two patients died (0.2%).
+   Conclusion: A slight but statistically unsignificant increase in incidence was observed. Females outnumbered males. Self-poisonings by ingestion of drugs and/or alcohol accounted for the majority of cases. The age range was wide, but the incidence was higher with young people. Mortality was low.
+C1 [Gudjonsdottir, Gudborg Audur; Kristinsson, Jakob] Univ Iceland, Reykjavik, Iceland.
+   [Thordardottir, Anna Maria] Landspitali Univ Hosp, Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital
+RP Guojónsdóttir, GA (corresponding author), Univ Iceland, Reykjavik, Iceland.
+EM gudborgg@gmail.com
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 5
+PU LAEKNAFELAG ISLANDS-ICELANDIC MEDICAL ASSOC
+PI KOPAVOGUR
+PA HLIDASMARI 8, KOPAVOGUR, 200, ICELAND
+SN 0023-7213
+EI 1670-4959
+J9 LAEKNABLADID
+JI Laeknabladid
+PD JUN
+PY 2017
+VL 103
+IS 6
+BP 275
+EP 280
+DI 10.17992/lbl.2017.06.140
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA EW9PW
+UT WOS:000402852700003
+PM 28665287
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Valdimarsdóttir, UA
+   Lu, DH
+   Lund, SH
+   Fall, K
+   Fang, F
+   Kristjánsson, T
+   Gudbjartsson, D
+   Helgason, A
+   Stefánsson, K
+AF Valdimarsdottir, Unnur A.
+   Lu, Donghao
+   Lund, Sigrun H.
+   Fall, Katja
+   Fang, Fang
+   Kristjansson, Thordur
+   Gudbjartsson, Daniel
+   Helgason, Agnar
+   Stefansson, Kari
+TI The mother's risk of premature death after child loss across two
+   centuries
+SO ELIFE
+LA English
+DT Article
+ID POSTTRAUMATIC-STRESS-DISORDER; CANCER INCIDENCE; PARENTS; NATIONWIDE;
+   MORTALITY; BEREAVEMENT; SUICIDE; POPULATION; ILLNESS
+AB While the rare occurrence of child loss is accompanied by reduced life expectancy of parents in contemporary affluent populations, its impact in developing societies with high child mortality rates is unclear. We identified all parents in Iceland born 1800-1996 and compared the mortality rates of 47,711 parents who lost a child to those of their siblings (N = 126,342) who did not. The proportion of parents who experienced child loss decreased from 61.1% of those born 1800-1880 to 5.2% of those born after 1930. Child loss was consistently associated with increased rate of maternal, but not paternal, death before the age of 50 across all parent birth cohorts; the relative increase in maternal mortality rate ranged from 35% among mothers born 1800-1930 to 64% among mothers born after 1930. The loss of a child poses a threat to the survival of young mothers, even during periods of high infant mortality rates.
+C1 [Valdimarsdottir, Unnur A.; Lu, Donghao] Univ Iceland, Fac Med, Ctr Publ Hlth Sci, Reykjavik, Iceland.
+   [Valdimarsdottir, Unnur A.; Lu, Donghao] Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+   [Valdimarsdottir, Unnur A.; Lu, Donghao; Fall, Katja; Fang, Fang] Karolinska Inst, Dept Med Epidemiol & Biostat, Solna, Sweden.
+   [Lu, Donghao] Harvard Med Sch, Brigham & Womens Hosp, Channing Div Network Med, Boston, MA 02115 USA.
+   [Lund, Sigrun H.; Kristjansson, Thordur; Gudbjartsson, Daniel; Helgason, Agnar; Stefansson, Kari] deCODE Genet, Reykjavik, Iceland.
+   [Fall, Katja] Orebro Univ, Sch Med Sci, Clin Epidemiol & Biostat, Orebro, Sweden.
+   [Gudbjartsson, Daniel] Univ Iceland, Sch Engn & Nat Sci, Reykjavik, Iceland.
+   [Helgason, Agnar] Univ Iceland, Dept Anthropol, Reykjavik, Iceland.
+   [Stefansson, Kari] Univ Iceland, Sch Hlth Sci, Fac Med, Reykjavik, Iceland.
+C3 University of Iceland; Harvard University; Harvard T.H. Chan School of
+   Public Health; Karolinska Institutet; Harvard University; Harvard
+   Medical School; Brigham & Women's Hospital; Orebro University;
+   University of Iceland; University of Iceland; University of Iceland
+RP Valdimarsdóttir, UA (corresponding author), Univ Iceland, Fac Med, Ctr Publ Hlth Sci, Reykjavik, Iceland.; Valdimarsdóttir, UA (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.; Valdimarsdóttir, UA (corresponding author), Karolinska Inst, Dept Med Epidemiol & Biostat, Solna, Sweden.; Stefánsson, K (corresponding author), deCODE Genet, Reykjavik, Iceland.; Stefánsson, K (corresponding author), Univ Iceland, Sch Hlth Sci, Fac Med, Reykjavik, Iceland.
+EM unnurav@hi.is; kstefans@decode.is
+RI Fall, Katja/AAE-1876-2021; Lund, Sigrún Helga/AAG-6042-2019; Helgason,
+   Agnar/K-1522-2015; Lu, Donghao/AAH-6445-2019
+OI Fall, Katja/0000-0002-3649-2639; Lund, Sigrún Helga/0000-0002-3806-2296;
+   Lu, Donghao/0000-0002-4186-8661; Valdimarsdottir,
+   Unnur/0000-0001-5382-946X; Helgason, Agnar/0000-0002-8545-3767; Fang,
+   Fang/0000-0002-3310-6456
+FU RANNIS [163362-051]; European Research Council [726413]; European
+   Research Council (ERC) [726413] Funding Source: European Research
+   Council (ERC)
+FX RANNIS 163362-051 Unnur Valdimarsdottir; European Research Council
+   726413 Unnur Valdimarsdottir
+NR 44
+TC 6
+Z9 8
+U1 0
+U2 5
+PU ELIFE SCIENCES PUBLICATIONS LTD
+PI CAMBRIDGE
+PA SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
+SN 2050-084X
+J9 ELIFE
+JI eLife
+PD NOV 12
+PY 2019
+VL 8
+AR e43476
+DI 10.7554/eLife.43476
+PG 13
+WC Biology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Life Sciences & Biomedicine - Other Topics
+GA JN2MV
+UT WOS:000496736000001
+PM 31711568
+OA Green Published, gold, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Thorlindsson, T
+   Bernburg, JG
+AF Thorlindsson, T
+   Bernburg, JG
+TI Durkheim's theory of social order and deviance: A multi-level test
+SO EUROPEAN SOCIOLOGICAL REVIEW
+LA English
+DT Article
+ID ILLICIT DRUG-USE; DIFFERENTIAL ASSOCIATION; FRIENDSHIP NETWORKS;
+   DELINQUENT PEERS; SUICIDE; BEHAVIOR; CRIME; SOCIOLOGY; PARENTS; CONTEXT
+AB In the present paper, we study the social context of adolescent delinquency in order to examine Durkheim's theory of social order. We use survey data on urban adolescents in Iceland that allow us to examine key theoretical constructs on both the community and the individual levels of analysis. Our findings lend substantial support to the multi-level nature of Durkheim's concept of social integration. Using hierarchical linear regression, we show that both community and individual level social integration indicators have negative effects on adolescent delinquency, and that the experience of anomie mediates a substantial part of these effects. Furthermore, the multi-level context of social integration and anomie moderates the effect of imitation (peer delinquency) on delinquent behaviour. The findings highlight important sociological themes that have been neglected historically in scholarly traditions that have elaborated upon and extended Durkheim's theory of social order.
+C1 Univ Iceland, Fac Social Sci, IS-101 Reykjavik, Iceland.
+C3 University of Iceland
+RP Thorlindsson, T (corresponding author), Univ Iceland, Fac Social Sci, Oddi Sturlugotu, IS-101 Reykjavik, Iceland.
+EM thorotho@rhi.hi.is
+RI Bernburg, Jón Gunnar/M-2600-2015; Thorlindsson, Thorolfur/Q-5547-2019
+OI Bernburg, Jón Gunnar/0000-0001-7534-7613; Thorlindsson,
+   Thorolfur/0000-0001-5178-5360
+NR 57
+TC 60
+Z9 80
+U1 0
+U2 53
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0266-7215
+EI 1468-2672
+J9 EUR SOCIOL REV
+JI Eur. Sociol. Rev.
+PD SEP
+PY 2004
+VL 20
+IS 4
+BP 271
+EP 285
+DI 10.1093/esr/jch025
+PG 15
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 897CU
+UT WOS:000226982400001
+DA 2023-12-05
+ER
+
+PT J
+AU Karanikolos, M
+   Mladovsky, P
+   Cylus, J
+   Thomson, S
+   Basu, S
+   Stuckler, D
+   Mackenbach, JP
+   McKee, M
+AF Karanikolos, Marina
+   Mladovsky, Philipa
+   Cylus, Jonathan
+   Thomson, Sarah
+   Basu, Sanjay
+   Stuckler, David
+   Mackenbach, Johan P.
+   McKee, Martin
+TI Financial crisis, austerity, and health in Europe
+SO LANCET
+LA English
+DT Article
+ID ECONOMIC-CRISIS; PUBLIC-HEALTH; MENTAL-HEALTH; MORTALITY; UNEMPLOYMENT;
+   CARE; IMPACT; CUTS; POLICY; TIMES
+AB The financial crisis in Europe has posed major threats and opportunities to health. We trace the origins of the economic crisis in Europe and the responses of governments, examine the effect on health systems, and review the effects of previous economic downturns on health to predict the likely consequences for the present. We then compare our predictions with available evidence for the effects of the crisis on health. Whereas immediate rises in suicides and falls in road traffic deaths were anticipated, other consequences, such as HIV outbreaks, were not, and are better understood as products of state retrenchment. Greece, Spain, and Portugal adopted strict fiscal austerity; their economies continue to recede and strain on their health-care systems is growing. Suicides and outbreaks of infectious diseases are becoming more common in these countries, and budget cuts have restricted access to health care. By contrast, Iceland rejected austerity through a popular vote, and the financial crisis seems to have had few or no discernible effects on health. Although there are many potentially confounding differences between countries, our analysis suggests that, although recessions pose risks to health, the interaction of fiscal austerity with economic shocks and weak social protection is what ultimately seems to escalate health and social crises in Europe. Policy decisions about how to respond to economic crises have pronounced and unintended effects on public health, yet public health voices have remained largely silent during the economic crisis.
+C1 [Karanikolos, Marina; Cylus, Jonathan; McKee, Martin] Univ London London Sch Hyg & Trop Med, European Observ Hlth Syst & Policies, London WC1H 9SH, England.
+   [Karanikolos, Marina; McKee, Martin] Univ London London Sch Hyg & Trop Med, European Ctr Hlth Soc Transit, London WC1H 9SH, England.
+   [Mladovsky, Philipa; Cylus, Jonathan; Thomson, Sarah] Univ London London Sch Econ & Polit Sci, European Observ Hlth Syst & Policies, London WC2A 2AE, England.
+   [Basu, Sanjay] Stanford Univ, Dept Med, Stanford Prevent Res Ctr, Stanford, CA 94305 USA.
+   [Stuckler, David] Univ Cambridge, Dept Sociol, Cambridge, England.
+   [Mackenbach, Johan P.] Univ Med Ctr Rotterdam, Erasmus MC, Dept Publ Hlth, Rotterdam, Netherlands.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   European Observatory on Health Systems & Policies; University of London;
+   London School of Hygiene & Tropical Medicine; European Observatory on
+   Health Systems & Policies; University of London; London School Economics
+   & Political Science; Stanford University; University of Cambridge;
+   Erasmus University Rotterdam; Erasmus MC
+RP McKee, M (corresponding author), Univ London London Sch Hyg & Trop Med, 15-17 Tavistock Pl, London WC1H 9SH, England.
+EM martin.mckee@lshtm.ac.uk
+RI McKee, Martin/E-6673-2018; Mladovsky, Philipa/AAN-2264-2020; SOULIOTIS,
+   KYRIAKOS/AAM-3164-2021; McKee, Marc D/E-2187-2011; Stuckler,
+   David/H-2261-2012
+OI McKee, Martin/0000-0002-0121-9683; SOULIOTIS,
+   KYRIAKOS/0000-0003-1624-9444; McKee, Marc D/0000-0001-8349-965X; Cylus,
+   Jonathan/0000-0001-8269-1578; Stuckler, David/0000-0002-1288-8401;
+   Mladovsky, Philipa/0000-0001-7761-6928; Rechel,
+   Bernd/0000-0001-8020-3956; Karanikolos, Marina/0000-0002-3824-8226
+FU EU-FP7 DEMETRIQ project grant
+FX DS is supported by an EU-FP7 DEMETRIQ project grant.
+NR 104
+TC 913
+Z9 994
+U1 14
+U2 506
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD APR 13
+PY 2013
+VL 381
+IS 9874
+BP 1323
+EP 1331
+DI 10.1016/S0140-6736(13)60102-6
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 122XD
+UT WOS:000317351000035
+PM 23541059
+HC Y
+HP N
+DA 2023-12-05
+ER
+
+PT J
+AU Steingrímsson, S
+   Sigurdsson, MI
+   Aspelund, T
+   Sigfússon, S
+   Magnússon, A
+AF Steingrimsson, Steinn
+   Sigurdsson, Martin I.
+   Aspelund, Thor
+   Sigfusson, Sigmundur
+   Magnusson, Andres
+TI Total population-based study of the impact of substance use disorders on
+   the overall survival of psychiatric inpatients
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Substance use disorders; Mental disorders; Dual diagnosis; Survival
+   analysis
+ID MENTAL-ILLNESS; MORTALITY; PEOPLE; INDIVIDUALS; PREVALENCE; SUICIDE;
+   DENMARK; COHORT; ABUSE; DRUG
+AB Background: Patients with severe mental illness have a shortened lifespan, and substance use disorder (SUD) is an especially important diagnosis in this respect. There have been no studies comparing directly SUD to other diagnoses in a nationwide cohort. Aims: To directly compare differences in mortality rates of psychiatric inpatients with a discharge diagnosis of SUD versus other psychiatric diagnoses. Methods: A register-based study was made of all patients admitted to psychiatric hospitals in Iceland between 1983 and 2007. Patients were grouped according to discharge diagnoses. Survival with respect to SUD was compared using Cox-proportional hazard ratio, excluding those with an organic mental disorder. Furthermore, the survival of patients with SUD and co-morbid diagnoses was evaluated. Results: A total of 14,281 patients (over the age of 18 years) were admitted to a psychiatric hospital in Iceland during the study period, with a total of 156,356 years of follow-up. For both men and women, a diagnosis of SUD conferred similar mortality as a diagnosis of schizophrenia without SUD, while individuals with a diagnosis of a mood disorder or "other disorders" had significantly lower mortality than SUD. For men with SUD, a co-occurring mental disorder was associated with an increased risk of dying, however, this was not found for women. Conclusions: SUD was the psychiatric diagnosis that had the highest mortality rate among psychiatric inpatients, in both men and women. An additional psychiatric diagnosis on a pre-existing SUD diagnosis did increase the risk for men but not women.
+C1 [Steingrimsson, Steinn; Magnusson, Andres] Landspitali Natl Univ Hosp Iceland, Mental Hlth Serv, Reykjavik, Iceland.
+   Univ Gothenburg, Sahlgrenska Acad, Ctr Eth Law & Mental Hlth CELAM, Gothenburg, Sweden.
+   [Sigurdsson, Martin I.; Aspelund, Thor] Univ Iceland, Fac Med, Reykjavik, Iceland.
+   [Sigfusson, Sigmundur] Akureyri Hosp, Akureyri, Iceland.
+C3 University of Gothenburg; University of Iceland
+RP Steingrímsson, S (corresponding author), Sahlgrens Univ Hosp, Dept Psychiat, Gothenburg, Sweden.
+EM steinn.steingrimsson@vgregion.se
+RI Steingrimsson, Steinn/AAL-2079-2020; Aspelund, Thor/C-5983-2008;
+   Steingrimsson, Steinn/AAF-5475-2021; Sigurdsson, Martin
+   Ingi/I-9655-2016; Aspelund, Thor/K-7022-2019
+OI Steingrimsson, Steinn/0000-0001-8320-5607; Aspelund,
+   Thor/0000-0002-7998-5433; Sigurdsson, Martin Ingi/0000-0001-7054-0844; 
+FU Public Health Institute of Iceland; scientific fund of Landspitali
+   University Hospital
+FX The study was funded by the Public Health Institute of Iceland and The
+   scientific fund of Landspitali University Hospital. The authors declare
+   no conflict of interest. The authors alone are responsible for the
+   content and writing of the article.
+NR 22
+TC 13
+Z9 13
+U1 0
+U2 9
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0803-9488
+EI 1502-4725
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PD APR 2
+PY 2016
+VL 70
+IS 3
+BP 161
+EP 166
+DI 10.3109/08039488.2015.1062143
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DE9MJ
+UT WOS:000370961500001
+PM 26317284
+DA 2023-12-05
+ER
+
+PT J
+AU Birgisdottir, H
+   Bjarnadottir, RI
+   Kristjansdottir, K
+   Geirsson, RT
+AF Birgisdottir, Hera
+   Bjarnadottir, Ragnheidur I.
+   Kristjansdottir, Katrin
+   Geirsson, Reynir T.
+TI Maternal deaths in Iceland over 25 years
+SO ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA
+LA English
+DT Article
+DE Maternal death; maternal morbidity; perinatal care; serious adverse
+   events; birth registration; women's health issues
+ID MORTALITY
+AB IntroductionMaternal death, during pregnancy or within 42 and 365 days from the end of pregnancy, was evaluated for a small high-income nation with comprehensive healthcare.
+   Material and methodsCases were identified using record linkage by running national census information on all deaths of women aged 15-49 years during 1985-2009 against the national birth register and computerized hospital admission files for pregnancy-related diagnoses as well as actual case records where needed. Death certificates and hospital records were reviewed.
+   ResultsThirty deaths were identified; 26 at 22 weeks (= birth) and four earlier in pregnancy. For 107 871 deliveries, the overall mortality was 27.8/100 000. There were five direct deaths (4.6/100 000 deliveries), five indirect deaths (4.6/100 000 deliveries) and 19 coincidental deaths (17.6/100 000 deliveries). Using WHO criteria (direct and indirect in pregnancy or at 42 days postpartum) the ratio was 5.6/100 000 deliveries (95% confidence interval 1.1-10.1) and 5.5/100 000 live births (maternal mortality ratio, based on six deaths). Direct deaths were caused by sepsis, severe preeclampsia and choriocarcinoma, indirect by suicide, pre-existing cardiac and diabetic illness. No woman died of postpartum hemorrhage, anesthesia or ectopic pregnancy. Suboptimal care occurred.
+   ConclusionMaternal mortality in Iceland over a 25-year period up to the end of year 2010 was low, between 5 and 6/100 000 births. A comprehensive national healthcare system with accessible antenatal care in a society with good general living conditions and universal education probably contributed to this.
+C1 [Birgisdottir, Hera; Geirsson, Reynir T.] Univ Iceland, Fac Med, Reykjavik, Iceland.
+   [Bjarnadottir, Ragnheidur I.; Kristjansdottir, Katrin; Geirsson, Reynir T.] Landspitali Univ Hosp, Dept Obstet & Gynecol, Womens Clin, IS-101 Reykjavik, Iceland.
+C3 University of Iceland; Landspitali National University Hospital
+RP Geirsson, RT (corresponding author), Landspitali Univ Hosp, Dept Obstet & Gynecol, Womens Clin, IS-101 Reykjavik, Iceland.
+EM reynirg@landspitali.is
+OI Bjarnadottir, Ragnheidur/0000-0003-0503-1319; Geirsson,
+   Reynir/0000-0002-5419-0909
+NR 16
+TC 8
+Z9 8
+U1 0
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-6349
+EI 1600-0412
+J9 ACTA OBSTET GYN SCAN
+JI Acta Obstet. Gynecol. Scand.
+PD JAN
+PY 2016
+VL 95
+IS 1
+BP 74
+EP 78
+DI 10.1111/aogs.12797
+PG 5
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Obstetrics & Gynecology
+GA CZ8HQ
+UT WOS:000367341200011
+PM 26459287
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Thorlindsson, T
+   Bernburg, JG
+AF Thorlindsson, Thorolfur
+   Bernburg, Jon Gunnar
+TI Community structural instability, anomie, imitation and adolescent
+   suicidal behavior
+SO JOURNAL OF ADOLESCENCE
+LA English
+DT Article
+DE Suicidal behaviour; Adolescents; Community context; Anomie; Imitation
+ID SOCIAL-DISORGANIZATION; MULTILEVEL; CRIME; NEIGHBORHOOD; LEVEL;
+   DELINQUENCY; DURKHEIM; INTEGRATION
+AB The current study examines the contextual effects of community structural characteristics, as well as the mediating role of key social mechanisms, Oil Youth suicidal behavior in Iceland. We argue that the contextual influence of community structural instability on Youth Suicidal behavior should be mediated by weak attachment to social norms and values (anomie), and contact with suicidal others (suggestion-imitation). The data comes from a national survey of 14-16 years old adolescents. Valid questionnaires were obtained from 7018 students (response rate about 87%). The findings show that the community level of residential mobility has a positive, contextual effect on adolescent Suicidal behavior. The findings also indicate that the contextual effect of residential mobility is mediated by both anomie and suggestion-imitation. The findings offer the possibility to identify communities that carry a substantial risk for adolescent Suicide as well as the mechanisms that mediate the influence of community structural characteristics on adolescent risk behavior. (C) 2008 The Association for Professionals in Services for Adolescents. Published by Elsevier Lid. All rights reserved.
+C1 [Thorlindsson, Thorolfur; Bernburg, Jon Gunnar] Univ Iceland, Dept Sociol, IS-101 Reykjavik, Iceland.
+C3 University of Iceland
+RP Thorlindsson, T (corresponding author), Univ Iceland, Dept Sociol, IS-101 Reykjavik, Iceland.
+EM thorotho@hi.is
+RI Bernburg, Jón Gunnar/M-2600-2015; Thorlindsson, Thorolfur/Q-5547-2019
+OI Bernburg, Jón Gunnar/0000-0001-7534-7613; Thorlindsson,
+   Thorolfur/0000-0001-5178-5360
+NR 45
+TC 16
+Z9 21
+U1 0
+U2 29
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0140-1971
+EI 1095-9254
+J9 J ADOLESCENCE
+JI J. Adolesc.
+PD APR
+PY 2009
+VL 32
+IS 2
+BP 233
+EP 245
+DI 10.1016/j.adolescence.2008.04.003
+PG 13
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 430OT
+UT WOS:000264999100005
+PM 18692236
+DA 2023-12-05
+ER
+
+PT J
+AU Kristbjornsdottir, A
+   Rafnsson, V
+AF Kristbjornsdottir, Adalbjorg
+   Rafnsson, Vilhjalmur
+TI Cancer mortality and other causes of death in users of geothermal hot
+   water
+SO ACTA ONCOLOGICA
+LA English
+DT Article
+ID CENSUS-BASED COHORT; BREAST-CANCER; AIR-POLLUTION; HAZARD ASSESSMENT;
+   PROSTATE-CANCER; RISK-FACTORS; NEW-ZEALAND; ICELAND; AREA; ROTORUA
+AB Background. Residents of geothermal areas have increased incidence of non-Hodgkin's lymphoma, breast, prostate, and kidney cancers. The aim was to study whether this is also reflected in cancer mortality among the population using geothermal hot water for space heating, washing, and showering.
+   Methods. The follow-up was from 1981 to 2009. Personal identifier of those 5-64 years of age was used in record linkage with nationwide death registry. Thus, vital and emigration status was ascertained. The exposed population was defined as inhabitants of communities with district heating generated from geothermal wells since 1972. Reference populations were inhabitants of other areas with different degrees of volcanic/geothermal activity. Hazard ratio (HR) and 95% confidence intervals (CI) were adjusted for age, gender, education, housing, reproductive factors and smoking habits.
+   Results. Among those using geothermal water, the HR for all causes of death was 0.98 (95% CI 0.91-1.05) as compared with cold reference area. The HR for breast cancer was 1.53 (1.04-2.24), prostate cancer 1.74 (1.21-2.52), kidney cancer 1.78 (1.03-3.07), and for non-Hodgkin's lymphoma 2.01 (1.05-3.38). HR for influenza was 3.36 (1.32-8.58) and for suicide 1.49 (1.03-2.17).
+   Conclusion. The significant excess mortality risk of breast and prostate cancers, and non-Hodgkin's lymphoma confirmed the results of similarly designed studies in Iceland on cancer incidence among populations from high-temperature geothermal areas and users of geothermal hot water. The risk is not confined to cancers with good prognosis, but also concerns fatal cancers. Further studies are needed on the chemical and physical content of the water and the environment emissions in geothermal areas.
+C1 [Kristbjornsdottir, Adalbjorg] Univ Iceland, Fac Med, Ctr Publ Hlth Sci, IS-101 Reykjavik, Iceland.
+   [Rafnsson, Vilhjalmur] Univ Iceland, Fac Med, Dept Prevent Med, IS-101 Reykjavik, Iceland.
+C3 University of Iceland; University of Iceland
+RP Rafnsson, V (corresponding author), Univ Iceland, Dept Prevent Med, IS-101 Reykjavik, Iceland.
+EM vilraf@hi.is
+FU Icelandic Centre for Research (RANNIS) [141746-051]; University of
+   Iceland Research Fund [1238-123368]
+FX This study was supported by grants from the Icelandic Centre for
+   Research (RANNIS), grant number 141746-051, and the University of
+   Iceland Research Fund, grant number 1238-123368.
+NR 38
+TC 5
+Z9 5
+U1 1
+U2 20
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0284-186X
+EI 1651-226X
+J9 ACTA ONCOL
+JI Acta Oncol.
+PD JAN
+PY 2015
+VL 54
+IS 1
+BP 115
+EP 123
+DI 10.3109/0284186X.2014.923113
+PG 9
+WC Oncology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology
+GA AW9IX
+UT WOS:000346571700015
+PM 24909377
+OA Green Submitted, Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Hauksdóttir, A
+   McClure, C
+   Jonsson, SH
+   Olafsson, Ö
+   Valdimarsdóttir, UA
+AF Hauksdottir, Arna
+   McClure, Christopher
+   Jonsson, Stefan Hrafn
+   Olafsson, Orn
+   Valdimarsdottir, Unnur A.
+TI Increased Stress Among Women Following an Economic Collapse-A
+   Prospective Cohort Study
+SO AMERICAN JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE economic recession; psychology; socioeconomic factors; stress;
+   unemployment; women
+ID LONGITUDINAL DATA; MENTAL-HEALTH; UNEMPLOYMENT; POPULATION; MORTALITY;
+   SUICIDE; RECESSION; MODELS; PERIOD; CRISES
+AB There is a scarcity of data on mental health effects of the global economic recession. In this study, we investigated potential change in self-reported levels of psychological stress in the Icelandic population as a result of the major national economic collapse that occurred in 2008. We used a national cohort of 3,755 persons who responded to a survey administered in 2007 and 2009, including demographic questions and a stress measure (the 4-item Perceived Stress Scale). We used repeated-measures analysis of variance and logistic regression models to assess change in mean stress levels and risk of high stress levels (>90th percentile) in 2009 as compared with 2007. Age-adjusted mean stress levels increased between 2007 and 2009 (P = 0.004), though the increase was observed only for women (P = 0.003), not for men (P = 0.34). Similarly, the odds ratios for experiencing high stress levels were increased only among women (odds ratio (OR) = 1.37), especially among women who were unemployed (OR = 3.38), students (OR = 2.01), had middle levels of education (OR = 1.65), or were in the middle income bracket (OR = 1.59). The findings indicate that psychological stress may have increased following the economic collapse in Iceland, particularly among females in economically vulnerable groups.
+C1 [Hauksdottir, Arna; McClure, Christopher; Jonsson, Stefan Hrafn; Olafsson, Orn; Valdimarsdottir, Unnur A.] Univ Iceland, Ctr Publ Hlth Sci, Fac Med, IS-101 Reykjavik, Iceland.
+   [McClure, Christopher] Yale Univ, Sch Med, Dept Epidemiol & Publ Hlth, New Haven, CT 06510 USA.
+   [Jonsson, Stefan Hrafn] Directorate Hlth, Reykjavik, Iceland.
+   [Jonsson, Stefan Hrafn] Univ Iceland, Fac Social & Human Sci, IS-101 Reykjavik, Iceland.
+   [Valdimarsdottir, Unnur A.] Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+C3 University of Iceland; Yale University; University of Iceland; Harvard
+   University; Harvard T.H. Chan School of Public Health
+RP McClure, C (corresponding author), Univ Iceland, Ctr Publ Hlth Sci, Stapa Vid Hringbraut, IS-101 Reykjavik, Iceland.
+EM cbm1@hi.is
+RI Jonsson, Stefan H/E-8191-2011
+OI Jonsson, Stefan H/0000-0002-9732-9886; Hauksdottir,
+   Arna/0000-0002-4253-1059; Valdimarsdottir, Unnur/0000-0001-5382-946X
+FU Icelandic Centre for Research (RANNIS); EDDA Center of Excellence
+   (University of Iceland); Yale School of Public Health
+FX This study was supported by grants from the Icelandic Centre for
+   Research (RANNIS), the EDDA Center of Excellence (University of
+   Iceland), and the Yale School of Public Health.
+NR 44
+TC 46
+Z9 49
+U1 0
+U2 24
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0002-9262
+EI 1476-6256
+J9 AM J EPIDEMIOL
+JI Am. J. Epidemiol.
+PD MAY 1
+PY 2013
+VL 177
+IS 9
+BP 979
+EP 988
+DI 10.1093/aje/kws347
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 139IR
+UT WOS:000318576300016
+PM 23408547
+DA 2023-12-05
+ER
+
+PT J
+AU Arora, VS
+   Karanikolos, M
+   Clair, A
+   Reeves, A
+   Stuckler, D
+   Mckee, M
+AF Arora, Vishal S.
+   Karanikolos, Marina
+   Clair, Amy
+   Reeves, Aaron
+   Stuckler, David
+   Mckee, Martin
+TI Data Resource Profile: The European Union Statistics on Income and
+   Living Conditions (EU-SILC)
+SO INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+ID SOCIAL INEQUALITIES; FINANCIAL CRISIS; GREAT RECESSION; WELFARE STATES;
+   HEALTH; AUSTERITY; PEOPLE; UNEMPLOYMENT; SICKNESS; SUICIDES
+AB Social and economic policies are inextricably linked with population health outcomes in Europe, yet few datasets are able to fully explore and compare this relationship across European countries. The European Union Statistics on Income and Living Conditions (EU-SILC) survey aims to address this gap using microdata on income, living conditions and health. EU-SILC contains both cross-sectional and longitudinal elements, with nationally representative samples of individuals 16 years and older in 28 European Union member states as well as Iceland, Norway and Switzerland. Data collection began in 2003 in Belgium, Denmark, Ireland, Greece, Luxembourg and Austria, with subsequent expansion across Europe. By 2011, all 28 EU member states, plus three others, were included in the dataset. Although EU-SILC is administered by Eurostat, the data are output-harmonized so that countries are required to collect specified data items but are free to determine sampling strategies for data collection purposes. EU-SILC covers approximately 500 000 European residents for its cross-sectional survey annually. Whereas aggregated data from EU-SILC are publicly available [http://ec.europa.eu/eurostat/web/income-and-living-conditions/data/main-tables], microdata are only available to research organizations subject to approval by Eurostat. Please refer to [http://epp.eurostat.ec.europa.eu/portal/page/portal/microdata/eu_silc] for further information regarding microdata access.
+C1 [Arora, Vishal S.; Karanikolos, Marina; Mckee, Martin] London Sch Hyg & Trop Med, ECOHOST, London WC1H 9SH, England.
+   [Arora, Vishal S.] US UK Fulbright Commiss, London, England.
+   [Arora, Vishal S.] Belgium Fulbright Commiss, Brussels, Belgium.
+   [Clair, Amy; Reeves, Aaron; Stuckler, David] Univ Oxford, Dept Sociol, Oxford OX1 2JD, England.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Oxford
+RP Arora, VS (corresponding author), London Sch Hyg & Trop Med, 15-17 Tavistock Pl,1st Floor, London WC1H 9SH, England.
+EM vishal.arora@lshtm.ac.uk
+RI McKee, Marc D/E-2187-2011; McKee, Martin/E-6673-2018; Stuckler,
+   David/H-2261-2012
+OI McKee, Marc D/0000-0001-8349-965X; McKee, Martin/0000-0002-0121-9683;
+   Clair, Amy/0000-0001-5739-183X; Stuckler, David/0000-0002-1288-8401;
+   Karanikolos, Marina/0000-0002-3824-8226; Reeves,
+   Aaron/0000-0001-9114-965X
+FU Wellcome Trust Investigator Award; ERC Research Grant [313590-HRES]
+FX D. S. is funded by a Wellcome Trust Investigator Award and ERC Research
+   Grant 313590-HRES.
+NR 34
+TC 51
+Z9 51
+U1 1
+U2 20
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0300-5771
+EI 1464-3685
+J9 INT J EPIDEMIOL
+JI Int. J. Epidemiol.
+PD APR
+PY 2015
+VL 44
+IS 2
+BP 451
+EP 461
+DI 10.1093/ije/dyv069
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CL6VO
+UT WOS:000357106100010
+PM 25948659
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Asgeirsdóttir, HG
+   Valdimarsdóttir, UA
+   Thorsteinsdóttir, TK
+   Lund, SH
+   Tomasson, G
+   Nyberg, U
+   Asgeirsdóttir, TL
+   Hauksdóttir, A
+AF Asgeirsdottir, Hildur G.
+   Valdimarsdottir, Unnur A.
+   Thorsteinsdottir, Thordis K.
+   Lund, Sigrun H.
+   Tomasson, Gunnar
+   Nyberg, Ullakarin
+   Asgeirsdottir, Tinna L.
+   Hauksdottir, Arna
+TI The association between different traumatic life events and suicidality
+SO EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY
+LA English
+DT Article
+DE Trauma; life events; suicidal thoughts and behaviour; gender
+ID POSTTRAUMATIC-STRESS-DISORDER; DELIBERATE SELF-HARM; TERM-FOLLOW-UP;
+   CHILDHOOD ADVERSITIES; HELP-SEEKING; RISK-FACTORS; POPULATION;
+   PREVALENCE; IDEATION; PTSD
+AB Background: Traumatic life events have been associated with increased risk of various psychiatric disorders, even suicidality. Our aim was to investigate the association between different traumatic life events and suicidality, by type of event and gender.
+   Methods: Women attending a cancer screening programme in Iceland (n = 689) and a random sample of men from the general population (n = 709) were invited to participate. In a web-based questionnaire, life events were assessed with the Life Stressor Checklist - Revised, and the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM5) criterion was used to identify traumatic life events. Reports of lifetime suicidal thoughts, self-harm with suicidal intent and suicide attempt were considered as lifetime suicidality. We used Poisson regression, adjusted for demographic factors, to express relative risks (RRs) as a measure of the associations between traumatic events and suicidality.
+   Results: Response rate was 66% (922/1398). The prevalence of lifetime traumatic events was 76% among women and 77% among men. Lifetime suicidality was 11% among women and 16% among men. An overall association of having experienced traumatic life events with suicidality was observed [RR 2.05, 95% confidence interval (CI) 1.21-3.75], with a stronger association for men (RR 3.14, 95% CI 1.25-7.89) than for women (RR 1.45, 95% CI 0.70-2.99). Increased likelihood for suicidality was observed among those who had experienced interpersonal trauma (RR 2.97, 95% CI 1.67-5.67), childhood trauma (RR 4.09, 95% CI 2.27-7.36) and sexual trauma (RR 3.44, 95% CI 1.85-6.37), with a higher likelihood for men. In addition, an association between non-interpersonal trauma and suicidality was noted among men (RR 3.27, 95% CI 1.30-8.25) but not women (RR 1.27, 95% CI 0.59-2.70).
+   Conclusion: Findings indicate that traumatic life events are associated with suicidality, especially among men, with the strongest association for interpersonal trauma.
+C1 [Asgeirsdottir, Hildur G.; Valdimarsdottir, Unnur A.; Lund, Sigrun H.; Tomasson, Gunnar; Hauksdottir, Arna] Univ Iceland, Fac Med, Ctr Publ Hlth Sci, Reykjavik, Iceland.
+   [Valdimarsdottir, Unnur A.] Karolinska Inst, Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+   [Valdimarsdottir, Unnur A.] Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+   [Thorsteinsdottir, Thordis K.] Natl Univ Hosp Iceland, Res Inst Emergency Care, Reykjavik, Iceland.
+   [Thorsteinsdottir, Thordis K.] Univ Iceland, Fac Nursing, Reykjavik, Iceland.
+   [Nyberg, Ullakarin] Karolinska Inst, Stockholm Ctr Psychiat Res & Educ, Dept Clin Neurosci, Stockholm, Sweden.
+   [Asgeirsdottir, Tinna L.] Univ Iceland, Fac Econ, Reykjavik, Iceland.
+C3 University of Iceland; Karolinska Institutet; Harvard University;
+   Harvard T.H. Chan School of Public Health; Landspitali National
+   University Hospital; University of Iceland; Karolinska Institutet;
+   University of Iceland
+RP Asgeirsdóttir, HG (corresponding author), Univ Iceland, Ctr Publ Hlth Sci, Sturlugata 8, IS-101 Reykjavik, Iceland.
+EM hga@hi.is
+RI Lund, Sigrún Helga/AAG-6042-2019; Lund, Sigrun Helga/K-9144-2015;
+   Thorsteinsdottir, Thordis K/L-9936-2015; Ásgeirsdóttir, Tinna
+   Laufey/ISA-3677-2023
+OI Lund, Sigrún Helga/0000-0002-3806-2296; Lund, Sigrun
+   Helga/0000-0002-3806-2296; Thorsteinsdottir, Thordis
+   K/0000-0002-3585-006X; Hauksdottir, Arna/0000-0002-4253-1059;
+   Valdimarsdottir, Unnur/0000-0001-5382-946X; Asgeirsdottir, Hildur
+   Gudny/0000-0002-6849-7063
+FU Rannis Research Fund [130611-051]; University of Iceland; SAGA
+FX This work was supported by the Rannis Research Fund (grant number
+   130611-051), and the University of Iceland Research Fund and
+   Assistantship Fund. Data collection was funded by the collaborative
+   institutions of the SAGA cohort, corporate sponsors and research grants
+   from the organizing investigators.
+NR 56
+TC 36
+Z9 40
+U1 2
+U2 14
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2000-8198
+EI 2000-8066
+J9 EUR J PSYCHOTRAUMATO
+JI Eur. J. Psychotraumatol.
+PD SEP 11
+PY 2018
+VL 9
+IS 1
+AR 1510279
+DI 10.1080/20008198.2018.1510279
+PG 11
+WC Psychology, Clinical; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA HB0HL
+UT WOS:000450694000001
+PM 30220981
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+EF

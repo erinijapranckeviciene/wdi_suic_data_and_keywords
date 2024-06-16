@@ -1,0 +1,51 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hickling, FW
+AF Hickling, FW
+TI The epidemiology of schizophrenia and other common mental health
+   disorders in the English-speaking Caribbean
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE epidemiology; mental health disorders; English-speaking Caribbean
+ID HOSPITAL ADMISSION RATES; TRINIDAD; SUICIDE; LONDON
+AB Objective. To report on the epidemiology of schizophrenia and other common mental health disorders in the English-speaking Caribbean.
+   Methods. The MEDLINE, MEDCARIB and West Indiana electronic databases were searched with the phrases Caribbean AND psychiatry OR mental OR suicide, and items with specific reference to epidemiology were culled and reviewed.
+   Results. The age-corrected incidence rate for schizophrenia per 10 000 is 2.09 in Jamaica, 2.2 per 1000 in Trinidad, and 2.92 in Barbados. These rates are lower than the incidence rates reported for white British people, and significantly lower that the 6- to 18-fold higher risk ratio incidence reported for African Caribbeans living in Britain. A comparative diagnostic study carried out in the United Kingdom (UK) suggests that misdiagnosis plays a significant role in this difference. Relatively low incidence figures for affective disorders, anxiety states, suicide and attempted suicide have been reported for Jamaica, Trinidad, and Barbados.
+   Discussion. Most published epidemiological studies of Caribbean populations center on schizophrenia, because of the startling findings of a large increase in risk ratios for African Caribbean people living in England compared to the white native British people. The etiological evidence is shifting toward factors of racism and social alienation experienced by black people in the UK, and to misdiagnosis by white British psychiatrists. Studies of the role of colonial enslavement and social engineering raise the etiological possibility of a role for social and structural community organization in the genesis of schizophrenia. The Caribbean thus represents a rich crucible for research in the epidemiology and etiology of mental health disorders.
+C1 Univ W Indies, Fac Med Sci, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+C3 University West Indies Mona Jamaica
+RP Hickling, FW (corresponding author), Univ W Indies, Fac Med Sci, Dept Community Hlth & Psychiat, Kingston 7, Jamaica.
+EM frederick.hickling@uwimona.edu.jm
+NR 41
+TC 15
+Z9 15
+U1 1
+U2 13
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD OCT-NOV
+PY 2005
+VL 18
+IS 4-5
+BP 256
+EP 262
+DI 10.1590/S1020-49892005000900005
+PG 7
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 992RC
+UT WOS:000233900500005
+PM 16354422
+OA gold
+DA 2023-12-03
+ER
+
+EF

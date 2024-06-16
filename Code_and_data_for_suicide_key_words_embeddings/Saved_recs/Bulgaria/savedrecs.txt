@@ -1,0 +1,768 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Widding-Havneraas, T
+   Hinkov, H
+   Zarkov, Z
+   Nakov, V
+   Dinolova, R
+   Marinov, P
+   Harvey, S
+   Butterworth, P
+   Holte, A
+   Mykletun, A
+AF Widding-Havneraas, T.
+   Hinkov, H.
+   Zarkov, Z.
+   Nakov, V.
+   Dinolova, R.
+   Marinov, P.
+   Harvey, S.
+   Butterworth, P.
+   Holte, A.
+   Mykletun, A.
+TI A nationwide general practitioner training program to reduce suicide in
+   bulgaria: a non-randomized controlled trial
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Widding-Havneraas, T.; Mykletun, A.] Norwegian Inst Publ Hlth Mental Hlth & Suicide, Bergen, Norway.
+   [Hinkov, H.; Zarkov, Z.; Nakov, V.; Dinolova, R.] Natl Ctr Publ Hlth & Anal Mental Hlth, Sofia, Bulgaria.
+   [Marinov, P.] Mental Hlth Ctr N Shipkovenski, Forens Psychiat, Sofia, Bulgaria.
+   [Harvey, S.] Black Dog Inst, Workplace Mental Hlth Res Program, Sydney, NSW, Australia.
+   [Butterworth, P.] Australian Natl Univ, Coll Hlth & Med, Melbourne, Vic, Australia.
+   [Holte, A.] Univ Oslo, Psychol, Oslo, Norway.
+C3 Norwegian Institute of Public Health (NIPH); Black Dog Institute;
+   Australian National University; University of Oslo
+RI Butterworth, Peter/AFK-2636-2022; Nakov, Vladimir/AAF-7829-2020;
+   Marinov, Petar/AAG-6728-2019; Marinov, Petar/HGC-7287-2022
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2019
+VL 56
+SU S
+MA E-PP1268
+BP S305
+EP S305
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA ID4PO
+UT WOS:000471659000909
+DA 2023-12-05
+ER
+
+PT C
+AU Bulgaria, RBM
+AF Bulgaria, Baltov M. R.
+BE Gulmen, MK
+TI Retrospective analysis of suicides in bulgaria For the period 2000-2009
+SO IALM 2012: PRESENTATIONS FROM THE 22ND CONGRESS OF THE INTERNATIONAL
+   ACADEMY OF LEGAL MEDICINE
+LA English
+DT Proceedings Paper
+CT 22nd Congress of the International-Academy-of-Legal-Medicine (IALM)
+CY JUL 05-08, 2012
+CL Istanbul, TURKEY
+SP Int Acad Legal Med
+DE Bulgaria; suicidal index; suicides; GDP; unemployment level; gender; age
+AB Suicidal dynamics is being followed in the territory of the Republic of Bulgaria for the period of 2000 - 2009. Age and gender structure of the suicidal cases is being taken into account. The results of the research are presented in graphics and tables, whereas the latter are compared in relation to some economic factors, such as GDP and unemployment level.
+   A smooth decrease of the suicidal index is being observed over the years, as male suicidal cases seem to outnumber female ones. An increased number of suicidal cases of people over 65 years of age is noticed. There is a distinct correlation between the economic factors and the level of suicides.
+   GDP - Gross Domestic Product
+EM dr.baltov@abv.bg
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MEDIMOND S R L
+PI 40128 BOLOGNA
+PA VIA MASERATI 5, 40128 BOLOGNA, 00000, ITALY
+BN 978-88-7587-676-0
+PY 2013
+BP 43
+EP 47
+PG 5
+WC Medicine, Legal
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Legal Medicine
+GA BFQ81
+UT WOS:000320999000008
+DA 2023-12-05
+ER
+
+PT J
+AU Dokov, W
+AF Dokov, William
+TI Forensic Characteristics of Suicide by Electrocution in Bulgaria
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; forensic pathology; forensic epidemiology;
+   electrocution; suicides; Bulgaria
+AB Suicides by electrocution (SE) are relatively rare and insufficiently studied. The purpose of this study is to present a more detailed picture of SE in Bulgaria. Forensic medical files of 59 SE cases were examined. spss 11.0 software was applied to produce the descriptive statistical analyses. Values of p < 0.05 were assumed to be statistically significant. We studied 59 SE cases, which account for 6.24% of all deaths by electrocution and 0.09% of all forensic autopsies. The average age of victims was 45.19 years old. Males prevailed: 91.53%. Children below 18 years old accounted for 3.39%. 42.37% of the victims applied low voltage (< 220 V), and 33.99% applied high voltage (> 220 V). The preferred method of SE was by direct contact victim/electrical cable: 47.45%. The summer months June through September account for 49.15% of all cases.
+C1 Med Univ Varna, Chair Gen & Clin Pathol Forens Med & Deontol, BG-9002 Varna, Bulgaria.
+C3 Medical University Varna
+RP Dokov, W (corresponding author), Med Univ Varna, Chair Gen & Clin Pathol Forens Med & Deontol, Bulgaria 55 Marin Drinov St, BG-9002 Varna, Bulgaria.
+EM Dokov@seznam.cz
+NR 13
+TC 6
+Z9 6
+U1 0
+U2 8
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0022-1198
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD MAY
+PY 2009
+VL 54
+IS 3
+BP 669
+EP 671
+DI 10.1111/j.1556-4029.2009.01002.x
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA 436JJ
+UT WOS:000265410100028
+PM 19298463
+DA 2023-12-05
+ER
+
+PT J
+AU Iliev, Y
+   Akabaliev, V
+   Doychinov, I
+AF Iliev, Y
+   Akabaliev, V
+   Doychinov, I
+TI Characteristics of adult acute poisoning mortality in a large
+   industrial-agrarian region of Bulgaria during socioeconomic transition
+   and crisis (1990-1998)
+SO VETERINARY AND HUMAN TOXICOLOGY
+LA English
+DT Article
+ID FATAL POISONINGS; EASTERN-EUROPE; TRENDS; HEALTH; EPIDEMIOLOGY; TEHRAN
+AB The severe socioeconomic crisis in Bulgaria, accompanying the transition after the collapse or the totalitarian regime affected unfavorably the health status of the population, increasing the incidence of socially important diseases by making poverty, unemployment, emigration, alcoholism and drug addiction widespread. Systematic studies of acute poisoning suicide and poisoning mortality still lack. To analyze acute poisoning (AP) characteristics during this period in a large industrial-agricultural region of Bulgaria, we retrospectively examined 327 adult AP deaths in Plovdiv region 1990-1998. Males (73.1%) prevail in all age categories. As a caseload men predominate in working age., categories, women in "pre/retirement age". Mortality rates tended to increase with age, more marked in men. The main cause of death from AP was alcohol intoxication in men (30.1%) and drugs in women (33.7%). Suicides prevailed over accidents (54.1% vs. 45.9%). Accidents were significantly higher in men, suicides in women; 57.5% received no medical aid for more men than women (61.9% vs. 45.5%). Untapped resource For decreasing AP mortality rates are patients who do not receive medical aid and die at home, although that is difficult to correct in a period of crisis.
+C1 Higher Med Inst IP Pavlov, Dept Toxicol, Plovdiv, Bulgaria.
+   Higher Med Inst IP Pavlov, Dept Psychiat, Plovdiv, Bulgaria.
+   Higher Med Inst IP Pavlov, Dept Forens Med, Plovdiv, Bulgaria.
+C3 Medical University Varna; Medical University Plovdiv; Medical University
+   Plovdiv; Medical University Varna; Medical University Varna; Medical
+   University Plovdiv
+RP Iliev, Y (corresponding author), Higher Med Inst IP Pavlov, Dept Toxicol, Plovdiv, Bulgaria.
+NR 46
+TC 4
+Z9 4
+U1 0
+U2 8
+PU COMPARATIVE TOXICOLOGY LAB
+PI MANHATTAN
+PA KANSAS STATE UNIV, MANHATTAN, KS 66506-5606 USA
+SN 0145-6296
+J9 VET HUM TOXICOL
+JI Vet. Human Toxicol.
+PD DEC
+PY 2000
+VL 42
+IS 6
+BP 366
+EP 369
+PG 4
+WC Toxicology; Veterinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Toxicology; Veterinary Sciences
+GA 375LF
+UT WOS:000165400300013
+PM 11111947
+DA 2023-12-05
+ER
+
+PT J
+AU Kohler, IV
+   Preston, SH
+AF Kohler, Iliana V.
+   Preston, Samuel H.
+TI Ethnic and religious differentials in Bulgarian mortality, 1993-98
+SO POPULATION STUDIES-A JOURNAL OF DEMOGRAPHY
+LA English
+DT Article
+DE Muslims; Christians; Turks; Pomaks; Roma; mortality; cause of death;
+   lifestyle; socio-economic determinants; Bulgaria
+ID HEALTH LIFE-STYLES; EASTERN-EUROPE; UNITED-STATES; ALCOHOL; MEN;
+   SUICIDE; RUSSIA; MIGRANTS; DIVIDE; FRANCE
+AB We investigated ethnic/religious mortality differentials in Bulgaria during the 1990s. The analyses employed a unique longitudinal data-set covering the entire population of Bulgaria from the census of 1992 until 1998. The mortality of Roma is very high compared to all other ethnic/religious groups. The excess applies to nearly every cause of death examined and is not entirely explained by the adverse location of Roma on social and economic variables. For young men, Muslim mortality is substantially lower than that of non-Muslims when socio-economic differences are controlled. An analysis of causes of death suggests that lower consumption of alcohol may contribute to this 'Muslim paradox'. For older Turkish women, a significant mortality disadvantage remains after controls are imposed. Suicide mortality is lower for Muslims than for Christian groups of the same ethnicity. Consistent with deteriorating economic conditions over the study period, mortality was rising, particularly for women.
+C1 [Kohler, Iliana V.] Univ Penn, PARC, Philadelphia, PA 19104 USA.
+   [Kohler, Iliana V.] Univ Penn, Ctr Populat Studies, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania; University of Pennsylvania
+RP Kohler, IV (corresponding author), Univ Penn, PARC, 3718 Locust Walk, Philadelphia, PA 19104 USA.
+EM iliana@pop.upenn.edu; spreston@sas.upenn.edu
+FU NIA NIH HHS [P30 AG012836, P30 AG12836, P30 AG012836-13] Funding Source:
+   Medline; NICHD NIH HHS [R24 HD-044964, R24 HD044964-01, P2C HD044964,
+   R24 HD044964] Funding Source: Medline; PHS HHS [NIA 10168).] Funding
+   Source: Medline
+NR 59
+TC 24
+Z9 29
+U1 0
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0032-4728
+EI 1477-4747
+J9 POP STUD-J DEMOG
+JI Popul. Stud.-J. Demogr.
+PY 2011
+VL 65
+IS 1
+BP 91
+EP 113
+AR PII 933012345
+DI 10.1080/00324728.2010.535554
+PG 23
+WC Demography
+WE Social Science Citation Index (SSCI)
+SC Demography
+GA 723FI
+UT WOS:000287491500005
+PM 21294054
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Landberg, J
+AF Landberg, Jonas
+TI Alcohol and suicide in eastern Europe
+SO DRUG AND ALCOHOL REVIEW
+LA English
+DT Article
+DE Eastern Europe; per capita consumption; suicide mortality rates;
+   time-series analysis
+ID CONSUMPTION; DRINKING; MORTALITY; RUSSIA; PATTERNS; STATES; LEVEL; RATES
+AB Introduction and Aims. The aim of this paper was to estimate how suicide rates in seven eastern European countries are affected by changes in population drinking and to put the results into a comparative perspective. Design and Methods. The analysis included data on annual suicide mortality rates and per capita consumption for the post-war period from: Russia, Belarus, Poland, Hungary, Bulgaria, the former Czechoslovakia and the former German Democratic Republic (GDR). Overall and gender-specific models were estimated using the Box-Jenkins technique for time-series analysis. The estimates were pooled into two groups, i.e. spirits countries (Russia, Belarus and Poland) and non-spirits countries (Hungary, Bulgaria, former Czechoslovakia and former GDR). Results. All countries obtained positive alcohol effect estimates. The effects on the overall population were largest in the spirits countries, where a 1-litre increase in per capita consumption was associated with an increase in overall suicide rates of 5.7-7.5%. The effects were somewhat smaller in the non-spirits countries, 2.7-4.7%. The estimates for males were larger, but showed the same national variations as the overall population estimates. The female estimates were generally smaller than for men and did not differ between the two country groups. Discussion and Conclusions. The results suggest that per capita consumption matters for suicide mortality in these eastern European countries, but that the strength of the relationship is contingent upon the drinking culture, so that it tends to be stronger in countries with detrimental drinking patterns.
+C1 Stockholm Univ, Ctr Social Res Alcohol & Drugs SoRAD, S-10691 Stockholm, Sweden.
+C3 Stockholm University
+RP Landberg, J (corresponding author), Stockholm Univ, Ctr Social Res Alcohol & Drugs SoRAD, S-10691 Stockholm, Sweden.
+EM jonas.landberg@sorad.su.se
+NR 42
+TC 50
+Z9 51
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0959-5236
+EI 1465-3362
+J9 DRUG ALCOHOL REV
+JI Drug Alcohol Rev.
+PY 2008
+VL 27
+IS 4
+BP 361
+EP 373
+DI 10.1080/09595230802093778
+PG 13
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 319ES
+UT WOS:000257147500009
+PM 18584385
+DA 2023-12-05
+ER
+
+PT J
+AU Rutz, EM
+   Wasserman, D
+AF Rutz, EM
+   Wasserman, D
+TI Trends in adolescent suicide mortality in the WHO European Region
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE suicide; adolescents; Europe; trends
+ID YOUNG-PEOPLE; FORMER USSR; COHORT ANALYSIS; YOUTH SUICIDE; RATES;
+   COUNTRIES; ENGLAND; WALES; MEN; AGE
+AB Trends in adolescent suicide rates (15-19 years) from 1979 to 1996 were compared with suicide trends in individuals of 20 years and over in 30 countries and with trends in rates of deaths due to undetermined causes in adolescents in 17 countries of the WHO European Region. In 21 of the 30 studied countries, male adolescent suicide rates increased during the study period (highest increases in Belarus, Kazakstan and Ireland) accompanied by far less increases or decreases in suicide rates of males of 20 years and over. Part of the observed increases in Sweden, Ireland and Greece can be attributed to improved suicide statistics, while increases in Finland, Belgium, Bulgaria and the United Kingdom can be even higher due to the rising classification of deaths as "undetermined". In Portugal, decreasing suicide trends seem to be misinterpreted by ignoring the vast increases in rates of undetermined deaths. Female adolescent suicide rates rose less markedly than in males in 18 countries, with the exception of strong increases in Norway, Ireland. Increases in female adolescent suicide rates were marginally affected by changes in classification practices and were accompanied primarily by declining suicide rates in females of 20 years and over.
+C1 Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, S-17177 Stockholm, Sweden.
+RP Rutz, EM (corresponding author), Natl Ctr Suicide Res & Prevent Mental Ill Hlth NA, Box 230, S-17177 Stockholm, Sweden.
+EM Ellenor.Mittendorfer-Rutz@ipm.ki.se; Danuta.Wasserman@ipm.ki.se
+NR 47
+TC 47
+Z9 52
+U1 0
+U2 11
+PU DR DIETRICH STEINKOPFF VERLAG
+PI DARMSTADT
+PA PO BOX 10 04 62, D-64204 DARMSTADT, GERMANY
+SN 1018-8827
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD OCT
+PY 2004
+VL 13
+IS 5
+BP 321
+EP 331
+DI 10.1007/s00787-004-0406-y
+PG 11
+WC Psychology, Developmental; Pediatrics; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics; Psychiatry
+GA 865AP
+UT WOS:000224675200006
+PM 15490280
+DA 2023-12-05
+ER
+
+PT J
+AU Wallace, S
+   Pritchard, C
+AF Wallace, S
+   Pritchard, C
+TI 'Coalition-In-Iraq' countries 'internal' civil violent deaths compared
+   to the USA 'external' violence of September 11th 2001
+SO MEDICAL SCIENCE MONITOR
+LA English
+DT Article
+DE suicide; homicide; road deaths; terrorism; perception
+ID SUICIDE; FEAR
+AB Background: The atrocity of 9/11 exemplified 'external' caused civil violent deaths, which have major policy implications for the countries contributing armed forces to the 'Coalition-In-Iraq' [C.I.I]. C.I.I Government's resources for perennial 'internal' violent deaths (suicide, homicide and road), are likely to be threatened by alternative priorities. C.I.I 'internal' deaths are compared with those of 9/11 to provide information to determine relative risks.
+   Material/Methods: To uniformly compare mortality between countries we utilise the most recent WHO mortality data, taking the latest three years 1997-1999 and calculating an average annual number and rate of 'internal' deaths in each country, these are compared with the 9/11 fatalities, calculating a proportional ratio, as an indicator of differential damage to families and society.
+   Results: USA 'external' deaths were 3,074 people and annual average suicides were 30,966. Total 'internal' deaths exceeded 'external' more than 30 times. Every fortnight there are more USA 'internal' violent deaths than on 9/11. Except Australia and Bulgaria, every country had more suicides than died on 9/11. Apart from Bulgaria, total 'internal' deaths exceeded the 'external' toll in all other CAI countries- by 14 times in Japan; 6 in Republic of Korea, 4 in Italy, 3 in Spain and the UK, twice in Canada and 1.5 times in Australia.
+   Conclusions: The extent of 'internal' civil violent deaths, such as suicide, highlight the perennial pressures upon psychiatric services and the need to defend resources at a time of competing priorities.
+C1 Bournemouth Univ, Inst Hlth & Community Studies, Bournemouth BH1 3LA, Dorset, England.
+   Univ Southampton, Sch Med, Southampton SO9 5NH, Hants, England.
+C3 Bournemouth University; University of Southampton
+RP Pritchard, C (corresponding author), Bournemouth Univ, Inst Hlth & Community Studies, Royal London House,Christchurch Rd, Bournemouth BH1 3LA, Dorset, England.
+EM cpritchard@bournemouth.ac.uk
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 2
+PU INT SCIENTIFIC INFORMATION, INC
+PI MELVILLE
+PA 150 BROADHOLLOW RD, STE 114, MELVILLE, NY 11747 USA
+SN 1643-3750
+J9 MED SCI MONITOR
+JI Med. Sci. Monitor
+PD MAY
+PY 2004
+VL 10
+IS 5
+BP SR1
+EP SR4
+PG 4
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine
+GA 867HN
+UT WOS:000224833400024
+PM 15114286
+DA 2023-12-05
+ER
+
+PT J
+AU Bye, EK
+AF Bye, Elin K.
+TI Alcohol and homicide in Eastern Europe - A time series analysis of six
+   countries
+SO HOMICIDE STUDIES
+LA English
+DT Article
+DE homicide; alcohol consumption; Eastern Europe; time series
+ID VIOLENT MORTALITY; SUICIDE MORTALITY; DRINKING PATTERNS; BINGE DRINKING;
+   CONSUMPTION; RUSSIA; RATES; AGGRESSION; STATES; RISK
+AB Few studies have addressed the association between alcohol consumption and homicide rates at the population level in eastern European countries. The aim of the present study was to test hypotheses on how this association may vary across countries with different drinking patterns and for gender specific homicide rates. Time series analysis was used on annual alcohol consumption and homicide rates for six eastern European countries. The estimates were pooled into two groups of countries with more (Russia and Belarus) and somewhat less (Bulgaria, Hungary, Poland, and former Czechoslovakia) hazardous drinking patterns. The overall results showed that annual changes in alcohol consumption were positively and significantly associated with homicide rates and also indicated that the estimates were stronger in countries with a more detrimental drinking pattern. The results suggest that alcohol consumption has an effect on homicide rates in Eastern Europe and that this effect varies with drinking pattern.
+C1 Norwegien Inst Alcohol & Drug Res, Oslo, Norway.
+RP Bye, EK (corresponding author), Norwegien Inst Alcohol & Drug Res, Oslo, Norway.
+NR 61
+TC 53
+Z9 53
+U1 1
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1088-7679
+EI 1552-6720
+J9 HOMICIDE STUD
+JI Homicide Stud.
+PD FEB
+PY 2008
+VL 12
+IS 1
+BP 7
+EP 27
+DI 10.1177/1088767907310851
+PG 21
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 255OD
+UT WOS:000252666400002
+DA 2023-12-05
+ER
+
+PT J
+AU Duric, P
+   Harhaji, S
+   O'May, F
+   Boderscova, L
+   Chihai, J
+   Como, A
+   Hranov, GL
+   Mihai, A
+   Sotiri, E
+AF Duric, Predrag
+   Harhaji, Sanja
+   O'May, Fiona
+   Boderscova, Larisa
+   Chihai, Jana
+   Como, Ariel
+   Hranov, Georgi L.
+   Mihai, Adriana
+   Sotiri, Eugjen
+TI General practitioners' views towards diagnosing and treating depression
+   in five southeastern European countries
+SO EARLY INTERVENTION IN PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH-CARE; PHYSICIANS; PATHWAYS; OBSTACLES; ATTITUDES;
+   BARRIERS; SUICIDE; RISK
+AB Aim To assess and compare general practitioners' (GPs') views of diagnosing and treating depression in five southeastern European countries. Methods A cross-sectional study was conducted in Albania, Bulgaria, Moldova, Romania, and Serbia. The sample included 467 GPs who completed a hard-copy self-administered questionnaire, consisting of self-assessment questions related to diagnosing and treating depression. Results The most common barriers to managing depression in general practice reported by GPs were: patients' unwillingness to discuss depressive symptoms (92.3%); appointment time too short to take an adequate history (91.9%), barriers for prescribing appropriate treatment (90.6%); and patients' reluctance to be referred to a psychiatrist (89.1%). Most GPs (78.4%) agreed that recognizing depression was their responsibility, 71.7% were confident in diagnosing depression, but less than one-third (29.6%) considered that they should treat it. Conclusions Improvements to the organization of mental healthcare in all five countries should consider better training for GPs in depression diagnosis and treatment; the availability of mental healthcare specialists at primary care level, with ensured equal and easy access for all patients; and the removal of potential legal barriers for diagnosis and treatment of depression.
+C1 [Duric, Predrag; O'May, Fiona] Queen Margaret Univ Edinburgh, Inst Global Hlth & Dev, Musselburgh, Scotland.
+   [Duric, Predrag; Harhaji, Sanja] Univ Novi Sad, Fac Med, Inst Publ Hlth Vojvodina, Novi Sad, Vojvodina, Serbia.
+   [Boderscova, Larisa] WHO Country Off, Kishinev, Moldova.
+   [Chihai, Jana] State Med & Pharmaceut Univ Nicolae Testemitanu, Med Psychol & Narcol Dept, Kishinev, Moldova.
+   [Como, Ariel; Sotiri, Eugjen] Tirana Univ Hosp Ctr, Tirana, Albania.
+   [Hranov, Georgi L.] Univ Multiprofile Hosp Act Treatment Neurol & Psy, Psychiat Clin 2, Sofia, Bulgaria.
+   [Mihai, Adriana] Univ Med & Pharm, Dept Psychiat, Targul Mures, Romania.
+C3 Queen Margaret University; University of Novi Sad; Nicolae Testemitanu
+   State University of Medicine & Pharmacy; Medical University Sofia
+RP Duric, P (corresponding author), Queen Margaret Univ Edinburgh, Queen Margaret Univ Dr, Musselburgh EH21 6UU, Scotland.
+EM pduric@qmu.ac.uk
+RI Duric, Predrag/L-9002-2019; Chihai, Jana/GLQ-7102-2022
+OI Duric, Predrag/0000-0001-5770-7224; Chihai, Jana/0000-0002-7720-5544
+FU National Institute of Health Fogarty International Center
+   [ID43TW009122-01]
+FX National Institute of Health Fogarty International Center, Grant/Award
+   Number: ID43TW009122-01
+NR 36
+TC 5
+Z9 6
+U1 1
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-7885
+EI 1751-7893
+J9 EARLY INTERV PSYCHIA
+JI Early Interv. Psychiatry
+PD OCT
+PY 2019
+VL 13
+IS 5
+BP 1155
+EP 1164
+DI 10.1111/eip.12747
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IX8YC
+UT WOS:000485973000016
+PM 30277313
+OA Green Accepted, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Kovess-Masfety, V
+   Pilowsky, DJ
+   Goelitz, D
+   Kuijpers, R
+   Otten, R
+   Moro, MF
+   Bitfoi, A
+   Koç, C
+   Lesinskiene, S
+   Mihova, Z
+   Hanson, G
+   Fermanian, C
+   Pez, O
+   Carta, MG
+AF Kovess-Masfety, Viviane
+   Pilowsky, Daniel J.
+   Goelitz, Dietmar
+   Kuijpers, Rowella
+   Otten, Roy
+   Moro, Maria Francesca
+   Bitfoi, Adina
+   Koc, Ceren
+   Lesinskiene, Sigita
+   Mihova, Zlatka
+   Hanson, Greg
+   Fermanian, Christophe
+   Pez, Ondine
+   Carta, Mauro Giovanni
+TI Suicidal ideation and mental health disorders in young school children
+   across Europe
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Children; Suicidal ideation; ADHD; Mental health
+ID SELF-HARM BEHAVIOR; PSYCHOMETRIC PROPERTIES; COMMUNITY SAMPLE;
+   ADOLESCENTS; DEATH; YOUTH; PREVALENCE; DEPRESSION; RISK; PSYCHOPATHOLOGY
+AB Introduction: The aim of this study is to measure the prevalence of suicidal ideation and thoughts of death in elementary school children in a European survey and to determine the associated socio-demographic and clinical factors.
+   Methods: Data refer to children aged 6-12 (N=7062) from Italy, Turkey, Romania, Bulgaria, Lithuania, Germany, and the Netherlands randomly selected in primary schools. Suicidal thoughts and death ideation were measured using a computerized pictorial diagnostic tool from the Dominic Interactive (DI) completed by the children. The Strengths and Difficulties Questionnaire (SDQ) was administrated to teachers and parents along with a socio-demographic questionnaire.
+   Results: Suicidal ideation was present in 16.96% of the sample (from 9.9 in Italy to 26.84 in Germany), death thoughts by 21.93% (from 7.71% in Italy to 32.78 in Germany). Sl and DT were more frequent in single-parent families and large families. Externalizing disorders were strongly correlated with Sl and DT after controlling for other factors and this was true for internalizing disorders only when reported by the children.
+   Conclusion: Recognizing suicidal ideation in young children may be recommended as part of preventive strategies such as screening in the context of the presence of any mental health problems whether externalizing or internalizing. (C) 2015 Elsevier By. All rights reserved.
+C1 [Kovess-Masfety, Viviane; Moro, Maria Francesca; Hanson, Greg; Fermanian, Christophe; Pez, Ondine] Paris Descartes Univ, EA 4057, Sorbonne Paris Cite, EHESP Rennes, Paris, France.
+   [Carta, Mauro Giovanni] Azienda Osped Univ Cagliari, Ctr Psichiatria Consulenza & Psicosomat, Cagliari, Italy.
+   [Bitfoi, Adina] Romanian League Mental Hlth, Bucharest, Romania.
+   [Koc, Ceren] Yeniden Hlth & Educ Soc, Istanbul, Turkey.
+   [Goelitz, Dietmar] Univ Koblenz Landau, Inst Psychol, Koblenz, Germany.
+   [Kuijpers, Rowella; Otten, Roy] Radboud Univ Nijmegen, Inst Behav Sci, NL-6525 ED Nijmegen, Netherlands.
+   [Lesinskiene, Sigita] Vilnius State Univ, Fac Med, Psychiat Clin, Vilnius, Lithuania.
+   [Mihova, Zlatka] New Bulgarian Univ, Sofia, Bulgaria.
+   [Pilowsky, Daniel J.] Columbia Univ, Dept Epidemiol, New York State Psychiat Inst, Mailman Sch Publ Hlth, New York, NY USA.
+C3 Universite Paris Cite; University of Cagliari; Azienda
+   Ospedaliero-Universitaria di Cagliari; University of Florence; Azienda
+   Ospedaliero Universitaria Careggi; University of Koblenz & Landau;
+   Radboud University Nijmegen; Vilnius University; New Bulgarian
+   University; New York State Psychiatry Institute; Columbia University
+RP Kovess-Masfety, V (corresponding author), Paris Descartes Univ, EA 4057, Sorbonne Paris Cite, EHESP Rennes, Paris, France.
+EM viviane.kovess-masfety@ext.parisdescartes.fr
+RI Lesinskiene, Sigita/JNE-2450-2023
+OI Goelitz, Dietmar/0000-0002-1329-4023; Lesinskiene,
+   Sigita/0000-0003-2922-8626; Moro, Maria Francesca/0000-0003-4426-8044;
+   kovess-masfety, viviane/0000-0001-7045-6175
+FU European Union [2006336]
+FX This project had been financed by the European Union, Grant no. 2006336.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 35
+TC 34
+Z9 41
+U1 2
+U2 42
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD MAY 15
+PY 2015
+VL 177
+BP 28
+EP 35
+DI 10.1016/j.jad.2015.02.008
+PG 8
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA CF0NM
+UT WOS:000352240900006
+PM 25745832
+DA 2023-12-05
+ER
+
+PT J
+AU Nikolaidis, G
+   Petroulaki, K
+   Zarokosta, F
+   Tsirigoti, A
+   Hazizaj, A
+   Cenko, E
+   Brkic-Smigoc, J
+   Vajzovic, E
+   Stancheva, V
+   Chincheva, S
+   Ajdukovic, M
+   Rajter, M
+   Raleva, M
+   Trpcevska, L
+   Roth, M
+   Antal, I
+   Ispanovic, V
+   Hanak, N
+   Olmezoglu-Sofuoglu, Z
+   Umit-Bal, I
+   Bianchi, D
+   Meinck, F
+   Browne, K
+AF Nikolaidis, George
+   Petroulaki, Kiki
+   Zarokosta, Foteini
+   Tsirigoti, Antonia
+   Hazizaj, Altin
+   Cenko, Enila
+   Brkic-Smigoc, Jelena
+   Vajzovic, Emir
+   Stancheva, Vaska
+   Chincheva, Stefka
+   Ajdukovic, Marina
+   Rajter, Miro
+   Raleva, Marija
+   Trpcevska, Liljana
+   Roth, Maria
+   Antal, Imola
+   Ispanovic, Veronika
+   Hanak, Natasha
+   Olmezoglu-Sofuoglu, Zeynep
+   Umit-Bal, Ismail
+   Bianchi, Donata
+   Meinck, Franziska
+   Browne, Kevin
+TI Lifetime and past-year prevalence of children's exposure to violence in
+   9 Balkan countries: the BECAN study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Violence against children; Child abuse and neglect; Child maltreatment;
+   Violence; Epidemiology; Balkans
+ID ADVERSE CHILDHOOD EXPERIENCES; PHYSICAL ABUSE; SEXUAL-ABUSE; ICAST-CH;
+   NEGLECT; MALTREATMENT; CONSEQUENCES; ASSOCIATIONS; METAANALYSIS; SUICIDE
+AB Background: Children's exposure to violence is a major public health issue. The Balkan epidemiological study on Child Abuse and Neglect project aimed to collect internationally comparable data on violence exposures in childhood.
+   Methods: A three stage stratified random sample of 42,194 school-attending children (response rate: 66.7%) in three grades (aged 11, 13 and 16 years) was drawn from schools in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Former Yugoslavian Republic of Macedonia (FYROM), Greece, Romania, Serbia and Turkey. Children completed the ICAST-C questionnaire, which measures children's exposure to violence by any perpetrator.
+   Results: Exposure rates for psychological violence were between 64.6% (FYROM) and 83.2% (Greece) for lifetime and 59.62% (Serbia) and 70.0% (Greece) for past-year prevalence. Physical violence exposure varied between 50.6% (FYROM) and 76.3% (Greece) for lifetime and 42.5% (FYROM) and 51.0% (Bosnia) for past-year prevalence. Sexual violence figures were highest for lifetime prevalence in Bosnia (18.6%) and lowest in FYROM (7.6%). Lifetime contact sexual violence was highest in Bosnia (9.8%) and lowest in Romania (3.6%). Past-year sexual violence and contact sexual violence prevalence was lowest in Romania (5.0 and 2.1%) and highest in Bosnia (13.6 and 7.7% respectively). Self-reported neglect was highest for both past-year and lifetime prevalence in Bosnia (48.0 and 20.3%) and lowest in Romania (22.6 and 16.7%). Experiences of positive parental practices were reported by most participating children in all countries.
+   Conclusions: Where significant differences in violence exposure by sex were observed, males reported higher exposure to past-year and lifetime sexual violence and females higher exposure to neglect. Children in Balkan countries experience a high burden of violence victimization and national-level programming and child protection policy making is urgently needed to address this.
+C1 [Nikolaidis, George; Petroulaki, Kiki; Zarokosta, Foteini; Tsirigoti, Antonia] Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+   [Hazizaj, Altin; Cenko, Enila] Childrens Human Rights Ctr Albania, Tirana, Albania.
+   [Brkic-Smigoc, Jelena; Vajzovic, Emir] Univ Sarajevo, Fac Polit Sci, Sarajevo, Bosnia & Herceg.
+   [Stancheva, Vaska; Chincheva, Stefka] South West Univ N Rilski, Dept Med Social Sci, Blagoevgrad, Bulgaria.
+   [Ajdukovic, Marina; Rajter, Miro] Univ Zagreb, Fac Law, Dept Social Work, Zagreb, Croatia.
+   [Raleva, Marija; Trpcevska, Liljana] Univ Skopje, Univ Clin Psychiat, Skopje, Macedonia.
+   [Roth, Maria; Antal, Imola] Babes Bolyai Univ, Social Work Dept, Fac Sociol & Social Work, Cluj Napoca, Romania.
+   [Ispanovic, Veronika; Hanak, Natasha] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Olmezoglu-Sofuoglu, Zeynep; Umit-Bal, Ismail] Assoc Emergency Ambulance Phys, Izmir, Turkey.
+   [Bianchi, Donata] Inst Innocenti, Florence, Italy.
+   [Meinck, Franziska] Univ Oxford, Ctr Evidence Based Intervent, Oxford, England.
+   [Meinck, Franziska] North West Univ, Sch Behav Sci, Vanderbeijlpark, South Africa.
+   [Browne, Kevin] Univ Nottingham, Sch Med, Ctr Forens & Family Psychol, Div Psychiat & Appl Psychol, Nottingham, England.
+   [Zarokosta, Foteini] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Tsirigoti, Antonia] The Smile Child, Athens, Greece.
+   [Cenko, Enila] Univ New York Tirana, Humanities & Social Sci Dept, Tirana, Albania.
+   [Hanak, Natasha] AWO Clearinghaus Unaccompanied Minor Refugees, Dortmund, North Rhine Wes, Germany.
+C3 University of Sarajevo; South-West University - Bulgaria; University of
+   Zagreb; Saints Cyril & Methodius University of Skopje; Babes Bolyai
+   University from Cluj; University of Belgrade; Istituto degli Innocenti;
+   University of Oxford; North West University - South Africa; University
+   of Nottingham; Technical University of Denmark; University of New York
+   in Tirana
+RP Nikolaidis, G (corresponding author), Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+EM gnikolaidis@ich-mhsw.gr
+RI Stancheva-Popkostadinova, Vaska Sl/N-5753-2014; Roth, Maria/H-6760-2019;
+   Antal, Imola/IAM-0424-2023; Brkić Šmigoc, Jelena/GNN-1106-2022;
+   Sofuoglu, Zeynep/AAA-9584-2021; Vajzović, Emir/AAR-1233-2021; Meinck,
+   Franziska/C-7694-2014; Rajter, Miroslav/A-3619-2016
+OI Roth, Maria/0000-0002-8284-8798; Brkić Šmigoc,
+   Jelena/0000-0002-8632-1520; Meinck, Franziska/0000-0002-5234-3799;
+   Rajter, Miroslav/0000-0002-2608-3196; Nikolaidis,
+   George/0000-0001-7017-0660; Vajzovic, Emir/0000-0003-4189-0946;
+   Stancheva-Popkostadinova, Vaska/0000-0002-9302-7282
+FU European Research Council under the EU's 7th Framework Programme for
+   Research and Innovation [223478/HEALTH/CALL 2007-B]; Economic and Social
+   Research Council in the UK [ES/N017447/1]; ESRC [ES/N017447/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/N017447/1]
+   Funding Source: researchfish
+FX The research leading to this manuscript was funded by the European
+   Research Council under the EU's 7th Framework Programme for Research and
+   Innovation (ID: 223478/HEALTH/CALL 2007-B). FM received writing support
+   from the Economic and Social Research Council in the UK (ES/N017447/1).
+NR 49
+TC 40
+Z9 40
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD JAN 2
+PY 2018
+VL 12
+AR 1
+DI 10.1186/s13034-017-0208-x
+PG 15
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR8KC
+UT WOS:000419322600001
+PM 29308086
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT C
+AU Eyubova, SA
+AF Eyubova, Sevdzhihan A.
+BE Valeeva, R
+TI Hidden Aggression in Adolescence - What Do Teachers Need to Know?
+SO V INTERNATIONAL FORUM ON TEACHER EDUCATION (IFTE 2019)
+LA English
+DT Proceedings Paper
+CT 5th International Forum on Teacher Education (IFTE)
+CY MAY 29-31, 2019
+CL Kazan Fed Univ, Kazan, RUSSIA
+HO Kazan Fed Univ
+DE aggression; self-injuries; adolescents; teachers
+ID NONSUICIDAL SELF-INJURY; HARM; MUTILATION; BEHAVIORS
+AB Aggression is one of the most frequently researched topics by a wide range of specialists - psychologists, teachers, sociologists, medical specialists and others at that. Reports on the increase in the frequency of aggressive behaviors are not new, which over time also outlines the tendency to reduce the age of severe aggressive acts and to perceive the aggressive response as the norm for resolving different conflicts. The indifference and the lack of sensitivity to aggression by others become even more disturbing. This leads to changes in the direction of aggression - data from international empirical studies over the past twenty years show a very high frequency of self-aggression during adolescence. This report presents the results of a first of its kind study of the display of hidden aggression and self-harm in teenage pupils from Bulgaria. 454 adolescents, aged 13 to 19, students from 7 to 12 grade from a profiled high school in Shumen are subject to research. The study was conducted on the territory of the school, after informing the Regional Educational Administration and receiving written informed consent from the pupils' parents. For the purpose of the study, a special methodological tool, ISAS - Inventory of Statements on Self-Injury (Klonsky & Glenn, 2009) was selected. ISAS is a questionnaire consisting of two parts - behavioral and functional, with good psychometric characteristics. The first part of the questionnaire gathers information about whether the subjects injure themselves, the type of the self-injury and the frequency of auto-aggressive behaviors; the second, "functional" part, assesses different functions of self-harming behaviors. The use of ISAS allowed the differentiation of a group of individuals who self-harm from the total number of students (n = 454) - 163 students reported self-inflicted injuries, 58% of them being girls and 42% boys. Factor analysis of the results supported the assumption that auto-aggressive behaviors in adolescence serve primarily to regulate emotions. Over 2/3 (83%) of the adolescents surveyed reported having physical pain and nearly half (46%) were not alone when self-injuring, which is indicative of the fact that these behaviors also serve as a form of communication with others, which must be taken into account due to its destructive and risky nature. Adolescence is one of the most vulnerable periods in life, and adolescents need the support of parents, teachers, peers, consultants, and medical professionals. Self-harm, which is a form of cloaked aggression directed at the personality itself, is seen as a predictor and a risk factor for the most extreme and fatal form of auto-aggression among adolescents - the suicide. The results of the study can be of benefit to all specialists involved in studying adolescent aggression and self-aggression, but also to the planning of evidence-based preventive and therapeutic programs.
+C1 [Eyubova, Sevdzhihan A.] Konstantin Preslavsky Univ Shumen, 115 Univ Ska St, Shumen 9700, Bulgaria.
+C3 University of Shumen
+RP Eyubova, SA (corresponding author), Konstantin Preslavsky Univ Shumen, 115 Univ Ska St, Shumen 9700, Bulgaria.
+EM s.eyubova@shu.bg
+RI Eyubova, Sevdzhihan/AAT-2309-2020
+OI Eyubova, Sevdzhihan/0000-0001-7386-6663
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 3
+PU PENSOFT PUBLISHERS
+PI SOFIA
+PA GEO MILEV STR 13A, SOFIA, 1111, BULGARIA
+BN 978-954-642-984-1
+PY 2019
+BP 1451
+EP 1459
+DI 10.3897/ap.1.e1378
+PG 9
+WC Education & Educational Research
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research
+GA BO6HQ
+UT WOS:000520005200143
+OA gold, Green Published
+DA 2023-12-05
+ER
+
+EF

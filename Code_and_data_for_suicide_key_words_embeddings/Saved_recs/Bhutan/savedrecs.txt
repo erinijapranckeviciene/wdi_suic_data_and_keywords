@@ -1,0 +1,163 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Drexler, M
+AF Drexler, Madeline
+TI 500 Lifetimes <i>Notes on Suicide in Bhutan</i>
+SO VIRGINIA QUARTERLY REVIEW
+LA English
+DT Article
+C1 [Drexler, Madeline] Brandeis Univ, Schuster Inst Investigat Journalism, Waltham, MA 02254 USA.
+C3 Brandeis University
+RP Drexler, M (corresponding author), Brandeis Univ, Schuster Inst Investigat Journalism, Waltham, MA 02254 USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV VIRGINIA
+PI CHARLOTTESVILLE
+PA ONE WEST RANGE, BOX 400223 W RANGE, CHARLOTTESVILLE, VA 22904-4223 USA
+SN 0042-675X
+EI 2154-6932
+J9 VA QUART REV
+JI VA. Q. Rev.
+PD FAL
+PY 2017
+VL 93
+IS 4
+BP 184
+EP 196
+PG 13
+WC Literary Reviews
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA FN0IQ
+UT WOS:000415661900012
+DA 2023-12-06
+ER
+
+PT J
+AU Voelker, R
+AF Voelker, Rebecca
+TI Suicide Awareness Needed for Bhutan Refugees in United States
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT News Item
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 5
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 0098-7484
+EI 1538-3598
+J9 JAMA-J AM MED ASSOC
+JI JAMA-J. Am. Med. Assoc.
+PD AUG 28
+PY 2013
+VL 310
+IS 8
+BP 789
+EP 789
+DI 10.1001/jama.2013.194707
+PG 1
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 206YA
+UT WOS:000323561400011
+DA 2023-12-06
+ER
+
+PT J
+AU Dema, T
+   Tripathy, JP
+   Thinley, S
+   Rani, M
+   Dhendup, T
+   Laxmeshwar, C
+   Tenzin, K
+   Gurung, MS
+   Tshering, T
+   Subba, DK
+   Penjore, T
+   Lhazeen, K
+AF Dema, Tashi
+   Tripathy, Jaya Prasad
+   Thinley, Sangay
+   Rani, Manju
+   Dhendup, Tshering
+   Laxmeshwar, Chinmay
+   Tenzin, Karma
+   Gurung, Mongal Singh
+   Tshering, Tashi
+   Subba, Dil Kumar
+   Penjore, Tashi
+   Lhazeen, Karma
+TI Suicidal ideation and attempt among school going adolescents in Bhutan -
+   a secondary analysis of a global school-based student health survey in
+   Bhutan 2016
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Suicidal behaviour; GSHS; Adolescent; Sexual violence; Parental
+   engagement
+ID LONELINESS; RISK; ASSOCIATION; ADJUSTMENT; PREVALENCE; CHILDHOOD;
+   BEHAVIORS; TRENDS; INCOME
+AB Background Suicide is one of the leading causes of death and Disability Adjusted Life Years (DALYs) worldwide. The economic, emotional and human cost of suicidal behaviour to individuals, families, communities and society makes it a serious public health issue. We aim to determine the prevalence and factors associated with self-reported suicidal behaviour (suicidal ideation and attempt) among school going adolescents (13-17 years). Methods This is a secondary analysis of a nationally representative data for Bhutan namely Global School Based Student Health Survey in 2016 which reports on various dimensions of adolescent health including suicidal behaviour. The survey employed a multistage sampling method to recruit participants aged 13-17 years (n = 5809) from 50 schools (25 each in rural and urban area). The survey used an anonymous self-administered pre-tested 84-item questionnaire. Weighted analysis was done. Adjusted prevalence ratios (aPRs) and adjusted Odds Ratios (aORs) have been presented with 95% confidence intervals (95% CI). Results A total of 667 (11.6%) adolescents reported considering a suicide attempt whereas 656 (11.3%) reported attempting suicide in the past 12 months. Among those reporting suicidal ideation, 388 (58.6%) reported attempting a suicide and 274 (41.4%) had ideation alone, whereas, 247 (38.9%) reported attempting a suicide without previous ideation. Female sex, food insecurity, physical attack, sexual violence, bullying, feeling of loneliness, low parental engagement, reported worry about lack of sleep, urge to use drugs/alcohol, smokeless tobacco use, drug abuse and parental smoking were the factors associated with suicidal attempt. All these factors except smokeless tobacco use and parental smoking were associated with suicidal ideation. Having helpful/close friends was found to be protective against suicide ideation. Conclusion Suicidal behaviour among school going adolescents in Bhutan is high and alarming, especially among girls. Bullying, sexual violence, feeling of loneliness and drug abuse were some of the key risk factors identified. It is important to identify these risk factors early and effectively tackle them in order to prevent suicides. It requires a multi-faceted intervention with the support of the children, community, teachers and parents.
+C1 [Dema, Tashi; Gurung, Mongal Singh] Minist Hlth, HMIS Evaluat & Res Sect, Policy & Planning Div, Thimphu, Bhutan.
+   [Tripathy, Jaya Prasad] Int Union TB & Lung Dis, Paris, France.
+   [Tripathy, Jaya Prasad] All India Inst Med Sci, Dept Community Med, Nagpur, Maharashtra, India.
+   [Thinley, Sangay; Tshering, Tashi] Minist Hlth, Dept Publ Hlth, Sch Hlth Programme, Thimphu, Bhutan.
+   [Rani, Manju] WHO, Reg Off South East Asia, New Delhi, India.
+   [Dhendup, Tshering; Penjore, Tashi] Minist Hlth, Policy & Planning Div, Thimphu, Bhutan.
+   [Laxmeshwar, Chinmay] Medecins Sans Frontieres, New Delhi, India.
+   [Tenzin, Karma] Khesar Gyalpo Univ Med Sci Bhutan, Thimphu, Bhutan.
+   [Subba, Dil Kumar] Minist Hlth, Dept Publ Hlth, Mental Hlth Programme, Thimphu, Bhutan.
+   [Lhazeen, Karma] Minist Hlth, Dept Publ Hlth, Thimphu, Bhutan.
+C3 All India Institute of Medical Sciences (AIIMS) Nagpur; World Health
+   Organization
+RP Dema, T (corresponding author), Minist Hlth, HMIS Evaluat & Res Sect, Policy & Planning Div, Thimphu, Bhutan.
+EM tasima88@gmail.com
+RI Tripathy, Jaya/IQS-1614-2023; Laxmeshwar, Chinmay/AAC-3753-2021; Gurung,
+   Mongal Singh/J-9785-2016
+OI Laxmeshwar, Chinmay/0000-0003-1561-3857; Tripathy, Jaya
+   Prasad/0000-0002-2626-5977; Gurung, Mongal Singh/0000-0001-6481-6242;
+   Thinley, Sangay/0000-0002-0022-8465
+FU Department for International Development (DFID)
+FX The training programme was funded by the Department for International
+   Development (DFID). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+NR 43
+TC 24
+Z9 26
+U1 1
+U2 16
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD DEC 2
+PY 2019
+VL 19
+IS 1
+AR 1605
+DI 10.1186/s12889-019-7791-0
+PG 12
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA JU6MW
+UT WOS:000501789600001
+PM 31791280
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

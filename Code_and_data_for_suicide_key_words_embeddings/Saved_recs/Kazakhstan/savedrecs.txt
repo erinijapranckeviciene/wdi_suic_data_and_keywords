@@ -1,0 +1,439 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Rakisheva, B
+   Shalova, G
+AF Rakisheva, Botagoz
+   Shalova, Gulden
+BE Dronzina, T
+   ElHoudaigui, R
+TI Suicide Acts in the Republic of Kazakhstan: Chronology of Events
+   (content-analysis of mass-media)
+SO CONTEMPORARY SUICIDE TERRORISM: ORIGINS, TRENDS AND WAYS OF TACKLING IT
+SE Nato Science for Peace and Security Series E-Human and Societal Dynamics
+LA English
+DT Proceedings Paper
+CT NATO Advanced Research Workshop on Contemporary Suicide Terrorism in an
+   Islamic World - Origins, Trends and Ways of Tackling
+CY SEP 23-26, 2010
+CL Eurasian Natl Univ L N Gumilev, Fac Social Sci, Astana, KAZAKHSTAN
+SP NATO Sci Peace & Secur Programme
+HO Eurasian Natl Univ L N Gumilev, Fac Social Sci
+DE Kazakhstan; Salafism; suicide terrorism
+AB The article is about the four suicide acts which took place in Kazakhstan in 2011. Suicide terrorism is a new phenomenon for the country. It appeared as a result of several internal and external factors such as a high rate of unemployment, socio-economic challenges, various unresolved problems of young people and the growing impact of radical ideologies, for example, Salafism.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1879-8268
+BN 978-1-61499-109-0; 978-1-61499-108-3
+J9 NATO SCI PEACE SEC
+PY 2012
+VL 101
+BP 137
+EP 143
+DI 10.3233/978-1-61499-109-0-137
+PG 7
+WC Social Sciences, Interdisciplinary; Sociology; Religion
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Social Sciences - Other Topics; Sociology; Religion
+GA BC1YO
+UT WOS:000350550300011
+DA 2023-12-05
+ER
+
+PT J
+AU Sarchiapone, M
+   Iosue, M
+AF Sarchiapone, M.
+   Iosue, M.
+TI Suicide prevention in an adolescent population in Kazakhstan
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Sarchiapone, M.] Univ Molise, Psychiat, Campobasso, Italy.
+   [Iosue, M.] Univ Molise, Dept Med & Hlth Sci, Campobasso, Italy.
+C3 University of Molise; University of Molise
+RI Iosue, Miriam/IQR-6668-2023
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2018
+VL 48
+SU S
+MA S0033
+BP S47
+EP S47
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HO9BQ
+UT WOS:000461256100133
+DA 2023-12-05
+ER
+
+PT J
+AU Danbayev, S
+   Tell, D
+AF Danbayev, Serik
+   Tell, Damilya
+TI The problem of suicides in Semipalatinsk region (Republic of Kazakhstan)
+SO FASEB JOURNAL
+LA English
+DT Meeting Abstract
+C1 [Danbayev, Serik; Tell, Damilya] JSC Railways Hosp Disasters Med, Astana, Kazakhstan.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU FEDERATION AMER SOC EXP BIOL
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA
+SN 0892-6638
+EI 1530-6860
+J9 FASEB J
+JI Faseb J.
+PD APR
+PY 2014
+VL 28
+IS 1
+SU S
+MA 1179.4
+PG 1
+WC Biochemistry & Molecular Biology; Biology; Cell Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics; Cell Biology
+GA AX0OG
+UT WOS:000346651002336
+DA 2023-12-05
+ER
+
+PT J
+AU Li, A
+   Abdulkarimova, G
+   Dzhumagaliyeva, I
+   Aymaganbetova, O
+   Kudebayeva, G
+   Zholamanova, A
+   Zhubandykova, M
+   Vasko, T
+AF Li, Alexina
+   Abdulkarimova, Glyussya
+   Dzhumagaliyeva, Indira
+   Aymaganbetova, Olga
+   Kudebayeva, Gulmira
+   Zholamanova, Ainur
+   Zhubandykova, Meruert
+   Vasko, Tatyana
+TI Suicides in Post-Soviet Kazakhstan: Role of Age, Gender and Depression
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Meeting Abstract
+C1 [Abdulkarimova, Glyussya] Abay KazNPU, Alma Ata, Kazakhstan.
+   [Dzhumagaliyeva, Indira] Aktau Inst Adv Qualificat, Alma Ata, Kazakhstan.
+   [Aymaganbetova, Olga] Al Farabi KazNU, Alma Ata, Kazakhstan.
+   [Kudebayeva, Gulmira; Vasko, Tatyana] Turan Univ, Turan, Kazakhstan.
+   [Kudebayeva, Gulmira] Kazakhstan Sch Publ Hlth, Alma Ata, Kazakhstan.
+   [Zhubandykova, Meruert] Aktobe State Sci Pract Ctr, Aktobe, Kazakhstan.
+C3 Al-Farabi Kazakh National University; Turan University; Kazakhstan
+   Medical University "KSPH"
+RI Abdulkarimova, Glyussya/AAT-4957-2020
+OI Abdulkarimova, Glyussya/0000-0003-3381-0301
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0020-7594
+EI 1464-066X
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PD JUL
+PY 2016
+VL 51
+SU 1
+SI SI
+MA P0824
+BP 330
+EP 330
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA FK7XH
+UT WOS:000413720402599
+DA 2023-12-05
+ER
+
+PT J
+AU Grjibovski, AM
+   Kozhakhmetova, G
+   Kosbayeva, A
+   Menne, B
+AF Grjibovski, Andrej M.
+   Kozhakhmetova, Gulmira
+   Kosbayeva, Aliya
+   Menne, Bettina
+TI Associations Between Air Temperature and Daily Suicide Counts in Astana,
+   Kazakhstan
+SO MEDICINA-LITHUANIA
+LA English
+DT Article
+DE suicides; temperature; apparent temperature; Central Asia; Kazakhstan
+ID SEASONALITY; MORTALITY; WEATHER; ENGLAND; VIOLENT; HEAT
+AB Background and Objective. Seasonal variations in suicide mortality and its association with ambient air temperature have been observed in many countries. However, the evidence from Central Asia is scarce. The aim of the study was to assess the relationship between 4 indicators of air temperature and daily suicide counts in Astana, Kazakhstan.
+   Material and Methods. The daily counts of suicides (ICD-10 codes, X60-X84) for the population of Astana in 2005-2010 were collected using death certificates and medical records at the Municipal Bureau of Forensic Medicine. Associations between the number of cases and mean, maximum, mean apparent, and maximum apparent temperatures were studied using negative binomial regression models controlling for the effects of month, year, weekends, holidays, wind velocity, barometric pressure, and relative humidity.
+   Results. Altogether, there were 685 suicides in Astana in 2005-2010. A clear seasonal pattern with the peak in summer was observed. In crude analyses, significant associations between suicide counts and all 4 temperatures were found. After adjustment for other variables, only apparent temperatures remained significantly associated with the outcome. An increase in the mean apparent temperature by 1 degrees C was associated with an increase in suicide counts by 2.1% (95% CI, 0.4-3.8). Similar results were obtained for the maximum apparent temperature (1.2%, 95% CI, 0.1-2.3).
+   Conclusions. The results suggest a linear relationship between apparent temperatures and daily suicide counts across the whole spectrum of temperatures. Factors behind this association need further research with a further going aim to develop mitigation strategies in the period of climate change.
+C1 [Grjibovski, Andrej M.] Norwegian Inst Publ Res, Dept Int Publ Hlth, Postbox 4404, N-0403 Oslo, Norway.
+   [Grjibovski, Andrej M.] Northern State Med Univ, Int Sch Publ Hlth, Arkhangelsk, Russia.
+   [Kozhakhmetova, Gulmira] Med Univ Astana, Astana, Kazakhstan.
+   [Kosbayeva, Aliya] WHO Off Kazakhstan, Astana, Kazakhstan.
+   [Menne, Bettina] WHO, European Ctr Environm & Hlth, Bonn Off, Bonn, Germany.
+C3 Northern State Medical University; Astana Medical University; World
+   Health Organization
+RP Grjibovski, AM (corresponding author), Norwegian Inst Publ Res, Dept Int Publ Hlth, Postbox 4404, N-0403 Oslo, Norway.
+EM angr@fhi.no
+RI Menne, Bettina/GQI-3567-2022; Grjibovski, Andrej/B-9815-2016
+OI Grjibovski, Andrej/0000-0002-5464-0498
+NR 34
+TC 25
+Z9 27
+U1 1
+U2 14
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1010-660X
+EI 1648-9144
+J9 MEDICINA-LITHUANIA
+JI Med. Lith.
+PY 2013
+VL 49
+IS 8
+BP 379
+EP 385
+DI 10.3390/medicina49080059
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 304MP
+UT WOS:000330751300006
+PM 24509149
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Jiwatram-Negrón, T
+   Michalopoulos, LM
+   Ei-Bassel, N
+AF Jiwatram-Negron, Tina
+   Michalopoulos, Lynn Murphy
+   Ei-Bassel, Nabila
+TI The Syndemic Effect of Injection Drug Use, Intimate Partner Violence,
+   and HIV on Mental Health Among Drug-Involved Women in Kazakhstan
+SO GLOBAL SOCIAL WELFARE
+LA English
+DT Article
+DE SAVA syndemic; Depression; Suicide; Kazakhstan; Central Asia
+ID SUBSTANCE-ABUSE; SOCIAL SUPPORT; PSYCHOLOGICAL DISTRESS; POSITIVE WOMEN;
+   SEXUAL-ABUSE; RISK-FACTORS; DEPRESSION; HIV/AIDS; EPIDEMIOLOGY;
+   INFECTION
+AB We examined the synergistic effect of substance use (injection drug use), intimate partner violence, and HIV (dubbed the "SAVA syndemic") on depression and suicidal thoughts among a sample of high-risk women in Kazakhstan, a country with a notably high prevalence of suicide and violence against women and concentrated epidemics of HIV and injection drug use. Using baseline data from an intervention study conducted in Almaty, Kazakhstan among 364 drug-involved couples, multivariate logistic regression analyses were used to examine the relationship between the SAVA syndemic continuum and mental health. Compared to women reporting none of the SAVA conditions, women who experienced the full range of the SAVA syndemic continuum had a 15.5-fold odds (p<.05) of reporting depression and a 6-fold odds (p<.05) in reporting suicidal thought disturbances. Findings suggest the need for integrated screening assessments among practitioners and interventions designed to address multiple, commonly co-occurring conditions in Central Asia.
+C1 [Jiwatram-Negron, Tina] Arizona State Univ, Sch Social Work, 411 N Cent Ave,Suite 800, Phoenix, AZ 85006 USA.
+   [Michalopoulos, Lynn Murphy; Ei-Bassel, Nabila] Columbia Univ, Sch Social Work, 1255 Amsterdam Ave,8th Floor, New York, NY USA.
+C3 Arizona State University; Arizona State University-Downtown Phoenix;
+   Columbia University
+RP Jiwatram-Negrón, T (corresponding author), Arizona State Univ, Sch Social Work, 411 N Cent Ave,Suite 800, Phoenix, AZ 85006 USA.
+EM jiwatram@asu.edu
+FU National Institute on Drug Abuse [NIDA R01-DA022914-01A2]
+FX This study was funded by the National Institute on Drug Abuse (NIDA
+   R01-DA022914-01A2), awarded to Dr. Nabila El-Bassel.
+NR 74
+TC 9
+Z9 9
+U1 0
+U2 9
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2196-8799
+J9 GLOB SOC WELFARE
+JI Glob. Soc. Welfare
+PD JUN
+PY 2018
+VL 5
+IS 2
+BP 71
+EP 81
+DI 10.1007/s40609-018-0112-1
+PG 11
+WC Social Work
+WE Emerging Sources Citation Index (ESCI)
+SC Social Work
+GA HD2GD
+UT WOS:000452328200001
+PM 30364672
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT B
+AU Khan, MM
+   Syed, EU
+AF Khan, Murad M.
+   Syed, Ehsan Ullah
+BE OConnor, RC
+   Platt, S
+   Gordon, J
+TI Suicide in Asia: Epidemiology, Risk Factors, and Prevention
+SO INTERNATIONAL HANDBOOK OF SUICIDE PREVENTION: RESEARCH, POLICY AND
+   PRACTICE
+LA English
+DT Article; Book Chapter
+ID COMMON MENTAL-DISORDERS; HONG-KONG; DEVELOPING-WORLD; SRI-LANKA;
+   PESTICIDES; POPULATION; STRATEGIES; SINGAPORE; DEATHS; CHINA
+AB Asia is the world's largest continent, occupying approximately half the earth's land mass and containing half the world's population. Although ethnically, culturally, economically, and religiously diverse, there are a number of factors common to all Asian countries, as well as some important differences. It is estimated that suicides in Asia contribute 60% to the global one million suicides annually, with three Asian countries (viz. China, India, and Japan) accounting for more than 40% of this figure. Other Asian countries with high suicide rates include Kazakhstan, Sri Lanka, and South Korea. The majority of people dying by suicide in Asia are young, and pesticides are one of the most common methods used. In many Asian countries, the male to female ratio is much narrower and in China it is reversed. Given that there are 10-20 attempts for every completed suicide and at least six people are directly affected by a suicide or a serious attempt, there may be as many as 60 million people in Asia suffering from the consequences of a suicidal act every year, but postvention remains a neglected area in Asia. Due to a variety of legal, socio-cultural, and religious factors suicide rates in many Asian countries are grossly underestimated and there are huge research and knowledge gaps. A fifth of Asian countries either do not collect national mortality statistics on suicide or even if they do, they do not report them to the World Health Organization (WHO). To reduce the enormous burden of suicide in Asia, there is a need for more and better research to inform policy and establish culturally relevant suicide prevention programmes.
+C1 [Khan, Murad M.] Aga Khan Univ, Dept Psychiat, Karachi, Pakistan.
+   [Syed, Ehsan Ullah] Penn State Coll Med, Penn State Milton S Hershey Med Ctr, Dept Psychiat, Harrisburg, PA USA.
+C3 Aga Khan University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Penn State Health
+RP Khan, MM (corresponding author), Aga Khan Univ, Dept Psychiat, Karachi, Pakistan.
+RI Khan, Murad/AAE-5134-2020
+NR 78
+TC 6
+Z9 6
+U1 0
+U2 5
+PU BLACKWELL SCIENCE PUBL
+PI OXFORD
+PA OSNEY MEAD, OXFORD OX2 0EL, ENGLAND
+BN 978-1-119-99856-3; 978-0-470-68384-2
+PY 2011
+BP 487
+EP 506
+D2 10.1002/9781119998556
+PG 20
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Psychology; Psychiatry
+GA BA8ZP
+UT WOS:000339056800029
+DA 2023-12-05
+ER
+
+PT J
+AU Li, A
+   Aimaganbetova, O
+   Kozlov, V
+   Mynbaeva, A
+AF Li, Alexina
+   Aimaganbetova, Olga
+   Kozlov, Vladimir
+   Mynbaeva, Aigerim
+TI Research into adolescents' suicidal thoughts in Kazakhstan in the
+   context of cognitive-behavioural approach
+SO PSYCHIATRIA I PSYCHOLOGIA KLINICZNA-JOURNAL OF PSYCHIATRY AND CLINICAL
+   PSYCHOLOGY
+LA English
+DT Article
+DE suicidal thoughts; cognitive-behavioural approach; irrational attitudes;
+   adolescents; Kazakhstan
+ID THERAPY; INTERVENTION; DEPRESSION; INTERNET
+AB This article is devoted to empirical research of adolescents' suicidal thoughts in the context of the cognitive-behavioural approach. In Kazakhstan, this type of research is being conducted for the first time. The studies are conducted in general educational institutions of Kazakhstan with the consent of teachers, parents and participants themselves. The aim of this paper is to study irrational attitudes that generate cognitive distortions and become predictors for suicidal thoughts as well as adolescents' attitude towards parents, family, teachers, the same and opposite sexes, to their doubts and fears, feelings of guilt, the past and future, and to life goals. Research methods applied in this paper are CP-45 by Yunatskevich, Irrational Beliefs Test (IBT) by Ellis, Sachs and Levy's The Sentence Completion Test, and the psychological verbal and communicative method "Conversation." Study results revealed the most commonly used cognitive distortions formed as irrational settings such as "Frustrating tolerance," "Owes to yourself ", "Owes to others" and "Catastrophisation," which are the reasons for low self-esteem and irrational thinking to be generated. Other main reasons are negative attitude towards one's own future or own past, and to their parents. In a risk group, adolescents represent dominance of irrational attitudes which are later transformed into a cognitive distortion of reality leading to suicidal thoughts. Suicide-oriented adolescents have a negative attitude to their own future and past and to their parents as well as socially oriented fears.
+C1 [Li, Alexina] Univ Int Business, Alma Ata, Kazakhstan.
+   [Aimaganbetova, Olga; Mynbaeva, Aigerim] Al Farabi Kazakh Natl Univ, Alma Ata, Kazakhstan.
+   [Kozlov, Vladimir] PG Demidov Yaroslavl State Univ, Yaroslavl, Russia.
+C3 Al-Farabi Kazakh National University; Yaroslavl State University
+RP Li, A (corresponding author), Abay Ave 8a, Alma Ata 050010, Kazakhstan.
+EM alexina.li@mail.ru
+RI Aimaganbetova, Olga/O-2129-2014; Mynbayeva, Aigerim/A-1028-2015
+OI Mynbayeva, Aigerim/0000-0001-9613-6030
+NR 30
+TC 0
+Z9 1
+U1 1
+U2 4
+PU MEDICAL COMMUNICATIONS
+PI WARSZAWA
+PA UL POWSINSKA 34, WARSZAWA, 02903, POLAND
+SN 1644-6313
+J9 PSYCHIATR PSYCHOL KL
+JI Psychiatr. Psychol. Klin.
+PY 2019
+VL 19
+IS 3
+BP 288
+EP 292
+DI 10.15557/PiPK.2019.0030
+PG 5
+WC Psychiatry
+WE Emerging Sources Citation Index (ESCI)
+SC Psychiatry
+GA JI3GM
+UT WOS:000493353200003
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Vinokurov, E
+AF Vinokurov, Evgenij
+TI Among Partners The Eurasian Economic Union
+SO OSTEUROPA
+LA German
+DT Article
+AB The Eurasian Economic Union, founded in 2015, is the most important integration project in post-Soviet space. After more than two decades of disintegration and failed reintegration, Russia, Belarus, Armenia, Kazakhstan, and Kyrgyzstan now have for the first time a common market for goods and services. However, some goods are exempt and non-tariff barriers are numerous. For now, coordination of monetary and fiscal policies remains only a goal. Just as important as internal integration is the expansion of cooperation with China and the European Union as the new common market's most important partners. The creation of a "Fortress Eurasia" would be suicide.
+C1 [Vinokurov, Evgenij] Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RP Vinokurov, E (corresponding author), Zentrums Integrat Forsch Euras Entwicklungsbank, St Petersburg, Russia.
+RI Vinokurov, Evgeny/F-1668-2014
+OI Vinokurov, Evgeny/0000-0002-9584-3494
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 5
+PU BWV-BERLINER WISSENSCHAFTS-VERLAG GMBH
+PI BERLIN
+PA AXEL-SPRINGER-STR 54 A, BERLIN, D-10117, GERMANY
+SN 0030-6428
+EI 2509-3444
+J9 OSTEUROPA
+JI Osteuropa
+PY 2016
+VL 66
+IS 5
+BP 129
+EP +
+PG 13
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA DZ6RD
+UT WOS:000385988700008
+DA 2023-12-05
+ER
+
+EF

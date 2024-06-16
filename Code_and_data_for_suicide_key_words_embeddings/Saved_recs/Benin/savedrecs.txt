@@ -1,0 +1,374 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Randall, JR
+   Doku, D
+   Wilson, ML
+   Peltzer, K
+AF Randall, Jason R.
+   Doku, David
+   Wilson, Michael L.
+   Peltzer, Karl
+TI Suicidal Behaviour and Related Risk Factors among School-Aged Youth in
+   the Republic of Benin
+SO PLOS ONE
+LA English
+DT Article
+ID SELF-HARM; GOING ADOLESCENTS; IDEATION; PHILIPPINE; PREVALENCE;
+   THOUGHTS; SMOKING; GENDER; HEALTH; INCOME
+AB Introduction: Research on factors associated with suicidal ideation and suicide attempts has been conducted largely in developed countries. Research on West African countries in particular is lacking.
+   Methods: Data were obtained from the Global School-based Health Survey conducted in Benin in 2009. This was a cross-sectional study of three grades, spanning Junior and Senior High, which sampled a total of 2,690 adolescents. Data on the occurrence of demographic, psycho-social and socio-environmental risk factors were tested using multinomial logistic regression for their association with suicidal ideation and suicide attempts.
+   Results: The survey indicated that 23.2% had thought about suicide and 28.3% had made a suicide attempt in the previous year. Anxiety, loneliness, being bullied, alcohol misuse, illicit drug use, and lack of parental support were independently related to the ideation outcomes, suicidal ideation without planning and suicidal ideation with planning. Multinomial regression analysis, using one suicide attempt and multiple suicide attempts as outcomes, revealed that female sex, anxiety, loneliness, being physically attacked, and illicit drug use were associated these outcomes.
+   Discussion: The prevalence of suicide attempts reported in the survey is relatively high. It is possible that there are cultural factors that could explain this finding. Our research indicates that many factors are related to the occurrence of suicidal ideation and suicide attempts among youth in Benin. Illicit drug use and violence in particular are associated with a high rate of suicide attempts in Benin. Measures to address these issues may reduce the risk of self-inflicted violence.
+C1 [Randall, Jason R.; Wilson, Michael L.] PeerCorps Trust Fund, Ctr Injury Prevent & Community Safety, Dar Es Salaam, Tanzania.
+   [Randall, Jason R.] Univ Manitoba, Dept Community Hlth Sci, Winnipeg, MB R3T 2N2, Canada.
+   [Doku, David] Univ Cape Coast, Dept Populat & Hlth, Cape Coast, Ghana.
+   [Wilson, Michael L.] Univ Turku, Turku Univ Hosp, Dept Adolescent Psychiat, Unit Adolescent Psychiat, Turku, Finland.
+   [Peltzer, Karl] Human Sci Res Council, Pretoria, South Africa.
+   [Peltzer, Karl] Univ Limpopo, Dept Psychol, Mangkwang E, South Africa.
+C3 University of Manitoba; University of Cape Coast; University of Turku;
+   Human Sciences Research Council-South Africa; University of Limpopo
+RP Randall, JR (corresponding author), PeerCorps Trust Fund, Ctr Injury Prevent & Community Safety, Dar Es Salaam, Tanzania.
+EM jason.randall@peercorpstrust.org
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876;
+   Randall, Jason/0000-0002-0288-3551; Doku, David/0000-0001-9503-2520
+FU Suomen Kuulturirahsto (Helsinki, Finland)
+FX The authors would like to thank the Republic of Benin Ministry of
+   Health; the World Health Organization (Geneva, Switzerland); and the
+   Centers for Disease Control and Prevention (Atlanta, GA, USA). We would
+   also like to thank all the survey officers and students who took part in
+   the study. Author MLW's participation was supported by a grant from
+   Suomen Kuulturirahsto (Helsinki, Finland).
+NR 52
+TC 89
+Z9 89
+U1 0
+U2 26
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 5
+PY 2014
+VL 9
+IS 2
+AR e88233
+DI 10.1371/journal.pone.0088233
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA AA1AT
+UT WOS:000330829200147
+PM 24505443
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Akhiwu, WO
+   Igbe, AP
+AF Akhiwu, Wilson O.
+   Igbe, Alex P.
+TI Fatal gunshot injuries in Benin City, Nigeria
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+DE Accidental; gunshot; homicide; suicide
+ID FIREARM DEATHS; HOMICIDE; SUICIDE
+AB An upsurge in gun violence in recent times in our environment necessitated this study, which aims to document the patterns of fatal gunshot injuries with the hope of finding a solution to this problem. The study was a retrospective analysis of cases of fatal gunshot injuries on which autopsies were carried out over the 5-year period from January 1998 to December 2002 at Police Medical Services, Benin City - a Nigerian ancient town located in the South-South zone of the country. Most cases of medico-legal death in Benin City and environs are referred to the Police Pathologist at the center for autopsy. A total of 210 cases representing 27.2% of all medico-legal deaths during the study period were reviewed. Males were far more affected than females (M:F = 10.7:1). The intent for the fatal gunshots was murder (88.5%), excusable homicide (4.8%), accident (4.3%) and suicide (0.5%). In 1.9% of the deaths, the circumstances were not clear. Armed robbers, thugs and assassins accounted for 88.1% of the fatal shots, while the Police accounted for 9.0%. The trunk was affected much more than the head, neck and limbs. There is a need to improve security in the country and reduce poverty. Illegal firearms should also be removed from circulation. An improvement in emergency health services will reduce deaths from gunshots.
+C1 [Akhiwu, Wilson O.] Police Headquarters, Police Med, Benin, Nigeria.
+   [Igbe, Alex P.] Ambrose Alli Univ, Dept Histopathol, Ekpoma, Nigeria.
+RP Akhiwu, WO (corresponding author), Police Headquarters, Police Med, Benin, Nigeria.
+EM wilak@yahoo.com
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD OCT
+PY 2013
+VL 53
+IS 4
+BP 199
+EP 202
+DI 10.1177/0025802413483718
+PG 4
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 297YQ
+UT WOS:000330291400003
+PM 23842480
+DA 2023-12-06
+ER
+
+PT J
+AU Akhiwu, WO
+   Nwafor, CC
+   Igbe, AP
+AF Akhiwu, W. O.
+   Nwafor, C. C.
+   Igbe, A. P.
+TI A 20 year retrospective analysis of medicolegal deaths in a tertiary
+   hospital setting in Nigeria
+SO NIGERIAN JOURNAL OF CLINICAL PRACTICE
+LA English
+DT Article
+DE Accidental death; homicide; medicolegal death; road traffic accident;
+   sudden unexpected natural death suicide
+ID CORONERS AUTOPSIES; MEDICAL EXAMINER; SUICIDE
+AB Objective: To determine and classify the various types of medicolegal deaths as seen at University of Benin Teaching Hospital (UBTH), Benin City, Nigeria. Materials and Methods: This is a retrospective study of all the medicolegal deaths seen in the Department of Histopathology, (UBTH, Benin City over a 20 year period (January 1990-December 2009) as recorded in the autopsy registers of the department. Result: A total of 5035 autopsies were done during the period, 89% of which were coroner cases. Four thousand, four hundred and eighty-one coroner cases representing 12.5% of all bodies received by the mortuary during the period were studied. The male to female ratio was 1.9:1, with an overall mean age of 38.3 years. The ages ranged from 1 day to 101 years with a peak incidence in the 25-44 years age group. A total of 553 children and 3928 adults were involved. The commonest indication for coroners autopsy was sudden unexpected natural deaths (SUNDs) which accounted for 65.5% of the cases. Other causes of death were accidents, homicide, suicide, and undetermined causes representing 28.6, 5.0, 0.5, and 0.4%, respectively. Commonest cause of SUND was cardiovascular diseases with complications of hypertension being the most common CVS disease (26.9%). Road traffic accident was the commonest form of accident causing death (88.7%). Public enlightenment and health education about routine medical screening will help to reduce causes of natural deaths. Conclusion: This study shows the pattern of medicolegal autopsies in UBTH and this preliminary data will provide a baseline for future research and help in formulating policies to help in reduction of preventable causes of death.
+C1 [Akhiwu, W. O.; Nwafor, C. C.] Univ Benin, Dept Pathol, Teaching Hosp, Benin, Nigeria.
+   [Igbe, A. P.] Ambrose Alli Univ, Ekpoma, Nigeria.
+C3 University of Benin
+RP Akhiwu, WO (corresponding author), Univ Benin, Dept Pathol, Teaching Hosp, Benin, Nigeria.
+EM wilakh@yahoo.com
+RI nwafor, chukwuemeka/JCT-7071-2023
+OI nwafor, chukwuemeka/0000-0001-6143-3780
+NR 20
+TC 4
+Z9 4
+U1 0
+U2 0
+PU MEDKNOW PUBLICATIONS & MEDIA PVT LTD
+PI MUMBAI
+PA B-9, KANARA BUSINESS CENTRE, OFF LINK RD, GHAKTOPAR-E, MUMBAI, 400075,
+   INDIA
+SN 1119-3077
+J9 NIGER J CLIN PRACT
+JI Niger. J. Clin. Pract.
+PD OCT-DEC
+PY 2013
+VL 16
+IS 4
+BP 535
+EP 539
+DI 10.4103/1119-3077.116910
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 216EB
+UT WOS:000324263300025
+PM 23974754
+DA 2023-12-06
+ER
+
+PT J
+AU Chikezie, UE
+   Otakpor, AN
+   Kuteyi, OB
+   James, BO
+AF Chikezie, U. E.
+   Otakpor, A. N.
+   Kuteyi, O. B.
+   James, B. O.
+TI Suicidality among individuals with HIV/AIDS in Benin City, Nigeria: A
+   case-control study
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article
+DE suicidality; HIV/AIDS; Nigeria
+AB Suicidality has been reported to be common in persons living with HIV/AIDS (PLWHA). Reports from sub-Saharan countries have been scanty. We surveyed the prevalence of suicidal ideation and attempt among PLWHAs (n = 150) and compared them with staff of a local government who acted as controls. Over a third (34.7%) of PLWHAs versus 4% of controls expressed suicidal ideation in the preceding month, with 9.3% attempting suicide in the six months prior to the study. Commonest type of attempt was a drug overdose. Female gender, unemployment, co-morbid illness, living alone and having a partner with the disease were associated with suicidal ideation. Clinicians should routinely enquire about suicidality in PLWHAs to reduce mortality.
+C1 [Chikezie, U. E.; James, B. O.] Fed Psychiat Hosp, Dept Clin Serv, Benin, Edo State, Nigeria.
+   [Otakpor, A. N.] Univ Benin, Dept Mental Hlth, Benin, Edo State, Nigeria.
+   [Kuteyi, O. B.] Fed Psychiat Hosp, Dept Clin Serv, Calabar, Nigeria.
+C3 University of Benin
+RP Chikezie, UE (corresponding author), Fed Psychiat Hosp, Dept Clin Serv, Benin, Edo State, Nigeria.
+EM ezechikezie@yahoo.com
+RI Eze, Chikezie Uzoechi/AAA-2737-2021
+NR 10
+TC 24
+Z9 25
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-0121
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PY 2012
+VL 24
+IS 7
+BP 843
+EP 845
+DI 10.1080/09540121.2011.645008
+PG 3
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA 968JB
+UT WOS:000305973900005
+PM 22272812
+DA 2023-12-06
+ER
+
+PT C
+AU Ofili, AN
+AF Ofili, AN
+GP MEDIMOND
+TI Knowledge, attitude and practice of long distance drivers towards
+   HIV/AIDS
+SO XV INTERNATIONAL AIDS CONFERENCE: SOCIAL AND ECONOMICAL ISSUES
+LA English
+DT Proceedings Paper
+CT 15th International AIDS Conference
+CY JUL 11-17, 2004
+CL Bangkok, THAILAND
+AB Introduction: The aim of this study was to assess the knowledge, attitude and practice of HIV/AIDS among long distance drivers.
+   Methods: A cross-sectional study was carried out among 350 long distance drivers on transit through Benin-City, Edo-State, Nigeria.
+   Result: Only 18.9% of the respondents had correct knowledge of means of transmission of HIV/AIDS and only 5.1% knew that a virus causes HIV/AIDS. One hundred and twenty-three (35.1%) will commit suicide if confirmed to be HIV positive. Only 26.6% of the respondents will educate others if confirmed positive to HIV/AIDS. Two hundred and sixty-four (75.4%) would either abstain from casual sex or use condoms.
+   Conclusions: Knowledge and attitude to HIV/AlDS was generally poor. However their protective sexual practices in terms of the use of condoms and abstinence was good as 75.4% would either abstain from casual sex or use condoms. There is a dire need for public enlightenment and the need to focus on the target group is imperative.
+C1 Univ Benin, Sch Med, Dept Community Hlth, Benin, Edo State, Nigeria.
+C3 University of Benin
+RP Ofili, AN (corresponding author), Univ Benin, Sch Med, Dept Community Hlth, Benin, Edo State, Nigeria.
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MEDIMOND PUBLISHING CO
+PI BOLOGNA
+PA VIA RUBBIANI 6/2, 40124 BOLOGNA, ITALY
+BN 88-7587-065-9
+PY 2004
+BP 59
+EP 65
+PG 3
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Infectious Diseases
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Infectious Diseases
+GA BBR26
+UT WOS:000227352000013
+DA 2023-12-06
+ER
+
+PT J
+AU Balogun, WG
+   Cobham, AE
+   Amin, A
+AF Balogun, Wasiu Gbolahan
+   Cobham, Ansa Emmanuel
+   Amin, Abdulbasit
+TI Neuroscience in Nigeria: the past, the present and the future
+SO METABOLIC BRAIN DISEASE
+LA English
+DT Article
+DE Nigeria; Neuroscience; Funding; History; Research
+ID MENTAL-ILLNESS; NEUROPSYCHIATRIC OBSERVATIONS; BENIN-CITY; PREVALENCE;
+   EPILEPSY; DISEASE; SUICIDE; YORUBA; NEUROPATHY; NEUROLOGY
+AB The science of the brain and nervous system cuts across almost all aspects of human life and is one of the fastest growing scientific fields worldwide. This necessitates the demand for pragmatic investment by all nations to ensure improved education and quality of research in Neurosciences. Although obvious efforts are being made in advancing the field in developed societies, there is limited data addressing the state of neuroscience in sub-Saharan Africa. Here, we review the state of neuroscience development in Nigeria, Africa's most populous country and its largest economy, critically evaluating the history, the current situation and future projections. This review specifically addresses trends in clinical and basic neuroscience research and education. We conclude by highlighting potentially helpful strategies that will catalyse development in neuroscience education and research in Nigeria, among which are an increase in research funding, provision of tools and equipment for training and research, and upgrading of the infrastructure at hand.
+C1 [Balogun, Wasiu Gbolahan] Univ Sains Malaysia, Adv Med & Dent Inst, Bertam 13200, Penang, Malaysia.
+   [Cobham, Ansa Emmanuel] Monash Univ, Sch Biol Sci, Clayton, Vic 3800, Australia.
+   [Cobham, Ansa Emmanuel] Univ Calabar, Dept Anat, Fac Basic Med Sci, Calabar, Nigeria.
+   [Amin, Abdulbasit] Inst Gulbenkian Ciencias, Rua Quinta Grande 6, P-2780156 Oeiras, Portugal.
+   [Amin, Abdulbasit] Univ Ilorin, Dept Physiol, Fac Basic Med Sci, Ilorin, Nigeria.
+C3 Universiti Sains Malaysia; Monash University; University of Calabar;
+   Instituto Gulbenkian de Ciencia; University of Ilorin
+RP Balogun, WG (corresponding author), Univ Sains Malaysia, Adv Med & Dent Inst, Bertam 13200, Penang, Malaysia.
+EM wbalogun3@gmail.com; ansacobham@yahoo.com; muzzammil11m@gmail.com
+RI Cobham, Ansa/N-2167-2019; Balogun, Wasiu Gbolahan/Q-1554-2015; Cobham,
+   Ansa E/D-7501-2018; Amin, Abdulbasit/ITT-8804-2023
+OI Cobham, Ansa/0000-0003-4688-2558; Balogun, Wasiu
+   Gbolahan/0000-0002-1422-8562; Cobham, Ansa E/0000-0003-4688-2558; Amin,
+   Abdulbasit/0000-0001-5460-9581
+FU USM; TWAS; Monash University; IGC
+FX BWG is grateful to USM and TWAS for the award of doctorate fellowship,
+   CAE is grateful to Monash University for the award of Dean Scholarship,
+   AA is grateful to IGC for the doctorate fellowship.
+NR 86
+TC 7
+Z9 7
+U1 0
+U2 6
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0885-7490
+EI 1573-7365
+J9 METAB BRAIN DIS
+JI Metab. Brain Dis.
+PD APR
+PY 2018
+VL 33
+IS 2
+SI SI
+BP 359
+EP 368
+DI 10.1007/s11011-017-0119-9
+PG 10
+WC Endocrinology & Metabolism; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Endocrinology & Metabolism; Neurosciences & Neurology
+GA GA4CY
+UT WOS:000428278400002
+PM 28993966
+DA 2023-12-06
+ER
+
+PT J
+AU James, BO
+   Isa, EW
+   Oud, N
+AF James, B. O.
+   Isa, E. W.
+   Oud, N.
+TI Patient aggression in psychiatric services: the experience of a sample
+   of nurses at two psychiatric facilities in Nigeria
+SO AFRICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Nurses; Aggression; Attitudes; Nigeria
+ID ATTITUDES; KNOWLEDGE
+AB Objective: Aggression is a common feature in psychiatric in-patient units in Africa. The attitudes of psychiatric nurses and their perceptions of the frequency of in-patient aggression have not been explored in the Nigerian context. Method: Using a cross-sectional study design, two self-report questionnaires (the Attitudes toward Aggression Scale (ATAS) and the Perception of the Prevalence of Aggression Scale (POPAS)) were administered to nursing staff (n=73) at two psychiatric facilities in Benin City, Nigeria. Results: Overall, nurses viewed aggression as offensive, destructive and intrusive. They were less likely to view it as a means of communication or serving protective functions. Verbal aggression was the commonest type of aggression experienced while sexual intimidation and suicide attempts were least common. Male nurses were more likely to experience physical violence and aggressive 'splitting' behaviours, while nurses with over a decade of professional experience were more likely to experience verbal and humiliating aggressive behaviours. In contrast to previous studies, fewer nurses required days off work due to aggressive behaviour, Conclusion: Aggression is commonly experienced by nurses in in-patient units in Nigeria. Their views were predominantly negative. Training programmes are required to change staff attitudes as well as research on the cultural factors mediating these attitude dispositions.
+C1 [James, B. O.; Isa, E. W.] Fed Psychiat Hosp, Dept Clin Serv, Benin, Edo State, Nigeria.
+   [Oud, N.] Oud Consultancy, Amsterdam, Netherlands.
+RP James, BO (corresponding author), Fed Psychiat Hosp, Dept Clin Serv, Benin, Edo State, Nigeria.
+EM bawojames@yahoo.com
+NR 15
+TC 14
+Z9 17
+U1 0
+U2 15
+PU IN HOUSE PUBLICATIONS
+PI JOHANNESBURG
+PA PO BOX 412748, CRAIGHALL 2024, JOHANNESBURG, 00000, SOUTH AFRICA
+SN 1994-8220
+J9 AFR J PSYCHIATRY
+JI Afr. J. Psychiatry
+PD MAY
+PY 2011
+VL 14
+IS 2
+BP 130
+EP 133
+DI 10.4314/ajpsy.v14i2.4
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 815MO
+UT WOS:000294529900006
+PM 21687911
+OA Bronze
+DA 2023-12-06
+ER
+
+EF

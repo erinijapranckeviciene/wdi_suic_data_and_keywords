@@ -1,0 +1,1242 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Armes, SE
+   Somo, CM
+   Khann, S
+   Seponski, DM
+   Lahar, CJ
+   Kao, S
+   Schunert, T
+AF Armes, Stephanie E.
+   Somo, Charity M.
+   Khann, Sareth
+   Seponski, Desiree M.
+   Lahar, Cindy J.
+   Kao, Sovandara
+   Schunert, Tanja
+TI Mental Health Indicators of Suicide in Cambodian Women
+SO ASIA-PACIFIC JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE women's health; Cambodia; suicide attempt; mental health; women's
+   health/violence
+ID POSTTRAUMATIC-STRESS-DISORDER; KEY SOMATIC COMPLAINTS; CULTURAL
+   SYNDROMES; PTSD
+AB Global suicide rates are steadily increasing, and suicide completions in Asia outnumber those in Western countries. Young females are especially at risk, with higher rates of completion and lack of suicide support because of familial and cultural stigma and constraints. Lack of infrastructure to systematically record suicide deaths and attempts makes studying suicide in low- and middle-income countries challenging. Given the critical public health need for suicide intervention and prevention, research on suicide is crucial. The present study adds to the lack of information regarding suicide in Cambodia by exploring reports of attempted suicide by women from a nationally representative sample of Cambodian women (N = 1813). In a series of logistic regression models, findings indicate that a culturally salient measure of Cambodian syndromes, symptoms of depression, and posttraumatic stress disorder contributed to increased odds of attempting to commit suicide. Implications for policymakers and interventionists within Cambodia and Asian contexts are discussed.
+C1 [Armes, Stephanie E.; Somo, Charity M.; Seponski, Desiree M.] Univ Georgia, Athens, GA USA.
+   [Khann, Sareth; Kao, Sovandara] Royal Univ Phnom Penh, Phnom Penh, Cambodia.
+   [Lahar, Cindy J.] Univ South Carolina Beaufort, Bluffton, SC USA.
+C3 University System of Georgia; University of Georgia
+RP Armes, SE (corresponding author), Univ Georgia, Child Dev Lab McPhaul 101, 202 Carlton St, Athens, GA 30602 USA.
+EM stephanie.armes25@uga.edu
+RI Armes, Stephanie/IQV-2465-2023
+OI Armes, Stephanie/0000-0002-4767-8658; Khann, Sareth/0009-0006-6984-0085;
+   Somo, Charity Mokgaetji/0000-0003-1282-1431
+FU GIZ (Gesellschaft fur internationale Zusammenarbeit); Maryknoll;
+   Catholic Relief Services (CRS); Owens Institute for Behavioral Research
+   at the University of Georgia
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: The data
+   collection of this article was funded by GIZ (Gesellschaft fur
+   internationale Zusammenarbeit), Maryknoll, and Catholic Relief Services
+   (CRS). The data analysis and writing were funded by the Owens Institute
+   for Behavioral Research at the University of Georgia.
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1010-5395
+EI 1941-2479
+J9 ASIA-PAC J PUBLIC HE
+JI Asia-Pac. J. Public Health
+PD JAN
+PY 2018
+VL 30
+IS 1
+BP 7
+EP 18
+DI 10.1177/1010539517751349
+PG 12
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GB5QS
+UT WOS:000429121600002
+PM 29359600
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Jegannathan, B
+   Kullgren, G
+   Dahlblom, K
+AF Jegannathan, Bhoomikumar
+   Kullgren, Gunnar
+   Dahlblom, Kjerstin
+TI How do young people in Cambodia perceive the impact of societal
+   attitudes, media and religion on suicidal behaviour?
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Societal attitudes; media; religion; suicide; young people; Cambodia
+ID MENTAL-HEALTH; ADOLESCENT SUICIDE; HELP-SEEKING; SPIRITUALITY; GENDER;
+   RISK; BUDDHISM; STIGMA
+AB Background: Young people in low and middle income countries (LMICs) in societal transitions with rapidly changing norms face an increased risk of suicide. This study explores how young people in Cambodia understand the impact on suicidal behaviour from societal attitudes, media and religion.
+   Material: Focus group discussions were held with school students from a suburban area. Thematic analysis was used to interpret the data.
+   Discussion: Participants perceived the prevailing suicide-stigmatizing societal attitudes, the double-edged media and suicide-ambiguity in Buddhist religion as challenging. Globalization was recognized as contradicting with traditional Cambodian norms and values.
+   Conclusion: Suicide prevention programmes should take into consideration the complex picture of suicide that young people are exposed to.
+C1 [Jegannathan, Bhoomikumar] Chey Chumneas Referral Hosp, Ctr Child & Adolescent Mental Hlth, Takhmau, Cambodia.
+   [Jegannathan, Bhoomikumar; Kullgren, Gunnar] Umea Univ, Dept Clin Sci, Psychiat, Umea, Sweden.
+   [Dahlblom, Kjerstin] Umea Univ, Dept Publ Hlth & Clin Med, Epidemiol & Global Hlth, SE-90187 Umea, Sweden.
+C3 Umea University; Umea University
+RP Dahlblom, K (corresponding author), Umea Univ, Dept Publ Hlth & Clin Med, Epidemiol & Global Hlth, SE-90187 Umea, Sweden.
+EM kjerstin.dahlblom@umu.se
+RI Jegannathan, Bhoomikumar/HKP-1086-2023
+NR 72
+TC 5
+Z9 5
+U1 2
+U2 11
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD MAR
+PY 2016
+VL 62
+IS 2
+BP 114
+EP 122
+DI 10.1177/0020764015597952
+PG 9
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DE1YF
+UT WOS:000370422200003
+PM 26238990
+DA 2023-12-06
+ER
+
+PT B
+AU Magee, L
+AF Magee, L.
+TI Interwoven Cities
+SO INTERWOVEN CITIES
+SE Palgrave Pivot
+LA English
+DT Book
+ID CITY; DYNAMICS; CAMBODIA; MODELS; SIMULATION; BEHAVIOR; SUICIDE; FUTURE;
+   LIFE
+RI Magee, Liam/K-6140-2019
+OI Magee, Liam/0000-0003-2696-1064
+NR 237
+TC 4
+Z9 4
+U1 0
+U2 0
+PU PALGRAVE
+PI BASINGSTOKE
+PA HOUNDMILLS, BASINGSTOKE RG21 6XS, ENGLAND
+BN 978-1-137-54616-6; 978-1-137-54615-9
+J9 PALGRAVE PIVOT
+PY 2016
+BP 1
+EP 156
+DI 10.1057/9781137546166
+PG 156
+WC Urban Studies
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Urban Studies
+GA BH3QE
+UT WOS:000399911700009
+DA 2023-12-06
+ER
+
+PT J
+AU Harris, KM
+   Thandrayen, J
+   Samphoas, C
+   Se, P
+   Lewchalermwongse, B
+   Ratanashevorn, R
+   Perry, ML
+   Britts, C
+AF Harris, Keith M.
+   Thandrayen, Joanne
+   Samphoas, Chien
+   Se, Pros
+   Lewchalermwongse, Boontriga
+   Ratanashevorn, Rattanakorn
+   Perry, Megan L.
+   Britts, Choloe
+TI Estimating Suicide Rates in Developing Nations: A Low-Cost Newspaper
+   Capture-Recapture Approach in Cambodia
+SO ASIA-PACIFIC JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Cambodia; capture-recapture; epidemiology; public health; Southeast
+   Asia; suicide prevention; vital statistics
+ID RECORD SYSTEMS ESTIMATION; VERBAL AUTOPSY; ASCERTAINMENT; MEDIA;
+   THAILAND; DEATHS; HEALTH
+AB This study tested a low-cost method for estimating suicide rates in developing nations that lack adequate statistics. Data comprised reported suicides from Cambodia's 2 largest newspapers. Capture-recapture modeling estimated a suicide rate of 3.8/100000 (95% CI = 2.5-6.7) for 2012. That compares to World Health Organization estimates of 1.3 to 9.4/100000 and a Cambodian government estimate of 3.5/100000. Suicide rates of males were twice that of females, and rates of those <40 years were twice that of those 40 years. Capture-recapture modeling with newspaper reports proved a reasonable method for estimating suicide rates for countries with inadequate official data. These methods are low-cost and can be applied to regions with at least 2 newspapers with overlapping reports. Means to further improve this approach are discussed. These methods are applicable to both recent and historical data, which can benefit epidemiological work, and may also be applicable to homicides and other statistics.
+C1 [Harris, Keith M.] Univ Queensland, St Lucia, Qld, Australia.
+   [Thandrayen, Joanne] Univ Canberra, Bruce, ACT, Australia.
+   [Samphoas, Chien; Se, Pros] Human Dev Res Cambodia, Phnom Penh, Cambodia.
+   [Samphoas, Chien] Royal Univ Phnom Penh, Phnom Penh, Cambodia.
+   [Lewchalermwongse, Boontriga; Ratanashevorn, Rattanakorn] Chulalongkorn Univ, Bangkok, Thailand.
+   [Perry, Megan L.; Britts, Choloe] Univ Newcastle, Callaghan, NSW 2308, Australia.
+C3 University of Queensland; University of Canberra; Chulalongkorn
+   University; University of Newcastle
+RP Harris, KM (corresponding author), Univ Queensland, Sch Psychol, Sir Fred Schonell Dr, St Lucia, Qld 4072, Australia.
+EM kharris@psy.uq.edu.au
+RI Harris, Keith M/K-9957-2013
+OI Harris, Keith M/0000-0002-1199-2856; Thandrayen,
+   Joanne/0009-0004-6247-3580
+FU Keats Endowment Research Grant
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This study
+   was partly funded by a Keats Endowment Research Grant.
+NR 34
+TC 3
+Z9 3
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1010-5395
+EI 1941-2479
+J9 ASIA-PAC J PUBLIC HE
+JI Asia-Pac. J. Public Health
+PD APR
+PY 2016
+VL 28
+IS 3
+BP 262
+EP 270
+DI 10.1177/1010539516634186
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DK1KI
+UT WOS:000374670600007
+PM 26969636
+DA 2023-12-06
+ER
+
+PT J
+AU Seponski, DM
+   Somo, CM
+   Kao, S
+   Lahar, CJ
+   Khann, S
+   Schunert, T
+AF Seponski, Desiree M.
+   Somo, Charity M.
+   Kao, Sovandara
+   Lahar, Cindy J.
+   Khann, Sareth
+   Schunert, Tanja
+TI Family, Health, and Poverty Factors Impacting Suicide Attempts in
+   Cambodian Women
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE qualitative research; suicide attempts; family; poverty; Cambodia
+ID RISK; SERVICES
+AB Background: Our recent report demonstrates that 5.5% of Cambodian women have previously attempted suicide. Despite these high rates and critical need for intervention, research on suicide attempts in Cambodia is lacking, and life-saving information on suicide prevention is therefore unknown. Aims: This study explores factors impacting Cambodian women suicide attempts. Method: A total of 1,801 women participated in the large national survey during which 100 of these women (5.5%) reported at least one suicide attempt. Of the 100 participants 76 provided qualitative reasons for the suicide attempts. Only the 76 who provided the reasons for suicide attempt were included for analysis in this study. Results: Four major themes emerged: (1) family conflict, (2) emotional distress, (3) poverty, and (4) illness. Family conflict, emotional distress, poverty, and illness were all interrelated with each other; for example, women without money were unable to pay for treatment of other/vise treatable illnesses. Limitations: Owing to the nature of the data collection, member checking could not be conducted. Conclusion: Cumulative and intertwined personal, interpersonal, and contextual-level factors impacting suicide attempts included emotional distress, illness, family conflict, and poverty. Findings highlight points of intervention at individual, familial, and contextual levels to prevent suicide.
+C1 [Seponski, Desiree M.; Somo, Charity M.] Univ Georgia, Human Dev & Family Sci, Marriage & Family Therapy Program, Athens, GA 30602 USA.
+   [Kao, Sovandara; Khann, Sareth] Royal Univ Phnom Penh, Psychol Dept, Phnom Penh, Cambodia.
+   [Lahar, Cindy J.] Univ South Carolina Beauft, Psychol Dept, Bluffton, SC USA.
+   [Schunert, Tanja] Childrens & Adolescents Psychiat Day Clin, Eutin, Germany.
+C3 University System of Georgia; University of Georgia
+RP Seponski, DM (corresponding author), Univ Georgia, 405 Sanford Dr,Family Sci Ctr 2,House D,Room 205, Athens, GA 30602 USA.
+EM seponski@uga.edu
+RI farjad, farshad/AGC-9105-2022
+OI Somo, Charity Mokgaetji/0000-0003-1282-1431; Khann,
+   Sareth/0009-0006-6984-0085
+FU GIZ (Gesellschaft fur internationale Zusammenarbeit); University of
+   Georgia Research Foundation, Inc. [3389]; Maryknoll; Catholic Relief
+   Services (CRS)
+FX The data collection of this article was funded by GIZ (Gesellschaft fur
+   internationale Zusammenarbeit), Maryknoll, and Catholic Relief Services
+   (CRS). The data analysis and writing were funded by the University of
+   Georgia Research Foundation, Inc. (#3389). We are grateful for the
+   support of our colleagues, Dr. Bunnak Poch, Channika Pot, Laura Bebra
+   Saupe, Hema Nhong, Dr. Luise Ahrens, and Dr. Kevin Conroy. The first and
+   second authors contributed equally to this manuscript.
+NR 14
+TC 3
+Z9 4
+U1 2
+U2 8
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD MAR
+PY 2019
+VL 40
+IS 2
+BP 141
+EP 145
+DI 10.1027/0227-5910/a000548
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA HP6KG
+UT WOS:000461792200008
+PM 30474406
+DA 2023-12-06
+ER
+
+PT J
+AU Medina, CO
+   Jegannathan, B
+   Dahlblom, K
+   Kullgren, G
+AF Medina, Claudia Obando
+   Jegannathan, Bhoomikumar
+   Dahlblom, Kjerstin
+   Kullgren, Gunnar
+TI Suicidal expressions among young people in Nicaragua and Cambodia: a
+   cross-cultural study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicidal expressions; Adolescents; Young People Cross-cultural
+   comparison; Nicaragua and Cambodia
+ID YOUTH-SELF-REPORT; ADOLESCENTS; BEHAVIOR; RISK; SURVEILLANCE;
+   RELIGIOSITY; CHALLENGES; ATTITUDES; TRAUMA; HEALTH
+AB Background: Whereas prevalence of suicidal expressions among young people is fairly similar in different countries, less is known about associated risk factors. This study compares young people in Nicaragua and Cambodia to examine if the pattern of association between mental health problems and suicidal expressions differs.
+   Methods: 368 and 316 secondary school students, from each country respectively, participated. Self-reported suicidal expressions, exposure to suicidal behavior in significant others and mental health problems among the students were measured using Attitude Towards Suicide (ATTS) and the Youth Self-Report (YSR) questionnaires.
+   Results: Prevalence of serious suicidal expressions (plans and attempts) during recent year, did not differ between countries. Cambodian young people scored significantly higher on all eight YSR-syndromes, except for withdrawn/depressed. In Nicaragua, all YSR-syndromes were significantly associated with serious suicidal expressions in both genders compared to Cambodia where only one syndrome showed an association in each gender; Withdrawn/depressed among girls and Somatic complaints among boys. Associations between being exposed to suicide among significant others and serious suicidal expressions also differed between Cambodia and Nicaragua.
+   Conclusions: While the magnitude of serious suicidal expressions is similar between these structurally similar but culturally different countries, determinants behave differently. Qualitative studies are warranted to further explore cultural specific determinants for suicidal expressions among young people.
+C1 [Kullgren, Gunnar] Umea Univ, Dept Clin Sci, Div Psychiat, SE-90187 Umea, Sweden.
+   [Medina, Claudia Obando] Nicaraguan Natl Autonomous Univ, Ctr Demog & Hlth Res, Leon, Nicaragua.
+   [Jegannathan, Bhoomikumar] CCAMH, Takhmau, Cambodia.
+   [Dahlblom, Kjerstin] Umea Univ, Dept Publ Hlth & Clin Med, Div Epidemiol & Global Hlth, SE-90185 Umea, Sweden.
+C3 Umea University; Umea University
+RP Kullgren, G (corresponding author), Umea Univ, Dept Clin Sci, Div Psychiat, SE-90187 Umea, Sweden.
+EM gunnar.kullgren@psychiat.umu.se
+FU Swedish International Development Cooperation Agency (SIDA)
+FX This study was supported by research grants from Swedish International
+   Development Cooperation Agency (SIDA).
+NR 37
+TC 15
+Z9 16
+U1 0
+U2 11
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAR 31
+PY 2012
+VL 12
+AR 28
+DI 10.1186/1471-244X-12-28
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 950RZ
+UT WOS:000304667800001
+PM 22463077
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Jegannathan, B
+   Kullgren, G
+AF Jegannathan, Bhoomikumar
+   Kullgren, Gunnar
+TI Gender differences in suicidal expressions and their determinants among
+   young people in Cambodia, a post-conflict country
+SO BMC PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH; GENERAL-POPULATION; ADOLESCENT SUICIDE; YOUTH; RISK;
+   IDEATION; PREVENTION; BEHAVIOR; CHILDREN; HISTORY
+AB Background: Suicide among young people is a global public health problem, but adequate information on determinants of suicidal expression is lacking in middle and low income countries. Young people in transitional economies are vulnerable to psychosocial stressors and suicidal expressions. This study explores the suicidal expressions and their determinants among high school students in Cambodia, with specific focus on gender differences.
+   Methods: A sample of 320 young people, consisting of 153 boys and 167 girls between 15-18 years of age, was randomly selected from two high schools in Cambodia. Their self-reported suicidal expressions, mental health problems, life-skills dimensions, and exposure to suicidal behavior in others were measured using the Youth Self-Report (YSR), Life-Skills Development Scale (LSDS)-Adolescent Form, and Attitude Towards Suicide (ATTS) questionnaires.
+   Results: Suicidal plans were reported more often by teenage boys than teenage girls (M = 17.3%, F = 5.6%, p = 0.001), whereas girls reported more attempts (M = 0.6%, F = 7.8%, p = 0.012). Young men scored significantly higher on rule-breaking behavior than young women (p = 0.001), whereas young women scored higher on anxious/depression (p = 0.000), withdrawn/depression (p = 0.002), somatic complaints (p = 0.034), social problems (p = 0.006), and internalizing syndrome (p = 0.000). Young men exposed to suicide had significantly higher scores for internalizing syndrome compared to those unexposed (p = 0.001), while young women exposed to suicide scored significantly higher on both internalizing (p = 0.001) and externalizing syndromes (p = 0.012). Any type of exposure to suicidal expressions increased the risk for own suicidal expressions in both genders (OR = 2.04, 95% CI = 1.06-3.91); among young women, however, those exposed to suicide among friends and partners were at greater risk for the serious suicidal expressions (OR = 2.79, 95% CI = 1.00-7.74). Life skills dimension scores inversely correlated with externalizing syndrome in young men (p = 0.026) and internalizing syndrome in young women (p = 0.001).
+   Conclusions: The significant gender differences in suicidal expressions and their determinants in Cambodian teenagers highlight the importance of culturally appropriate and gender-specific suicide prevention programs. School-based life skills promotion may indirectly influence the determinants for suicidal expressions, particularly among young women with internalizing syndrome in Cambodia.
+C1 [Kullgren, Gunnar] Umea Univ, Dept Clin Sci, Div Psychiat, S-90187 Umea, Sweden.
+C3 Umea University
+RP Kullgren, G (corresponding author), Umea Univ, Dept Clin Sci, Div Psychiat, S-90187 Umea, Sweden.
+EM gunnar.kullgren@psychiat.umu.se
+RI Jegannathan, Bhoomikumar/HKP-1086-2023
+FU SIDA-SAREC [SWE-2006-092]
+FX We acknowledge the role of the CCAMH team in data collection. This study
+   was funded by SIDA-SAREC (ref. no: SWE-2006-092).
+NR 41
+TC 22
+Z9 25
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAR 21
+PY 2011
+VL 11
+AR 47
+DI 10.1186/1471-244X-11-47
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 747WL
+UT WOS:000289351600001
+PM 21418649
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Gollogly, JG
+   Vath, SB
+   Malmberg, A
+AF Gollogly, James G.
+   Vath, Say Bon
+   Malmberg, Annika
+TI Acid attacks in Cambodia: serious reminders of personal conflicts
+SO ASIAN BIOMEDICINE
+LA English
+DT Article
+DE acid burns; Cambodia; facial burns; surgical management
+ID BURNS
+AB Throwing highly corrosive acid into someone's face to cause the deliberate destruction of an individual's appearance is a serious assault. Some victims die as a result of the attack, some are blinded, and all have their facial features marred for life, causing severe social isolation and ostracism and leading some victims to commit suicide years after the attack.
+   Acid attacks in Cambodia are commonplace occurrences: a personal revenge for a variety of interpersonal disputes and perceived insults. Similar attacks occur in other developing countries, most especially in South and South-East Asia, and the first case occurring in Canada was recently reported in the press. Children's Surgical Centre (CSC) has seen and treated at least 195 patients with acid bums since 1998, and some of the characteristics of the individual circumstances and the surgical care are discussed.
+C1 [Gollogly, James G.; Vath, Say Bon] Childrens Surg Ctr, Kien Khleang 12201, Phnom Penh, Cambodia.
+   [Malmberg, Annika] Univ Washington, Sch Med, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle
+RP Gollogly, JG (corresponding author), Childrens Surg Ctr, Kien Khleang 12201, Phnom Penh, Cambodia.
+EM jim@csc.org
+NR 4
+TC 5
+Z9 5
+U1 0
+U2 1
+PU WALTER DE GRUYTER GMBH
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 1905-7415
+EI 1875-855X
+J9 ASIAN BIOMED
+JI Asian Biomed.
+PD AUG
+PY 2008
+VL 2
+IS 4
+BP 329
+EP 334
+PG 6
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA 341SQ
+UT WOS:000258735600009
+DA 2023-12-06
+ER
+
+PT J
+AU Peltzer, K
+   Pengpid, S
+   Tepirou, C
+AF Peltzer, Karl
+   Pengpid, Supa
+   Tepirou, Chher
+TI Associations of alcohol use with mental health and alcohol exposure
+   among school-going students in Cambodia
+SO Nagoya Journal of Medical Science
+LA English
+DT Article
+DE alcohol use; mental health; alcohol advertising; school children;
+   Cambodia
+ID MEDIA EXPOSURE; CONSUMPTION; ADOLESCENTS; DRINKING; TAIWAN; YOUTH
+AB The aim of this study was to examine the associations of alcohol use with sociodemographic factors, mental health and alcohol exposure among school-going adolescents in Cambodia. The analysis included 3,806 school children, mean age 15.7 years (SD=1.8), from Cambodia who participated in the "Global School-based Student Health Survey" (GSHS) in 2013. The results indicate that overall, 10.0% of the students reported current alcohol use, 10.8% lifetime drunkenness, and 2.8% problem drinking. In multivariate logistic regression analysis, sociodemographic factors (older age and being male), mental health and other variables (bullying victimization, OR (odds ratio) = 1.99; 95% Confidence Interval (CI) [1.50, 2.65] and OR = 2.15; 95% CI [1.58, 3.21], respectively; having attempted suicide, OR = 2.04; 95% CI [1.35, 3.08] and OR = 2.06; 95% CI [1.29, 3.28], respectively and illicit drug use, OR = 4.97; 95% CI [2.41, 10.24] OR = 5.05; 95% CI [2.14, 11.98], respectively) and alcohol exposure variables (peer influence on drinking alcohol, OR = 6.68; 95% CI [4.75, 9.39] and OR = 7.83; 95% CI [5.73, 10.66], respectively and daily or almost daily to alcohol advertising in the past 30 days OR = 1.61; 95% CI [1.03, 2.51] and OR = 2.30; 95% CI [1.40, 3.77], respectively) were significantly positively associated with current alcohol use and drunkenness. Moreover, older age, being male, bullying victimization, having close friends, suicide attempt, drug use, father or male guardian drinks alcohol and peer influence were associated with problem drinking. There is a need to implement public health interventions with a special focus on the determinants of alcohol consumption, including exposure to alcohol advertising, in this age group.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res Innovat & Dev, Turfloop Campus, Sovenga, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+   [Tepirou, Chher] Minist Hlth, Prevent Med Dept, Phnom Penh, Cambodia.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, 25-25 Phutthamonthon 4 Rd, Phutthamonthon 73170, Nakhon Pathom, Thailand.
+EM karl.pel@mahidol.ac.th
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 27
+TC 13
+Z9 13
+U1 0
+U2 10
+PU NAGOYA UNIV, SCH MED
+PI NAGOYA
+PA EDITORIAL OFF, NAGOYA UNIV MED LIB, SCH MED, 65 TSURUMAI-CHO SHOWA- KU,
+   NAGOYA, 466-8550, JAPAN
+SN 2186-3326
+EI 0027-7622
+J9 NAGOYA J MED SCI
+JI Nagoya J. Med. Sci.
+PD NOV
+PY 2016
+VL 78
+IS 4
+BP 415
+EP 422
+DI 10.18999/nagjms.78.4.415
+PG 8
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA EE1JQ
+UT WOS:000389337900009
+PM 28008197
+DA 2023-12-06
+ER
+
+PT J
+AU Brody, C
+   Chhoun, P
+   Tuot, S
+   Pal, K
+   Chhim, K
+   Yi, S
+AF Brody, Carinne
+   Chhoun, Pheak
+   Tuot, Sovannary
+   Pal, Khuondyla
+   Chhim, Kolab
+   Yi, Siyan
+TI HIV risk and psychological distress among female entertainment workers
+   in Cambodia: a cross-sectional study
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Female entertainment workers; Sex work; Psychological distress; Mental
+   health; HIV; Cambodia
+ID CHILDHOOD TRAUMA QUESTIONNAIRE; SEX WORKERS; MENTAL-HEALTH; DEPRESSIVE
+   SYMPTOMS; BEHAVIORS; POPULATION; VIOLENCE; CITIES; CHINA
+AB Background: In Cambodia, there has been an increase in entertainment work as a result of the breakdown of the traditional brothel-based sex industry, presenting new challenges to addressing the health issues and needs of people working in the entertainment industry. This study aims to identify factors associated with psychological distress among female entertainment workers (FEWs) in Cambodia.
+   Methods: A two-stage cluster sampling method was used to randomly select 657 FEWs from entertainment establishments in Phnom Penh and Siem Reap in April and May 2014 for interviews using a structured questionnaire. Psychological distress was measured using the General Health Questionnaire (GHQ-12), and multivariate logistic regression analysis was conducted.
+   Results: Almost half of FEWs (43.2 %) had a higher level of psychological distress (GHQ-12 > 3), while 19.5 % reported having suicidal thoughts, and 7.3 % reported having attempted to commit suicide in the past 3 months. Controlling for confounding factors, women with a higher level of psychological distress were significantly more likely to rate their overall health (AOR = 1.88, 95 % CI 1.20 to 2.94) and quality of life (AOR = 2.39, 95 % CI 1.47 to 3.87) as poor. They were also significantly more likely to have suicidal ideation (AOR = 2.41, 95 % CI 1.45 to 3.76), rate their HIV risk as higher than the general population (AOR = 0.48, 95 % CI 0.31 to 0.74), have been forced to drink at work (AOR = 1.77, 95 % CI 1.19 to 2.62), have had clients requesting not to use a condom (AOR = 3.48, 95 % CI 1.14 to 10.62), be not able to find condoms when they needed it (AOR = 0.64, 95 % CI 0.45 to 0.93), have had a family member who said hurtful things to them during childhood (AOR = 1.84, 95 % CI 1.24 to 2.75), and have had a parent or guardian who had been physically abused (AOR = 1.93, 95 % CI 1.34 to 2.82).
+   Conclusions: FEWs in Cambodia experience high levels of psychological distress, which likely stems from both past negative experiences and current working conditions. For women that are experiencing psychological distress, intervention programs aimed at improving mental health should specifically address substance use, condom availability and negotiation skills, and suicide risk.
+C1 [Brody, Carinne; Yi, Siyan] Touro Univ Calif, Publ Hlth Program, Ctr Global Hlth Res, 1310 Club Dr, Vallejo, CA 94592 USA.
+   [Chhoun, Pheak; Tuot, Sovannary; Pal, Khuondyla; Chhim, Kolab; Yi, Siyan] KHANA, Ctr Populat Hlth Res, 33,St 71,POB 2311-PP3, Phnom Penh, Cambodia.
+C3 Touro University California
+RP Yi, S (corresponding author), Touro Univ Calif, Publ Hlth Program, Ctr Global Hlth Res, 1310 Club Dr, Vallejo, CA 94592 USA.; Yi, S (corresponding author), KHANA, Ctr Populat Hlth Res, 33,St 71,POB 2311-PP3, Phnom Penh, Cambodia.
+EM siyan@doctor.com
+RI Chhoun, Pheak/AAR-3361-2021
+OI Chhoun, Pheak/0000-0001-6369-0190; Yi, Siyan/0000-0002-3045-5386
+FU USAID
+FX The authors thank all participants, implementing partners and KHANA
+   staff who made this study and the SAHACOM project possible. The SAHACOM
+   project was funded by USAID.
+NR 38
+TC 27
+Z9 27
+U1 0
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD FEB 9
+PY 2016
+VL 16
+AR 133
+DI 10.1186/s12889-016-2814-6
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DD3GC
+UT WOS:000369809100001
+PM 26861542
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Yen, Y
+   Shi, YM
+   Soeung, B
+   Seng, R
+   Dy, C
+   Suy, R
+   Ngin, K
+AF Yen, Yat
+   Shi, Yumin
+   Soeung, Bunly
+   Seng, Ratny
+   Dy, Channy
+   Suy, Rathny
+   Ngin, Kimlong
+TI The associated risk factors for underweight and overweight high school
+   students in Cambodia
+SO DIABETES & METABOLIC SYNDROME-CLINICAL RESEARCH & REVIEWS
+LA English
+DT Article
+DE Underweight; Overweight; Risk factors; High school students; Cambodia
+ID URBAN GREEN SPACES; PHNOM-PENH; ALCOHOL-CONSUMPTION; DAYTIME SLEEPINESS;
+   PHYSICAL-ACTIVITY; YOUNG RESIDENTS; SEX WORK; ADULTS; PREVALENCE;
+   BEHAVIORS
+AB Purpose: Overweight and underweight are one of the leading risk factors for non-communicable diseases (NCDs), but little research on this area has been undertaken in Cambodia. Therefore, this study aimed to measure underweight and overweight and their associated risk behaviors among Cambodian high school students.
+   Methods: 3806 students (mean ag =15.65 years, SD 1.80, age range 11-18 years) from the 2013 Cambodia-Global School-based Student Health Survey were used to yield representative samples of the Cambodian students. Body Mass Index (BMI) was assessed by students' self-reported height and weight. The substance use, depression, eating behaviors, suicidal ideation, and violence were examined as risk factors. The Chi-square and multinomial regressions were performed to assess the relationships between risk factors and BMI.
+   Results: The prevalence of underweight was 47.4% (N = 1805, Male = 23.3%vs.24.1%) and overweight was 2.3% (N = 89, Male 1.0%vs.1.3%). The BMI was significantly controlled by age, gender, and body height. Both underweight and overweight students were significantly vulnerable to substance use, feeling depressed, and violent behaviors. Of the risk factors, shortest sleep was prevalent for underweight students while feeling lonely and suicide attempts were the critical risks for overweight students. The daily fruit/vegetable consumption and physical activity were good preventive factors of both underweight and overweight epidemics.
+   Conclusions: The risk behaviors of students appear to be strongly associated with underweight and overweight. Interventions targeting these risk behaviors may have the potential to reduce risks. Meanwhile, the preventive strategies should focus on vulnerable students who have poor academic performance, mental health issues and a history of violent experiences. (C) 2018 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+C1 [Yen, Yat; Shi, Yumin; Suy, Rathny] Univ Sci & Technol China, Sch Publ Affairs, Hefei, Anhui, Peoples R China.
+   [Yen, Yat] Natl Inst Social Affairs, Dept Social Work, Phnom Penh, Cambodia.
+   [Soeung, Bunly] Svay Rieng Univ, Fac Social Sci, Svay Rieng, Cambodia.
+   [Seng, Ratny] Xi An Jiao Tong Univ, Sch Management, Xian, Peoples R China.
+   [Dy, Channy] Beijing Normal Univ, Fac Educ, Beijing, Peoples R China.
+   [Ngin, Kimlong] Univ Sci & Technol China, Dept Comp Sci & Technol, Hefei, Anhui, Peoples R China.
+C3 Chinese Academy of Sciences; University of Science & Technology of
+   China, CAS; Xi'an Jiaotong University; Beijing Normal University;
+   Chinese Academy of Sciences; University of Science & Technology of
+   China, CAS
+RP Yen, Y (corresponding author), Univ Sci & Technol China, Sch Publ Affairs, Hefei, Anhui, Peoples R China.
+EM yy2014@mail.ustc.edu.cn; shym@ustc.edu.cn; bunlysoeung@sru.edu.kh;
+   ratnys@yahoo.com; edu.dychanny@gmail.com; rathny@mail.ustc.edu.cn;
+   nginkimlong@mail.ustc.edu.cn
+RI Yen, Yat/AAE-3890-2019; Yen, Yat/AAE-6012-2019
+OI Yen, Yat/0000-0003-0156-453X
+NR 34
+TC 7
+Z9 7
+U1 1
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1871-4021
+EI 1878-0334
+J9 DIABETES METAB SYND
+JI Diabetes Metab. Syndr.-Clin. Res. Rev.
+PD SEP
+PY 2018
+VL 12
+IS 5
+BP 737
+EP 742
+DI 10.1016/j.dsx.2018.04.016
+PG 6
+WC Endocrinology & Metabolism
+WE Emerging Sources Citation Index (ESCI)
+SC Endocrinology & Metabolism
+GA GP6VY
+UT WOS:000441028100022
+PM 29706310
+DA 2023-12-06
+ER
+
+PT J
+AU Yi, SY
+   Tuot, S
+   Chhoun, P
+   Pal, K
+   Choub, SC
+   Mburu, G
+AF Yi, Siyan
+   Tuot, Sovannary
+   Chhoun, Pheak
+   Pal, Khuondyla
+   Choub, Sok Chamreun
+   Mburu, Gitau
+TI Prevalence and correlates of psychological distress among drug users in
+   Phnom Penh, Cambodia
+SO INTERNATIONAL JOURNAL OF DRUG POLICY
+LA English
+DT Article
+DE Mental health; Drug use; HIV; Harm reduction; Integration; Cambodia
+ID CHILDHOOD TRAUMA QUESTIONNAIRE; HIGH-RISK BEHAVIORS; MENTAL-HEALTH;
+   INJECT DRUGS; DEPRESSIVE SYMPTOMS; SUBSTANCE USE; ANTIRETROVIRAL
+   THERAPY; SUICIDAL IDEATION; GLOBAL BURDEN; LOW-INCOME
+AB Background: Compared to the general population, drug users are at increased risk of both poor mental health and HIV infection. The aim of this study was to determine the prevalence and correlates of high psychological distress among drug users in Cambodia.
+   Methods: In April 2014, a two-stage cluster sampling method was used to randomly select 169 drug users from hotspots in Phnom Penh. Psychological distress was measured using General Health Questionnaire (GHQ-12). Bivariate and multivariable analyses were conducted to identify factors associated with levels of psychological distress among this population.
+   Results: Our study found high prevalence of attempted suicide (15.3%), drug related arrests (46.2%), and incarceration (31.4%). Of the 169 participants, 42.0% were found to have high levels of psychological distress, indicating poor mental health. After adjustment, high levels of psychological distress were independently associated with suicidal ideation (p < 0.001), higher frequency of drug use (p = 0.02), sharing of needles or syringes (p = 0.005), and having been sent to a rehabilitation centre (p = 0.02). In addition, participants who perceived their overall health as being poor or very poor were more likely to have high levels of psychological distress (p = 0.002).
+   Conclusion: Integration of mental health within HIV and needle and syringe exchange programmes is required to address psychological distress among drug users in Cambodia. Health system interventions, such as screening, referral, and training of health providers, need to be strengthened. In addition, interventions addressing social determinants of mental health and mitigation of frequent arrests and improving conditions in rehabilitation centres are required. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Yi, Siyan; Tuot, Sovannary; Chhoun, Pheak; Pal, Khuondyla; Choub, Sok Chamreun] KHANA Ctr Populat Hlth Res, Phnom Penh, Cambodia.
+   [Yi, Siyan] Touro Univ Calif, Ctr Global Hlth Res, Vallejo, CA USA.
+   [Mburu, Gitau] Int HIV AIDS Alliance, Brighton, E Sussex, England.
+   [Mburu, Gitau] Univ Lancaster, Div Hlth Res, Lancaster, England.
+C3 Touro University California; Lancaster University
+RP Yi, S (corresponding author), 33,St 71,POB 2311-PP3, Chamkar Mon, Phnom Penh, Cambodia.
+EM siyan@doctor.com
+RI Chhoun, Pheak/AAR-3361-2021
+OI Chhoun, Pheak/0000-0001-6369-0190; Mburu, Gitau/0000-0002-5812-0529; Yi,
+   Siyan/0000-0002-3045-5386
+FU United States Agency for International Development (USAID)
+FX This analysis was undertaken as part of the SAHACOM Project funded by
+   the United States Agency for International Development (USAID). The
+   authors thank all participants, implementing partners, and KHANA staff
+   who made this study and the SAHACOM project possible. Contents of this
+   paper are the responsibility of the authors and do not reflect the view
+   of USAID or our respective institutions.
+NR 61
+TC 16
+Z9 16
+U1 0
+U2 14
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0955-3959
+EI 1873-4758
+J9 INT J DRUG POLICY
+JI Int. J. Drug Policy
+PD OCT
+PY 2016
+VL 36
+BP 25
+EP 32
+DI 10.1016/j.drugpo.2016.06.002
+PG 8
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA DY1LN
+UT WOS:000384856600004
+PM 27450717
+OA hybrid, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Peltzer, K
+   Yi, SY
+   Pengpid, S
+AF Peltzer, Karl
+   Yi, Siyan
+   Pengpid, Supa
+TI Suicidal behaviors and associated factors among university students in
+   six countries in the Association of Southeast Asian Nations (ASEAN)
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicidal behaviors; Suicidal ideation; Suicide attempt; University
+   students; the Association of Southeast Asian Nations; (ASEAN)
+ID ADVERSE CHILDHOOD EXPERIENCES; POSTTRAUMATIC-STRESS; DEPRESSIVE
+   SYMPTOMS; GENDER-DIFFERENCES; PHYSICAL-ACTIVITY; COLLEGE-STUDENTS;
+   RELIGION INDEX; OLDER-ADULTS; IDEATION; RISK
+AB A large data gap remains on suicidal behaviors among youth in the Association of Southeast Asian Nations (ASEAN) countries, despite the increasing rates of suicide in Asian cultures that may be related to rapid economic changes and the loss of social stability. This study was therefore conducted to explore the prevalence of and factors associated with suicidal ideation and suicide attempts among university students in six ASEAN member states. Data were collected in a cross-sectional survey of 4675 undergraduate university students, mean age 20.6 years (SD = 2.7), range of 18-30 years, from Cambodia, Indonesia, Malaysia, Myanmar, Thailand and Vietnam. The overall prevalence of ever suicidal ideation and ever suicide attempt among students in this study was 11.7% and 2.4%, respectively. Different rates of these suicidal behaviors were observed across the countries. In multivariable logistic regression models, suicidal ideation was significantly associated with psychosocial factors including childhood sexual abuse, depressive symptoms, involvement in physical fights, and poor academic performance as well as socio-environmental factors including living with parents or guardians and low involvement in organized religious activity. Suicide attempt was significantly associated with childhood sexual abuse, depressive symptoms, low involvement in organized religious activity and being underweight or overweight. Our findings suggest that individual-level strategies for suicide prevention should be targeted toward students with poor academic performance, mental health problems and a history of adverse childhood experiences. Particular attention should be paid to the role of families that could be a potential stressor in the lives of university students. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, Turfloop, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+   [Yi, Siyan] KHANA Ctr Populat Hlth Res, Phnom Penh, Cambodia.
+   [Yi, Siyan] Touro Univ Calif, Ctr Global Hlth Res, Vallejo, CA USA.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa; Touro University California
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+EM karl.pel@mahidol.ac.th
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Yi, Siyan/0000-0002-3045-5386
+FU South African Department of Higher Education
+FX Partial funding for this study was provided by the South African
+   Department of Higher Education. The following colleagues participated in
+   this ASEAN student health survey and contributed to data collection
+   (locations of universities in parentheses): Cambodia: Siyan Yi (Phnom
+   Penh); Indonesia: Erna Rochmawati (Yogyakarta), Malaysia: Wah Yun Low
+   (Kuala Lumpur); Myanmar: Hla Hla Win (Yangon); Thailand: Niruwan
+   Turnbull (Maha Sarakham); Vietnam: Thang Nguyen Huu (Hanoi).
+NR 56
+TC 45
+Z9 53
+U1 2
+U2 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2017
+VL 26
+BP 32
+EP 38
+DI 10.1016/j.ajp.2017.01.019
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EY8ZO
+UT WOS:000404288300010
+PM 28483087
+DA 2023-12-06
+ER
+
+PT J
+AU Kiss, L
+   Yun, K
+   Pocock, N
+   Zimmerman, C
+AF Kiss, Ligia
+   Yun, Katherine
+   Pocock, Nicola
+   Zimmerman, Cathy
+TI Exploitation, Violence, and Suicide Risk Among Child and Adolescent
+   Survivors of Human Trafficking in the Greater Mekong Subregion
+SO JAMA PEDIATRICS
+LA English
+DT Article
+ID HOPKINS SYMPTOM CHECKLIST-25; INTIMATE PARTNER VIOLENCE; MENTAL-HEALTH;
+   INSTRUMENT; DISORDERS; SERVICES; CAMBODIA; TRAUMA; WOMEN
+AB IMPORTANCE Human trafficking and exploitation of children have profound health consequences. To our knowledge, this study represents the largest survey on the health of child and adolescent survivors of human trafficking.
+   OBJECTIVE To describe experiences of abuse and exploitation, mental health outcomes, and suicidal behavior among children and adolescents in posttrafficking services. We also examine how exposures to violence, exploitation, and abuse affect the mental health and suicidal behavior of trafficked children.
+   DESIGN, SETTING, AND PARTICIPANTS A survey was conducted with 387 children and adolescents aged 10 to 17 years in posttrafficking services in Cambodia, Thailand, or Vietnam, which along with Laos, Myanmar, and Yunnan Province, China, compose the Greater Melong Subregion. Participants were interviewed within 2 weeks of entering services from October 2011 through May 2013.
+   MAIN OUTCOMES AND MEASURES Depression, posttraumatic stress disorder, anxiety, suicidal ideation, self-injury, and suicide attempts. RESULTS Among the 387 children and adolescent study participants, most (82%) were female. Twelve percent had tried to harm or kill themselves in the month before the interview. Fifty-six percent screened positive for depression, 33% for an anxiety disorder, and 26% for posttraumatic stress disorder. Abuse at home was reported by 20%. Physical violence while trafficked was reported by 41% of boys and 19% of girls. Twenty-three percent of girls and 1 boy reported sexual violence. Mental health symptoms were strongly associated with recent self-harm and suicide attempts. Severe physical violence was associated with depression (adjusted odds ratio [AOR], 3.55; 95% CI, 1.64-7.71), anxiety (AOR, 2.13; 95% CI, 1.12-4.05), and suicidal ideation (AOR, 3.68; 95% CI, 1.77-7.67). Sexual violence while trafficked was associated with depression (AOR, 2.27; 95% CI, 1.22-4.23) and suicidal ideation (AOR, 3.43; 95% CI, 1.80-6.54).
+   CONCLUSIONS AND RELEVANCE Children and adolescents in posttrafficking care showed high symptom levels of depression, anxiety, and posttraumatic stress disorder, which are strongly associated with self-harm or suicidal behaviors. Mental health screening and reintegration risk assessments are critical components of posttrafficking services, especially in planning for family reunification and other social integration options.
+C1 [Kiss, Ligia; Pocock, Nicola] London Sch Hyg & Trop Med, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, London WC1H 9SH, England.
+   [Yun, Katherine] Childrens Hosp Philadelphia, PolicyLab, Philadelphia, PA 19104 USA.
+   [Zimmerman, Cathy] London Sch Hyg & Trop Med, Gender Violence & Hlth, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, London WC1H 9SH, England.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Pennsylvania; Pennsylvania Medicine; Childrens Hospital of
+   Philadelphia; University of London; London School of Hygiene & Tropical
+   Medicine
+RP Kiss, L (corresponding author), London Sch Hyg & Trop Med, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, 15-17 Tavistock Pl, London WC1H 9SH, England.
+EM ligia.kiss@lshtm.ac.uk
+RI Pocock, Nicola Suyin/ABB-5446-2020
+OI Pocock, Nicola Suyin/0000-0002-2083-4171; Kiss,
+   Ligia/0000-0002-3334-7110
+FU Anesvad Foundation; International Organization for Migration Development
+   Fund; Economic and Social Research Council, United Kingdom
+FX This study was funded by Anesvad Foundation and International
+   Organization for Migration Development Fund, with additional support
+   from the Economic and Social Research Council, United Kingdom.
+NR 49
+TC 79
+Z9 89
+U1 1
+U2 62
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 2168-6203
+EI 2168-6211
+J9 JAMA PEDIATR
+JI JAMA Pediatr.
+PD SEP
+PY 2015
+VL 169
+IS 9
+AR e152278
+DI 10.1001/jamapediatrics.2015.2278
+PG 8
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA CR0CT
+UT WOS:000360986500002
+PM 26348864
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Heng, S
+   Sluydts, V
+   Durnez, L
+   Mean, V
+   Polo, K
+   Tho, S
+   Coosemans, M
+   van Griensven, J
+AF Heng, Somony
+   Sluydts, Vincent
+   Durnez, Lies
+   Mean, Vanna
+   Polo, Koh
+   Tho, Sochantha
+   Coosemans, Marc
+   van Griensven, Johan
+TI Safety of a topical insect repellent (picaridin) during community mass
+   use for malaria control in rural Cambodia
+SO PLOS ONE
+LA English
+DT Article
+ID EFFICACY; DEET; TOXICITY; NETS
+AB Background
+   While community distribution of topical repellents has been proposed as an additional malaria control intervention, the safety of this intervention at the population level remains poorly evaluated. We describe the safety of mass distribution of the picaridin repellent during a cluster-randomised trial in rural Cambodia in 2012-2013.
+   Methods
+   The repellent was distributed among 57 intervention villages with around 25,000 inhabitants by a team of village distributors. Information on individual adverse events, reported by phone by the village distributors, was obtained through home visits. Information on perceived side effects, reported at the family level, was obtained during two-weekly bottle exchange. Adverse events were classified as adverse reactions (events likely linked to the repellent), cases of repellent abuse and events not related to the repellent use, and classified as per Common Terminology Criteria for Adverse Events.
+   Findings
+   Of the 41 adverse events notified by phone by the village distributors, there were 22 adverse reactions, 11 cases of repellent abuse (6 accidental, 5 suicide attempts) and 8 non-related events. All adverse reactions were mild, occurred in the first few months of use, and mainly manifested as skin conditions. Of the 11 cases of abuse, 2 were moderate and 2 life-threatening. All cases with adverse reactions and repellent abuse recovered completely. 20% of families reported perceived side effects, mainly itching, headache, dizziness and bad smell, but few discontinued repellent use.
+   Conclusions
+   Adverse reactions and abuse during mass use of picaridin were uncommon and generally mild, supporting the safety of the picaridin repellent for malaria control.
+C1 [Heng, Somony; Mean, Vanna; Tho, Sochantha] Natl Ctr Parasitol Entomol & Malaria Control, Phnom Penh, Cambodia.
+   [Heng, Somony; Sluydts, Vincent; Durnez, Lies; Coosemans, Marc; van Griensven, Johan] Inst Trop Med, Antwerp, Belgium.
+   [Sluydts, Vincent] Univ Antwerp, Dept Biol, Antwerp, Belgium.
+   [Polo, Koh] Banlong Referral Hosp, Ban Lung City, Ratanakiri Prov, Cambodia.
+   [Coosemans, Marc] Univ Antwerp, Dept Biomed Sci, Antwerp, Belgium.
+C3 National Center Parasitology, Entomology & Malaria Control; Institute of
+   Tropical Medicine (ITM); University of Antwerp; University of Antwerp
+RP van Griensven, J (corresponding author), Inst Trop Med, Antwerp, Belgium.
+EM jvangriensven@itg.be
+RI Sluydts, Vincent/AAU-8776-2020
+OI Sluydts, Vincent/0000-0001-5213-851X; Durnez, Lies/0000-0002-8367-1752
+FU Bill & Melinda Gates Foundation [OPP1032354]; Bill and Melinda Gates
+   Foundation [OPP1032354] Funding Source: Bill and Melinda Gates
+   Foundation
+FX This project was funded by the Bill & Melinda Gates Foundation (grant
+   OPP1032354). All of the repellents used during this study were provided
+   as material support from the company, S. C. Johnson. The funders of the
+   study had no role in study design, data collection, data analysis, data
+   interpretation, or writing of the report. The corresponding author had
+   full access to all the data in the study and had final responsibility
+   for the decision to submit for publication.
+NR 21
+TC 6
+Z9 6
+U1 0
+U2 3
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 24
+PY 2017
+VL 12
+IS 3
+AR e0172566
+DI 10.1371/journal.pone.0172566
+PG 16
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA ER9AZ
+UT WOS:000399116700002
+PM 28339462
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Yi, SY
+   Tuot, S
+   Chhoun, P
+   Pal, K
+   Choub, SC
+   Mburu, G
+AF Yi, Siyan
+   Tuot, Sovannary
+   Chhoun, Pheak
+   Pal, Khuondyla
+   Choub, Sok Chamreun
+   Mburu, Gitau
+TI Mental health among men who have sex with men in Cambodia: Implications
+   for integration of mental health services within HIV programmes
+SO INTERNATIONAL JOURNAL FOR EQUITY IN HEALTH
+LA English
+DT Article
+ID ACTIVE ANTIRETROVIRAL THERAPY; QUALITY-OF-LIFE; SUBSTANCE USE; CLINICAL
+   PROGRESSION; DEPRESSIVE SYMPTOMS; PERCEIVED STIGMA; GLOBAL BURDEN; CARE;
+   DISORDERS; ADHERENCE
+AB Background: Poor mental health contributes to poor HIV prevention, treatment and care outcomes. This paper documents factors associated with psychological distress among men who have sex with men (MSM) in Cambodia and discusses potential ways in which routine mental health management could be integrated into HIV services.
+   Methods: A cross-sectional study was conducted in 2014 among 394 MSM randomly selected from two provinces using a two-stage cluster sampling method. A structured questionnaire was used to assess psychological distress, sexual behaviors, substance use, adverse childhood experiences and family dysfunction. Multivariate logistic regression analysis was performed to explore factors associated with levels of psychological distress.
+   Results: In total, 10.7 % of the respondents reported having suicidal thoughts and 6.6 % reported having attempted to commit suicide in the past three months, while 38.8 % had a higher level of psychological distress (GHQ-12 > 3), which indicates poor mental health. Higher levels of psychological distress were independently associated with older age (AOR = 1.09, 95 % CI 1.03-1.14), alcohol use (AOR = 3.3, 95 % CI 1.36-7.83), illicit drug use (AOR = 3.53, 95 % CI 1.1211.18), poor self-reported quality of life (AOR = 7.45, 95 % CI 1.79-3.04), and reduced condom use at last sex (AOR = 0.40, 95 % CI 0.21-0.73). MSM with higher levels of psychological distress were significantly more likely to report that a family member said hurtful things to them (AOR = 1.80, 95 % CI 1.10-2.97), a parent or guardian had been physically abused (AOR = 3.51, 95 % CI 1.86-6.62), and a family member had been mentally ill (AOR = 4.01, 95 % CI 2.06-7.81) when they were growing up.
+   Conclusions: In order to mitigate psychological distress among MSM in Cambodia, integration of mental health interventions within HIV programmes should be strengthened. To achieve optimal impact, these interventions should also address alcohol and other substance use, and low condom use among distressed MSM. In addition, training of clinical and non-clinical HIV service providers to screen for mental health symptoms, and subsequent provision of peer-based outreach and social support for MSM identified with psychological distress is required.
+C1 [Yi, Siyan; Tuot, Sovannary] KHANA, Res Dept, Phnom Penh, Cambodia.
+   [Chhoun, Pheak; Pal, Khuondyla; Choub, Sok Chamreun] KHANA, Programs Dept, Phnom Penh, Cambodia.
+   [Mburu, Gitau] Int HIV AIDS Alliance, Program Impact Unit, Brighton, E Sussex, England.
+   [Mburu, Gitau] Univ Lancaster, Dept Hlth Res, Lancaster, England.
+C3 Lancaster University
+RP Mburu, G (corresponding author), Int HIV AIDS Alliance, Program Impact Unit, Brighton, E Sussex, England.; Mburu, G (corresponding author), Univ Lancaster, Dept Hlth Res, Lancaster, England.
+EM gmburu@aidsalliance.org
+RI Chhoun, Pheak/AAR-3361-2021
+OI Chhoun, Pheak/0000-0001-6369-0190; Yi, Siyan/0000-0002-3045-5386; Mburu,
+   Gitau/0000-0002-5812-0529
+FU United States Agency for International Development (USAID)
+FX This analysis was undertaken as part of the SAHACOM Project funded by
+   the United States Agency for International Development (USAID). The
+   authors thank all participants, implementing partners, and KHANA staff
+   who made this study and the SAHACOM project possible. Disclaimer:
+   Content of this paper is the responsibility of the authors and does not
+   reflect the view of USAID or our respective institutions.
+NR 63
+TC 13
+Z9 13
+U1 1
+U2 17
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1475-9276
+J9 INT J EQUITY HEALTH
+JI Int. J. Equity Health
+PD MAR 24
+PY 2016
+VL 15
+AR 53
+DI 10.1186/s12939-016-0342-8
+PG 10
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DI0KG
+UT WOS:000373184400001
+PM 27009628
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Bhalla, D
+   Chea, K
+   Hun, C
+   Chan, V
+   Huc, P
+   Chan, S
+   Sebbag, R
+   Gérard, D
+   Dumas, M
+   Oum, S
+   Druet-Cabanac, M
+   Preux, PM
+AF Bhalla, Devender
+   Chea, Kimly
+   Hun, Chamroeun
+   Chan, Vichea
+   Huc, Pierre
+   Chan, Samleng
+   Sebbag, Robert
+   Gerard, Daniel
+   Dumas, Michel
+   Oum, Sophal
+   Druet-Cabanac, Michel
+   Preux, Pierre-Marie
+TI Epilepsy in Cambodia-Treatment Aspects and Policy Implications: A
+   Population-Based Representative Survey
+SO PLOS ONE
+LA English
+DT Article
+ID SUICIDAL EXPRESSIONS; ANTIEPILEPTIC DRUGS; YOUNG-PEOPLE; COMMUNITY;
+   PROGRAM; HEALTH
+AB Introduction: We tested two treatment strategies to determine: treatment (a) prognosis (seizure frequency, mortality, suicide, and complications), (b) safety and adherence of treatment, (c) self-reported satisfaction with treatment and self-reported productivity, and policy aspects (a) number of required tablets for universal treatment (NRT), (b) cost of management, (c) manpower-gap and requirements for scaling-up of epilepsy care.
+   Methods: We performed a random-cluster survey (N = 16510) and identified 96 cases (>= 1 year of age) in 24 villages. They were screened by using a validated instrument and diagnosed by the neurologists. International guidelines were used for defining and classifying epilepsy. All were given phenobarbital or valproate (cost-free) in two manners patient's door-steps (March 2009-March 2010, primary-treatment-period, PTP) and treatment through health-centers (March 2010-June 2011, treatment-continuation-period, TCP). The emphasis was to start on a minimum dosage and regime, without any polytherapy, according to the age of the recipients. No titration was done. Seizure-frequency was monthly and self-reported.
+   Results: The number of seizures reduced from 12.6 (pre-treatment) to 1.2 (end of PTP), following which there was an increase to 3.4 (end of TCP). Between start of PTP and end of TCP,>60.0% became and remained seizure-free. During TCP, similar to 26.0% went to health centers to collect their treatment. Complications reduced from 12.5% to 4.2% between start and end of PTP and increased to 17.2% between start and end of TCP. Adverse events reduced from 46.8% to 16.6% between start and end of PTP. Nearly 33 million phenobarbital 100 mg tablets are needed in Cambodia.
+   Conclusions: Epilepsy responded sufficiently well to the conventional treatment, even when taken at a minimal dosage and a simple daily regimen, without any polytherapy. This is yet another confirmation that it is possible to substantially reduce direct burden of epilepsy through means that are currently available to us.
+C1 [Bhalla, Devender; Dumas, Michel; Druet-Cabanac, Michel; Preux, Pierre-Marie] INSERM, UMR 1094, Limoges, France.
+   [Bhalla, Devender; Huc, Pierre; Dumas, Michel; Druet-Cabanac, Michel; Preux, Pierre-Marie] Univ Limoges, Sch Med, CNRS, Inst Neuroepidemiol & Trop Neurol,FR GEIST 3503, Limoges, France.
+   [Bhalla, Devender; Druet-Cabanac, Michel; Preux, Pierre-Marie] Ctr Hosp Univ Limoges, Limoges, France.
+   [Chea, Kimly; Hun, Chamroeun; Chan, Samleng; Oum, Sophal] Univ Hlth Sci, Phnom Penh, Cambodia.
+   [Bhalla, Devender; Hun, Chamroeun; Chan, Vichea; Chan, Samleng] Cambodian Soc Neurol, Phnom Penh, Cambodia.
+   [Hun, Chamroeun; Chan, Vichea; Chan, Samleng] Calmette Hosp, Dept Neurol, Phnom Penh, Cambodia.
+   [Sebbag, Robert; Gerard, Daniel] Dept Access Med, Gentilly, France.
+C3 Institut National de la Sante et de la Recherche Medicale (Inserm);
+   Centre National de la Recherche Scientifique (CNRS); CNRS - National
+   Institute for Biology (INSB); Universite de Limoges; CHU Limoges
+RP Preux, PM (corresponding author), INSERM, UMR 1094, Limoges, France.
+EM preux@unilim.fr
+RI PREUX, Pierre-Marie/B-8393-2014; Preux, Pierre-Marie/N-3538-2019
+OI PREUX, Pierre-Marie/0000-0002-2171-2977; Preux,
+   Pierre-Marie/0000-0002-2171-2977; Druet-Cabanac,
+   Michel/0000-0001-5711-3346
+FU Department of Access to Medicines, Sanofi
+FX The project was financially supported by the Department of Access to
+   Medicines, Sanofi (www.sanofi.com). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 47
+TC 12
+Z9 13
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD SEP 5
+PY 2013
+VL 8
+IS 9
+AR e74817
+DI 10.1371/journal.pone.0074817
+PG 9
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 219CG
+UT WOS:000324481600148
+PM 24040345
+OA gold, Green Submitted, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Nann, S
+   Dousset, JP
+   Sok, C
+   Khim, P
+   Sopheap, Y
+   Sorum, P
+   Mullet, E
+AF Nann, Stephanie
+   Dousset, Jean-Phlippe
+   Sok, Chanthy
+   Khim, Pisey
+   Sopheap, Y.
+   Sorum, Paul
+   Mullet, Etienne
+TI CAMBODIAN PATIENTS' AND HEALTH PROFESSIONALS' VIEWS REGARDING THE
+   ALLOCATION OF ANTIRETROVIRAL DRUGS
+SO DEVELOPING WORLD BIOETHICS
+LA English
+DT Article
+DE Cambodia; antiretroviral therapy; developing world bioethics; empirical
+   ethics; rationing treatment
+ID SCARCE MEDICAL RESOURCES; PHYSICIAN-ASSISTED SUICIDE; HIV/AIDS; THERAPY;
+   AFRICA; PRACTITIONERS; ACCEPTABILITY; DECISIONS; CHOICES; PEOPLE
+AB The way Cambodian patients and health professionals judge the priority of HIV-infected patients in relation to the allocation of antiretroviral drugs was examined. Participants were either HIV-infected patients attending the HIV/AIDS Care and Support Centre for People Living with HIV/AIDS in Phnom Penh (29 females and 21 males) or members of the staff (9 physicians, 6 pharmacists and 15 health counsellors and health educators). They were presented with stories of a few lines depicting a patient's situation and were instructed to judge the extent to which the patient should be given priority for HIV drugs. The stories were composed according to a four within-subject factor design: (a) the patient's family responsibilities, (b) the severity of infection, (c) the time elapsed since the first consultation, and (d) the financial difficulties of the family. Most patients expressed the view that the drugs should be used for the patients who are most important from a familial point of view, namely, when the family contains small children and/or is already in a precarious financial condition.
+C1 [Mullet, Etienne] Inst Adv Studies EPHE, Eth & Work Dept, Paris, France.
+   [Sorum, Paul] Albany Med Coll, Albany, NY 12208 USA.
+   [Dousset, Jean-Phlippe; Sok, Chanthy; Khim, Pisey; Sopheap, Y.] Sharing Experience Adapted Dev SEAD NGO, Phnom Penh, Cambodia.
+   [Nann, Stephanie] Univ Paris 05, Paris, France.
+C3 UDICE-French Research Universities; Universite PSL; Ecole Pratique des
+   Hautes Etudes (EPHE); Albany Medical College; UDICE-French Research
+   Universities; Universite Paris Cite
+RP Mullet, E (corresponding author), Inst Adv Studies EPHE Eth & Work, Quefes 17 Bis, F-31830 Plaisance, France.
+EM etienne.mullet@wanadoo.fr
+NR 29
+TC 6
+Z9 6
+U1 0
+U2 7
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1471-8731
+J9 DEV WORLD BIOETH
+JI Dev. World Bioeth.
+PD AUG
+PY 2012
+VL 12
+IS 2
+BP 96
+EP 103
+DI 10.1111/j.1471-8847.2012.00323.x
+PG 8
+WC Ethics; Medical Ethics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics
+GA 971FG
+UT WOS:000306188600006
+PM 22515379
+DA 2023-12-06
+ER
+
+PT J
+AU Kiss, L
+   Pocock, NS
+   Naisanguansri, V
+   Suos, S
+   Dickson, B
+   Thuy, D
+   Koehler, J
+   Sirisup, K
+   Pongrungsee, N
+   Nguyen, V
+   Borland, R
+   Dhavan, P
+   Zimmerman, C
+AF Kiss, Ligia
+   Pocock, Nicola S.
+   Naisanguansri, Varaporn
+   Suos, Soksreymom
+   Dickson, Brett
+   Thuy, Doan
+   Koehler, Jobst
+   Sirisup, Kittiphan
+   Pongrungsee, Nisakorn
+   Van Anh Nguyen
+   Borland, Rosilyne
+   Dhavan, Poonam
+   Zimmerman, Cathy
+TI Health of men, women, and children in post-trafficking services in
+   Cambodia, Thailand, and Vietnam: an observational cross-sectional study
+SO LANCET GLOBAL HEALTH
+LA English
+DT Article
+ID HOPKINS SYMPTOM CHECKLIST-25; OCCUPATIONAL-HEALTH; INSTRUMENT;
+   DISORDERS; MIGRATION; SURVIVORS; INJURIES; COHORT; IMPACT; LABOR
+AB Background Trafficking is a crime of global proportions involving extreme forms of exploitation and abuse. Yet little research has been done of the health risks and morbidity patterns for men, women, and children trafficked for various forms of forced labour.
+   Methods We carried out face-to-face interviews with a consecutive sample of individuals entering 15 post-trafficking services in Cambodia, Thailand, and Vietnam. We asked participants about living and working conditions, experience of violence, and health outcomes. We measured symptoms of anxiety and depression with the Hopkins Symptoms Checklist and post-traumatic stress disorder with the Harvard Trauma Questionnaire, and used adjusted logistic regression models to estimate the effect of trafficking on these mental health outcomes, controlling for age, sector of exploitation, and time in trafficking.
+   Findings We interviewed 1102 people, of whom 1015 reached work destinations. Participants worked in various sectors including sex work (329 [32%]), fishing (275 [27%]), and factories (136 [13%]). 481 (48%) of 1015 experienced physical violence, sexual violence, or both, with 198 (35%) of 566 women and girls reporting sexual violence. 478 (47%) of 1015 participants were threatened and 198 (20%) were locked in a room. 685 (70%) of 985 who had data available worked 7 days per week and 296 (30%) of 989 worked at least 11 hours per day. 222 (22%) of 983 had a serious injury at work. 61.2% (95% CI 58.2-64.2) of participants reported symptom of depression, 42.8% (39.8-45.9) reported symptoms of anxiety, and 38.9% (36.0-42.0) reported symptoms of post-traumatic stress disorder. 5.2% (4.0-6.8) had attempted suicide in the past month. Participants who experienced extremely excessive overtime at work, restricted freedom, bad living conditions, threats, or severe violence were more likely to report symptoms of depression, anxiety, and post-traumatic stress disorder.
+   Interpretation This is the first health study of a large and diverse sample of men, women, and child survivors of trafficking for various forms of exploitation. Violence and unsafe working conditions were common and psychological morbidity was associated with severity of abuse. Survivors of trafficking need access to health care, especially mental health care. Copyright (C) Kiss et al. Open Access article distributed under the terms of CC BY-NC-ND.
+C1 [Kiss, Ligia; Pocock, Nicola S.; Zimmerman, Cathy] London Sch Hyg & Trop Med, London WC1H 9SH, England.
+   [Dickson, Brett; Thuy, Doan; Sirisup, Kittiphan; Pongrungsee, Nisakorn; Van Anh Nguyen; Borland, Rosilyne; Dhavan, Poonam] Int Org Migrat, Bangkok, Thailand.
+   [Suos, Soksreymom] Int Org Migrat, Phnom Penh, Cambodia.
+   [Naisanguansri, Varaporn; Koehler, Jobst] Int Org Migrat, Hainoi, Vietnam.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   International Organization for Migration; International Organization for
+   Migration; International Organization for Migration
+RP Kiss, L (corresponding author), London Sch Hyg & Trop Med, Fac Publ Hlth, Dept Global Hlth & Dev, London WC1H 9SH, England.
+EM ligia.kiss@lshtm.ac.uk
+RI Pocock, Nicola Suyin/ABB-5446-2020
+OI Pocock, Nicola Suyin/0000-0002-2083-4171; Kiss,
+   Ligia/0000-0002-3334-7110
+FU Anesvad Foundation; IOM Development Fund; Economic and Social Research
+   Council, UK
+FX This study was funded by Anesvad Foundation and IOM Development Fund,
+   with additional support from the Economic and Social Research Council,
+   UK.
+NR 40
+TC 112
+Z9 127
+U1 0
+U2 65
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2214-109X
+J9 LANCET GLOB HEALTH
+JI Lancet Glob. Health
+PD MAR
+PY 2015
+VL 3
+IS 3
+BP E154
+EP E161
+DI 10.1016/S2214-109X(15)70016-1
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CB9OH
+UT WOS:000349960700014
+PM 25701993
+OA gold, Green Accepted
+DA 2023-12-06
+ER
+
+EF

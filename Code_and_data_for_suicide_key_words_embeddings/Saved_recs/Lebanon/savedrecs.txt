@@ -1,0 +1,1938 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Khalil, RB
+AF Khalil, Rami Bou
+TI The psychological wellbeing of the Lebanese society lies between
+   incremental suicide rates and financial stress
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Lebanon; Middle East; Suicide; Financial stress
+AB Suicide rates have been suspected to increase in Lebanon during the last couple of years. While these rates might be increasing due to an increase in the probability of declaring suicide, it seems important to study why suicide, as a phenomenon, might be possibly increasing in the Lebanese society. One of the most important reasons behind this rise in suicide rates could be related to the economical crisis that has been striking the country for more than two years.
+C1 [Khalil, Rami Bou] Hotel Dieu France, A Naccache Blvd,POB 166830, Beirut, Lebanon.
+   [Khalil, Rami Bou] St Joseph Univ, Beirut, Lebanon.
+RP Khalil, RB (corresponding author), Hotel Dieu France, A Naccache Blvd,POB 166830, Beirut, Lebanon.
+EM rami.boukhalil@usj.edu.lb
+RI Bou Khalil, Rami/AAN-4379-2021
+OI Bou Khalil, Rami/0000-0003-1725-4755
+NR 14
+TC 7
+Z9 7
+U1 2
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2019
+VL 42
+BP 85
+EP 86
+DI 10.1016/j.ajp.2019.04.002
+PG 2
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA HY4ZN
+UT WOS:000468136700020
+PM 30978558
+DA 2023-12-03
+ER
+
+PT J
+AU Kaplan, RL
+   Nehme, S
+   Aunon, F
+   de Vries, D
+   Wagner, G
+AF Kaplan, Rachel L.
+   Nehme, Simon
+   Aunon, Frances
+   de Vries, David
+   Wagner, Glenn
+TI Suicide risk factors among trans feminine individuals in Lebanon
+SO INTERNATIONAL JOURNAL OF TRANSGENDERISM
+LA English
+DT Article
+DE Lebanon; MENA; mental health; Middle East; suicide; trans feminine
+ID TRANSGENDER PERSONS; SOCIAL SUPPORT; HIV PREVALENCE; HEALTH; DEPRESSION;
+   DISCRIMINATION; BEHAVIORS; VALIDITY; STUDENTS; IDEATION
+AB Transgender women are disproportionately affected by high rates of depression and suicide attempts. It is therefore important to identify factors that influence suicidal risk, particularly in the Middle East, where little research has examined the mental health of transgender women. We examined risk factors associated with suicide attempts among 54 trans feminine individuals in Beirut, Lebanon. Data were collected using interviewer-administered questionnaires and were analyzed using bivariate statistics. Twenty-five (46%) participants reported having ever attempted suicide. Among them, only one participant had received some kind of counseling in response to the attempted suicide. Low general social support, low social integration, and low support from peers were significantly associated with a history of attempted suicide, as were being more open about transgender identity in public and any hormone use (past or current). These findings suggest that progression in gender transition can have unintended consequences related to mental health and suicide risk, while social support systems can mitigate the impact of mental health problems. Some of these findings mirror other contexts around the globe and can inform mental health services for trans feminine individuals in Lebanon, the greater Middle East region, and other international settings.
+C1 [Kaplan, Rachel L.] Univ Calif San Francisco, Dept Obstet Gynecol & Reprod Sci, San Francisco, CA USA.
+   [Nehme, Simon] Helem, Beirut, Lebanon.
+   [Aunon, Frances] Univ Washington, Seattle, WA 98195 USA.
+   [de Vries, David; Wagner, Glenn] RAND Corp, Santa Monica, CA USA.
+C3 University of California System; University of California San Francisco;
+   University of Washington; University of Washington Seattle; RAND
+   Corporation
+RP Kaplan, RL (corresponding author), Univ Calif San Francisco, 550 16th St, San Francisco, CA 94158 USA.
+EM rachel.kaplan@ucsf.edu
+NR 41
+TC 22
+Z9 22
+U1 0
+U2 13
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1553-2739
+EI 1434-4599
+J9 INT J TRANSGENDERISM
+JI Int. J. Transgenderism
+PY 2016
+VL 17
+IS 1
+BP 23
+EP 30
+DI 10.1080/15532739.2015.1117406
+PG 8
+WC Psychology, Clinical; Public, Environmental & Occupational Health;
+   Social Sciences, Interdisciplinary; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Social Sciences
+   - Other Topics; Biomedical Social Sciences
+GA DY3PQ
+UT WOS:000385006500004
+PM 27616943
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Richa, S
+   Richa, N
+AF Richa, Sami
+   Richa, Nathalie
+TI Pigeon Cave: A Legendary Place of Suicide in Lebanon
+SO AMERICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Biographical-Item
+C1 [Richa, Sami] St Joseph Univ Beirut, Jounieh, Lebanon.
+   Holy Spirit Univ Kaslik, Jounieh, Lebanon.
+RP Richa, S (corresponding author), St Joseph Univ Beirut, Jounieh, Lebanon.
+EM sami.richa@usj.edu.lb
+RI richa, sami/ABF-6036-2020
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI ARLINGTON
+PA 1000 WILSON BOULEVARD, STE 1825, ARLINGTON, VA 22209-3901 USA
+SN 0002-953X
+EI 1535-7228
+J9 AM J PSYCHIAT
+JI Am. J. Psychiat.
+PD JAN
+PY 2015
+VL 172
+IS 1
+BP 16
+EP 16
+DI 10.1176/appi.ajp.2014.14091134
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AX8FQ
+UT WOS:000347146000006
+PM 25553495
+DA 2023-12-03
+ER
+
+PT C
+AU Markovic, V
+AF Markovic, Vesna
+BE Gurbuz, U
+TI Suicide Terrorism: The Special Case of the Suicide Bomber
+SO FUTURE TRENDS AND NEW APPROACHES IN DEFEATING THE TERRORISM THREAT
+SE Nato Science for Peace and Security Series E-Human and Societal Dynamics
+LA English
+DT Proceedings Paper
+CT Proceedings of the NATO Advanced Training Course (ATC) on Future Trends
+   and New Approaches in Defeating the Terrorism Threat
+CY OCT 23-27, 2011
+CL Algiers, ALGERIA
+SP NATO
+DE Suicide bombing; terrorist modes of attack; multiple terrorist attacks
+AB This paper gives a brief history of suicide bombings, from the first modern suicide bombing in Lebanon in 1981 through June 30, 2011. This includes over 3,000 suicide bombings successfully carried out in 42 countries worldwide. It also briefly covers group and individual motivations and a typology of suicide bombers. Finally, the changes in tactics and trends in suicide bombings will be covered.
+C1 [Markovic, Vesna] Inst Study Violent Grp, West Haven, CT USA.
+RI Markovic, Vesna/AAJ-8749-2020
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 5
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1879-8268
+BN 978-1-61499-272-1; 978-1-61499-271-4
+J9 NATO SCI PEACE SEC
+PY 2013
+VL 111
+BP 31
+EP 36
+DI 10.3233/978-1-61499-272-1-31
+PG 6
+WC International Relations
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC International Relations
+GA BA4YD
+UT WOS:000336431800003
+DA 2023-12-03
+ER
+
+PT J
+AU Mahfoud, ZR
+   Afifi, RA
+   Haddad, PH
+   DeJong, J
+AF Mahfoud, Ziyad R.
+   Afifi, Rema A.
+   Haddad, Pascale H.
+   DeJong, Jocelyn
+TI Prevalence and determinants of suicide ideation among Lebanese
+   adolescents: Results of the GSHS Lebanon 2005
+SO JOURNAL OF ADOLESCENCE
+LA English
+DT Article
+DE Suicide; Suicide ideation; Adolescents; Global school health survey
+ID RISK-FACTORS; BODY-MASS
+AB The current study examined prevalence and risk factors for suicide ideation in 5038 Lebanese adolescents using Global School Health Survey data. Around 16% of Lebanese adolescents thought of suicide. Multivariate logistic regression models showed that risk factors for suicide ideation included poor mental health (felt lonely, felt worried, felt sad or hopeless), substance use (got drunk, used drugs), victimization (was bullied, was sexually harassed), and lack of parental understanding. Recommendations for future research and interventions are discussed. (C) 2010 The Association for Professionals in Services for Adolescents. Published by Elsevier Ltd. All rights reserved.
+C1 [Mahfoud, Ziyad R.; Haddad, Pascale H.; DeJong, Jocelyn] Amer Univ Beirut, Fac Hlth Sci, Dept Epidemiol & Populat Hlth, Beirut, Lebanon.
+   [Afifi, Rema A.] Amer Univ Beirut, Fac Hlth Sci, Dept Hlth Behav & Educ, Beirut, Lebanon.
+C3 American University of Beirut; American University of Beirut
+RP Haddad, PH (corresponding author), Amer Univ Beirut, Fac Hlth Sci, Dept Epidemiol & Populat Hlth, Beirut, Lebanon.
+EM ph09@aub.edu.lb
+RI Afifi, Rima A/M-5615-2016
+OI Afifi, Rima A/0000-0003-3154-3617
+NR 31
+TC 52
+Z9 60
+U1 0
+U2 10
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0140-1971
+EI 1095-9254
+J9 J ADOLESCENCE
+JI J. Adolesc.
+PD APR
+PY 2011
+VL 34
+IS 2
+BP 379
+EP 384
+DI 10.1016/j.adolescence.2010.03.009
+PG 6
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 766KG
+UT WOS:000290780400018
+PM 20434762
+OA Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Khashan, H
+AF Khashan, H
+TI Collective Palestinian frustration and suicide bombings
+SO THIRD WORLD QUARTERLY
+LA English
+DT Article
+AB This study proposes that Islamic militancy, poverty, youth and personality patterns contribute to the explanation of support for Palestinian suicide bombings, as well as proneness to participate in them. Data come from a simple random sample of 342 Palestinian refugees living in southern Lebanon. The administration of the research instrument took place during the summer of 2002. The findings attest to the strength of political Islam, low income, youth and certain social functionality attributes in explaining endorsement of suicide attacks, as well as willingness to take part in them.
+C1 Amer Univ Beirut, Polit Sci & Publ Adm Dept, Beirut 11072020, Lebanon.
+C3 American University of Beirut
+RP Khashan, H (corresponding author), Amer Univ Beirut, Polit Sci & Publ Adm Dept, POB 11-0236,Riad El Solh, Beirut 11072020, Lebanon.
+NR 50
+TC 32
+Z9 52
+U1 0
+U2 5
+PU CARFAX PUBLISHING
+PI BASINGSTOKE
+PA RANKINE RD, BASINGSTOKE RG24 8PR, HANTS, ENGLAND
+SN 0143-6597
+J9 THIRD WORLD Q
+JI Third World Q.
+PD DEC
+PY 2003
+VL 24
+IS 6
+BP 1049
+EP 1067
+PG 19
+WC Development Studies
+WE Social Science Citation Index (SSCI)
+SC Development Studies
+GA 757FV
+UT WOS:000187551200004
+DA 2023-12-03
+ER
+
+PT J
+AU Karam, EG
+   Salamoun, MM
+   Mneimneh, ZN
+   Fayyad, JA
+   Karam, AN
+   Hajjar, R
+   Dimassi, H
+   Nock, MK
+   Kessler, RC
+AF Karam, E. G.
+   Salamoun, M. M.
+   Mneimneh, Z. N.
+   Fayyad, J. A.
+   Karam, A. N.
+   Hajjar, R.
+   Dimassi, H.
+   Nock, M. K.
+   Kessler, R. C.
+TI War and first onset of suicidality: the role of mental disorders
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE Mental disorders; suicide; war
+ID RISK-FACTORS; PREVALENCE; ANXIETY; COMORBIDITY; IDEATION; VIOLENCE;
+   LEBANON
+AB Background. Suicide rates increase following periods of war; however, the mechanism through which this occurs is not known. The aim of this paper is to shed some light on the associations of war exposure, mental disorders, and subsequent suicidal behavior.
+   Method. A national sample of Lebanese adults was administered the Composite International Diagnostic Interview to collect data on lifetime prevalence and age of onset of suicide ideation, plan, and attempt, and mental disorders, in addition to information about exposure to stressors associated with the 1975-1989 Lebanon war.
+   Results. The onset of suicide ideation, plan, and attempt was associated with female gender, younger age, post-war period, major depression, impulse-control disorders, and social phobia. The effect of post-war period on each type of suicide outcome was largely explained by the post-war onset of mental disorders. Finally, the conjunction of having a prior impulse-control disorder and either being a civilian in a terror region or witnessing war-related stressors was associated with especially high risk of suicide attempt.
+   Conclusions. The association of war with increased risk of suicidality appears to be partially explained by the emergence of mental disorders in the context of war. Exposure to war may exacerbate disinhibition among those who have prior impulse-control disorders, thus magnifying the association of mental disorders with suicidality.
+C1 [Karam, E. G.; Fayyad, J. A.; Karam, A. N.] St George Hosp Univ Med Ctr, Dept Psychiat & Clin Psychol, Beirut, Lebanon.
+   [Karam, E. G.; Fayyad, J. A.; Karam, A. N.] Balamand Univ Med Sch, Fac Med, Dept Psychiat & Clin Psychol, Beirut, Lebanon.
+   [Karam, E. G.; Salamoun, M. M.; Mneimneh, Z. N.; Fayyad, J. A.; Karam, A. N.; Hajjar, R.; Dimassi, H.] IDRAAC, Beirut, Lebanon.
+   [Mneimneh, Z. N.] Univ Michigan, Survey Methodol Program, Inst Social Res, Ann Arbor, MI 48109 USA.
+   [Nock, M. K.] Harvard Univ, Dept Psychol, Cambridge, MA 02138 USA.
+   [Kessler, R. C.] Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA.
+C3 University of Michigan System; University of Michigan; Harvard
+   University; Harvard University; Harvard Medical School
+RP Karam, EG (corresponding author), IDRAAC, POB 166227, Ashrafieh 11002110, Lebanon.
+EM idraac@idraac.org
+RI Kessler, Ronald/A-2741-2012; Dimassi, Hani/AAH-5334-2019; Mneimneh,
+   Zeina/ABG-3516-2020; Nock, Matthew/AAE-8330-2019
+OI Kessler, Ronald/0000-0003-4831-2305; Dimassi, Hani/0000-0003-1827-2453; 
+FU United States National Institute of Mental Health [R01MH070884,
+   MH077883]; John D. and Catherine T. MacArthur Foundation; Pfizer
+   Foundation; US Public Health Service [R13-MH066849, R01-MH069864, R01
+   DA016558]; Fogarty International Center [FIRCA R03-TW006481]; Pan
+   American Health Organization; Eli Lilly & Company Foundation;
+   Ortho-McNeil Pharmaceutical Inc.; GlaxoSmithKline; Bristol-Myers Squibb;
+   Lebanese Ministry of Public Health; WHO (Lebanon); National Institute of
+   Health/Fogarty International Center [R03 TW006481-01]; Janssen Cilag;
+   Eli Lilly; AstraZeneca; Hikma Pharm; Novartis; Analysis Group Inc.; Eli
+   Lilly Company; EPI-Q; Johnson & Johnson Pharmaceuticals; Ortho-McNeil
+   Janssen Scientific Affairs; Pfizer Inc.; Sanofi-Aventis Groupe; Shire
+   US, Inc.
+FX L.E.B.A.N.O.N. is carried out in conjunction with the World Health
+   Organization World Mental Health (WMH) Survey Initiative. These
+   activities were supported by the United States National Institute of
+   Mental Health (R01MH070884, MH077883), the John D. and Catherine T.
+   MacArthur Foundation, the Pfizer Foundation, the US Public Health
+   Service (R13-MH066849, R01-MH069864, R01 DA016558), the Fogarty
+   International Center (FIRCA R03-TW006481), the Pan American Health
+   Organization, Eli Lilly & Company Foundation, Ortho-McNeil
+   Pharmaceutical Inc., GlaxoSmithKline, and Bristol-Myers Squibb. We thank
+   the WMH staff for assistance with instrumentation, fieldwork, and data
+   analysis. A complete list of WMH publications can be found at
+   http://www.hcp.med.harvard.edu/wmh/.; The Lebanese national mental
+   health survey (L.E.B.A.N.O.N.) is supported by the Lebanese Ministry of
+   Public Health, the WHO (Lebanon), National Institute of Health/Fogarty
+   International Center (R03 TW006481-01), anonymous private donations to
+   IDRAAC (Lebanon), and unrestricted grants from Janssen Cilag, Eli Lilly,
+   GlaxoSmithKline, AstraZeneca, Hikma Pharm, and Novartis.; Dr Kessler has
+   been a consultant for AstraZeneca, Analysis Group, Bristol-Myers Squibb,
+   Cerner-Galt Associates, Eli Lilly & Company, GlaxoSmithKline Inc.,
+   Health Core Inc., Health Dialog, Integrated Benefits Institute, John
+   Snow Inc., Kaiser Permanente, Matria Inc., Mensante, Merck & Co. Inc.,
+   Ortho-McNeil Janssen Scientific Affairs, Pfizer Inc., Primary Care
+   Network, Research Triangle Institute, Sanofi-Aventis Groupe, Shire US
+   Inc., SRA International Inc., Takeda Global Research & Development,
+   Transcept Pharmaceuticals Inc., and Wyeth-Ayerst; has served on advisory
+   boards for Appliance Computing II, Eli Lilly & Company, Mindsite,
+   Ortho-McNeil Janssen Scientific Affairs, Plus One Health Management and
+   Wyeth-Ayerst; and has had research support for his epidemiological
+   studies from Analysis Group Inc., Bristol-Myers Squibb, Eli Lilly &
+   Company, EPI-Q, GlaxoSmithKline, Johnson & Johnson Pharmaceuticals,
+   Ortho-McNeil Janssen Scientific Affairs., Pfizer Inc., Sanofi-Aventis
+   Groupe, and Shire US, Inc.
+NR 26
+TC 14
+Z9 14
+U1 1
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD OCT
+PY 2012
+VL 42
+IS 10
+BP 2109
+EP 2118
+DI 10.1017/S0033291712000268
+PG 10
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 006UR
+UT WOS:000308845200009
+PM 22370047
+OA Green Accepted, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Pape, RA
+AF Pape, RA
+TI The strategic logic of suicide terrorism
+SO AMERICAN POLITICAL SCIENCE REVIEW
+LA English
+DT Article
+ID WORK
+AB Suicide terrorism is rising around the world, but the most common explanations do not help us understand why. Religious fanaticism does not explain why the world leader in suicide terrorism is the Tamil Tigers in Sri Lanka, a group that adheres to a Marxist/Leninist ideology, while existing psychological explanations have been contradicted by the widening range of socio-economic backgrounds of suicide terrorists. To advance our understanding of this growing phenomenon, this study collects the universe of suicide terrorist attacks worldwide from 1980 to 2001, 188 in all. In contrast to the existing explanations, this study shows that suicide terrorism follows a strategic logic, one specifically designed to coerce modern liberal democracies to make significant territorial concessions. Moreover, over the past two decades, suicide terrorism has been rising largely because terrorists have learned that it pays. Suicide terrorists sought to compel American and French military forces to abandon Lebanon in 1983, Israeli forces to leave Lebanon in 1985, Israeli forces to quit the Gaza Strip and the West Bank in 1994 and 1995, the Sri Lankan government to create an independent Tamil state from 1990 on, and the Turkish government to grant autonomy to the Kurds in the late 1990s. In all but the case of Turkey, the terrorist political cause made more gains after the resort to suicide operations than it had before. Thus, Western democracies should pursue policies that teach terrorists that the lesson of the 1980s and 1990s no longer holds, policies which in practice may have more to do with improving homeland security than with offensive military action.
+C1 Univ Chicago, Dept Polit Sci, Chicago, IL 60637 USA.
+C3 University of Chicago
+RP Pape, RA (corresponding author), Univ Chicago, Dept Polit Sci, 5828 S Univ Ave, Chicago, IL 60637 USA.
+NR 68
+TC 743
+Z9 948
+U1 2
+U2 220
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4221 USA
+SN 0003-0554
+J9 AM POLIT SCI REV
+JI Am. Polit. Sci. Rev.
+PD AUG
+PY 2003
+VL 97
+IS 3
+BP 343
+EP 361
+PG 19
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA 717PL
+UT WOS:000185098500001
+DA 2023-12-03
+ER
+
+PT J
+AU Norton, AR
+AF Norton, AR
+TI Hizballah and the Israeli withdrawal from southern Lebanon
+SO JOURNAL OF PALESTINE STUDIES
+LA English
+DT Article
+AB Using as its starting point the Israeli withdrawal from southern Lebanon, this article traces Hizballah's development from a radical resistance group known especially for suicide bombings and kidnappings to a highly professional guerrilla force and a political party with a broad constituency and pragmatic leadership. The author examines Hizballah's entry into politics in the early 1990's; its evolving relations with state actors, especially Syria and Iran; its conduct during and following the withdrawal; and its future prospects.
+C1 Boston Univ, Dept Anthropol, Boston, MA 02215 USA.
+   Boston Univ, Dept Int Relat, Boston, MA 02215 USA.
+C3 Boston University; Boston University
+RP Norton, AR (corresponding author), Boston Univ, Dept Anthropol, Boston, MA 02215 USA.
+NR 0
+TC 47
+Z9 57
+U1 0
+U2 2
+PU UNIV CALIF PRESS
+PI BERKELEY
+PA C/O JOURNALS DIVISION, 2000 CENTER ST, STE 303, BERKELEY, CA 94704-1223
+   USA
+SN 0377-919X
+J9 J PALESTINE STUD
+JI J. Palest. Stud.
+PD FAL
+PY 2000
+VL 30
+IS 1
+BP 22
+EP 35
+DI 10.1525/jps.2000.30.1.02p01053
+PG 14
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 375VB
+UT WOS:000165421000002
+DA 2023-12-03
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; Ministry of National Guard - Health Affairs; King
+   Abdullah International Medical Research Center (KAIMRC); Universitas
+   Islam Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Rezaeian, Mohsen/C-6513-2008; Khan, Murad/AAE-5134-2020; Eskin,
+   Mehmet/AAG-9269-2020; Khader, Yousef Saleh/AAE-9620-2019; Harlak,
+   Hacer/ABC-5916-2020; Noor, Isa Multazam/AAQ-2726-2020; Khan,
+   Aqeel/B-5208-2010; Hamdan, Motasem/AAB-3940-2019
+OI Rezaeian, Mohsen/0000-0003-3070-0166; Khader, Yousef
+   Saleh/0000-0002-7830-6857; Khan, Aqeel/0000-0001-9338-9323; Hendarmin,
+   Laifa A./0000-0001-5281-395X; Isayeva, Ulker/0000-0003-3927-4810; Eskin,
+   Mehmet/0000-0001-9916-9268; Hamdan, Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-03
+ER
+
+PT J
+AU Shafiq, MN
+   Sinno, AH
+AF Shafiq, M. Najeeb
+   Sinno, Abdulkader H.
+TI Education, Income, and Support for Suicide Bombings: Evidence from Six
+   Muslim Countries
+SO JOURNAL OF CONFLICT RESOLUTION
+LA English
+DT Article
+DE attitudes; Islam; politics of education; suicide bombing; terrorism
+ID TERRORISM
+AB The authors examine the effect of educational attainment and income on support for suicide bombing among Muslim publics in six predominantly Muslim countries that have experienced suicide bombings: Indonesia, Jordan, Lebanon, Morocco, Pakistan, and Turkey. The authors make two contributions. First, they present a conceptual model, which has been lacking in the literature. Second, they consider attitudes toward two different targets of suicide bombings: civilians within the respondent's country and Western military and political personnel in Iraq. The authors find that the effect of educational attainment and income on support for suicide bombings varies across countries and targets.The findings therefore draw attention to the difficulties of making generalizations about Muslim countries and the importance of distinguishing between targets of suicide bombings.
+C1 [Shafiq, M. Najeeb; Sinno, Abdulkader H.] Indiana Univ, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Shafiq, MN (corresponding author), WW Wright Educ Bldg,Room 4232, Bloomington, IN 47405 USA.
+EM mnshafiq@indiana.edu
+NR 41
+TC 58
+Z9 59
+U1 1
+U2 26
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0027
+EI 1552-8766
+J9 J CONFLICT RESOLUT
+JI J. Confl. Resolut.
+PD FEB
+PY 2010
+VL 54
+IS 1
+BP 146
+EP 178
+DI 10.1177/0022002709351411
+PG 33
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 544SE
+UT WOS:000273678800007
+DA 2023-12-03
+ER
+
+PT J
+AU Kazour, F
+   Soufia, M
+   Rohayem, J
+   Richa, S
+AF Kazour, Francois
+   Soufia, Michel
+   Rohayem, Jihane
+   Richa, Sami
+TI Suicide Risk of Heroin Dependent Subjects in Lebanon
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE Heroin; Substance; Suicide; Impulsivity; Overdose
+ID DISORDERS; BEHAVIOR; SCALE; USERS
+AB The aim is to determine the frequency of suicidal behavior and associated factors among heroin dependent inpatients. 61 heroin dependent inpatients (vs. 61 controls) were assessed on their pattern of substance use, impulsivity, depression and suicidal behavior. 37.7 % of patients had a personal history of suicidal attempt (SA), 14.8 % had current suicidal ideation. SA was associated to younger age at first substance use and to higher rates of depression and impulsivity. IV heroin overdose was the most frequent mode of SA (47.8 %). Long duration, multiple drug use, and family history of suicide were associated with higher risk of suicide among lebanese patients.
+C1 [Kazour, Francois; Rohayem, Jihane; Richa, Sami] St Josephs Univ, Fac Med, Dept Psychiat, Beirut, Lebanon.
+   [Kazour, Francois] Psychiat Hosp Cross, Jalledib 60096, Lebanon.
+   [Soufia, Michel] Univ St Esprit Kaslik, Fac Med, Dept Psychiat, Beirut, Lebanon.
+   [Rohayem, Jihane; Richa, Sami] Hotel Dieu France Hosp, Beirut, Lebanon.
+C3 Saint Joseph University Beirut
+RP Kazour, F (corresponding author), St Josephs Univ, Fac Med, Dept Psychiat, Beirut, Lebanon.; Kazour, F (corresponding author), Psychiat Hosp Cross, Jalledib 60096, Lebanon.
+EM francoiskazour@hotmail.com
+RI richa, sami/ABF-6036-2020
+OI Kazour, Francois/0000-0001-9337-4797
+NR 26
+TC 15
+Z9 17
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD JUL
+PY 2016
+VL 52
+IS 5
+BP 589
+EP 596
+DI 10.1007/s10597-015-9952-7
+PG 8
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA DN8ZJ
+UT WOS:000377368300012
+PM 26424734
+DA 2023-12-03
+ER
+
+PT J
+AU Fernandez, B
+AF Fernandez, Bina
+TI Health inequities faced by Ethiopian migrant domestic workers in Lebanon
+SO HEALTH & PLACE
+LA English
+DT Article
+ID CARE; COMMUNICATION; PERCEPTIONS; BEDOUIN; GENDER; EQUITY
+AB This paper investigates the healthcare needs, access to healthcare, and healthcare strategies of Ethiopian migrant domestic workers (MDWs) in Lebanon, drawing on qualitative empirical research. The analysis focusses on four types of health care needs: minor illnesses, pregnancies, serious illnesses (such as cancer, tuberculosis or heart problems), and emergencies (due to accidents, suicide attempts or assaults). Predictably, access to healthcare is distinctly differentiated according to an MDW's status as a documented, freelancer, or undocumented worker. Drawing on the concepts of systemic health inequities and inter-personal racial discrimination, the paper provides evidence for inequitable access to healthcare experienced by Ethiopian women in Lebanon. I identify the specific forms of exclusion they experience and develop a matrix for analysis of systemic inequities in access to healthcare differentiated by migrant status.
+C1 [Fernandez, Bina] Univ Melbourne, Dev Studies, Sch Social & Polit Sci, Melbourne, Vic 3010, Australia.
+C3 University of Melbourne
+RP Fernandez, B (corresponding author), Univ Melbourne, Dev Studies, Sch Social & Polit Sci, Melbourne, Vic 3010, Australia.
+EM bfernandez@unimelb.edu.au
+OI Fernandez, Bina/0000-0002-1611-7217
+FU Australian Research Council Discovery Early Career Award [DE150100443];
+   Messawet in Lebanon; Australian Research Council [DE150100443] Funding
+   Source: Australian Research Council
+FX Research for this paper was funded by an Australian Research Council
+   Discovery Early Career Award (Grant Number DE150100443) 2015-2017. The
+   author thanks Hana Husn and Rahel Zegeye in Lebanon for their excellent
+   research assistance, and Messawet in Lebanon for their support of this
+   project.
+NR 47
+TC 20
+Z9 22
+U1 3
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1353-8292
+EI 1873-2054
+J9 HEALTH PLACE
+JI Health Place
+PD MAR
+PY 2018
+VL 50
+BP 154
+EP 161
+DI 10.1016/j.healthplace.2018.01.008
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FY1ZE
+UT WOS:000426612000018
+PM 29454243
+OA Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Macaron, G
+   Fahed, M
+   Matar, D
+   Bou-Khalil, R
+   Kazour, F
+   Nehme-Chlela, D
+   Richa, S
+AF Macaron, Gabrielle
+   Fahed, Mario
+   Matar, Dany
+   Bou-Khalil, Rami
+   Kazour, Francois
+   Nehme-Chlela, Dania
+   Richa, Sami
+TI Anxiety, Depression and Suicidal Ideation in Lebanese Patients
+   Undergoing Hemodialysis
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE Hemodialysis; Lebanon; Depression; Anxiety; Suicide
+ID DIALYSIS PATIENTS; MENTAL-HEALTH; OF-LIFE; RISK; RELIGIOSITY;
+   VALIDATION; DISORDERS; DECISIONS; SYMPTOMS; ILLNESS
+AB Anxiety, depression and suicidal thoughts are highly prevalent comorbidities of end-stage-renal-disease (ESRD). There are no studies in Lebanon on the prevalence of these symptoms in Lebanese end-stage-renal-disease patients. Moreover, the association between ESRD on one hand, and anxiety, depression and suicidal ideation on the other has never been established in Lebanon. Groups of patients at a high-risk of development of these symptoms are not determined. The Hospital Anxiety and Depression Score and M.I.N.I (module C) were used to measure the prevalence of anxiety, depression and suicidal ideation in 51 patients from the dialysis center of Hotel-Dieu de France Hospital in Lebanon. In our sample, 45 % of included patients suffered from symptoms of anxiety and 50 % presented symptoms of depression.The prevalence of suicidal ideation as detected by the M.I.N.I. is at 37 %. No patients presented with a high risk of suicide. There was a statistically significant correlation between the existence of organic comorbidities and the presence of symptoms of depression and suicidal ideation. As for anxiety, the association was marginally significant. The results obtained by our study are consistent with those found in studies performed in other societies. The profile of depression- and suicidal ideation-prone patients has been determined. It consists of patients with at least one medical comorbidity to the ESRD. This, in turn, should lead to increased awareness and better treatment of these psychiatric ailments, considering their impact on morbidity and mortality in ESRD.
+C1 [Macaron, Gabrielle; Fahed, Mario; Matar, Dany; Bou-Khalil, Rami; Kazour, Francois; Richa, Sami] St Joseph Univ, Hotel Dieu France Hosp, Dept Psychiat, Fac Med, Beirut, Lebanon.
+   [Nehme-Chlela, Dania] St Joseph Univ, Hotel Dieu France Hosp, Dept Nephrol, Beirut, Lebanon.
+RP Richa, S (corresponding author), St Joseph Univ, Hotel Dieu France Hosp, Dept Psychiat, Fac Med, Beirut, Lebanon.
+EM samiric@idm.net.lb
+RI faraji, milad/L-6671-2015; richa, sami/ABF-6036-2020; Bou Khalil,
+   Rami/AAN-4379-2021
+OI Bou Khalil, Rami/0000-0003-1725-4755; Kazour,
+   Francois/0000-0001-9337-4797
+NR 30
+TC 21
+Z9 23
+U1 0
+U2 17
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD FEB
+PY 2014
+VL 50
+IS 2
+BP 235
+EP 238
+DI 10.1007/s10597-013-9669-4
+PG 4
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA AA0JF
+UT WOS:000330780700016
+PM 24337520
+DA 2023-12-03
+ER
+
+PT J
+AU El Majzoub, I
+   El Khuri, C
+   Hajjar, K
+   Chebl, RB
+   Talih, F
+   Makki, M
+   Mailhac, A
+   Abou Dagher, G
+AF El Majzoub, Imad
+   El Khuri, Christopher
+   Hajjar, Karim
+   Chebl, Ralphe Bou
+   Talih, Farid
+   Makki, Maha
+   Mailhac, Aurelie
+   Abou Dagher, Gilbert
+TI Characteristics of patients presenting post-suicide attempt to an
+   Academic Medical Center Emergency Department in Lebanon
+SO ANNALS OF GENERAL PSYCHIATRY
+LA English
+DT Article
+DE Emergency Department; Mental health; Overdose; Suicide
+ID SELF-INFLICTED INJURY; SUICIDAL PATIENTS; MENTAL-HEALTH; MANAGEMENT;
+   EPIDEMIOLOGY; POPULATION; PREVALENCE; HOSPITALS; ATTITUDES; PATTERNS
+AB Emergency Department (ED) visits for suicide attempts have been described worldwide; however, the populations studied were predominantly Western European, North American, or East Asian. This study aims to describe the epidemiology of ED patients presenting post-suicide attempt to an academic medical center in Lebanon and to report on factors that affect ED disposition.
+   A retrospective cohort study was conducted between 2009 and 2015. Patients of any age group were included if they had presented to the ED after a suicide attempt. Patients with unintentional self-harm were excluded. Descriptive analysis was performed on the demographics and characteristics of suicide attempts of the study population. A bivariate analysis to compare the two groups (hospitalized or discharged) was conducted using Student's t test and Pearson Chi-square where appropriate. A multivariate analysis was then conducted to determine the predictors of hospital admission.
+   One hundred and eight patients were included in the final analysis. Most patients were females (71.4%) and between 22 and 49 years of age. A considerable number of patients were unemployed (43%), unmarried (61.1%), and living with family (86.9%). Most suicide attempts were performed at home (93.5%) and on a weekday (71.3%). The most common mechanisms of injury were overdose with prescription medications (61.3%), overdose with over-the-counter drugs (27.9%), and self-inflicted lacerations (10.1%). The classes of medication most commonly abused were benzodiazepines (39.3%) followed by acetaminophen (27.3%). A large portion of our patients were admitted (70.3%), with the majority going to the psychiatric ward (71.1%). Of note, a quarter (27.5%) of our patients left the ED against medical advice, with 23.5% of admitted patients leaving the hospital before completion of treatment. The main predictors of admission were found to be overdose on prescription medications OR 9.25 (2.12-40.42 CI95%).
+   The characteristics of our suicide attempters mirror those of international and regional suicide attempters. Further work is required to quantify the effect of voluntary refusal of hospital treatment, the repercussions of family, and financial barriers to healthcare and suicide as a whole in our society.
+C1 [El Majzoub, Imad; El Khuri, Christopher; Hajjar, Karim; Chebl, Ralphe Bou; Makki, Maha; Abou Dagher, Gilbert] Amer Univ Beirut, Med Ctr, Dept Emergency Med, Beirut, Lebanon.
+   [Talih, Farid] Amer Univ Beirut, Med Ctr, Dept Psychiat, Beirut, Lebanon.
+   [Mailhac, Aurelie] Amer Univ Beirut, Med Ctr, Clin Res Inst, Beirut, Lebanon.
+C3 American University of Beirut; American University of Beirut; American
+   University of Beirut
+RP Abou Dagher, G (corresponding author), Amer Univ Beirut, Med Ctr, Dept Emergency Med, Beirut, Lebanon.
+EM ga66@aub.edu.lb
+RI talih, farid/AAF-5850-2020; talih, farid/AGR-7020-2022
+OI talih, farid/0000-0001-7147-7701; talih, farid/0000-0001-7147-7701
+NR 39
+TC 10
+Z9 11
+U1 0
+U2 6
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1744-859X
+J9 ANN GEN PSYCHIATR
+JI Ann. Gen. Psychiatr.
+PD MAY 25
+PY 2018
+VL 17
+AR 21
+DI 10.1186/s12991-018-0191-5
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GH3EX
+UT WOS:000433286400001
+PM 29849740
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Ayers, N
+AF Ayers, Nick
+TI Ghost Martyrs in Iraq: An assessment of the applicability of rationalist
+   models to explain suicide attacks in Iraq
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+ID TERRORISM
+AB Scholars have developed several rationalist explanations for the use of suicide attacks by terrorist organizations. Using evidence from Palestine, Israel, Lebanon, Sri Lanka, Chechnya, and Turkey, these authors have created plausible and rational models for attacks, which many consider to be irrational. Although the conflict in Iraq has, by most accounts, experienced more suicide bombings than any other struggle, its contemporary nature has made research and analysis on the subject difficult. This article analyzes four of these models and their implications with respect to the events in Iraq. Although the evidence is not conclusive, the data suggests that organizations are not using suicide attacks to (1) gain nationalist objectives, (2) signal strength to a foreign government, or (3)outbid rival organizations, as many scholars suggest. Instead, the evidence suggests that these attacks are used for (1) tactical advantages and (2) to aid the global recruiting effort of Al Qaeda-linked organizations.
+C1 USA, US Mil Acad, Dept Social Sci, West Point, NY 10996 USA.
+C3 United States Military Academy; United States Department of Defense;
+   United States Army
+RP Ayers, N (corresponding author), USA, US Mil Acad, Dept Social Sci, 607 Cullum Rd, West Point, NY 10996 USA.
+EM nicholas.ayers@us.army.mil
+NR 36
+TC 11
+Z9 11
+U1 0
+U2 6
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2008
+VL 31
+IS 9
+BP 856
+EP 882
+DI 10.1080/10576100802291550
+PG 27
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 343ZQ
+UT WOS:000258895400004
+DA 2023-12-03
+ER
+
+PT J
+AU Strand, LA
+   Martinsen, JI
+   Fadum, EA
+   Borud, EK
+AF Strand, Leif Aage
+   Martinsen, Jan Ivar
+   Fadum, Elin Anita
+   Borud, Einar Kristian
+TI External-cause mortality among 21 609 Norwegian male military
+   peacekeepers deployed to Lebanon between 1978 and 1998
+SO OCCUPATIONAL AND ENVIRONMENTAL MEDICINE
+LA English
+DT Article
+ID PERSIAN-GULF-WAR; VIETNAM VETERANS; US VETERANS; UNITED-KINGDOM;
+   SUICIDE; RISK; PERSONNEL; PREVALENCE; MORBIDITY; ILLNESS
+AB Objective To investigate external-cause mortality among 21 609 Norwegian male military peacekeepers deployed to Lebanon during 1978-1998.
+   Methods The cohort was followed from the 1st day of deployment through 2013, and mortality during deployment and post discharge was assessed using SMRs calculated from national rates in Norway. Poisson regression was used to see the effect of high-conflict versus low-conflict exposure.
+   Results For the total cohort, external-cause mortality was within expected values during deployment (SMR = 0.80) and post discharge (SMR = 1.05). In the low-conflict exposure group, a lower mortality from all external causes (SMR = 0.77), transport accidents (SMR = 0.55) and accidental poisoning (SMR = 0.53) was seen. The high-conflict exposure group showed an elevated mortality from all external causes (SMR = 1.20), transport accidents (SMR = 1.51) and suicide (SMR = 1.30), but these risks were elevated only during the first 5 years after discharge. This group also showed elevated mortality from all external causes (rate ratio, RR = 1.49), and for transport accidents (RR = 3.30) when compared with the low-conflict exposure group.
+   Conclusions Overall external-cause mortality among our peacekeepers was equal to national rates during deployment and post discharge. High-conflict exposure was associated with elevated mortality from all external causes, transport accidents and suicide during the first 5 years after discharge from service.
+C1 [Strand, Leif Aage; Fadum, Elin Anita; Borud, Einar Kristian] Norwegian Armed Forces Med Serv, Inst Mil Epidemiol, Sessvollmoen, Norway.
+   [Strand, Leif Aage; Martinsen, Jan Ivar] Canc Registry Norway, Oslo, Norway.
+   [Fadum, Elin Anita; Borud, Einar Kristian] Uit Arctic Univ Norway, Inst Community Med, Tromso, Norway.
+C3 University of Oslo; UiT The Arctic University of Tromso
+RP Strand, LA (corresponding author), Norwegian Armed Forces Med Serv, N-2058 Sessvollmoen, Norway.
+EM laastrand@forsvaretshelseregister.no
+RI Martinsen, Jan Ivar/Y-8793-2019
+OI Martinsen, Jan Ivar/0000-0002-5684-2878
+FU Norwegian Armed Forces Medical Services
+FX This study was funded by the Norwegian Armed Forces Medical Services. No
+   outside financial support was received for this project.
+NR 29
+TC 4
+Z9 4
+U1 0
+U2 2
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1351-0711
+EI 1470-7926
+J9 OCCUP ENVIRON MED
+JI Occup. Environ. Med.
+PD AUG
+PY 2017
+VL 74
+IS 8
+BP 573
+EP 577
+DI 10.1136/oemed-2016-104170
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FA6NU
+UT WOS:000405561300006
+PM 28270446
+DA 2023-12-03
+ER
+
+PT J
+AU Israeli, R
+AF Israeli, R
+TI A manual of Islamic fundamentalist terrorism
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+AB The current wave of so-called 'suicide-bombings' perpetrated by Muslims has been part of Shi'ite Islamic idealization of suffering and death, meant for the Believer to identify with the ordeal of Imam Hussein in the seventh century CE. It was revived by the Shi'ite Hizballah in Lebanon against the Americans and the Israelis, and then expanded by Sunnite Palestinian Islamists, such as Hamas and Islamic Jihad, and even by avowedly 'secular' Palestinian groups such as the Fatah's al-Aqsa Brigades and Tanzim. But the justifications for all those groups are, nevertheless, curiously Islamic. This article presents the text written by a prominent cleric and diffused in the Palestinian media, rationalizing suicide-bombing as the ultimate mode of struggle against Muslim enemies.
+C1 Hebrew Univ Jerusalem, IL-91905 Jerusalem, Israel.
+C3 Hebrew University of Jerusalem
+RP Israeli, R (corresponding author), Hebrew Univ Jerusalem, IL-91905 Jerusalem, Israel.
+NR 11
+TC 15
+Z9 15
+U1 0
+U2 11
+PU FRANK CASS CO LTD
+PI ESSEX
+PA NEWBURY HOUSE, 900 EASTERN AVE, NEWBURY PARK, ILFORD, ESSEX IG2 7HH,
+   ENGLAND
+SN 0954-6553
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PD WIN
+PY 2002
+VL 14
+IS 4
+BP 23
+EP 40
+DI 10.1080/714005632
+PG 18
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC International Relations; Government & Law
+GA 766NX
+UT WOS:000188383400003
+DA 2023-12-03
+ER
+
+PT J
+AU Lama, S
+   François, K
+   Marwan, Z
+   Sami, R
+AF Lama, Souaiby
+   Francois, Kazour
+   Marwan, Zoghbi
+   Sami, Richa
+TI Impact of the Syrian Crisis on the Hospitalization of Syrians in a
+   Psychiatric Setting
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE Syrian crisis; Mental illness; Psychiatric disorder; Hospitalization;
+   Hospital admission
+ID ALCOHOL-CONSUMPTION; MENTAL-DISORDERS; SUICIDE; REFUGEES; LEBANON;
+   METAANALYSIS; ASSOCIATION; RUSSIA
+AB Determine the impact of the Syrian crisis on the hospitalization of Syrians in a psychiatric setting. All Syrians admitted to a psychiatric hospital in Lebanon between the 1st of January 2009 and the 31st of December 2013 were included. Number of admissions, psychiatric disorders and demographic and clinical data relative to patients were compared between those admitted before and after the crisis. 44 patients were admitted before the crisis and 106 after it. The distribution of diagnosis varied significantly after the crisis (p = 0.056) with the majority of patients being admitted for schizophrenia (37.7 %). The prevalence of suicidal ideation was higher after the crisis (p = 0.03) but suicidal attempts, need for electroconvulsive therapy and length of hospitalization did not differ significantly between both groups. Clinicians should be aware of the possible burden of mental illness in Syrians after the beginning of the Syrian crisis.
+C1 [Lama, Souaiby; Francois, Kazour; Sami, Richa] St Joseph Univ, Dept Psychiat, Beirut, Lebanon.
+   [Lama, Souaiby; Francois, Kazour; Marwan, Zoghbi] Psychiat Hosp Cross, Jal Eddib, Jdeideh, Lebanon.
+   [Marwan, Zoghbi] St Joseph Univ, Dept Family Med, Beirut, Lebanon.
+   [Sami, Richa] Hotel Dieu France, Beirut, Lebanon.
+RP Sami, R (corresponding author), St Joseph Univ, Dept Psychiat, Beirut, Lebanon.; Sami, R (corresponding author), Hotel Dieu France, Beirut, Lebanon.
+EM samiric@idm.net.lb
+NR 25
+TC 15
+Z9 15
+U1 0
+U2 9
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD JAN
+PY 2016
+VL 52
+IS 1
+BP 84
+EP 93
+DI 10.1007/s10597-015-9891-3
+PG 10
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA DC7SV
+UT WOS:000369421600011
+PM 25982832
+DA 2023-12-03
+ER
+
+PT J
+AU Schejter, AM
+   Cohen, AA
+AF Schejter, Amit M.
+   Cohen, Akiba A.
+TI Mobile phone usage as an indicator of solidarity: Israelis at war in
+   2006 and 2009
+SO MOBILE MEDIA & COMMUNICATION
+LA English
+DT Article
+DE Gaza war; Israel; Lebanon war; mobile phone; real-time data; social
+   cohesion; solidarity
+AB This study presents a secondary analysis of real-time data of mobile phone usage in Israel during two recent wars - with the Lebanese Hezbollah in 2006 and with the Palestinian Hamas in Gaza in 2008/9. The data, provided by Cellcom Israel, the country's largest mobile operator, enabled an analysis of real behavior patterns rather than relying on memories of people who may have been under stress or traumatized during the hostilities, hence unable to accurately recollect this information later on. During both wars, significant changes were noted in the way people used their mobile phones: There was a substantial decrease of calls originating from within a 10-kilometer region along the Israel-Lebanon border and mobile users also made significantly longer calls. However, the decrease in calls during the Lebanon War was more than double that of the decrease in the comparable region along the Gaza border. There was no significant change in the calling patterns of Israelis living outside the directly affected regions. These supposed differences in reaction to a crisis situation (which are congruent with previous mobile phone usage studies following suicide bombings) are analyzed, and questions regarding the validity of the myth of solidarity and bonding among Israelis are raised.
+C1 [Schejter, Amit M.] Ben Gurion Univ Negev, Commun, Beer Sheva, Israel.
+   Penn State Univ, University Pk, PA 16802 USA.
+   [Cohen, Akiba A.] Yezreel Valley Coll, Dept Commun, Jezreel Valley, Israel.
+   [Cohen, Akiba A.] Tel Aviv Univ, Tel Aviv, Israel.
+C3 Ben Gurion University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Pennsylvania State
+   University - University Park; Tel Aviv University
+RP Schejter, AM (corresponding author), Ben Gurion Univ Negev, POB 653, IL-84105 Beer Sheva, Israel.
+EM schejter@gmail.com
+RI Schejter, Amit M/A-7564-2009; SCHEJTER, AMIT Meshulam/HKF-0246-2023
+OI Schejter, Amit M/0000-0002-3670-2165; SCHEJTER, AMIT
+   Meshulam/0000-0002-3670-2165
+NR 50
+TC 8
+Z9 8
+U1 1
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2050-1579
+EI 2050-1587
+J9 MOB MEDIA COMMUN
+JI Mob. Media Commun.
+PD MAY
+PY 2013
+VL 1
+IS 2
+BP 174
+EP 195
+DI 10.1177/2050157913476706
+PG 22
+WC Communication
+WE Social Science Citation Index (SSCI)
+SC Communication
+GA VB8JY
+UT WOS:000418817200001
+OA Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Yehia, F
+   Nahas, Z
+   Saleh, S
+AF Yehia, Farah
+   Nahas, Ziad
+   Saleh, Shadi
+TI PERSPECTIVES A Roadmap to Parity in Mental Health Financing: The Case of
+   Lebanon
+SO JOURNAL OF MENTAL HEALTH POLICY AND ECONOMICS
+LA English
+DT Article
+ID COUNTRIES; DISORDERS; BARRIERS
+AB Background: Inadequate access to mental health (MH) services in Lebanon, where prevalence is noteworthy, is a concern. Although a multitude of factors affects access to services, lack of financial coverage of MH services is one that merits further investigation.
+   Aim of the Study: This study aims at providing a systematic description of MH financing systems with a special focus on Lebanon, presenting stakeholder viewpoints on best MH financing alternatives/strategies and recommending options for enhancing financial coverage.
+   Methods: A comprehensive review of existing literature on MH financing systems was conducted, with a focus on the system in Lebanon. In addition, key stakeholders were interviewed to assess MH organizational and financing arrangements. Finally, a national round table was organized with the aim of discussing findings (from the review and interviews) and developing an action roadmap.
+   Results: Taxation and out-of-pocket payments are the most common MH financing sources worldwide and in the Eastern Mediterranean Region. In Lebanon, all funding entities, except private insurance and mutual funds, cover inpatient and outpatient MH services, albeit with inconsistencies in levels of coverage. The national roundtable recommended two main MN financing enhancements: (i) creating a knowledge-sharing committee between insurers and MH specialists, and (ii) convincing labor unions/representatives to lobby for MN coverage as part of the negotiated benefit package.
+   Discussion (and limitations): There are concerns regarding the equity, effectiveness and efficiency of the MEI financing system in Lebanon. The fragmented system in Lebanon leads to differences in MH coverage across different financing intermediaries, which is inequitable. The fact that one out of four Lebanese suffer a mental disorder throughout their lives and very low percentages of those obtain treatment signals a problem in effectiveness. As for efficiency, the inefficient fragmentation of MH financing among seven intermediaries is a problematic characteristic of the healthcare financing system as a whole. Moreover, the orientation of the general healthcare system towards curative rather than preventive care is reflected in MN financing as well. Limitations of the study include the lack of access to data about the MH expenditure of every financing intermediary in Lebanon; therefore it was not possible to calculate a total annual MH spending on a country level. Another limitation was the inability to map the sources of funding with the MB service provision sector, as more extensive data about the MN services provided by each of the public, private, voluntary and informal sectors is needed.
+   Implications for Health Policies: Providing a clear description of the current ME financing system helps policymakers recognize the disparities present in the coverage of ME, guiding them into making informed decisions on allocation of funds. This study therefore constitutes the first step towards achieving more equitable and socially just coverage, advances knowledge and provides well-needed locally relevant research. Findings are expected to inform policymaking and have already contributed to influencing a change in the policy of the Internal Security Forces Health Fund. As a result of the roundtable discussion and follow up that ensued, the fund has removed the suicide attempt exclusion from its insurance policy.
+C1 [Yehia, Farah; Saleh, Shadi] Amer Univ Beirut, Dept Hlth Management & Policy, Fac Hlth Sci, Beirut, Lebanon.
+   [Nahas, Ziad] Amer Univ Beirut, Dept Psychiat, Med Ctr, Beirut, Lebanon.
+C3 American University of Beirut; American University of Beirut
+RP Saleh, S (corresponding author), Amer Univ Beirut, Dept Hlth Management & Policy, Fac Hlth Sci, Vandyck Bldg Room 136A, Beirut, Lebanon.
+EM ss117@aub.edu.lb
+OI Nahas, Ziad/0000-0002-8391-5673
+NR 21
+TC 13
+Z9 15
+U1 0
+U2 10
+PU INT CTR MENTAL HEALTH POLICY & ECONOMICS-ICMPE
+PI MILANO
+PA VIA DANIELE CRESPI 7, MILANO, 20123, ITALY
+SN 1091-4358
+J9 J MENT HEALTH POLICY
+JI J. Ment. Health Policy Econ.
+PD SEP
+PY 2014
+VL 17
+IS 3
+BP 131
+EP 141
+PG 11
+WC Health Policy & Services; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Psychiatry
+GA AO8QB
+UT WOS:000341618200005
+PM 25543116
+DA 2023-12-03
+ER
+
+PT J
+AU Halabi, ZG
+AF Halabi, Zeina G.
+TI The Unbearable Heaviness of Being: The Suicide of the Intellectual in
+   Rabi Jabir's <i>Ralf Rizqallah through the Looking Glass</i>
+SO JOURNAL OF ARABIC LITERATURE
+LA English
+DT Article
+DE Rabi Jabir; Ilyas Khuri/Elias Khoury; Postwar Lebanon; metafiction;
+   parody; collective memory; mourning; suicide; Beirut; intellectual
+AB In the wake of the civil war (1975-1990), Lebanese novelists conceived of the literary text as a means to salvage Lebanese collective memory from the systematic process of erasure that the postwar state began practicing. Writers who voiced their anxieties about erasure and the interrupted work of national mourning celebrated the role of the intellectual as a guardian of collective memory and attributed to the written word the power of rescuing the wounded national community from the perils of oblivion. How was the intellectual's tragic death commemorated and portrayed in a postwar cultural scene concerned about the erasure of collective memory? What forms of dissent from that dominant literary discourse do we identify in Rabi Jabir's Ralf Rizqallah fi al-mir at (Ralf Rizqallah through the Looking Glass)? This article explores the ways in which Rabi Jabir fictionalizes the suicide of the Lebanese scholar Ralf Rizqallah and thereby departs from the objectification of the intellectual as the guardian of the nation's collective memory. Jabir understands Ralf Rizqallah's suicide not as an altruistic act of protest against the erasure of collective memory, but as a narcissistic impulse prompted by a severe sense of personal and existential angst. The novel's depiction of Ralf Rizqallah, I argue, articulates Jabir's detachment from the postwar discourse about amnesia and collective memory and ushers us towards an alternative representation of the Lebanese intellectual.
+C1 Univ N Carolina, Chapel Hill, NC 27599 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill
+RP Halabi, ZG (corresponding author), Univ N Carolina, Chapel Hill, NC 27599 USA.
+NR 85
+TC 1
+Z9 1
+U1 0
+U2 4
+PU BRILL ACADEMIC PUBLISHERS
+PI LEIDEN
+PA PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 0085-2376
+EI 1570-064X
+J9 J ARABIC LIT
+JI J. Arab. Lit.
+PY 2013
+VL 44
+IS 1
+BP 53
+EP 82
+DI 10.1163/1570064x-12341256
+PG 30
+WC Asian Studies; Literature
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Asian Studies; Literature
+GA AL2AC
+UT WOS:000338927100003
+DA 2023-12-03
+ER
+
+PT B
+AU Alagha, J
+AF Alagha, Joseph
+BA Alagha, J
+BF Alagha, J
+TI Political Violence: Suicide Operations
+SO HIZBULLAH'S IDENTITY CONSTRUCTION
+LA English
+DT Article; Book Chapter
+AB After the nearly complete Israeli withdrawal from Lebanon in May 2000, Hizbullah had not committed a single martyrdom operation although it engaged, on many occasions, the Israeli soldiers in Shib'a and kidnapped three soldiers on 7 October 2000 and two on 12 July 2006. Contrary to what has been rumored, the party did not conduct martyrdom operations in the 'Second Lebanon War' or the July 2006 War since Hizbullah had the required arsenal to face the invading IDF and was able to inflict heavy casualties, killing more than 100 soldiers. In fact, Hizbullah's last martyrdom operation was conducted in 1999.
+   The basic question of this chapter is to study how religious, political, and national discourse is used to justify martyrdom for Islamic movements, in particular the Lebanese Hizbullah. (In other words, this chapter is about how nationalist and political discourses intermingle with a religious discourse on martyrdom, and how Hizbullah, an organization perceived as religious/fundamentalist, is relying, in addition to religious discourse, on nationalist and political discourses in its representation of martyrdom). My main concern is to analyze how the religious authorities of Hizbullah deal with this question, and how this discourse changes overtime. Thus, I endeavor to expose Hizbullah's religious-political discourse and analyze fatwas (religious edits) and speeches dealing with the issue of martyrdom. I contest the commonly held view that regards martyrdom as a specifically Shi'ite phenomenon, arguing that, in addition to Sunni Palestinians, Lebanese nationalists, from all religious denominations, have also carried out such operations. I would like to debunk a few myths too, for instance the one regarding the social background of suicide bombers. I endeavor to rupture stereotypes and challenge the master narrative on the Islamic movements' constituency being "made up of poor desperate people who commit suicide so that they can enjoy the virgins in Paradise." The problematic is that although martyrdom has become the trademark of radical Islamic groups, it was not solely carried out by them. I purport that the icon that both parties, secularists and Islamists, embraced is that martyrdom operations were conducted in order to uphold the honor, pride, and dignity of the 'nation' ('izzat wa karamat al-umma). Thus, I argue that martyrdom operations - whether carried out by Islamic movements or resistance movements - are altruistic, self-sacrificial operations conveyed in the form of symbolic capital (honor and dignity).
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMSTERDAM UNIV PRESS
+PI AMSTERDAM 1071
+PA PRINSENGRACHI 747-51, AMSTERDAM 1071, NETHERLANDS
+BN 978-90-485-1395-6; 978-9-08-964297-4
+PY 2011
+BP 87
+EP 112
+D2 10.5117/9789089642974
+PG 26
+WC Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Government & Law
+GA BB4RQ
+UT WOS:000343306000006
+OA Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Schmidt, LE
+   Dalhoff, KP
+AF Schmidt, LE
+   Dalhoff, KP
+TI Paracetamol poisoning among immigrants in a department of hepatology
+SO DANISH MEDICAL BULLETIN
+LA English
+DT Article
+ID SUICIDE; METABOLISM; BORN
+AB Introduction: An increased incidence of suicides and suicidal behaviour among immigrants has been described in other countries. In Denmark, misuse of paracetamol is suspected in some foreign-born minority groups, although no data have been produced to substantiate this suspicion.
+   Methodology. A retrospective study of the incidence of paracetamol poisoning in patients admitted to a specialised department of hepatology from 1994 to 1999 was carried our.
+   Results: Of a total of 580 patients, 56 (9.7%; 95%-conridrnce interval 7.2-12.1%)were immigrants, among whom a significant overrepresentation was found of immigrants from Turkey, Iran, Pakistan, and Lebanon (Observed/ Expected-ratios of 1.95, 4.14, 2.67, and 2.45 respectively: p <0.05). The immigrants differed from the Danish-born patients being younger(21 vs 35 years of age; p<0.05), having a lower level of alcohol consumption (3% vs 30% with regular alcohol abuse; p<less than>0.05), and in general being less severely intoxicated (3% vs 22% developing hepatic encephalopathy; p<0.05). Compared to the Danish-born patients, the immigrants more frequently stated socio-economic problems as the reason for their self-poisoning (29% vs 10%; p<less than>0.05).
+   Conclusions: The study demonstrates an overrepresentation of immigrants among patients admitted with paracetamol poisoning in Denmark.
+C1 HS Rigshosp, Dept Hepatol A, DK-2100 Copenhagen O, Denmark.
+C3 Rigshospitalet
+RP Schmidt, LE (corresponding author), HS Rigshosp, Dept Hepatol A, 2-12-1,Blegdamsvej 9, DK-2100 Copenhagen O, Denmark.
+NR 12
+TC 2
+Z9 2
+U1 0
+U2 1
+PU DANISH MEDICAL ASSN
+PI COPENHAGEN
+PA TRONDHJEMSGADE 9, DK-2100 COPENHAGEN, DENMARK
+SN 0907-8916
+J9 DAN MED BULL
+JI Dan. Med. Bull.
+PD MAY
+PY 2001
+VL 48
+IS 2
+BP 88
+EP 90
+PG 3
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 439VX
+UT WOS:000169139200005
+PM 11414125
+DA 2023-12-03
+ER
+
+PT J
+AU Butcher, C
+AF Butcher, Charity
+TI Terrorism and External Audiences: Influencing Foreign Intervention Into
+   Civil Wars
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+DE civil war; intervention; intrastate conflict; mediation; terrorism
+ID 3RD-PARTY INTERVENTIONS; CONFLICTS; DURATION; DATASET
+AB This article evaluates the effects of terrorism on interventions into civil wars. Considering civil wars from 1970-1999, this study analyzes how the use of terrorism as a tactic affects external interventions on behalf of opposition groups, interventions on behalf of governments, and diplomatic interventions. While some authors would suggest that groups might utilize terrorism as a tactic to gain external support, this study finds little evidence that groups are actually successful in gaining such support. In fact, terrorism that targets civilians appears to actually decrease the likelihood of military interventions on behalf of opposition groups. Furthermore, in civil wars with high numbers of terrorist attacks there is a greater likelihood of economic intervention on behalf of governments, further weakening the potential benefit for groups in utilizing terrorism as a tactic. While this is certainly a welcome finding, a consideration of five case studies of suicide terrorism (Lebanon, Sri Lanka, Iraq, India, and Turkey) provides evidence that the use of suicide terrorism within civil wars may have decreased the likelihood of external interventions on behalf of the government and of diplomatic interventions. These results are more troubling and suggest potentially grave consequences for mediating many of these conflicts.
+C1 [Butcher, Charity] Kennesaw State Univ, Dept Polit Sci & Int Affairs, 402 Bartow Ave, Kennesaw, GA 30144 USA.
+C3 University System of Georgia; Kennesaw State University
+RP Butcher, C (corresponding author), Kennesaw State Univ, Dept Polit Sci & Int Affairs, 402 Bartow Ave, Kennesaw, GA 30144 USA.
+EM cbutche2@kennesaw.edu
+RI Butcher, Charity/AAC-7346-2019
+OI Butcher, Charity/0000-0003-0905-9538
+NR 23
+TC 3
+Z9 5
+U1 1
+U2 19
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0954-6553
+EI 1556-1836
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PY 2016
+VL 28
+IS 4
+BP 774
+EP 794
+DI 10.1080/09546553.2014.955572
+PG 21
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA DW8II
+UT WOS:000383898100007
+DA 2023-12-03
+ER
+
+PT J
+AU Baroud, E
+   Ghandour, LA
+   Alrojolah, L
+   Zeinoun, P
+   Maalouf, FT
+AF Baroud, Evelyne
+   Ghandour, Lilian A.
+   Alrojolah, Loay
+   Zeinoun, Pia
+   Maalouf, Fadi T.
+TI Suicidality among Lebanese adolescents: Prevalence, predictors and
+   service utilization
+SO PSYCHIATRY RESEARCH
+LA English
+DT Article
+DE Suicide; Adolescents; Epidemiology
+ID WELL-BEING ASSESSMENT; YOUNG-PEOPLE; RISK-FACTORS;
+   PSYCHIATRIC-DISORDERS; HELP-SEEKING; BEHAVIOR; IDEATION; CHILDREN;
+   DIFFICULTIES; VALIDATION
+AB Suicide and self-harm in young people is a global public health issue, although epidemiological evidence remains scant in many parts of the world. The aims of the present study are to describe the prevalence, comorbidity patterns, and the clinical and demographic correlates of suicidality among a representative sample of adolescents from Beirut, Lebanon.
+   We recruited 510 adolescents aged 11-17 and one of their parents/legal guardians using a multistage random cluster design. The validated Arabic version of the Development and Well-Being Assessment (DAWBA) was administered independently to the parent/legal guardian, and adolescents, who also self-completed the Strengths and Difficulties Questionnaire (SDQ), and the Peer-Relations Questionnaire (PRQ). The parent/legal guardian also completed the SDQ and provided demographic and clinical information.
+   A total of 22 adolescents (4.3%) have experienced suicidal ideation or attempt. Correlates of suicidality were female gender, alcohol use in the past 4 weeks, lifetime exposure to a stressful life event, suffering from a major depressive disorder and having bipolar disorder within the last 4 weeks. Only 1 suicidal participant reported ever seeking professional mental health help.
+   Our findings highlight an alarming treatment gap in Lebanese adolescents experiencing suicidality. Future studies should aim at investigating barriers to care and at developing community-based interventions to improve access to care.
+C1 [Baroud, Evelyne; Alrojolah, Loay; Zeinoun, Pia; Maalouf, Fadi T.] Amer Univ Beirut, Dept Psychiat, Beirut, Lebanon.
+   [Ghandour, Lilian A.] Amer Univ Beirut, Dept Epidemiol & Populat Hlth, Beirut, Lebanon.
+C3 American University of Beirut; American University of Beirut
+RP Ghandour, LA (corresponding author), Amer Univ Beirut, Fac Hlth Sci, POB 11-0236, Beirut 11072020, Lebanon.; Maalouf, FT (corresponding author), Amer Univ Beirut, Dept Psychiat, POB 11-0236, Beirut 11072020, Lebanon.
+EM lg01@aub.edu.lb; fm38@aub.edu.lb
+OI Baroud, Evelyne/0000-0003-0027-3212; Maalouf, Fadi/0000-0001-8727-3084;
+   Zeinoun, Pia/0000-0002-9888-1533
+NR 63
+TC 10
+Z9 10
+U1 2
+U2 4
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0165-1781
+J9 PSYCHIAT RES
+JI Psychiatry Res.
+PD MAY
+PY 2019
+VL 275
+BP 338
+EP 344
+DI 10.1016/j.psychres.2019.03.033
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HZ9DQ
+UT WOS:000469156400048
+PM 30954844
+DA 2023-12-03
+ER
+
+PT B
+AU Michel, PO
+   Thoresen, S
+   Sareen, J
+   Belik, SL
+   Mehlum, L
+AF Michel, Per-Olof
+   Thoresen, Siri
+   Sareen, Jitender
+   Belik, Shay-Lee
+   Mehlum, Lars
+BE Sher, L
+   Vilens, A
+TI Suicidal Behavior Among Peacekeepers: An International Perspective
+SO SUICIDE IN THE MILITARY
+LA English
+DT Article; Book Chapter
+ID POSTTRAUMATIC-STRESS-DISORDER; OPERATION-DESERT-STORM; SWEDISH UN
+   SOLDIERS; GULF-WAR VETERANS; MENTAL-HEALTH; AUSTRALIAN VETERANS; SOUTH
+   LEBANON; RISK-FACTORS; US VETERANS; SYMPTOMS
+AB Peacekeeping refers to a military intervention in a conflict area authorized by the United Nations (UN) Security Council. The first UN peacekeeping mission was established in 1948 and more than 60 UN peacekeeping operations have been established since then. Many soldiers from a variety of countries have been deployed on UN peacekeeping missions and over 2,400 of them have lost their lives while serving on such missions. The main objectives of peacekeeping operations are to prevent the recurrence of hostilities, to support peaceful interactions and to provide humanitarian aid. This would later be followed by efforts to resolve the conflict by peaceful means. The stressors associated with peacekeeping are important risk factors for later posttraumatic stress reactions and other mental health problems. Research indicates that several of the predictive factors for general mental health problems in other military and civilian populations are applicable to peacekeepers.
+   Although there are many studies investigating mental health problems in former peacekeepers, just a few studies have investigated suicidal behavior in this group. These studies do not support an overall increased risk of suicide as a consequence of peacekeeping duty per see. However, the majority of these studies suggest that service stress and exposure to trauma during peacekeeping duty is associated with an increased risk of mental health problems, which in turn may increase the risk for suicide. In addition, exposure to other stressors, such as sexual and other interpersonal traumatic experiences and repatriation, may be related to suicidal behavior in peacekeepers.
+   Suicide prevention in peacekeepers should focus on improved personnel selection, training and preparation, with special focus on leadership. It is essential that commanders and service providers increase their attention in detecting potentially suicidal soldiers. There are still some areas where our knowledge is limited. Specifically, the role of personality, previous mental health problems, service stress, social support or negative life events either prior to or following peacekeeping remains unclear. There is also limited knowledge from peacekeeping missions about how potential service-related risk and protective factors, such as unit cohesion, leader support, general stress level, and repatriation rate, might impact on mental health and suicide. Future studies should therefore investigate factors not only at the individual level but also at the group or unit level. Such future multilevel studies could provide much needed information about how individual and system factors interact as predictors of later mental health and suicide in peacekeeping soldiers.
+C1 [Michel, Per-Olof] Uppsala Univ, Uppsala, Sweden.
+   [Thoresen, Siri; Mehlum, Lars] Univ Oslo, Oslo, Norway.
+   [Sareen, Jitender; Belik, Shay-Lee] Univ Manitoba, Winnipeg, MB R3T 2N2, Canada.
+C3 Uppsala University; University of Oslo; University of Manitoba
+RP Michel, PO (corresponding author), Uppsala Univ, Uppsala, Sweden.
+RI Bolton, Shay-Lee/AAE-1827-2020; Mehlum, Lars/AAV-9241-2021
+OI Bolton, Shay-Lee/0000-0002-0750-4266; 
+NR 66
+TC 5
+Z9 6
+U1 0
+U2 3
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60876-201-9
+PY 2009
+BP 1
+EP 15
+PG 15
+WC Psychiatry; Psychology, Multidisciplinary
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Psychiatry; Psychology
+GA BPG97
+UT WOS:000278833300001
+DA 2023-12-03
+ER
+
+PT J
+AU Zahreddine, N
+   Hady, RT
+   Chammai, R
+   Kazour, F
+   Hachem, D
+   Richa, S
+AF Zahreddine, Nada
+   Hady, Rima Talaat
+   Chammai, Rabih
+   Kazour, Francois
+   Hachem, Dory
+   Richa, Sami
+TI Psychiatric Morbidity, Phenomenology and Management in Hospitalized
+   Female Foreign Domestic Workers in Lebanon
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE Domestic workers; Living conditions; Psychiatric morbidity; Mental
+   health care; Phenomenology
+ID RATING-SCALE; MIGRATION; SCHIZOPHRENIA; DISORDERS; IMMIGRANTS;
+   HOUSEMAIDS; SYMPTOMS; HEALTH; KUWAIT; RISK
+AB 40 million female domestic workers worldwide experience the inhumane conditions associated with this unregulated occupation, a situation that induces psychiatric morbidities in many. The case in Lebanon is not any better where it is estimated that one foreign domestic worker (FDW) commits suicide weekly. 33 female FDW and 14 female Lebanese (control group, CG) were enrolled. Brief Psychotic Rating Scale (BPRS) and Clinical Global Impression (CGI) scales were administered on admission and discharge and socio-demographic, living conditions, mental health care data and phenomenological observations were collected. Sexual, physical, and verbal abuses were detected in FDW (12.5, 37.5, and 50.0 %. respectively). 66.7 % of them were diagnosed with brief psychotic episode. The mean duration of hospital stay (13.1 days) was significantly lower in the FDW group. The mean cumulative antipsychotic dose of the FDW was 337.1 mg of chlorpromazine equivalent and the mean BPRS total pre-score of FDW was 66.4 with a much improved state on the CGI global improvement scale, all of which were nonsignificantly different from the CG. Striking phenomenological findings among FDW were acute anorexia (39.4 %), nudity (30.3 %), catatonic features (21.2 %), and delusion of pregnancy (12.1 %). Inpatient FDW are more diagnosed with psychotic than affective disorders and receive approximately similar treatment as controls in spite of the trend to rapidly discharge and deport the worker to limit the costs. Both groups presented with similar severity, although the FDW had peculiar phenomenological observations.
+C1 [Zahreddine, Nada; Hady, Rima Talaat; Kazour, Francois; Richa, Sami] St Joseph Univ, Dept Psychiat, Beirut, Lebanon.
+   [Hady, Rima Talaat] Amer Univ Beirut, Fac Arts & Sci, Beirut, Lebanon.
+   [Hachem, Dory] Hosp Cross, Beirut, Lebanon.
+C3 American University of Beirut
+RP Richa, S (corresponding author), St Joseph Univ, Dept Psychiat, Beirut, Lebanon.
+EM zahreddinenada@hotmail.com; zahreddinenada@hotmail.com;
+   rabihelchammay@yahoo.fr; francosikazour@hotmail.com;
+   dorypat@hotmail.com; samiric@idm.net.lb
+RI richa, sami/ABF-6036-2020
+OI Kazour, Francois/0000-0001-9337-4797
+NR 59
+TC 13
+Z9 14
+U1 0
+U2 12
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD JUL
+PY 2014
+VL 50
+IS 5
+BP 619
+EP 628
+DI 10.1007/s10597-013-9682-7
+PG 10
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA AJ6HB
+UT WOS:000337790700016
+PM 24370752
+DA 2023-12-03
+ER
+
+PT J
+AU Shapira, SC
+   Adatto-Levi, R
+   Avitzour, M
+   Rivkind, AI
+   Gertsenshtein, I
+   Mintz, Y
+AF Shapira, S. C.
+   Adatto-Levi, R.
+   Avitzour, M.
+   Rivkind, A. I.
+   Gertsenshtein, I.
+   Mintz, Y.
+TI Mortality in terrorist attacks: A unique modal of temporal death
+   distribution
+SO WORLD JOURNAL OF SURGERY
+LA English
+DT Article
+ID SUICIDE BOMBING ATTACKS; MILITARY EXPERIENCE; LEBANON WAR; TRAUMA;
+   EPIDEMIOLOGY; VICTIMS; ISRAEL
+AB Background: Terror-related multiple casualty incidents (MCI) in Israel since September 2000 have resulted in a new pattern of injury as a result of the mechanisms of trauma. The objective of this study was to asses the temporal death distribution among the civilian casualties in the Jerusalem vicinity during a 3-year period.
+   Methods: All terrorist attacks in the Jerusalem district from September 2000 to September 2003 were included in this study. The data of all deaths were processed including the time of the attack, the evacuation time to the hospitals, and the time of death.
+   Results: During the study period 28 terror-related MCI occurred. A total of 2328 victims were injured and 273 died, for an overall fatality rate of 11.7%. A unique temporal death distribution was identified; 82.8% of the deaths occurred immediately, at the scene of the attack (scene death); of the remaining 17.2% of patients who died in the hospital, half died within 4 hours of arrival (immediate death), one quarter within 5-24 hours (early death), and one quarter later than that (late death). The temporal death distribution was significantly different when classifying the mechanism of trauma to suicide bombings versus shooting. The scene mortality was higher in the suicide bombings than in shooting attacks (86.7% versus 77%, P = 0.039 ). In contrast, the mortality within 1-24 hours was higher in the shooting attacks (17% versus 6.3%, P = 0.05).
+   Conclusions: Terror-related MCI occurring in civilian settings have a unique temporal death distribution. A very high scene mortality is seen compared to the classical description of Donald Trunkey1 in 1983. The late deaths, which composed 30% of the mortality in civilian settings, comprise only 4.4% of the total mortality in MCIs. A rough estimate of the in-hospital mortality could be achieved after the first 4 hours, allowing the assessment and distribution of hospital resources. Futile care should be identified early and availability of ICU beds can be calculated according to the immediate mortality.
+C1 Hadassa Hebrew Univ Med Ctr, Dept Gen Surg, IL-91120 Jerusalem, Israel.
+   Hadassa Hebrew Univ Med Ctr, Trauma Unit, IL-91120 Jerusalem, Israel.
+   Hadassa Hebrew Univ Med Ctr, Dept Anesthesiol & Crit Care Med, IL-91120 Jerusalem, Israel.
+   Hadassa Hebrew Univ Med Ctr Adm, IL-91120 Jerusalem, Israel.
+   Shaare Zedek Med Ctr Adm, IL-91031 Jerusalem, Israel.
+   Hadassa Hebrew Univ Med Ctr, Sch Publ Hlth, Dept Stat, IL-91120 Jerusalem, Israel.
+C3 Hebrew University of Jerusalem; Shaare Zedek Medical Center
+RP Mintz, Y (corresponding author), Hadassa Hebrew Univ Med Ctr, Dept Gen Surg, POB 12000, IL-91120 Jerusalem, Israel.
+EM mintzy@md2.huji.ac.il
+RI Mintz, Yoav/JAX-2460-2023; Mintz, Yoav/AAU-6905-2020
+OI Mintz, Yoav/0000-0002-5101-7449; Mintz, Yoav/0000-0002-5101-7449
+NR 19
+TC 22
+Z9 24
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0364-2313
+J9 WORLD J SURG
+JI World J.Surg.
+PD NOV
+PY 2006
+VL 30
+IS 11
+BP 2071
+EP 2079
+DI 10.1007/s00268-006-0048-y
+PG 9
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Surgery
+GA 099GN
+UT WOS:000241581400017
+PM 16957818
+DA 2023-12-03
+ER
+
+PT J
+AU Sinno, D
+   Majdalani, M
+   Chatila, R
+   Musharrafieh, U
+   Al-Tannir, M
+AF Sinno, Durriyah
+   Majdalani, Marianne
+   Chatila, Rajaa
+   Musharrafieh, Umayya
+   Al-Tannir, Mohamad
+TI The pattern of self-poisoning among Lebanese children and adolescents in
+   two tertiary care centres in Lebanon
+SO ACTA PAEDIATRICA
+LA English
+DT Article
+DE Accidental; Charcoal; Gastric lavage; Intentional; Toxicity
+ID EMERGENCY-DEPARTMENTS; DRUG OVERDOSE; CHILDHOOD; SUICIDE; MULTICENTER;
+   SUBSTANCES; VISITS; GENDER
+AB Aim: Self-poisoning in childhood and adolescence is a major problem for health authorities all over the world. The objective of this study was to determine the pattern of self-poisoning in Lebanese children and adolescents.
+   Materials and methods: This prospective study included all cases of poisoning in individuals aged 0-18 years who presented to the emergency department of two major hospitals in Beirut, Lebanon over a period of 1 year. Participants were divided into two age groups (0-12 years and 12-18 years). These cases were followed to record the applied treatment and whether the patient was admitted or discharged.
+   Results: There were 110 self-poisoning incidents, of which 74 (67%) were in female patients. The predominant type of poisoning was with pharmaceutical products (68.2%). Accidental self-poisoning was significantly more common in the younger age group among both genders compared with the older age group (p < 0.0001). There were significantly more poisoned male children (72%) than male adolescents (28%) (p = 0.003); whereas among females, poisoned adolescents were significantly more common (64%) than poisoned children (36%) (p = 0.009). Moreover, poisoning with pharmaceuticals was significantly higher in the young male group compared to the older age group and older female group compared to the younger age group (p = 0.0007 and p = 0.01, respectively). In total, 78% of patients were discharged home following basic observation, charcoal or gastric lavage.
+   Conclusion: Female adolescents are more at risk of deliberate self-intoxication after the age of 12 years compared to males, whereas males younger than 12 years are more likely to suffer from accidental poisoning. Preventative strategies include screening adolescents at high risk of self-harm in order to offer adequate counselling, while providing anticipatory guidance for parents of children in the younger age group.
+C1 [Sinno, Durriyah; Majdalani, Marianne] Amer Univ Beirut, Dept Pediat, Med Ctr, Beirut, Lebanon.
+   [Chatila, Rajaa] Clemenceau Med Ctr, Gastroenterol Unit, Beirut, Lebanon.
+   [Musharrafieh, Umayya] Amer Univ Beirut, Dept Family Med, Med Ctr, Beirut, Lebanon.
+   [Al-Tannir, Mohamad] Makassed Gen Hosp, Res Unit, Beirut, Lebanon.
+C3 American University of Beirut; American University of Beirut
+RP Sinno, D (corresponding author), Amer Univ Beirut, Dept Pediat, Med Ctr, Beirut, Lebanon.
+EM ds03@aub.edu.lb
+OI Musharrafieh, Umayya/0000-0002-1074-2361; Al-Tannir,
+   Mohamad/0000-0002-7739-8446; Chatila, Rajaa/0000-0002-0120-2275
+NR 30
+TC 11
+Z9 11
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0803-5253
+EI 1651-2227
+J9 ACTA PAEDIATR
+JI Acta Paediatr.
+PD JUN
+PY 2009
+VL 98
+IS 6
+BP 1044
+EP 1048
+DI 10.1111/j.1651-2227.2009.01251.x
+PG 5
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA 453TR
+UT WOS:000266636300024
+PM 19397530
+DA 2023-12-03
+ER
+
+PT J
+AU Buckner, E
+   Khatib, L
+AF Buckner, Elizabeth
+   Khatib, Lina
+TI The Martyrs' Revolutions: The Role of Martyrs in the Arab Spring
+SO BRITISH JOURNAL OF MIDDLE EASTERN STUDIES
+LA English
+DT Article
+ID SUICIDE; MEDIA
+AB This article examines popular representations of modern martyrs in the Arab world, comparing national models of martyrdom representations prior to the Arab Spring, namely those from Iran, Palestine and Hizbullah in Lebanon, to portrayals of martyrs during and after the Arab Spring. It argues that the Arab Spring brought forth a new model for the martyr in the Arab world, which (a) moves the production of martyrs' images from the state to the citizen; (b) personalises portrayals of martyrs through stories of their personal lives; and, (c) transitions from portrayals of victimisation to empowerment and agency. In the Arab Spring model, the martyr is both a symbol and narrative framework used to galvanise opposition to state regimes. Unlike the pre-Arab Spring models, which portrayed the martyr's death as an honourable sacrifice for the larger national or religious community, the Arab Spring martyr is portrayed as a needless victim in the fight for the universal values of dignity and human rights, as both a product and producer of meaning associated with agency. As the meaning of the 'martyr' continues to evolve in the post-Arab Spring era, it has come to represent the power of the people more broadly.
+C1 [Buckner, Elizabeth] Stanford Univ, Stanford, CA 94305 USA.
+   [Khatib, Lina] Stanford Univ, CDDRL, Stanford, CA 94305 USA.
+C3 Stanford University; Stanford University
+RP Buckner, E (corresponding author), Stanford Univ, 485 Lausen Mall, Stanford, CA 94305 USA.
+EM ebuckner@stanford.edu; lkhatib@stanford.edu
+OI Buckner, Elizabeth/0000-0001-6335-0997
+NR 44
+TC 12
+Z9 12
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1353-0194
+EI 1469-3542
+J9 BRIT J MIDDLE E STUD
+JI Br. J. Middle East. Stud.
+PD OCT 2
+PY 2014
+VL 41
+IS 4
+BP 368
+EP 384
+DI 10.1080/13530194.2014.918802
+PG 17
+WC Area Studies; History
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Area Studies; History
+GA AU1FT
+UT WOS:000345367200003
+DA 2023-12-03
+ER
+
+PT J
+AU Obeid, S
+   Akel, M
+   Haddad, C
+   Fares, K
+   Sacre, H
+   Salameh, P
+   Hallit, S
+AF Obeid, Sahar
+   Akel, Marwan
+   Haddad, Chadia
+   Fares, Kassandra
+   Sacre, Hala
+   Salameh, Pascale
+   Hallit, Souheil
+TI Factors associated with alexithymia among the Lebanese population:
+   results of a cross-sectional study
+SO BMC PSYCHOLOGY
+LA English
+DT Article
+DE Alexithymia; Stress; Burnout; Anxiety
+ID ALCOHOL-USE DISORDERS; SOCIAL ANXIETY DISORDER; EMOTIONAL INTELLIGENCE;
+   POSTTRAUMATIC STRESS; PANIC DISORDER; SELF-ESTEEM; DEPRESSION; BURNOUT;
+   SCALE; PREVALENCE
+AB Background: To our knowledge, no research project on alexithymia has been conducted in Lebanon. The objective of this study was to assess risk factors associated with alexithymia in a representative sample of the Lebanese population.
+   Methods: This is a cross-sectional study, conducted between November 2017 and March 2018, which enrolled 789 participants from al districts of Lebanon. The Toronto Alexithymia Scale (TAS-20) was used to measure alexithymia, the Alcohol Use Disorders Identification Test to assess alcohol use, drinking patterns, and alcohol-related issues, the Rosenberg self-esteem scale to evaluate self-worth, the Hamilton depression rating scale and Hamilton Anxiety Scale to screen for depression and anxiety respectively, the Three-Dimensional Work Fatigue Inventory to measure physical, mental and emotional work fatigue respectively, the Columbia-Suicide Severity Rating Scale to evaluate suicidal ideation and behavior, the Perceived Stress Scale to measure stress, the Liebowitz Social Anxiety Scale to help identify a social anxiety disorder and the Quick Emotional Intelligence Self-Assessment to measure emotional intelligence.
+   Results: The results showed that 395 (50.4%) were not alexithymic, 226 (28.8%) were possible alexithymic, whereas 163 (20.8%) were alexithymic according to established clinical cutoffs. Stress (Beta=0.456), emotional exhaustion (Beta=0.249), the AUDIT score (Beta=0.225) and anxiety (Beta=0.096) were associated with higher alexithymia, whereas low emotional work fatigue (Beta=-0.114) and being married (Beta=-1.933) were associated with lower alexithymia.People in distress (Beta=7.33) was associated with higher alexithymia scores, whereas people with high wellbeing (Beta=-2.18), an intermediate (Beta=-2.90) and a high (Beta=-2.71) family monthly income were associated with lower alexithymia compared to a low one.
+   Conclusion: Alexithymia appears to be influenced by many factors, including stress, anxiety, and burnout. To reduce its prevalence, it is important that health professionals educate the public about these factors. Further studies on a larger scale are needed to confirm our findings.
+C1 [Obeid, Sahar; Haddad, Chadia] Psychiat Hosp Cross, POB 60096, Jall Eddib, Lebanon.
+   [Obeid, Sahar; Fares, Kassandra] Holy Spirit Univ Kaslik USEK, Fac Arts & Sci, Jounieh, Lebanon.
+   [Obeid, Sahar; Akel, Marwan; Sacre, Hala; Salameh, Pascale; Hallit, Souheil] INSPECT LB Inst Natl Sante Publ Epidemiol Clin &, Beirut, Lebanon.
+   [Akel, Marwan] Lebanese Int Univ, Sch Pharm, Beirut, Lebanon.
+   [Sacre, Hala] Order Pharmacists Lebanon, Drug Informat Ctr, Beirut, Lebanon.
+   [Salameh, Pascale] Lebanese Univ, Fac Pharm, Beirut, Lebanon.
+   [Salameh, Pascale] Lebanese Univ, Fac Med, Beirut, Lebanon.
+   [Hallit, Souheil] Holy Spirit Univ Kaslik USEK, Fac Med & Med Sci, Jounieh, Lebanon.
+C3 Lebanese University; Lebanese University
+RP Obeid, S (corresponding author), Psychiat Hosp Cross, POB 60096, Jall Eddib, Lebanon.; Obeid, S (corresponding author), Holy Spirit Univ Kaslik USEK, Fac Arts & Sci, Jounieh, Lebanon.; Obeid, S; Hallit, S (corresponding author), INSPECT LB Inst Natl Sante Publ Epidemiol Clin &, Beirut, Lebanon.; Hallit, S (corresponding author), Holy Spirit Univ Kaslik USEK, Fac Med & Med Sci, Jounieh, Lebanon.
+EM saharobeid23@hotmail.com; souheilhallit@hotmail.com
+RI Sacre, Hala/O-7644-2019; Hallit, Souheil/R-6727-2018; Salameh,
+   Pascale/F-9676-2011
+OI Sacre, Hala/0000-0001-6547-6251; Hallit, Souheil/0000-0001-6918-5689;
+   Salameh, Pascale/0000-0002-4780-0772; Haddad, Chadia/0000-0003-2413-2684
+NR 99
+TC 32
+Z9 33
+U1 0
+U2 7
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 2050-7283
+J9 BMC PSYCHOL
+JI BMC Psychol.
+PY 2019
+VL 7
+IS 1
+AR 80
+DI 10.1186/s40359-019-0353-5
+PG 10
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA VK4NZ
+UT WOS:000700859900080
+PM 31829280
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Mendelson, Y
+   Bachar, E
+   Cherniak, A
+   Cooper-Kazaz, R
+AF Mendelson, Yarden
+   Bachar, Eytan
+   Cherniak, Aaron
+   Cooper-Kazaz, Rena
+TI Can Living in the Shadow of Terror Leave no Marks? Long-Term Effects of
+   Traumatic Environments of Varying Intensity
+SO ISRAEL JOURNAL OF PSYCHIATRY AND RELATED SCIENCES
+LA English
+DT Article
+ID POSTTRAUMATIC-STRESS-DISORDER; RISK-FACTORS; EVENT SCALE; SYMPTOMS;
+   EXPOSURE; CHILDREN; IMPACT; DISASTER; GROWTH; PTSD
+AB Introduction: This study investigated the long-term effects of different traumatic environments on adolescents. Environments were characterized by different threats that varied in predictability, duration, and the extent to which the threat can be defended against. The research examined: 1) Jerusalem during the Second Intifada (2001-2004), 2) Israel's northern cities during the Second Lebanon War (2006), and 3) cities that suffered neither the suicide bombings (that occurred in Jerusalem) nor the rocket bombardments (that occurred in the north).
+   Method: Data was collected from surveys administered to 115 subjects aged 19-28 who were adolescents in the aforementioned cities at the relevant times but were not directly affected by terror. Participants were administered the Beck Depression Inventory (BDI), the Post-Traumatic Growth Inventory (PTGI) and the Impact of Event Scale - Revised (IES-R).
+   Results: No significant differences were found between subjects who lived in different traumatic environments as adolescents in levels of depression, posttraumatic symptoms (PTS) or posttraumatic growth (PTG). In fact, a pattern in the data indicates that adolescents in Jerusalem were less negatively impacted by their environment than were the other groups, even though Jerusalem experienced an unpredictable threat that could not be defended against, a chronic chaotic environment.
+   Conclusions: These findings suggest that the effects of a chronic chaotic environment did not produce significantly more symptoms than other environments when examined several years later. Reactions to terror, including parental attitude towards adolescents' daily routine, are also discussed.
+C1 [Mendelson, Yarden; Bachar, Eytan; Cherniak, Aaron] Hebrew Univ Jerusalem, Dept Psychol, IL-9190501 Jerusalem, Israel.
+   [Bachar, Eytan] Hadassah Univ Med Ctr, Dept Psychiat, Jerusalem, Israel.
+   [Cooper-Kazaz, Rena] Clalit Hlth Serv, Jerusalem, Israel.
+   [Cooper-Kazaz, Rena] Hebrew Univ Jerusalem, Fac Med, Jerusalem, Israel.
+C3 Hebrew University of Jerusalem; Hebrew University of Jerusalem; Clalit
+   Health Services; Hebrew University of Jerusalem
+RP Bachar, E (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-9190501 Jerusalem, Israel.
+EM eytan.bachar@mail.huji.ac.il
+RI Cherniak, Aaron D./AAM-6800-2021; Cherniak, Aaron D./AAK-8693-2021
+OI Cherniak, Aaron D./0000-0002-9114-4290; Cherniak, Aaron
+   D./0000-0002-9114-4290
+NR 45
+TC 2
+Z9 2
+U1 0
+U2 1
+PU MEDIAFARM GROUP
+PI TEL-AVIV
+PA 23 ZAMENHOFF ST, TEL-AVIV, 64373, ISRAEL
+SN 0333-7308
+J9 ISR J PSYCHIATR REL
+JI Isr. J. Psychiatr. Relat. Sci.
+PY 2017
+VL 54
+IS 2
+BP 9
+EP 16
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FX7NI
+UT WOS:000426276600003
+PM 29248901
+DA 2023-12-03
+ER
+
+PT J
+AU Obeid, S
+   Haddad, C
+   Zakhour, M
+   Fares, K
+   Akel, M
+   Salameh, P
+   Hallit, S
+AF Obeid, Sahar
+   Haddad, Chadia
+   Zakhour, Maha
+   Fares, Kassandra
+   Akel, Marwan
+   Salameh, Pascale
+   Hallit, Souheil
+TI CORRELATES OF SELF-ESTEEM AMONG THE LEBANESE POPULATION: A
+   CROSS-SECTIONAL STUDY
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE self-esteem; depression; anxiety; alexithymia; burnout; stress
+ID TORONTO-ALEXITHYMIA-SCALE; ALCOHOL-USE DISORDERS; SUICIDAL IDEATION;
+   EMOTIONAL INTELLIGENCE; DEPRESSIVE SYMPTOMS; SOCIAL ANXIETY; BURNOUT;
+   PREDICTORS; STRESS; VALIDATION
+AB Background: To the best of our knowledge, no studies have been conducted in order to assess the correlation of these factors with the self-esteem in Lebanon. Therefore, this study aims to assess risk factors associated with self- esteem among a representative sample of the Lebanese population.
+   Subjects and methods: A cross-sectional, conducted between November 2017 and March 2018, enrolled 789 participants. Self-esteem was measured using the Rosenberg scale. An exploratory factor analysis was executed to detect patterns of risk factors associated with self-esteem from our sample. A cluster analysis was then performed with the identified factor scores to identify the different profiles of the participants.
+   Results: Relationship management (Beta=0.117), emotional awareness (Beta=0.074) and personal accomplishment (Beta=0.064) were associated with a higher self-esteem, whereas high depression (Beta=-0.102), alexithymia (Beta=-0.077), burnout depersonalization (Beta=-0.078), suicidal ideation (Beta=-0.391) were associated with a lower self-esteem.
+   Factor 1 (High emotional intelligence & low depersonalization) (Beta= 1.819) was associated with increased self-esteem, whereas Factor 2 (High suicidal ideation, high alcohol dependence, high depression and anxiety) and Factor 3 (High burnout, high stress and high alexithymia) were associated with decreased self-esteem (Beta=-1.380 and Beta=-0.751) respectively.
+   Being widowed (Beta=-2.332), belonging to cluster 1 (People with emotional dysregulation) (Beta=-2.850) and cluster 2 (People in distress) (Beta=-3.660) were significantly associated with decreased self-esteem.
+   Conclusions: Depression, anxiety, burnout, stress, low emotional intelligence, alexithymia, suicide ideation, alcohol dependence and many other factors can be prevented, or reduced, by interventions that improve self-esteem.
+C1 [Obeid, Sahar; Haddad, Chadia] Psychiat Hosp Cross, Jal Eddib, Lebanon.
+   [Obeid, Sahar; Fares, Kassandra] Holy Spirit Univ Kasl USEK, Fac Art & Sci, Jounieh, Lebanon.
+   [Obeid, Sahar; Akel, Marwan; Salameh, Pascale; Hallit, Souheil] INSPECT LB Inst Natl Sante Publ Epidemiol Clin &, Beirut, Lebanon.
+   [Zakhour, Maha] Lebanese Univ, Fac Sci, Fanar, Lebanon.
+   [Akel, Marwan] Lebanese Int Univ, Sch Pharm, Beirut, Lebanon.
+   [Salameh, Pascale] Lebanese Univ, Fac Pharm, Beirut, Lebanon.
+   [Salameh, Pascale] Lebanese Univ, Fac Med, Beirut, Lebanon.
+   [Hallit, Souheil] Holy Spirit Univ Kasl USEK, Fac Med & Med Sci, Jounieh, Lebanon.
+C3 Lebanese University; Lebanese University; Lebanese University
+RP Obeid, S (corresponding author), Psychiat Hosp Cross, POB 60096, Jall Eddib, Lebanon.
+EM saharobeid23@hotmail.com
+RI Hallit, Souheil/R-6727-2018; Salameh, Pascale/F-9676-2011
+OI Hallit, Souheil/0000-0001-6918-5689; Salameh,
+   Pascale/0000-0002-4780-0772; Haddad, Chadia/0000-0003-2413-2684
+NR 73
+TC 16
+Z9 16
+U1 0
+U2 5
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PY 2019
+VL 31
+IS 4
+BP 429
+EP 439
+DI 10.24869/psyd.2019.429
+PG 11
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA JK6IW
+UT WOS:000494946800007
+PM 31698399
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Ibrahim, C
+   Haddad, R
+   Richa, S
+AF Ibrahim, C.
+   Haddad, R.
+   Richa, S.
+TI Psychiatric comorbidities in transsexualism: Study of a Lebanese
+   transgender population
+SO ENCEPHALE-REVUE DE PSYCHIATRIE CLINIQUE BIOLOGIQUE ET THERAPEUTIQUE
+LA French
+DT Article
+DE Transsexual; Psychiatric comorbidity; Suicide; Lebanon
+ID GENDER IDENTITY DISORDER; MALE-TO-FEMALE; CROSS-SEX HORMONES;
+   PERSONALITY-TRAITS; BODY-IMAGE; PREVALENCE; MORBIDITY; MORTALITY;
+   VIOLENCE; ADULTS
+AB Introduction. The question of whether gender dysphoria is associated with psychiatric comorbidity has been addressed in several studies. Several cohort studies have shown that psychiatric comorbidity is one of the main features of poor prognosis following sex change therapy. Gender dysphoria is rare, with an estimated prevalence of 0.001% to 0.002% globally. The literature shows a high prevalence of psychiatric comorbidities in people with gender dysphoria, and that they are more common in male to female transsexuals. Data on long-term mortality show that transsexuals present a 51 % increase in mortality compared to the general population. This is mainly attributed to a six-fold increase in the number of suicides and a higher rate of psychiatric disorders and risky behaviors leading to HIV infection and substance abuse.
+   Purpose. Assess psychiatric comorbidity in a population of Lebanese transgender individuals and compare it to the general population. The hypothesis of our study is that the Lebanese transgenders suffer from more psychiatric comorbidities than the general population. Our second objective was to determine the specific mental health needs of this population in order to adapt our services to their medical needs and their specific concerns.
+   Methods. - Our objective was to acquire 20 transgender participants and 20 control subjects. We chose a snowball sampling method. The evaluation consisted of three questionnaires including a general demographic questionnaire, the MINI 5.0.0 Arabic version for axis I disorders and the SCID-II for axis II disorders. Results. - The mean age of both groups was 23.55 years. Fifty-five percent (n = 11) transgender participants had active suicidal thoughts against 0% in controls. Within the group of transgender, 45 % (n = 9) had a major depressive episode, 5 % (n = 1) had a generalized anxiety disorder, 5 % (n = 1) had a posttraumatic stress disorder and 10 % (n = 2) had a major depressive episode with comorbid posttraumatic stress disorder. We noted a significant difference between the two groups regarding the presence of suicidal ideation (P = 0.000) and the presence of axis I disorders (P = 0.039).
+   Discussion. - In our study, we noted demographic and economic characteristics specific to the population of transgender individuals. We found a significant difference in the level of education, economic status and household composition. Transgender individuals suffer from more psychiatric pathologies compared to the general population. This may be due to social and familial discrimination and ostracism. These results demonstrate the vulnerability of this population. An awareness program for mental health professionals is essential in order to adapt care to the specific needs of this population. A list of non "transphobic" mental health professionals should be established. (C) 2016 L'Encephale, Paris.
+C1 [Ibrahim, C.; Richa, S.] Univ St Joseph, Hotel Dieu France, Fac Med, Beirut, Lebanon.
+   [Haddad, R.; Richa, S.] Univ St Joseph, Fac Med, Beirut, Lebanon.
+C3 Saint Joseph University Beirut; Saint Joseph University Beirut
+RP Richa, S (corresponding author), Univ St Joseph, Hotel Dieu France, Fac Med, Beirut, Lebanon.; Richa, S (corresponding author), Univ St Joseph, Fac Med, Beirut, Lebanon.
+EM sami.richa@usj.edu.lb
+RI richa, sami/ABF-6036-2020
+NR 33
+TC 11
+Z9 12
+U1 0
+U2 13
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0013-7006
+J9 ENCEPHALE
+JI Enceph.-Rev. Psychiatr. Clin. Biol. Ther.
+PD DEC
+PY 2016
+VL 42
+IS 6
+BP 517
+EP 522
+DI 10.1016/j.encep.2016.02.011
+PG 6
+WC Neurosciences; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA EJ6SE
+UT WOS:000393348300004
+PM 27017319
+DA 2023-12-03
+ER
+
+EF

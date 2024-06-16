@@ -1,0 +1,1038 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Buffington, R
+AF Buffington, R
+TI To die in Cuba: Suicide and society.
+SO AMERICAN HISTORICAL REVIEW
+LA English
+DT Book Review
+C1 Bowling Green State Univ, Bowling Green, OH 43403 USA.
+C3 University System of Ohio; Bowling Green State University
+RP Buffington, R (corresponding author), Bowling Green State Univ, Bowling Green, OH 43403 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER HISTORICAL REVIEW
+PI WASHINGTON
+PA 400 A ST SE, WASHINGTON, DC 20003 USA
+SN 0002-8762
+J9 AM HIST REV
+JI Am. Hist. Rev.
+PD JUN
+PY 2006
+VL 111
+IS 3
+BP 880
+EP 881
+DI 10.1086/ahr.111.3.880
+PG 2
+WC History
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 056BF
+UT WOS:000238495200120
+DA 2023-12-05
+ER
+
+PT J
+AU Wilson, J
+AF Wilson, J
+TI To die in Cuba - Suicide and society
+SO TLS-THE TIMES LITERARY SUPPLEMENT
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TIMES SUPPLEMENTS LIMITED
+PI MARKET HARBOROUGH
+PA TOWER HOUSE, SOVEREIGN PARK, MARKET HARBOROUGH LE87 4JJ, ENGLAND
+SN 0307-661X
+J9 TLS-TIMES LIT SUPPL
+JI TLS-Times Lit. Suppl.
+PD SEP 2
+PY 2005
+IS 5344
+BP 27
+EP 27
+PG 1
+WC Humanities, Multidisciplinary
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Arts & Humanities - Other Topics
+GA 961US
+UT WOS:000231687900057
+DA 2023-12-05
+ER
+
+PT J
+AU Gott, R
+AF Gott, R
+TI To die in Cuba: Suicide and society
+SO JOURNAL OF LATIN AMERICAN STUDIES
+LA English
+DT Book Review
+C1 Univ London, Inst Study Amer, London WC1E 7HU, England.
+C3 University of London
+RP Gott, R (corresponding author), Univ London, Inst Study Amer, London WC1E 7HU, England.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0022-216X
+EI 1469-767X
+J9 J LAT AM STUD
+JI J. Lat. Am. Stud.
+PD FEB
+PY 2006
+VL 38
+BP 196
+EP 197
+DI 10.1017/S0022216X05310674
+PN 1
+PG 2
+WC Area Studies; Humanities, Multidisciplinary
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Area Studies; Arts & Humanities - Other Topics
+GA 022LR
+UT WOS:000236057800017
+DA 2023-12-05
+ER
+
+PT J
+AU Denis, AL
+AF Denis, Adrian Lopez
+TI To die in Cuba: Suicide and society.
+SO HISTORIAN
+LA English
+DT Book Review
+C1 Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+C3 University of California System; University of California Los Angeles
+RP Denis, AL (corresponding author), Univ Calif Los Angeles, Los Angeles, CA 90024 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BLACKWELL PUBLISHING
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXON, ENGLAND
+SN 0018-2370
+J9 HISTORIAN
+JI Historian
+PD FAL
+PY 2006
+VL 68
+IS 3
+BP 596
+EP 598
+PG 3
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 083FK
+UT WOS:000240441600032
+DA 2023-12-05
+ER
+
+PT J
+AU Johnson, LL
+AF Johnson, Lyman L.
+TI To die in Cuba: Suicide and society
+SO HAHR-HISPANIC AMERICAN HISTORICAL REVIEW
+LA English
+DT Book Review
+C1 [Johnson, Lyman L.] Univ N Carolina, Charlotte, NC 28223 USA.
+C3 University of North Carolina; University of North Carolina Charlotte
+RP Johnson, LL (corresponding author), Univ N Carolina, Charlotte, NC 28223 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU DUKE UNIV PRESS
+PI DURHAM
+PA 905 W MAIN ST, STE 18-B, DURHAM, NC 27701 USA
+SN 0018-2168
+J9 HAHR-HISP AM HIST R
+JI HAHR-Hisp. Am. Hist. Rev.
+PD MAY
+PY 2008
+VL 88
+IS 2
+BP 313
+EP 315
+DI 10.1215/00182168-2007-136
+PG 3
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 288RJ
+UT WOS:000255003200023
+DA 2023-12-05
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI To Die in Cuba: Suicide and Society
+SO COLONIAL LATIN AMERICAN HISTORICAL REVIEW
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CLAHR, SPANISH COLONIAL RES CENTER
+PI ALBUQUERQUE
+PA UNIV NEW MEXICO, ZIMMERMAN LIBRARY, ALBUQUERQUE, NM 87131 USA
+SN 1063-5769
+J9 COLON LAT AM HIST R
+JI Colon. Latin Amer. Hist. Rev.
+PD SUM
+PY 2006
+VL 15
+IS 3
+BP 339
+EP 340
+PG 2
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA V06YY
+UT WOS:000207230100020
+DA 2023-12-05
+ER
+
+PT J
+AU Díaz, ME
+AF Elena Diaz, Maria
+TI To die in Cuba:: Suicide and society.
+SO AMERICAS
+LA English
+DT Book Review
+C1 Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.
+C3 University of California System; University of California Santa Cruz
+RP Díaz, ME (corresponding author), Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ACAD AMER FRANCISCAN HIST
+PI WEST BETHESDA
+PA BOX 34440, WEST BETHESDA, MD 20817 USA
+SN 0003-1615
+J9 AMERICAS
+JI Americas
+PD JAN
+PY 2007
+VL 63
+IS 3
+BP 487
+EP 488
+DI 10.1017/S0003161500064063
+PG 2
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 141AQ
+UT WOS:000244548800029
+DA 2023-12-05
+ER
+
+PT J
+AU De la Fuente, A
+AF De la Fuente, Alejandro
+TI To die in Cuba: Suicide and society.
+SO JOURNAL OF INTERDISCIPLINARY HISTORY
+LA English
+DT Book Review
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh
+RP De la Fuente, A (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU M I T PRESS
+PI CAMBRIDGE
+PA 238 MAIN STREET, STE 500, CAMBRIDGE, MA 02142-1046 USA
+SN 0022-1953
+J9 J INTERDISCIPL HIST
+JI J. Interdiscip. Hist.
+PD FAL
+PY 2006
+VL 37
+IS 2
+BP 326
+EP 328
+DI 10.1162/jinh.2006.37.2.326
+PG 3
+WC History
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 086MW
+UT WOS:000240678700050
+DA 2023-12-05
+ER
+
+PT J
+AU Muller, DA
+AF Muller, Dalia A.
+TI To die in Cuba: Suicide and society
+SO SOCIAL HISTORY
+LA English
+DT Book Review
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Muller, DA (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0307-1022
+J9 SOC HIST
+JI Soc. Hist.
+PD AUG
+PY 2006
+VL 31
+IS 3
+BP 376
+EP 377
+PG 2
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA 069RR
+UT WOS:000239466400013
+DA 2023-12-05
+ER
+
+PT J
+AU Childress, B
+AF Childress, B
+TI To die in Cuba: Suicide and society.
+SO LIBRARY JOURNAL
+LA English
+DT Book Review
+C1 Auburn Univ Libs, Auburn, AL USA.
+RP Childress, B (corresponding author), Auburn Univ Libs, Auburn, AL USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BOWKER MAGAZINE GROUP CAHNERS MAGAZINE DIVISION
+PI NEW YORK
+PA 249 W 17TH ST, NEW YORK, NY 10011 USA
+SN 0363-0277
+J9 LIBR J
+JI Libr. J.
+PD APR 1
+PY 2005
+VL 130
+IS 6
+BP 114
+EP 114
+PG 1
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA 913CK
+UT WOS:000228127800216
+DA 2023-12-05
+ER
+
+PT J
+AU Kushner, HI
+AF Kushner, Howard I.
+TI To die in Cuba: Suicide and society
+SO BULLETIN OF THE HISTORY OF MEDICINE
+LA English
+DT Book Review
+C1 Emory Univ, Atlanta, GA 30322 USA.
+C3 Emory University
+RP Kushner, HI (corresponding author), Emory Univ, Atlanta, GA 30322 USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+SN 0007-5140
+J9 B HIST MED
+JI Bull. Hist. Med.
+PD FAL
+PY 2007
+VL 81
+IS 3
+BP 685
+EP 687
+DI 10.1353/bhm.2007.0075
+PG 3
+WC Health Care Sciences & Services; History & Philosophy Of Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Health Care Sciences & Services; History & Philosophy of Science
+GA 207MI
+UT WOS:000249254800027
+DA 2023-12-05
+ER
+
+PT J
+AU Corona-Miranda, B
+   Alfonso-Sagué, K
+   Hernández-Sánchez, M
+   Lomba-Acevedo, P
+AF Corona-Miranda, Beatriz
+   Alfonso-Sague, Karen
+   Hernandez-Sanchez, Mariela
+   Lomba-Acevedo, Paula
+TI Epidemiology of Suicide in Cuba, 1987-2014
+SO MEDICC REVIEW
+LA English
+DT Article
+DE Suicide; suicide attempt; death; mental health; Cuba
+AB INTRODUCTION Suicide is a health problem influenced by biological, genetic, psychological, social and economic factors. It is responsible for 50% of violent deaths in the male population, worldwide, and 71% in the female. In the Americas, 65,000 deaths by suicide occur every year. It is the ninth most frequent cause of death in Cuba, and third among people aged 10-19.
+   OBJECTIVE Characterize the epidemiology of suicide in Cuba from 1987 to 2014.
+   METHODS A retrospective descriptive study was conducted. The information comprised all records of death by suicide from January 1, 1987 to December 31, 2014, in the Cuban Ministry of Public Health's National Statistics Division database. The variables were sex, age, skin color, employment status/occupation, marital status, and method of suicide. Crude and age-standardized mortality rates and age-sex specific mortality rates were calculated, all per 100,000 population, as well as the sex ratio. Relative change over the series was calculated as a percentage. Distribution of suicides by variable was calculated and proportions expressed as percentages.
+   RESULTS A total of 51,113 deaths by suicide were reported (annual average 1825), of which 34,671 (67.8%) were among men. The sex ratio was 2.1:1 for the entire study period, and 3.9:1 for 2011-2014. Over the course of the period studied, age-standardized suicide rates decreased from 23.9 to 10.8 per 100,000 population (54.8% reduction). The group aged >= 60 years had the highest average age-standardized rate, 44.6 per 100,000 population. The highest suicide burden by age was in the group aged 20-59 years (60.5%). By skin color, the highest burden was in those recorded as white, 68.9%. By marital status, the highest burden was in persons with a stable partner (46.7%), and by employment status/occupation, in retired (25.9%). The most commonly used method was hanging (59.4%).
+   CONCLUSIONS Over the course of about three decades, suicide mortality rates have declined by almost half and they are still slightly higher than overall rates in the Americas. The most commonly used method is hanging. The sex ratio is greater than two and has increased over time. The highest rates occur in the group aged >= 60 years, but finer stratification is needed to identify an age-related risk trend. In view of Cuba's aging population, these results are of interest for epidemiology and public health.
+C1 [Corona-Miranda, Beatriz] Natl Hyg Epidemiol & Microbiol Inst INHEM, Havana, Cuba.
+   [Alfonso-Sague, Karen; Hernandez-Sanchez, Mariela] INHEM, Havana, Cuba.
+   [Lomba-Acevedo, Paula] Med Univ Havana, Havana, Cuba.
+   [Lomba-Acevedo, Paula] Guanabacoa Community Mental Hlth Ctr, Havana, Cuba.
+RP Corona-Miranda, B (corresponding author), Natl Hyg Epidemiol & Microbiol Inst INHEM, Havana, Cuba.
+EM bettycoro@infomed.sld.cu
+NR 34
+TC 10
+Z9 10
+U1 0
+U2 1
+PU MEDICC-MED EDUC COOPERATION CUBA
+PI DECATUR
+PA 1902 CLAIRMONT RD, STE 250, DECATUR, GEORGIA 30033-3406 USA
+SN 1555-7960
+J9 MEDICC REV
+JI MEDICC Rev.
+PD JUL
+PY 2016
+VL 18
+IS 3
+BP 15
+EP 21
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA ED1IE
+UT WOS:000388598100005
+PM 27510932
+OA Green Submitted, hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Levi, F
+   La Vecchia, C
+   Lucchini, F
+   Negri, E
+   Saxena, S
+   Maulik, PK
+   Saraceno, B
+AF Levi, F
+   La Vecchia, C
+   Lucchini, F
+   Negri, E
+   Saxena, S
+   Maulik, PK
+   Saraceno, B
+TI Trends in mortality from suicide, 1965-99
+SO ACTA PSYCHIATRICA SCANDINAVICA
+LA English
+DT Article
+DE suicide; mortality; trends; international; epidemiology
+ID INCREASING RATES; AGE; PERIOD; UNEMPLOYMENT; ALCOHOL; PREVENTION;
+   DEPRESSION; STRATEGY; ENGLAND; RUSSIA
+AB Objective: To analyse trends in mortality from suicide over the period 1965 - 99.
+   Method: Data were derived from the WHO database, including data for 47 countries.
+   Results: In the European Union (EU), all age suicide mortality peaked at 16.1/100 000 in men in 1980 - 84, and declined thereafter to 14.4/ 100 000 in 1995 - 98. In females, the fall was 29% to reach 4.6/100 000. A similar pattern of trends was observed in several eastern European countries. In contrast, mortality from suicide rose substantially in the Russian Federation, from 37.7/100 000 in males in 1985 - 89 to 58.3/ 100 000 in 1995 - 98 (+ 55%), and to 9.5/100 000 (+ 12%) in females. In the USA and most other American countries providing data, no consistent pattern was evident for males, but falls were observed in females. Steady declines were registered for Japan, starting from the highest suicide rates worldwide in the late 1950s. Suicide rates were upwards in Ireland, Italy, Spain, the UK, Cuba, Australia and New Zealand. Substantial rises were observed in a few countries ( Ireland, Cuba, Mexico, Australia and New Zealand) for young males.
+   Conclusion: In spite of mixed trends, suicide remains a significant public health problem worldwide.
+C1 Univ Lausanne, Inst Social & Prevent Med, Canc Epidemiol Unit, CH-1005 Lausanne, Switzerland.
+   CHUV Falaises, Univ Inst Social & Prevent Med, Canc Registry Vaud, Lausanne, Switzerland.
+   Mario Negri Inst Pharmacol Res, Lab Epidemiol, I-20157 Milan, Italy.
+   Univ Milan, Inst Med Stat & Biometry, Milan, Italy.
+   WHO, Mental Hlth & Subst Dependence Dept, CH-1211 Geneva, Switzerland.
+C3 University of Lausanne; University of Lausanne; Centre Hospitalier
+   Universitaire Vaudois (CHUV); Istituto di Ricerche Farmacologiche Mario
+   Negri IRCCS; University of Milan; World Health Organization
+RP Levi, F (corresponding author), Univ Lausanne, Inst Social & Prevent Med, Canc Epidemiol Unit, Bugnon 17, CH-1005 Lausanne, Switzerland.
+EM fabio.levi@inst.hospvd.ch
+RI Negri, Eva/B-7244-2013; La Vecchia, Carlo/Z-1710-2019; Negri, Eva Vanna
+   Lorenza/AAC-5698-2019
+OI Negri, Eva/0000-0001-9712-8526; La Vecchia, Carlo/0000-0003-1441-897X;
+   Negri, Eva Vanna Lorenza/0000-0001-9712-8526; Maulik, Pallab
+   Kumar/0000-0001-6835-6175; Saraceno, Benedetto/0000-0001-7119-5712
+NR 47
+TC 150
+Z9 164
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-690X
+EI 1600-0447
+J9 ACTA PSYCHIAT SCAND
+JI Acta Psychiatr. Scand.
+PD NOV
+PY 2003
+VL 108
+IS 5
+BP 341
+EP 349
+DI 10.1034/j.1600-0447.2003.00147.x
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 728VC
+UT WOS:000185736200004
+PM 14531754
+DA 2023-12-05
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-05
+ER
+
+PT J
+AU Leenaars, A
+   Connolly, J
+AF Leenaars, A
+   Connolly, J
+CA Int Ethical Legal Working Grp Suic
+TI Suicide, assisted suicide and euthanasia: International perspectives
+SO IRISH JOURNAL OF PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE assisted suicide; euthanasia; international; suicide
+AB Suicide, assisted suicide and euthanasia are elusive and controversial issues worldwide. To discuss such issues from only one perspective may be limiting. Therefore, this paper was written by authors from various regions, each of whom has been asked to reflect on the issues. The countries/cultures are: Australia, China, Cuba, Ireland, India, Japan, Russia, South Africa, The Netherlands, North America (Turtle Island) and United States. Historically and today, suicide is viewed differently. Assisted suicide and euthanasia are equally seen from multifarious perspectives. Highlighting development in the Netherlands, Australia's Northern Territory and Japan (ie. the famous Yamanouchi Case), the review shows growing re-examination of the right to die. There appear, however, to be no uniform legal and ethical positions. Further debate and discussion globally is needed to avoid myopic perspectives.
+C1 St Marys Hosp, Castlebar, Co Mayo, Ireland.
+   Leiden Univ, Windsor, ON N9A 1C7, Canada.
+   Griffith Univ, Australia Inst Suicide Res, Brisbane, Qld 4111, Australia.
+   Indian Hlth Serv, Alcoholism & Substance Abuse Program, Albuquerque, NM 87110 USA.
+   Med Acad, Kemerovo 650099, Russia.
+   Guangxi Acad Social Sci, Nanning, Guangxi, Peoples R China.
+   Ctr Study Suicide, Blackwood, NJ 08012 USA.
+   Kemerovo State Med Acad, Kemerovo 650099, Russia.
+   Univ KwaZulu Natal, Fac Med, ZA-4001 Durban, South Africa.
+   Tokyo Inst Psychiat, Tokyo 1900012, Japan.
+C3 Griffith University; Kemerovo State Medical Academy; University of
+   Kwazulu Natal; Tokyo Institute of Psychiatry
+RP Connolly, J (corresponding author), St Marys Hosp, Castlebar, Co Mayo, Ireland.
+NR 29
+TC 9
+Z9 9
+U1 5
+U2 36
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0790-9667
+EI 2051-6967
+J9 IRISH J PSYCHOL MED
+JI Irish J. Psychol. Med.
+PD MAR
+PY 2001
+VL 18
+IS 1
+BP 33
+EP 37
+DI 10.1017/S0790966700006224
+PG 5
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 418JL
+UT WOS:000167887100009
+PM 16983788
+DA 2023-12-05
+ER
+
+PT J
+AU Corona-Miranda, B
+   Alfonso-Sagué, K
+   Hernández-Sánchez, M
+   Cortés-Alfaro, A
+AF Corona-Miranda, Beatriz
+   Alfonso-Sague, Karen
+   Hernandez-Sanchez, Mariela
+   Cortes-Alfaro, Alba
+TI Attempted and Completed Suicide in Cuban Adolescents, 2011-2014
+SO MEDICC REVIEW
+LA English
+DT Article
+DE Suicide; suicide; attempted; mortality rate; adolescents; Cuba
+ID CHILDREN; BEHAVIOR; HEALTH; CARE; RISK
+AB INTRODUCTION Recent decades have seen an uptick in suicide attempts and completed suicides among adolescents and young adults worldwide. In the Americas, including Cuba, suicide is the third leading cause of death in adolescents (ages 10-19 years).
+   OBJECTIVE Characterize the epidemiology of attempted and completed suicide in Cuban adolescents from 2011 through 2014.
+   METHODS A descriptive epidemiological study was carried out. The information was gathered from morbidity records for suicide attempts and mortality records for suicide deaths in adolescents, taken from the Cuban Ministry of Public Health's Medical Records and Health Statistics Division database for January 1, 2011 through December 31, 2014. Variables were sex, age, occupation or employment status, and suicide method. Suicide attempt incidence rates and suicide mortality rates by age group per 100,000 population (crude, adjusted and age/sex specific), mortality sex ratio and attemp/suicide ratio were calculated. Relative change was calculated as a percentage, as were frequencies by variable for attempted suicide and suicide, and by age and sex for method used.
+   RESULTS A total of 19,541 suicide attempts and 149 suicides were reported. Average annual numbers were 4,885.2 suicide attempts and 37.2 suicides (131:1 ratio). There were 3,966 suicide attempts among boys, for a sex ratio of 0.25:1. Age-adjusted suicide attempt rates decreased from 391.8 per 100,000 population to 304.5 (22.3% reduction over the study period). Boys accounted for 107 of 149 suicide deaths, for a sex ratio of 2.5:1. Age-adjusted suicide mortality rates decreased from 2.8 to 2.3 per 100,000 population (17.9% reduction). The group aged 15-19 years had the highest age-adjusted suicide rate (3.9 per 100,000 population) and contributed the most deaths (114/149, 76.5%), although it did experience a 31.8% reduction over the study period. The group aged 10-14 years recorded a relative increase of 60% over the study period. Hanging was the most common suicide method (116/149, 77.9%). The suicide rate in Cuban adolescents (2.6 per 100,000 population, 3.7 in boys and 1.5 in girls) is less than that reported by the Region of the Americas between 2005 and 2009, 3.7 per 100,000 population (5/100,000 in boys and 2.3/100,000 in girls).
+   CONCLUSIONS Suicide rates in Cuban adolescents are lower than reported elsewhere in the Americas. Suicide attempts and suicide rates decreased modestly between 2011 and 2014. Hanging is the most commonly used method. The highest rates occur in the group aged 15-19 years, but those aged 10-14 years showed a relative increase over the study period. These results update the epidemiology of suicide in Cuban adolescents and demonstrate the extent of the problem. Suicides and suicide attempts show opposite patterns in boys and girls; suicides are more frequent among boys while suicide attempts are more frequent among girls
+C1 [Corona-Miranda, Beatriz] Natl Hyg Epidemiol & Microbiol Inst INHEM, Dual Specialties Family Med & Hyg & Epidemiol, Havana, Cuba.
+   [Corona-Miranda, Beatriz] Natl Hyg Epidemiol & Microbiol Inst INHEM, Environm Hlth, Havana, Cuba.
+   [Alfonso-Sague, Karen] INHEM, Havana, Cuba.
+   [Hernandez-Sanchez, Mariela; Cortes-Alfaro, Alba] INHEM, Sch Hlth, Havana, Cuba.
+   [Hernandez-Sanchez, Mariela; Cortes-Alfaro, Alba] INHEM, Epidemiol, Havana, Cuba.
+RP Corona-Miranda, B (corresponding author), Natl Hyg Epidemiol & Microbiol Inst INHEM, Dual Specialties Family Med & Hyg & Epidemiol, Havana, Cuba.; Corona-Miranda, B (corresponding author), Natl Hyg Epidemiol & Microbiol Inst INHEM, Environm Hlth, Havana, Cuba.
+EM bettycoro@infomed.sld.cu
+NR 44
+TC 0
+Z9 2
+U1 0
+U2 7
+PU MEDICC-MED EDUC COOPERATION CUBA
+PI DECATUR
+PA 1902 CLAIRMONT RD, STE 250, DECATUR, GEORGIA 30033-3406 USA
+SN 1555-7960
+J9 MEDICC REV
+JI MEDICC Rev.
+PD JAN
+PY 2018
+VL 20
+IS 1
+BP 36
+EP 41
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GI3XZ
+UT WOS:000434306700009
+PM 34229420
+OA hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Calderón, TM
+   Wilcapi, JCF
+   Marrero, JCD
+   Rodríguez, NA
+   Brito, AD
+AF Montenegro Calderon, Tamara
+   Fernandez Wilcapi, Juan Carlos
+   Diaz Marrero, Julio Cesar
+   Aguila Rodriguez, Narciso
+   Diaz Brito, Alexis
+TI Characterization of Suicidal Attempt in Adolescents of the Cumanayagua
+   Municipality
+SO FINLAY
+LA Spanish
+DT Article
+DE suicide attempted; adolescent; epidemiology descriptive; cuba
+AB Foundation: the World Health Organization has determined that suicide in an important health problem since it is among the first causes of death in all ages. In Cuba and in Cienfuegos a trend to increase has been observed in youngsters.
+   Objective: to characterize the suicidal attempt in adolescent of the Cumanayagua municipality from January 2009 to December 2013.
+   Method: a cross descriptive study was done about the epidemiological behavior according to variables of the suicidal conduct at the Cumanayagua municipality from 2009 to 2013 with a universe of 110 patients. The information was collected by revising cards of compulsory statement and surveys where studied variables were included. The statistical analysis was developed by SSPS program and the results are presented in tables.
+   Results: there were a higher number of suicidal attempts in the female sex, white skin, single and secundary schooling. The predominant model was the ingestion of medications and family, school and personal problems were the triggering factors of suicidal attempt.
+   Conclusion: the multi-causal origin of this phenomenon is undeniable and the personal, interpersonal, and social factors are significant in interaction with circumstance and psycho-social factors which function as unleashing factors.
+C1 [Montenegro Calderon, Tamara] Ctr Municipal Higiene & Epidemiol, Cumanayagua 57600, Cienfuegos, Cuba.
+   [Fernandez Wilcapi, Juan Carlos] Policlin Comunitario Aracelio Rodriguez Castellon, Cumanayagua, Cienfuegos, Cuba.
+   [Diaz Marrero, Julio Cesar] Direcc Prov Salud, Cienfuegos, Cienfuegos, Cuba.
+   [Aguila Rodriguez, Narciso] Unidad Municipal Higiene & Epidemiol, Cumanayagua 57600, Cienfuegos, Cuba.
+   [Diaz Brito, Alexis] Univ Ciencias Med Cienfuegos, Cienfuegos, Cuba.
+RP Calderón, TM (corresponding author), Ctr Municipal Higiene & Epidemiol, Cumanayagua 57600, Cienfuegos, Cuba.
+EM tamaramc710811@minsap.cfg.sld.cu
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CENTRO PROVINCIAL INFORMACION CIENCIAS MEDICAS CINFUEGOS
+PI CINFUEGOS
+PA CALLE 51 A & AVENIDA 5 SEPTIEMBRE, CINFUEGOS, 55100, CUBA
+SN 2221-2434
+J9 FINLAY
+JI Finlay
+PD DEC
+PY 2018
+VL 8
+IS 4
+BP 267
+EP 273
+PG 7
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA HF5KH
+UT WOS:000454270700004
+DA 2023-12-05
+ER
+
+PT J
+AU Morejón, WV
+   Sena, BJ
+   Vega, YP
+   Aguila, YDR
+   Méndez, AR
+AF Valiente Morejon, Wilfredo
+   Junco Sena, Barbara
+   Padron Vega, Yoel
+   Ramos Aguila, Yisel de la Caridad
+   Rodriguez Mendez, Aline
+TI Clinical-epidemiological Characterization of Suicide in Elder Adults
+SO FINLAY
+LA Spanish
+DT Article
+DE suicide; aged; quality of life; cuba
+AB Foundation: suicide is one of the first causes of death in Pinar del Rio. The mortality rate due to suicide in Consolacion del Sur exceeds the national average, most of the cases range over 60 years old.
+   Objective: to characterize elderly people dead due to suicide in Consolacion del Sur between 2000 and 2015.
+   Method: a descriptive research was done with the universe of 85 dead elder adults. The calculation was done on the bases of mortality data and typification survey of suicidal behavior of the non-transmissible diseases department of the Provincial Center of Hygiene and Epidemiology. The variables analyzed were: age range, sex, scholarship, marital status, working status, if they lived alone or not, type of conflict, suicidal method, previous suicidal attempt, addictions and premature mortality.
+   Results: the rate of suicide increased proportionally to age, the average age was 73,8 +/- 8,9 years old. There was a male over mortality of 3,7 men by each woman. The most frequent suicides occurred in old men with elementary school level, without working or marital bond and living with other people but with noticeable problems in the familial structure and functioning. The most frequent method was hanging. Most of the elders did not have previous suicidal attempts nor additions. It was observed a premature death in 52,9 % of the cases.
+   Conclusion: premature death due to suicide can be seen as a reflection of the deterioration of the quantity of life but also its quality of the studied elder adults.
+C1 [Valiente Morejon, Wilfredo; Rodriguez Mendez, Aline] Ctr Municipal Higiene Epidemiol & Microbiol, Consolacion Del Sur 23000, Pinar Del Rio, Cuba.
+   [Junco Sena, Barbara] Policlin 1ro Enero, Consolacion Del Sur, Pinar Del Rio, Cuba.
+   [Padron Vega, Yoel] Direcc Prov Salud, Pinar Del Rio, Cuba.
+   [Ramos Aguila, Yisel de la Caridad] Ctr Prov Higiene Epidemiol & Microbiol, Pinar Del Rio, Cuba.
+RP Morejón, WV (corresponding author), Ctr Municipal Higiene Epidemiol & Microbiol, Consolacion Del Sur 23000, Pinar Del Rio, Cuba.
+EM wilbar@infomed.sld.cu
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 3
+PU CENTRO PROVINCIAL INFORMACION CIENCIAS MEDICAS CINFUEGOS
+PI CINFUEGOS
+PA CALLE 51 A & AVENIDA 5 SEPTIEMBRE, CINFUEGOS, 55100, CUBA
+SN 2221-2434
+J9 FINLAY
+JI Finlay
+PD MAY
+PY 2018
+VL 8
+IS 2
+BP 111
+EP 121
+PG 11
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA GH8KE
+UT WOS:000433916400006
+DA 2023-12-05
+ER
+
+PT J
+AU Andrade-Machado, R
+   Benjumea-Cuartas, V
+   Santos-Santos, A
+   Sosa-Dubón, MA
+   García-Espinosa, A
+   Andrade-Gutierrez, G
+AF Andrade-Machado, Rene
+   Benjumea-Cuartas, Vanessa
+   Santos-Santos, Aisel
+   Sosa-Dubon, Miguel Amilcar
+   Garcia-Espinosa, Arlety
+   Andrade-Gutierrez, Greisys
+TI Mortality in patients with refractory temporal lobe epilepsy at a
+   tertiary center in Cuba
+SO EPILEPSY & BEHAVIOR
+LA English
+DT Article
+DE Refractory temporal lobe epilepsy; Mortality; Suicide; Deaths on
+   epilepsy; SUDEP
+ID SUDDEN UNEXPECTED DEATH; PSYCHIATRIC COMORBIDITY; PREMATURE MORTALITY;
+   RISK-FACTORS; SURGERY; SUICIDE; PEOPLE; DISORDERS
+AB Objectives: We aimed to investigate the prevalence and risk of mortality in patients with refractory temporal lobe epilepsy.
+   Methods: Eligible patients included all adults referred to the National Institute of Neurology (NIN) in Havana, Cuba. All patients were followed up for 9 years. All analyses were made with the data available at the last follow-up. The frequency of death related to refractory TLE was analyzed taking into account the total number of patients included in the study. We analyzed the causes of death for each case. Multivariate analysis was made to determine the specific variables related to the death. All values were statistically significant if p < 0.05.
+   Results: Six out of 117 patients died during follow-up. Fifty percent of patients died because of suicide. Only the presence of aura, specifically experiential psychic auras, and prodromal depressive disorders were associated significantly with the deaths (p < 0.05). Patients who died had a higher concern about their seizures than patients who were still alive at last follow-up (p < 0.01); they also had a poor perception of the overall QOL (p < 0.01); and they were more concerned about the possible medication side effects than patients who did not die (p < 0.05). Logistic regression provided only one variable related to the deaths in our cohort in multivariate analysis: presence of prodromal depressive disorder.
+   Conclusion: The causes of death in patients with refractory temporal lobe epilepsy were similar to those documented in the general population of patients with epilepsy. (C) 2015 Elsevier Inc. All rights reserved.
+C1 [Andrade-Machado, Rene; Santos-Santos, Aisel; Sosa-Dubon, Miguel Amilcar] Natl Inst Neurol, Havana, Cuba.
+   [Andrade-Machado, Rene; Benjumea-Cuartas, Vanessa] Natl Inst Neurol, Bogota, Colombia.
+   [Garcia-Espinosa, Arlety] Mental Hlth Hosp, Havana, Cuba.
+   [Garcia-Espinosa, Arlety] Mental Hlth Hosp, Bello, Colombia.
+   [Andrade-Gutierrez, Greisys] Miami Dade Coll, Miami, FL USA.
+RP Andrade-Machado, R (corresponding author), Almenares 105 Entre San Isidro & Tejar, Havana, Cuba.
+EM reneandrade1970@yahoo.es
+NR 24
+TC 4
+Z9 5
+U1 0
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1525-5050
+EI 1525-5069
+J9 EPILEPSY BEHAV
+JI Epilepsy Behav.
+PD DEC
+PY 2015
+VL 53
+BP 154
+EP 160
+DI 10.1016/j.yebeh.2015.08.038
+PG 7
+WC Behavioral Sciences; Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Behavioral Sciences; Neurosciences & Neurology; Psychiatry
+GA CY3RS
+UT WOS:000366328200027
+PM 26575257
+DA 2023-12-05
+ER
+
+PT J
+AU Howell, A
+AF Howell, Alison
+TI Victims or Madmen? The Diagnostic Competition over "Terrorist" Detainees
+   at Guantanamo Bay
+SO INTERNATIONAL POLITICAL SOCIOLOGY
+LA English
+DT Article
+ID LIBERAL GOVERNMENT; SUICIDE
+AB This article traces the pathologization of suspected terrorists held captive at the U. S. military base in Guantanamo Bay, Cuba. The occurrence of several reported suicide attempts among the detainees provided "proof" for their captors that terrorists are indeed fanatical madmen. These same reports of suicide attempts, however, were contradictorily diagnosed by human rights and humanitarian organizations as evidence of psychological deterioration induced by prolonged detention. What is notable in this diagnostic competition over what, exactly, afflicts the detainees is that both advocates and resisters to the detentions pathologized the detainees by chalking up the suicide attempts to their purportedly impaired psyches. This is significant because the pathologization of the detainees is one condition of possibility for their excision from the global body politic. Authoritarian practices, such as the incarceration of the "mad" and the detention of "suspected terrorists," are theorized as integral to global liberal governance, which divides up populations, and subjects those deemed mad, deviant, or dangerous to coercive measures in the name of order, security, and liberty. The article concludes with a consideration of the ways in which international relations (IR) could be more attentive to the operation of the "psy" disciplines in the conduct of international affairs.
+C1 York Univ, Dept Polit Sci, Toronto, ON M3J 2R7, Canada.
+C3 York University - Canada
+RP Howell, A (corresponding author), York Univ, Dept Polit Sci, Toronto, ON M3J 2R7, Canada.
+NR 63
+TC 35
+Z9 40
+U1 1
+U2 14
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1749-5679
+EI 1749-5687
+J9 INT POLIT SOCIOL
+JI Int. Polit. Sociol.
+PD MAR
+PY 2007
+VL 1
+IS 1
+BP 29
+EP 47
+DI 10.1111/j.1749-5687.2007.00003.x
+PG 19
+WC International Relations; Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law; Sociology
+GA V18BP
+UT WOS:000207980600003
+DA 2023-12-05
+ER
+
+PT J
+AU Ingham, J
+AF Ingham, Jill
+TI Sick Sunflowers, Santeria and Suffering: The Short Stories of Surama
+   Ferrer
+SO BULLETIN OF HISPANIC STUDIES
+LA English
+DT Article
+AB The collection of twelve short stories published in 1953 by the little-known Cuban woman writer Surama Ferrer has attracted scant critical attention, despite its varied and disturbing content. With elements of the supernatural fused with santeria, the stories relate to the female life cycle in terms of birth, blood, menopause and death. Peppered with violent incidents, they contain shocking events including suicide and infanticide. Family relationships are characterized by fracture, bitterness and hatred, as if blood ties have no relevance. Why are these stories so dark and pessimistic in terms of gender and family relationships? What is the significance of allusions to santeria and the magical powers of the sunflower? This article will attempt to unpick the various themes and devices present in these stories, in an effort to draw conclusions about the stability of family and gender relationships in mid twentieth-century Cuba.
+C1 Manchester Metropolitan Univ, Manchester M15 6BH, Lancs, England.
+C3 Manchester Metropolitan University
+RP Ingham, J (corresponding author), Manchester Metropolitan Univ, Manchester M15 6BH, Lancs, England.
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIVERPOOL UNIV PRESS
+PI LIVERPOOL
+PA 4 CAMBRIDGE ST, LIVERPOOL L69 7ZU, ENGLAND
+SN 1475-3839
+J9 B HISPANIC STUD
+JI Bull. Hisp. Stud.
+PY 2013
+VL 90
+IS 2
+BP 189
+EP 203
+DI 10.3828/bhs.2013.14
+PG 15
+WC Literature, Romance
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA 095FX
+UT WOS:000315321200006
+DA 2023-12-05
+ER
+
+PT J
+AU Hernández, GLR
+   González, AMV
+   Ganen, MS
+   Brito, MG
+   Macías, YC
+AF Rodriguez Hernandez, Gretis Leidy
+   Valladares Gonzalez, Anais Marta
+   Selin Ganen, Marina
+   Gonzalez Brito, Monica
+   Cabrera Macias, Yolanda
+TI Familial psycho-dynamics and social support in teenagers with suicidal
+   behavior. Area VI. Cienfuegos
+SO MEDISUR-REVISTA DE CIENCIAS MEDICAS DE CIENFUEGOS
+LA Spanish
+DT Article
+DE self-injurious behavior; suicide; attempted; adolescent; family
+   relations; social support; Cuba
+AB Foundation: suicidal Behavior in teenagers has become a health problem, with a great emotional repercussion and high economic and social costs.
+   Objective: to characterize dimensions of the familial psycho-dynamics, communication and cohesion, so as the need of social support in teenagers with suicidal behavior.
+   Methods: descriptive observational study, developed at polyclinic Area VI of the Cienfuegos Municipality which included 18 teenagers with suicidal behavior. The following techniques were applied: survey for adolescents with suicidal behavior, assessing scale, perception test of familial functioning, sub-scale of familial cohesion and questionnaire of social support.
+   Results: the 15 year old group predominated, with higher relative frequency in women, high school level, students, without partner. They have depression and suicidal behavior as personal and familial pathological antecedents. Drug ingestion was the most used method which is considered little serious and low severity; among the personal risks are depression and among the familial ones conflicts.
+   Conclusion: families with studied adolescents presented intermediate cohesion, there is regular comunication among them and teenagers needed some social support.
+C1 [Rodriguez Hernandez, Gretis Leidy; Gonzalez Brito, Monica] Policlin Area VI, Cienfuegos, Cienfuegos, Cuba.
+   [Valladares Gonzalez, Anais Marta; Gonzalez Brito, Monica; Cabrera Macias, Yolanda] Univ Ciencias Med Cienfuegos, Cienfuegos, Cuba.
+RP Hernández, GLR (corresponding author), Policlin Area VI, Cienfuegos, Cienfuegos, Cuba.
+EM anaismartavg@jagua.cfg.sld.cu
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 8
+PU CENTRO PROVINCIAL INFORMACION CIENCIAS MEDICAS CINFUEGOS
+PI CINFUEGOS
+PA CALLE 51 A & AVENIDA 5 SEPTIEMBRE, CINFUEGOS, 55100, CUBA
+SN 1727-897X
+J9 MEDISUR-REV CIENC ME
+JI Medisur-Rev. Cienc. Med. Cienfuegos
+PD MAR-APR
+PY 2019
+VL 17
+IS 2
+BP 191
+EP 200
+PG 10
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA HV7PW
+UT WOS:000466174000007
+DA 2023-12-05
+ER
+
+PT J
+AU Beier, JM
+   Mutimer, D
+AF Beier, J. Marshall
+   Mutimer, David
+TI Pathologizing Subjecthoods: Pop Culture, Habits of Thought, and the
+   Unmaking of Resistance Politics at Guantanamo Bay
+SO INTERNATIONAL POLITICAL SOCIOLOGY
+LA English
+DT Article
+AB Beginning with a recurrent discussion about the choice between two imagined Star Trek technologies, the holodeck and the transporter, this article explores how popular culture can be revealing of ways in which political possibilities are variously made and foreclosed by dint of deeply held but underinterrogated ideational commitments circulating in the mundane and carried forward by what might seem unlikely voices. Tracing a few such commitments as they pertain to the legitimation and delegitimation of political subjecthood, we examine the political stakes of questions of agency and delusion through what were initially reported to have been the June 2006 suicides of three detainees at the US base at Guantanamo Bay, Cuba, and the crisis that emerged with respect to multiple hunger strikes at that same facility some seven years later. Through these we ask whether there might be resistance-enabling possibilities as yet unimagined in agential choices that can so deeply offend prevailing sensibilities that it is sometimes difficult to abide them as valid choices at all. As we struggle with these resurgent security politics, it might seem frivolous to turn to film and television, or pub games at conferences, for guidance. What this article demonstrates is that these popular renderings of the limits of acceptable subjectivity draw on deep currents in our very broadest culture. In a very real sense, we are all very well prepared for our present political rendition.
+C1 [Beier, J. Marshall] McMaster Univ, Dept Polit Sci, Hamilton, ON L8S 4L8, Canada.
+   [Mutimer, David] York Univ, Ctr Int & Secur Studies, N York, ON M3J 1P3, Canada.
+C3 McMaster University; York University - Canada
+RP Beier, JM (corresponding author), McMaster Univ, Dept Polit Sci, Hamilton, ON L8S 4L8, Canada.
+RI Mutimer, David/AAM-2015-2020
+OI Mutimer, David/0000-0002-3187-7695
+NR 26
+TC 5
+Z9 5
+U1 0
+U2 10
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1749-5679
+EI 1749-5687
+J9 INT POLIT SOCIOL
+JI Int. Polit. Sociol.
+PD SEP
+PY 2014
+VL 8
+IS 3
+BP 311
+EP 323
+DI 10.1111/ips.12059
+PG 13
+WC International Relations; Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law; Sociology
+GA AO2XZ
+UT WOS:000341192600005
+DA 2023-12-05
+ER
+
+EF
