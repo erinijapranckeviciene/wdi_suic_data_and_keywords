@@ -1,0 +1,483 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wagenaar, BH
+   Raunig-Berhó, M
+   Cumbe, V
+   Rao, D
+   Napúa, M
+   Sherr, K
+AF Wagenaar, Bradley H.
+   Raunig-Berho, Manuela
+   Cumbe, Vasco
+   Rao, Deepa
+   Napua, Manuel
+   Sherr, Kenneth
+TI Suicide Attempts and Deaths in Sofala, Mozambique, From 2011 to 2014
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide attempts; methods of suicide; mental health systems;
+   epidemiology; Mozambique
+ID RISK-FACTORS; MENTAL-HEALTH; SOUTH-AFRICA; PREVALENCE; IDEATION;
+   BEHAVIOR; RATES; CARE; PESTICIDES; PREVENTION
+AB Background: Mozambique was recently estimated to have the highest suicide rate in Africa. Aims: To fill a knowledge gap on suicide attempts and deaths in Mozambique. Method: We reviewed a census of 898 emergency psychiatric consultations from March 2013 to July 2014 and 1,173 violent death autopsy records from June 2011 to August 2014 at Beira Central Hospital in Sofala, Mozambique. Results: In all, 18.0% of emergency psychiatric consultations were suicide attempts. Females were disproportionately represented (68.3%, p <.001), and the mean age was 26.8 years. Rat poison was used in 66% of attempts, followed by unspecified methods (19.8%), and unspecified poisoning (6.8%). Of the violent death autopsies, 10% were suicides. Suicide deaths were more likely to be male (67.3%, p <.001), and the mean age was 30.8 years. Common methods were hanging (43.2%), unspecified substance (28.0%), or rat poison (26.3%). Common places of death were the hospital or hospital transit (46.4%) and the household (35.7%). Female suicide deaths more often involved toxic substances and males more often employed hanging. Conclusion: Females more often present with suicide attempts, but deaths due to suicide are more frequent among males. Females more often use toxic substances, whereas males more often use lethal methods, such as hanging. Policies to reduce the availability or toxicity of rat poison should be considered.
+C1 [Wagenaar, Bradley H.; Raunig-Berho, Manuela; Rao, Deepa; Sherr, Kenneth] Univ Washington, Dept Global Hlth, Seattle, WA 98195 USA.
+   [Wagenaar, Bradley H.; Sherr, Kenneth] Hlth Alliance Int, Seattle, WA USA.
+   [Cumbe, Vasco] Minist Hlth, Dept Mental Hlth, Sofala Prov Hlth Directorate, Beira, Mozambique.
+   [Cumbe, Vasco] Beira Cent Hosp, Dept Med, Psychiat Serv, Beira, Mozambique.
+   [Rao, Deepa] Univ Washington, Dept Psychiat & Behav Sci, Seattle, WA 98195 USA.
+   [Napua, Manuel] Minist Hlth, Beira Operat Res Ctr, Beira, Mozambique.
+C3 University of Washington; University of Washington Seattle; University
+   of Washington; University of Washington Seattle
+RP Wagenaar, BH (corresponding author), Univ Washington, Dept Global Hlth, Seattle, WA 98195 USA.; Wagenaar, BH (corresponding author), Univ Washington, Dept Global Hlth, Harris Hydraul Lab, Box 357965, Seattle, WA 98195 USA.
+EM wagenaarb@gmail.com
+OI NAPUA, Manuel/0000-0001-8641-9571; Cumbe, Vasco/0000-0002-1131-8597
+FU African Health Initiative of the Doris Duke Charitable Foundation;
+   University of Washington's Royalty Research Fund; Fogarty International
+   Center [K02TW009207]
+FX This work was supported by the African Health Initiative of the Doris
+   Duke Charitable Foundation and the University of Washington's Royalty
+   Research Fund. K. Sherr was supported by Grant Number K02TW009207 from
+   the Fogarty International Center. The content is solely the
+   responsibility of the authors and does not necessarily represent the
+   official views of the National Institutes of Health.
+NR 53
+TC 9
+Z9 10
+U1 0
+U2 5
+PU HOGREFE PUBLISHING CORP
+PI BOSTON
+PA 361 NEWBURY ST, 5 FL, BOSTON, MA, UNITED STATES
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD NOV
+PY 2016
+VL 37
+IS 6
+BP 445
+EP 453
+DI 10.1027/0227-5910/a000383
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA EI9PW
+UT WOS:000392841800006
+PM 27245814
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Francisco, V
+   Silveira, J
+   Zacarias, A
+AF Francisco, Virgilio
+   Silveira, Jacinta
+   Zacarias, Antonio
+TI SUICIDE IN MOZAMBIQUE: EVIDENCE FROM 10 YEARS MORTUARY DATA FROM
+   FORENSIC SERVICES AT MAPUTO CENTRAL HOSPITAL, MAPUTO CITY
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+C1 [Francisco, Virgilio; Silveira, Jacinta; Zacarias, Antonio] Maputo Cent Hosp, Forens Serv, Maputo, Mozambique.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD APR
+PY 2015
+VL 21
+SU 1
+MA 04
+DI 10.1136/injuryprev-2012-040590n.4
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA VJ2YJ
+UT WOS:000572441000624
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Francisco, V
+   Silveira, J
+   Zacarias, A
+AF Francisco, Virgilio
+   Silveira, Jacinta
+   Zacarias, Antonio
+TI SUICIDE IN MOZAMBIQUE: EVIDENCE FROM 10 YEARS MORTUARY DATA FROM
+   FORENSIC SERVICES AT MAPUTO CENTRAL HOSPITAL, MAPUTO CITY
+SO INJURY PREVENTION
+LA English
+DT Meeting Abstract
+C1 [Francisco, Virgilio; Silveira, Jacinta; Zacarias, Antonio] Maputo Cent Hosp, Forens Serv, Maputo, Mozambique.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD OCT
+PY 2012
+VL 18
+SU 1
+MA 04
+DI 10.1136/injuryprev-2012-040590n.4
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA VJ2YL
+UT WOS:000572458300510
+OA Bronze
+DA 2023-12-05
+ER
+
+PT B
+AU GonzalezPerez, M
+AF GonzalezPerez, M
+TI Women and Terrorism: Female Activity in Domestic and International
+   Terror Groups
+SO WOMEN AND TERRORISM: FEMALE ACTIVITY IN DOMESTIC AND INTERNATIONAL
+   TERROR GROUPS
+SE Contemporary Terrorism Studies
+LA English
+DT Book
+ID SUICIDE BOMBER; LIBERATION; STRUGGLE; WAR; MOZAMBIQUE; ZIMBABWE;
+   PARTICIPATION; INDEPENDENCE; EXPERIENCE; REVOLUTION
+NR 525
+TC 42
+Z9 51
+U1 0
+U2 1
+PU ROUTLEDGE
+PI ABINGDON
+PA 2 PARK SQ, MILTON PARK, ABINGDON OX14 4RN, OXFORD, ENGLAND
+BN 978-0-203-92655-0
+J9 CONTEMP TERROR STUD
+PY 2008
+BP 1
+EP 162
+DI 10.4324/9780203926550
+PG 162
+WC International Relations; Sociology; Women's Studies
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Sociology; Women's Studies
+GA BSH38
+UT WOS:000284458500009
+DA 2023-12-05
+ER
+
+PT J
+AU Granja, AC
+   Zacarias, E
+   Bergström, S
+AF Granja, AC
+   Zacarias, E
+   Bergström, S
+TI Violent deaths:: the hidden face of maternal mortality
+SO BJOG-AN INTERNATIONAL JOURNAL OF OBSTETRICS AND GYNAECOLOGY
+LA English
+DT Article
+ID NORTH-CAROLINA; SEXUAL ABUSE; WOMEN; RISK; PREGNANCY
+AB Objective To review pregnancy-related deaths due to injuries, to identify the characteristics of these women and to compare the magnitude of injury-related maternal deaths to that of other causes of maternal death.
+   Design A retrospective study was performed during a five-year period (1991-1995), covering deaths from injuries, including suicide, homicide and accidents in Maputo, Mozambique.
+   Setting Department of Forensic Medicine at the Maputo Central Hospital, Mozambique.
+   Population The pregnant or recently pregnant (post-abortion and postpartum) population of Maputo city, the national capital of Mozambique. Twenty-seven cases of pregnancy-related deaths caused by injuries were identified.
+   Main outcome measures Proportion of deaths due to homicide, suicide, and accidents in pregnant women or within 42 days after termination of pregnancy.
+   Results Ten cases were due to alleged homicide, nine to alleged suicide and six to alleged accident. Fifty-nine percent (16/27) of women suffering an injury-related maternal death were younger than 25 years of age. Eighty-five percent of pregnancies were less than 28 weeks of gestational age. The magnitude of the problem of violence-related maternal deaths compares with the magnitude of pregnancy-induced hypertension as the fourth cause of maternal death at Maputo Central Hospital.
+   Conclusion The contribution of violence-related deaths to maternal mortality is significant and must not be neglected.
+C1 Minist Hlth, Maputo, Mozambique.
+   Fac Med, Forens Dept, Maputo, Mozambique.
+   Karolinska Inst, Dept Publ Hlth Sci, Div Int Hlth, IHCAR, Stockholm, Sweden.
+C3 Karolinska Institutet
+RP Granja, AC (corresponding author), Calcada Conde Tomar,N 11-3 A, P-1497710 Cruz Quebrada, Portugal.
+NR 26
+TC 37
+Z9 41
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1470-0328
+J9 BJOG-INT J OBSTET GY
+JI BJOG
+PD JAN
+PY 2002
+VL 109
+IS 1
+BP 5
+EP 8
+AR PII S1470-0328(02)01082-0
+DI 10.1111/j.1471-0528.2002.01082.x
+PG 4
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Obstetrics & Gynecology
+GA 582AT
+UT WOS:000177328100002
+PM 11843374
+DA 2023-12-05
+ER
+
+PT J
+AU Audet, CM
+   Wainberg, ML
+   Oquendo, MA
+   Yu, QR
+   Peratikos, MB
+   Duarte, CS
+   Martinho, S
+   Green, AF
+   González-Calvo, L
+   Moon, TD
+AF Audet, Carolyn M.
+   Wainberg, Milton L.
+   Oquendo, Maria A.
+   Yu, Qiongru
+   Peratikos, Meridith Blevins
+   Duarte, Cristiane S.
+   Martinho, Samuel
+   Green, Ann F.
+   Gonzalez-Calvo, Lazaro
+   Moon, Troy D.
+TI Depression among female heads-of-household in rural Mozambique: A
+   cross-sectional population-based survey
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Mozambique; Depression; Women; Rural sub-Saharan Africa
+ID COMMON MENTAL-DISORDERS; IDENTIFICATION TEST AUDIT; MIDDLE-INCOME
+   COUNTRIES; PERIURBAN SOUTH-AFRICA; ALCOHOL-USE; PRIMARY-CARE; POSTPARTUM
+   DEPRESSION; ANTENATAL DEPRESSION; POSTNATAL DEPRESSION; BIRTH COHORT
+AB Background: An estimated 350 million people live with depression worldwide. In Mozambique, there are no national data quantifying the burden of mental illnesses. With the sixth highest suicide rate in the world, there is strong evidence of an unmet mental health need. We conducted a survey to measure the prevalence of depression among female heads of household and assess individual, social, and cultural risk factors associated with a positive depression screening.
+   Methods: This survey was conducted across 14 rural districts in central Mozambique in 2014. We gathered information from 3543 female heads of household (100% response rate) on > 500 variables, including a depression screening tool (PHQ-8). Weighted percentages of survey responses are reported.
+   Results: Among female heads of household, 14% screened positive for depression (PHQ-8 score >= 10). Our adjusted models show increased odds of depression per additional year of age (aOR: 1.02 [1.01, 1.04]; p = 0.002), additional year of education (aOR: 1.06 [1.02, 1.11]; p = 0.006), and additional kilometer from the nearest clinic (aOR: 1.05 [1.02, 1.07]; p = < 0.001). Experiencing food insecurity (aOR: 1.05 [1.02, 1.08]; p = 0.003) was associated with increased odds of depression. Being single (aOR: 0.42 [0.29, 0.60]) or divorced/widowed/separated (aOR: 0.57 [0.34, 0.98]; p < 0.001) vs. married was protective against depression, as was a perceived "sufficient" household income (aOR: 0.37 [0.19, 0.69]; p = 0.008).
+   Limitations: Social desirability bias may have led women to underreport feelings of depression.
+   Conclusions: The association of more education and marriage with increased odds of depression may reflect a frustration with limited opportunity for success experienced by some women in rural Mozambique.
+C1 [Audet, Carolyn M.; Green, Ann F.; Moon, Troy D.] Vanderbilt Univ, Med Ctr, Vanderbilt Inst Global Hlth, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+   [Audet, Carolyn M.] Vanderbilt Univ, Med Ctr, Dept Hlth Policy, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+   [Wainberg, Milton L.; Duarte, Cristiane S.] Columbia Univ, Dept Psychiat, New York, NY 10027 USA.
+   [Oquendo, Maria A.] Univ Penn, Dept Psychiat, Philadelphia, PA 19104 USA.
+   [Yu, Qiongru] Vanderbilt Univ, Peabody Res Inst, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+   [Peratikos, Meridith Blevins] Vanderbilt Univ, Med Ctr, Dept Biostat, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+   [Martinho, Samuel; Green, Ann F.; Gonzalez-Calvo, Lazaro; Moon, Troy D.] Friends Global Hlth, Maputo, Mozambique.
+   [Gonzalez-Calvo, Lazaro; Moon, Troy D.] Vanderbilt Univ, Med Ctr, Dept Pediat, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+C3 Vanderbilt University; Vanderbilt University; Columbia University;
+   University of Pennsylvania; Vanderbilt University; Vanderbilt University
+   Peabody College; Vanderbilt University; Vanderbilt University
+RP Audet, CM (corresponding author), Vanderbilt Univ, Med Ctr, Vanderbilt Inst Global Hlth, 2525 West End Ave,Suite 750, Nashville, TN 37203 USA.
+EM carolyn.m.audet@vanderbilt.edu
+RI Oquendo, Maria/AAC-6237-2019
+OI Gonzalez Calvo, Lazaro/0000-0002-5376-929X; Moon,
+   Troy/0000-0002-1637-829X; Wainberg, Milton/0000-0002-9390-4652; Yu,
+   Qiongru/0000-0001-6844-2014; Green, Ann/0000-0002-9248-2216
+FU United States Agency for International Development (USAID)
+   [656-A-00-09-00141-00]; Fogarty International Center (FIC)/National
+   Institute of Mental Health (NIMH) [D43TW009675]; NIMH [K01 MH107255]
+FX Survey development and implementation was supported by United States
+   Agency for International Development (USAID) (grant number
+   656-A-00-09-00141-00) and the Fogarty International Center
+   (FIC)/National Institute of Mental Health (NIMH) D43TW009675. Salary
+   support for Dr. Audet was provided by the NIMH (K01 MH107255).
+NR 78
+TC 19
+Z9 22
+U1 0
+U2 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD FEB
+PY 2018
+VL 227
+BP 48
+EP 55
+DI 10.1016/j.jad.2017.10.022
+PG 8
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA FV1LP
+UT WOS:000424323600008
+PM 29053975
+OA Green Accepted, hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Samuel, K
+   Alkire, S
+   Zavaleta, D
+   Mills, C
+   Hammock, J
+AF Samuel, Kim
+   Alkire, Sabina
+   Zavaleta, Diego
+   Mills, China
+   Hammock, John
+TI Social isolation and its relationship to multidimensional poverty
+SO OXFORD DEVELOPMENT STUDIES
+LA English
+DT Article
+ID PROPOSAL; SUICIDE; POLICY; DISABILITY; INUIT
+AB While the multidimensionality of poverty is well-recognised, one dimension of poverty which has been often overlooked is weak social connectedness. This paper draws on conceptual, participatory and measurement literatures to show that social connectedness appears to be an important missing ingredient of multidimensional poverty analyses, with social isolation being a feature which exacerbates the condition of poor persons. To provide contextual detail as to its impact on persons in marginalized communities, we present qualitative primary data from South Africa and Mozambique and review pertinent studies of the First Nations of Canada and among persons with disability. A policy challenge for social isolation is that it is often seen as stemming from an individuals' capacity rather than resulting from the broader social context. The closing section outlines areas for policy.
+C1 [Samuel, Kim] Univ Oxford, Oxford Dept Int Dev, Oxford Poverty & Human Dev Initiat, Queen Elizabeth House, Oxford, England.
+   [Alkire, Sabina; Zavaleta, Diego; Hammock, John] Univ Oxford, Oxford Poverty & Human Dev Initiat, Queen Elizabeth House, Oxford, England.
+   [Mills, China] Univ Sheffield, Sch Educ, Sheffield, S Yorkshire, England.
+C3 University of Oxford; University of Oxford; University of Sheffield
+RP Alkire, S (corresponding author), Univ Oxford, Oxford Poverty & Human Dev Initiat, Queen Elizabeth House, Oxford, England.
+EM ophi@qeh.ox.ac.uk
+OI mills, china/0000-0003-0615-234X
+NR 80
+TC 44
+Z9 50
+U1 2
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1360-0818
+EI 1469-9966
+J9 OXF DEV STUD
+JI Oxf. Dev. Stud.
+PY 2018
+VL 46
+IS 1
+BP 83
+EP 97
+DI 10.1080/13600818.2017.1311852
+PG 15
+WC Development Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Development Studies
+GA GB8OG
+UT WOS:000429334600008
+OA Green Submitted, Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-05
+ER
+
+PT J
+AU Müller, A
+   Spencer, S
+   Meer, T
+   Daskilewicz, K
+AF Muller, Alex
+   Spencer, Sarah
+   Meer, Talia
+   Daskilewicz, Kristen
+TI The no-go zone: a qualitative study of access to sexual and reproductive
+   health services for sexual and gender minority adolescents in Southern
+   Africa
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Adolescents; Sexual and reproductive health and rights; Sexual and
+   gender minorities; HIV; Service provision; Heteronormativity;
+   Criminalisation; Stigma; Southern Africa; LGBT
+ID RISK; CARE; ORIENTATION; POPULATION; MORTALITY; SUICIDE; YOUTH; STEP;
+   MEN; GAY
+AB Background: Adolescents have significant sexual and reproductive health needs. However, complex legal frameworks, and social attitudes about adolescent sexuality, including the values of healthcare providers, govern adolescent access to sexual and reproductive health services. These laws and social attitudes are often antipathetic to sexual and gender minorities. Existing literature assumes that adolescents identify as heterosexual, and exclusively engage in (heteronormative) sexual activity with partners of the opposite sex/gender, so little is known about if and how the needs of sexual and gender minority adolescents are met.
+   Methods: In this article, we have analysed data from fifty in-depth qualitative interviews with representatives of organisations working with adolescents, sexual and gender minorities, and/or sexual and reproductive health and rights in Malawi, Mozambique, Namibia, Zambia and Zimbabwe.
+   Results: Sexual and gender minority adolescents in these countries experience double-marginalisation in pursuit of sexual and reproductive health services: as adolescents, they experience barriers to accessing LGBT organisations, who fear being painted as "homosexuality recruiters," whilst they are simultaneously excluded from heteronormative adolescent sexual and reproductive health services. Such barriers to services are equally attributable to the real and perceived criminalisation of consensual sexual behaviours between partners of the same sex/gender, regardless of their age.
+   Discussion/conclusion: The combination of laws which criminalise consensual same sex/gender activity and the social stigma towards sexual and gender minorities work to negate legal sexual and reproductive health services that may be provided. This is further compounded by age-related stigma regarding sexual activity amongst adolescents, effectively leaving sexual and gender minority adolescents without access to necessary information about their sexuality and sexual and reproductive health, and sexual and reproductive health services.
+C1 [Muller, Alex; Spencer, Sarah; Meer, Talia; Daskilewicz, Kristen] Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+C3 University of Cape Town
+RP Müller, A (corresponding author), Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+EM alex.muller@uct.ac.za
+RI Spencer, Sarah/ABH-3813-2020; Spencer, Sarah/IAN-6514-2023
+OI Spencer, Sarah/0000-0002-7034-6387; Muller, Alex/0000-0002-3254-7591
+FU Ford Foundation
+FX This study was funded by Ford Foundation.
+NR 45
+TC 28
+Z9 28
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD JAN 25
+PY 2018
+VL 15
+AR 12
+DI 10.1186/s12978-018-0462-2
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FT7SX
+UT WOS:000423354300001
+PM 29370809
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+EF

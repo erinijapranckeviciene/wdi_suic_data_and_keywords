@@ -1,0 +1,67 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wilson, ML
+   Dunlavy, AC
+   Viswanathan, B
+   Bovet, P
+AF Wilson, Michael L.
+   Dunlavy, Andrea C.
+   Viswanathan, Bharathi
+   Bovet, Pascal
+TI Suicidal Expression among School-Attending Adolescents in a
+   Middle-Income Sub-Saharan Country
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE suicidal expression; adolescent; school health; sub-Saharan Africa
+ID ALCOHOL-CONSUMPTION; COPING STRATEGIES; AFRICAN-AMERICAN; IDEATION;
+   RISK; YOUTH; BEHAVIORS; LONELINESS; CHILDHOOD; SYMPTOMS
+AB We investigated correlates for suicidal expression among adolescents in the Seychelles. Data on 1,432 students (52% females) were derived from the Global School-based Health Survey. Participants were divided into three groups: those with no suicidal behavior (N = 1,199); those with suicide ideation/SI (N = 89); and those reporting SI with a plan to carry out a suicide attempt/SISP (N = 139), each within a 12-month recall period. Using multinomial logistic regression, we examined the strength of associations with social, behavioral and economic indicators while adjusting for covariates. Sixteen percent of school-attending adolescents reported a suicidal expression (10% with a plan/6.2% without). Those reporting SI were younger (relative risk ratio RRR = 0.81; CI = 0.68-0.96), indicated signs of depression (RRR = 1.69; CI = 1.05-2.72) and loneliness (RRR=3.36; CI = 1.93-5.84). Tobacco use (RRR = 2.34; CI = 1.32-4.12) and not having close friends (RRR = 3.32; CI = 1.54-7.15) were significantly associated with SI. Those with SISP were more likely to be female (RRR = 0.47; 0.30-0.74), anxious (RRR = 3.04; CI = 1.89-4.88) and lonely (RRR = 1.74; CI = 1.07-2.84). Having no close friends (RRR = 2.98; 1.56-5.69) and using tobacco (RRR = 2.41; 1.48-3.91) were also strongly associated. Having parents who were understanding was protective (RRR = 0.50; CI = 0.31-0.82). Our results suggest that school health promotion programs may benefit from targeting multiple factors associated with suicidal expression. More research, particularly multilevel designs are needed to identify peer and family influences which may modify associations with suicidality.
+C1 [Wilson, Michael L.; Dunlavy, Andrea C.] PeerCorps Trust Fund, Ctr Injury Prevent & Community Safety CIPCS, Dar Es Salaam, Tanzania.
+   [Viswanathan, Bharathi; Bovet, Pascal] Minist Hlth, Victoria, Seychelles.
+   [Bovet, Pascal] Lausanne Univ Hosp CHUV, Inst Social & Prevent Med IUMSP, CH-1010 Lausanne, Switzerland.
+C3 University of Lausanne; Centre Hospitalier Universitaire Vaudois (CHUV)
+RP Wilson, ML (corresponding author), PeerCorps Trust Fund, Ctr Injury Prevent & Community Safety CIPCS, POB 22499, Dar Es Salaam, Tanzania.
+EM michael.wilson@peercorpstrust.org; andrea.dunlavy@peercorpstrust.org;
+   barathi.viswanathan@health.gov.sc; pascal.bovet@chuv.ch
+RI Bovet, Pascal/F-4477-2011
+OI Bovet, Pascal/0000-0002-0242-4259
+FU Ministry of Health; Ministry of Education, Republic of Seychelles
+FX The authors thank the Ministry of Health and the Ministry of Education,
+   Republic of Seychelles, for their support for epidemiological and social
+   research; the Centers for Disease Control and Prevention (Atlanta, GA,
+   USA); and the World Health Organization (Geneva, Switzerland). We would
+   also like to thank all the survey officers and students who took part in
+   the study.
+NR 46
+TC 32
+Z9 32
+U1 0
+U2 12
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD NOV
+PY 2012
+VL 9
+IS 11
+BP 4122
+EP 4134
+DI 10.3390/ijerph9114122
+PG 13
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 041TH
+UT WOS:000311423600020
+PM 23202835
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+EF

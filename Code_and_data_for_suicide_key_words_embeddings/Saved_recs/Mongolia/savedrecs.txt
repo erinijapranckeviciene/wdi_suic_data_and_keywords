@@ -1,0 +1,305 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Qin, P
+   Du, ML
+   Wang, SB
+   Zhang, XG
+   Wang, YL
+   Yan, T
+   Li, LH
+   Xu, XQ
+   Zheng, HQ
+   Gao, LQ
+   Yu, D
+   Niu, MZ
+   Li, HW
+   Wu, RJ
+   Sun, J
+AF Qin Peng
+   Du Maolin
+   Wang Shubi
+   Zhang Xingguang
+   Wang Yanling
+   Yan Tao
+   Li Lehui
+   Xu Xiaoqian
+   Zheng Huiqiu
+   Gao Liqun
+   Yu Di
+   Niu Mingzhu
+   Li Hongwei
+   Wu Ruijie
+   Sun Juan
+TI The waterfall pattern of suicide mortality in Inner Mongolia for
+   2008-2015
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Mortality; Inner Mongolia
+ID CHINA
+AB Aim: This study aims to determine the characteristics and severity of suicide mortality in Inner Mongolia between 2008 and 2015.
+   Methods: The death data between 2008 and 2015 was collected from the Death Registry System,(1) and the suicide mortality were calculated. Suicide mortality for total of eight years and two periods (2008-2011 and 2012-2015) were tested by the X-2-test. Logistic regression analysis was used to test the risk of suicide between these two observation periods by gender and region. The age-specific suicide mortality was displayed through a semi-logarithmic line chart using Pearson's correlation coefficients. Then, the prohibited pesticides and proportion of organophosphorus pesticides were calculated.
+   Results: The suicide mortality (7.20/10(5)) in 2008-2011 was higher than the suicide mortality (4.84/10(5)) in 2012-2015 (X-2 = 62.28, P = 0.00). Intentional self-poisoning by and exposure to pesticides(2) and intentional self-harm by hanging(3) were the two main ways of suicide, accounting for nearly 80%. The all-cause suicide mortality increased with age (r = 0.837, P = 0.005) in 2008-2011 and (r = 0.863, P = 0.003) in 2012-2015, and suicide mortality was higher in males than in females.
+   Limitation The DRS did not provide the pesticides used by people who committed suicide by pesticide poisoning.
+   Conclusion: Suicide mortality dropped like a waterfall in Inner Mongolia between 2008 and 2015, and the most obvious drop was pesticide suicide.The general drop in suicide mortality, especially the drop in pesticide poisoning suicide mortality, may be attributable to social policies that benefited the residents and the prohibition of selected pesticides. Favorable policies can effectively decrease suicide mortality.
+C1 [Du Maolin; Zhang Xingguang; Wang Yanling; Yan Tao; Li Lehui; Xu Xiaoqian; Zheng Huiqiu; Gao Liqun; Yu Di; Niu Mingzhu; Li Hongwei; Wu Ruijie; Sun Juan] Inner Mongolia Med Univ, 5 Xinhua St, Hohhot, Inner Mongolia, Peoples R China.
+   [Qin Peng] Hohhot Minzu Coll, Hohhot, Inner Mongolia, Peoples R China.
+   [Wang Shubi] Tongliao City Hosp, Tongliao, Peoples R China.
+C3 Inner Mongolia Medical University
+RP Sun, J (corresponding author), Inner Mongolia Med Univ, 5 Xinhua St, Hohhot, Inner Mongolia, Peoples R China.
+EM yudi0723@126.com
+FU Inner Mongolia Medical University Students Innovation and
+   Entrepreneurship Program Training Project Autonomous Region
+   [201810132010]; Natural Science Foundation of Inner Mongolia, China
+   [2016MS0821, 2016MS0828]
+FX The study was supported by the Inner Mongolia Medical University
+   Students Innovation and Entrepreneurship Program Training Project
+   Autonomous Region. (No. 201810132010) and the Natural Science Foundation
+   of Inner Mongolia, China (No. 2016MS0821) and (No. 2016MS0828). These
+   funding source had no role in the execution of the study, the analyses,
+   interpretation of the data, decision to publish, or preparation of the
+   manuscript.
+NR 15
+TC 3
+Z9 3
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD SEP 1
+PY 2019
+VL 256
+BP 331
+EP 336
+DI 10.1016/j.jad.2019.05.057
+PG 6
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA JF4JQ
+UT WOS:000491354400042
+PM 31202987
+DA 2023-12-07
+ER
+
+PT J
+AU Bohannon, J
+AF Bohannon, John
+TI Climate change - The big thaw reaches Mongolia's Pristine North
+SO SCIENCE
+LA English
+DT News Item
+AB Mongolia, has been warming more than twice as fast as the global average. Global warming is not a uniform process and unique ecosystems are feeling the heat. The grasslands are on the verge of ecological collapse. The worst weather condition is the dreaded dzud, an ice crust that forms over vegetation when rain freezes. The livestock losses spurred a wave of suicides among herders. Climate change is a serious problem in Mongolia, although Mongolians enjoy one of the highest literacy rates in the world.
+NR 0
+TC 18
+Z9 18
+U1 1
+U2 30
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+J9 SCIENCE
+JI Science
+PD FEB 1
+PY 2008
+VL 319
+IS 5863
+BP 567
+EP 568
+DI 10.1126/science.319.5863.567
+PG 2
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 257AQ
+UT WOS:000252772000014
+PM 18239105
+DA 2023-12-07
+ER
+
+PT J
+AU Davaasambuu, S
+   Batbaatar, S
+   Witte, S
+   Hamid, P
+   Oquendo, MA
+   Kleinman, M
+   Olivares, M
+   Gould, M
+AF Davaasambuu, Sarantsetseg
+   Batbaatar, Suvd
+   Witte, Susan
+   Hamid, Phillip
+   Oquendo, Maria A.
+   Kleinman, Marjorie
+   Olivares, Michael
+   Gould, Madelyn
+TI Suicidal Plans and Attempts Among Adolescents in Mongolia Urban Versus
+   Rural Differences
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; plans; attempts; adolescents; Mongolia
+ID KOREAN ADOLESCENTS; ANXIETY DISORDERS; YOUTH SUICIDE; IDEATION;
+   BEHAVIOR; DEPRESSION; CHINESE; PREVALENCE; PREDICTORS; GENDER
+AB Background: Although 75% of suicides occur in low-and middle-income countries, few studies have examined suicidal behaviors among young people in these countries. Aims: This study aimed to examine what individual characteristics were associated with suicidal plans and attempts among Mongolian youth and whether suicidal risks and behaviors varied by urban and rural locations. Method: Logistic regression analyses were utilized to investigate suicidal plans and attempts among 5,393 adolescents using the Global Student Health Survey-2013. Results: Adolescents who lived in urban areas were at higher risk for suicidal plans and behaviors than those who lived in rural areas; however, the patterns of suicidal risks were similar. Specifically, individual characteristics, such as being female, feeling lonely and worried, smoking cigarettes, drinking alcohol, and having fights at school, were associated with suicidal plans and behaviors regardless of the residential places. Limitations: A number of important variables have not been included in the questionnaire such as depression, family and parental support, household income, family constructs etc. Conclusion: Given the comparable patterns of risk between urban and rural adolescents and the relatively high rates of suicidal plans and attempts, similar mental health services and interventions are necessitated for both urban and rural areas.
+C1 [Davaasambuu, Sarantsetseg; Hamid, Phillip; Oquendo, Maria A.] Columbia Univ, Dept Psychiat Epidemiol, Global Mental Hlth Fellowship Program, New York, NY USA.
+   [Batbaatar, Suvd] Minist Hlth, Publ Hlth Inst, Ulaanbaatar, Mongolia.
+   [Witte, Susan] Columbia Univ, Sch Social Work, New York, NY USA.
+   [Oquendo, Maria A.] New York State Psychiat Inst & Hosp, Mol Imaging & Neuropathol Div, New York, NY 10032 USA.
+   [Oquendo, Maria A.] Columbia Univ, Dept Psychiat, New York, NY USA.
+   [Kleinman, Marjorie; Olivares, Michael; Gould, Madelyn] Columbia Univ, Epidemiol Psychiat, New York, NY USA.
+C3 Columbia University; Ministry of Health Mongolia; Columbia University;
+   New York State Psychiatry Institute; Columbia University; Columbia
+   University
+RP Davaasambuu, S (corresponding author), New York State Psychiat Inst & Hosp, 40 Haven,Unit 117, New York, NY 10032 USA.
+EM dsaraa@gmail.com
+RI Gould, Michael N/C-7414-2014; Oquendo, Maria/AAC-6237-2019
+OI Gould, Madelyn/0000-0002-2881-9152; Batbaatar, SUVD/0000-0003-3836-3053;
+   Davaasambuu, Sarantsetseg/0000-0002-2105-6121
+FU  [T32 MH096724]
+FX Sources of Financial Support: T32 MH096724
+NR 44
+TC 20
+Z9 20
+U1 0
+U2 4
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD SEP
+PY 2017
+VL 38
+IS 5
+BP 330
+EP 343
+DI 10.1027/0227-5910/a000447
+PG 14
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA FQ9EA
+UT WOS:000418664000006
+PM 28228061
+DA 2023-12-07
+ER
+
+PT J
+AU Altangerel, U
+   Liou, JC
+   Yeh, PM
+AF Altangerel, Uyanga
+   Liou, Jenn-Chang
+   Yeh, Pi-Ming
+TI Prevalence and Predictors of Suicidal Behavior Among Mongolian High
+   School Students
+SO COMMUNITY MENTAL HEALTH JOURNAL
+LA English
+DT Article
+DE High school students; Suicidal behavior; Mongolia
+ID RISK; ADOLESCENTS; IDEATION; CHILDREN; CHINESE; FAMILY; EVENTS
+AB The purpose of this study was to examine the prevalence and predictors of suicidal behavior among Mongolian high school students. Females were more likely to have suicidal behavior than males. No close friends, feelings of loneliness, insomnia, self perception of underweight or overweight, carrying a weapon were significant predictors of students' suicidal behavior. Missing school without permission, being bullied and going hungry were also important risk factors of suicidal ideation. Families and Schools are important environments to prevent high students' suicide. Improving students' psychological well being, quality of relationship with people, and support resources are critical to prevent suicidal behavior.
+C1 [Altangerel, Uyanga; Liou, Jenn-Chang] Asia Univ, Dept Healthcare Adm, Taichung 41354, Taiwan.
+   [Yeh, Pi-Ming] Missouri Western State Univ, Dept Nursing, Joseph, MO 64506 USA.
+C3 Asia University Taiwan
+RP Yeh, PM (corresponding author), Missouri Western State Univ, Dept Nursing, 3201 North 34th Terrace, Joseph, MO 64506 USA.
+EM uyanga_and_m@yahoo.com; jclth@asia.edu.tw; pimingyeh@yahoo.com
+NR 29
+TC 13
+Z9 15
+U1 1
+U2 27
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0010-3853
+EI 1573-2789
+J9 COMMUNITY MENT HLT J
+JI Community Ment. Health J.
+PD APR
+PY 2014
+VL 50
+IS 3
+BP 362
+EP 372
+DI 10.1007/s10597-013-9657-8
+PG 11
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA AC7DN
+UT WOS:000332687500018
+PM 24282032
+DA 2023-12-07
+ER
+
+PT C
+AU Li, JP
+   Gan, JH
+   Chen, YM
+AF Li, Jinping
+   Gan, Jinhua
+   Chen, Yingming
+BE Liu, XH
+   Jiang, ZY
+   Han, JT
+TI Preparation of a Sulfate-based Complex Coagulant from Boiler Slag and
+   its Application in Domestic Sewage Treatment
+SO MANUFACTURING PROCESSES AND SYSTEMS, PTS 1-2
+SE Advanced Materials Research
+LA English
+DT Proceedings Paper
+CT International Conference on Advances in Materials and Manufacturing
+   Processes
+CY NOV 06-08, 2010
+CL Shenzhen, PEOPLES R CHINA
+SP Univ Wollongong, NE Univ, Univ Sci & Technol Beijing, Hebei Polytechn Univ, Hong Kong Ind Technol Res Ctr
+DE Boiler slag; Complex coagulant; Domestic sewage treatment; COD;
+   Turbidity
+AB This paper presents a new way of recycling aluminum and iron in boiler slag derived from coal combustion plants for the production of a sulfate-based complex coagulant containing ferric sulfate and aluminum sulfate. The boiler slag sample was determined for more complete characterization by means of scanning electron microscopy(SEM), X-ray diffraction(XRD), X-ray fluorescence(XRF) and other techniques. An analysis for the boiler slag sample collected from Baotou Steel Plant located in Inner Mongolia, PR China showed that the quantity of iron and aluminum oxides, in general, accounted for about 35% of the boiler slag. XRD analysis indicates that predominate minerals such as kaolinite, quartz, calcium suicide, hematate and metakoalin exist in this boiler slag. This boiler salg was evaluated to determine the efficiency of converting the iron and aluminum components of the material into a sulfate-based complex coagulant when heated with sulfuric acid at different temperatures and reaction times. The maximum concentrations of Fe3+ and Al3+ in the complex coagulant prepared from the boiler slag were obtained at 130 degrees C and after 3 h of reaction time. These concentrations were 0.04 M Fe3+ and 0.46 M Al3+, respectively. The corresponding conversion efficiencies of aluminum and iron were 66.2 and 95.0% in the boiler slag, respectively. Finally, the prepared sulfate-based complex coagulant proved to be an effective agent for reducing the turbidity and chemical oxygen demand(COD) of a typical domestic sewage sample.
+C1 [Li, Jinping] Wuhan Text Univ, Sch Environm & Urban Construct, Wuhan 430073, Peoples R China.
+   [Gan, Jinhua] Chinese Acad Fishery Sci, Yangtze River Res Inst, Jingzhou 434000, Peoples R China.
+C3 Wuhan Textile University; Chinese Academy of Fishery Sciences; Yangtze
+   River Water Resources Protection Bureau
+RP Li, JP (corresponding author), Wuhan Text Univ, Sch Environm & Urban Construct, Wuhan 430073, Peoples R China.
+EM steven_ljp@sina.com; Rabbit_gjh@sina.com; chen_yingming@126.com
+RI Li, Jin/GYQ-5363-2022
+NR 22
+TC 1
+Z9 1
+U1 2
+U2 6
+PU TRANS TECH PUBLICATIONS LTD
+PI DURNTEN-ZURICH
+PA KREUZSTRASSE 10, 8635 DURNTEN-ZURICH, SWITZERLAND
+SN 1022-6680
+BN 978-0-87849-201-5
+J9 ADV MATER RES-SWITZ
+PY 2011
+VL 148-149
+BP 259
+EP +
+DI 10.4028/www.scientific.net/AMR.148-149.259
+PG 3
+WC Engineering, Manufacturing; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BUH88
+UT WOS:000289402400048
+DA 2023-12-07
+ER
+
+EF

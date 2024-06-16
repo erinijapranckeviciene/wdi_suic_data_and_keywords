@@ -1,0 +1,624 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Guillén, AI
+   Panadero, S
+   Rivas, E
+   Vázquez, JJ
+AF Isabel Guillen, Ana
+   Panadero, Sonia
+   Rivas, Esther
+   Juan Vazquez, Jose
+TI Suicide attempts and stressful life events among female victims of
+   intimate partner violence living in poverty in Nicaragua
+SO SCANDINAVIAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE Suicide attempts; stressful life events; intimate partner violence;
+   developing country
+ID YOUTHS AGED 13; RISK-FACTORS; DOMESTIC VIOLENCE; CHILDHOOD ADVERSITIES;
+   WOMENS HEALTH; MENTAL-HEALTH; YOUNG-PEOPLE; ADOLESCENT; ABUSE; BEHAVIOR
+AB This article describes a study of 136 female intimate partner violence victims living in poverty in Nicaragua. The paper aimed to analyze the relationship between experiencing stressful life events (SLE) and perceived social support with suicide attempts, and to evaluate the differences in the SLE experienced by female suicide attempters versus non-attempters. The results showed the existence of a high level of SLE among the interviewees, and that women who have attempted suicide have experienced substantially more of these events. Experiences of violence and less social support were especially related to suicide attempts among the interviewees.
+C1 [Isabel Guillen, Ana; Panadero, Sonia] Univ Complutense Madrid, Area Psicol Clin, E-28040 Madrid, Spain.
+   [Rivas, Esther] Univ Alcala de Henares, Area Ciencias Educ, E-28871 Alcala De Henares, Spain.
+   [Juan Vazquez, Jose] Univ Alcala de Henares, Area Psicol Social, Madrid 28804, Spain.
+C3 Complutense University of Madrid; Universidad de Alcala; Universidad de
+   Alcala
+RP Vázquez, JJ (corresponding author), Univ Alcala de Henares, Area Psicol Social, C San Cirilo S-N, Madrid 28804, Spain.
+EM jj.vazquez@uah.es
+RI Guillén, Ana I./Y-8377-2019; Vázquez, José Juan/P-8896-2015; Panadero,
+   Sonia/F-3303-2016
+OI Guillén, Ana I./0000-0001-5738-0030; Vázquez, José
+   Juan/0000-0003-4601-1920; Panadero, Sonia/0000-0002-5470-0251; Rivas
+   Rivero, Esther/0000-0001-5092-1260
+NR 72
+TC 27
+Z9 28
+U1 0
+U2 18
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0036-5564
+EI 1467-9450
+J9 SCAND J PSYCHOL
+JI Scand. J. Psychol.
+PD JUN
+PY 2015
+VL 56
+IS 3
+BP 349
+EP 356
+DI 10.1111/sjop.12207
+PG 8
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA CH6ZQ
+UT WOS:000354185700013
+PM 25727343
+OA Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Rivas, E
+   Bonilla, E
+   Vázquez, JJ
+AF Rivas, Esther
+   Bonilla, Enrique
+   Vazquez, Jose J.
+TI Influence of the history of abuse and suicidal attempts behavior among
+   women victims of violence in Nicaragua
+SO JOURNAL OF COMMUNITY PSYCHOLOGY
+LA English
+DT Article
+DE nicaragua; poverty; suicide attempts; violence against women
+ID INTIMATE PARTNER VIOLENCE; STRESSFUL LIFE EVENTS; FAMILY-OF-ORIGIN;
+   DOMESTIC VIOLENCE; ADULT ATTACHMENT; MENTAL-DISORDERS; SEXUAL-ABUSE;
+   RISK-FACTOR; HEALTH; CHILD
+AB Suffering traumatic experiences linked to violence seems to be related to suicide attempts, especially, when the physical or sexual abuse has been experienced at an early age. This study examines the relationship between the history of abuse and suicide attempts among women victims of violence living in poverty in Nicaragua. This sample was subjected to a particularly serious range of stressful situations and experiences related to violence throughout their lives. The results show that women who experienced abuse during childhood were more likely to report a history of suicide attempts than women without a history of childhood abuse. Therefore, suicide attempts seem to be related more to those traumatic experiences during childhood than to violence suffered afterward. Identifying this type of abuse is particularly important because of its implications for the victims' health, as suicide attempts are maladaptive behaviors with which the women in the sample could have been addressing the trauma they experienced in their childhood. It is, therefore, necessary to highlight this problem in a developing country, which has been the focus of a limited number of studies, and where there are no support mechanisms for victims whose rights have been violated.
+C1 [Rivas, Esther; Bonilla, Enrique; Vazquez, Jose J.] Univ Alcala De Henares, Dept Social Psychol, Madrid 28801, Spain.
+C3 Universidad de Alcala
+RP Rivas, E (corresponding author), Univ Alcala De Henares, Dept Social Psychol, Madrid 28801, Spain.
+EM esther.rivas@uah.es
+RI Bonilla, Enrique/HJI-0819-2023; Vázquez, José Juan/P-8896-2015
+OI Vázquez, José Juan/0000-0003-4601-1920; Bonilla-Algovia,
+   Enrique/0000-0003-1667-1880
+NR 46
+TC 3
+Z9 4
+U1 1
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0090-4392
+EI 1520-6629
+J9 J COMMUNITY PSYCHOL
+JI J. Community Psychol.
+PD MAR
+PY 2020
+VL 48
+IS 2
+BP 387
+EP 397
+DI 10.1002/jcop.22260
+EA OCT 2019
+PG 11
+WC Public, Environmental & Occupational Health; Psychology,
+   Multidisciplinary; Social Work
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Psychology; Social Work
+GA KM6QW
+UT WOS:000492202200001
+PM 31614004
+DA 2023-12-06
+ER
+
+PT J
+AU Rodríguez, AH
+   Caldera, T
+   Kullgren, G
+   Renberg, ES
+AF Rodriguez, Andres Herrera
+   Caldera, Trinidad
+   Kullgren, Gunnar
+   Renberg, Ellinor Salander
+TI Suicidal expressions among young people in Nicaragua -: A
+   community-based study
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE suicidal expressions; adolescents; sociodemographic conditions; gender;
+   Nicaragua
+ID DELIBERATE SELF-HARM; GENERAL-POPULATION; HELP-SEEKING; BEHAVIOR;
+   IDEATION; RISK; RESILIENCY; ATTITUDES; AMERICAN; PATTERNS
+AB Background. Suicidal behaviour is a major public health problem among adolescents. In Nicaragua as well as in most other countries, young people aged 15-24 have the highest rate of attempted suicide according to hospital records. The aims of this study were to investigate self-reported life-weariness, death wishes, suicidal ideation, suicidal plans and suicide attempts (i.e. suicidal expressions) among young men and women in the community and to identify factors associated with suicidal expressions. Methods. The sample was derived from an established study base in the city of Leon, Nicaragua. From 352 randomly selected subjects aged 15-24 years, 278 individuals (145 males and 133 females) were interviewed using the Attitudes Towards Suicide (ATTS) questionnaire, including questions on suicidal expressions. Results. The overall 1-year prevalence of any suicidal expression was 44.8% among males and 47.4% among females. A suicide attempt in the past year was reported by 2.1% of males and 1.5% of females. There was no significant gender difference in reporting of the separate types of suicidal expressions, except for death wishes, where females reported higher prevalence (33.8% vs. 20.7%). Exposure to suicidal expressions among significant others was significantly associated with own serious suicidal expressions. The study failed to identify any association between suicidal expressions and sociodemographic factors such as poverty or educational level. Conclusions. The present study highlights that suicidal behaviour is a significant public health problem among young people in Nicaragua. The finding that suicidal behaviour among significant others appears to have a contagious effect on adolescents, needs to be addressed in the prevention of suicidal behaviour.
+C1 Umea Univ, Dept Clin Sci, Div Psychiat, WHO Collaborating Ctr, S-90185 Umea, Sweden.
+   Univ Leon, Dept Prevent Med & Publ Hlth, Leon, Nicaragua.
+   Univ Leon, Dept Mental Hlth, Leon, Nicaragua.
+   Ctr Demog & Hlth Res, Leon, Nicaragua.
+C3 World Health Organization; Umea University
+RP Rodríguez, AH (corresponding author), Umea Univ, Dept Clin Sci, Div Psychiat, WHO Collaborating Ctr, S-90185 Umea, Sweden.
+EM ellinor.salander.renberg@psychiat.umu.se
+NR 33
+TC 15
+Z9 20
+U1 0
+U2 7
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD SEP
+PY 2006
+VL 41
+IS 9
+BP 692
+EP 697
+DI 10.1007/s00127-006-0083-x
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 083CF
+UT WOS:000240432800003
+PM 16752049
+DA 2023-12-06
+ER
+
+PT J
+AU Caldera, T
+   Herrera, A
+   Renberg, ES
+   Kullgren, G
+AF Caldera, T
+   Herrera, A
+   Renberg, ES
+   Kullgren, G
+TI Parasuicide in a low-income country: results from three-year hospital
+   surveillance in Nicaragua
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE hospital surveillance; Nicaragua; parasuicide; seasonal pattern;
+   sociodemographic characteristics
+ID ATTEMPTED-SUICIDE; MENTAL-DISORDERS; SEX-DIFFERENCES; DEPRESSION;
+   EUROPE; TRENDS; WOMEN; ABUSE; VICTIMIZATION; ADOLESCENCE
+AB Aims: A study was undertaken to assess the incidence of parasuicide in Nicaragua, to identify groups at risk, and to describe the characteristics of parasuicides, such as methods used and seasonal and diurnal patterns. Method: All hospital-admitted parasuicide cases in the area of Leon, Nicaragua, were assessed over a three-year period using standardized instruments. Results: Two hundred and thirty-three parasuicide cases were identified in the catchment area giving a parasuicide rate of 66.3/100,000 inhabitants per year based on the population 10 years and older. Corresponding figure for 15 years and older was 71.3. A majority were females (68.8%), who were significantly younger than the males (mean 20.8 years vs. mean 24.6 years). The highest rates were found in the age group 15-19 years with a female rate three times higher than the male rate (302.9 vs. 98.9). Pesticides, a highly lethal substance, were used as method in 19.1% of the attempts. Consistent seasonal variation with peaks in May-June and September-October were found over the years. Among parasuicide cases, 46.5% had been in contact with the healthcare system within 6 months before attempting suicide. Conclusions: Parasuicides represent a significant health problem among young people in Nicaragua. Preventive efforts should be directed especially towards the life situation for young girls, limitation of availability of suicide means, increased awareness in schools concerning suicidal problems, as well as improved management of patients with mental health problems within primary healthcare.
+C1 Umea Univ, Dept Clin Sci, Div Psychiat, WHO,Collaborating Ctr, S-90185 Umea, Sweden.
+   Univ Leon, Dept Mental Hlth, UNAN, E-24071 Leon, Spain.
+   Univ Leon, Dept Prevent Med & Publ Hlth, UNAN, E-24071 Leon, Spain.
+C3 Umea University; World Health Organization; Universidad de Leon;
+   Universidad de Leon
+RP Caldera, T (corresponding author), Umea Univ, Dept Clin Sci, Div Psychiat, WHO,Collaborating Ctr, S-90185 Umea, Sweden.
+EM ellinor.salander.renberg@psychiat.umu.se
+NR 29
+TC 17
+Z9 17
+U1 0
+U2 11
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD OCT
+PY 2004
+VL 32
+IS 5
+BP 349
+EP 355
+DI 10.1080/14034940410029496
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 858SX
+UT WOS:000224213200005
+PM 15513667
+DA 2023-12-06
+ER
+
+PT J
+AU Herrera, A
+   Dahlblom, K
+   Dahlgren, L
+   Kullgren, G
+AF Herrera, A
+   Dahlblom, K
+   Dahlgren, L
+   Kullgren, G
+TI Pathways to suicidal behaviour among adolescent girls in Nicaragua
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE suicidal behaviour; adolescent girls; Nicaragua; perceived causes of
+   suicide; grounded theory; content analysis
+ID SEXUAL-ABUSE; PARASUICIDE; CHILDHOOD; STRESS
+AB Adolescent girls are the most frequent suicide attempters worldwide. However, there is little knowledge about pathways leading to suicidal behaviour among young people, in particular in low-income countries. This study explores the motives and processes related to suicidal behaviour among young girls in Nicaragua. Individual in-depth interviews were conducted with eight girls aged between 12 and 19 admitted to hospital after attempting suicide. The audio-taped interviews lasted 2-4 h and were transcribed, translated into English and coded for content. Grounded theory and content analysis were used to construct a theory of the mechanisms behind their suicidal behaviour.
+   A tentative model exploring pathways to suicidal behaviour is described with four main categories: structuring conditions, triggering events, emotions and actions taken. The model illustrates the dialectic interplay between structure and actions taken. Actions taken were categorized as problem solving or various forms of escape where failure with either of these strategies resulted in a suicide attempt.
+   Dysfunctional families, absent fathers and lack of integration into society were some of the structuring conditions that lead to emotional distress. Abuse, deaths in the family, break-up with boyfriends or suicide among friends acted as triggering events. A striking finding was the obvious narrative competence of the girls.
+   Our findings indicate that suicide prevention programmes for young people must offer support from professionals, independent of their family and social networks. Institutions in the community in contact with young people with suicidal behaviour must develop communicative skills to offer a trusting environment mobilising the resources that young people have. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Umea Univ, Dept Publ Hlth & Clin Med, Div Epidemiol & Publ Hlth Sci, Umea, Sweden.
+   Univ Leon, Dept Prevent Med & Publ Hlth, Leon, Nicaragua.
+   Univ Leon, Dept Mental Hlth, Leon, Nicaragua.
+   Umea Univ, Dept Clin Sci, Div Psychiat, Umea, Sweden.
+   Umea Univ, Dept Sociol, Umea, Sweden.
+C3 Umea University; Umea University; Umea University
+RP Dahlblom, K (corresponding author), Umea Univ, Dept Publ Hlth & Clin Med, Div Epidemiol & Publ Hlth Sci, Umea, Sweden.
+EM Kjerstin.Dahlblom@epiph.umu.se
+NR 23
+TC 41
+Z9 47
+U1 0
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD FEB
+PY 2006
+VL 62
+IS 4
+BP 805
+EP 814
+DI 10.1016/j.socscimed.2005.06.055
+PG 10
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 017WE
+UT WOS:000235723200002
+PM 16098648
+DA 2023-12-06
+ER
+
+PT J
+AU Medina, CO
+   Jegannathan, B
+   Dahlblom, K
+   Kullgren, G
+AF Medina, Claudia Obando
+   Jegannathan, Bhoomikumar
+   Dahlblom, Kjerstin
+   Kullgren, Gunnar
+TI Suicidal expressions among young people in Nicaragua and Cambodia: a
+   cross-cultural study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicidal expressions; Adolescents; Young People Cross-cultural
+   comparison; Nicaragua and Cambodia
+ID YOUTH-SELF-REPORT; ADOLESCENTS; BEHAVIOR; RISK; SURVEILLANCE;
+   RELIGIOSITY; CHALLENGES; ATTITUDES; TRAUMA; HEALTH
+AB Background: Whereas prevalence of suicidal expressions among young people is fairly similar in different countries, less is known about associated risk factors. This study compares young people in Nicaragua and Cambodia to examine if the pattern of association between mental health problems and suicidal expressions differs.
+   Methods: 368 and 316 secondary school students, from each country respectively, participated. Self-reported suicidal expressions, exposure to suicidal behavior in significant others and mental health problems among the students were measured using Attitude Towards Suicide (ATTS) and the Youth Self-Report (YSR) questionnaires.
+   Results: Prevalence of serious suicidal expressions (plans and attempts) during recent year, did not differ between countries. Cambodian young people scored significantly higher on all eight YSR-syndromes, except for withdrawn/depressed. In Nicaragua, all YSR-syndromes were significantly associated with serious suicidal expressions in both genders compared to Cambodia where only one syndrome showed an association in each gender; Withdrawn/depressed among girls and Somatic complaints among boys. Associations between being exposed to suicide among significant others and serious suicidal expressions also differed between Cambodia and Nicaragua.
+   Conclusions: While the magnitude of serious suicidal expressions is similar between these structurally similar but culturally different countries, determinants behave differently. Qualitative studies are warranted to further explore cultural specific determinants for suicidal expressions among young people.
+C1 [Kullgren, Gunnar] Umea Univ, Dept Clin Sci, Div Psychiat, SE-90187 Umea, Sweden.
+   [Medina, Claudia Obando] Nicaraguan Natl Autonomous Univ, Ctr Demog & Hlth Res, Leon, Nicaragua.
+   [Jegannathan, Bhoomikumar] CCAMH, Takhmau, Cambodia.
+   [Dahlblom, Kjerstin] Umea Univ, Dept Publ Hlth & Clin Med, Div Epidemiol & Global Hlth, SE-90185 Umea, Sweden.
+C3 Umea University; Umea University
+RP Kullgren, G (corresponding author), Umea Univ, Dept Clin Sci, Div Psychiat, SE-90187 Umea, Sweden.
+EM gunnar.kullgren@psychiat.umu.se
+FU Swedish International Development Cooperation Agency (SIDA)
+FX This study was supported by research grants from Swedish International
+   Development Cooperation Agency (SIDA).
+NR 37
+TC 15
+Z9 16
+U1 0
+U2 11
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAR 31
+PY 2012
+VL 12
+AR 28
+DI 10.1186/1471-244X-12-28
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 950RZ
+UT WOS:000304667800001
+PM 22463077
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-06
+ER
+
+PT J
+AU Ji, NJ
+   Hong, YP
+   Lee, WY
+AF Ji, Nam-Ju
+   Hong, Yeon-Pyo
+   Lee, Weon-Young
+TI Comprehensive psychometric examination of the attitudes towards suicide
+   (ATTS) in South Korea
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH SYSTEMS
+LA English
+DT Article
+DE Attitude to death; Suicide; Reliability and validity; Prevention;
+   Instruments
+ID COLLEGE-STUDENTS; YOUNG-PEOPLE; BEHAVIOR; QUESTIONNAIRE; RELIABILITY;
+   EXPRESSIONS; POPULATION; NICARAGUA; NORWAY
+AB Background: The aim of this study is to examine the validity and reliability of the Korean version of attitudes towards suicide (ATTS) on a group of university students, which would contribute to the evaluation of the ATTS as a useful tool of measuring attitudes toward suicide in South Korea with very high suicide rates.
+   Methods: The subjects of the study were 195 undergraduates at Chung-Ang University, South Korea in 2013. The measure for assessing public attitudes towards suicide was ATTS made up of 34 items in English and the Korean version of it was produced by forward and backward translation procedure. To identify any factors unique to South Koreans' attitudes towards suicide, we applied exploratory factor analysis (EFA) to the data from 195 university students and was followed by confirmatory factor analysis (CFA) to assess construct validity of the Korean version. The internal consistency of the scale was assessed using Cronbach's a and the assessment of the test-retest reliability was performed by intraclass correlation coefficients.
+   Results: On the EFA analysis, were excluded, the tool had 11 factors (32 items), accounting for 62.99 % of the total variance in participants' responses. CFA failed to support 11-factor model of the scale. Six out of 11 factors were acceptable in terms of both internal consistency and test-retest reliability.
+   Conclusions: Six factors of the Korean version of the ATTS had acceptable content validity and reliability. However, on the whole, it did not have good construct validity and thus further investigations are needed to develop a scale measuring true public attitudes toward suicide in South Korea.
+C1 [Ji, Nam-Ju; Hong, Yeon-Pyo; Lee, Weon-Young] Chung Ang Univ, Dept Prevent Med, Coll Med, Seoul 156756, South Korea.
+C3 Chung Ang University; Chung Ang University Hospital
+RP Lee, WY (corresponding author), Chung Ang Univ, Dept Prevent Med, Coll Med, 84 Heukseok Ro, Seoul 156756, South Korea.
+EM wylee@cau.ac.kr
+FU Ministry of Health and Welfare, Republic of Korea [13-16]
+FX We would like to acknowledge the contributions made by Seung Mi Yun and
+   Kun Kwak in data collection and handling and editing articles. The
+   comments from two reviewers have been found to be useful in improving
+   the revised version of the paper. The authors would like to thank
+   students for their participation in this study. We'd like to give Dr
+   Renberg many thanks for permission to use the original version of ATTS.
+   This study was supported by the Health Promotion Fund of the Ministry of
+   Health and Welfare, Republic of Korea (Code 13-16).
+NR 29
+TC 9
+Z9 9
+U1 0
+U2 10
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-4458
+J9 INT J MENT HEALTH SY
+JI Int. J. Ment. Health Syst.
+PD JAN 16
+PY 2016
+VL 10
+DI 10.1186/s13033-016-0035-0
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DA8KV
+UT WOS:000368054400001
+PM 26779283
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Vázquez, JJ
+   Panadero, S
+   Rincón, PP
+AF Juan Vazquez, Jose
+   Panadero, Sonia
+   Paz Rincon, Paulina
+TI Stressful Life Events and Suicidal Behaviour in Countries with Different
+   Development Levels: Nicaragua, El Salvador, Chile and Spain
+SO JOURNAL OF COMMUNITY & APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE stressful life events; suicide; Latin-America; low-income countries
+ID RISK-FACTORS; PSYCHOPATHOLOGY; SURVEILLANCE; DISORDER
+AB This paper presents a study conducted on 709 Latin American undergraduates from four countries with different development levels (Nicaragua, El Salvador, Chile and Spain). The intention of this paper is to value the differences in the number and characteristics of stressful life events (SLE) suffered by the participants. Another purpose is to confirm the relation between SLE and suicidal conduct in Spanish cultural contexts, through the study of a multicultural sample of Spanish-speaking university students, and finally, to isolate the SLE that allow predicting a later suicidal conduct to a greatest extent. The information was collected by means of a self-applied questionnaire. The results indicate a greater presence of SLE among those who live in countries with lower development levels and among those who have attempted committing suicide. It is observed that the fact of having suffered certain SLE physical or sexual mistreatment, excessive alcohol or drug consumption and having left home during childhood or adolescence aid in the prediction of later suicidal conducts in the studied samples. Copyright (C) 2010 John Wiley & Sons, Ltd.
+C1 [Juan Vazquez, Jose] Univ Alcal, Area Psicol Social, Dept Psicopedag, Fac Documentac & Psicopedag, Madrid 28001, Spain.
+   [Panadero, Sonia] Univ Complutense Madrid, E-28040 Madrid, Spain.
+   [Paz Rincon, Paulina] Univ Concepcion, Concepcion, Chile.
+C3 Universidad de Alcala; Complutense University of Madrid; Universidad de
+   Concepcion
+RP Vázquez, JJ (corresponding author), Univ Alcal, Area Psicol Social, Dept Psicopedag, Fac Documentac & Psicopedag, C San Cirilo S-N, Madrid 28001, Spain.
+EM jj.vazquez@uah.es
+RI Panadero, Sonia/F-3303-2016; Vázquez, José Juan/P-8896-2015
+OI Panadero, Sonia/0000-0002-5470-0251; Vázquez, José
+   Juan/0000-0003-4601-1920
+NR 33
+TC 20
+Z9 22
+U1 0
+U2 16
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1052-9284
+EI 1099-1298
+J9 J COMMUNITY APPL SOC
+JI J. Community Appl. Soc. Psychol.
+PD JUL-AUG
+PY 2010
+VL 20
+IS 4
+BP 288
+EP 298
+DI 10.1002/casp.1036
+PG 11
+WC Psychology, Social
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 619WD
+UT WOS:000279460100004
+DA 2023-12-06
+ER
+
+PT J
+AU Murray, D
+   Wesseling, C
+   Keifer, M
+   Corriols, M
+   Henao, S
+AF Murray, D
+   Wesseling, C
+   Keifer, M
+   Corriols, M
+   Henao, S
+TI Surveillance of pesticide-related illness in the developing world:
+   Putting the data to work
+SO INTERNATIONAL JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE pesticide poisoning; pesticide illness; surveillance; developing
+   countries; Central America; pesticide policy
+ID DEVELOPING-COUNTRIES; FIREARM AVAILABILITY; POISONINGS; NICARAGUA;
+   HOMICIDE; SUICIDE; SYSTEMS
+AB With PLAGSALUD support, pesticide illness surveillance has extended to all seven Central American countries, producing 7,000 poisoning reports in 2000, but governments' use of the surveillance data has been limited by inadequacies of data management, interpretation, an reporting and an influential pesticide industry in weak economies. Overrepresented reports of suicides minimize occupational hazards. In six countries, 32,245 questionnaire responses indicated 98% underreporting of pesticide poisonings and a regional estimate of 400,000 poisonings per year (1.9% of the population), 76% work-related. A potentially far-reaching measure to come out of this surveillance is an agreement of the ministers of health of Central America and the Dominican Republic (RESSCAD 2000) for a harmonized list of banned and restricted pesticides, including the 12 most frequently reported. The RESSCAD agreement has met considerable resistance from industry. Its achievement versus failure will disclose the ability of Central American governments to prioritize protection of human health against commercial corporate interests. Surveillance data have potential for policy reform, but a more aggressive health sector is needed, linked with the environmental sector, grass-roots organizations, and universities.
+C1 Colorado State Univ, Dept Sociol, Ft Collins, CO 80523 USA.
+   Univ Washington, Int Scholars Occupat & Environm Hlth, Seattle, WA 98195 USA.
+C3 Colorado State University; University of Washington; University of
+   Washington Seattle
+RP Murray, D (corresponding author), Colorado State Univ, Dept Sociol, Ft Collins, CO 80523 USA.
+EM dmurray@lamar.colostate.edu
+RI Corriols, Marianela/AAJ-9511-2020
+OI Wesseling, Catharina/0000-0001-5523-9981
+FU FIC NIH HHS [3D43TW00642-0551] Funding Source: Medline
+NR 41
+TC 41
+Z9 43
+U1 0
+U2 8
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1077-3525
+EI 2049-3967
+J9 INT J OCCUP ENV HEAL
+JI Int. J. Occup. Environ. Health
+PD JUL-SEP
+PY 2002
+VL 8
+IS 3
+BP 243
+EP 248
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 595DN
+UT WOS:000178091700009
+PM 12358080
+DA 2023-12-06
+ER
+
+PT J
+AU Bastiaensen, J
+   Marchetti, P
+   Mendoza, R
+   Pérez, F
+AF Bastiaensen, Johan
+   Marchetti, Peter
+   Mendoza, Rene
+   Perez, Francisco
+TI After the Nicaraguan Non-Payment Crisis: Alternatives to Microfinance
+   Narcissism
+SO DEVELOPMENT AND CHANGE
+LA English
+DT Article
+AB This article argues against microfinance narcissism' and calls for a re-politicization of the microfinance paradigm. The dominant verdict on microcredit has undergone a damning transformation, from magic bullet for poverty reduction' to cause of suicide'. Nowadays, both radical critics and mainstream voices deplore microcredit's negative impact on micro-entrepreneurs. They argue for a reorientation where credit is targeted at established small and medium-sized enterprises, particularly in rural areas. The crisis in microfinance worldwide, including burgeoning protests, are viewed as proof of the commercial derailment and/or misplaced faith in microfinance's positive social and economic impact on the poor. This article engages with this debate through a study of the Nicaraguan micro-finance crisis. It challenges existing analyses that pin the crisis on agricultural over-indebtedness, lack of due diligence, or Sandinista populist politics. Illustrating the dangers of neglecting the diverse nature of microfinance, it reveals the paradoxical outcomes of the crisis: a refocus on the urban at the expense of agricultural credit for small and medium enterprises and a consolidation of the power of national processing elites. Nicaragua's Non-Payment Movement is also shown to be both a product of elite manipulation and an expression of legitimate resistance to an industry that turns a blind eye to the manner in which markets and politics constrain clients' potential.
+C1 [Bastiaensen, Johan; Mendoza, Rene] Univ Antwerp, Inst Dev Policy & Management IOB, B-2000 Antwerp, Belgium.
+   [Marchetti, Peter] Rafael Landivar Univ, Lomas Ciudad Vieja Dos, Guatemala.
+   [Mendoza, Rene; Perez, Francisco] Cent Amer Univ UCA, Inst Nitlapan, Managua, Nicaragua.
+C3 University of Antwerp; Universidad Rafael Landivar
+RP Bastiaensen, J (corresponding author), Univ Antwerp, Inst Dev Policy & Management IOB, Prinsstr 13, B-2000 Antwerp, Belgium.
+EM Johan.bastiaensen@ua.ac.be; pmarchettiraph@gmail.com;
+   rmvidaurre@gmail.com; fjpsjino@gmail.com
+RI Perez, Francisco J./AAZ-5708-2021
+NR 35
+TC 15
+Z9 18
+U1 0
+U2 45
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-155X
+J9 DEV CHANGE
+JI Dev. Change
+PD JUL
+PY 2013
+VL 44
+IS 4
+BP 861
+EP 885
+DI 10.1111/dech.12046
+PG 25
+WC Development Studies
+WE Social Science Citation Index (SSCI)
+SC Development Studies
+GA 174WI
+UT WOS:000321187200002
+DA 2023-12-06
+ER
+
+EF

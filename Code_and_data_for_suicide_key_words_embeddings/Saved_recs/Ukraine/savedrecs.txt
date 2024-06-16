@@ -1,0 +1,1321 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yur'yev, A
+   Yur'yeva, L
+AF Yur'yev, Andriy
+   Yur'yeva, Lyudmyla
+TI Suicide mortality at time of armed conflict in Ukraine
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+AB The purpose of this review is to explore the dynamics of suicide mortality rates in Ukraine during an ongoing armed conflict between 2014 and 2015. Suicide mortality data were obtained by reviewing annual analytical releases from the State Service for Emergent Situations of Ukraine and annual release of Russian Federal Service of State Statistics. Suicide mortality in mainland Ukraine and in the Crimea region demonstrated a mild decrease, whereas suicide mortality in the regions directly involved in the armed conflict demonstrated a prominent decrease. The results of this review support Durkheim theory. The limitation of this review includes general concern about quality of data at time of armed conflict in the country.
+C1 [Yur'yev, Andriy] New York Med Coll, Westchester Med Ctr, Dept Psychiat, Valhalla, NY 10595 USA.
+   [Yur'yeva, Lyudmyla] Dnepropetrovsk State Med Acad, Dept Psychiat, Dnepropetrovsk, Ukraine.
+C3 New York Medical College; Westchester Medical Center; Dnipro State
+   Medical University
+RP Yur'yev, A (corresponding author), Westchester Med Ctr, Child & Adolescent Psychiat Div, Dept Psychiat, Behav Hlth Ctr, 100 Woods Rd, Valhalla, NY 10595 USA.
+EM aeyuryev@gmail.com
+RI Yuryeva, Lyudmyla/AAF-9051-2020
+OI Yuryeva, Lyudmyla/0000-0002-1713-1037
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD DEC
+PY 2015
+VL 25
+IS 6
+BP 1069
+EP 1070
+DI 10.1093/eurpub/ckv188
+PG 2
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CZ5TC
+UT WOS:000367163900030
+PM 26420846
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Bromet, EJ
+   Havenaar, JM
+   Tintle, N
+   Kostyuchenko, S
+   Kotov, R
+   Gluzman, S
+AF Bromet, Evelyn J.
+   Havenaar, Johan M.
+   Tintle, Nathan
+   Kostyuchenko, Stanislav
+   Kotov, Roman
+   Gluzman, Semyon
+TI Suicide ideation, plans and attempts in Ukraine: findings from the
+   Ukraine World Mental Health Survey
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+ID FINNISH GENERAL-POPULATION; CHERNOBYL CLEANUP WORKERS; COMMUNITY SAMPLE;
+   RISK; PREVALENCE; DISORDERS; BEHAVIOR; EPIDEMIOLOGY; MORTALITY; SMOKING
+AB Background. Because the suicide rates in Eastern Europe have increased, the epidemiology of suicide behaviors in this part of the world is in urgent need of study. Using data from the Ukraine site of the World Mental Health (WMH) Survey Initiative, we present the first population-based findings from a former Soviet country on the descriptive epidemiology of suicide ideation, plans and attempts, and their links to current functioning and service utilization.
+   Method. In 2002, a nationally representative sample of 4725 adults in Ukraine was interviewed with the World Health Organization (WHO) Composite International Diagnostic Interview (CIDI). Risk factors included demographic characteristics, trauma, smoking, and parental and personal psychiatric disorders. Current functional impairments and recent service utilization were assessed.
+   Results. The lifetime prevalence of suicide ideation was 8.2%. The average age of onset was 31. The key risk factors were female sex, younger age, trauma, parental depression, and prior alcohol, depressive and intermittent explosive disorders, especially the presence of co-morbidity. Ideators had poorer functioning and greater use of health services. One-third of ideators had a plan, and one-fifth made an attempt. Among ideators, young age, smoking and prior psychiatric disorders were risk factors for these behaviors.
+   Conclusions. Together with the increasing suicide rate, these results suggest that suicide intervention programs in Ukraine should focus on the generation of young adults under 30. The associations with co-morbidity, impairments in current functioning and greater service use indicate that a physician education program on suicidality should be comprehensive in scope and a public health priority in Ukraine.
+C1 SUNY Stony Brook, Dept Psychiat, Stony Brook, NY 11794 USA.
+   Vrije Univ Amsterdam, Med Ctr, Dept Psychiat, NL-1081 HV Amsterdam, Netherlands.
+   Hope Coll, Dept Math, Holland, MI 49423 USA.
+   Ukrainian Psychiat Assoc, Kiev, Ukraine.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Stony Brook; Vrije Universiteit Amsterdam; Hope College
+RP Bromet, EJ (corresponding author), SUNY Stony Brook, Dept Psychiat, Putnam Hall S Campus, Stony Brook, NY 11794 USA.
+EM evelyn.bromet@stonybrook.edu
+OI Tintle, Nathan/0000-0003-1447-9107
+FU FIC NIH HHS [R01 TW006481] Funding Source: Medline; NIDA NIH HHS [R01
+   DA016558] Funding Source: Medline; NIMH NIH HHS [R01 MH070884, MH61905,
+   R13 MH066849, R01 MH069864] Funding Source: Medline
+NR 48
+TC 27
+Z9 32
+U1 0
+U2 8
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD JUN
+PY 2007
+VL 37
+IS 6
+BP 807
+EP 819
+DI 10.1017/S0033291707009981
+PG 13
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 175YN
+UT WOS:000247050000004
+PM 17288636
+DA 2023-12-05
+ER
+
+PT J
+AU Razvodovsky, Y
+AF Razvodovsky, Y.
+TI Alcoholic psychoses and suicide trends in Russia, Belarus and Ukraine
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Razvodovsky, Y.] Grodno State Med Univ, Pathol Physiol, Grodno, BELARUS.
+C3 Grodno State Medical University
+RI Razvodovsky, Yury Evgeny/T-8445-2017
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD APR
+PY 2017
+VL 41
+SU S
+MA EW0856
+BP S401
+EP S401
+DI 10.1016/j.eurpsy.2017.02.470
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EZ8CQ
+UT WOS:000404952400282
+DA 2023-12-05
+ER
+
+PT J
+AU Kondrichin, SV
+   Lester, D
+AF Kondrichin, SV
+   Lester, D
+TI Correlates of regional suicide and cancer mortality rates
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+AB Regional mortality rates from cancer and suicide had similar social correlates in the Ukraine but not in the United States.
+C1 Stockton State Coll, Psychol Program, Pomona, NJ 08240 USA.
+C3 Stockton University
+RP Lester, D (corresponding author), Stockton State Coll, Psychol Program, Jimmie Leeds Rd,POB 195, Pomona, NJ 08240 USA.
+NR 3
+TC 5
+Z9 5
+U1 1
+U2 1
+PU PERCEPTUAL MOTOR SKILLS
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807 USA
+SN 0031-5125
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD OCT
+PY 2001
+VL 93
+IS 2
+BP 338
+EP 338
+DI 10.2466/PMS.93.6.338-338
+PG 1
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 500RK
+UT WOS:000172640400004
+PM 11769886
+DA 2023-12-05
+ER
+
+PT J
+AU Yur'yev, A
+   Yur'yeva, L
+   Värnik, P
+   Zinchenko, Y
+   Lumiste, K
+   Värnik, A
+AF Yur'yev, A.
+   Yur'yeva, L.
+   Vaernik, P.
+   Zinchenko, Y.
+   Lumiste, K.
+   Vaernik, A.
+TI COMPLEX ROLE OF RISK AND PROTECTIVE FACTORS ON SUICIDE MORTALITY IN
+   UKRAINE
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Yur'yev, A.; Vaernik, P.; Lumiste, K.; Vaernik, A.] Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Yur'yev, A.] ERSI Kliin, Tallinn, Estonia.
+   [Yur'yeva, L.] Dnepropetrovsk State Med Acad, Dept Psychiat, Postgrad Fac, Dnepropetrovsk, Ukraine.
+   [Zinchenko, Y.] Minist Publ Hlth Ukraine, Kiev, Ukraine.
+C3 Dnipro State Medical University
+RI Zinchenko, Yury P/F-4021-2012; Yuryeva, Lyudmyla/AAF-9051-2020
+OI Yuryeva, Lyudmyla/0000-0002-1713-1037
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2012
+VL 27
+SU 1
+MA P-636
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 977WL
+UT WOS:000306695401256
+DA 2023-12-05
+ER
+
+PT J
+AU Nordstrom, DL
+AF Nordstrom, D. L.
+TI Ukraine set to act on high suicide burden
+SO INJURY PREVENTION
+LA English
+DT Article
+ID FORMER SOVIET-UNION; HEALTH LIFE-STYLES; EPIDEMIOLOGY; RUSSIA;
+   STRATEGIES; DISORDERS
+AB Having survived multiple catastrophes in the 20th century, newly independent Ukraine now has some of the highest injury death rates in Europe. The nation's most common type of injury death is suicide, and its rate is one of Europe's and the world's highest. Alcohol abuse occurs in 20% of men, and major depression in 20% of women. Suicide is the leading cause of death in the Ukrainian Army, which has begun to recognize and address the problem. Mental health is one of three current priorities of the Ukrainian Ministry of Public Health. The government is developing a mental health policy and plan, with potential for prevention of suicide. A national university in the capital has created a graduate school of public health to build human capacity to prevent and control disease and injury.
+C1 Univ Wisconsin, Sch Publ Hlth, Dept Radiol, Madison, WI 53792 USA.
+C3 University of Wisconsin System; University of Wisconsin Madison
+RP Nordstrom, DL (corresponding author), Univ Wisconsin, Sch Publ Hlth, Dept Radiol, 600 Highland Av,E1-330, Madison, WI 53792 USA.
+EM Dnordstrom@UWHealth.org
+NR 25
+TC 6
+Z9 6
+U1 0
+U2 2
+PU B M J PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+J9 INJURY PREV
+JI Inj. Prev.
+PD AUG
+PY 2007
+VL 13
+IS 4
+BP 224
+EP 226
+DI 10.1136/ip.2007.015768
+PG 3
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 199IT
+UT WOS:000248690100008
+PM 17686929
+OA Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Mäkinen, IH
+AF Makinen, Ilkka Henrik
+TI Suicide mortality of Eastern European regions before and after the
+   Communist period
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE suicide; Eastern Europe; Poland; Russia; Ukraine
+ID FORMER USSR; RUSSIA
+AB The aim of this study was to investigate the spatial distribution of Eastern European suicide mortality both before and at the end of the Communist period, as well as the changes that occurred during this period.
+   Regional data on suicide mortality were collected from Czarist "European Russia" in 1910 and from the corresponding area in 1989. The distribution of suicide mortality was mapped at both points in time. Regional continuity over time was further studied with the help of geographical units specially constructed for this purpose.
+   In 1910, suicide mortality was found to be high in the northern Baltic provinces, in the urban parts of north and central Russia, the more urbanized parts of northern and western Poland, in east Ukraine, and in the northern Caucasus, while suicide rates were generally low in south Russia, Dagestan, and in southern Poland. In 1989, suicide mortality was highest in the Urals, the east Russian "ethnic" areas, and in southeast Russia. The rates were low in Poland, Moldavia, and in most of the northern Caucasus. The across-time analysis using specially constructed comparison units showed that the spatial distributions of suicide mortality in 19 10 and 1989 were not correlated with each other. Additional analyses pointed to a short-term consistency of regional patterns both in the 1900s-1920s and the 1980S-1990s.
+   The lack of regional continuity in suicide mortality in the area may imply an absence of strong and continuous regional cultures, or a strong influence of other factors, such as societal modernization, on suicide mortality. Suicide as an act changed its social nature during the Communist period, becoming more normal, and more equally distributed among social classes and geographical locations. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Sodertorn Univ Coll, Stockholm Ctr Hlth Societ Transit, Huddinge, Sweden.
+C3 Sodertorn University
+RP Mäkinen, IH (corresponding author), Sodertorn Univ Coll, Stockholm Ctr Hlth Societ Transit, Huddinge, Sweden.
+EM ilkka.makinen@sh.se
+NR 43
+TC 27
+Z9 29
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2006
+VL 63
+IS 2
+BP 307
+EP 319
+DI 10.1016/j.socscimed.2006.01.002
+PG 13
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 062GW
+UT WOS:000238933600003
+PM 16473447
+DA 2023-12-05
+ER
+
+PT J
+AU Yur'yev, A
+   Yur'yeva, L
+   Värnik, P
+   Lumiste, K
+   Värnik, A
+AF Yur'yev, Andriy
+   Yur'yeva, Lyudmyla
+   Vaernik, Peeter
+   Lumiste, Kaur
+   Vaernik, Airi
+TI The Complex Impact of Risk and Protective Factors on Suicide Mortality:
+   A Study of the Ukrainian General Population
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE structural equation model; Ukraine; suicide; risk factors; European
+   Social Survey; protective factors
+ID DRUG-ADDICTS; FORMER USSR; ALCOHOL; HEALTH
+AB This study assesses the complex impact of risk and protective factors on suicide mortality in the Ukrainian general population. Data on suicide rates and socioeconomic and medical factors were obtained from the Ukrainian State Statistical Office, WHO, and the European Social Survey. Structural equation modeling was used for data analysis. Religion and education were negatively associated with suicide. The relationship between drug addiction/alcoholism and suicide was positive. The association between urbanization and suicide mortality was negative. The relationship between gross regional product (GRP) and female suicide was slightly negative. Religiosity was the protective factor most strongly linked with suicide mortality followed by urbanization. The harmful role of drug addiction and alcoholism was confirmed. The role of education and GRP is controversial. No striking gender differences were found.
+C1 [Yur'yev, Andriy] Columbia Univ, Coll Phys & Surg, Harlem Hosp Ctr, New York, NY USA.
+   [Yur'yeva, Lyudmyla] Dnepropetrovsk State Med Acad, Dnepropetrovsk, Ukraine.
+   [Vaernik, Peeter; Vaernik, Airi] Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Vaernik, Peeter; Vaernik, Airi] Tallinn Univ, EE-10120 Tallinn, Estonia.
+   [Lumiste, Kaur] Univ Tartu, EE-50090 Tartu, Estonia.
+C3 Columbia University; Dnipro State Medical University; Tallinn
+   University; University of Tartu
+RP Yur'yev, A (corresponding author), Harlem Hosp Med Ctr, Dept Psychiat, 506 Lenox Ave, New York, NY 10037 USA.
+EM aeyuryev@gmail.com
+RI Yuryeva, Lyudmyla/AAF-9051-2020
+OI Yuryeva, Lyudmyla/0000-0002-1713-1037; Yur'yeva,
+   Lyudmyla/0000-0002-9556-3329
+FU European Community's Seventh Framework Programme (FP) OSPI-Europe
+   [223138]; Estonian Ministry of Social Affairs
+FX This research has received funding from the European Community's Seventh
+   Framework Programme (FP/2007-2013) OSPI-Europe under grant agreement No.
+   223138 and from the Estonian Ministry of Social Affairs.
+NR 46
+TC 5
+Z9 6
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PD APR 3
+PY 2015
+VL 19
+IS 2
+BP 249
+EP 259
+DI 10.1080/13811118.2015.1004471
+PG 11
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA CH6RR
+UT WOS:000354164200009
+PM 25706485
+DA 2023-12-05
+ER
+
+PT J
+AU Brainerd, E
+AF Brainerd, E
+TI Economic reform and mortality in the former Soviet Union: A study of the
+   suicide epidemic in the 1990s
+SO EUROPEAN ECONOMIC REVIEW
+LA English
+DT Article; Proceedings Paper
+CT 15th Annual Congress of the European-Economic-Association
+CY AUG 30-SEP 02, 2000
+CL BOLZANO, ITALY
+SP European Econom Assoc
+DE suicide; mortality; transition economies
+AB Male suicide rates in Russia, Belarus, Ukraine and the Baltic countries increased substantially in the early 1990s and are now the highest in the world. To what extent is this suicide epidemic explained by the macroeconomic instability experienced by these countries in that period? Fixed effects regressions across 22 transition economies indicate that male suicide rates are highly sensitive to the state of the macroeconomy, suggesting that the steep and prolonged declines in GDP in the western countries of the former Soviet Union may have been partly to blame for the suicide epidemic. Evidence also indicates that the general adult male mortality crisis in the region had a 'feedback' effect on suicide rates, with the loss of a spouse or friend - or declining life expectancy itself - contributing to rising suicide rates. Female suicide rates, in contrast, are insensitive to the state of the macroeconomy and are more strongly related to alcohol consumption. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Williams Coll, Dept Econ, Williamstown, MA 01267 USA.
+   Harvard Univ, Ctr Int Dev, Cambridge, MA 02138 USA.
+C3 Williams College; Harvard University
+RP Brainerd, E (corresponding author), Williams Coll, Dept Econ, Williamstown, MA 01267 USA.
+NR 15
+TC 111
+Z9 124
+U1 0
+U2 31
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0014-2921
+J9 EUR ECON REV
+JI Eur. Econ. Rev.
+PD MAY
+PY 2001
+VL 45
+IS 4-6
+BP 1007
+EP 1019
+DI 10.1016/S0014-2921(01)00108-8
+PG 13
+WC Economics
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 430WD
+UT WOS:000168597700034
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Yur'yev, A
+   Kolves, K
+   Leppik, L
+   Nemtsov, A
+   Wasserman, D
+AF Varnik, Peeter
+   Sisask, Merike
+   Varnik, Airi
+   Yur'yev, Andriy
+   Kolves, Kairi
+   Leppik, Lauri
+   Nemtsov, Aleksander
+   Wasserman, Danuta
+TI Massive increase in injury deaths of undetermined intent in ex-USSR
+   Baltic and Slavic countries: Hidden suicides?
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Accidents; Baltic States; Belarus; homicides; injury deaths;
+   registration; Russia; suicides; Ukraine; undetermined intent
+ID VITAL-STATISTICS; MORTALITY; CLASSIFICATION; QUALITY; ALCOHOL; TRENDS;
+   UNION
+AB Aims: Observed changes in subcategories of injury death were used to test the hypothesis that a sizeable proportion of "injury deaths of undetermined intent" (Y10-Y34 in ICD 10) in the Baltic and Slavic countries after the USSR dissolved in 1991 were hidden suicides. Methods: Using male age-adjusted suicide rates for two distinctly different periods, 1981-90 and 1992-2005, changes, ratios and correlations were calculated. The data were compared with the EU average. Results: After the USSR broke up, the obligation to make a definitive diagnosis became less strict. A massive increase in "injury deaths of undetermined intent" resulted. The mean rate for the second period reached 52.8 per 100,000 males in Russia (the highest rate) and 12.9 in Lithuania (the lowest), against 3.2 in EU-15. The rise from the first to the second period was highest in Belarus (56%) and Russia (44%). The number of injury deaths of undetermined intent was almost equal to that of suicides in Russia in 2005 (ratio 1.0) and Ukraine in 2002 (1.1). In all the countries, especially the Slavic ones, prevalence trends of injury-death subcategories were uniform, i.e. strongly correlated over time. No direct substitution of one diagnosis for another was evident. Conclusions: There is no evidence that the category of "injury deaths of undetermined intent" in the Baltic and Slavic countries hides suicides alone. Aggregate level analysis indicates that accidents and homicides could sometimes be diagnosed as undetermined.
+C1 [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Kolves, Kairi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Leppik, Lauri] Tallinn Univ, Tallinn, Estonia.
+   [Kolves, Kairi] Griffith Univ, Australian Inst Suicide Res & Prevent, Nathan, Qld 4111, Australia.
+   [Nemtsov, Aleksander] Moscow Res Inst Psychiat, Moscow, Russia.
+   [Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, Stockholm, Sweden.
+C3 Tallinn University; Griffith University; Karolinska Institutet
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+EM peeterv@uninet.ee
+RI Kolves, Kairi/ABE-7564-2020; Yuryeva, Lyudmyla/AAF-9051-2020; Nemtsov,
+   Alexander V/J-4160-2012
+OI Kolves, Kairi/0000-0002-1638-8981; Yuryeva,
+   Lyudmyla/0000-0002-1713-1037; Sisask, Merike/0000-0001-6821-6367
+FU European Community [FP/2007-2013, 223138]; Estonian Scientific
+   Foundation [7132]
+FX The research leading to these results has received funding from the
+   European Community's Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement No. 223138. The current study was
+   funded by the Estonian Scientific Foundation project number 7132. Thanks
+   are due to Clare James for her thorough linguistic and stylistic
+   revision of the manuscript.
+NR 31
+TC 33
+Z9 35
+U1 2
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2010
+VL 38
+IS 4
+BP 395
+EP 403
+DI 10.1177/1403494809354360
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 602PW
+UT WOS:000278152300008
+PM 19933222
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+   Loibl, LM
+   Kandrychyn, S
+AF Voracek, Martin
+   Loibl, Lisa Mariella
+   Kandrychyn, Slarhei
+TI Testing the Finno-Ugrian Suicide Hypothesis: Replication and refinement
+   with regional suicide data from eastern Europe
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID GENETIC RISK-FACTORS; BEHAVIOR; INTELLIGENCE; PSYCHOLOGY; LATITUDE;
+   FAMILY; RATES; BLOOD
+AB Multiple lines of evidence indicate specific genetic contributions to suicidal behavior. In particular, geographic studies support the Finno-Ugrian Suicide Hypothesis, i.e., genetic differences between populations may partially account for geographic patterns of suicide prevalence. Specifically, within Europe the high suiciderate nations constitute a contiguous J-shaped belt. The present research replicated and extended 2003 findings of Voracek, Fisher, and Marugi with new data. Across 37 European nations, an interaction term of squared latitude multiplied with longitude (quantifying the J-shaped belt) accounted for 32% of the cross-national variance in total suicide rates alone, while latitude accounted merely for 18% of variance over and above those. Refined analysis included regional data from countries critical for testing the hypothesis (89 regions of Belarus, western Russia, and the Ukraine) and yielded an even more clear-cut pattern (56% and 3.5%, respectively), These results are consistent with the Finno-Ugrian Suicide Hypothesis. Study limitations and directions for further research are discussed.
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+   Minsk City Emergency Med Care Hosp, Minsk, BELARUS.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 03-42, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 39
+TC 27
+Z9 27
+U1 0
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD JUN
+PY 2007
+VL 104
+IS 3
+BP 985
+EP 994
+DI 10.2466/PMS.104.3.985-994
+PG 10
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 187JS
+UT WOS:000247844400034
+PM 17688155
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Arensman, E
+   Van Audenhove, C
+   van der Feltz-Cornelis, CM
+   Hegerl, U
+AF Vaernik, Peeter
+   Sisask, Merike
+   Vaernik, Airi
+   Arensman, Ella
+   Van Audenhove, Chantal
+   van der Feltz-Cornelis, Christina M.
+   Hegerl, Ulrich
+TI Validity of suicide statistics in Europe in relation to undetermined
+   deaths: developing the 2-20 benchmark
+SO INJURY PREVENTION
+LA English
+DT Article
+ID FORMER SOVIET-UNION; VITAL-STATISTICS; TIME-SERIES; MORTALITY;
+   CLASSIFICATION; DEPRESSION; COUNTRIES; ALLIANCE; QUALITY
+AB Background The suicide rate is a macro indicator of the population's psychosocial wellbeing and an evaluation criterion of the effectiveness of suicide prevention strategies. A high level of injury deaths of undetermined intent (UD) is usually discussed in connection with the validity of suicide statistics. An effort is made to develop a criterion to characterise the quality of suicide statistics.
+   Methods Standardised rates of suicides (X60-X84) and UD (Y10-Y34) by the International Classification of Disease version 10 as an average for the past five available years were taken from the WHO European mortality database. Rate ratios were computed by dividing rates of UD by suicide rates.
+   Results There is considerable variation in suicide and UD rates among countries. The highest overall rates of UD were registered in Russia, Ukraine and Belarus, and the lowest in Greece, Spain and Italy. The EU-15 average UD rate of 1.97 and the rate ratio of 0.194 UD to suicides were combined into a '2-20 benchmark', in which the primary indicator is 2.0 UD cases per 100 000 and the secondary indicator is the proportion of UD to suicides 0.20 (20%), which enables countries to be clustered according to the quality of suicide statistics. The following countries satisfied the benchmark: Greece, Norway, Spain, The Netherlands, Luxembourg, France, Austria, Italy, Romania, Hungary, Ireland and Finland.
+   Conclusion This study used the developed '2-20 benchmark' in Europe to assess suicide registration quality in a particular country, to compare the relative position of countries, and to set a target for those European countries that have not yet achieved the benchmark.
+C1 [Vaernik, Peeter; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Vaernik, Peeter] Tallinn Univ, Estonian Inst Populat Studies, Tallinn, Estonia.
+   [Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Arensman, Ella] Natl Suicide Res Fdn, Cork, Ireland.
+   [Van Audenhove, Chantal] Katholieke Univ Leuven, LUCAS, Louvain, Belgium.
+   [van der Feltz-Cornelis, Christina M.] Netherlands Inst Mental Hlth & Addict, Trimbos Inst, Utrecht, Netherlands.
+   [Hegerl, Ulrich] Univ Leipzig, Dept Psychiat, Leipzig, Germany.
+C3 Tallinn University; Tallinn University; KU Leuven; Trimbos Institute;
+   Leipzig University
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM peeterv@suicidology.ee
+RI Van der Feltz-Cornelis, Christina/JMP-7639-2023
+OI Van der Feltz-Cornelis, Christina/0000-0001-6925-8956; Hegerl,
+   Ulrich/0000-0002-3039-7470; Arensman, Ella/0000-0003-0376-1203; Sisask,
+   Merike/0000-0001-6821-6367; Van Audenhove, Chantal/0000-0002-5504-5439
+FU European Community Seventh Framework Programme OSPI-Europe [223138];
+   Estonian Ministry of Social Affairs
+FX The research reported in this paper has received funding from the
+   European Community Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement no 223138, and from the Estonian
+   Ministry of Social Affairs.
+NR 33
+TC 47
+Z9 51
+U1 1
+U2 21
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD OCT
+PY 2012
+VL 18
+IS 5
+BP 321
+EP 325
+DI 10.1136/injuryprev-2011-040070
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 016LV
+UT WOS:000309520800008
+PM 22157205
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI Ancestry, genes, and suicide: A test of the Finno-Ugrian Suicide
+   Hypothesis in the United States
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID RISK-FACTORS; TRYPTOPHAN-HYDROXYLASE; TPH GENE; BEHAVIOR; RATES;
+   METAANALYSIS; LONGITUDE; LATITUDE
+AB There is now convergent evidence from classic quantitative genetics (family, twin, and adoption studies) and molecular genetic studies for specific genetic risk factors for suicidal behavior. This emerging research field has recently been supplemented by geographical studies concerned with the Finno-Ugrian Suicide Hypothesis (FUSH), which states that population differences in genetic risk factors may partially account for conspicuous geographical patterns seen in suicide prevalence. In particular, the European high-suicide-rate nations constitute a contiguous, J-shaped belt, spanning from Finland to Austria. This area maps onto the second principal component identified for European gene distribution, most likely reflecting a major migration event of the past (i.e., the ancestral adaptation to cold climates and the Uralic language dispersion) still detectable in modern European populations. The present research tested the hypothesis in the United States. Consistent with the hypothesis, available historical (1913-1924 and 1928-1932) U.S. state suicide rates were uniformly positively associated with available state proportions of reported American ancestries from European high-suicide-rate countries (Hungary, Lithuania, Poland, Russia, Slovakia, and the Ukraine). However, contrary to the hypothesis, available contemporary (1990-1994) suicide rates were uniformly negatively associated with these ancestry proportions. The findings of this first test outside Europe are therefore conflicting. A proposal based on the geographical study approach is offered to further the progress of investigations into the genetics of suicide.
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 03-42, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 27
+TC 18
+Z9 18
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD OCT
+PY 2006
+VL 103
+IS 2
+BP 543
+EP 550
+DI 10.2466/PMS.103.2.543-550
+PG 8
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 110XT
+UT WOS:000242415300027
+PM 17165419
+DA 2023-12-05
+ER
+
+PT J
+AU Grajda, A
+   Kulaga, Z
+   Gurzkowska, B
+   Gózdz, M
+   Wojtylo, M
+   Litwin, M
+AF Grajda, Aneta
+   Kulaga, Zbigniew
+   Gurzkowska, Beata
+   Gozdz, Magdalena
+   Wojtylo, Malgorzata
+   Litwin, Mieczyslaw
+TI Trends in external causes of child and adolescent mortality in Poland,
+   1999-2012
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE External causes of death; Children; Adolescents; Annual percent change
+ID HIGH-INCOME COUNTRIES; SUICIDE; ENGLAND; DEATH; INEQUALITIES; PATTERNS;
+   WALES
+AB To examine the pattern and trend of deaths due to external causes among Polish children and adolescents in 1999-2012, and to compare trends in Poland's neighboring countries.
+   Death records were obtained from the Central Statistical Office of Poland. External causes mortality rates (MR) with 95 % confidence interval were calculated. The annual percentage change of MR was examined using linear regression. To compare MR with Belarus, Ukraine, Czech Republic and Germany, data from the European Mortality Database were used.
+   MR were the highest in the age 15-19 years (33.7/100,000) and among boys (22.7/100,000). Unintentional injuries including transport accidents, drowning, and suicides (especially in children over 10 years old), were the main cause of death in the analyzed groups. Between 1999 and 2012 annual MR for unintentional injuries declined substantially. MR due to injuries and poisoning in Poland were higher compared with Czech Republic and Germany and lower in comparison with Belarus and Ukraine.
+   Deaths due to unintentional injuries are still the leading cause of death among Polish children and adolescents. There are differences in death rates between Poland and neighboring countries.
+C1 [Grajda, Aneta; Kulaga, Zbigniew; Gurzkowska, Beata; Gozdz, Magdalena; Wojtylo, Malgorzata] Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+   [Litwin, Mieczyslaw] Childrens Mem Hlth Inst, Dept Nephrol & Arterial Hypertens, Warsaw, Poland.
+C3 Children's Memorial Health Institute; Children's Memorial Health
+   Institute
+RP Kulaga, Z (corresponding author), Childrens Mem Hlth Inst, Dept Publ Hlth, Warsaw, Poland.
+EM z.kulaga@ipczd.pl
+RI Litwin, Mieczyslaw/ABH-4315-2020
+OI Litwin, Mieczyslaw/0000-0002-5241-2483; Kulaga,
+   Zbigniew/0000-0003-0509-1004; Gurzkowska, Beata/0000-0003-2681-3221;
+   Gozdz, Magdalena/0000-0002-9753-568X; Kotowska,
+   Aneta/0000-0003-3289-2878
+FU Ministry of Science and Higher Education [M10/14]
+FX AG was supported by the Ministry of Science and Higher Education (grant
+   for young scientist M10/14).
+NR 35
+TC 10
+Z9 10
+U1 0
+U2 4
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD JAN
+PY 2017
+VL 62
+IS 1
+BP 117
+EP 126
+DI 10.1007/s00038-016-0908-7
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EK7WC
+UT WOS:000394134900012
+PM 27766374
+OA Green Published, hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Rozanov, VA
+   Mid'ko, AA
+AF Rozanov, Vsevolod A.
+   Mid'ko, Andrey A.
+TI Personality Patterns of Suicide Attempters: Gender Differences in
+   Ukraine
+SO SPANISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE suicide; personality traits; Big Five; gender differences; discriminant
+   analysis
+ID 5-FACTOR MODEL; TRAITS; HAPPINESS; IDEATION; BIG-5
+AB In the present study, an attempt has been made to investigate the complete 'pattern' of a suicide attempter (SA) within the set of Big Five traits. Two models were used: M1, which includes the five main dimensions of Big Five in the analysis; and M2, which includes facets of those dimensions which were identified as important in M1. The study consisted of a group of SA (men - 326, women - 299) and a group of healthy volunteers (HV) (men - 143, women - 190) with a similar age range. Discriminant analysis (DA) showed that the factors most significant in discriminating the personality pattern of a male SA are (in decreasing order): (E) Extraversion, (N) Neuroticism, (C) Conscientiousness and (O) Openness; and for a female SA these factors were (E) Extraversion, (C) Conscientiousness and (A) Agreeableness. In M2 for men, the largest contribution to pattern recognition is (N3) Depression. Moreover, in M2 for men significant characteristics were (in descending order): (E6) Positive Emotions, (O1) Fantasy, (E4) Activity, and also (N2) Angry Hostility, (C3) Dutifulness, (C4) Achievement Striving, (C2) Order and (O6) Values; and for women: (E4) Activity, (C6) Deliberation, (C2) Order, (A6) Tender- Mindedness, (E5) Excitement Seeking, (E6) Positive Emotions, (C4) Achievement Striving, (A2) Straightforwardness, (C5) Self-Discipline and (E1) Warmth. Analysis of the obtained data demonstrates that suicide attempts amongst males, can largely be associated with personality variables reflecting negative emotions; while female suicide attempts are primarily associated with variables regarding activity and self-regulation.
+C1 [Rozanov, Vsevolod A.] Odessa Natl Mechnikov Univ, UA-65026 Odessa, Ukraine.
+C3 Ministry of Education & Science of Ukraine; Odesa I. I. Mechnikov
+   National University
+RP Rozanov, VA (corresponding author), Odessa Natl Mechnikov Univ, Dvoryanskaya Str 2, UA-65026 Odessa, Ukraine.
+EM rozanov@te.net.ua
+RI Rozanov, Vsevolod A./M-2288-2017
+OI Rozanov, Vsevolod A./0000-0002-9641-7120
+NR 24
+TC 19
+Z9 21
+U1 0
+U2 16
+PU UNIV COMPLUTENSE MADRID, SERVICIO PUBLICACIONES
+PI MADRID
+PA CIUDAD UNIV, OBISPO TREJO 3, MADRID, 28040, SPAIN
+SN 1138-7416
+J9 SPAN J PSYCHOL
+JI Span. J. Psychol.
+PD NOV
+PY 2011
+VL 14
+IS 2
+BP 693
+EP 700
+DI 10.5209/rev_SJOP.2011.v14.n2.17
+PG 8
+WC Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 842TQ
+UT WOS:000296623800017
+PM 22059315
+DA 2023-12-05
+ER
+
+PT J
+AU Loganovsky, K
+   Havenaar, JM
+   Tintle, NL
+   Guey, LT
+   Kotov, R
+   Bromet, EJ
+AF Loganovsky, K.
+   Havenaar, J. M.
+   Tintle, N. L.
+   Guey, L. T.
+   Kotov, R.
+   Bromet, E. J.
+TI The mental health of clean-up workers 18 years after the Chernobyl
+   accident
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE Chernobyl; depression; epidemiology; post-traumatic stress disorder;
+   radiation
+ID IONIZING-RADIATION; POWER-PLANT; DISORDERS; NUCLEAR; RISK; ORGANIZATION;
+   PREVALENCE
+AB Background. The psychological aftermath of the Chernobyl accident is regarded as the largest public health problem unleashed by the accident to date. Yet the mental health of the clean-up workers, who faced the greatest radiation exposure and threat to life, has not been systematically evaluated. This Study describes the long-term psychological effects of Chernobyl in a sample of clean-up workers in Ukraine.
+   Method. The cohorts were 295 male clean-up workers sent to Chernobyl between 1986 and 1990 interviewed 18 years after the accident (71% participation rate) and 397 geographically matched controls interviewed as part of the Ukraine World Mental Health (WMS) Survey 16 years after the accident. The World Health Organization (WHO) Composite International Diagnostic Interview (CIDI) was administered. We examined group differences in common psychiatric disorders, suicide ideation and severe headaches, differential effects of disorder on days lost from work, and in the clean-up workers, the relationship of exposure severity to disorder and current trauma and somatic symptoms. Analyses were adjusted for age in 1986 and mental health prior to the accident.
+   Results. Relatively more clean-tip workers than controls experienced depression (18.0% v. 13.1%) and suicide ideation (9.2% v. 4.1%) after the accident. In the year preceding interview, the rates of depression (14.9% v. 7.1%), post-traumatic stress disorder (PTSD) (4.1% v. 1.0%) and headaches (69.2% v. 12.4%) were elevated. Affected workers lost more work days than affected controls. Exposure level was associated with current somatic and PTSD symptom severity.
+   Conclusions. Long-term mental health consequences of Chernobyl were observed in clean-up workers.
+C1 [Kotov, R.; Bromet, E. J.] SUNY Stony Brook, Dept Psychiat, Stony Brook, NY 11794 USA.
+   [Loganovsky, K.] Ukraine Acad Med Sci, Res Ctr Radiat Med, Kiev, Ukraine.
+   [Havenaar, J. M.] Free Univ Amsterdam, Dept Psychiat, NL-1007 MC Amsterdam, Netherlands.
+   [Tintle, N. L.] Hope Coll, Dept Math, Holland, MI 49423 USA.
+   [Guey, L. T.] CNIO, Madrid, Spain.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Stony Brook; National Academy of Medical Sciences of Ukraine;
+   National Research Center for Radiation Medicine of National Academy of
+   Medical Sciences of Ukraine; Vrije Universiteit Amsterdam; Hope College;
+   Centro Nacional de Investigaciones Oncologicas (CNIO)
+RP Bromet, EJ (corresponding author), SUNY Stony Brook, Dept Psychiat, Putnam Hall,South Campus, Stony Brook, NY 11794 USA.
+EM Evelyn.bromet@stonybrook.edu
+RI Loganovsky, Konstantin/E-2136-2016
+OI Loganovsky, Konstantin/0000-0002-0680-8882; Tintle,
+   Nathan/0000-0003-1447-9107
+FU NIMH NIH HHS [MH51947] Funding Source: Medline
+NR 22
+TC 62
+Z9 66
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD APR
+PY 2008
+VL 38
+IS 4
+BP 481
+EP 488
+DI 10.1017/S0033291707002371
+PG 8
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 281KZ
+UT WOS:000254497300002
+PM 18047772
+DA 2023-12-05
+ER
+
+PT J
+AU Page, RM
+   Zarco, EPT
+   Ferenc, I
+   Suwanteerangkul, J
+   Martina, U
+   Mei-Lee, C
+   Miao, NF
+   Simonek, J
+   Klarova, R
+   Hantiu, I
+   Irén, K
+AF Page, Randy M.
+   Zarco, Emilia Patricia T.
+   Ferenc Ihasz
+   Suwanteerangkul, Jiraporn
+   Martina Uvacsek
+   Mei-Lee, Ching
+   Miao, Nae-Fang
+   Simonek, Jaromir
+   Klarova, Renata
+   Hantiu, Iacob
+   Iren Kalabiska
+TI CIGARETTE SMOKING AND INDICATORS OF PSYCHOSOCIAL DISTRESS IN SOUTHEAST
+   ASIAN AND CENTRAL-EASTERN EUROPEAN ADOLESCENTS
+SO JOURNAL OF DRUG EDUCATION
+LA English
+DT Article
+ID UCLA LONELINESS SCALE; RISK BEHAVIOR SURVEY; HEALTH-RISK; TOBACCO;
+   HOPELESSNESS; RELIABILITY; SUICIDE; INCREASES; VALIDITY; CHINA
+AB The purpose of this study was to examine the association of cigarette smoking and 2 indicators of psychosocial distress (hopelessness and loneliness) among adolescents from 2 distinctly different regions of the world: Central-Eastern Europe (Hungary, Ukraine, Slovakia, Czech Republic, Romania, Poland) and Southeast Asia (Thailand, Taiwan, and the Philippines). Among Southeast Asian boys and girls, smokers had elevated hopelessness in comparison to nonsmokers but among Central-Eastern European students, this relationship was true only for girls and there was no relationship for boys. Across the country samples, there was only association of smoking with loneliness among Southeast Asian girls and Central-Eastern European girls. While Southeast Asian girls who smoked scored higher on loneliness than nonsmokers, the opposite was true among Central-Eastern European girls, with smokers scoring lower on loneliness.
+C1 [Page, Randy M.] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   [Zarco, Emilia Patricia T.] Adelphi Univ, Garden City, NY 11530 USA.
+   [Suwanteerangkul, Jiraporn] Chiang Mai Univ, Chiang Mai, Thailand.
+   [Martina Uvacsek; Iren Kalabiska] Semmelweis Univ, H-1085 Budapest, Hungary.
+   [Miao, Nae-Fang] Taipei Med Univ, Taipei, Taiwan.
+   [Simonek, Jaromir] Univ Constantine Philosopher, Nitra, Slovakia.
+   [Klarova, Renata] Masaryk Univ, CS-60177 Brno, Czech Republic.
+   [Hantiu, Iacob] Univ Oradea, Oradea, Romania.
+C3 Brigham Young University; Adelphi University; Chiang Mai University;
+   Semmelweis University; Taipei Medical University; Constantine the
+   Philosopher University in Nitra; Masaryk University Brno; University of
+   Oradea
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+RI Simonek, Jaromir/AAE-8844-2020
+OI Simonek, Jaromir/0000-0003-4242-4891; Ihasz, Ferenc/0000-0003-0213-2237;
+   Hantiu, Iacob/0000-0001-7720-0287
+NR 52
+TC 11
+Z9 13
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0047-2379
+EI 1541-4159
+J9 J DRUG EDUC
+JI J. Drug Educ.
+PY 2008
+VL 38
+IS 4
+BP 307
+EP 328
+DI 10.2190/DE.38.4.a
+PG 22
+WC Substance Abuse; Education, Scientific Disciplines
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse; Education & Educational Research
+GA 431QN
+UT WOS:000265078000001
+PM 19438065
+DA 2023-12-05
+ER
+
+PT J
+AU Lehka, O
+   Myroniuk, R
+   Myroniuk, S
+   Lukacs, E
+AF Lehka, Oksana
+   Myroniuk, Roman
+   Myroniuk, Stanislava
+   Lukacs, Eszter
+TI Terrorism with a "woman's appearance": economic background and legal
+   tools for forming a counteracting strategy
+SO ECONOMIC ANNALS-XXI
+LA English
+DT Article
+DE Female Terrorism; Economic Background; Rational Choice; Legal Conflicts;
+   Strategy of Eradicating Female Terrorism
+AB The authors have researched the phenomenon of female terrorism in the area of rational choice and economic benefit. Popular quotations "qui prodesse" and "cherchez la femme" are combined from these positions in the non-standard authors' approach to understanding the motivational factors underlying extremist movements. It has been proved that the increase in the number of women in the ranks of terrorists is largely due to the so-called economic benefit factor for the terrorist acts organisers. The actions of a suicide bomber, in the broad sense, are predominantly based on a rational basis: the achievement of the last personal good - identity. The article presents the transformation of female terrorism in the historical perspective; actual conflicts and contradictions in international law and national legal systems, as well as false social attitudes and stereotypes complicating the fight against this dangerous social phenomenon.
+   Data obtained from the social networks allows concluding that hundreds of women are now fighting in the ranks of militants in the East of Ukraine. At the beginning of the conflict, many of them hid their faces on personal pages on the Internet, hiding from their relatives a fact that they are hired killers. At the moment, most of them are proud of their participation in extremist groups, post their photos with weapons. Suicide terrorism of Muslim women and crimes committed by female militants in the East of Ukraine have one thing in common - the preparation and use of women as a living "weapon" by the extremist groups is cheaper either in terms of financial investments and costs for psychological brainwashing and military training.
+   Based on the analytical data and identified patterns, we have argued the strategic directions of counteraction to female terrorism and have proved the following: mankind will be able to break this danger on the condition of a new, free of stereotypes way of thinking and coordinated efforts of the world community in all spheres of social life including economic, legal, socio- and cultural ones.
+C1 [Lehka, Oksana] Dnipro Humanitarian Univ, Dept Criminal Law, 1-B Orlovska Ave, UA-49064 Dnipro, Ukraine.
+   [Myroniuk, Roman] Dnipropetrovsk State Univ Internal Affairs, Dept Adm Law Proc & Adm Act, 26 Gagarin Ave, UA-49005 Dnipro, Ukraine.
+   [Myroniuk, Stanislava] Dnipropetrovsk State Univ Internal Affairs, Dept Tact & Special Training, 26 Gagarin Ave, UA-49005 Dnipro, Ukraine.
+   [Lukacs, Eszter] Szechenyi Istvan Univ, 1 Egyet Ter Str, H-9026 Gyor, Hungary.
+C3 Dnipropetrovsk State University of Internal Affairs; Dnipropetrovsk
+   State University of Internal Affairs; University of Istvan Szechenyi
+RP Lehka, O (corresponding author), Dnipro Humanitarian Univ, Dept Criminal Law, 1-B Orlovska Ave, UA-49064 Dnipro, Ukraine.
+EM legkaoksana@ukr.net; mironyk1311@gmail.com; slava_M1979@ukr.net;
+   lukacs.eszter@sze.hu
+RI Myroniuk, Stanislava/CAJ-4868-2022; Миронюк, Роман/ABB-4102-2021
+OI Myroniuk, Stanislava/0000-0001-6462-2173; Миронюк,
+   Роман/0000-0002-9620-5451; Lukacs, Eszter/0000-0001-6066-6881
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 4
+PU INST SOC TRANSFORMATION
+PI KYIV
+PA VUL GONCHARA 43-V, OFIS 20, KYIV, 01030, UKRAINE
+SN 1728-6220
+EI 1728-6239
+J9 ECON ANN-XXI
+JI Econ. Ann.-XXI
+PD SEP 18
+PY 2019
+VL 177
+IS 5-6
+BP 34
+EP 43
+DI 10.21003/ea.V177-03
+PG 10
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA KH8SY
+UT WOS:000510921900003
+OA gold
+DA 2023-12-05
+ER
+
+PT C
+AU Shkolnikov, VM
+   Meslé, F
+   Leon, DA
+AF Shkolnikov, VM
+   Meslé, F
+   Leon, DA
+BE Weidner, G
+   Kopp, M
+   Kristenson, M
+TI Premature circulatory disease mortality in Russia:: Population- and
+   individual-level evidence
+SO HEART DISEASE: ENVIRONMENT, STRESS AND GENDER
+SE NATO SCIENCE SERIES, SUB-SERIES I: LIFE AND BEHAVIOURAL SCIENCES
+LA English
+DT Proceedings Paper
+CT NATO Advanced Research Workshop on Increase in Coronary Heart Disease in
+   Central and Eastern Europe
+CY MAY 20-24, 2000
+CL BUDAPEST, HUNGARY
+SP NATO, Natl Inst Hlth, Off Behav & Social Sci Res, Wellcome Trust, Hungarian Minist Hlth, Hungarian/Amer TET
+DE Russia; cardiovascular disease; alcohol use; socioeconomic factors;
+   cerebrovascular disease; suicide; homicide
+ID CARDIOVASCULAR-DISEASE; ALCOHOL
+AB Mortality from circulatory diseases has been the greatest contributor to unfavorable changes in Russian life expectancy during the last 30 years. In the mid-1980s mortality from circulatory diseases experienced a short-term decrease, likely due to the anti-alcohol campaign of 1985. However, in the early 1990s there was a sharp increase in circulatory disease mortality, following socioeconomic crisis and rising alcohol consumption. This unusual trend, characteristic of Russia, the Ukraine and other countries of the former Soviet Union, stands in contrast to that of Western Europe, where mortality from circulatory diseases has been decreasing continuously. It also differs from mortality trends in Eastern Europe, where certain improvements have been achieved since the collapse of communism. Increasing mortality from ischemic heart disease and from cerebrovascular disorders are the biggest components of the overall increase in mortality from circulatory diseases in Russia. In proportional terms, mortality from "other" heart diseases experienced the greatest increase among other cardiovascular causes of death. Increases in circulatory disease mortality among men were greater than for women, and tended to occur at younger ages. Further, proportional mortality analyses on individual death records from the Udmurt Republic show that the risk of death at working ages from circulatory diseases is significantly elevated in people with low levels of education, although for men the educational gradient is stronger for external causes (accidents, homicides, suicides) and alcohol-related conditions. In addition, a case-control study based on "verbal autopsy" inter-views suggests that the risk of cardiovascular death among men aged 20 to 55 is also increased among those who are unemployed or not married. The social-status differentials in cardiovascular mortality among working-age men are largely attributable to smoking and heavy alcohol drinking, which are also the most important factors in terms of population attributable risk.
+C1 Max Planck Inst Demograph Res, Rostock, Germany.
+C3 Max Planck Society
+RP Shkolnikov, VM (corresponding author), Max Planck Inst Demograph Res, Rostock, Germany.
+RI Shkolnikov, Vladimir M/D-2986-2017; Leon, David A/G-2195-2010
+OI Shkolnikov, Vladimir M/0000-0003-2259-5423; Leon, David
+   A/0000-0001-9747-1762
+NR 23
+TC 3
+Z9 3
+U1 0
+U2 1
+PU I O S PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1566-7693
+BN 1-58603-082-5
+J9 NATO SCI SER I LIFE
+PY 2002
+VL 327
+BP 39
+EP 68
+PG 30
+WC Cardiac & Cardiovascular Systems
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Cardiovascular System & Cardiology
+GA BV45D
+UT WOS:000179014800005
+DA 2023-12-05
+ER
+
+PT J
+AU Pisulinski, J
+AF Pisulinski, Jan
+TI The Epilogue of Operation Vistula. The Liquidation of Ukrainian Military
+   Underground in Poland
+SO PAMIEC I SPRAWIEDLIWOSC
+LA Polish
+DT Article
+DE Organisation of Ukrainian Nationalists; Ukrainian Insurgent Army;
+   Operation Vistula
+AB The article synthetically presents the actions of the military, the Internal Security Corps and the security apparatus against the underground after the of Operation Vistula. It aims to show the attempts to destroy the remainder of the UPA and OUN forces and the ensuing results. The displacements of the remaining Ukrainian population from the province of Lublin are also discussed, Even before the end of Operation Vistula, two operational groups were formed, numbering about 10,000 soldiers in total. Their task was facilitated by the demobilisation of partisans carried out in the autumn of 1947 by the command of the Ukrainian underground in Poland. The majority returned to Ukraine to continue fighting, while some tried to get through to the American zone of occupation in Germany. The actions of the military and the Internal Security Corps did not yield significant results. The biggest success was tracking down and surrounding the bunker in which the national OUN commander Jaro slaw Staruch "Stiah" was hiding, who later committed suicide. In November 1947, when the demobilisation of Ukrainian partisans was discovered, the operational groups were disbanded; combating the last Ukrainian partisans was entrusted to the local units of militia and the Internal Security Corps.
+C1 [Pisulinski, Jan] Uniwersytet Rzeszowski, Zakladu Hist Najnowszej, Inst Hist, Rzeszow, Poland.
+C3 University of Rzeszow
+RP Pisulinski, J (corresponding author), Uniwersytet Rzeszowski, Zakladu Hist Najnowszej, Inst Hist, Rzeszow, Poland.
+NR 43
+TC 0
+Z9 0
+U1 0
+U2 1
+PU INST PAMIECI NARODOWEJ, BIURO EDUKACJI PUBLICZNEJ
+PI WARSA
+PA PL KRASINSKICH 2-4-6, WARSA, 00207, POLAND
+SN 1427-7476
+J9 PAMIEC SPRAWIEDL
+JI Pamiec Sprawiedl.
+PY 2019
+IS 34
+BP 256
+EP 276
+PG 21
+WC History
+WE Emerging Sources Citation Index (ESCI)
+SC History
+GA KI6JC
+UT WOS:000511454800010
+DA 2023-12-05
+ER
+
+PT J
+AU Tovt-Korshynska, MI
+   Dew, MA
+   Chopey, IV
+   Spivak, MY
+   Lemko, IS
+AF Tovt-Korshynska, MI
+   Dew, MA
+   Chopey, IV
+   Spivak, MY
+   Lemko, IS
+TI Gender differences in psychological distress in adults with asthma
+SO JOURNAL OF PSYCHOSOMATIC RESEARCH
+LA English
+DT Article
+DE asthma; psychological adaptation; depression; anxiety; gender
+   differences
+ID QUALITY-OF-LIFE; PSYCHIATRIC-DISORDERS; PREVALENCE; SYMPTOMS;
+   SYMPTOMATOLOGY; PERSONALITY; PERCEPTION; FEATURES; SUICIDE; ANXIETY
+AB Objectives: We sought to examine whether there were gender differences in the relationship of depressive, anxiety-related, and somatic symptomatology to the presence, severity, and duration of asthma. Methods: A total of 54 adult asthma patients (24 women, 30 men) and 31 healthy subjects (19 women, 12 men) were studied. Within each gender group, patients' psychological distress levels were compared as a function of severity (mild vs. moderate) and duration of disease ( <5 vs. + years), to each other and with healthy subjects. Data were collected in Ukraine utilizing the Minnesota Multiphasic Personality Inventory (MMPI), the best-validated psychological assessment instrument in Eastern European populations. Results: Relative to healthy women, women with both mild and moderate asthma showed elevated distress in multiple domains reflecting somatic and psychological complaints. In contrast, only men with relatively more severe disease of longer duration showed elevated symptomatology relative to healthy men, with depressive symptoms predominating. Conclusion: To the extent that distress in response to asthma takes a more diffuse form and may be expressed at milder and earlier stages of the disease in women than men, the findings suggest the need to tailor asthma education and behavioral interventions to the unique psychological needs of women and men in order to be maximally effective. (C) 2001 Elsevier Science Inc. All rights reserved.
+C1 Univ Pittsburgh, Sch Med, Dept Psychiat, Pittsburgh, PA 15213 USA.
+   Uzhgorod State Univ, Sch Med, Dept Internship & Residency, UA-294000 Uzhgorod, Ukraine.
+   Univ Pittsburgh, Sch Med, Dept Epidemiol, Pittsburgh, PA 15213 USA.
+   Univ Pittsburgh, Sch Med, Dept Psychol, Pittsburgh, PA 15213 USA.
+   Western Psychiat Inst & Clin, Pittsburgh, PA USA.
+   Natl Acad Sci Ukraine, Inst Microbiol & Virol, UA-252143 Kiev, Ukraine.
+   Ukraine Minist Hlth, Rehabil Hosp, Uzhgorod, Ukraine.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh; Ministry of Education & Science of Ukraine; Uzhgorod
+   National University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); University of Pittsburgh; Pennsylvania Commonwealth
+   System of Higher Education (PCSHE); University of Pittsburgh;
+   Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh; Western Psychiatric Institute & Clinic of UPMC; National
+   Academy of Sciences Ukraine; Zabolotny Institute of Microbiology &
+   Virology of NASU; Ministry of Health of Ukraine; GI SPMC Rehabilitation
+   HM of Ukraine
+RP Dew, MA (corresponding author), Univ Pittsburgh, Sch Med, Dept Psychiat, 3811 OHara St, Pittsburgh, PA 15213 USA.
+EM dewma@msx.upmc.edu
+RI Lemko, Ivan/AHI-5480-2022
+OI Spivak, Mykola/0000-0002-4394-7275; Tovt-Korshynska,
+   Marianna/0000-0002-8763-334X; Chopey, Ivan/0000-0003-4626-0855
+NR 55
+TC 27
+Z9 30
+U1 2
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0022-3999
+EI 1879-1360
+J9 J PSYCHOSOM RES
+JI J. Psychosomat. Res.
+PD NOV
+PY 2001
+VL 51
+IS 5
+BP 629
+EP 637
+DI 10.1016/S0022-3999(01)00254-9
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 500RL
+UT WOS:000172640500002
+PM 11728503
+DA 2023-12-05
+ER
+
+PT J
+AU Ginter, E
+   Simko, V
+AF Ginter, E.
+   Simko, V
+TI Health of Europeans twenty years after the fall of Berlin wall
+SO BRATISLAVA MEDICAL JOURNAL-BRATISLAVSKE LEKARSKE LISTY
+LA English
+DT Review
+DE Iron Curtain breakdown; life expectancy; cardiovascular disease;
+   external factors; alcohol; smoking; Russia; Central Europe
+ID MEDICAL-STUDENTS; MORTALITY; RUSSIA; COUNTRIES; BEHAVIOR; QUALITY;
+   SMOKING; CRISIS
+AB The failure of central planning in the totalitarian systems of the USSR and its satellites adversely affected not only the economy and social relations but also the population health. While in the countries with established democracy (DEM) the general health and the life expectancy (LE) steadily improved, in countries declaring socialism (SOC) the LE was stagnant and in the USSR even decreased. Dramatic changes in Russia after the demise of Soviet Union resulted in an extraordinary destabilization of LE that reached a minimum in 1994. Remarkably, even twenty years after the breakdown of the Iron Curtain there persists a gap in the general health between the DEM and the SOC regions of Europe. Within the territory of the former Soviet influence there are additional differences in LE: Central Europe is much better off than Russia and its neighbours. Main cause of relatively high mortality in the post totalitarian Europe is the cardiovascular disease (CVD). Among females about 80 % difference in LE between DEM and SOC countries is related to premature CVD mortality. In SOC males compared to DEM, about 50 % of the higher mortality is caused by CVD, 20 % is related to external factors (trauma, suicide) and 10 % is oncologic disorders. The main suggested cause of such excess mortality, besides a low socioeconomic level and limited funding for health care, is an improper life style: alcoholism, smoking and inadequate intake of protective nutrients. Alcoholism, especially binge drinking is a prominent factor in Russia, Belarus, Ukraine and in the Baltic Republics (Fig. 6, Tab. 4, Ref. 20). Full Text in free PDF www.bmj.sk.
+C1 [Ginter, E.] Inst Prevent & Clin Med, Bratislava, Slovakia.
+   [Simko, V] Suny Downstate Med Ctr, Brooklyn, NY 11203 USA.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Downstate Medical Center
+RP Ginter, E (corresponding author), Racianska 17, SK-83102 Bratislava, Slovakia.
+EM ginter.emil@mail.t-com.sk
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 7
+PU COMENIUS UNIV
+PI BRATISLAVA I
+PA SCH MEDICINE, SPITALSKA 24, BRATISLAVA I, SK-813 72, SLOVAKIA
+SN 0006-9248
+J9 BRATISL MED J
+JI Bratisl. Med. J.
+PY 2010
+VL 111
+IS 7
+BP 398
+EP 403
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 641CF
+UT WOS:000281101400009
+PM 20806547
+DA 2023-12-05
+ER
+
+PT C
+AU Matysiewicz, J
+   Smyczek, S
+AF Matysiewicz, Justyna
+   Smyczek, Slawomir
+BE Yang, Z
+TI Pathologies in Customer Behavior on Medical Services Market
+SO PROCEEDINGS OF 2016 CHINA MARKETING INTERNATIONAL CONFERENCE: MARKETING
+   THEORY AND PRACTICE IN MOBILE INTERNET
+SE Proceedings of China Marketing International Conference
+LA English
+DT Proceedings Paper
+CT China Marketing International Conference (CMIC)
+CY JUL 08-11, 2016
+CL Qingdao, PEOPLES R CHINA
+SP City Univ Hong Kong, China Univ Petr, Univ California, Univ Illinois Urbana Champaign, ePanel Inc, Guizhou Wangmao Grp, Chongqing Human Capital Dev Bank
+ID CONSUMER-BEHAVIOR; AGGRESSION; WORKPLACE; EMPLOYEES
+AB The beginning of the 21st Century is characterized by significant acceleration of various types of changes in the world, especially in Central and Easter European markets (Mruk 2007, p. 9). These changes generate important influence on customer/patient of medical market and may have both positive and negative effect on their behavior, which has been well demonstrated in the recent global economic crisis. It is worth noting that the current crisis is of a system character and spreads as a result of correlations which are typical of the globalization process (Kolodko 2009, p. 2). Difficulties caused by the crisis across the whole economy, mounted by constant transformation processes, often result in various social problems including alcoholism, drug addiction, crime, divorce, suicide mental and civilization diseases, social care and education failure, abuse in the family, etc. Hence, it can be stated that the rate of changes in the developing economies is bigger than consumers' awareness of the ongoing changes and their ability to grasp the processes. The emerging disintegrative processes are reflected in the consumer market behavior and leads to a phenomenon of consumers' negative adaptation to this reality. Systematically, consumers tend to take a more liberal approach towards phenomena that only recently were considered negative or even pathological. In these circumstances, customer behavior pathologyrelated issues on the medical market present one of the most interesting, both theoretically and practically, economic subjects. That is why the purpose of the paper was to identify pathologies in patients' behavior on medical market. Very important purpose of the paper was to characterize determinant which diversification pathological behavior of patients on medical market. To reach the above-presented purposes, a survey was conducted with the use of a structured questionnaire in Poland, Romania and Ukraine.
+C1 [Matysiewicz, Justyna; Smyczek, Slawomir] Univ Econ Katowice, Fac Management, 1 Maja St 50, PL-40287 Katowice, Poland.
+C3 University of Economics in Katowice
+RP Matysiewicz, J (corresponding author), Univ Econ Katowice, Fac Management, 1 Maja St 50, PL-40287 Katowice, Poland.
+FU NCN [DEC-2013/11/B/HS4/01470]
+FX The study was conducted within NCN grant following the decision No
+   DEC-2013/11/B/HS4/01470.
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 4
+PU ASIAN BUSINESS ASSOC
+PI CENTRL HONG KONG
+PA 9 FLR, ANTNA TOWER, 148 DES VOEUX RD, CENTRL HONG KONG, 00000, PEOPLES R
+   CHINA
+SN 2357-190X
+EI 2357-1918
+J9 P CHIN MARK INT CONF
+PY 2016
+BP 242
+EP 257
+PG 16
+WC Business
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics
+GA BG8IX
+UT WOS:000392335700018
+DA 2023-12-05
+ER
+
+PT J
+AU Podoliak, M
+AF Podoliak, Mykhailo
+TI PEDOLOGICAL IDEAS OF STEFAN BALEY AND WAYS OF PRACTICAL IMPLEMENTATION
+   OF THEM INTO THE UKRAINIAN EDUCATIONAL PROCESS
+SO INTERDISCIPLINARY STUDIES OF COMPLEX SYSTEMS
+LA English
+DT Article
+AB The article presents the general information about pedology development in the world and in the Eastern Europe as well. In this context, pedological ideas of the famous researcher, pedologist, psychologist Stefan Baley are presented. The article gives brief information about biography of the scientist and his conceptual ideas of pedology and educational psychology. The explanation of the term pedology according to Stefan Baley is given in the article as well as his researches of the physiological and psychological development of a child. The article present the famous table of age child psyche development compiled by the scientist. The article presents the research, conducted by S. Baley concerning the educational influence on children by different kinds of surrounding things, such as: book, film, animals, plants, radio etc. The educational role of family is mentioned in the article as well as the influence of a child origin on the psychological development and educational process is presented in the article.
+   One of the main idea of the article is to propose ways and methods of the usage of Stefan Baleys' pedological ideas in the modern educational process. His ideas can be used mainly in schools, since he emphasized a lot on the educational processes in this institution. His ideas can solve different modern problems which faces modern society. For example, existence of so called "death groups" in Ukraine which affected children and teenagers between 12 to 17 y.o. They were spread through social networks, such as Vkontakte and their aim was to bring to suicide children and they should film the process. The article propose to use Stefan Baleys' ideas in the educational process in school, since he did a lot of researches concerning methodology of syllabus compilation, attention of pupils, tiredness, methods of evaluation, teacher's behavior, processes of a child socialization. The article presents his great idea concerning introducing psychologists in schools and increasing their role in child's education and learning as well as teaching them.
+C1 [Podoliak, Mykhailo] Stepan Gzhytskyi Natl Univ Vet Med & Biotechnol L, Lvov, Ukraine.
+C3 Ministry of Education & Science of Ukraine; Stepan Gzhytskyi National
+   University of Veterinary Medicine & Biotechnologies Lviv
+RP Podoliak, M (corresponding author), Stepan Gzhytskyi Natl Univ Vet Med & Biotechnol L, Lvov, Ukraine.
+EM misha.podol@bigmir.net
+RI Podoliak, Mykhailo/AAH-9055-2020
+OI Podoliak, Mykhailo/0000-0003-1482-488X
+NR 4
+TC 2
+Z9 2
+U1 0
+U2 3
+PU DRAGOMANOV NATL PEDAGOGICAL UNIV
+PI KIEV
+PA PYROHOVA ST, 9, KIEV, 00000, UKRAINE
+SN 2307-4515
+J9 INTERDISCIP STUD COM
+JI Interdiscip. Stud. Complex Syst.
+PY 2018
+IS 13
+BP 117
+EP 126
+PG 10
+WC Multidisciplinary Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Science & Technology - Other Topics
+GA HG8TD
+UT WOS:000455275900011
+DA 2023-12-05
+ER
+
+EF

@@ -1,0 +1,894 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vaughan, M
+AF Vaughan, Megan
+TI The Discovery of Suicide in Eastern and Southern Africa
+SO AFRICAN STUDIES
+LA English
+DT Article
+DE suicide; Africa; depressive illness; African psychiatry; Malawi
+ID UGANDA; BEHAVIOR; CONTEXT; NORWAY; RISK
+AB Historically African societies have been assumed to have low suicide rates, though there is little conclusive evidence to support this assertion and it is informed by dubious colonial assumptions about the nature of African subjectivity. In particular, longitudinal evidence is lacking. In recent years suicide has begun to attract the attention of psychiatry professionals in Eastern and Southern Africa and of the media. It is now widely argued that suicide rates are increasing, and in some places concern around suicide has taken the appearance of a 'moral panic'. Suicide is invested with a variety of meanings across the two regions. The results of a small-scale study of attitudes to suicide in Malawi are reported.
+C1 Univ Cambridge, Univ London Kings Coll, Ctr African Studies, Cambridge CB2 1TN, England.
+C3 University of Cambridge; University of London; King's College London
+RP Vaughan, M (corresponding author), Univ Cambridge, Univ London Kings Coll, Ctr African Studies, Cambridge CB2 1TN, England.
+EM mav26@cam.ac.uk
+FU AHRC [119224/1] Funding Source: UKRI; Arts and Humanities Research
+   Council [119224/1] Funding Source: researchfish
+NR 47
+TC 10
+Z9 10
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0002-0184
+EI 1469-2872
+J9 AFR STUD-UK
+JI Afr. Stud.
+PY 2012
+VL 71
+IS 2
+SI SI
+BP 234
+EP 250
+DI 10.1080/00020184.2012.702967
+PG 17
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 984AQ
+UT WOS:000307160200005
+DA 2023-12-06
+ER
+
+PT J
+AU Shaikh, MA
+   Lloyd, J
+   Acquah, E
+   Celedonia, KL
+   Wilson, ML
+AF Shaikh, Masood A.
+   Lloyd, Jennifer
+   Acquah, Emmanuel
+   Celedonia, Karen L.
+   Wilson, Michael L.
+TI Suicide attempts and behavioral correlates among a nationally
+   representative sample of school-attending adolescents in the Republic of
+   Malawi
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Suicide attempts; Adolescents; Self-harm; Epidemiology; Africa
+ID PSYCHOSOCIAL DISTRESS; SOCIOECONOMIC-STATUS; YOUTH SUICIDE; RISK
+   BEHAVIOR; IDEATION; HEALTH; MORTALITY; VIOLENCE
+AB Background: Suicide is among the top causes of adolescent mortality worldwide. While correlates of suicidal behavior are better understood and delineated in upper-income countries, epidemiologic knowledge of suicidal behavior in low-income countries remains scant, particularly in the African continent. The present study sought to add to the epidemiologic literature on suicidal behavior in Africa by examining the behavioral correlates of suicide attempts among Malawi adolescents.
+   Methods: A cross-sectional study using a nationally-representative sample extracted from publically-available data was conducted. Bivariate and multivariate analyses were performed to discern associations between suicide attempts and a host of behavioral variables. 2225 records were included in the study.
+   Results: At the multivariate level, suicide attempters had significantly higher odds of being anxious, being physically bullied, having sustained a serious injury and having a greater number of lifetime sexual partners. Alcohol use (at an early age and within the past 30 days) was also associated with suicide attempts.
+   Conclusions: These findings have the potential to guide public health interventions geared toward suicide prevention in Africa and other, similar regions, as well as provide the impetus for future epidemiologic studies on suicidal behavior in low-income countries.
+C1 [Shaikh, Masood A.; Lloyd, Jennifer; Acquah, Emmanuel; Celedonia, Karen L.; Wilson, Michael L.] PeerCorps Trust Fund, CIPCS, 352-64 Makunganya St,Coarchitecture Bldg, Dar Es Salaam, Tanzania.
+RP Wilson, ML (corresponding author), PeerCorps Trust Fund, CIPCS, 352-64 Makunganya St,Coarchitecture Bldg, Dar Es Salaam, Tanzania.
+EM Michael.wilson@peercorpstrust.org
+NR 36
+TC 20
+Z9 23
+U1 0
+U2 7
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD AUG 19
+PY 2016
+VL 16
+AR 843
+DI 10.1186/s12889-016-3509-8
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DT8JM
+UT WOS:000381736300003
+PM 27542733
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Mwambene, JB
+   Muula, AS
+   Leo, JC
+AF Mwambene, J. B.
+   Muula, A. S.
+   Leo, J. C.
+TI Prevalence and correlates of hunger among primary and secondary school
+   children in Malawi: results from the 2009 Global School-based Health
+   Survey
+SO MALAWI MEDICAL JOURNAL
+LA English
+DT Article
+AB Background
+   Education is important in improving economies and creating literate, self-reliant and healthy societies. However, hunger is a barrier to basic education in Malawi. Hunger is also associated with a number of health risk behaviours, such as bullying, suicide ideation and unhygienic behaviours that may jeopardize the future of children. There are, however, limited data on the prevalence and associated factors of hunger among school children in Malawi.
+   Methods
+   The study used data from the Malawi Global School-Based Health Survey conducted in 2009 to estimate the prevalence of self-reported hunger within the last 30 days among primary and secondary school age group. It also assessed the association between self-reported hunger and some selected list of independent variables using frequency distribution, chi-squared test and logistic regression.
+   Results
+   A total of 2359 students were available for analysis. The overall self-reported prevalence of hunger within the last 30 days was 12.5% (18.9% (172) in the rural and 8.3% (115) in urban areas; and 11.9%(123) for male and 12.5(148) for female children). In the final analysis, geographical location, eating fruits, having been bullied, suicide ideation, and washing hands with soap were significantly associated with hunger.
+   Conclusion
+   Hunger in both primary and secondary school children in Malawi is a major social problem. The design of school feeding programmes aimed to reduce hunger should incorporate the factors identified as associated with hunger.
+C1 [Mwambene, J. B.; Leo, J. C.] Asia Univ, Dept Hlth Care Adm, Taichung, Taiwan.
+   [Muula, A. S.] Univ Malawi, Coll Med, Dept Community Hlth, Zomba, Malawi.
+C3 Asia University Taiwan; University of Malawi
+RP Mwambene, JB (corresponding author), Asia Univ, Dept Hlth Care Adm, Taichung, Taiwan.
+EM jamesbmwambene@gmail.com
+RI Muula, Adamson/AAF-1153-2020; Leao, Jair Carneiro/AAL-6154-2020
+OI Leao, Jair Carneiro/0000-0001-8303-2291
+NR 24
+TC 5
+Z9 5
+U1 0
+U2 10
+PU MED COLL MALAWI
+PI CHICHIRI
+PA MALAWAI MEDICAL JOURNAL, PRIVATE BAG 360, CHICHIRI, BLANTYRE 3 00000,
+   MALAWI
+SN 1995-7262
+J9 MALAWI MED J
+JI Malawi Med. J.
+PD JUN
+PY 2013
+VL 25
+IS 2
+BP 45
+EP 49
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 186TU
+UT WOS:000322069200005
+PM 24098830
+DA 2023-12-06
+ER
+
+PT J
+AU Chasimpha, S
+   McLean, E
+   Chihana, M
+   Kachiwanda, L
+   Koole, O
+   Tafatatha, T
+   Mvula, H
+   Nyirenda, M
+   Crampin, AC
+   Glynn, JR
+AF Chasimpha, Steady
+   McLean, Estelle
+   Chihana, Menard
+   Kachiwanda, Lackson
+   Koole, Olivier
+   Tafatatha, Terence
+   Mvula, Hazzie
+   Nyirenda, Moffat
+   Crampin, Amelia C.
+   Glynn, Judith R.
+TI Patterns and risk factors for deaths from external causes in rural
+   Malawi over 10 years: a prospective population-based study
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Injury; Drowning; Suicide; Mortality rate; Alcohol; Malawi; Africa
+ID DEMOGRAPHIC SURVEILLANCE SYSTEM; MIDDLE-INCOME COUNTRIES; NORTHERN
+   MALAWI; ADULT MORTALITY; GLOBAL BURDEN; SOUTH-AFRICA; INJURIES; KARONGA;
+   BURNS
+AB Background: Little is known about the pattern or risk factors for deaths from external causes in sub-Saharan Africa: there is a lack of reliable data, and public health priorities have been focussed on other causes. This study assessed the prevalence and risk factor for deaths from external causes in rural Malawi.
+   Methods: We analysed data from 2002-2012 from the Karonga demographic surveillance site which covers similar to 35,000 people in rural northern Malawi. Verbal autopsies with clinician coding are used to assign cause of death. Repeated annual surveys capture data on socio-economic factors. Using Poisson regression models we calculated age, sex and cause-specific rates and rate ratios of external deaths. We used a nested case-control study, matched on age, sex and time period, to investigate risk factors for these deaths, using conditional logistic regression.
+   Results: In 315,580 person years at risk (pyar) there were 2673 deaths, including 143 from external causes. The mortality rate from external causes was 47.1/100,000 pyar (95 % CI 32.5-68.2) among under-fives; 20.1/100,000 pyar (95 % CI 13.1-32.2) among 5-14 year olds; 46.3/100,000 pyar (95 % CI 35.8-59.9) among 15-44 year olds; and 98.7/100,000 pyar (95 % CI 71.8-135.7) among those aged >= 45 years. Drowning (including four deaths in people with epilepsy), road injury and suicide were the leading external causes. Adult males had the highest rates (100.7/100,000 pyar), compared to 21.8/100,000pyar in adult females, and the rate continued to increase with increasing age in men. Alcohol contributed to 21 deaths, all in adult males. Children had high rates of drowning (9.2/100,000 pyar, 95 % CI 5.5-15.6) but low rates of road injury (2.6/100,000 pyar, 95 % CI 1.0-7.0). Among 5-14 year olds, attending school was associated with fewer deaths from external causes than among those who had never attended school (adjusted OR 0.15, 95 % CI 0.08-0.81). Fishermen had increased risks of death from drowning and suicide compared to farmers.
+   Discussion: In this population the rate of deaths from external causes was lowest at age 5-14 years. Adult males had the highest rate of death from external causes, 5 times the rate in adult females. Drowning, road injury and suicide were the leading causes of death; alcohol consumption contributed to more than one quarter of the deaths in men
+   Conclusions: The high proportion of alcohol-related deaths in men, the predominance of drowning, deaths linked to uncontrolled epilepsy, and the possible protective effect of school attendance suggest areas for intervention.
+C1 [Chasimpha, Steady; McLean, Estelle; Koole, Olivier; Nyirenda, Moffat; Crampin, Amelia C.; Glynn, Judith R.] Univ London London Sch Hyg & Trop Med, Epidemiol & Populat Hlth, London WC1E 7HT, England.
+   [Chasimpha, Steady] Malawi Natl Canc Registry, Blantyre, Malawi.
+   [Chihana, Menard; Kachiwanda, Lackson; Tafatatha, Terence; Mvula, Hazzie; Crampin, Amelia C.] Karonga Prevent Study, Chilumba, Malawi.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   Malawi Epidemiology and Intervention Research Unit
+RP Glynn, JR (corresponding author), Univ London London Sch Hyg & Trop Med, Epidemiol & Populat Hlth, Keppel St, London WC1E 7HT, England.
+EM judith.glynn@lshtm.ac.uk
+RI Chasimpha, Steady/AFO-7433-2022; McLean, Estelle/HOH-2974-2023
+OI Crampin, Amelia/0000-0002-1513-4330; Nyirenda,
+   Moffat/0000-0003-2120-4806; chihana, menard/0000-0003-2616-9894; McLean,
+   Estelle/0000-0001-6079-0663; Koole, Olivier/0000-0002-1122-5382
+FU Wellcome Trust [063558/Z/01, 079828/Z/06/Z, 096249/Z/11/A,
+   098610/Z/12/Z]; Wellcome Trust [079828/Z/06/Z, 096249/Z/11/A] Funding
+   Source: Wellcome Trust
+FX We thank the Government of the Republic of Malawi for their interest in
+   this project and the National Health Sciences Research Committee of
+   Malawi for permission to publish the paper. This work was supported by
+   The Wellcome Trust (grant numbers 063558/Z/01, 079828/Z/06/Z,
+   096249/Z/11/A, 098610/Z/12/Z). The funding body had no role in the
+   design; the collection, analysis, and interpretation of data; in the
+   writing of the manuscript; or in the decision to submit the manuscript
+   for publication.
+NR 26
+TC 15
+Z9 15
+U1 0
+U2 17
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD OCT 9
+PY 2015
+VL 15
+AR 1036
+DI 10.1186/s12889-015-2323-z
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CT0LN
+UT WOS:000362487200002
+PM 26449491
+OA Green Published, Green Accepted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Masulani-Mwale, C
+   Mathanga, D
+   Silungwe, D
+   Kauye, F
+   Gladstone, M
+AF Masulani-Mwale, C.
+   Mathanga, D.
+   Silungwe, D.
+   Kauye, F.
+   Gladstone, M.
+TI Parenting children with intellectual disabilities in Malawi: the impact
+   that reaches beyond coping?
+SO CHILD CARE HEALTH AND DEVELOPMENT
+LA English
+DT Article
+DE carers; children; coping; intellectual disability; stress; suicide
+ID DEVELOPMENTAL-DISABILITIES; DEPRESSION; MOTHERS; INTERVENTION; STRESS;
+   QUESTIONNAIRE; PREVALENCE; CARERS; FAMILY
+AB Background Rates of disability are high in resource poor settings with 85% of children with disabilities living in these settings. Long-term caregiving for disabled children is associated with fatigue, financial difficulties, parenting distress and other psychological issues. While such parents of children have repeatedly highlighted their feelings of discrimination, stigma and exclusion, leading to mental health issues, there is little research from the developing world addressing these issues. Research objectives This study aims to explore psychological experiences of parents caring for children with intellectual disabilities; understand their mechanisms of coping and their psychosocial needs in Malawi.
+   Methodology This study used a qualitative phenomenological design. We purposively sampled parents who had children diagnosed with intellectual disability from two clinics in two cities in Malawi. Between January 2015 and March 2015, we conducted 10 focus group discussions and four in-depth interviews. All ethical study procedures were carefully followed. All interviews were tape-recorded, transcribed and translated from vernacular to English. Thematic approach of data analysis was adopted to understand the data.
+   Findings Caring for intellectually disabled children comes with a number of challenges. Parents have limited access to services for their children let alone for their own psychological issues; they experience stigma and discrimination, have mental health issues resulting from the caring role, have suicidal ideas and in some cases have even been coerced by neighbours to kill their disabled child. To manage these issues, most parents cope through their spirituality.
+   Discussion and recommendation Apart from suicide and filicide, the findings of this study are similar to those performed in other countries. It is recommended that parents' psychological issues be managed concurrently when providing services for their children. There is also a need to develop psychosocial training interventions to address the needs of the parents of these children.
+C1 [Masulani-Mwale, C.; Silungwe, D.] St John God Mental Hlth Serv, Box 744, Mzuzu, Malawi.
+   [Mathanga, D.] Coll Med, Dept Community Hlth, Blantyre, Malawi.
+   [Kauye, F.] Coll Med, Dept Mental Hlth, Blantyre, Malawi.
+   [Gladstone, M.] Univ Liverpool, Alder Hey Childrens NHS Fdn Trust, Dept Women & Childrens Hlth, Inst Translat Med, Liverpool, Merseyside, England.
+C3 University of Malawi; University of Malawi; Alder Hey Children's NHS
+   Foundation Trust; University of Liverpool
+RP Masulani-Mwale, C (corresponding author), St John God Mental Hlth Serv, Box 744, Mzuzu, Malawi.
+EM cmwale@cartafrica.org
+RI Mwale, Charles/HLQ-1580-2023; Gladstone, Melissa J./L-6535-2018
+OI Gladstone, Melissa J./0000-0002-2579-9301; Masulani Mwale,
+   Charles/0000-0001-8676-1713
+FU St. John of God Provincial Research [594]; Consortium for Advanced
+   Research Training in Africa (CARTA); Wellcome Trust (UK)
+   [087547/Z/08/Z]; Department for International Development (DfID) under
+   the Development Partnerships in Higher Education (DelPHE); Carnegie
+   Corporation of New York [B 8606]; Ford Foundation [1100-0399];
+   Google.Org [191994]; Sida [54100029]; MacArthur Foundation
+   [10-95915-000-INP]; Hospitaller Order of St. John of God Research Fund
+   in Dublin; National Institute for Health Research [CL-2009-07-003]
+   Funding Source: researchfish
+FX We are grateful for the following for their input in the paper: Agatha
+   Nyirenda who helped in data collection; the parents and children with
+   disabilities; Mr Nyirenda, the psychiatric C. M. O. who helped with the
+   recruitment and screening the children; the clinic workers in Lilongwe
+   and Mzuzu; Mr Bvumbwe of Mzuzu University who supported with analysis.
+   This research was supported by St. John of God Provincial Research grant
+   number no. 594 and the Consortium for Advanced Research Training in
+   Africa (CARTA). CARTA is jointly led by the African Population and
+   Health Research Center and the University of the Witwatersrand and
+   funded by the Wellcome Trust (UK) (grant no. 087547/Z/08/Z), the
+   Department for International Development (DfID) under the Development
+   Partnerships in Higher Education (DelPHE), the Carnegie Corporation of
+   New York (grant no. B 8606), the Ford Foundation (grant no. 1100-0399),
+   Google.Org (grant no. 191994), Sida (grant no. 54100029) and MacArthur
+   Foundation grant no. 10-95915-000-INP. Additional funding was received
+   from Hospitaller Order of St. John of God Research Fund in Dublin.
+NR 47
+TC 38
+Z9 43
+U1 0
+U2 23
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0305-1862
+EI 1365-2214
+J9 CHILD CARE HLTH DEV
+JI Child Care Health Dev.
+PD NOV
+PY 2016
+VL 42
+IS 6
+BP 871
+EP 880
+DI 10.1111/cch.12368
+PG 10
+WC Psychology, Developmental; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics
+GA EJ1BO
+UT WOS:000392945400010
+PM 27416799
+DA 2023-12-06
+ER
+
+PT J
+AU Udedi, M
+   Stockton, MA
+   Kulisewa, K
+   Hosseinipour, MC
+   Gaynes, BN
+   Mphonda, SM
+   Mwagomba, BM
+   Mazenga, AC
+   Pence, BW
+AF Udedi, Michael
+   Stockton, Melissa A.
+   Kulisewa, Kazione
+   Hosseinipour, Mina C.
+   Gaynes, Bradley N.
+   Mphonda, Steven M.
+   Mwagomba, Beatrice Matanje
+   Mazenga, Alick C.
+   Pence, Brian W.
+TI Integrating depression management into HIV primary care in central
+   Malawi: the implementation of a pilot capacity building program
+SO BMC HEALTH SERVICES RESEARCH
+LA English
+DT Article
+DE HIV/AIDS; Mental health; Depression; Sub-Saharan Africa; Malawi;
+   Integration; Service delivery; Implementation science
+ID COMMON MENTAL-DISORDERS; PROBLEM-SOLVING THERAPY; PATIENT HEALTH
+   QUESTIONNAIRE-9; ANTIRETROVIRAL THERAPY; SUICIDE RISK; RURAL MALAWI;
+   RETENTION; SYMPTOMS; VALIDITY; ADULTS
+AB Background: In Malawi, early retention in HIV care remains challenging. Depression is strongly associated with reduced anti-retroviral therapy (ART) adherence and viral suppression. Appropriate depression care for people initiating ART is likely to be supportive of early and continued engagement in the HIV care continuum. This paper aims to provide an overview of a task-shifting program that integrates depression screening and treatment into HIV care and the strategy used to evaluate this program, describes the implementation process, and discusses key challenges and lessons learned in the first phase of program implementation.
+   Methods: We are implementing a program integrating depression screening and treatment into HIV care initiation at two clinics in Lilongwe District, Malawi. The program's effect on patients' depression and HIV outcomes will be evaluated using a multiple baseline pre-post study. In this manuscript, we draw from our experiences as program implementers and some of the quantitative data to describe the process of implementation and key lessons learned.
+   Results: We successfully implemented the screening phase of this program at both clinics; 88.3 and 93.2% of newly diagnosed patients have been screened for depression at each clinic respectively. 25% of enrolled patients reported symptoms of mild-to-severe depression and only 6% reported symptoms of moderate-to-severe depression. Key lessons learned from the process show the importance of utilizing existing processes and infrastructure and focusing on iterative and collaborative learning. We continued to face challenges around establishing a sense of program ownership among providers, developing capacity to diagnose and manage depression, and ensuring the availability of appropriate medication. Our efforts to address these challenges provide insight into the technical and managerial support needed to prepare for, roll out, and sustain integrated models of mental health and HIV care.
+   Conclusions: This activity demonstrates how a depression screening program can successfully be integrated into HIV care within the public health system in Malawi. While this program focuses on integrating depression management into HIV care, most of the lessons learned could apply to integration of mental health into any non-psychiatric specialist setting.
+C1 [Udedi, Michael] Minist Hlth, NCDs & Mental Hlth Unit, POB 30377 Capital City, Lilongwe 3, Malawi.
+   [Stockton, Melissa A.; Pence, Brian W.] Univ North Carolina Chapel Hill, Gillings Sch Global Publ Hlth, Epidemiol Dept, 135 Dauer Dr, Chapel Hill, NC 27599 USA.
+   [Kulisewa, Kazione] Minist Hlth, Kamuzu Cent Hosp, Private Bag 149, Lilongwe, Malawi.
+   [Kulisewa, Kazione] Bwaila Psychiat Hosp, Private Bag 149, Lilongwe, Malawi.
+   [Hosseinipour, Mina C.; Mphonda, Steven M.] Univ North Carolina Project Malawi, Tidziwe Ctr, Private Bag A-104, Lilongwe, Malawi.
+   [Hosseinipour, Mina C.; Gaynes, Bradley N.] Univ North Carolina Chapel Hill, Sch Med, Dept Psychiat, 333 S Columbia St, Chapel Hill, NC 27516 USA.
+   [Mwagomba, Beatrice Matanje] Lighthouse Trust, Kamuzu Cent Hosp, POB 106, Lilongwe, Malawi.
+   [Mazenga, Alick C.] Kamuzu Cent Hosp, Baylor Coll Med, Abbott Fund Childrens Clin Ctr Excellence, Private Bag B-397, Lilongwe, Malawi.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   University of North Carolina School of Medicine; University of North
+   Carolina; University of North Carolina Chapel Hill; University of North
+   Carolina School of Medicine; Baylor College of Medicine
+RP Stockton, MA (corresponding author), Univ North Carolina Chapel Hill, Gillings Sch Global Publ Hlth, Epidemiol Dept, 135 Dauer Dr, Chapel Hill, NC 27599 USA.
+EM stocktonmelissa@gmail.com
+RI Udedi, Michael M/V-6147-2017
+OI Udedi, Michael M/0000-0001-8769-4313; Stockton, Melissa
+   Ann/0000-0002-0737-7180; Kulisewa, Kazione/0000-0002-2979-4495
+FU American people through the President's Emergency Plan for AIDS Relief
+   (PEFPAR); United States Agency for International Development (USAID)
+   under the Cooperative Agreement Project SOAR (Supporting Operational
+   AIDS Research) [AID-OAA-14-00060]
+FX This study was funded by the generous support of the American people
+   through the President's Emergency Plan for AIDS Relief (PEFPAR) and
+   United States Agency for International Development (USAID) under the
+   Cooperative Agreement Project SOAR (Supporting Operational AIDS
+   Research), number AID-OAA-14-00060. The content of this publication is
+   the sole responsibility of the authors and does not necessarily reflect
+   the views or policies of U.S. Agency for International Development or
+   the U.S. President's Emergency Plan for AIDS Relief (PEPFAR), and does
+   not imply endorsement by the U.S. Government.
+NR 53
+TC 30
+Z9 30
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1472-6963
+J9 BMC HEALTH SERV RES
+JI BMC Health Serv. Res.
+PD JUL 31
+PY 2018
+VL 18
+AR 593
+DI 10.1186/s12913-018-3388-z
+PG 12
+WC Health Care Sciences & Services
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services
+GA GO9WT
+UT WOS:000440459500004
+PM 30064418
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Malava, JK
+   Lancaster, KE
+   Hosseinipour, MC
+   Rosenberg, NE
+   O'Donnell, JK
+   Kauye, F
+   Mbirimtengerenji, N
+   Chaweza, T
+   Tweya, H
+   Phiri, S
+   Pence, BW
+   Gaynes, BN
+AF Malava, Jullita K.
+   Lancaster, Kathryn E.
+   Hosseinipour, Mina C.
+   Rosenberg, Nora E.
+   O'Donnell, Julie K.
+   Kauye, Felix
+   Mbirimtengerenji, Noel
+   Chaweza, Thom
+   Tweya, Hannock
+   Phiri, Sam
+   Pence, Brian W.
+   Gaynes, Bradley N.
+TI Prevalence and correlates of probable depression diagnosis and suicidal
+   ideation among patients receiving HIV care in Lilongwe, Malawi
+SO MALAWI MEDICAL JOURNAL
+LA English
+DT Article
+DE epidemiology; public health; infectious diseases
+ID MENTAL-HEALTH; ALCOHOL-USE; SYMPTOMS; HIV/AIDS; ADULTS; RISK; MORTALITY;
+   QUESTIONNAIRE-9; DISORDERS; EFFICACY
+AB Background
+   Depression and suicide ideation among people living with HIV (PLHIV) can threaten the success of HIV care and treatment programs, particularly within high HIV prevalence settings. We describe the prevalence and correlates associated with depression and suicidal ideation among PLHIV receiving HIV care in Lilongwe, Malawi.
+   Methods
+   From July to September 2013, 206 HIV clinic patients, who were >= 18 years of age and either pre-antiretroviral therapy (ART) or established on ART for >= 6 months prior to study, participated in a survey to assess the prevalence of a likely depressive disorder and suicidal ideation using the Patient Health Questionnaire-9. We explored factors associated with depression using bivariable linear regression and suicidal ideation using bivariable log-binomial regression.
+   Results
+   The prevalence of a likely depressive disorder and suicidal ideation was 12% (95% CI: 8%, 17%) and 16% (95% CI: 11%, 21%), respectively. Pre-ART patients (beta=1.17, 95% CI: 0.03, 2.30, p-value=0.04) and those with problematic alcohol use (beta=0.49, 95% CI: 0.07, 0.92, p-value=0.02) were associated with a higher depression severity. Suicidal ideation was relatively common (8%, 95% CI: 5%, 13%) among those without a likely depressive disorder and significantly correlated with having no primary, secondary, or tertiary education (beta=-1.52, 95% CI: -2.46, -0.59, p-value<0.01).
+   Conclusions
+   Interventions that enhance identification and management of depressive disorders and suicidal ideation should be integrated within HIV care clinics in Malawi.
+C1 [Malava, Jullita K.; Hosseinipour, Mina C.; Rosenberg, Nora E.] Univ North Carolina Chapel Hill, UNC Project Malawi, Lilongwe, Malawi.
+   [Malava, Jullita K.; Kauye, Felix; Phiri, Sam] Univ Malawi, Coll Med, Blantyre, Malawi.
+   [Lancaster, Kathryn E.; Hosseinipour, Mina C.; Phiri, Sam] Univ N Carolina, Sch Med, Div Infect Dis, 130 Mason Farm Rd, Chapel Hill, NC 27599 USA.
+   [Rosenberg, Nora E.; O'Donnell, Julie K.; Pence, Brian W.] Univ N Carolina, Gillings Sch Global Publ Hlth, Dept Epidemiol, 135 Dauer Dr, Chapel Hill, NC 27599 USA.
+   [Kauye, Felix] Zomba Mental Hosp, Zomba, Malawi.
+   [Mbirimtengerenji, Noel] Univ Malawi, Kamuzu Coll Nursing, Lilongwe, Malawi.
+   [Chaweza, Thom; Tweya, Hannock; Phiri, Sam] Lighthouse Med Trust, Lilongwe, Malawi.
+   [Gaynes, Bradley N.] Univ N Carolina, Sch Med, Dept Psychiat, 101 Manning Dr, Chapel Hill, NC 27599 USA.
+C3 University of Malawi; University of North Carolina School of Medicine;
+   University of North Carolina; University of North Carolina Chapel Hill;
+   University of North Carolina; University of North Carolina Chapel Hill;
+   University of Malawi; University of North Carolina School of Medicine;
+   University of North Carolina; University of North Carolina Chapel Hill
+RP Lancaster, KE (corresponding author), Univ N Carolina, Sch Med, Div Infect Dis, 130 Mason Farm Rd, Chapel Hill, NC 27599 USA.
+EM kathryn_lancaster@med.unc.edu
+OI Lancaster, Kathryn/0000-0003-2389-6973
+FU Fogarty International Center in the National Institutes of Health under
+   the AIDS International Training Research Program (AITRP) [5D43
+   TW001039]; UNC Hopkins Morehouse Tulane Fogarty Global Health Fellows
+   Program [R25 TW009340]; National Institute of Mental Health [5T32
+   AI070114]
+FX This work was supported by the Fogarty International Center in the
+   National Institutes of Health under the AIDS International Training
+   Research Program (AITRP), grant (5D43 TW001039), the UNC Hopkins
+   Morehouse Tulane Fogarty Global Health Fellows Program (R25 TW009340),
+   and the National Institute of Mental Health training grant (5T32
+   AI070114).
+NR 43
+TC 16
+Z9 18
+U1 0
+U2 4
+PU Kamuzu Univ Health Sciences - KUHeS
+PI Chichiri
+PA Off Chileka Round about, Private Bag 360, Chichiri, Blantyre, MALAWI
+SN 1995-7262
+EI 1995-7270
+J9 MALAWI MED J
+JI Malawi Med. J.
+PD DEC
+PY 2018
+VL 30
+IS 4
+BP 236
+EP 242
+DI 10.4314/mmj.v30i4.5
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA HI7QJ
+UT WOS:000456650500005
+PM 31798801
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Kumwenda, MK
+   Johnson, CC
+   Choko, AT
+   Lora, W
+   Sibande, W
+   Sakala, D
+   Indravudh, P
+   Chilongosi, R
+   Baggaley, RC
+   Nyirenda, R
+   Taegtmeyer, M
+   Hatzold, K
+   Desmond, N
+   Corbett, EL
+AF Kumwenda, Moses K.
+   Johnson, Cheryl C.
+   Choko, Augustine T.
+   Lora, Wezzie
+   Sibande, Wakumanya
+   Sakala, Doreen
+   Indravudh, Pitchaya
+   Chilongosi, Richard
+   Baggaley, Rachael C.
+   Nyirenda, Rose
+   Taegtmeyer, Miriam
+   Hatzold, Karin
+   Desmond, Nicola
+   Corbett, Elizabeth L.
+TI Exploring social harms during distribution of HIV self-testing kits
+   using mixed-methods approaches in Malawi
+SO JOURNAL OF THE INTERNATIONAL AIDS SOCIETY
+LA English
+DT Article
+DE HIV; AIDS; HIV self-test; HIV testing; social harms; Malawi
+ID FEMALE SEX WORKERS; STATUS DISCLOSURE; PARTNER VIOLENCE; WOMEN; COUPLES;
+   PREVENTION; SEROSTATUS; CARE; TRANSMISSION; COUNTRIES
+AB IntroductionHIV self-testing (HIVST) provides couples and individuals with a discreet, convenient and empowering testing option. As with all HIV testing, potential harms must be anticipated and mitigated to optimize individual and public health benefits. Here, we describe social harms (SHs) reported during HIVST implementation in Malawi, and propose a framework for grading and responding to harms, according to their severity.
+   MethodsWe report findings from six HIVST implementation studies in Malawi (2011 to 2017) that included substudies investigating SH reports. Qualitative methods included focus group discussions, in-depth interviews and critical incident interviews. Earlier studies used intensive quantitative methods (post-test questionnaires for intimate partner violence, household surveys, investigation of all deaths in HIVST communities). Later studies used post-marketing reporting with/without community engagement. Pharmacovigilance methodology (whereby potentially life-threatening/changing events are defined as serious) was used to grade SH severity, assuming more complete passive reporting for serious events.
+   ResultsDuring distribution of 175,683 HIVST kits, predominantly under passive SH reporting, 25 serious SHs were reported from 19 (0.011%) self-testers, including 15 partners in eight couples with newly identified HIV discordancy, and one perinatally infected adolescent. There were no deaths or suicides. Marriage break-up was the most commonly reported serious SH (sixteen individuals; eight couples), particularly among serodiscordant couples. Among new concordant HIV-positive couples, blame and frustration was common but rarely (one episode) led to serious SHs. Among concordant HIV-negative couples, increased trust and stronger relationships were reported. Coercion to test or disclose was generally considered well-intentioned within established couples. Women felt empowered and were assertive when offering HIVST test kits to their partners. Some women who persuaded their partner to test, however, did report SHs, including verbal or physical abuse and economic hardship.
+   ConclusionsAfter more than six years of large-scale HIVST implementation and in-depth investigation of SHs in Malawi, we identified approximately one serious reported SH per 10,000 HIVST kits distributed, predominantly break-up of married serodiscordant couples. Both active and passive reporting systems identified serious SH events, although with more complete capture by active systems. As HIVST is scaled-up, efforts to support and further optimize community-led SH monitoring should be prioritized alongside HIVST distribution.
+C1 [Kumwenda, Moses K.; Choko, Augustine T.; Lora, Wezzie; Sibande, Wakumanya; Sakala, Doreen; Indravudh, Pitchaya; Desmond, Nicola; Corbett, Elizabeth L.] Malawi Liverpool Wellcome Trust Clin Res Programm, POB 30096, Blantyre 3, Malawi.
+   [Kumwenda, Moses K.] Univ Malawi, Helse Nord TB Initiat Coll Med, Blantyre, Malawi.
+   [Johnson, Cheryl C.; Baggaley, Rachael C.] WHO, HIV & Global Hepatitis Dept, Geneva, Switzerland.
+   [Johnson, Cheryl C.; Choko, Augustine T.; Indravudh, Pitchaya; Corbett, Elizabeth L.] London Sch Hyg & Trop Med, Clin Res Dept, London, England.
+   [Lora, Wezzie; Taegtmeyer, Miriam; Desmond, Nicola] Univ Liverpool Liverpool Sch Trop Med, Dept Int Publ Hlth, Liverpool, Merseyside, England.
+   [Chilongosi, Richard] Populat Serv Int, Lilongwe, Malawi.
+   [Nyirenda, Rose] Minist Hlth, Lilongwe, Malawi.
+   [Hatzold, Karin] Populat Serv Int, Johannesburg, South Africa.
+C3 University of Malawi; University of Malawi; World Health Organization;
+   University of London; London School of Hygiene & Tropical Medicine;
+   Liverpool School of Tropical Medicine
+RP Kumwenda, MK (corresponding author), Malawi Liverpool Wellcome Trust Clin Res Programm, POB 30096, Blantyre 3, Malawi.
+EM kumwenda@gmail.com
+RI Desmond, Nicola/GYQ-8574-2022; Sakala, Doreen/HKO-9024-2023; Indravudh,
+   Pitchaya/HPD-2329-2023
+OI Indravudh, Pitchaya/0000-0003-4013-7645; Desmond,
+   Nicola/0000-0002-2874-8569; Corbett, Elizabeth/0000-0002-3552-3181;
+   Taegtmeyer, Miriam/0000-0002-5377-2536; Kumwenda, Moses
+   Kelly/0000-0003-3091-7330; Sibande, Wakumanya
+   Chidyake/0000-0001-8351-1532; Choko, Augustine/0000-0001-6095-9430;
+   Johnson, Cheryl/0000-0001-5499-5523
+FU UNITAID; Wellcome Trust; Helse Nord TB Initiative
+FX The STAR Initiative is funded by UNITAID. HitTB, ST-Impacts and PASTAL
+   studies were funded by Wellcome Trust. PRISM was funded by Helse Nord TB
+   Initiative.
+NR 53
+TC 45
+Z9 52
+U1 0
+U2 5
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+EI 1758-2652
+J9 J INT AIDS SOC
+JI J. Int. AIDS Soc.
+PD MAR
+PY 2019
+VL 22
+SU 1
+SI SI
+AR e25251
+DI 10.1002/jia2.25251
+PG 18
+WC Immunology; Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Immunology; Infectious Diseases
+GA HQ4DF
+UT WOS:000462359300009
+PM 30907508
+OA Green Published, gold, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Wright, J
+   Lubben, F
+   Mkandawire, MB
+AF Wright, Jerome
+   Lubben, Fred
+   Mkandawire, Mac Bain
+TI Young Malawians on the interaction between mental health and HIV/AIDS
+SO AJAR-AFRICAN JOURNAL OF AIDS RESEARCH
+LA English
+DT Article
+DE community participation; decision-making; health behaviour; HIV
+   prevention; orphans and vulnerable children; participatory research;
+   psychological aspects; social behaviour; socio-economic factors;
+   southern Africa; youth
+ID HIV; ORPHANS; RISK
+AB Previous research has identified high levels of mental health problems among people affected by HIV. This study surveys specifically adolescents in southern Malawi on their experience of the impacts of living with HIV or AIDS on one's mental health. At the same time, the study explores the link between mental health problems and subsequent HIV-risk behaviour. Short texts relating everyday scenarios that depicted symptoms of three mental health problems (i.e. depression, anxiety and HIV-related brain impairment) formed the basis of in-depth discussions in 12 existing groups of secondary school students, orphans and vulnerable children, teenage mothers, and out-of-school youths, in both rural and urban settings. The responses show that these young people recognised the mental health sequelae of HIV/AIDS as impacting upon many aspects of one's life. The young people traced these 'interruptions' and 'disruptions' through deteriorating psychological and socio-economic conditions. They showed awareness of a two-way interaction between HIV/AIDS and mental illness, indicating that the latter can increase thoughts of suicide and HIV risk-taking behaviour. More importantly, they identified a number of locally derived community interventions, which if supported by statutory health and education services, can significantly ameliorate their situations. The findings provide avenues for practical integration of mental health provision within HIV prevention, education and care initiatives.
+C1 [Wright, Jerome] Univ York, Alcuin Coll, Dept Hlth Sci, York YO10 5DD, N Yorkshire, England.
+   [Lubben, Fred] Univ York, Alcuin Coll, CIRSE, York YO10 5DD, N Yorkshire, England.
+   [Mkandawire, Mac Bain] Youth Net & Counselling YONECO, Zomba, Malawi.
+C3 University of York - UK; University of York - UK
+RP Wright, J (corresponding author), Univ York, Alcuin Coll, Dept Hlth Sci, C Block, York YO10 5DD, N Yorkshire, England.
+EM jw44@york.ac.uk
+NR 29
+TC 7
+Z9 10
+U1 0
+U2 11
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1608-5906
+EI 1727-9445
+J9 AJAR-AFR J AIDS RES
+JI AJAR-Afr. J. Aids Res.
+PY 2007
+VL 6
+IS 3
+BP 297
+EP 304
+DI 10.2989/16085900709490425
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 341DI
+UT WOS:000258694000011
+PM 25866175
+DA 2023-12-06
+ER
+
+PT J
+AU Chen, JM
+   Yu, B
+   Wang, YS
+   Tang, M
+   Hu, YH
+   Cai, T
+   Zhang, FJ
+   von Zinkernagel, D
+   Harwell, JI
+   Huang, ZJ
+AF Chen, Juemin
+   Yu, Bo
+   Wang, Yungshen
+   Tang, Michele
+   Hu, Yanhong
+   Cai, Thomas
+   Zhang, FuJie
+   von Zinkernagel, Deborah
+   Harwell, Joseph I.
+   Huang, Zhihuan Jennifer
+TI Expansion of HIV care and treatment in Yunnan Province, China: Treatment
+   outcomes with scale up of combination antiretroviral therapy
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article
+DE ART scaleup; mode of transmission; ART mortality; ART treatment failure;
+   China; Yunnan
+ID RESOURCE-LIMITED SETTINGS; INJECTION-DRUG USERS; TREATMENT PROGRAM;
+   TREATMENT FAILURE; 1ST YEAR; MORTALITY; ADHERENCE; REGIMENS; CRITERIA;
+   MALAWI
+AB Effective health care models to scale up combination antiretroviral therapy (ART) are needed in rural southwestern China. We aimed to evaluate the ART treatment outcomes and their associations with patients' demographic characteristics and pre-treatment clinical features in a scaled-up provincial ART program serving eight heavily HIV-affected prefectures in Yunnan Province. We abstracted information from a computerized database for adults initiating ART between July 2007 and September 2008. Survival functions of mortality and treatment failure were calculated by age group, gender, transmission mode, and baseline CD4 count. Multivariable Cox regression analyses were conducted to find independent associations of various demographic and baseline clinical features with outcome variables. Of the 1967 patients in the mortality analysis, there were 110 deaths, of which 16 were coded as accidents or suicides. Adjusted hazard ratios (AHR) associated with mortality were greater for patients with baseline CD4 counts <100 cells/mu l vs. patients with CD4 counts 200 cells/mu l, for male vs. female, for single vs. married, and for those acquired HIV through injection drug use (IDU) vs. other modes of transmission. Successful treatment was 81.3% at six months after treatment started. Immunologic treatment failure was associated with baseline CD4 counts but not with demographic characteristics. Overall loss to follow-up rate was 2.1%. Collaboration between clinics and community networks are distinctive features of Yunnan's model for scaling up ART across a diverse, poor, and rural population. This study finds that the strategy can succeed even if 40% of the patients have a history of IDU.
+C1 [Chen, Juemin; Wang, Yungshen; Hu, Yanhong] Yunnan Bur Hlth, Kunming, Peoples R China.
+   [Yu, Bo; Tang, Michele; Cai, Thomas; Harwell, Joseph I.] Clinton Fdn China Hlth Access Initiat, Beijing, Peoples R China.
+   [Cai, Thomas; Harwell, Joseph I.] AIDS Care China, Kunming, Peoples R China.
+   [Zhang, FuJie] Natl Ctr AIDS STD Control & Prevent, Treatment & Care Div, Beijing, Peoples R China.
+   [von Zinkernagel, Deborah] Pangaea Global AIDS Fdn, San Francisco, CA USA.
+   [Huang, Zhihuan Jennifer] Georgetown Univ, Sch Nursing & Hlth Studies, Dept Int Hlth, Washington, DC 20057 USA.
+C3 Chinese Center for Disease Control & Prevention; National Center for
+   AIDS/STD Control & Prevention, Chinese Center for Disease Control &
+   Prevention; Georgetown University
+RP Huang, ZJ (corresponding author), Georgetown Univ, Sch Nursing & Hlth Studies, Dept Int Hlth, Washington, DC 20057 USA.
+EM Zh34@georgetown.edu
+RI Harwell, Joseph/AAI-8566-2021; hu, Yanhong Jessika/T-7106-2018
+OI Harwell, Joseph/0000-0002-8853-9603; hu, Yanhong
+   Jessika/0000-0002-0923-7923
+NR 24
+TC 5
+Z9 10
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-0121
+EI 1360-0451
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PD MAY 4
+PY 2014
+VL 26
+IS 5
+BP 633
+EP 641
+DI 10.1080/09540121.2013.845281
+PG 9
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA AA8HW
+UT WOS:000331337200017
+PM 24116389
+DA 2023-12-06
+ER
+
+PT J
+AU Choko, AT
+   MacPherson, P
+   Webb, EL
+   Willey, BA
+   Feasy, H
+   Sambakunsi, R
+   Mdolo, A
+   Makombe, SD
+   Desmond, N
+   Hayes, R
+   Maheswaran, H
+   Corbett, EL
+AF Choko, Augustine T.
+   MacPherson, Peter
+   Webb, Emily L.
+   Willey, Barbara A.
+   Feasy, Helena
+   Sambakunsi, Rodrick
+   Mdolo, Aaron
+   Makombe, Simon D.
+   Desmond, Nicola
+   Hayes, Richard
+   Maheswaran, Hendramoorthy
+   Corbett, Elizabeth L.
+TI Uptake, Accuracy, Safety, and Linkage into Care over Two Years of
+   Promoting Annual Self-Testing for HIV in Blantyre, Malawi: A
+   Community-Based Prospective Study
+SO PLOS MEDICINE
+LA English
+DT Article
+ID SUB-SAHARAN AFRICA; CHI-SQUARED TESTS; ANTIRETROVIRAL THERAPY; MALE
+   CIRCUMCISION; INFECTION; BARRIERS; PREVENTION; LESSONS; PROGRAM; POLICY
+AB Background
+   Home-based HIV testing and counselling (HTC) achieves high uptake, but is difficult and expensive to implement and sustain. We investigated a novel alternative based on HIV self-testing (HIVST). The aim was to evaluate the uptake of testing, accuracy, linkage into care, and health outcomes when highly convenient and flexible but supported access to HIVST kits was provided to a well-defined and closely monitored population.
+   Methods and Findings
+   Following enumeration of 14 neighbourhoods in urban Blantyre, Malawi, trained resident volunteer-counsellors offered oral HIVST kits (OraQuick ADVANCE Rapid HIV-1/2 Anti-body Test) to adult (>= 16 y old) residents (n = 16,660) and reported community events, with all deaths investigated by verbal autopsy. Written and demonstrated instructions, pre- and post-test counselling, and facilitated HIV care assessment were provided, with a request to return kits and a self-completed questionnaire. Accuracy, residency, and a study-imposed requirement to limit HIVST to one test per year were monitored by home visits in a systematic quality assurance (QA) sample. Overall, 14,004 (crude uptake 83.8%, revised to 76.5% to account for population turnover) residents self-tested during months 1-12, with adolescents (16-19 y) most likely to test. 10,614/14,004 (75.8%) participants shared results with volunteer-counsellors. Of 1,257 (11.8%) HIV-positive participants, 26.0% were already on antiretroviral therapy, and 524 (linkage 56.3%) newly accessed care with a median CD4 count of 250 cells/mu l (interquartile range 159-426). HIVST uptake in months 13-24 was more rapid (70.9% uptake by 6 mo), with fewer (7.3%, 95% CI 6.8%-7.8%) positive participants. Being "forced to test", usually by a main partner, was reported by 2.9% (95% CI 2.6%-3.2%) of 10,017 questionnaire respondents in months 1-12, but satisfaction with HIVST (94.4%) remained high. No HIVST-related partner violence or suicides were reported. HIVST and repeat HTC results agreed in 1,639/1,649 systematically selected (1 in 20) QA participants (99.4%), giving a sensitivity of 93.6% (95% CI 88.2%-97.0%) and a specificity of 99.9% (95% CI 99.6%-100%). Key limitations included use of aggregate data to report uptake of HIVST and being unable to adjust for population turnover.
+   Conclusions
+   Community-based HIVST achieved high coverage in two successive years and was safe, accurate, and acceptable. Proactive HIVST strategies, supported and monitored by communities, could substantially complement existing approaches to providing early HIV diagnosis and periodic repeat testing to adolescents and adults in high-HIV settings.
+C1 [Choko, Augustine T.; Feasy, Helena; Sambakunsi, Rodrick; Mdolo, Aaron; Desmond, Nicola; Maheswaran, Hendramoorthy; Corbett, Elizabeth L.] Malawi Liverpool Wellcome Trust Clin Res Programm, Blantyre, Malawi.
+   [MacPherson, Peter; Desmond, Nicola] Univ Liverpool, Dept Publ Hlth & Policy, Liverpool L69 3BX, Merseyside, England.
+   [MacPherson, Peter] Univ Liverpool, Liverpool Sch Trop Med, Dept Clin Sci, Liverpool L3 5QA, Merseyside, England.
+   [Webb, Emily L.; Willey, Barbara A.; Hayes, Richard; Corbett, Elizabeth L.] London Sch Hyg & Trop Med, Liverpool, Merseyside, England.
+   [Makombe, Simon D.] Minist Hlth, HIV Unit, Lilongwe, Malawi.
+   [Maheswaran, Hendramoorthy] Warwick Med Sch, Div Hlth Sci, Coventry, W Midlands, England.
+C3 University of Malawi; University of Liverpool; University of Liverpool;
+   Liverpool School of Tropical Medicine; University of London; London
+   School of Hygiene & Tropical Medicine; University of Warwick
+RP Choko, AT (corresponding author), Malawi Liverpool Wellcome Trust Clin Res Programm, Blantyre, Malawi.
+EM augutc@gmail.com
+RI Desmond, Nicola/GYQ-8574-2022; MacPherson, Peter/AHD-2477-2022
+OI MacPherson, Peter/0000-0002-0329-9613; Desmond,
+   Nicola/0000-0002-2874-8569; Feasey, Helena/0000-0003-3109-6722; Corbett,
+   Elizabeth/0000-0002-3552-3181; Hayes, Richard/0000-0002-1729-9892;
+   Choko, Augustine/0000-0001-6095-9430; Maheswaran,
+   Hendramoorthy/0000-0002-7375-4845; Webb, Emily/0000-0002-4019-7456
+FU Wellcome Trust Senior Research Fellowship in Clinical Science
+   [WT091769]; Medical Research Council [MR/K012126/1] Funding Source:
+   researchfish
+FX The study was funded as part of a Wellcome Trust Senior Research
+   Fellowship in Clinical Science (grant number: WT091769) awarded to ELC.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 50
+TC 238
+Z9 247
+U1 0
+U2 23
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1549-1277
+EI 1549-1676
+J9 PLOS MED
+JI PLos Med.
+PD SEP
+PY 2015
+VL 12
+IS 9
+AR e1001873
+DI 10.1371/journal.pmed.1001873
+PG 21
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA CS6TU
+UT WOS:000362216200008
+PM 26348035
+OA Green Submitted, gold, Green Accepted, Green Published
+HC Y
+HP N
+DA 2023-12-06
+ER
+
+PT J
+AU Müller, A
+   Spencer, S
+   Meer, T
+   Daskilewicz, K
+AF Muller, Alex
+   Spencer, Sarah
+   Meer, Talia
+   Daskilewicz, Kristen
+TI The no-go zone: a qualitative study of access to sexual and reproductive
+   health services for sexual and gender minority adolescents in Southern
+   Africa
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Adolescents; Sexual and reproductive health and rights; Sexual and
+   gender minorities; HIV; Service provision; Heteronormativity;
+   Criminalisation; Stigma; Southern Africa; LGBT
+ID RISK; CARE; ORIENTATION; POPULATION; MORTALITY; SUICIDE; YOUTH; STEP;
+   MEN; GAY
+AB Background: Adolescents have significant sexual and reproductive health needs. However, complex legal frameworks, and social attitudes about adolescent sexuality, including the values of healthcare providers, govern adolescent access to sexual and reproductive health services. These laws and social attitudes are often antipathetic to sexual and gender minorities. Existing literature assumes that adolescents identify as heterosexual, and exclusively engage in (heteronormative) sexual activity with partners of the opposite sex/gender, so little is known about if and how the needs of sexual and gender minority adolescents are met.
+   Methods: In this article, we have analysed data from fifty in-depth qualitative interviews with representatives of organisations working with adolescents, sexual and gender minorities, and/or sexual and reproductive health and rights in Malawi, Mozambique, Namibia, Zambia and Zimbabwe.
+   Results: Sexual and gender minority adolescents in these countries experience double-marginalisation in pursuit of sexual and reproductive health services: as adolescents, they experience barriers to accessing LGBT organisations, who fear being painted as "homosexuality recruiters," whilst they are simultaneously excluded from heteronormative adolescent sexual and reproductive health services. Such barriers to services are equally attributable to the real and perceived criminalisation of consensual sexual behaviours between partners of the same sex/gender, regardless of their age.
+   Discussion/conclusion: The combination of laws which criminalise consensual same sex/gender activity and the social stigma towards sexual and gender minorities work to negate legal sexual and reproductive health services that may be provided. This is further compounded by age-related stigma regarding sexual activity amongst adolescents, effectively leaving sexual and gender minority adolescents without access to necessary information about their sexuality and sexual and reproductive health, and sexual and reproductive health services.
+C1 [Muller, Alex; Spencer, Sarah; Meer, Talia; Daskilewicz, Kristen] Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+C3 University of Cape Town
+RP Müller, A (corresponding author), Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+EM alex.muller@uct.ac.za
+RI Spencer, Sarah/ABH-3813-2020; Spencer, Sarah/IAN-6514-2023
+OI Spencer, Sarah/0000-0002-7034-6387; Muller, Alex/0000-0002-3254-7591
+FU Ford Foundation
+FX This study was funded by Ford Foundation.
+NR 45
+TC 28
+Z9 28
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD JAN 25
+PY 2018
+VL 15
+AR 12
+DI 10.1186/s12978-018-0462-2
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FT7SX
+UT WOS:000423354300001
+PM 29370809
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

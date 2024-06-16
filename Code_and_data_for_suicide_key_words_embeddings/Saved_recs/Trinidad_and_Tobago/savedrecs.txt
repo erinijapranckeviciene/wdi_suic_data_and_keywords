@@ -1,0 +1,401 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ali, A
+   Maharajh, HD
+AF Ali, A
+   Maharajh, HD
+TI Social predictors of suicidal behaviour in adolescents in Trinidad and
+   Tobago
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Meeting Abstract
+DE social predictors; suicidal ideation; suicide attempts; Trinidad and
+   Tobago
+C1 Univ W Indies, Dept Psychiat, Mt Hope 00000, Trinidad Tobago.
+   Univ W Indies, Dept Behav Sci, St Augustine, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine; University West Indies Mona Jamaica; University West Indies
+   Saint Augustine
+EM drharim@carib-link.net
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD MAR
+PY 2004
+VL 78
+SU 1
+BP S59
+EP S60
+PG 2
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA 808UN
+UT WOS:000220594100083
+DA 2023-12-05
+ER
+
+PT J
+AU Toussaint, L
+   Wilson, CM
+   Wilson, LC
+   Williams, DR
+AF Toussaint, Loren
+   Wilson, Colwick M.
+   Wilson, Leon C.
+   Williams, David R.
+TI Religiousness and suicide in a nationally representative sample of
+   Trinidad and Tobago adolescents and young adults
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Religiousness; Suicide; Adolescents and young adults; Trinidad and
+   Tobago
+ID SERVICE ATTENDANCE; AFRICAN-AMERICANS; BEHAVIOR; IDEATION; HEALTH;
+   ASSOCIATIONS; INVOLVEMENT; CULTURE; JAMAICA; SLAVERY
+AB The present study examines religiousness and its connection to suicidal thoughts, plans, and attempts among Trinidad and Tobago adolescents and young adults.
+   Data are from Trend Research Empowering National Development on adolescents and young adults in Trinidad and Tobago (N = 4448). Religious affiliation, self-perceived religiousness, attendance at religious services, prayer frequency, socio-demographic variables, and suicidal thoughts, plans, and attempts were assessed.
+   Compared to nonreligious, Catholics (OR 0.63, p < 0.05) and Seventh-day Adventists (OR 0.47, p < 0.01) were less likely to think about suicide, and hindus (OR 5.81, p < 0.05) and other affiliates (OR 7.28, p < 0.01) were more likely to be treated for suicide. Higher self-rated religiosity was related to lower likelihood of thinking about suicide (OR 0.86, p < 0.01) and lower likelihood of planning suicide (OR 0.78, p < 0.001). Attendance at religious services was related to lower likelihood of thinking about suicide (OR 0.94, p < 05) and fewer suicide attempts (beta = -0.11, p < 0.01). More frequent prayer was related to lower likelihood of thinking about suicide (OR 0.92, p < 0.01) and lower likelihood of planning suicide (OR 0.90, p < 0.001).
+   Religiousness may offer benefits for adolescents and young adults in Trinidad and Tobago by reducing the likelihood that they engage in suicide thoughts and behaviors. Results may hold implications for counselors, clergy, teachers, and others working with adolescents and young adults in Trinidad and Tobago.
+C1 [Toussaint, Loren] Luther Coll, Dept Psychol, Decorah, IA 52101 USA.
+   [Wilson, Colwick M.] Loma Linda Univ, Social Work & Social Ecol, Acad Affairs, Sch Behav Hlth, Loma Linda, CA 92350 USA.
+   [Wilson, Leon C.] Alabama State Univ, Montgomery, AL 36101 USA.
+   [Williams, David R.] Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, Boston, MA USA.
+   [Williams, David R.] Harvard Univ, Dept African & African Amer Studies, Cambridge, MA USA.
+C3 Loma Linda University; Alabama State University; Harvard University;
+   Harvard T.H. Chan School of Public Health; Harvard University
+RP Toussaint, L (corresponding author), Luther Coll, Dept Psychol, Decorah, IA 52101 USA.
+EM touslo01@luther.edu
+RI Wilson, Colwick/ABD-9078-2020; Williams, David/HKN-3732-2023
+NR 44
+TC 9
+Z9 12
+U1 0
+U2 14
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD SEP
+PY 2015
+VL 50
+IS 9
+BP 1441
+EP 1450
+DI 10.1007/s00127-015-1045-y
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CS1KA
+UT WOS:000361821700013
+PM 25805599
+DA 2023-12-05
+ER
+
+PT J
+AU Ali, A
+   Maharajh, HD
+AF Ali, A
+   Maharajh, HD
+TI Social predictors of suicidal behaviour in adolescents in Trinidad and
+   Tobago
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE predictors; suicidal ideation; suicide attempts; Trinidad
+ID HIGH-SCHOOL-STUDENTS; RISK-FACTORS; IDEATION; MODEL; CHILDREN; LIFE
+AB Background Previous research in Trinidad and Tobago has been limited in examining suicidal behaviours through psychological autopsy, secondary data and psychiatric populations. To date, there has been no community survey with an emphasis on causation and prevention. Methods A total of 1,845 respondents aged 14-20 were selected in 24 schools across the country. Data were collected on socio-demographic variables and suicidal behaviour. Results Gender differences existed for both suicidal ideation and attempts (p < 0.001). Respondents from reconstituted families had higher suicidal ideation compared to other family structures (p < 0.001), while intact families had the lowest rate for suicide attempts (p < 0.01). Attendance to a religious institution lowered only suicidal ideation (p < 0.05), while prayer with the family lowered both suicidal ideation (p < 0.01) and suicide attempts (p < 0.001). Individuals with alcohol abuse in the family had higher suicidal ideation (p < 0.001) and attempts (p < 0.001). Conclusions Significant social predictors of suicidal behaviour in Trinidad and Tobago are gender, attendance to a religious institution, prayer with the family, family structure and alcohol abuse in the family. It is essential to consider these predictors in planning public health policies.
+C1 Univ W Indies, Dept Psychiat, Mt Hope, Trinidad Tobago.
+   Univ W Indies, Dept Behav Sci, St Augustine, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine; University West Indies Mona Jamaica; University West Indies
+   Saint Augustine
+RP Maharajh, HD (corresponding author), Univ W Indies, Dept Psychiat, Mt Hope, Trinidad Tobago.
+EM drharim@carib-link.net
+NR 48
+TC 26
+Z9 28
+U1 0
+U2 3
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD MAR
+PY 2005
+VL 40
+IS 3
+BP 186
+EP 191
+DI 10.1007/s00127-005-0846-9
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 902QF
+UT WOS:000227370900002
+PM 15742222
+DA 2023-12-05
+ER
+
+PT J
+AU Hutchinson, G
+AF Hutchinson, G
+TI Variation of homicidal and suicidal behaviour within Trinidad and Tobago
+   and the associated ecological risk factors
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+ID VIOLENCE; MORTALITY; ALCOHOL; GENDER; DEATH
+AB Self destructive behaviour may not occur consistently across a population. Identification of variations in homicidal and suicidal behaviour within a country can enable specific prevention and public health strategies to be adopted. This is significant because morbidity and mortality associated with these behaviour patterns is preventable and the affected population is increasingly young adults with potentially productive lives. The author sought to identify some of the associated risk factors with the behaviours in Trinidad and Tobago, a developing island-state in the English-speaking Caribbean, by disaggregating the homicide and suicide data available from Police records for distinct geographical regions. Spearman rank correlation was used to determine whether any of the variations observed could be attributed to social or demographic factors. Homicide and suicide were inversely related in many areas of the country. They were both low in Tobago. Homicide was positively associated with high population density, low marriage rates, African ethnicity and showed a trend toward association with school drop-out rates.
+   For suicide, low population density, low income, East Indian ethnicity and alcohol consumption were significantly correlated. These findings underline the benefit of disaggregating national data and suggest specific interventions to diminish the occurrence of these harmful behaviour patterns in Trinidad and Tobago with possible extension to other similar developing countries.
+C1 Univ W Indies, Dept Clin Med Sci, Psychiat Unit, Champs Fleurs, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine
+RP Hutchinson, G (corresponding author), Univ W Indies, Dept Clin Med Sci, Psychiat Unit, Eric Williams Med Sci Complex,Mt Hope, Champs Fleurs, Trinidad Tobago.
+EM gah@tstt.net.tt
+NR 24
+TC 9
+Z9 10
+U1 0
+U2 8
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+EI 2309-5830
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD OCT
+PY 2005
+VL 54
+IS 5
+BP 319
+EP 324
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 000DP
+UT WOS:000234441400009
+PM 16459515
+DA 2023-12-05
+ER
+
+PT J
+AU Maharajh, HD
+   Abdool, P
+   Mohammed-Emamdee, R
+AF Maharajh, Hari D.
+   Abdool, Petal
+   Mohammed-Emamdee, Rehanna
+TI The Theory and Practice of Consultation-Liaison (CL) Psychiatry in
+   Trinidad and Tobago with Reference to Suicidal Behavior
+SO THESCIENTIFICWORLDJOURNAL
+LA English
+DT Article
+DE consultation-liaison; psychiatry; theory; practice; suicidal behavior;
+   general hospital; Trinidad and Tobago
+AB Consultation-Liaison Psychiatry (CL Psychiatry) is not a well-established discipline in developing countries. It is a multifaceted area that incorporates clinical, teaching, and research activities both within the hospital and extramurally in community health services. Our purpose was first to define the role of CL Psychiatry, to review essential steps in the process, and to advise on how to set up services. Second, a 1-year retrospective analysis was conducted on all patients referred. A total of 708 persons were referred for psychiatric consultation, of which 41% (291) were referred because of suicidal behavior. Sixty-six percent were female and there was an over-representation of Indo-Trinidadians (67%). Twenty-six percent of all cases of suicidal behavior were diagnosed with clinical depression, 3% were suffering from a psychotic illness (schizophrenia), and 8% (24/291) were under the influence of alcohol. The most vulnerable group was the 25- to 35-year-old age group, accounting for 27% (78/291) of attempters, with the largest number of female attempters. The 36- to 55-year-old males were most likely to attempt suicide (35/99). Ingestion of a toxic substance was the most popular method among all races, genders, and age groups. Of all referrals, 95% originated from medical wards. The most common reason cited for attempts was depressed mood, secondary to a domestic dispute with a family member or significant other. Among Caribbean countries, Trinidad and Tobago has high rates of suicide and suicidal behavior, depression, and alcoholism. CL psychiatrists have a major role to play in the delivery of services to these groups, facilitating the transition of care from admission in the emergency room to discharge and follow-up in the community.
+C1 [Maharajh, Hari D.] Univ W Indies, St Augustine, Trinidad Tobago.
+   [Abdool, Petal] Univ Toronto, Dept Psychiat, Toronto, ON M5S 1A1, Canada.
+   [Mohammed-Emamdee, Rehanna] San Fernando Gen Hosp, Psychiat Unit, St Augustine, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine; University of Toronto
+RP Maharajh, HD (corresponding author), Univ W Indies, St Augustine, Trinidad Tobago.
+EM drharim@carib-link.net
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 5
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1537-744X
+J9 THESCIENTIFICWORLDJO
+JI TheScientificWorldJOURNAL
+PY 2008
+VL 8
+BP 920
+EP 928
+DI 10.1100/tsw.2008.74
+PG 9
+WC Environmental Sciences; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Science & Technology - Other Topics
+GA 380QE
+UT WOS:000261479500022
+PM 18836659
+OA Green Submitted, Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Maharajh, HD
+   Abdool, PS
+AF Maharajh, Hari D.
+   Abdool, Petal S.
+TI Cultural aspects of suicide
+SO THESCIENTIFICWORLDJOURNAL
+LA English
+DT Article
+DE human development; suicide; public health; Trinidad
+ID BEHAVIOR; EPIDEMIOLOGY
+AB Undefined cultural factors cannot be dismissed and significantly contribute to the worldwide incidence of death by suicide. Culture is an all embracing term and defines the relationship of an individual to his environment. This study seeks to investigate the effect of culture on suicide both regionally and internationally. Culture-bound syndromes with suicidal behaviours specific to a particular culture or geographical region are discussed. Opinions are divided as to the status of religious martyrs. The law itself is silent on many aspects of suicidal behaviour and despite decriminalization of suicide as self-murder, the latter remains on the statutes of many developing countries. The Caribbean region is of concern due to its steady rise in mean suicide rate, especially in Trinidad and Tobago where socio-cultural factors are instrumental in influencing suicidal behaviour. These include transgenerational cultural conflicts, psycho-social problems, media exposure, unemployment, social distress, religion and family structure. The methods used are attributed to accessibility and lethality. Ingestion of poisonous substances is most popular followed by hanging. The gender differences seen with regard to suicidality can also be attributed to gender related psychopathology and psychosocial differences in help-seeking behaviour. These are influenced by the cultural environment to which the individual is exposed. Culture provides coping strategies to individuals; as civilization advances many of these coping mechanisms are lost, unclothing the genetic predisposition of vulnerable groups. In the management of suicidal behaviour, a system of therapeutic re-culturation is needed with an emphasis on relevant culture-based therapies.
+C1 Univ W Indies, Dept Med Sci, Mt Hope, Trinidad Tobago.
+C3 University West Indies Mona Jamaica; University West Indies Saint
+   Augustine
+RP Maharajh, HD (corresponding author), Univ W Indies, Dept Med Sci, Mt Hope, Trinidad Tobago.
+EM drharim@carib-link.net
+NR 51
+TC 18
+Z9 20
+U1 0
+U2 18
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1537-744X
+J9 THESCIENTIFICWORLDJO
+JI TheScientificWorldJOURNAL
+PD SEP
+PY 2005
+VL 5
+BP 736
+EP 746
+DI 10.1100/tsw.2005.88
+PG 11
+WC Environmental Sciences; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Science & Technology - Other Topics
+GA 110NL
+UT WOS:000242385500005
+PM 16155688
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Parental involvement and mental health among school-going adolescents in
+   five Caribbean countries
+SO JOURNAL OF PSYCHOLOGY IN AFRICA
+LA English
+DT Article
+DE adolescents; Caribbean; mental health; parental involvement
+ID DEPRESSIVE SYMPTOMS; SUICIDAL IDEATION; RISK; CONNECTEDNESS; BEHAVIORS;
+   ASSOCIATIONS; METAANALYSIS; CHILDREN; VIOLENCE; JAMAICA
+AB The aim of this study was to assess the association between parental involvement and mental health among adolescents in five Caribbean countries: Antigua and Barbuda, Bahamas, Saint Kitts and Nevis, Jamaica and Trinidad, and Tobago. Data were from the cross-sectional Global School-Based Student Health Survey (GSHS) which sampled 10 063 adolescents (mean age 14.3 years, SD = 1.3) from 2009 to 2013. In multivariable logistic regression analyses (adjusted for age, sex, and socioeconomic status), bullied, having close friends and peer support, and higher levels of parental involvement were negatively associated with loneliness, anxiety, and suicidal ideation in all five countries. In Jamaica, parental involvement was not associated with suicide attempt. Parental involvement interventions for improving mental health among the Caribbean adolescents should consider peer influences.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhonpathom, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Univ Limpopo, Dept Res Dev & Innovat, Sovenga, South Africa.; Peltzer, K (corresponding author), Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+EM kpeltzer@hsrc.ac.za
+RI Peltzer, Karl/Q-7334-2019; Peltzer, Karl/D-1518-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 30
+TC 9
+Z9 10
+U1 2
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1433-0237
+EI 1815-5626
+J9 J PSYCHOL AFR
+JI J. Psychol. Afr.
+PY 2018
+VL 28
+IS 5
+BP 394
+EP 399
+DI 10.1080/14330237.2018.1501916
+PG 6
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GY7EQ
+UT WOS:000448769100008
+DA 2023-12-05
+ER
+
+PT J
+AU Abdirahman, HA
+   Bah, TT
+   Shrestha, HL
+   Jacobsen, KH
+AF Abdirahman, H. A.
+   Bah, T. T.
+   Shrestha, H. L.
+   Jacobsen, K. H.
+TI Bullying, Mental Health, and Parental Involvement among Adolescents in
+   the Caribbean
+SO WEST INDIAN MEDICAL JOURNAL
+LA English
+DT Article
+DE Bullying; peer victimization; mental health; parenting
+ID PEER; AGGRESSION; FAMILY; GIRLS; BOYS
+AB Objective: To examine the relationships between peer victimization, mental health, and parental involvement among middle school students in the Caribbean.
+   Methods: Data from the Global School-based Student Health Survey (GSHS) conducted in the Cayman Islands, St Lucia, St Vincent and the Grenadines, and Trinidad and Tobago in 2007 were analysed using age- and gender-adjusted logistic regression models.
+   Results: About one-quarter of the 6780 participants reported having been bullied in the past month. Rates of bullying were similar for boys and girls, and younger children reported higher rates of peer victimization. Nearly 25% of students reported sadness and hopelessness, more than 10% reported loneliness and anxiety and more than 15% reported having seriously considered suicide in the past year. Bullied students were much more likely than non-bullied students to report mental health issues (p < 0.01). Students who felt that their parents were understanding and monitored their free time activities reported fewer mental health issues and were somewhat less likely to report being a victim of a bully.
+   Conclusion: The strong association between bullying and poor mental health in the Caribbean emphasizes the need to develop and implement strategies for reducing bullying among children and adolescents.
+C1 [Abdirahman, H. A.; Bah, T. T.; Shrestha, H. L.; Jacobsen, K. H.] George Mason Univ, Dept Global & Community Hlth, Fairfax, VA 22033 USA.
+C3 George Mason University
+RP Jacobsen, KH (corresponding author), George Mason Univ, Dept Global & Community Hlth, Fairfax, VA 22033 USA.
+EM kjacobse@gmu.edu
+RI Jacobsen, Kathryn H./B-5857-2008
+OI Jacobsen, Kathryn H./0000-0002-4198-6246
+NR 16
+TC 27
+Z9 34
+U1 3
+U2 39
+PU UNIV WEST INDIES FACULTY MEDICAL SCIENCES
+PI KINGSTON
+PA MONA CAMPUS, KINGSTON 7, JAMAICA
+SN 0043-3144
+J9 W INDIAN MED J
+JI West Ind. Med. J.
+PD AUG
+PY 2012
+VL 61
+IS 5
+SI SI
+BP 504
+EP 508
+DI 10.7727/wimj.2012.212
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 091WM
+UT WOS:000315080500007
+PM 23441373
+DA 2023-12-05
+ER
+
+EF

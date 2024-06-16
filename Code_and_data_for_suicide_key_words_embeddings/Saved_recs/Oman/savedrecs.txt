@@ -1,0 +1,225 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zaidan, ZAJ
+   Burke, DT
+   Dorvlo, ASS
+   Al-Naamani, A
+   Al-Suleimani, A
+   Al-Hussaini, A
+   Al-Sharbati, MM
+   Al-Adawi, S
+AF Zaidan, ZAJ
+   Burke, DT
+   Dorvlo, ASS
+   Al-Naamani, A
+   Al-Suleimani, A
+   Al-Hussaini, A
+   Al-Sharbati, MM
+   Al-Adawi, S
+TI Deliberate self-poisoning in Oman
+SO TROPICAL MEDICINE & INTERNATIONAL HEALTH
+LA English
+DT Article
+DE deliberate self-harm; suicide; acculturation; modernization;
+   Arab/Islamic; Oman
+ID ATTEMPTED-SUICIDE; HARM; PARASUICIDE; OVERDOSE; TRENDS; REPETITION;
+   PREVENTION; OXFORD
+AB OBJECTIVE To describe the demographics, precipitating factors, substances and methods used for deliberate self-harm in Oman.
+   METHODS Data were extracted from the Accident and Emergency (A & E) records of patients treated at the A & E units in Muscat from 1993 to 1998. Data were obtained form the history, and clinical findings resulting form deliberate self-harm.
+   RESULTS During the 5-year study period, 123 persons presented to various hospitals in the Muscat area with injuries that resulted form deliberate self-harm. Most of these cases were women, students and unemployed. There was a high incidence of family, marital and psychiatric or social problems. The methods of self-harm were most often analgesics (such as paracetamol) and non-pharmaceutical chemicals.
+   CONCLUSIONS The rate of self-injurious behaviour is low in Oman, compared with other countries, including other Islamic countries. The data illustrate a rising rate and a tendency to ingest toxic doses of analgesics or non-pharmaceutical chemicals.
+C1 Harvard Univ, Dept Phys Med & Rehabil, Spaulding Rehabil Hosp, Sch Med, Boston, MA 02114 USA.
+   Sultan Qaboos Univ, Dept Behav Med, Coll Med, Muscat, Oman.
+   Sultan Qaboos Univ, Dept Math & Stat, Coll Sci, Muscat, Oman.
+C3 Harvard University; Harvard Medical School; Spaulding Rehabilitation
+   Hospital; Sultan Qaboos University; Sultan Qaboos University
+RP Al-Adawi, S (corresponding author), Harvard Univ, Dept Phys Med & Rehabil, Spaulding Rehabil Hosp, Sch Med, 125 Nashua St, Boston, MA 02114 USA.
+RI Al-Adawi, Samir/A-9663-2016
+OI Al-Adawi, Samir/0000-0002-9858-5582
+NR 52
+TC 15
+Z9 17
+U1 0
+U2 2
+PU BLACKWELL PUBLISHING LTD
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DG, OXON, ENGLAND
+SN 1360-2276
+J9 TROP MED INT HEALTH
+JI Trop. Med. Int. Health
+PD JUN
+PY 2002
+VL 7
+IS 6
+BP 549
+EP 556
+DI 10.1046/j.1365-3156.2002.00887.x
+PG 8
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 556GM
+UT WOS:000175841100012
+PM 12031079
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Cutright, P
+   Fernquist, RM
+AF Cutright, P
+   Fernquist, RM
+TI Firearms and suicide: The American experience, 1926-1996
+SO DEATH STUDIES
+LA English
+DT Article
+ID GUN OWNERSHIP; TRENDS; SEX; AVAILABILITY; PREVENTION; COUNTRIES; YOUTH
+AB The hypothesis that American male suicide rates are higher than the rates of re,omen because men select more highly lethal methods than do women is tested by adjusting male rates so that the distribution of male and female suicides to highly lethal methods is equal. However, the adjusted male rate is still higher than the total female rate in all eight periods from 1926-1929 through 1996. Also, increases in the percentage of female suicides using firearms over this period are unrelated to increases in female rates, and similar increases in firearms use by males are positively related to increases in male suicide rates only in recent decades. The impact of change in the male firearms suicide rate on change in their total suicide rate was weak or nonexistent in three of seven change periods; its impact on the female total rate was trivial in five of the seven change periods.
+C1 Cent Missouri State Univ, Dept Sociol & Social Work, Warrensburg, MO 64093 USA.
+   Indiana Univ, Bloomington, IN USA.
+C3 University Central Missouri; Indiana University System; Indiana
+   University Bloomington
+RP Fernquist, RM (corresponding author), Cent Missouri State Univ, Dept Sociol & Social Work, Warrensburg, MO 64093 USA.
+NR 34
+TC 9
+Z9 9
+U1 0
+U2 1
+PU HEMISPHERE PUBL CORP
+PI BRISTOL
+PA 1900 FROST ROAD, SUITE 101, BRISTOL, PA 19007-1598 USA
+SN 0748-1187
+J9 DEATH STUD
+JI Death Stud.
+PD DEC
+PY 2000
+VL 24
+IS 8
+BP 705
+EP 719
+DI 10.1080/074811800750036587
+PG 15
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 380ET
+UT WOS:000165687000003
+PM 11503719
+DA 2023-12-06
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-06
+ER
+
+PT J
+AU Hassanian-Moghaddam, H
+   Zarei, MR
+   Kargar, M
+   Sarjami, S
+   Rasouli, MR
+AF Hassanian-Moghaddam, Hossein
+   Zarei, Mohammad-Reza
+   Kargar, Mona
+   Sarjami, Saeedeh
+   Rasouli, Mohammad R.
+TI Factors associated with nonbenzodiazepine antiepileptic drug
+   intoxication: Analysis of 9,809 registered cases of drug poisoning
+SO EPILEPSIA
+LA English
+DT Article
+DE Anticonvulsants; Intoxication; Antiepileptic drug; Suicide; Attempted;
+   Risk factors
+ID MARITAL-STATUS; RISK-FACTORS; EPILEPSY; SUICIDE; OVERDOSE; PATTERN;
+   MORTALITY; COHORT; OMAN
+AB P>Purpose:
+   Antiepileptic drug (AED) intoxications are common due in part to wide clinical application and availability. Because AEDs usually depress central nervous system function, overdosing may be potentially life-threatening or lead to a range of adverse outcomes. The aim of this study was to identify risk factors for nonbenzodiazepine AED (NBAED) intoxication.
+   Methods:
+   In this cross-sectional study, all consecutive adult and adolescent (> 12 years old) poisoned patients who presented to the Loghman-Hakim Poison Hospital (LHPH) during a 6-month period were evaluated. Patients with NBAED intoxication were identified and compared to a control group of those other pharmaceutical intoxications. The risk factors for AED intoxication were identified using univariate analyses and multivariate modeling.
+   Results:
+   Among 9,809 cases of pharmaceutical agent overdose, there were 474 cases (4.8%) with NBAED intoxication. Mean age of the subjects was 24.5 +/- 8.9 years. The most frequent NBAED was carbamazepine (n = 117), followed by phenobarbital (n = 77) and sodium valproate (n = 51). The most frequent motivation was intentional intoxication (95.3%). Multivariate analysis revealed that presence of medical disorders, a history of psychological events, and loneliness were associated with AED intoxication, whereas educational level had a protective effect. There was no association between previous history of parasuicide, sex, age, occupation status, and AED intoxication.
+   Discussion:
+   In conclusion, this study showed that the majority of AED intoxications are due to deliberate self poisoning. The presence of psychological events, medical disorders, and loneliness are risk factors for AED intoxication, whereas higher education level has a protective effect.
+C1 [Hassanian-Moghaddam, Hossein] Shahid Beheshti Univ MC, Dept Internal Med, Div Clin Toxicol, Loghman Hakim Poison Hosp, Tehran, Iran.
+   [Zarei, Mohammad-Reza] Imam Hosp, Dept Emergency Med, Tehran, Iran.
+   [Zarei, Mohammad-Reza] Univ Tehran Med Sci, Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Kargar, Mona] Univ Tehran Med Sci, Dept Clin Pharm, Tehran, Iran.
+   [Sarjami, Saeedeh] Private Child & Adolescent Psychiat Clin, Tehran, Iran.
+   [Rasouli, Mohammad R.] Sina Trauma & Surg Res Ctr, Tehran, Iran.
+C3 Shahid Beheshti University Medical Sciences; Tehran University of
+   Medical Sciences; Tehran University of Medical Sciences
+RP Hassanian-Moghaddam, H (corresponding author), Shahid Beheshti Univ MC, Dept Internal Med, Div Clin Toxicol, Loghman Hakim Poison Hosp, Tehran, Iran.
+EM hassanian@sbmu.ac.ir
+RI Kargar, Mona/ABC-4942-2020
+OI Zarei, Mohammadreza/0000-0002-4136-2994; Rasouli, Mohammad
+   R./0000-0001-7181-5803; Hassanian-Moghaddam,
+   Hossein/0000-0003-4370-0544; Kargar, Mona/0000-0002-2572-4991
+FU Sina Trauma and Surgery Research Center, Tehran University of Medical
+   Sciences
+FX This study was supported by a grant from Sina Trauma and Surgery
+   Research Center, Tehran University of Medical Sciences. The authors
+   would like to thank Professor Abdolkarim Pajoumand, Professor Moosa
+   Zargar, and Dr Morteza abdollahi for their support and Professor Gregory
+   L Carter for his great help and linguistic assistance.
+NR 28
+TC 8
+Z9 9
+U1 0
+U2 5
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0013-9580
+J9 EPILEPSIA
+JI Epilepsia
+PD JUN
+PY 2010
+VL 51
+IS 6
+BP 979
+EP 983
+DI 10.1111/j.1528-1167.2010.02553.x
+PG 5
+WC Clinical Neurology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology
+GA 604VZ
+UT WOS:000278307900005
+PM 20384729
+OA Bronze
+DA 2023-12-06
+ER
+
+EF

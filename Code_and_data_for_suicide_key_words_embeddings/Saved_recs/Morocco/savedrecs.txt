@@ -1,0 +1,1362 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Alonso, R
+   Rey, MG
+AF Alonso, Rogelio
+   Rey, Marcos Garcia
+TI The evolution of jihadist terrorism in Morocco
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+DE Al qaeda; Casablanca bombings; islamism; jihadism; Morocco; suicide
+   terrorism
+ID SUICIDE TERRORISM
+AB Over the last few years, Moroccans have been disproportionately involved in jihadist terrorism. Morocco has been increasingly identified as one of the largest producers of terrorists and insurgents in Afghanistan, Iraq, and throughout Europe. This article examines the factors behind the emergence of jihadist terrorism in Morocco, and how this terrorist threat has gone beyond this country's borders. Three factors have contributed to this development: the influence of global jihad on potential Moroccan jihadists; the growing Islamization of the country; and deteriorating socioeconomic conditions. In analyzing these variables, special attention will be paid to the Casablanca terrorist attacks on May 16, 2003, marking the debut of suicide terrorism in Morocco. The article will also examine the principal counterterrorist initiatives Morocco has implemented in response to this threat.
+C1 Univ Rey Juan Carlos, Madrid, Spain.
+C3 Universidad Rey Juan Carlos
+RP Alonso, R (corresponding author), Univ Rey Juan Carlos, Campus Vicalvaro,Paseo Artilleros S-N, Madrid, Spain.
+EM rogelio.alonso@urjc.es
+NR 77
+TC 12
+Z9 17
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-6553
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PY 2007
+VL 19
+IS 4
+BP 571
+EP 592
+DI 10.1080/09546550701606580
+PG 22
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 229XO
+UT WOS:000250840100007
+DA 2023-12-06
+ER
+
+PT J
+AU Hami, H
+   Soulaymani, A
+   Windy, M
+   Mokhtari, A
+   Soulaymani, R
+AF Hami, H.
+   Soulaymani, A.
+   Windy, M.
+   Mokhtari, A.
+   Soulaymani, R.
+TI YOUNG MEN AND SUICIDE IN MOROCCO
+SO JOURNAL OF MENS HEALTH
+LA English
+DT Meeting Abstract
+C1 [Hami, H.; Soulaymani, A.; Mokhtari, A.] Ibn Tofail Univ, Kenitra, Morocco.
+   [Windy, M.; Soulaymani, R.] Morocco Poison Control Ctr, Rabat, Morocco.
+   [Soulaymani, R.] Mohammed V Univ, Rabat, Morocco.
+C3 Ibn Tofail University of Kenitra; Mohammed V University in Rabat
+RI SOULAYMANI, Abdelmajid/H-4382-2011
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; Rachida, Soulaymani
+   Bencheikh/0000-0002-3764-3523; Mokhtari, Abdelrhani/0000-0002-3771-8257
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1875-6867
+J9 J MENS HEALTH
+JI J. Mens Health
+PD OCT
+PY 2010
+VL 7
+IS 3
+MA 142
+BP 327
+EP 327
+DI 10.1016/j.jomh.2010.09.143
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 687WQ
+UT WOS:000284809300157
+DA 2023-12-06
+ER
+
+PT J
+AU Amiar, L
+   Hami, H
+   Rhalem, N
+   Aarab, A
+   Mokhtari, A
+   Soulaymani, A
+   Soulaymani-Bencheikh, R
+AF Amiar, L.
+   Hami, H.
+   Rhalem, N.
+   Aarab, A.
+   Mokhtari, A.
+   Soulaymani, A.
+   Soulaymani-Bencheikh, R.
+TI Suicide attempts by self-poisoning in children: The past 34 years in
+   Morocco
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Amiar, L.; Aarab, A.] Abdelmalek Essaadi Univ, Fac Sci & Tech, Tanger, Morocco.
+   [Hami, H.; Mokhtari, A.; Soulaymani, A.] Ibn Tofail Univ, Fac Sci, Lab Genet & Biometry, Kenitra, Morocco.
+   [Rhalem, N.; Soulaymani-Bencheikh, R.] Moroccan Poison Control Ctr, Rabat, Morocco.
+C3 Abdelmalek Essaadi University of Tetouan; Ibn Tofail University of
+   Kenitra
+RI SOULAYMANI, Abdelmajid/H-4382-2011
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2018
+VL 48
+SU S
+MA PW0698
+BP S308
+EP S308
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HO9BQ
+UT WOS:000461256104038
+DA 2023-12-06
+ER
+
+PT J
+AU Zarrouq, B
+   Bendaou, B
+   Elkinany, S
+   Rammouz, I
+   Aalouane, R
+   Lyoussi, B
+   Khelafa, S
+   Bout, A
+   Berhili, N
+   Hlal, H
+   Nejjari, C
+   El Rhazi, K
+AF Zarrouq, Btissame
+   Bendaou, B.
+   Elkinany, S.
+   Rammouz, I.
+   Aalouane, R.
+   Lyoussi, B.
+   Khelafa, S.
+   Bout, A.
+   Berhili, N.
+   Hlal, H.
+   Nejjari, C.
+   El Rhazi, K.
+TI Suicidal behaviors among Moroccan school students: prevalence and
+   association with socio-demographic characteristics and psychoactive
+   substances use: a cross-sectional study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicidal behavior; Suicide ideation; Suicide plan; Suicide attempts;
+   Psychoactive substances use; Tobacco use; School students; Morocco
+ID NEUROPSYCHIATRIC INTERVIEW MINI; TOWER-OF-BABEL; ADOLESCENT SUICIDE;
+   UNITED-STATES; RISK-FACTORS; IDEATION; NOMENCLATURE; GENDER
+AB Background: Suicidal behavior is a major cause of injury and death worldwide, especially among adolescents and young adults. Few studies have tackled this issue in the Arab world. The present study investigated the prevalence and the risk factors of suicidal behaviors among Moroccan school students.
+   Methods: From April 2012 to November 2013, a cross-sectional study was conducted in the North-Centre region of Morocco among students in public secondary schools selected using stratified cluster random sampling. The data were collected via anonymous self-administered questionnaires. The Mini International Neuropsychiatric Interview was used in its Moroccan Colloquial Arabic version to assess suicidality according to the DSM-IV criteria.
+   Results: A total of 3020 students (53 % boys) aged 11-23 years (average age = 16 +/- 2.1 years) were included in the study. The prevalence of suicide ideation, suicide planning and suicide attempts during the last month were 15.7, 6.3, and 6.5 % respectively.
+   Univariate analyses demonstrated that suicidal behaviors followed different epidemiological patterns. According to the multivariate analyses, the risk factors for all suicidal behaviors among Moroccan school students were the female gender, middle school level, urban locations, low family income, parents' divorce, tobacco consumption and psychoactive substances (alcohol and cannabis) use.
+   Conclusions: The intervention of preventive programs has become an emergency to overcome the issue of suicidality in Morocco. Further researches on adolescents' suicidal behaviors are suggested to update temporal data and assess the effectiveness of potential interventions.
+C1 [Zarrouq, Btissame; Bendaou, B.; Nejjari, C.; El Rhazi, K.] Sidi Mohammed Ben Abdallah Univ, Fac Med & Pharm, Lab Epidemiol Clin Res & Hlth Community, Fes, Morocco.
+   [Zarrouq, Btissame; Bendaou, B.; Lyoussi, B.] Sidi Mohammed Ben Abdallah Univ, Dhar El Mahraz Fac Sci, Lab Physiol Pharmacol & Environm Hlth, Fes, Morocco.
+   [Rammouz, I.; Aalouane, R.] Sidi Mohammed Ben Abdallah Univ, Fac Med & Pharm, Lab Clin Neurosci, Fes, Morocco.
+   [Khelafa, S.; Bout, A.; Berhili, N.; Hlal, H.] Sidi Mohammed Ben Abdallah Univ, Fac Med & Pharm, Hassan Univ Hosp Ctr 2, Dept Psychiat,Ibn Al Hassan Hosp, Fes, Morocco.
+   [Elkinany, S.] Sidi Mohammed Ben Abdallah Univ, Dhar El Mahraz Fac Literature & Human Sci, Dept English, Fes, Morocco.
+   [Zarrouq, Btissame] Sidi Mohamed Ben Abdillah Univ, Fac Med & Pharm Fez, Dept Epidemiol & Publ Hlth, Fes, Morocco.
+C3 Sidi Mohamed Ben Abdellah University of Fez; Sidi Mohamed Ben Abdellah
+   University of Fez; Sidi Mohamed Ben Abdellah University of Fez; Sidi
+   Mohamed Ben Abdellah University of Fez; Sidi Mohamed Ben Abdellah
+   University of Fez; Sidi Mohamed Ben Abdellah University of Fez
+RP Zarrouq, B (corresponding author), Sidi Mohammed Ben Abdallah Univ, Fac Med & Pharm, Lab Epidemiol Clin Res & Hlth Community, Fes, Morocco.
+EM btissame.zarrouq@usmba.ac.ma
+RI EL RHAZI, Karima/ABY-6004-2022; zarrouq, Btissame/HZL-3034-2023
+OI EL RHAZI, Karima/0000-0002-8135-9044; ZARROUQ,
+   Btissame/0000-0002-2996-8459
+FU CHU Hassan II; Faculty of Medicine and Pharmacy of Fez, University Sidi
+   Mohammed Ben Abdallah
+FX We are grateful to all students who participated in the study, data
+   collectors, and supervisors. We need also to thank CHU Hassan II, and
+   the Faculty of Medicine and Pharmacy of Fez, University Sidi Mohammed
+   Ben Abdallah for funding this study.
+NR 47
+TC 21
+Z9 22
+U1 0
+U2 16
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD NOV 14
+PY 2015
+VL 15
+AR 284
+DI 10.1186/s12888-015-0680-x
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CV9SD
+UT WOS:000364626000006
+PM 26572129
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Mkoko, P
+AF Mkoko, P.
+TI For external use only
+SO SAMJ SOUTH AFRICAN MEDICAL JOURNAL
+LA English
+DT Editorial Material
+AB Hair dye poisoning is a common problem in West Africa, in North Africa and on the Indian subcontinent. In Morocco, acute hair dye poisoning is the most frequent reason for hospitalisation for attempted suicide. In adults, 70 - 90% of episodes of hair dye poisoning are suicide attempts. The reported mortality rate range for acute hair dye poisoning is 10.6 - 38.7%.
+C1 [Mkoko, P.] Groote Schuur Hosp, Fac Hlth Sci, Dept Internal Med, Cape Town, Western Cape, South Africa.
+   [Mkoko, P.] Univ Cape Town, ZA-7700 Rondebosch, South Africa.
+C3 University of Cape Town; University of Cape Town
+RP Mkoko, P (corresponding author), Groote Schuur Hosp, Fac Hlth Sci, Dept Internal Med, Cape Town, Western Cape, South Africa.
+EM mkoko25@me.com
+OI Mkoko, Philasande/0000-0001-9452-9412
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SA MEDICAL ASSOC
+PI PRETORIA
+PA BLOCK F CASTLE WALK CORPORATE PARK, NOSSOB STREET, ERASMUSKLOOF EXT3,
+   PRETORIA, 0002, SOUTH AFRICA
+SN 0256-9574
+EI 2078-5135
+J9 SAMJ S AFR MED J
+JI SAMJ S. Afr. Med. J.
+PD FEB
+PY 2015
+VL 105
+IS 2
+DI 10.7196/SAMJ.9264
+PG 1
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA CD8HZ
+UT WOS:000351337100030
+PM 26242509
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ouassini, A
+AF Ouassini, Anwar
+TI We are All Amina Filali: Social Media, Civil Society, and Rape
+   legislation reform in Morocco
+SO WOMEN & CRIMINAL JUSTICE
+LA English
+DT Article
+DE Article 475; civil society; Morocco; social media
+ID RESPONSES; JUSTICE
+AB In 2012 Amina Filali, a 16-year-old girl from Larache, Morocco was kidnaped, raped, and forced to marry her rapist under Article 475 of the Moroccan penal code. The decision by the courts to impose this law on Amina Filali forced her into an abusive relationship with her 'husband' and eventual suicide through the consumption of rat poison. This case was one of the first mediatized criminal events in post-Arab Spring Morocco and produced a domestic and global movement to repeal Article 475 and protect victims of rape. The paper will examine the case of Amina Filali and how digital mediums can be useful in promoting legal changes.
+C1 [Ouassini, Anwar] Delaware State Univ, Dover, DE 19901 USA.
+C3 Delaware State University
+RP Ouassini, A (corresponding author), Delaware State Univ, Dover, DE 19901 USA.
+EM aouassini@desu.edu
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0897-4454
+EI 1541-0323
+J9 WOMEN CRIM JUSTICE
+JI Women Crim. Justice
+PD JAN 2
+PY 2021
+VL 31
+IS 1
+BP 77
+EP 82
+DI 10.1080/08974454.2019.1698488
+EA DEC 2019
+PG 6
+WC Criminology & Penology; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Women's Studies
+GA QB5QH
+UT WOS:000502655200001
+DA 2023-12-06
+ER
+
+PT J
+AU Shafiq, MN
+   Sinno, AH
+AF Shafiq, M. Najeeb
+   Sinno, Abdulkader H.
+TI Education, Income, and Support for Suicide Bombings: Evidence from Six
+   Muslim Countries
+SO JOURNAL OF CONFLICT RESOLUTION
+LA English
+DT Article
+DE attitudes; Islam; politics of education; suicide bombing; terrorism
+ID TERRORISM
+AB The authors examine the effect of educational attainment and income on support for suicide bombing among Muslim publics in six predominantly Muslim countries that have experienced suicide bombings: Indonesia, Jordan, Lebanon, Morocco, Pakistan, and Turkey. The authors make two contributions. First, they present a conceptual model, which has been lacking in the literature. Second, they consider attitudes toward two different targets of suicide bombings: civilians within the respondent's country and Western military and political personnel in Iraq. The authors find that the effect of educational attainment and income on support for suicide bombings varies across countries and targets.The findings therefore draw attention to the difficulties of making generalizations about Muslim countries and the importance of distinguishing between targets of suicide bombings.
+C1 [Shafiq, M. Najeeb; Sinno, Abdulkader H.] Indiana Univ, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Shafiq, MN (corresponding author), WW Wright Educ Bldg,Room 4232, Bloomington, IN 47405 USA.
+EM mnshafiq@indiana.edu
+NR 41
+TC 58
+Z9 59
+U1 1
+U2 26
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0027
+EI 1552-8766
+J9 J CONFLICT RESOLUT
+JI J. Confl. Resolut.
+PD FEB
+PY 2010
+VL 54
+IS 1
+BP 146
+EP 178
+DI 10.1177/0022002709351411
+PG 33
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 544SE
+UT WOS:000273678800007
+DA 2023-12-06
+ER
+
+PT J
+AU Achour, S
+   Rhalem, N
+   Khattabi, A
+   Lofti, H
+   Mokhtari, A
+   Soulaymani, A
+   Turcant, A
+   Bencheikh, RS
+AF Achour, Sanae
+   Rhalem, Naima
+   Khattabi, Asmae
+   Lofti, Hayat
+   Mokhtari, Abdelrhani
+   Soulaymani, Abdelmajid
+   Turcant, Alain
+   Bencheikh, Rachida Soulaymani
+TI <i>Peganum harmala</i> L. Poisoning in Morocco: about 200 Cases
+SO THERAPIE
+LA French
+DT Article
+DE Peganum harmala L.; poisoning; death; Morocco
+ID HARMINE; ABORTIFACIENT; VASICINE; PLANT
+AB Peganum harmala L. Poisoning in Morocco: about 200 Cases. Aim of the Study. Peganum harmala L. is commonly used in traditional medicine in Morocco for its sedative and emmenagogue properties but expose to the risk of overdose and poisoning. The aim of our study was to analyze a series of 200 cases of poisoning collected in poison control and pharmacovigilance center of Morocco in order to describe the epidemiological, clinical, therapeutic features and outcome of patients and indicate the toxicity of this plant used primarily for therapeutic purposes. Methods. This retrospective study performed over a period of twenty four years from January 1984 to December 2008. Results. The mean age of patients was 24.4 +/- 16.8 years with a female predominance (167 women against 33 men). Therapeutic circumstance was found in 32.5%, followed by suicide (28.5%) and abortion (13.5%). The symptomatology was dominated by neurological, gastrointestinal and cardiovascular signs respectively 34.4%, 31.9 % and 15.8%. The evolution has been specified in 114 cases, 7 deaths have been deplored with a fatality rate of 6.2%.
+C1 [Achour, Sanae] CHU Hassan II, Unite Toxicol, Lab Cent Anal Med, Fes, Morocco.
+   [Achour, Sanae] Fac Med & Pharmacie Fes, Fes, Morocco.
+   [Rhalem, Naima; Khattabi, Asmae; Bencheikh, Rachida Soulaymani] Ctr Antipoison & Pharmacovigilance Maroc, Rabat, Morocco.
+   [Achour, Sanae; Rhalem, Naima; Mokhtari, Abdelrhani; Soulaymani, Abdelmajid] Univ Ibn Tofail, Fac Sci, Kenitra, Morocco.
+   [Lofti, Hayat] Toxicol Lab, Fac Med & Pharmacie, Limoges, France.
+   [Turcant, Alain] CHU Angers, Lab Pharmacotoxicol, Angers, France.
+   [Bencheikh, Rachida Soulaymani] Fac Med & Pharmacie Rabat, Rabat, Morocco.
+C3 Hassan II University Hospital Center of Fez; Sidi Mohamed Ben Abdellah
+   University of Fez; Ibn Tofail University of Kenitra; Universite
+   d'Angers; Centre Hospitalier Universitaire d'Angers; Mohammed V
+   University in Rabat; Ibn sina University Hospital Center of Rabat
+RP Achour, S (corresponding author), Univ Hassan 2, Unite Toxicol, Lab Cent Anal Med, Atlas, Fes, Morocco.
+EM achoursanae@gmail.com
+RI SOULAYMANI, Abdelmajid/H-4382-2011; khattabi, asmae/X-8687-2019
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; khattabi,
+   asmae/0000-0001-5194-996X; TURCANT, Alain/0000-0002-5469-7945; Mokhtari,
+   Abdelrhani/0000-0002-3771-8257
+NR 24
+TC 14
+Z9 14
+U1 1
+U2 19
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A,
+   FRANCE
+SN 0040-5957
+J9 THERAPIE
+JI Therapie
+PD JAN-FEB
+PY 2012
+VL 67
+IS 1
+BP 53
+EP 58
+DI 10.2515/therapie/2012003
+PG 6
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 925UA
+UT WOS:000302785900005
+PM 22487503
+DA 2023-12-06
+ER
+
+PT J
+AU Mahir, S
+   Soulaymani, A
+   Hami, H
+   Mokhtari, A
+   Benali, D
+   Ouammi, L
+   Windy, M
+   Benchekh, RS
+AF Mahir, Siham
+   Soulaymani, Abdelmajid
+   Hami, Hind
+   Mokhtari, Abdelrhani
+   Benali, Doha
+   Ouammi, Lahcen
+   Windy, Maria
+   Soulaymani Benchekh, Rachida
+TI Suicide by poisoning in the Souss-Massa-Draa region of Morocco
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE Poisoning; Suicide; Risk factors; Souss-Massa-Draa; Morocco
+ID PARA-PHENYLENEDIAMINE; CHILDREN
+AB Introduction: Deliberate self-poisoning is a serious problem in Morocco, including in the Souss-Massa-Draa region. However, our understanding of the problem of suicidal poisoning remains limited.
+   Subject: This paper aims to describe the characteristics of patients, toxic substances and poisoning and to identify the risk factors influencing patient outcomes.
+   Methods: A retrospective study was conducted of all cases of deliberate self-poisoning recorded between 1981 and 2007 by the Centre Anti-Poison et de Pharmacovigilance du Maroc.
+   Results: 1,130 cases of self-poisoning were identified. The mean age was 25 +/- 10.1 years and the sex ratio was 0.4. Paraphenylenediamine was the most common cause of death (48 deaths), followed by hydrochloric acid (15 deaths). A close relationship was found between progression to healing and female adolescents and between progression to death and men in other age groups. The study also found that patients who used paraphenylenediamine were twelve times more likely to die (CI95%: 7.4%49.2%) than those who used other substances. Patients with respiratory and cardiovascular conditions had a relative risk of 9.8 (CI95%: 6.3%46%) and 3.6 (CI95%; 2.3%-5.7%). Of the 937 cases with known outcome, 89 died (9.5%).
+C1 [Mahir, Siham; Soulaymani, Abdelmajid; Hami, Hind; Mokhtari, Abdelrhani; Benali, Doha] Univ Ibn Tofail, Fac Sci, Lab Genet & Biometrie, Kenitra 14000, Morocco.
+   [Ouammi, Lahcen; Windy, Maria; Soulaymani Benchekh, Rachida] Ctr Anti Poison & Pharmacovigilance Maroc, Rabat, Morocco.
+C3 Ibn Tofail University of Kenitra
+RP Mahir, S (corresponding author), Univ Ibn Tofail, Fac Sci, Lab Genet & Biometrie, BP 133, Kenitra 14000, Morocco.
+EM mahir-siham@hotmail.fr
+RI SOULAYMANI, Abdelmajid/H-4382-2011
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; Mokhtari,
+   Abdelrhani/0000-0002-3771-8257; Hami, Hinde/0000-0002-1803-0115
+NR 25
+TC 4
+Z9 4
+U1 0
+U2 5
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD MAY-JUN
+PY 2013
+VL 25
+IS 3
+BP 343
+EP 350
+DI 10.3917/spub.253.0343
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 208OA
+UT WOS:000323687800011
+PM 24007910
+DA 2023-12-06
+ER
+
+PT J
+AU Bogaert, K
+AF Bogaert, Koenraad
+TI The Problem of Slums: Shifting Methods of Neoliberal Urban Government in
+   Morocco
+SO DEVELOPMENT AND CHANGE
+LA English
+DT Article
+ID POLITICS
+AB This article puts forward two main arguments. First, it highlights the relationship between different phases of neoliberalism in Morocco together with the specific methods and techniques of urban government that were deployed in an effort to govern the slums and their populations. A period of 'roll back neoliberalism' during the 1980s generated reforms that tried to increase government control over the urban territory to compensate for the negative social outcomes of structural adjustment. The subsequent period of 'roll out neoliberalism' coincided with the attempt to manage and regulate the slum population through new modalities of state intervention. Second, while evolutions in neoliberal government reflected a gradual process, this transition in Morocco was accelerated by security concerns following two moments of serious urban violence: the 1981 riots and the 2003 suicide bombings in Casablanca. Therefore, Morocco's recent political transformations cannot be understood in terms provided by the mainstream narrative linking economic liberalization to democratization. Rather, they reflect a profound shift towards intrinsically authoritarian modalities of neoliberal government which are clearly revealed at the urban scale.
+EM Koenraad.Bogaert@UGent.be
+NR 55
+TC 28
+Z9 36
+U1 0
+U2 15
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-155X
+EI 1467-7660
+J9 DEV CHANGE
+JI Dev. Change
+PD MAY
+PY 2011
+VL 42
+IS 3
+BP 709
+EP 731
+DI 10.1111/j.1467-7660.2011.01706.x
+PG 23
+WC Development Studies
+WE Social Science Citation Index (SSCI)
+SC Development Studies
+GA 791EN
+UT WOS:000292647400002
+DA 2023-12-06
+ER
+
+PT J
+AU Mccauley, C
+   Scheckter, S
+AF McCauley, Clark
+   Scheckter, Sarah
+TI What's Special about US Muslims? The War on Terrorism as Seen by Muslims
+   in the United States, Morocco, Egypt, Pakistan, and Indonesia
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+AB Since 11 September 2001, Europe has suffered multiple jihadi attacks but the United States has not. This American exceptionalism has been attributed to the special qualities of U.S. Muslims, who are seen as politically better integrated and less sympathetic toward radical politics than other Muslims. This article tests the exceptionalism hypothesis by comparing results from a 2007 Pew poll of U.S. Muslims with results from 2006-2007 START polls of Muslims in Morocco, Egypt, Pakistan, and Indonesia. On questions about religious identity, attitude toward Al Qaeda, U.S. intentions in the War on Terrorism, and suicide terrorism, U.S. Muslims differed only slightly from comparison Muslims.
+C1 [McCauley, Clark] Bryn Mawr Coll, Dept Psychol, Bryn Mawr, PA 19010 USA.
+C3 Bryn Mawr College
+RP Mccauley, C (corresponding author), Bryn Mawr Coll, Dept Psychol, 101 N Merion Ave, Bryn Mawr, PA 19010 USA.
+EM cmccaule@brynmawr.edu
+NR 9
+TC 9
+Z9 9
+U1 0
+U2 8
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PY 2008
+VL 31
+IS 11
+BP 973
+EP 980
+AR PII 905051877
+DI 10.1080/10576100802400193
+PG 8
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 368GU
+UT WOS:000260610400001
+DA 2023-12-06
+ER
+
+PT J
+AU Barrimi, M
+   Zaidi, K
+   Hlal, H
+   Kettani, N
+   Khelafa, S
+   Rammouz, I
+   Aalouane, R
+AF Barrimi, Mohammed
+   Zaidi, Khadija
+   Hlal, Hayate
+   Kettani, Narjiss
+   Khelafa, Said
+   Rammouz, Ismail
+   Aalouane, Rachid
+TI Violent suicide attempts in the general hospital of Fez (Morocco):
+   Evaluation and management in liaison psychiatry. Prospective study over
+   a period of 6 months
+SO EVOLUTION PSYCHIATRIQUE
+LA French
+DT Article
+DE Suicide attempt; Risk factors; Prospective study; Liaison psychiatry;
+   Management; University hospital center; Morocco
+ID DELIBERATE SELF-HARM; EMERGENCY-DEPARTMENT; RISK
+AB Suicide attempt situations are not only encountered in psychiatric emergency departments, but also in the other medical and surgical units as well. They are often poorly evaluated after the end of physical care, and they rarely happen in facilities of psychiatric care.
+   Methods. Through a prospective study established over a period of six months, conducted within the university hospital center Hassan II in Fez, we attempted in the context of the activity of the liaison psychiatry to assess, the suicide attempters hospitalized in the medical and surgical units after a violent suicide attempt. The study was spread over a period of 24 months, from January 2010 to December 2011. The objectives of our study were to describe the clinical and epidemiological profile of the suicide attempters that are admitted to the physical units of the university hospital center, to identify the units that are most demanding of psychiatric consultations for suicide attempts, the methods used, the underlying psychiatric disorders, and to assess the risk factors. From 180 requests for psychiatric consultation, 31 cases of suicide attempts were included in our study. The psychiatric evaluation was performed based on a psychiatric interview. Data was collected using questionnaires including 24 items. After an initial psychiatric examination designed to assess the patient's psychiatric condition, follow up examinations were completed at 1, 3 and 6 months intervals.
+   Results. Of the 31 attempt survivors aged between 13 and 65 included in our work, 60% were male and 45% of the patients had a psychiatric history. Twenty-six percent of our patients were hospitalized in a resuscitation unit and 23% in visceral surgery. The most common means used by the patients was the ingestion of caustic substances and drug toxicity in 26%. Most psychiatric disorders diagnosed according to DSM-IV - were depressive disorder in 52% of cases, and a psychotic disorder (paranoid schizophrenia, schizophreniform disorder, schizoaffective disorder and brief psychotic disorder) in 36% of cases. The outcome was favorable in 70% of our patients after 6 months.
+   Discussion. Liaison psychiatry is a growing field; it plays a crucial role in the assessment and management of suicidal behavior requiring medical somatic management.
+   Conclusion. - Our study allowed us to meet the suicide attempters hospitalized in the medical and surgical units, to initiate and continue their support, and to participate in the prevention of any recurrence. (C) 2013 Elsevier Masson SAS. All rights reserved.
+C1 [Barrimi, Mohammed; Hlal, Hayate; Kettani, Narjiss; Khelafa, Said] Univ Sidi Mohammed Ben Abdallah, Fac Med & Pharm Fes, CHU Hassan 2, Hop Ibn Al Hassan,Serv Psychiat, Fes 30060, Morocco.
+   [Zaidi, Khadija] Fac Lettre Rabat, Psychol Clin, Rabat, Morocco.
+   [Rammouz, Ismail] CHU Hassan 2, Hop Ibn Al Hassan, Psychiat Serv, Fes 30060, Morocco.
+   [Aalouane, Rachid] CHU Hassan 2, Hop Ibn Al Hassan, Serv Psychiat, Fes 30060, Morocco.
+C3 Hassan II University Hospital Center of Fez; Sidi Mohamed Ben Abdellah
+   University of Fez; Mohammed V University in Rabat; Hassan II University
+   Hospital Center of Fez; Hassan II University Hospital Center of Fez
+RP Barrimi, M (corresponding author), Univ Sidi Mohammed Ben Abdallah, Fac Med & Pharm Fes, CHU Hassan 2, Hop Ibn Al Hassan,Serv Psychiat, Fes 30060, Morocco.
+EM berrimimohamed@gmail.com
+OI Barrimi, Mohammed/0000-0002-0697-0628
+NR 28
+TC 4
+Z9 4
+U1 0
+U2 3
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0014-3855
+EI 1769-6674
+J9 EVOL PSYCHIATR
+JI Evol. Psychiatr.
+PD OCT-DEC
+PY 2014
+VL 79
+IS 4
+BP 619
+EP 628
+DI 10.1016/j.evopsy.2013.07.003
+PG 10
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AW7QC
+UT WOS:000346458700002
+DA 2023-12-06
+ER
+
+PT J
+AU Hoffman, KE
+AF Hoffman, KE
+TI Berber language ideologies, maintenance, and contraction: Gendered
+   variation in the indigenous margins of Morocco
+SO LANGUAGE & COMMUNICATION
+LA English
+DT Review
+DE gender; language maintenance; language contraction; ethnic identity;
+   imazighen (Berbers); Morocco
+ID COMMUNITY; ISLAND
+AB Language contraction is shaped by the unequal distribution of power and resources, both between the language community and the dominant society, and within the contracting language community itself. Gender is connected to other social divisions and inequalities, rendering it central to processes of maintenance and loss. For indigenous groups struggling for recognition and rights, public acknowledgement of intra-group fractures may be political suicide, but for scholars it is crucial, albeit absent from the outpouring of attention to endangered languages. Linguistic ideologies about place, gender, and social change naturalize, reinforce, and mediate subjectivities, ethnolinguistic repertoires, national identities, and collective moralities. Two groups of Tashelhit Berber speakers of southwestern Morocco - Anti-Atlas mountain dwellers and Sous Valley plains dwellers - contrast in regard to their patterns of language maintenance and contraction, but in both, women are central in ways that engage their dissimilar relationships to Arabic speakers and to their own conceptions of rurality. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Northwestern Univ, Dept Anthropol, Evanston, IL 60201 USA.
+C3 Northwestern University
+RP Hoffman, KE (corresponding author), Northwestern Univ, Dept Anthropol, 1810 Hinman Ave, Evanston, IL 60201 USA.
+EM khoffman@northwestern.edu
+NR 116
+TC 24
+Z9 30
+U1 2
+U2 16
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0271-5309
+J9 LANG COMMUN
+JI Lang. Commun.
+PD APR
+PY 2006
+VL 26
+IS 2
+BP 144
+EP 167
+DI 10.1016/j.langcom.2006.02.003
+PG 24
+WC Communication; Linguistics
+WE Social Science Citation Index (SSCI)
+SC Communication; Linguistics
+GA 039YR
+UT WOS:000237345300003
+DA 2023-12-06
+ER
+
+PT J
+AU Agoub, M
+   Moussaoui, D
+   Kadri, N
+AF Agoub, M
+   Moussaoui, D
+   Kadri, N
+TI Assessment of suicidality in a Moroccan metropolitan area
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE suicidality; epidemiology; comorbidity
+ID IDEATION; POPULATION; DEPRESSION; COMMUNITY; SAMPLE
+AB Background: The aim of the study was to evaluate the prevalence of suicidal ideations and suicide attempts in a representative sample of the general population of the urban area of Casablanca, Morocco.
+   Methods: The survey was conducted based on face-to-face household interviews. The Mini International Neuropsychiatric Inter-view (M.I.N.I.) was used to assess axis I diagnoses according to DSM-IV criteria and the M.I.N.I. suicidality module to rate the severity of active suicidality.
+   Results: The 1-month prevalence of suicidal ideation was 6.3%. Seventeen subjects (2.1%) reported at least one suicide attempt during their lifetime. Some variables were positively associated to suicidal ideation: the non-married status, subjects with a history of psychiatric disorders, and subjects without children. At least one mental disorder was present among 88.2% of subjects with suicidal ideation. Major depressive disorder was the most prevalent one (23.5%).
+   Limitations: The sample was small and the prevalence was not determined longitudinally.
+   Conclusion: Suicidal ideation being relatively frequent in the general population, there is a need to develop programs of prevention of suicide. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Ibn Rushd Univ, Ctr Psychiat, Dept Psychiat, Casablanca 20000, Morocco.
+C3 Hassan II University of Casablanca; Ibn Rochd University Hospital Center
+   of Casablanca
+RP Agoub, M (corresponding author), Ibn Rushd Univ, Ctr Psychiat, Dept Psychiat, Rue Tarik Ibn Ziad, Casablanca 20000, Morocco.
+EM magoub@fmpc.ac.ma
+RI Agoub, Mohamed/GVS-8734-2022
+OI Agoub, Mohamed/0000-0002-3933-2868
+NR 16
+TC 28
+Z9 28
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD FEB
+PY 2006
+VL 90
+IS 2-3
+BP 223
+EP 226
+DI 10.1016/j.jad.2005.09.014
+PG 4
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA 015WM
+UT WOS:000235582000017
+PM 16352345
+DA 2023-12-06
+ER
+
+PT J
+AU Elghazouani, F
+   Aarab, C
+   Lahlou, F
+   Elrhazi, K
+   Aalouane, R
+   Rammouz, I
+AF Elghazouani, Fatima
+   Aarab, Chadya
+   Lahlou, Fatima
+   Elrhazi, Karima
+   Aalouane, Rachid
+   Rammouz, Ismail
+TI Substances use among inpatients with relapse of schizophrenia:
+   Cross-sectional study
+SO ANNALES MEDICO-PSYCHOLOGIQUES
+LA French
+DT Article
+DE Addiction; Cannabis; Epidemiology; Harmful use; Risk factor; Morocco;
+   Schizophrenia; Tobacco
+ID USE DISORDERS; CANNABIS USE; 1ST-EPISODE PSYCHOSIS; SUICIDE ATTEMPTS;
+   TUNISIAN SAMPLE; RISK-FACTORS; FOLLOW-UP; ABUSE; COMORBIDITY;
+   INDIVIDUALS
+AB Background. Studies on substance use in patients hospitalized for schizophrenia are numerous. However, there are no studies in Morocco.
+   Aims. To investigate the frequency of substance use among patients with schizophrenia and to identify risk factors for this association.
+   Methods. Cross-sectional study completed in 2008 in one psychiatric center in Fez, Morocco, targeting patients hospitalized for relapse of schizophrenia. Substance abuse and dependency to the different types of substances was assessed with Mini International Neuropsychiatric Interview, according to the criteria of DSM-IV.
+   Results. - The sample included 108 patients. Cannabis is the most frequent substance used by patients after tobacco. The life prevalence of the use of at least one substance is 60.2 %. Half of the cannabis users met dependence criteria. The life prevalence of alcohol consumption was 47.2 %, and consumption is occasional in 25 % of cases. Among users of at least one substance, 71.1 % began before the onset schizophrenia. Male gender (OR 13.95, P = 0.01) and history of judicial problem (OR 0.12, P = 0.05) were determinants of substance use in patients with schizophrenia.
+   Conclusions. - Early identification of risk factors for substance use in patients with schizophrenia could improve the evolutionary course of the latter by reducing the number of relapses and promoting compliance to care. (C) 2015 Elsevier Masson SAS. All rights reserved.
+C1 [Elghazouani, Fatima; Aarab, Chadya; Lahlou, Fatima; Aalouane, Rachid; Rammouz, Ismail] CHU Fes, Serv Psychiat, BP 1893,Route Sidi Hrazem, Fes 30000, Morocco.
+   [Elrhazi, Karima] CHU Fes, Serv Epidemiol & Rech Clin, BP 1893,Route Sidi Hrazem, Fes 30000, Morocco.
+C3 Hassan II University Hospital Center of Fez; Hassan II University
+   Hospital Center of Fez
+RP Elghazouani, F (corresponding author), CHU Fes, Serv Psychiat, BP 1893,Route Sidi Hrazem, Fes 30000, Morocco.
+EM fatima2elghazouani@gmail.com
+RI EL RHAZI, Karima/ABY-6004-2022
+OI EL RHAZI, Karima/0000-0002-8135-9044; Elghazouani,
+   Fatima/0000-0001-5158-7022
+NR 39
+TC 4
+Z9 4
+U1 0
+U2 6
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0003-4487
+EI 1769-6631
+J9 ANN MED-PSYCHOL
+JI Ann. Med.-Psychol.
+PD JUL
+PY 2016
+VL 174
+IS 6
+BP 474
+EP 478
+DI 10.1016/j.amp.2015.04.015
+PG 5
+WC Pharmacology & Pharmacy; Psychiatry; Psychology; Psychology,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy; Psychiatry; Psychology
+GA DS1YJ
+UT WOS:000380420800010
+DA 2023-12-06
+ER
+
+PT J
+AU Boufettal, H
+   Obaid, B
+   Belhouss, A
+   Hermas, S
+   Noun, M
+   Samouh, N
+AF Boufettal, H.
+   Obaid, B.
+   Belhouss, A.
+   Hermas, S.
+   Noun, M.
+   Samouh, N.
+TI Physical violence during pregnancy in Morocco
+SO JOURNAL DE GYNECOLOGIE OBSTETRIQUE ET BIOLOGIE DE LA REPRODUCTION
+LA French
+DT Article
+DE Physical abuse; Pregnancy; Violence; Mental health; Obstetric
+   complications
+ID CHILDHOOD SEXUAL-ABUSE; LOW-BIRTH-WEIGHT; RISK-FACTOR; DOMESTIC
+   VIOLENCE; PARTNER VIOLENCE; WOMEN; PREVALENCE
+AB Introduction. - Physical abuse are a serious social problem and an issue of perinatal health.
+   Material and methods. - This article presents the results of a survey conducted at the CHU Ibn Rochd of Casablanca (Morocco), over a period of one year, in order to determine their frequency, risk factors, maternal diseases and obstetric complications.
+   Results. - The results of our survey found that women who reported physical abuse have a frequency of 12.3% (107 cases). The average age of these women is 22.3 years; 65.6% of parturients are illiterate, 45% are from a disadvantaged socioeconomic status, 47% originated from a rural county; 37% are unmarried; half of the abused are multiparous with an average of 3.2 living children; 23% of the pregnancies are unplanned. Lastly, 37.3% of pregnant partners are unemployed and 67% have toxic habits. Obstetric complications are fairly frequent and mental effects are not negligible with 3 attempted suicides and attempted homicide.
+   Conclusion. - Early identification of abuse suffered by pregnant women and taking measures to prevent them could reduce the occurrence of these adverse effects. (C) 2011 Published by Elsevier Masson SAS.
+C1 [Boufettal, H.; Obaid, B.; Hermas, S.; Samouh, N.] Univ Ain Chock, Serv Gynecol Obstet C, Fac Med & Pharm, Ctr Hosp Univ Ibn Rochd, Casablanca, Morocco.
+   [Belhouss, A.; Noun, M.] Univ Ain Chock, Serv Med Legale, Fac Med & Pharm, Ctr Hosp Univ Ibn Rochd, Casablanca, Morocco.
+C3 Hassan II University of Casablanca; Ibn Rochd University Hospital Center
+   of Casablanca; Hassan II University of Casablanca; Ibn Rochd University
+   Hospital Center of Casablanca
+RP Boufettal, H (corresponding author), 29 Lot Abdelmoumen, Casablanca 20100, Morocco.
+EM mohcineb@yahoo.fr
+NR 40
+TC 4
+Z9 4
+U1 0
+U2 16
+PU ELSEVIER MASSON, CORP OFF
+PI PARIS
+PA 65 CAMILLE DESMOULINS CS50083 ISSY-LES-MOULINEAUX, 92442 PARIS, FRANCE
+SN 0368-2315
+EI 1773-0430
+J9 J GYNECOL OBST BIO R
+JI J. Gynecol. Obstet. Biol. Reprod.
+PD FEB
+PY 2012
+VL 41
+IS 1
+BP 76
+EP 82
+DI 10.1016/j.jgyn.2011.06.017
+PG 7
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Obstetrics & Gynecology
+GA 896WD
+UT WOS:000300601200011
+PM 21885209
+DA 2023-12-06
+ER
+
+PT J
+AU Barrimi, M
+   Eighazouani, F
+   Aarab, C
+   Tliji, A
+   Rharrabti, S
+   Lahlou, F
+   Rammouz, I
+   Aalouane, R
+AF Barrimi, M.
+   Eighazouani, F.
+   Aarab, C.
+   Tliji, A.
+   Rharrabti, S.
+   Lahlou, F.
+   Rammouz, I.
+   Aalouane, R.
+TI Experience of liaison psychiatry in Morocco: Transversal study over 24
+   months
+SO ENCEPHALE-REVUE DE PSYCHIATRIE CLINIQUE BIOLOGIQUE ET THERAPEUTIQUE
+LA French
+DT Article
+DE Liaison psychiatry; Prevalence
+ID CONSULTATION; PATTERNS
+AB Introduction. - Liaison psychiatry is a discipline caring for psychiatric disorders in patients of general hospitals. It involves clinical, educational, and research aspects. The liaison psychiatry supports patients hospitalized for full-time in medical and surgical departments, patients admitted in day-hospital and patients treated in the emergency department. In this transversal study, we assessed the liaison psychiatry impact that is still in development stage in Morocco. This study lasted 24 months, and was conducted at the University Hospital in Fez, Morocco.
+   Objectives. - The goal of this work was to evaluate the prevalence of psychiatric disorders managed by liaison psychiatry, identify those requiring medical and surgical departments. of such psychiatric support, and classify the motivations involved in their needs.
+   Methods. - This transversal study was initiated in January 2010 and has lasted 24 months. The study recruited 180 patients requiring psychiatric consultation from different medical and surgical departments at the University Hospital in Fes, Morocco. The psychiatric assessment was based on a psychiatric interview using the MINI. The data were collected by a certified psychiatrist using a questionnaire containing 24 items. After initial psychiatric assessment, the follow-up was proposed to the patient in the psychiatric department.
+   Results. - During this study, 22 medical and surgical departments of our University Hospital had requested a psychiatric assessment for their patients. Most demands were respectively emitted by the Department of Dermatology (16%) and Nephrology (11%). The most common motivations for psychiatric consultations were respectively psychomotor agitation (17%) and an evaluation of suicide attempts (17%). Depressive and psychotic disorders were the most diagnosed disorders with 47% and 11% respectively. The psychiatric support was based on pharmacological treatment in 60% of cases. Finally, the outcome was favourable in 80% of followed cases.
+   Conclusion. - Hospitalized patients in different medical and surgical departments of the University Hospital of Fez have demonstrated a high prevalence of psychiatric disorders. This constitutes a very strong motivation to setup a department of liaison psychiatry. This would allow a better psychiatric support and follow-up of patients. (C) L'Encephale, Paris, 2013.
+C1 [Barrimi, M.; Eighazouani, F.; Aarab, C.; Tliji, A.; Rharrabti, S.; Lahlou, F.; Rammouz, I.; Aalouane, R.] Univ Sidi Mohamed Ben Abdellah, Hop Ibn Al Hassan, CHU Hassan 2, Fac Med & Pharm,Serv Psychiat, Ain Kadouss 30060, Fes, Morocco.
+C3 Sidi Mohamed Ben Abdellah University of Fez; Hassan II University
+   Hospital Center of Fez
+RP Barrimi, M (corresponding author), Univ Sidi Mohamed Ben Abdellah, Hop Ibn Al Hassan, CHU Hassan 2, Fac Med & Pharm,Serv Psychiat, Ain Kadouss 30060, Fes, Morocco.
+EM berrimimohamed@gmail.com
+OI Barrimi, Mohammed/0000-0002-0697-0628; Elghazouani,
+   Fatima/0000-0001-5158-7022
+NR 20
+TC 3
+Z9 3
+U1 0
+U2 1
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0013-7006
+J9 ENCEPHALE
+JI Enceph.-Rev. Psychiatr. Clin. Biol. Ther.
+PD OCT
+PY 2014
+VL 40
+IS 5
+BP 373
+EP 379
+DI 10.1016/j.encep.2013.03.010
+PG 7
+WC Neurosciences; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA AT5GX
+UT WOS:000344973100003
+PM 24095294
+DA 2023-12-06
+ER
+
+PT J
+AU Achour, S
+   Khattabi, A
+   Rhalem, N
+   Ouammi, L
+   Mokhtari, A
+   Soulaymani, A
+   Bencheikh, RS
+AF Achour, Sanae
+   Khattabi, Asmae
+   Rhalem, Naima
+   Ouammi, Lahcen
+   Mokhtari, Abdelrhani
+   Soulaymani, Abdelmajid
+   Bencheikh, Rachida Soulaymani
+TI Pesticide poisoning in Moroccan children: epidemiological and prognostic
+   aspects (1990-2008)
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE Pesticide; poisoning; children; organophosphates; aluminium phosphide;
+   poison control center; Morocco
+AB Objective: The purpose of this paper is to describe the epidemiological profile of acute pesticide poisoning in children (APP) treated by the Moroccan Poison Control Center (CAPM) and to analyze death cases in order to determine factors predictive of severity. Method: the study is based on a retrospective study of all cases of APP collected by the CAPM over a period of eighteen years (January 1990 to December 2008). Univariate analysis was performed to identify risk factors. Results: 2,672 cases of childhood poisoning by pesticide were collected. The mean age was 5.6 +/- 4.57 years. The sex ratio was 1.12. The cause of poisoning was accidental in 87.1% of cases, followed by attempted suicide (12.1%). Organophosphates were the most frequent poison (50.7%), followed by alpha-chloralose (26.5%). The case fatality rate was 3.3%. Mortality was attributed to organophosphates in 30 cases, followed by inorganic derivatives (7 cases) and carbamates (6 cases). A univariate analysis comparing survivors and groups who died showed that rural origin (p = 0.04), voluntary circumstances (p = 0.001), and the type of chemical class of pesticide (p < 0.001) significantly influence fatal poisoning. Conclusion: Acute pesticide poisoning among children is a reality in Morocco. Preventive measures may be needed.
+C1 [Achour, Sanae] CHU Hassan II Fes, Lab Cent Anal Med, Serv Pharmacotoxicol, Fes 18500, Morocco.
+   [Achour, Sanae; Rhalem, Naima; Mokhtari, Abdelrhani; Soulaymani, Abdelmajid] Fac Sci & Tech, Lab Genet & Biometrie, Kenitra, Morocco.
+C3 Hassan II University Hospital Center of Fez; Ibn Tofail University of
+   Kenitra
+RP Achour, S (corresponding author), CHU Hassan II Fes, Lab Cent Anal Med, Serv Pharmacotoxicol, Fes 18500, Morocco.
+RI SOULAYMANI, Abdelmajid/H-4382-2011; khattabi, asmae/X-8687-2019
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; khattabi,
+   asmae/0000-0001-5194-996X; Mokhtari, Abdelrhani/0000-0002-3771-8257
+NR 25
+TC 6
+Z9 6
+U1 1
+U2 9
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+EI 2104-3841
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD MAY-JUN
+PY 2011
+VL 23
+IS 3
+BP 195
+EP 205
+DI 10.3917/spub.113.0195
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 830NP
+UT WOS:000295664000004
+PM 21896214
+DA 2023-12-06
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-06
+ER
+
+PT J
+AU Elghazouani, F
+   Aarab, C
+   Faiz, F
+   Midaoui, A
+   Barrimi, M
+   Elrhazi, K
+   Berraho, A
+   Belahssen, MF
+   Rammouz, I
+   Aalouane, R
+AF Elghazouani, F.
+   Aarab, C.
+   Faiz, F.
+   Midaoui, A.
+   Barrimi, M.
+   Elrhazi, K.
+   Berraho, A.
+   Belahssen, M. F.
+   Rammouz, I.
+   Aalouane, R.
+TI Psychiatric disorders and associated factors in patients with epilepsy
+   in Fez, Morocco
+SO ENCEPHALE-REVUE DE PSYCHIATRIE CLINIQUE BIOLOGIQUE ET THERAPEUTIQUE
+LA French
+DT Article
+DE Idiopathic epilepsy; Psychiatric disorders; Mood disorders; Anxiety
+   disorders
+ID ANTIEPILEPTIC DRUGS; DEPRESSION; ANXIETY; PREVALENCE; PSYCHOPATHOLOGY;
+   COMORBIDITY; ADOLESCENTS; SUICIDE; PEOPLE
+AB Background. - The prevalence of psychiatric disorders in epileptic patients remains unclear.
+   Objective.- This study was conducted in order to determine the prevalence and nature of the psychiatric disorders and the associated factors in patients with idiopathic epilepsy.
+   Methods. - A cross-sectional study was conducted over a period of eighteen months in the psychiatric unit of the University Hospital Hassan II of Fez (Morocco). A questionnaire was completed by the included patients, which specified: the soda-demographic data, personal and family history, and the clinical features of epilepsy and its management. Psychiatric disorders were identified by the Mini International Neuropsychiatric Interview test (MINI). The severity of the depression and anxiety symptoms was investigated using the Beck Depression Inventory (BDI) and the Hamilton Rating Scale.
+   Results. - Eighty-nine patients met the inclusion criteria. The average age of patients was 29.7 +/- 10.8 years. Mood disorders were the leading psychiatric comorbidity: 32.6% among which 25.8% of major depressive episodes, 15.7% of dysthymia and 2.2% of hypomanic episodes. Anxiety disorders came second: 28.1% (among which 19.1% panic disorder, 13.5% agoraphobia, 12.4% generalized anxiety disorder, 10.1% social phobia and 4.5% post-traumatic stress disorder). Female gender, unemployment and poor compliance to antiepileptic drugs are all risk factors for the occurrence of psychiatric disorders in this population. (C) L'Encephale, Paris, 2015.
+C1 [Elghazouani, F.; Aarab, C.; Barrimi, M.; Rammouz, I.; Aalouane, R.] Univ Sidi Mohamed Ben Abdellah, Hop Ibn Alhassan, CHU Hassan 2, Serv Psychiat,Fac Med & Pharm Fes, Ain Kadouss Fes, Morocco.
+   [Faiz, F.; Midaoui, A.; Belahssen, M. F.] Univ Sidi Mohamed Ben Abdellah, CHU Hassan 2, Fac Med & Pharm Fes, Serv Neurol, Fes, Morocco.
+   [Elrhazi, K.; Berraho, A.] Univ Sidi Mohamed Ben Abdellah, Fac Med & Pharm Fes, Lab Epidemiol & Rech Clin, Fes, Morocco.
+C3 Sidi Mohamed Ben Abdellah University of Fez; Hassan II University
+   Hospital Center of Fez; Sidi Mohamed Ben Abdellah University of Fez;
+   Sidi Mohamed Ben Abdellah University of Fez
+RP Elghazouani, F (corresponding author), Univ Sidi Mohamed Ben Abdellah, Hop Ibn Alhassan, CHU Hassan 2, Serv Psychiat,Fac Med & Pharm Fes, BP 30000, Ain Kadouss Fes, Morocco.
+EM elghazouanifatima@yahoo.fr
+RI EL RHAZI, Karima/ABY-6004-2022
+OI EL RHAZI, Karima/0000-0002-8135-9044
+NR 34
+TC 5
+Z9 6
+U1 1
+U2 3
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0013-7006
+J9 ENCEPHALE
+JI Enceph.-Rev. Psychiatr. Clin. Biol. Ther.
+PD DEC
+PY 2015
+VL 41
+IS 6
+BP 493
+EP 498
+DI 10.1016/j.encep.2013.06.004
+PG 6
+WC Neurosciences; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Psychiatry
+GA DA8IU
+UT WOS:000368049100006
+PM 26548617
+DA 2023-12-06
+ER
+
+PT J
+AU Hessissen, L
+   Khtar, R
+   Madani, A
+   El Kababri, M
+   Kili, A
+   Harif, M
+   Khattab, M
+   Sahraoui, S
+   Benjaafar, N
+   Ahid, S
+   Howard, SC
+   Benchekroun, S
+AF Hessissen, Laila
+   Khtar, Rachida
+   Madani, Abdellah
+   El Kababri, Maria
+   Kili, Amina
+   Harif, Mhamed
+   Khattab, Mohamed
+   Sahraoui, Souha
+   Benjaafar, Nouredine
+   Ahid, Samir
+   Howard, Scott C.
+   Benchekroun, Said
+TI Improving the prognosis of pediatric hodgkin lymphoma in developing
+   countries: A moroccan society of pediatric hematology and oncology study
+SO PEDIATRIC BLOOD & CANCER
+LA English
+DT Article
+DE abandonment; childhood; Hodgkin lymphoma; low income countries; morocco
+ID CHILDREN; DISEASE; OUTCOMES; PROGRAM; TRIAL
+AB Background The event-free survival (EFS) of children with Hodgkin lymphoma (HL) exceeds 80% in high income countries (HIC), but little is known about this rate in developing countries. Procedure A prospective national protocol for children with classical HL was implemented in Morocco to increase EFS by careful risk stratification, providing each cycle of therapy on time, decreasing treatment abandonment, improving communication among healthcare providers, and improving data collection. Patients were stratified into a favorable risk group (Ann Arbor stages I and II, no B symptoms, no bulky disease, and no contiguous (E) lesions) and received four cycles of vinblastine, doxorubicin, methotrexate, and prednisone (VAMP) or an unfavorable risk group (all others) who received two cycles of vincristine, procarbazine, prednisone, and doxorubicin (OPPA) and four cycles of cyclophosphamide, vincristine, procarbazine, and prednisone (COPP). All patients received involved-field radiotherapy 25.5Gy after completion of chemotherapy. EFS was calculated counting death, relapse/resistant disease, and abandonment as events. Results From February 2004 to December 2007, 160 patients enrolled; 138 (86%) had unfavorable risk features. Twenty patients (12.5%) abandoned treatment, 16 relapsed or had resistant disease, and 6 died (3 unexplained, 2 varicella, and 1 suicide). The estimated 5-year EFS was 70 +/- 4% and overall survival 88 +/- 3%. Conclusions Good outcomes for pediatric HL patients can be achieved in LMIC using a multidisciplinary team approach, uniform protocol-based therapy, twinning partnership among oncology units in-country and abroad, and a data collection system to monitor compliance and identify gaps in care. Pediatr Blood Cancer 2013;160:1464-1469. (c) 2013 Wiley Periodicals, Inc.
+C1 [Hessissen, Laila; El Kababri, Maria; Kili, Amina; Khattab, Mohamed] Pediat Hematol & Oncol Ctr, Rabat, Morocco.
+   [Hessissen, Laila; El Kababri, Maria; Kili, Amina; Khattab, Mohamed] Med & Pharm Sch, Rabat, Morocco.
+   [Khtar, Rachida; Ahid, Samir] Med & Pharm Sch, Lab Biostat Clin Res & Epidemiol, Rabat, Morocco.
+   [Madani, Abdellah; Harif, Mhamed; Benchekroun, Said] Hosp 20 Aout Pediat, Hematol & Oncol Ctr, Casablanca, Morocco.
+   [Sahraoui, Souha] Ibn Rochd Hosp, Radiat Therapy Ctr, Casablanca, Morocco.
+   [Benjaafar, Nouredine] Natl Inst Oncol, Rabat, Morocco.
+   [Howard, Scott C.] St Jude Childrens Res Hosp, Memphis, TN 38105 USA.
+C3 Mohammed V University in Rabat; Ibn sina University Hospital Center of
+   Rabat; Mohammed V University in Rabat; Ibn sina University Hospital
+   Center of Rabat; Hassan II University of Casablanca; Ibn Rochd
+   University Hospital Center of Casablanca; Hassan II University of
+   Casablanca; Ibn Rochd University Hospital Center of Casablanca; Mohammed
+   V University in Rabat; Ibn sina University Hospital Center of Rabat; St
+   Jude Children's Research Hospital
+RP Hessissen, L (corresponding author), Children Hosp Rabat, Moroccan Soc Pediat Hematol & Oncol, Ibnrochd Ave, Rabat, Morocco.
+EM lailahsn@gmail.com
+RI Howard, Scott C/K-3401-2013; Harif, Mhamed/AAZ-5628-2021
+OI Howard, Scott C/0000-0003-2244-1686; Ahid, Samir/0000-0002-7797-4722
+NR 16
+TC 15
+Z9 16
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-5009
+EI 1545-5017
+J9 PEDIATR BLOOD CANCER
+JI Pediatr. Blood Cancer
+PD SEP
+PY 2013
+VL 60
+IS 9
+BP 1464
+EP 1469
+DI 10.1002/pbc.24534
+PG 6
+WC Oncology; Hematology; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology; Hematology; Pediatrics
+GA 181XM
+UT WOS:000321703900079
+PM 23606223
+DA 2023-12-06
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-06
+ER
+
+PT J
+AU Bjegovic-Mikanovic, V
+   Abousbie, ZAS
+   Breckenkamp, J
+   Wenzel, H
+   Broniatowski, R
+   Nelson, C
+   Vukovic, D
+   Laaser, U
+AF Bjegovic-Mikanovic, Vesna
+   Abousbie, Zeyad Ali Salem
+   Breckenkamp, Juergen
+   Wenzel, Helmut
+   Broniatowski, Raphael
+   Nelson, Chase
+   Vukovic, Dejana
+   Laaser, Ulrich
+TI A gap analysis of SDG 3 and MDG 4/5mortality health targets in the six
+   Arabic countries of North Africa: Egypt, Libya, Tunisia, Algeria,
+   Morocco, and Mauritania
+SO LIBYAN JOURNAL OF MEDICINE
+LA English
+DT Article
+DE North Africa; Sustainable Development Goals; health development targets;
+   gap analysis; Maternal and Child Health; non-communicable diseases;
+   deadly traffic injuries
+ID MATERNAL MORTALITY
+AB Background: The United Nations Assembly adopted the Sustainable Development Goals to succeed the Millennium Development Goals in September 2015. From a European perspective, the development of health in the countries of North Africa are of special interest as a critical factor of overall social development in Europe's Mediterranean partners. In this paper, we address the mortality related SDG-3 targets, the likelihood to achieve them until 2030 and analyze how they are defined. Methods: We projected mortality trends from 2000-2015 to 2030, based on mortality estimates by inter-agency groups and the WHO in mother and child health, non-communicable diseases, and road traffic mortality. The gap analysis compares the time remaining until 2030 to the time needed to complete the target assuming a linear trend of the respective indicator. A delay of not more than 3.75 years is considered likely to achieve the target. Results: The SDG-3 targets of a Maternal Mortality Ratio below 70 per 100 000 live births and an U5MR below 25 per 1 000 live births have been achieved by Egypt, Libya, and Tunisia. Libya and Tunisia have also achieved the target for Newborn Mortality with Egypt close to achieving it as well. Algeria and Morocco are generally on track for most of the indicators, including deaths from non-communicable diseases and suicide rates; however, all of the countries are lagging when it comes to deadly Road Traffic Injuries for 2030. Mauritania is the only North African country which is not likely to reach the 2030 targets for any of the mortality indicators. Conclusions: Although mortality statistics may be incomplete there is an impressive gradient from East to West showing Mauritania and deadly road traffic injuries as the most problematic areas. Given the large differences between countries baselines, we consider it preferable to set realistic targets to be achieved until 2030.
+C1 [Bjegovic-Mikanovic, Vesna; Vukovic, Dejana] Univ Belgrade, Fac Med, Inst Social Med, Belgrade, Serbia.
+   [Abousbie, Zeyad Ali Salem] Univ Belgrade, Fac Med, Sch Publ Hlth & Management, Belgrade, Serbia.
+   [Breckenkamp, Juergen; Laaser, Ulrich] Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+   [Broniatowski, Raphael; Nelson, Chase] EPOS Consulting, Bad Homburg, Germany.
+C3 University of Belgrade; University of Belgrade; University of Bielefeld
+RP Breckenkamp, J (corresponding author), Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+EM juergen.breckenkamp@uni-bielefeld.de
+RI Bjegovic-Mikanovic, Vesna/AAD-9847-2019; Laaser, Ulrich/ACH-6512-2022;
+   Laaser, Ulrich/AAE-9755-2022; Laaser, Ulrich/AAD-9790-2019
+OI Bjegovic-Mikanovic, Vesna/0000-0002-8299-6555; Laaser,
+   Ulrich/0000-0001-5889-4471; Vukovic, Dejana/0000-0002-3323-3711
+FU Open Access Publication Fund of Bielefeld University
+FX We acknowledge support for the Article Processing Charge by the Open
+   Access Publication Fund of Bielefeld University.
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1993-2820
+EI 1819-6357
+J9 LIBYAN J MED
+JI Libyan J. Med.
+PD JAN 1
+PY 2019
+VL 14
+IS 1
+AR 1607698
+DI 10.1080/19932820.2019.1607698
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HV6PD
+UT WOS:000466104400001
+PM 31032713
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Kachouchi, A
+   Sebbani, M
+   Salim, S
+   Adali, I
+   Manoudi, F
+   Amine, M
+   Asri, F
+AF Kachouchi, A.
+   Sebbani, M.
+   Salim, S.
+   Adali, I.
+   Manoudi, F.
+   Amine, M.
+   Asri, F.
+TI Risk factors related to homicide in Moroccan patients with schizophrenia
+SO ENCEPHALE-REVUE DE PSYCHIATRIE CLINIQUE BIOLOGIQUE ET THERAPEUTIQUE
+LA French
+DT Article
+DE Schizophrenia; Homicide; Risk factors; Comparative study; Prevention
+ID MAJOR MENTAL-DISORDERS; VIOLENT BEHAVIOR; AGGRESSION; CRIMINALITY;
+   COMMUNITY
+AB Background. - Persons with schizophrenia are thought to be at increased risk of committing violent crime - 4 to 6 times the level of general population individuals without this disorder. The relationship between schizophrenia and homicide is complex and cannot be reduced to a simple causal link.
+   Objectives. - The objectives of this study were to describe the characteristics of homicide in Moroccan patients suffering from schizophrenia and to determine the correlated sociodemographic, clinical and toxic variables.
+   Methods. - The study included two groups of patients with a DSM IV diagnosis of schizophrenia who attended the "Ibn Nafis" university psychiatric hospital of Marrakech in Morocco. The first group was composed of 30 patients hospitalized for homicide in the forensic unit between 1 January 2005 and 31 August 2015. The second group included 90 patients without any criminal record. These two groups have been matched according to age and gender. Demographic, clinical and therapeutic variables were analyzed and compared between the two groups.
+   Results. - Data analysis has objectified the following results: the mean of age in the first group was 37.03 (+/- 9.09) and in the second group was 31.4 (+/- 8.76). No significant differences were found between the two groups regarding the different sociodemographic variables and the age of onset of disease. Significant differences were found between the two groups regarding: personal antecedents of attempt of homicide (P = 0.003), personal antecedents of attempt of suicide (P < 0.001), a history of previous violence (P = 0.005), untreated psychosis before the act (P < 0.001), poor medication compliance and a low familial support (P < 0.001), antisocial behavior (P < 0.001) and addictive behavior (P = 0.005).
+   Discussion. - Several studies identified some possible predictor factors for violent behavior: poor compliance, lack of insight impulsivity and paranoid-hallucinatory symptoms, systematized delusions and addictive behavior seem to considerably increase the risk of turning to violence. Demographic variables as suggested by other studies are less valuable predictors of homicide in patients with schizophrenia.
+   Conclusion. - Awareness of these factors will allow us to provide improved prevention of violence within schizophrenic subjects. Interventions for reducing such behavior should focus on clinical variables and integrate an early diagnosis of the disease and an improvement of medication compliance. (C) 2017 L'Encephale, Paris.
+C1 [Kachouchi, A.; Salim, S.; Adali, I.; Manoudi, F.; Asri, F.] CHU Marrakech, Hop Ibn Nafis, Serv Psychiat, Equipe Rech Sante Mentale, Marrakech, Morocco.
+   [Sebbani, M.; Amine, M.] CHU Mohammed VI Marrakech, Serv Rech Clin, FMPM, Dept Sante Publ Med Commun & Epidemiol, Marrakech, Morocco.
+C3 Cadi Ayyad University of Marrakech; Mohammed VI University Hospital
+   Center of Marrakech; Cadi Ayyad University of Marrakech
+RP Kachouchi, A (corresponding author), CHU Mohamed VI, Hop Psychiat Ibn Nafiss, Marrakech, Morocco.
+EM aymen.kach88@gmail.com
+RI sebbani, majda/ADL-6359-2022
+OI sebbani, majda/0000-0001-5827-1098
+NR 37
+TC 2
+Z9 2
+U1 0
+U2 11
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 0013-7006
+J9 ENCEPHALE
+JI Enceph.-Rev. Psychiatr. Clin. Biol. Ther.
+PD NOV
+PY 2018
+VL 44
+IS 5
+BP 409
+EP 414
+DI 10.1016/j.encep.2017.07.001
+PG 6
+WC Neurosciences; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA HE2LT
+UT WOS:000453110300004
+PM 28870686
+DA 2023-12-06
+ER
+
+EF

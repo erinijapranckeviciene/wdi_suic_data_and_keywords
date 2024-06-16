@@ -1,0 +1,131 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Glenn, CR
+   Kleiman, EM
+   Kellerman, J
+   Pollak, O
+   Cha, CB
+   Esposito, EC
+   Porter, AC
+   Wyman, PA
+   Boatman, AE
+AF Glenn, Catherine R.
+   Kleiman, Evan M.
+   Kellerman, John
+   Pollak, Olivia
+   Cha, Christine B.
+   Esposito, Erika C.
+   Porter, Andrew C.
+   Wyman, Peter A.
+   Boatman, Anne E.
+TI Annual Research Review: A meta-analytic review of worldwide suicide
+   rates in adolescents
+SO JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY
+LA English
+DT Review
+DE Adolescence; epidemiology; prevalence; suicidal behavior; suicide
+ID CROSS-NATIONAL PREVALENCE; DEPRESSIVE SYMPTOMS; INCOME INEQUALITY;
+   VIOLENT DEATH; SOCIOECONOMIC-FACTORS; GENDER-DIFFERENCES; YOUTH SUICIDE;
+   UNITED-STATES; RISK-FACTORS; COUNTRIES
+AB Suicide is a leading cause of death among youth worldwide. The purpose of the current review was to examine recent cross-national trends in suicide mortality rates among 10- to 19-year-olds. This study extracted suicide mortality data from the World Health Organization's (WHO) Mortality Database for the most recent year (since 2010) from any country with available high-quality data (as defined by the WHO's guidelines). Data on access to lethal means (firearms, railways) and measures of economic quality (World Bank Income Group) and inequality (Gini coefficients) were obtained from publicly available data sources. Cross-national suicide mortality rates in youth were heterogeneous. The pooled estimate across all ages, sexes, and countries was 3.77/100,000 people. The highest suicide rates were found in Estonia, New Zealand, and Uzbekistan. Suicide rates were higher among older compared with younger adolescents and higher among males than females. The most common suicide methods were hanging/suffocation and jumping/lying in front of a moving object or jumping from a height. Firearm and railway access were related to suicide deaths by firearms and jumping/lying, respectively. Economic quality and inequality were not related to overall suicide mortality rates. However, economic inequality was correlated with a higher ratio of male:female suicides. This study provides a recent update of cross-national suicide trends in adolescents. Findings replicate prior patterns related to age, sex, geographic region, and common suicide methods. New to this review are findings relating suicide method accessibility to suicide mortality rates and the significant association between income inequality and the ratio of male:female suicide. Future research directions include expanding the worldwide coverage to more low- and middle-income countries, examining demographic groupings beyond binary sex and to race/ethnicity within countries, and clarifying factors that account for cross-national differences in suicide trends.
+C1 [Glenn, Catherine R.; Kellerman, John; Esposito, Erika C.; Porter, Andrew C.; Boatman, Anne E.] Univ Rochester, Dept Psychol, 460 Meliora Hall,Box 270266, Rochester, NY 14627 USA.
+   [Glenn, Catherine R.; Wyman, Peter A.] Univ Rochester, Med Ctr, Dept Psychiat, Rochester, NY 14627 USA.
+   [Kleiman, Evan M.] Rutgers State Univ, Dept Psychol, New Brunswick, NJ USA.
+   [Pollak, Olivia; Cha, Christine B.] Columbia Univ, Teachers Coll, Dept Psychol, New York, NY 10027 USA.
+C3 University of Rochester; University of Rochester; Rutgers System;
+   Rutgers New Brunswick; Columbia University; Columbia University Teachers
+   College
+RP Glenn, CR (corresponding author), Univ Rochester, Dept Psychol, 460 Meliora Hall,Box 270266, Rochester, NY 14627 USA.
+EM catherine.glenn@rochester.edu
+RI Kleiman, Evan M/H-3908-2019; Glenn, Catherine/AAV-6958-2021; Porter,
+   Andrew/M-3442-2019
+OI Kleiman, Evan M/0000-0001-8002-1167; Glenn,
+   Catherine/0000-0003-2497-6000
+FU National Institute of Mental Health [L30 MH101616]
+FX The research was partially supported by a grant from the National
+   Institute of Mental Health (L30 MH101616; CRG). The authors would like
+   to thank the following people for their assistance with data extraction
+   for this project: John W. K. Chai, Elizabeth Finer, Damin Paik, and
+   Jessica Robbins. The authors have declared that they have no competing
+   or potential conflicts of interest.
+NR 116
+TC 111
+Z9 125
+U1 9
+U2 70
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9630
+EI 1469-7610
+J9 J CHILD PSYCHOL PSYC
+JI J. Child Psychol. Psychiatry
+PD MAR
+PY 2020
+VL 61
+IS 3
+SI SI
+BP 294
+EP 308
+DI 10.1111/jcpp.13106
+EA AUG 2019
+PG 15
+WC Psychology, Developmental; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA KM9OG
+UT WOS:000480037300001
+PM 31373003
+HC Y
+HP N
+DA 2023-12-06
+ER
+
+PT J
+AU Piazza, JA
+AF Piazza, James A.
+TI The Opium Trade and Patterns of Terrorism in the Provinces of
+   Afghanistan: An Empirical Analysis
+SO TERRORISM AND POLITICAL VIOLENCE
+LA English
+DT Article
+DE Afghanistan; analysis; drugs; empirical; Taliban
+ID TRANSNATIONAL TERRORISM; NATURAL-RESOURCES; SUICIDE TERRORISM; PARTY
+   SYSTEMS; TIME-SERIES; DRUG TRADE; CIVIL-WAR; STATES; CONFLICT; NARCOTICS
+AB Contemporary terrorist movements in Afghanistan are frequently alleged to be fueled, in part, by the country's voluminous opium trade. Experts argue that terrorist groups currently active in Afghanistan, like the Afghan Taliban, the Islamic Movement of Uzbekistan, Hizbul Islami, and various al-Qaeda affiliates, use drug trade profits to recruit and pay cadres, acquire weapons and equipment, and bribe officials while becoming more powerful, and deadly, in the process. This study empirically examines the relationship between the opium trade and terrorism in Afghanistan by conducting a series of negative binomial regression estimations on terrorist attacks and casualties in the 34 Afghan provinces for the period 1996 to 2008. The analysis also considers various economic development, infrastructure, geographic, security, and cultural factors when examining causes of terrorism in the provinces. The study determines that, across all model specifications, provinces that produce more opium feature higher levels of terrorist attacks and casualties due to terrorism, and that opium production is a more robust predictor of terrorism than nearly all other province features. Furthermore, tests indicate that the direction of causation runs from opium production to higher rates of terrorism, not otherwise. The study concludes with a brief discussion of the policy implications of the findings.
+C1 Penn State Univ, Dept Polit Sci, Pond Lab 330, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Piazza, JA (corresponding author), Penn State Univ, Dept Polit Sci, Pond Lab 330, University Pk, PA 16802 USA.
+EM jap45@psu.edu
+NR 68
+TC 34
+Z9 34
+U1 2
+U2 75
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0954-6553
+EI 1556-1836
+J9 TERROR POLIT VIOLENC
+JI Terror. Polit. Violence
+PY 2012
+VL 24
+IS 2
+SI SI
+BP 213
+EP 234
+DI 10.1080/09546553.2011.648680
+PG 22
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 959CW
+UT WOS:000305290000004
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Walker, RJ
+   Campbell, JA
+   Dawson, AZ
+   Egede, LE
+AF Walker, Rebekah J.
+   Campbell, Jennifer A.
+   Dawson, Aprill Z.
+   Egede, Leonard E.
+TI Prevalence of psychological distress, depression and suicidal ideation
+   in an indigenous population in Panama
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Indigenous; Depression; Serious psychological distress; Suicidal
+   ideation; Panama
+ID MENTAL-HEALTH; ANXIETY DISORDERS; LATIN-AMERICA; GLOBAL BURDEN; PHQ-9;
+   VALIDITY; DISEASE; PEOPLES
+AB Objective The aim of this study was to investigate the prevalence of serious psychological distress (SPD), depression, and suicidal ideation in an adult Indigenous population in Panama.
+   Methods Data were collected from 211 Kuna adults using a paper-based survey. Depression and suicidal ideation were measured using the Patient Health Questionnaire (PHQ-9), and SPD was measured using the Kessler-6. Univariate analyses were used to describe demographic variables, followed by chi(2) tests to compare differences in demographic variables for each of the mental health outcomes (depression, serious psychological distress, suicidal ideation). A regression model, adjusted for all demographic variables, was then run for each mental health outcome to understand independent correlates.
+   Results Within the sample surveyed, 6.2% (95% CI 3.4-10.4) reported serious psychological distress, 32.0% (95% CI 25.7-38.9) reported depression, and 22.9% (95% CI 17.4-29.1) reported suicidal ideation. Significant demographic differences existed with 14% of individuals between the age of 60-90 and 17% of individuals with no education reporting SPD. Women were nearly 5 times more likely to report depression than men (OR 4.90, 95% CI 1.27-19.00) and those with higher incomes were less likely to report depression (OR 0.32, 95% CI 0.13-0.78).
+   Conclusion High levels of depression, SPD, and suicidal ideation were present in an Indigenous Kuna community in Panama. Women and individuals with low income were more likely to report depression, and SPD was more common in older individuals and those with low levels of education. Suicidal ideation was high across all demographic factors, suggesting that a community-wide program to address suicide may be warranted.
+C1 [Walker, Rebekah J.; Campbell, Jennifer A.; Dawson, Aprill Z.; Egede, Leonard E.] Med Coll Wisconsin, Dept Med, Div Gen Internal Med, 8701 Watertown Plank Rd, Milwaukee, WI 53226 USA.
+   [Walker, Rebekah J.; Campbell, Jennifer A.; Dawson, Aprill Z.; Egede, Leonard E.] Ctr Adv Populat Sci, Milwaukee, WI 53226 USA.
+C3 Medical College of Wisconsin
+RP Egede, LE (corresponding author), Med Coll Wisconsin, Dept Med, Div Gen Internal Med, 8701 Watertown Plank Rd, Milwaukee, WI 53226 USA.; Egede, LE (corresponding author), Ctr Adv Populat Sci, Milwaukee, WI 53226 USA.
+EM legede@mcw.edu
+RI Dawson, Aprill/HLX-2845-2023
+OI Egede, Leonard/0000-0003-1546-1515; Walker, Rebekah/0000-0002-7773-557X
+FU Indigenous Health International (IHI)
+FX This study was supported by Indigenous Health International (IHI), an
+   approved 501(c)(3) non-profit organization in the United States. No
+   financial disclosures are reported by the authors of this paper.
+NR 38
+TC 10
+Z9 10
+U1 0
+U2 6
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD OCT
+PY 2019
+VL 54
+IS 10
+BP 1199
+EP 1207
+DI 10.1007/s00127-019-01719-5
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA JF7JJ
+UT WOS:000491562200004
+PM 31055631
+OA Green Accepted
+DA 2023-12-06
+ER
+
+EF

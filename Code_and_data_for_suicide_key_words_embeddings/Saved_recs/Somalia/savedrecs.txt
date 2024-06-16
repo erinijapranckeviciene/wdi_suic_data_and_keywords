@@ -1,0 +1,355 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wong, A
+   Escobar, M
+   Lesage, A
+   Loyer, M
+   Vanier, C
+   Sakinofsky, I
+AF Wong, A
+   Escobar, M
+   Lesage, A
+   Loyer, M
+   Vanier, C
+   Sakinofsky, I
+TI Are UN peacekeepers at risk for suicide?
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID UNITED-STATES-ARMY; MILITARY-PERSONNEL; STRESS; DEATH; SOLDIERS;
+   SERVICE; SOMALIA; PTSD; DUTY; WAR
+AB Media reports connecting UN peacekeeping dudes by Canadian soldiers to their subsequent suicide prompted this study of peacekeeping as suicide risk. In a case-control design we retrospectively compared 66 suicides in the Canadian military between 1990 and 1995 with two control groups: (a) 2,601 controls randomly selected from the electronic military database and (b) 66 matched controls with complete personnel and medical data. S;Ve found no increased risk of suicide in peacekeepers except among a subgroup of air force personnel. Here confounding individual factors, isolation from supports, and possibly inadequate preparation for deployment elucidated their suicides. Theater of deployment (e.g., Bosnia) did not affect the suicide rate. Military suicides experienced psychosocial stresses and psychiatric illness more often than their matched controls. We conclude that although peacekeeping per se does not increase overall suicide risk, military lifestyles may strain interpersonal relationships, encourage alcohol abuse, and contribute to psychiatric illness and suicide in a minority of vulnerable individuals irrespective of peacekeeping assignment. Careful selection, and preparatory military training that encourages intragroup bonding and mutual support, mall protect against suicide risk.
+C1 Univ Toronto, Dept Publ Hlth Sci, Toronto, ON, Canada.
+   Univ Montreal, Fernand Sequin Res Ctr, Louis H Lafontaine Hosp, Montreal, PQ, Canada.
+   Univ Toronto, Dept Psychiat, Toronto, ON, Canada.
+C3 University of Toronto; Universite de Montreal; University of Toronto
+RP Sakinofsky, I (corresponding author), Ctr Addict & Mental Hlth, Clarke Div, Suicide Studies Program, 250 Coll St, Toronto, ON M5T 1R8, Canada.
+EM isaac.sakinofsky@utoronto.ca
+OI Escobar, Michael/0000-0001-9055-4709
+NR 33
+TC 40
+Z9 40
+U1 1
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+EI 1943-278X
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD SPR
+PY 2001
+VL 31
+IS 1
+BP 103
+EP 112
+DI 10.1521/suli.31.1.103.21305
+PG 10
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 423PW
+UT WOS:000168186800011
+PM 11326764
+DA 2023-12-06
+ER
+
+PT J
+AU Thoresen, S
+   Mehlum, L
+   Moller, B
+AF Thoresen, S
+   Mehlum, L
+   Moller, B
+TI Suicide in peacekeepers - A cohort study of mortality from suicide in
+   22,275 Norwegian veterans from international peacekeeping operations
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE suicide; military; male; firearms; marital status; cohort studies
+ID PERSIAN-GULF-WAR; POSTTRAUMATIC-STRESS-DISORDER; UN PEACEKEEPERS; US
+   VETERANS; SOMALIA; SYMPTOMS; RISK; PREDICTORS; TRAUMA; COMBAT
+AB Objective Several studies have investigated post-traumatic stress reactions and other psychosocial problems in former peacekeepers. The question has also been raised as to whether such veterans might be at increased risk of suicide. This study investigated the suicide mortality in Norwegian former peacekeepers. Methods Cause-specific mortality was identified in the population of Norwegian peacekeepers having participated in army missions in the years 1978-95. General population data were used for comparison. Standardized Mortality Ratios (SMRs) were calculated for different suicide methods and certain peacekeeping-related variables. Marital status was available for each year and controlled for by using separate suicide rates for unmarried, married and divorced. Results A moderately, but significantly, increased SMR of 1.4 for suicide was found among the former peacekeepers (95% confidence interval = 1.1-1.8). After adjusting for marital status, the SMR was reduced to insignificance (SMR = 1.1, 95% confidence interval = 0.9-1.4). There was a significant increase in suicide by means of firearms and carbon monoxide poisoning. Conclusions The increased risk of suicide in former peacekeepers was related to the peace-keepers' lower marriage rate compared to the general population. This finding may indicate that the personnel were characterized by certain vulnerability factors before entering peacekeeping service, resulting in a reduced ability to enter into and remain in stable love relations. However, it cannot be excluded that stress reactions following peacekeeping may have contributed to possible strains on interpersonal relationships. Preventative work should, thus, include improved personnel selection routines and preferably also psychosocial support for veterans and their families. The increased number of suicides by use of firearms indicates that gun control might be an important prevention measure in this group.
+C1 Norwegian Armed Forces Joint Med Ctr, Div Med, Psychiat Branch, N-0320 Oslo, Norway.
+   Univ Oslo, Suicide Res & Prevent Unit, Oslo, Norway.
+   Canc Registry Norway, Oslo, Norway.
+C3 University of Oslo; University of Oslo
+RP Thoresen, S (corresponding author), Norwegian Armed Forces Joint Med Ctr, Div Med, Psychiat Branch, Sognsvannsveien 21,Bldg 20, N-0320 Oslo, Norway.
+RI Mehlum, Lars/AAV-9241-2021; Møller, Bjørn/K-7152-2012
+NR 31
+TC 43
+Z9 44
+U1 0
+U2 7
+PU DR DIETRICH STEINKOPFF VERLAG
+PI DARMSTADT
+PA PO BOX 10 04 62, D-64204 DARMSTADT, GERMANY
+SN 0933-7954
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD NOV
+PY 2003
+VL 38
+IS 11
+BP 605
+EP 610
+DI 10.1007/s00127-003-0687-3
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 742XF
+UT WOS:000186542800001
+PM 14614547
+DA 2023-12-06
+ER
+
+PT B
+AU Connorton, E
+AF Connorton, Ellen
+BE Sher, L
+   Vilens, A
+TI Suicide and Mental Health Among Peacekeepers: A Review of the Literature
+SO SUICIDE IN THE MILITARY
+LA English
+DT Review; Book Chapter
+ID POSTTRAUMATIC-STRESS-DISORDER; MILITARY PERSONNEL; RISK-FACTORS; UN
+   PEACEKEEPERS; SOMALIA; PREDICTORS; SYMPTOMS; OPERATIONS; VETERANS; FORCE
+AB Background
+   Peacekeeping personnel are exposed to multiple sources of trauma, including combat and other primary traumas, and the secondary trauma of serving a traumatized population. Exposure to trauma is a risk factor for mental illness and mental illness is a risk factor for suicidal behavior. This review of published articles provides prevalence estimates of posttraumatic stress disorder and other mental illness among peacekeepers, risk factors for mental illness in peacekeepers, and suicidal behavior among peacekeepers.
+   Methods
+   A search of bibliographic databases (Pub Men, Google Scholar,) was completed in February 2009. Methodological rigor of published studies varies considerably.
+   Results
+   Studies on prevalence of mental illness and risk factors for mental illness among peacekeepers were cross-sectional, but varied in type. Studies were from different countries and used different measures, some included a pre-deployment baseline and repeat surveys, others features repeat surveys with no baseline, and still others were one-time surveys. Studies on suicidal behavior among peacekeepers were from different countries and used different methods.
+   Conclusions
+   There is a wide range of reported rates of psychiatric diagnosis including PTSD. Studies on suicide prevalence among peacekeepers show either no difference between peacekeepers and the general population, or reduced risk of suicide among peacekeepers, but these studies are few in number. Implications for policy and practice among peacekeeping organizations are discussed. Future research should address suicide among peacekeepers of different nationalities.
+C1 Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health
+RP Connorton, E (corresponding author), Harvard Univ, Sch Publ Hlth, 665 Huntington Ave, Boston, MA 02115 USA.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 4
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60876-201-9
+PY 2009
+BP 17
+EP 39
+PG 23
+WC Psychiatry; Psychology, Multidisciplinary
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Psychiatry; Psychology
+GA BPG97
+UT WOS:000278833300002
+DA 2023-12-06
+ER
+
+PT B
+AU Connorton, E
+AF Connorton, Ellen
+BE Stanton, DG
+   Castaneda, LR
+TI SUICIDE AND MENTAL HEALTH AMONG PEACEKEEPERS: A REVIEW OF THE LITERATURE
+SO MILITARY PSYCHIATRY: NEW DEVELOPMENTS
+SE Psychiatry Theory Applications and Treatment
+LA English
+DT Article; Book Chapter
+ID POSTTRAUMATIC-STRESS-DISORDER; MILITARY PERSONNEL; RISK-FACTORS; UN
+   PEACEKEEPERS; SOMALIA; PREDICTORS; SYMPTOMS; OPERATIONS; VETERANS; FORCE
+AB Background
+   Peacekeeping personnel are exposed to multiple sources of trauma, including combat and other primary traumas, and the secondary trauma of serving a traumatized population. Exposure to trauma is a risk factor for mental illness and mental illness is a risk factor for suicidal behavior. This review of published articles provides prevalence estimates of posttraumatic stress disorder and other mental illness among peacekeepers, risk factors for mental illness in peacekeepers, and suicidal behavior among peacekeepers.
+   Methods
+   A search of bibliographic databases (Pub Men, Google Scholar,) was completed in February 2009. Methodological rigor of published studies varies considerably.
+   Results
+   Studies on prevalence of mental illness and risk factors for mental illness among peacekeepers were cross-sectional, but varied in type. Studies were from different countries and used different measures, some included a pre-deployment baseline and repeat surveys, others features repeat surveys with no baseline, and still others were one-time surveys. Studies on suicidal behavior among peacekeepers were from different countries and used different methods.
+   Conclusions
+   There is a wide range of reported rates of psychiatric diagnosis including PTSD. Studies on suicide prevalence among peacekeepers show either no difference between peacekeepers and the general population, or reduced risk of suicide among peacekeepers, but these studies are few in number. Implications for policy and practice among peacekeeping organizations are discussed. Future research should address suicide among peacekeepers of different nationalities.
+C1 Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health
+RP Connorton, E (corresponding author), Harvard Univ, Sch Publ Hlth, 665 Huntington Ave, Boston, MA 02115 USA.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 5
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60876-149-4
+J9 PSYCHIAT THEOR APPL
+PY 2010
+BP 169
+EP 188
+PG 20
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Psychology; Psychiatry
+GA BQQ51
+UT WOS:000281548300007
+DA 2023-12-06
+ER
+
+PT J
+AU Tahtabasi, M
+   Er, S
+   Kalayci, M
+AF Tahtabasi, Mehmet
+   Er, Sadettin
+   Kalayci, Mustafa
+TI Imaging findings in patients after the bomb explosion in Somalia on
+   December 28, 2019
+SO CLINICAL IMAGING
+LA English
+DT Article
+DE Blast injuries; Explosions; Imaging; bomb fragment; Trauma
+ID TERRORIST BOMBINGS; BLAST INJURIES; FOREIGN-BODIES; TRAUMA; PERFORATION;
+   EXPERIENCE; SURVIVORS; BUS
+AB Introduction: This study aimed to present the radiological findings of injuries in victims as a result of a suicide bombing in Mogadishu, Somalia. Methods: Of the 82 injured cases admitted to the emergency department within the first six hours after the explosion, those who were radiologically evaluated were included in this retrospective and descriptive study. To analyze and identify the distribution of primary, secondary, and tertiary injuries, they were classified according to the body areas as head-neck, thorax, abdominopelvic, extremity, and vertebra. Results: The mean age (mean +/- SD) of 63 patients included in the study was 28.6 +/- 10.2 years. Twenty-four (38.1%) of the injured patients were female and 39 (61.9%) were male. Secondary blast injury was the most common type of injury in the study group with a rate of 39/63 (62%). The total number of bomb fragments was 235, of which 113 (47.8%) were seen in the head and neck region, followed by 86 (36.5%) in the extremities. There were 10 patients (15.9%) with lung injury and 13 (20.6%) with tympanic membrane perforation due to the primary blast mechanism. Conclusion: Radiological imaging plays an important role in identifying specific findings and patterns of explosive injuries. Therefore, we consider that patients with stable hemodynamics should be radiologically examined for a fast and accurate diagnosis or treatment.
+C1 [Tahtabasi, Mehmet] Univ Hlth Sci, Dept Radiol, Somalia Turkey Recep Tayyip Erdogan Educ & Res Ho, Mogadishu, Somalia.
+   [Er, Sadettin] Univ Hlth Sci, Dept Gen Surg, Somalia Turkey Recep Tayyip Erdogan Educ & Res Ho, Mogadishu, Somalia.
+   [Kalayci, Mustafa] Univ Hlth Sci, Dept Ophthalmol, Somalia Turkey Recep Tayyip Erdogan Educ & Res Ho, Mogadishu, Somalia.
+RP Tahtabasi, M (corresponding author), Univ Hlth Sci, Dept Radiol, Somalia Turkey Recep Tayyip Erdogan Educ & Res Ho, Mogadishu, Somalia.
+EM mehmet.tahtabasi@sbu.edu.tr
+RI Er, Sadettin/HHS-3711-2022; Tahtabasi, Mehmet/JKI-2486-2023; KALAYCI,
+   Mustafa/AAS-1147-2020
+OI Er, Sadettin/0000-0003-0712-3153; KALAYCI, Mustafa/0000-0001-8056-6634
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0899-7071
+EI 1873-4499
+J9 CLIN IMAG
+JI Clin. Imaging
+PD OCT
+PY 2019
+VL 78
+BP 230
+EP 239
+DI 10.1016/j.clinimag.2021.05.018
+PG 10
+WC Radiology, Nuclear Medicine & Medical Imaging
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Radiology, Nuclear Medicine & Medical Imaging
+GA VK3SI
+UT WOS:000684564700001
+PM 34090178
+DA 2023-12-06
+ER
+
+PT J
+AU Bhui, K
+   Craig, T
+   Mohamud, S
+   Warfa, N
+   Stansfeld, SA
+   Thornicroft, G
+   Curtis, S
+   McCrone, P
+AF Bhui, K
+   Craig, T
+   Mohamud, S
+   Warfa, N
+   Stansfeld, SA
+   Thornicroft, G
+   Curtis, S
+   McCrone, P
+TI Mental disorders among Somali refugees
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Somali; refugees; cultural; adaptation; psychiatric; instruments
+ID POSTTRAUMATIC-STRESS-DISORDER; HEALTH SURVEY; TRAUMA; RELIABILITY;
+   VALIDATION; MIGRATION; INTERVIEW; TORTURE; EVENTS; MINI
+AB Background There are few mental health data for Somali people. This is due to the absence of culturally validated appropriate assessment instruments and methodological challenges. We aimed to develop a culturally appropriate instrument, and address the methodological challenges and assess some risk factors for mental disorder among Somalis in London.
+   Methods Following a comprehensive process of cultural adaptation of the MINI Neuropsychiatric Interview, we assessed ICD-10 mental disorders among 143 Somalis recruited from GP registers and community sites. Associations with demographic and economic characteristics, sampling venues, cultural and migration related risk factors are reported.
+   Results A higher risk of mental disorders was found among Somalis who used Khat (OR = 10.5, 1.1-98.3) claimed asylum at entry to the UK (OR = 12.8, 2-81.4) and recruits from primary care rather than from community sites (OR = 5.9, 1.4-25.8). A lower risk of mental disorders was found amongst Somalis in employment (OR = 0.03, 0.01-0.61), and those receiving education in the UK and in Somalia (OR = 0.13, 0.02-0.92). Over a third of subjects had any mental disorder (36.4%, 28.4-44.4), mainly common mental disorders (CMD) (33.8%, 26-41.5) and post-traumatic stress disorder (PTSD) (14%, 8.8-20.8). CMD were found among 80% of those with PTSD.
+   Conclusion Public health interventions for Somalis should focus on CMD as well as PTSD, khat use and mental health screening for suicide risk and mental disorders on arrival.
+C1 Barts & London Med Sch, Ctr Psychiat, London EC1M 6BQ, England.
+   GKT Sch Med, London, England.
+   Kings Coll London, Inst Psychiat, London WC2R 2LS, England.
+   Queen Mary Univ London, Ctr Geog, London E1 4NS, England.
+C3 University of London; Queen Mary University London; University of
+   London; King's College London; University of London; King's College
+   London; University of London; Queen Mary University London
+RP Bhui, K (corresponding author), Barts & London Med Sch, Ctr Psychiat, Charterhouse Sq, London EC1M 6BQ, England.
+EM k.s.bhui@qmul.ac.uk
+RI Thornicroft, Graham/B-4027-2010; Craig, Tom K J/A-9083-2011; Bhui,
+   Kamaldeep/AAX-2576-2020
+OI Thornicroft, Graham/0000-0003-0662-0879; Craig,
+   Thomas/0000-0003-1442-0391; Bhui, Kamaldeep/0000-0002-9205-2144;
+   McCrone, Paul/0000-0001-7001-4502
+NR 35
+TC 119
+Z9 141
+U1 0
+U2 24
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD MAY
+PY 2006
+VL 41
+IS 5
+BP 400
+EP 408
+DI 10.1007/s00127-006-0043-5
+PG 9
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 039VL
+UT WOS:000237335500011
+PM 16520881
+DA 2023-12-06
+ER
+
+PT B
+AU Ray, SL
+AF Ray, Susan L.
+BE Evans, MT
+   Walker, ED
+TI BEING IN THE WORLD OF PEACEKEEPING: LIVING THE UNPRESENTABLE
+SO RELIGION AND PSYCHOLOGY
+LA English
+DT Article; Book Chapter
+AB This research study was a philosophical interpretive inquiry into the experience of contemporary peacekeepers. What is the experience of contemporary peacekeeping and how does it lead to trauma? This study reflected a commitment to understanding the nature of contemporary peacekeeping deployments. An interpretative phenomenological approach was appropriated from various texts to uncover the experience of contemporary peacekeepers who had received treatment a minimum of two years for psychological trauma resulting from recent deployments. Data was collected via one tape recorded interview, lasting between 1(1)/(2) to 3 hours, with ten contemporary peacekeepers who had been deployed to Somalia, Rwanda, or the former Yugoslavia. The participants included six soldiers, two chaplains, one medic and one female nurse. Narratives from the transcribed interviews were reviewed with four of the participants and reflective journaling by the researcher provided further clarification of the data to understand the experience. Data analysis was undertaken throughout the research study by utilizing a thematic analysis of text in which themes emerged to document and understand the experience of contemporary peacekeeping. This chapter endeavors to reveal the situatedness of contemporary peacekeeping and contemporary peacekeepers being in the world. The peacekeepers' descriptions of the situatedness of their bodies in time, space and relation provided a fresh way into understanding the experience of contemporary peacekeeping. Glimpses of the life world described by the peacekeepers reveal some of the ineffable unpresentable experiences of peacekeeping that lead to trauma. Like Alice falling Down the Rabbit Hole, contemporary peacekeepers are separated from their families and thrown suddenly down the rabbit hole of peacekeeping. They are taken on a journey of the unknown, with limited preparation for what they would experience and where they would live. They, like Alice, have to adapt to rapidly changing rules and situations. For peacekeepers there are changes from the known to the unknown and back to the known. Like Alice, contemporary peacekeepers tried to make sense out of the senselessness of the situations that they encountered. As well, their return home was also quick with limited transition. Deployments required many transitions in terms of time, space and relations. The peacekeepers revealed that the military became their family, with the bonds of brotherhood tightening over time. The profound losses of brother soldiers such as by suicide and the callous response by the military left many with a sense of betrayal of what's right by the military leaders who held their trust. Their sense of betrayal was further deepened when the Band of Brothers that was the Airborne Regiment who served in Somalia were disbanded by their military family and the government. The rules of engagement restricted them from responding to human suffering all around them. The sheer stamina and self discipline of standing aside, in the face of the brutalities and cruelties inflicted upon their fellow human beings, makes one wonder how this erodes at the peacekeepers. Being in the world of peacekeeping left many of the peacekeepers with existential questions about life, death, being and the searching for meaning.
+C1 Univ Western Ontario, Fac Hlth Sci, London, ON N6A 5C1, Canada.
+C3 Western University (University of Western Ontario)
+RP Ray, SL (corresponding author), Univ Western Ontario, Fac Hlth Sci, HSA 32, London, ON N6A 5C1, Canada.
+EM slray@uwo.ca
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 2
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60741-066-9
+PY 2009
+BP 17
+EP 61
+PG 45
+WC Psychology, Multidisciplinary
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Psychology
+GA BPB15
+UT WOS:000278418400003
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,1176 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Linfield, S
+AF Linfield, Susie
+TI The bleeding wound - Zimbabwe's slow suicide
+SO DISSENT
+LA English
+DT Book Review
+C1 NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+C3 New York University
+RP Linfield, S (corresponding author), NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FOUNDATION STUDY INDEPENDENT SOCIAL IDEAS, INC
+PI NEW YORK
+PA 310 RIVERSIDE DR, STE 1201, NEW YORK, NY 10025 USA
+SN 0012-3846
+EI 1946-0910
+J9 DISSENT
+JI Dissent
+PD FAL
+PY 2007
+VL 54
+IS 4
+BP 94
+EP 101
+PG 8
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA 222JU
+UT WOS:000250293200022
+DA 2023-12-05
+ER
+
+PT J
+AU Linfield, S
+AF Linfield, Susie
+TI The bleeding wound - Zimbabwe's slow suicide
+SO DISSENT
+LA English
+DT Book Review
+C1 NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+C3 New York University
+RP Linfield, S (corresponding author), NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FOUNDATION STUDY INDEPENDENT SOCIAL IDEAS, INC
+PI NEW YORK
+PA 310 RIVERSIDE DR, STE 1201, NEW YORK, NY 10025 USA
+SN 0012-3846
+EI 1946-0910
+J9 DISSENT
+JI Dissent
+PD FAL
+PY 2007
+VL 54
+IS 4
+BP 94
+EP 101
+PG 8
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA 222JU
+UT WOS:000250293200025
+DA 2023-12-05
+ER
+
+PT J
+AU Linfield, S
+AF Linfield, Susie
+TI The bleeding wound: Zimbabwe's slow suicide
+SO DISSENT
+LA English
+DT Book Review
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FOUNDATION STUDY INDEPENDENT SOCIAL IDEAS, INC
+PI NEW YORK
+PA 310 RIVERSIDE DR, STE 1201, NEW YORK, NY 10025 USA
+SN 0012-3846
+EI 1946-0910
+J9 DISSENT
+JI Dissent
+PD FAL
+PY 2007
+VL 54
+IS 4
+BP 94
+EP 101
+PG 8
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA 222JU
+UT WOS:000250293200026
+DA 2023-12-05
+ER
+
+PT J
+AU Linfield, S
+AF Linfield, Susie
+TI The bleeding wound - Zimbabwe's slow suicide
+SO DISSENT
+LA English
+DT Book Review
+C1 NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+C3 New York University
+RP Linfield, S (corresponding author), NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FOUNDATION STUDY INDEPENDENT SOCIAL IDEAS, INC
+PI NEW YORK
+PA 310 RIVERSIDE DR, STE 1201, NEW YORK, NY 10025 USA
+SN 0012-3846
+EI 1946-0910
+J9 DISSENT
+JI Dissent
+PD FAL
+PY 2007
+VL 54
+IS 4
+BP 94
+EP 101
+PG 8
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA 222JU
+UT WOS:000250293200023
+DA 2023-12-05
+ER
+
+PT J
+AU Linfield, S
+AF Linfield, Susie
+TI The bleeding wound - Zimbabwe's slow suicide
+SO DISSENT
+LA English
+DT Book Review
+C1 NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+C3 New York University
+RP Linfield, S (corresponding author), NYU, Cultural Reporting & Criticism Program, New York, NY 10012 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FOUNDATION STUDY INDEPENDENT SOCIAL IDEAS, INC
+PI NEW YORK
+PA 310 RIVERSIDE DR, STE 1201, NEW YORK, NY 10025 USA
+SN 0012-3846
+EI 1946-0910
+J9 DISSENT
+JI Dissent
+PD FAL
+PY 2007
+VL 54
+IS 4
+BP 94
+EP 101
+PG 8
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA 222JU
+UT WOS:000250293200024
+DA 2023-12-05
+ER
+
+PT B
+AU GonzalezPerez, M
+AF GonzalezPerez, M
+TI Women and Terrorism: Female Activity in Domestic and International
+   Terror Groups
+SO WOMEN AND TERRORISM: FEMALE ACTIVITY IN DOMESTIC AND INTERNATIONAL
+   TERROR GROUPS
+SE Contemporary Terrorism Studies
+LA English
+DT Book
+ID SUICIDE BOMBER; LIBERATION; STRUGGLE; WAR; MOZAMBIQUE; ZIMBABWE;
+   PARTICIPATION; INDEPENDENCE; EXPERIENCE; REVOLUTION
+NR 525
+TC 42
+Z9 51
+U1 0
+U2 1
+PU ROUTLEDGE
+PI ABINGDON
+PA 2 PARK SQ, MILTON PARK, ABINGDON OX14 4RN, OXFORD, ENGLAND
+BN 978-0-203-92655-0
+J9 CONTEMP TERROR STUD
+PY 2008
+BP 1
+EP 162
+DI 10.4324/9780203926550
+PG 162
+WC International Relations; Sociology; Women's Studies
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Sociology; Women's Studies
+GA BSH38
+UT WOS:000284458500009
+DA 2023-12-05
+ER
+
+PT J
+AU Shamu, S
+   Zarowsky, C
+   Roelens, K
+   Temmerman, M
+   Abrahams, N
+AF Shamu, Simukai
+   Zarowsky, Christina
+   Roelens, Kristien
+   Temmerman, Marleen
+   Abrahams, Naeemah
+TI High-frequency intimate partner violence during pregnancy, postnatal
+   depression and suicidal tendencies in Harare, Zimbabwe
+SO GENERAL HOSPITAL PSYCHIATRY
+LA English
+DT Article
+DE Intimate partner violence; Postnatal depression; Postnatal suicidal
+   ideation; Zimbabwe
+ID DOMESTIC VIOLENCE; POSTPARTUM DEPRESSION; MENTAL-HEALTH; WOMEN;
+   PREVALENCE; SYMPTOMS; DISORDER; BEHAVIOR; QUESTIONNAIRE; ASSOCIATIONS
+AB Introduction: Intimate partner violence (IPV) is a common form of violence experienced by pregnant women and is believed to have adverse mental health effects postnatally. This study investigated the association of postnatal depression (PND) and suicidal ideation with emotional, physical and sexual IPV experienced by women during pregnancy.
+   Methods: Data were collected from 842 women interviewed postnatally in six postnatal clinics in Harare, Zimbabwe. We used the World Health Organization versions of IPV and Centre for Epidemiological Studies - Depression Scale measures to assess IPV and PND respectively. We derived a violence severity variable and combined forms of IPV variables from IPV questions. Logistic regression was used to analyse data whilst controlling for past mental health and IPV experiences.
+   Results: One in five women [21.4% (95% CI 18.6-24.2)] met the diagnostic criteria for PND symptomatology whilst 21.6% (95% CI 18.8-24.4) reported postpartum suicide thoughts and 4% (95% CI 2.7-5.4) reported suicide attempts. Two thirds (65.4%) reported any form of IPV. Although individual forms of severe IPV were associated with PND, stronger associations were found between PND and severe emotional IPV or severe combined forms of IPV. Suicidal ideation was associated with emotional IPV. Other forms of IPV, except when combined with emotional IPV, were not individually associated with suicidal ideation.
+   Conclusion: Emotional IPV during pregnancy negatively affects women's mental health in the postnatal period. Clinicians and researchers should include it in their conceptualisation of violence and health. Further research must look at possible indirect relationships between sexual and physical IPV on mental health. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Shamu, Simukai; Abrahams, Naeemah] MRC, Gender & Hlth Res Unit, ZA-7505 Tygerberg, South Africa.
+   [Shamu, Simukai; Zarowsky, Christina; Abrahams, Naeemah] Univ Western Cape, Sch Publ Hlth, ZA-7535 Bellville, South Africa.
+   [Shamu, Simukai] Fdn Profess Dev, ZA-0184 Pretoria, South Africa.
+   [Zarowsky, Christina] Univ Montreal Hosp Res Ctr, Montreal, PQ H2X 0A9, Canada.
+   [Roelens, Kristien; Temmerman, Marleen] Univ Ghent, Int Ctr Reprod Hlth, B-9000 Ghent, Belgium.
+C3 University of the Western Cape; Universite de Montreal; Ghent University
+RP Shamu, S (corresponding author), MRC, Gender & Hlth Res Unit, ZA-7505 Tygerberg, South Africa.
+EM shamuts@yahoo.com
+RI Abrahams, Naeemah/JAN-9361-2023; Abrahams, Naeemah/AAF-1144-2020
+OI Abrahams, Naeemah/0000-0002-6138-6256; Abrahams,
+   Naeemah/0000-0002-6138-6256; Shamu, Simukai/0000-0002-2290-0515;
+   Zarowsky, Christina/0000-0002-0850-6212
+FU Flemish interuniversity cooperation (VLIR-UOS); University of the
+   Western Cape; African Population and Heath Research Centre;
+   International Development Research Centre; South African Medical
+   Research Council; University of Zimbabwe
+FX We acknowledge funding and assistance from the following organisations:
+   Flemish interuniversity cooperation (VLIR-UOS), University of the
+   Western Cape, African Population and Heath Research Centre in
+   partnership with the International Development Research Centre, South
+   African Medical Research Council and University of Zimbabwe.
+NR 40
+TC 58
+Z9 58
+U1 1
+U2 20
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0163-8343
+EI 1873-7714
+J9 GEN HOSP PSYCHIAT
+JI Gen. Hosp. Psych.
+PD JAN-FEB
+PY 2016
+VL 38
+IS 1
+BP 109
+EP 114
+DI 10.1016/j.genhosppsych.2015.10.005
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CZ8OC
+UT WOS:000367358000021
+PM 26607330
+DA 2023-12-05
+ER
+
+PT J
+AU Tagwireyi, D
+   Ball, DE
+   Nhachi, CFB
+AF Tagwireyi, D
+   Ball, DE
+   Nhachi, CFB
+TI Poisoning in Zimbabwe: a survey of eight major referral hospitals
+SO JOURNAL OF APPLIED TOXICOLOGY
+LA English
+DT Article
+DE poisoning; Zimbabwe; pesticides; pharmaceuticals; traditional medicine;
+   mortality
+ID URBAN ZIMBABWE; PATTERN; ADMISSIONS; NEWCASTLE; TRENDS; DRUGS;
+   MEDICINES; SUICIDE; WALES
+AB A retrospective study of the pattern of poisoning cases admitted to eight major urban referral hospitals in Zimbabwe over a 2-year period (1998-1999 inclusive) was conducted to describe the pattern of poisoning at these centres. There were a total of 2764 hospital admissions due to poisoning, involving a total of 2846 toxic agents. Accidental poisoning (AP) and deliberate self-poisoning (DSP) accounted for 48.9% (1352 cases) and 41.3% (1142 cases), respectively. With AP, the highest number of cases (45.9%) occurred in children below the age of 5 years, with half of these due to chemicals, mainly paraffin. In the DSP group, however, more than 60% of all cases occurred in the 16-25-year age group. In addition, twice as many females as males were admitted for DSP compared with an overall male/female ratio of 1 : 1.2. Pesticides (31.4%) and pharmaceuticals (30.4%) were the most common groups of toxic agents responsible for the hospital admissions. Unknown toxins, natural toxins and pesticides showed the highest mortality rates (15.4%, 8.3% and 6.7%, respectively). Compared with the last major survey of poisoning in Zimbabwe, the pattern of poisoning at referral hospitals has changed over the last decade, with an increase in pesticide and pharmaceutical cases and a marked fall in cases of traditional medicine poisoning. Educational and legislative interventions may be required to address these changes. There is the need also to investigate further the high mortality rates associated with traditional medicine poisoning. Copyright (C) 2002 John Wiley Sons, Ltd.
+C1 Univ Zimbabwe, Sch Med, Drug & Toxicol Informat Serv, Dept Pharm, Harare, Zimbabwe.
+   Univ Zimbabwe, Sch Med, Dept Clin Pharmacol, Harare, Zimbabwe.
+C3 University of Zimbabwe; University of Zimbabwe
+RP Ball, DE (corresponding author), Univ Zimbabwe, Sch Med, Drug & Toxicol Informat Serv, Dept Pharm, POB A 178, Harare, Zimbabwe.
+RI Tagwireyi, Dexter/E-8429-2016
+OI Tagwireyi, Dexter/0000-0002-8044-831X
+NR 35
+TC 36
+Z9 36
+U1 0
+U2 2
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX PO19 1UD, ENGLAND
+SN 0260-437X
+J9 J APPL TOXICOL
+JI J. Appl. Toxicol.
+PD MAR-APR
+PY 2002
+VL 22
+IS 2
+BP 99
+EP 105
+DI 10.1002/jat.832
+PG 7
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA 532RQ
+UT WOS:000174489200002
+PM 11920933
+DA 2023-12-05
+ER
+
+PT J
+AU Chowdhury, AN
+   Banerjee, S
+   Brahma, A
+   Weiss, MG
+AF Chowdhury, Arabinda N.
+   Banerjee, Sohini
+   Brahma, Arabinda
+   Weiss, M. G.
+TI Pesticide practices and suicide among farmers of the Sundarban region in
+   India
+SO FOOD AND NUTRITION BULLETIN
+LA English
+DT Article
+DE community mental health; pesticide practice; suicide; Sundarban
+ID SRI-LANKA; DEVELOPING-COUNTRIES; POISONING DEATHS; DEVELOPING-WORLD;
+   SOUTH-AMERICA; RISK-FACTORS; PREVENTION; ZIMBABWE
+AB Background. Deliberate self-poisoning by ingesting pesticides is a serious health problem among farmers, especially in low- and middle-income countries. Preventing these suicides is a priority for a public mental health agenda.
+   Objective. To examine the role of pesticide poisoning in suicide and nonfatal deliberate self-harm, and clarify awareness of risks, safe practices concerning storage and use of pesticides, and associated self-injury, both unintentional and intentional, within farmer households of the Sundarban region, India.
+   Methods. Retrospective record review of adult cases of deliberate self-poisoning at the Block Primary Health Centres of 13 Sundarban Blocks was performed to analyze the relative roles of various methods of self-harm and their lethality. Focus group discussions, questionnaires, and in-depth interviews were undertaken in a community study of farmer households to examine pesticide-related views and practices, with particular attention to storage, use, and health impact.
+   Results. Pesticide poisoning was the most common method of deliberate self-harm in both men and women. Pesticide storage in most households was unsafe and knowledge was inadequate concerning adverse effects of pesticides on health, crops, and the environment.
+   Conclusions. An intersectoral approach linking the interests of public health, mental health, and agriculture is well suited to serve the collective interests of all three agendas better than each in isolation. Such an approach is needed to reduce morbidity and mortality from unintentional and intentional self-injury in low-income agricultural communities like those of the Sundarban region.
+C1 Inst Psychiat, Kolkata, W Bengal, India.
+   Swiss Trop Inst, Dept Publ Hlth & Epidemiol, CH-4002 Basel, Switzerland.
+C3 University of Basel; Swiss Tropical & Public Health Institute
+RP Chowdhury, AN (corresponding author), Stuart Rd Clin, Corby NN17 1RJ, Northants, England.
+EM arabinda.chowdhury@btinternet.com
+RI Brahma, Arabinda/ABD-7977-2020
+OI Brahma, Arabinda/0000-0001-7971-2438
+NR 65
+TC 20
+Z9 20
+U1 2
+U2 12
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0379-5721
+EI 1564-8265
+J9 FOOD NUTR BULL
+JI Food Nutr. Bull.
+PD JUN
+PY 2007
+VL 28
+IS 2
+SU S
+BP S381
+EP S391
+DI 10.1177/15648265070282S218
+PG 11
+WC Food Science & Technology; Nutrition & Dietetics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Food Science & Technology; Nutrition & Dietetics
+GA 177XU
+UT WOS:000247186600018
+PM 17658085
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-05
+ER
+
+PT J
+AU Piette, A
+   Muchirahondo, F
+   Mangezi, W
+   Iversen, A
+   Cowan, F
+   Dube, M
+   Grant-Peterkin, H
+   Araya, R
+   Abas, M
+AF Piette, Angharad
+   Muchirahondo, Florence
+   Mangezi, Walter
+   Iversen, Amy
+   Cowan, Frances
+   Dube, Michelle
+   Grant-Peterkin, Hugh
+   Araya, Ricardo
+   Abas, Melanie
+TI 'Simulation-based learning in psychiatry for undergraduates at the
+   University of Zimbabwe medical school'
+SO BMC MEDICAL EDUCATION
+LA English
+DT Article
+DE Simulation; Medical education; Depression; Psychiatry; Mental health;
+   Low-income countries; Developing countries; Africa
+ID STANDARDIZED PATIENTS; HEALTH-CARE; LOW-INCOME; DEPRESSION; EDUCATION;
+   STUDENTS; ATTITUDES; SKILLS; WOMEN
+AB Background: The use of simulated patients to teach in psychiatry has not been reported from low-income countries. This is the first study using simulation teaching in psychiatry in Africa. The aim of this study was to introduce a novel method of psychiatric teaching to medical students at the University of Zimbabwe and assess its feasibility and preliminary effectiveness. We selected depression to simulate because students in Zimbabwe are most likely to see cases of psychoses during their ward-based clinical exposure.
+   Methods: Zimbabwean psychiatrists adapted scenarios on depression and suicide based on ones used in London. Zimbabwean post-graduate trainee psychiatrists were invited to carry out the teaching and psychiatric nursing staff were recruited and trained in one hour to play the simulated patients (SPs). All students undertaking their psychiatry placement (n = 30) were allocated into groups for a short didactic lecture on assessing for clinical depression and then rotated around 3 scenarios in groups of 4-5 and asked to interview a simulated patient with signs of depression. Students received feedback from peers, SPs and facilitators. Students completed the Confidence in Assessing and Managing Depression (CAM-D) questionnaire before and after the simulation session and provided written free-text feedback.
+   Results: Post-graduate trainers, together with one consultant, facilitated the simulated teaching after three hours training. Student confidence scores increased from mean 15.90 to 20.05 (95% CI = 2.58-5.71) t (20) = 5.52, (p > 0.0001) following the simulation teaching session. Free-text feedback was positive overall with students commenting that it was "helpful", "enjoyable" and "boosted confidence".
+   Conclusions: In Zimbabwe, simulation teaching was acceptable and could be adapted with minimal effort by local psychiatrists and implemented by post-graduate trainees and one consultant, Students found it helpful and enjoyable and their confidence increased after the teaching. It offers students a broader exposure to psychiatric conditions than they receive during clinical attachment to the inpatient wards. Involving psychiatry trainees and nursing staff may be a sustainable approach in a setting with small number of consultants and limited funds to pay for professional actors.
+C1 [Piette, Angharad; Iversen, Amy; Grant-Peterkin, Hugh; Abas, Melanie] Kings Coll London, Inst Psychiat Psychol & Neurosci, London WC2R 2LS, England.
+   [Muchirahondo, Florence; Mangezi, Walter; Cowan, Frances; Dube, Michelle; Abas, Melanie] Univ Zimbabwe, Coll Hlth Sci, Dept Psychiat, Harare, Zimbabwe.
+   [Cowan, Frances] UCL, London, England.
+   [Araya, Ricardo] London Sch Hyg & Trop Med, London WC1, England.
+C3 University of London; King's College London; University of Zimbabwe;
+   University of London; University College London; University of London;
+   London School of Hygiene & Tropical Medicine
+RP Mangezi, W (corresponding author), Univ Zimbabwe, Coll Hlth Sci, Dept Psychiat, Harare, Zimbabwe.
+EM wmangezi@yahoo.co.uk
+RI Iversen, Amy C/D-1112-2011; Araya, Ricardo/S-3144-2019
+OI Araya, Ricardo/0000-0002-0420-5148; Mangezi, Walter/0000-0002-8889-0487;
+   Cowan, Frances/0000-0003-3087-4422; abas, melanie/0000-0003-1716-5584
+FU Fogerty International Centre, United States National Institute for
+   Health [IR24TW008893-01 REVISED, 1004]; University of Zimbabwe medical
+   school
+FX The work took place as part of the 'Improving Mental Health Education
+   and Research in Zimbabwe' (IMHERZ) project, which receives funding from
+   the Fogerty International Centre, United States National Institute for
+   Health (Prime Award No. IR24TW008893-01 REVISED, Sub Award No: 1004).
+   The funding body had no role in design, in the collection, analysis, and
+   interpretation of data; in the writing of the manuscript; or in the
+   decision to submit the manuscript for publication.; Angharad Piette
+   received salary funding from the above grant during the period of the
+   work being carried out. Frances Cowan and Melanie Abas are part-funded
+   by the above grant. Walter Mangezi and Florence Muchirahondo receive a
+   salary from the University of Zimbabwe medical school. Amy Iversen and
+   Hugh Grant Peterkin are not funded by the grant and received no funds
+   for this work. No funds were received for preparation of the manuscript.
+NR 28
+TC 17
+Z9 17
+U1 0
+U2 23
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1472-6920
+J9 BMC MED EDUC
+JI BMC Med. Educ.
+PD FEB 21
+PY 2015
+VL 15
+AR 23
+DI 10.1186/s12909-015-0291-8
+PG 8
+WC Education & Educational Research; Education, Scientific Disciplines
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA CC7IV
+UT WOS:000350541800001
+PM 25889733
+OA gold, Green Published, Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Moyo, S
+AF Moyo, Stanzia
+TI Indigenous knowledge systems and attitudes towards male infertility in
+   Mhondoro-Ngezi, Zimbabwe
+SO CULTURE HEALTH & SEXUALITY
+LA English
+DT Article
+DE male infertility; indigenous knowledge; psychosocial impacts; Zimbabwe
+ID EXPERIENCES; GAMBIA
+AB Male impotence and infertility are health and social problems that have resulted in significant suffering to men the world over. From an African perspective, and in Zimbabwe in particular, the taboo nature of male impotence and infertility carries a lot of mystique. Based on evidence from focus-group discussions, in-depth and key-informant interviews, this study reveals rural Shona people to have indigenous knowledge systems that trigger the investigatation of signs of impotence (perceived as associated with male infertility) at infancy, puberty and after marriage. Male infertility carries overtones of failure, frustration, pain, social ostracism, stigma, marital instability, discomfiture and suicide. Intervention strategies to remedy perceived problems were exclusively sociocultural, involving the administration of traditional herbs and traditional healers' divination. Given the existence of indigenous knowledge systems for the investigation and mediation of male impotence and infertility, it is worth incorporating traditional healers in future strategies targeting these emasculating conditions. La impotencia y la infertilidad masculinas son problemas sociales y sanitarios que causan mucho sufrimiento a los hombres en todo el mundo. Desde una perspectiva africana, y de Zimbabue en particular, el caracter tabu de la impotencia y la infertilidad masculinas tiene mucha mistica. Basandonos en datos recogidos en charlas en grupo y en entrevistas exhaustivas con informantes clave, en este estudio indicamos que el pueblo Shona rural utiliza sistemas indigenas de conocimiento para poner en marcha un sistema que estudia los signos de impotencia (percibida como asociada a la infertilidad masculina) en la infancia, la pubertad y despues del matrimonio. La infertilidad masculina esta asociada a fracaso, frustracion, dolor, ostracismo social, estigma, inestabilidad matrimonial, decepcion y suicidio. Las estrategias de intervencion para remediar los problemas percibidos eran exclusivamente socioculturales, entre ellas la administracion de hierbas tradicionales y la divinacion de curanderos tradicionales. Dada la existencia de los sistemas indigenas de conocimiento para el estudio y la mediacion de la impotencia y la infertilidad masculinas, seria positivo que en los futuros programas sobre estos trastornos de la poblacion masculina se tuviera en cuenta a los curanderos tradicionales. L'impuissance et l'infertilite masculines sont des problemes sanitaires et sociaux qui ont pour consequence une souffrance considerable parmi les hommes dans le monde. Dans une vision africaine, au Zimbabwe en particulier, le caractere tabou de ces troubles leur confere une forte dimension mystique. S'appuyant sur des preuves ayant emerge de discussions de groupes thematiques, d'entretiens en profondeur et avec des informateurs cle, cette etude revele que chez les Shona vivant dans les zones rurales il existe des systemes de connaissance qui permettent la recherche de signes d'impuissance (percue comme associee a l'infertilite masculine) a la prime enfance, a la puberte et apres le mariage. L'infertilite masculine a des connotations d'echec, de frustration, de douleur, d'ostracisme social, de stigma, d'instabilite conjugale, de desarroi et de suicide. Les traitements des problemes dont la presence est percue grace a ces methodes sont exclusivement socio-culturels et comprennent l'administration d'herbes traditionnelles et la divination de guerisseurs traditionnels.
+   Etant donnee l'existence de ces systemes indigenes de connaissance permettant la recherche et la soumission a la mediation de l'impuissance et de l'infertilite masculines, il convient d'integrer les guerisseurs traditionnels aux futures strategies ciblant ces troubles castrateurs.
+C1 Univ Zimbabwe, Ctr Populat Studies, Harare, Zimbabwe.
+C3 University of Zimbabwe
+RP Moyo, S (corresponding author), Univ Zimbabwe, Ctr Populat Studies, Harare, Zimbabwe.
+EM moyos@sociol.uz.ac.zw
+NR 43
+TC 16
+Z9 17
+U1 1
+U2 27
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1369-1058
+EI 1464-5351
+J9 CULT HEALTH SEX
+JI Cult. Health Sex
+PD JUN 1
+PY 2013
+VL 15
+IS 6
+BP 667
+EP 679
+DI 10.1080/13691058.2013.779029
+PG 13
+WC Family Studies; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Biomedical Social Sciences
+GA 163TM
+UT WOS:000320359800003
+PM 23550631
+DA 2023-12-05
+ER
+
+PT J
+AU Chigiji, H
+   Fry, D
+   Mwadiwa, TE
+   Elizalde, A
+   Izumi, N
+   Baago-Rasmussen, L
+   Maternowska, MC
+AF Chigiji, Handrick
+   Fry, Deborah
+   Mwadiwa, Tinashe Enock
+   Elizalde, Aldo
+   Izumi, Noriko
+   Baago-Rasmussen, Line
+   Maternowska, Mary Catherine
+TI Risk factors and health consequences of physical and emotional violence
+   against children in Zimbabwe: a nationally representative survey
+SO BMJ GLOBAL HEALTH
+LA English
+DT Article
+ID SEXUAL-ABUSE
+AB Introduction This study provides, for the first time, comparable national population-based estimates that describe the nature and magnitude of physical and emotional violence during childhood in Zimbabwe.
+   Methods From August to September 2011, we conducted a national population-based survey of 2410 respondents aged 13-24 years, using a two-stage cluster sampling. Regression models were adjusted for relevant demographics to estimate the ORs for associations between violence, risk factors and various health-related outcomes.
+   Results Respondents aged 18-24 years report a lifetime prevalence (before the age of 18) of 63.9% (among girls) to 76% (among boys) for physical violence by a parent or adult relative, 12.6% (girls) to 26.4% (boys) for humiliation in front of others, and 17.3% (girls) to 17.5% (boys) for feeling unwanted. Almost 50% of either sex aged 13-17 years experienced physical violence in the 12 months preceding the survey. Significant risk factors for experiencing physical violence for girls are ever experiencing emotional abuse prior to age 13, adult illness in the home, socioeconomic status and age. Boys' risk factors include peer relationships and socioeconomic status, while caring teachers and trusted community members are protective factors. Risk factors for emotional abuse vary, including family relationships, teacher and school-level variables, socioeconomic status, and community trust and security. Emotional abuse is associated with increased suicide attempts for both boys and girls, among other health outcomes.
+   Conclusion Physical and emotional violence often work in tandem causing poor mental and physical health outcomes. Understanding risk factors for violence within the peer or family context is essential for improved violence prevention.
+C1 [Chigiji, Handrick; Mwadiwa, Tinashe Enock] ZIMSTAT Zimbabwe Natl Stat Agcy, Social Stat, Harare, Zimbabwe.
+   [Fry, Deborah; Elizalde, Aldo] Univ Edinburgh, Moray House Sch Educ, Edinburgh, Midlothian, Scotland.
+   [Izumi, Noriko; Baago-Rasmussen, Line] Unicef Zimbabwe, Harare, Zimbabwe.
+   [Maternowska, Mary Catherine] Unicef Off Res Innocenti, Florence, Italy.
+C3 University of Edinburgh; Istituto degli Innocenti
+RP Chigiji, H (corresponding author), ZIMSTAT Zimbabwe Natl Stat Agcy, Social Stat, Harare, Zimbabwe.
+EM hchigiji@zimstat.co.zw
+FU Unicef
+FX Unicef.
+NR 19
+TC 12
+Z9 12
+U1 0
+U2 8
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2059-7908
+J9 BMJ GLOB HEALTH
+JI BMJ Glob. Health
+PD MAY
+PY 2018
+VL 3
+IS 3
+AR e000533
+DI 10.1136/bmjgh-2017-000533
+PG 12
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GQ2SS
+UT WOS:000441508100002
+PM 29989051
+OA gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Willis, N
+   Mavhu, W
+   Wogrin, C
+   Mutsinze, A
+   Kagee, A
+AF Willis, Nicola
+   Mavhu, Webster
+   Wogrin, Carol
+   Mutsinze, Abigail
+   Kagee, Ashraf
+TI Understanding the experience and manifestation of depression in
+   adolescents living with HIV in Harare, Zimbabwe
+SO PLOS ONE
+LA English
+DT Article
+ID POSITIVE ADOLESCENTS; MENTAL-HEALTH; CHILDREN; AFRICA; INFECTION;
+   HIV/AIDS; AIDS
+AB Background
+   Studies have found that adolescents living with HIV are at risk of depression, which in turn affects adherence to medication. This study explored the experience and manifestation of depression in adolescents living with HIV in Zimbabwe in order to inform intervention development.
+   Methods
+   We conducted a body mapping exercise with 21 HIV positive 15-19 years olds who had been diagnosed with major depressive disorder. Participants created a painted map of their body to assist them in expressing their somatic and emotional experiences in qualitative interviews. The interviews were transcribed and thematically coded using NVivo 10.
+   Results
+   Participants attributed their experiences of depression to their relationships and interactions with significant people in their lives, primarily family members and peers. A sense of being different from others was common among participants, both due to their HIV status and the impact HIV has had on their life circumstances. Participants described a longing to be important or to matter to the people in their lives. A sense of isolation and rejection was common, as well as grief and loss, including ambiguous and anticipated loss. Participants' idioms of distress included 'thinking deeply' ('kufungisisa'), 'pain', darkness, 'stress' or a lack of hope and ambiguity for the future. Suicidal ideation was described, including slow suicide through poor adherence. Supportive factors were also relational, including the importance of supportive relatives and peers, clinic staff and psychosocial support programmes.
+   Conclusions
+   An understanding of HIV positive adolescents' own narratives around depression can inform the development and integration of appropriate mental health interventions within HIV care and treatment programmes. Study findings suggest that family and peer-led interventions are potentially useful in the prevention and management of depression in adolescents living with HIV.
+C1 [Willis, Nicola; Wogrin, Carol; Mutsinze, Abigail] Africaid, Harare, Zimbabwe.
+   [Mavhu, Webster] Ctr Sexual Hlth & HIV AIDS Res CeSHHAR, Harare, Zimbabwe.
+   [Kagee, Ashraf] Stellenbosch Univ, Dept Psychol, Stellenbosch, South Africa.
+C3 Stellenbosch University
+RP Willis, N (corresponding author), Africaid, Harare, Zimbabwe.
+EM nicola@zvandiri.org
+RI Kagee, Ashraf/H-4650-2019
+OI Kagee, Ashraf/0000-0003-1241-2566; Mavhu, Webster/0000-0003-1881-4398
+FU Maruva Trust
+FX Funding was received by NW from Maruva Trust, www.maruva.org, to
+   complete this study. The funder had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+NR 40
+TC 51
+Z9 55
+U1 0
+U2 15
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 3
+PY 2018
+VL 13
+IS 1
+AR e0190423
+DI 10.1371/journal.pone.0190423
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FR6OK
+UT WOS:000419185200046
+PM 29298326
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Munetsi, E
+   Simms, V
+   Dzapasi, L
+   Chapoterera, G
+   Goba, N
+   Gumunyu, T
+   Weiss, HA
+   Verhey, R
+   Abas, M
+   Araya, R
+   Chibanda, D
+AF Munetsi, Epiphany
+   Simms, Victoria
+   Dzapasi, Lloyd
+   Chapoterera, Georgina
+   Goba, Nyaradzo
+   Gumunyu, Tichaona
+   Weiss, Helen A.
+   Verhey, Ruth
+   Abas, Melanie
+   Araya, Ricardo
+   Chibanda, Dixon
+TI Trained lay health workers reduce common mental disorder symptoms of
+   adults with suicidal ideation in Zimbabwe: a cohort study
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Suicidal ideation; Lay health workers; Common mental disorders
+ID GENERAL-POPULATION; ANXIETY DISORDERS; DEPRESSION; BEHAVIOR;
+   INTERVENTION; PREVALENCE; COMMUNITY; THOUGHTS
+AB Background: Suicidal ideation may lead to deliberate self-harm which increases the risk of death by suicide. Globally, the main cause of deliberate self-harm is depression. The aim of this study was to explore prevalence of, and risk factors for, suicidal ideation among men and women with common mental disorder (CMD) symptoms attending public clinics in Zimbabwe, and to determine whether problem solving therapy delivered by lay health workers can reduce common mental disorder symptoms among people with suicidal ideation, using secondary analysis of a randomised controlled trial.
+   Methods: At trial enrolment, the Shona Symptom Questionnaire (SSQ) was used to screen for CMD symptoms. In the intervention arm, participants received six problem-solving therapy sessions conducted by trained and supervised lay health workers, while those in the control arm received enhanced usual care. We used multivariate logistic regression to identify risk factors for suicidal ideation at enrolment, and cluster-level logistic regression to compare SSQ scores at endline (6 months follow-up) between trial arms, stratified by suicidal ideation at enrolment.
+   Results: There were 573 participants who screened positive for CMD symptoms and 75 (13.1%) reported suicidal ideation at baseline. At baseline, after adjusting for confounders, suicidal ideation was independently associated with being aged over 24, lack of household income (household income yes/no; adjusted odds ratio 0.52 (95% CI 0.29, 0.95); p = 0.03) and with having recently skipped a meal due to lack of food (adjusted odds ratio 3.06 (95% CI 1.81, 5.18); p < 0.001). Participants who reported suicidal ideation at enrolment experienced similar benefit to CMD symptoms from the Friendship Bench intervention (adjusted mean difference -5.38, 95% CI -7.85, -2.90; p < 0.001) compared to those who had common mental disorder symptoms but no suicidal ideation (adjusted mean difference -4.86, 95% CI -5.68, -4.04; p < 0.001).
+   Conclusions: Problem-solving therapy delivered by trained and supervised lay health workers reduced common mental disorder symptoms among participants with suicidal thoughts who attended primary care facilities in Zimbabwe.
+C1 [Munetsi, Epiphany; Dzapasi, Lloyd; Chapoterera, Georgina; Goba, Nyaradzo; Gumunyu, Tichaona; Verhey, Ruth; Chibanda, Dixon] Zimbabwe AIDS Prevent Project, 92 Prince Edward Rd Milton Pk, Harare, Zimbabwe.
+   [Simms, Victoria; Weiss, Helen A.] London Sch Hyg & Trop Med, MRC, Trop Epidemiol Grp, Keppel St, London WC1E 7HT, England.
+   [Abas, Melanie; Araya, Ricardo] Kings Coll London, Inst Psychiat Psychol & Neurosci, De Crespigny Pk, London SE5 8AF, England.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of London; King's College London
+RP Simms, V (corresponding author), London Sch Hyg & Trop Med, MRC, Trop Epidemiol Grp, Keppel St, London WC1E 7HT, England.
+EM victoria.simms@lshtm.ac.uk
+RI Simms, Victoria/AAU-4134-2021; Simms, Victoria/C-3278-2009; Verhey,
+   Ruth/R-8895-2019; weiss, helen/ABC-7823-2021; Araya, Ricardo/S-3144-2019
+OI Simms, Victoria/0000-0002-4897-458X; Verhey, Ruth/0000-0002-5959-1891;
+   weiss, helen/0000-0003-3547-7936; Araya, Ricardo/0000-0002-0420-5148;
+   abas, melanie/0000-0003-1716-5584
+FU Grand Challenges Canada [KCU-0087-042]; Medical Research Council
+   [MR/K012126/1] Funding Source: researchfish
+FX The study was funded by Grand Challenges Canada (grant KCU-0087-042).
+NR 40
+TC 17
+Z9 19
+U1 0
+U2 13
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD FEB 8
+PY 2018
+VL 18
+AR 227
+DI 10.1186/s12889-018-5117-2
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FW6ZD
+UT WOS:000425468100002
+PM 29422023
+OA gold, Green Published, Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Huta, BP
+   Mehlenbacher, MR
+   Nie, Y
+   Lai, XL
+   Zubieta, C
+   Bou-Abdallah, F
+   Doyle, RP
+AF Huta, Brian P.
+   Mehlenbacher, Matthew R.
+   Nie, Yan
+   Lai, Xuelei
+   Zubieta, Chloe
+   Bou-Abdallah, Fadi
+   Doyle, Robert P.
+TI The Lysosomal Protein SaposinB Binds Chloroquine
+SO CHEMMEDCHEM
+LA English
+DT Article
+DE chloroquine; isothermal titration calorimetry; lysosomes; malaria;
+   protein crystal structures; saposinB
+ID ACTIVATOR PROTEIN; COENZYME-Q10; ZIMBABWE; SUICIDE; CELLS; DRUG; PH
+AB Chloroquine (CQ) has been widely used in the treatment of malaria since the 1950s, though toxicity and resistance is increasingly limiting its use in the clinic. More recently, CQ is also becoming recognized as an important therapeutic compound for the treatment of autoimmune disorders and has shown activity as an anticancer agent. However, the full extent of CQ pharmacology in humans is still unclear. Herein, we demonstrate that the lysosomal protein saposinB (sapB), critical for select lipid degradation, binds CQ with implications for both CQ function and toxicity. Using isothermal titration calorimetry (ITC) and fluorescence quenching experiments, CQ was shown to bind to the dimeric form of sapB at both pH5.5 and pH7.4 with an average binding affinity of 2.3x10(4)m(-1). X-ray crystallography confirmed this, and the first complete crystal structure of sapB with a bound small molecule (CQ) is reported. The results suggest that sapB might play a role in mitigating CQ-based toxicity and that sapB might itself be overwhelmed by CQ causing impaired lipid degradation.
+C1 [Huta, Brian P.; Nie, Yan; Doyle, Robert P.] Syracuse Univ, Dept Chem, Syracuse, NY 13244 USA.
+   [Mehlenbacher, Matthew R.; Bou-Abdallah, Fadi] SUNY Coll Potsdam, Dept Chem, Potsdam, NY 13676 USA.
+   [Lai, Xuelei] European Synchrotron Radiat Facil, F-38054 Grenoble, France.
+   [Zubieta, Chloe] Univ Grenoble Alpes, CNRS CEA INRA, iRTSV, Lab Physiol Cellulaire & Vegetale,UMR 5168, F-38054 Grenoble, France.
+C3 Syracuse University; State University of New York (SUNY) System;
+   European Synchrotron Radiation Facility (ESRF); Communaute Universite
+   Grenoble Alpes; Universite Grenoble Alpes (UGA); CEA; Centre National de
+   la Recherche Scientifique (CNRS); CNRS - Institute of Chemistry (INC);
+   INRAE; CNRS - National Institute for Biology (INSB)
+RP Doyle, RP (corresponding author), Univ Grenoble Alpes, CNRS CEA INRA, iRTSV, Lab Physiol Cellulaire & Vegetale,UMR 5168, F-38054 Grenoble, France.
+EM chloe.zubieta@cea.fr; bouabdf@potsdam.edu; rpdoyle@syr.edu
+RI Doyle, Robert P/W-1921-2018
+OI Bou-Abdallah, Fadi/0000-0002-8557-1827; Zubieta,
+   Chloe/0000-0003-4558-9333; Nie, Yan/0000-0002-3734-9391; Nie,
+   Yan/0000-0002-1379-831X
+FU ATIP-Avenir program; French National Centre for Scientific Research
+   (CNRS); French National Institute of Health and Medical Research
+   (INSERM); National Institute of General Medical Sciences of the National
+   Institutes of Health [R15GM104879]
+FX Funding was provided in part through the ATIP-Avenir program (to C.Z.),
+   a joint program of the French National Centre for Scientific Research
+   (CNRS) and the French National Institute of Health and Medical Research
+   (INSERM). This work is also supported in part by the National Institute
+   of General Medical Sciences of the National Institutes of Health Award
+   Number R15GM104879 (to F.B.A.).
+NR 25
+TC 19
+Z9 20
+U1 0
+U2 6
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1860-7179
+EI 1860-7187
+J9 CHEMMEDCHEM
+JI ChemMedChem
+PD FEB 4
+PY 2016
+VL 11
+IS 3
+BP 277
+EP 282
+DI 10.1002/cmdc.201500494
+PG 6
+WC Chemistry, Medicinal; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA DD3TO
+UT WOS:000369846100003
+PM 26616259
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Kufa, K
+   Magure, T
+   Shambira, G
+   Gombe, NT
+   Juru, TP
+   Nsubuga, P
+   Borok, M
+   Iliff, V
+   Mushambi, T
+   Tshimanga, M
+AF Kufa, Kudzai
+   Magure, Tapiwa
+   Shambira, Gerald
+   Gombe, Notion Tafara
+   Juru, Tsitsi Patience
+   Nsubuga, Peter
+   Borok, Margaret
+   Iliff, Virginia
+   Mushambi, Timothy
+   Tshimanga, Mafuta
+TI Utilisation of Medical Services and Outcomes at Adult Rape Clinic at
+   Parirenyatwa Group of Hospitals, Zimbabwe
+SO AFRICAN JOURNAL OF REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Sexual violence; HIV test; male
+ID SEXUALLY-TRANSMITTED DISEASES; LIFETIME DIAGNOSIS; ABUSE; VIOLENCE;
+   WOMEN; PREVALENCE; DISORDERS; MEN
+AB Sexual violence is a major public health problem due to the associated risk of acquiring sexually transmitted infections, behavioural disorders and risk of committing suicide. The Adult Rape Clinic (ARC) was established at Parirenyatwa Hospital, Harare in 2009 with the objective of providing medical and support services for survivors of sexual violence in a safe and private environment. The data collected had never been analysed since the establishment of the clinic. We described the clients' profile and the services offered at the clinic to identify gaps in service provision and areas of improvement. A retrospective record review of data was carried out from the ARC collected from February 2009 to December 2017. We analyzed 2343 affidavits that were available. Out of 2343 records analysed, (2190) 93.5% were female and 6.5 % (153) were male. The median age was 23years (Q1=21; Q3= 29) for males and 19 years (Q1= 17; Q2=25) for females. Among the clients, 2164 (92.4%) received a baseline HIV test, and 263 females and 6 males tested positive. From 2010 to 2017, six clients' seroconversion was recorded. Only 863(36.8%) clients presented within 3 days after the sexual assault. About 40% of male victims were assaulted by someone they knew and 27% were married. The study recommends further research on the determinants of late presentation after sexual assault.
+C1 [Kufa, Kudzai; Shambira, Gerald; Gombe, Notion Tafara; Juru, Tsitsi Patience; Tshimanga, Mafuta] Univ Zimbabwe, Dept Community Med, Harare, Zimbabwe.
+   [Magure, Tapiwa] Natl AIDS Council, Harare, Zimbabwe.
+   [Nsubuga, Peter] AFENET, African Field Epidemiol Network, Kampala, Uganda.
+   [Borok, Margaret; Iliff, Virginia; Mushambi, Timothy] Parirenyatwa Hosp Zimbabwe, Adult Rape Clin, Harare, Zimbabwe.
+C3 University of Zimbabwe
+RP Juru, TP (corresponding author), Univ Zimbabwe, Dept Community Med, Harare, Zimbabwe.
+EM tsitsijuru@gmail.com
+NR 32
+TC 1
+Z9 1
+U1 0
+U2 1
+PU WOMENS HEALTH & ACTION RESEARCH CENTRE
+PI BENIN CITY
+PA IGUE-IHEYA VILLAGE, BENIN-LAGOS EXPRESS RD, PO BOX 10231, UGBOWO, BENIN
+   CITY, EDO STATE 00000, NIGERIA
+SN 1118-4841
+EI 2141-3606
+J9 AFR J REPROD HEALTH
+JI Afr. J. Reprod. Health
+PD DEC
+PY 2019
+VL 23
+IS 4
+BP 99
+EP 107
+DI 10.29063/ajrh2019/v23i4.12
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA KD0LI
+UT WOS:000507562800012
+PM 32227745
+DA 2023-12-05
+ER
+
+PT J
+AU Pando, MA
+   Dolezal, C
+   Marone, RO
+   Barreda, V
+   Carballo-Diéguez, A
+   Avila, MM
+   Balán, IC
+AF Pando, Maria A.
+   Dolezal, Curtis
+   Marone, Ruben O.
+   Barreda, Victoria
+   Carballo-Dieguez, Alex
+   Avila, Maria M.
+   Balan, Ivan C.
+TI High acceptability of rapid HIV self-testing among a diverse sample of
+   MSM from Buenos Aires, Argentina
+SO PLOS ONE
+LA English
+DT Article
+ID ANTIRETROVIRAL THERAPY; SEX; MEN; INFECTION; COLLECTION; FEASIBILITY;
+   POPULATIONS; ZIMBABWE; BRAZIL; BLOOD
+AB Introduction The objective of this study was to explore the acceptability of rapid HIV self-testing (RHST) among men who have sex with men (MSM).
+   Methods During 2006-2009, a sample of 500 MSM was recruited through Respondent Driven Sampling for an HIV prevalence/incidence study. Attitude toward RHST was explored among HIV negative MSM. Data were weighted prior to analyses.
+   Results Participants reported they were likely to buy RHST (74%), test themselves more frequently than they currently do (77%), and that the procedure would simplify testing (70%). Furthermore, 71% reported they would probably use it alone, 66% would use it with a steady partner, and 56% with a friend/partner. While a majority acknowledged that RHST use would deprive them of receiving counseling (61%), 74% declared they would go for help if they tested positive; 57% would use an RHST in order to avoid condoms. Probability of use surpassed 70% among gay and non-gay identified MSM as well as those with and without a previous HIV test. Those likely to buy RHST were older (p = 0.025) and more likely to identify as gay (p = 0.036). A total of 17% said they would think about killing themselves and 9% would attempt suicide if they tested positive. These MSM were more likely to be younger (p<0.001), with lower mood level (p<0.001) and greater feelings of loneliness (p = 0.026).
+   Conclusions The high acceptability of RHST found among MSM should encourage the authorities to consider the possibility of offering it for self-testing, as it can improve early diagnosis and prevention of future transmissions. However, further research is needed to understand how to
+C1 [Pando, Maria A.; Avila, Maria M.] Univ Buenos Aires, CONICET, Inst Invest Biomed Retrovirus & Sida INBIRS, Buenos Aires, DF, Argentina.
+   [Dolezal, Curtis; Carballo-Dieguez, Alex; Balan, Ivan C.] New York State Psychiat Inst & Hosp, HIV Ctr Clin & Behav Studies, New York, NY 10032 USA.
+   [Dolezal, Curtis; Carballo-Dieguez, Alex; Balan, Ivan C.] Columbia Univ, New York, NY USA.
+   [Marone, Ruben O.; Barreda, Victoria] Nexo Asociac Civil, Buenos Aires, DF, Argentina.
+C3 University of Buenos Aires; Consejo Nacional de Investigaciones
+   Cientificas y Tecnicas (CONICET); New York State Psychiatry Institute;
+   Columbia University
+RP Pando, MA (corresponding author), Univ Buenos Aires, CONICET, Inst Invest Biomed Retrovirus & Sida INBIRS, Buenos Aires, DF, Argentina.
+EM mpando@fmed.uba.ar
+FU US National Institute of Mental Health (NIMH) at the New York State
+   Psychiatric Institute and Columbia University [R01 MH073410]; NIMH at
+   New York State Psychiatric Institute and Columbia University [P30
+   MH43520]
+FX This work was supported with funds from the US National Institute of
+   Mental Health (NIMH) to the HIV Center for Clinical and Behavioral
+   Studies at the New York State Psychiatric Institute and Columbia
+   University (R01 MH073410; Principal Investigator: Alex Carballo D
+   ieguez, Ph.D.).Additional funds came from a grant from NIMH to the HIV
+   Center for Clinical and Behavioral Studies at New York State Psychiatric
+   Institute and Columbia University (P30 MH43520; Principal Investigator:
+   Robert H. Remien and P30 MH43520; Principal Investigator: Anke A.
+   Ehrhardt, Ph.D.). The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript. The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of NIMH or the NIH
+NR 51
+TC 11
+Z9 11
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 3
+PY 2017
+VL 12
+IS 7
+AR e0180361
+DI 10.1371/journal.pone.0180361
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA FA2JX
+UT WOS:000405268500046
+PM 28672037
+OA Green Published, gold, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Peltzer, K
+AF Peltzer, Karl
+TI Prevalence and correlates of substance use among school children in six
+   African countries
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE African countries; Mental distress; Protective factors; School children;
+   Substance use
+ID ILLICIT DRUG-USE; ALCOHOL-USE; ADOLESCENTS; SMOKING; HEALTH; ONSET;
+   RISK; DEPENDENCE; BEHAVIORS; TOBACCO
+AB An increasing trend of noncommunicable diseases is a worldwide phenomenon, also including the developing countries. Few studies focus on adolescents' substance use in relation to mental distress and protective factors in African countries. The purpose of this study was to assess the prevalence and correlates (mental distress and protective factors) of substance use among school-going adolescents in six African countries. The sample included 20,765 students aged from 13 to 15 years from six African countries (Kenya, Namibia, Swaziland, Uganda, Zambia, Zimbabwe), chosen by a two-stage cluster sample design to represent all students in grades 6, 7, 8, 9, and 10 in each country. The measure used was part of the Global School-Based Health Survey (GSHS) questionnaire, including various domains of health behaviour. Results indicate a prevalence of 12.6% tobacco use (past month), 6.6% risky alcohol use (two or more per day for at least 20 days or more in the past month), and 10.5% of illicit drug use (three or more times ever) in school-going adolescents in six African countries. School truancy, loneliness, sleeping problems, sadness, suicidal ideation, suicide plans, and poverty were associated with substance use (tobacco, alcohol, illicit drugs), while school attendance and parental supervision and connectedness were protective factors for substance use, and peer support protective for tobacco use. It is concluded that tobacco use, risky drinking and illicit drug use were common, clustered together and were associated with school truancy, mental distress, and lack of parental and peer support among adolescent African school children. These findings stress the need for early and integrated prevention programmes.
+C1 [Peltzer, Karl] Human Sci Res Council, Social Aspects HIV AIDS & Hlth, ZA-0001 Pretoria, South Africa.
+   [Peltzer, Karl] Univ Free State, Bloemfontein, South Africa.
+C3 Human Sciences Research Council-South Africa; University of the Free
+   State
+RP Peltzer, K (corresponding author), Human Sci Res Council, Social Aspects HIV AIDS & Hlth, Private Bag X41, ZA-0001 Pretoria, South Africa.
+EM KPeltzer@hsrc.ac.za
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 23
+TC 61
+Z9 64
+U1 0
+U2 21
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0020-7594
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PY 2009
+VL 44
+IS 5
+BP 378
+EP 386
+DI 10.1080/00207590802511742
+PG 9
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 503UT
+UT WOS:000270567000007
+PM 22029616
+DA 2023-12-05
+ER
+
+PT J
+AU Müller, A
+   Spencer, S
+   Meer, T
+   Daskilewicz, K
+AF Muller, Alex
+   Spencer, Sarah
+   Meer, Talia
+   Daskilewicz, Kristen
+TI The no-go zone: a qualitative study of access to sexual and reproductive
+   health services for sexual and gender minority adolescents in Southern
+   Africa
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Adolescents; Sexual and reproductive health and rights; Sexual and
+   gender minorities; HIV; Service provision; Heteronormativity;
+   Criminalisation; Stigma; Southern Africa; LGBT
+ID RISK; CARE; ORIENTATION; POPULATION; MORTALITY; SUICIDE; YOUTH; STEP;
+   MEN; GAY
+AB Background: Adolescents have significant sexual and reproductive health needs. However, complex legal frameworks, and social attitudes about adolescent sexuality, including the values of healthcare providers, govern adolescent access to sexual and reproductive health services. These laws and social attitudes are often antipathetic to sexual and gender minorities. Existing literature assumes that adolescents identify as heterosexual, and exclusively engage in (heteronormative) sexual activity with partners of the opposite sex/gender, so little is known about if and how the needs of sexual and gender minority adolescents are met.
+   Methods: In this article, we have analysed data from fifty in-depth qualitative interviews with representatives of organisations working with adolescents, sexual and gender minorities, and/or sexual and reproductive health and rights in Malawi, Mozambique, Namibia, Zambia and Zimbabwe.
+   Results: Sexual and gender minority adolescents in these countries experience double-marginalisation in pursuit of sexual and reproductive health services: as adolescents, they experience barriers to accessing LGBT organisations, who fear being painted as "homosexuality recruiters," whilst they are simultaneously excluded from heteronormative adolescent sexual and reproductive health services. Such barriers to services are equally attributable to the real and perceived criminalisation of consensual sexual behaviours between partners of the same sex/gender, regardless of their age.
+   Discussion/conclusion: The combination of laws which criminalise consensual same sex/gender activity and the social stigma towards sexual and gender minorities work to negate legal sexual and reproductive health services that may be provided. This is further compounded by age-related stigma regarding sexual activity amongst adolescents, effectively leaving sexual and gender minority adolescents without access to necessary information about their sexuality and sexual and reproductive health, and sexual and reproductive health services.
+C1 [Muller, Alex; Spencer, Sarah; Meer, Talia; Daskilewicz, Kristen] Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+C3 University of Cape Town
+RP Müller, A (corresponding author), Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+EM alex.muller@uct.ac.za
+RI Spencer, Sarah/ABH-3813-2020; Spencer, Sarah/IAN-6514-2023
+OI Spencer, Sarah/0000-0002-7034-6387; Muller, Alex/0000-0002-3254-7591
+FU Ford Foundation
+FX This study was funded by Ford Foundation.
+NR 45
+TC 28
+Z9 28
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD JAN 25
+PY 2018
+VL 15
+AR 12
+DI 10.1186/s12978-018-0462-2
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FT7SX
+UT WOS:000423354300001
+PM 29370809
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Chibanda, D
+   Mesu, P
+   Kajawu, L
+   Cowan, F
+   Araya, R
+   Abas, MA
+AF Chibanda, Dixon
+   Mesu, Petra
+   Kajawu, Lazarus
+   Cowan, Frances
+   Araya, Ricardo
+   Abas, Melanie A.
+TI Problem-solving therapy for depression and common mental disorders in
+   Zimbabwe: piloting a task-shifting primary mental health care
+   intervention in a population with a high prevalence of people living
+   with HIV
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID LOW-INCOME WOMEN; SANTIAGO; HARARE
+AB Background: There is limited evidence that interventions for depression and other common mental disorders (CMD) can be integrated sustainably into primary health care in Africa. We aimed to pilot a low-cost multicomponent 'Friendship Bench Intervention' for CMD, locally adapted from problem-solving therapy and delivered by trained and supervised female lay workers to learn if was feasible and possibly effective as well as how best to implement it on a larger scale.
+   Method: We trained lay workers for 8 days in screening and monitoring CMD and in delivering the intervention. Ten lay workers screened consecutive adult attenders who either were referred or self-referred to the Friendship Bench between July and December 2007. Those scoring above the validated cut-point of the Shona Symptom Questionnaire (SSQ) for CMD were potentially eligible. Exclusions were suicide risk or very severe depression. All others were offered 6 sessions of problem-solving therapy (PST) enhanced with a component of activity scheduling. Weekly nurse-led group supervision and monthly supervision from a mental health specialist were provided. Data on SSQ scores at 6 weeks after entering the study were collected by an independent research nurse. Lay workers completed a brief evaluation on their experiences of delivering the intervention.
+   Results: Of 395 potentially eligible, 33 (8%) were excluded due to high risk. Of the 362 left, 2% (7) declined and 10% (35) were lost to follow-up leaving an 88% response rate (n = 320). Over half (n = 166, 52%) had presented with an HIV-related problem. Mean SSQ score fell from 11.3 (sd 1.4) before treatment to 6.5 (sd 2.4) after 3-6 sessions. The drop in SSQ scores was proportional to the number of sessions attended. Nine of the ten lay workers rated themselves as very able to deliver the PST intervention.
+   Conclusion: We have found preliminary evidence of a clinically meaningful improvement in CMD associated with locally adapted problem-solving therapy delivered by lay health workers through routine primary health care in an African setting. There is a need to test the effectiveness of this task-shifting mental health intervention in an appropriately powered randomised controlled trial.
+C1 [Chibanda, Dixon; Kajawu, Lazarus] Univ Zimbabwe, Dept Psychiat, Harare, Zimbabwe.
+   [Mesu, Petra; Kajawu, Lazarus] Counselling Serv Unit, Harare, Zimbabwe.
+   [Cowan, Frances] UCL, Ctr Sexual Hlth & HIV Res, London, England.
+   [Cowan, Frances] Univ Zimbabwe, Dept Community Med, Harare, Zimbabwe.
+   [Araya, Ricardo] Sch Social & Community Med, Bristol, Avon, England.
+   [Abas, Melanie A.] Kings Coll London, Inst Psychiat, London WC2R 2LS, England.
+C3 University of Zimbabwe; University of London; University College London;
+   University of Zimbabwe; University of Bristol; University of London;
+   King's College London
+RP Chibanda, D (corresponding author), Univ Zimbabwe, Dept Psychiat, Harare, Zimbabwe.
+EM dichi@zol.co.zw
+RI Abas, Melanie A/B-1076-2011; Araya, Ricardo/S-3144-2019
+OI Araya, Ricardo/0000-0002-0420-5148; Cowan, Frances/0000-0003-3087-4422;
+   abas, melanie/0000-0003-1716-5584
+NR 31
+TC 184
+Z9 199
+U1 0
+U2 26
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD OCT 26
+PY 2011
+VL 11
+DI 10.1186/1471-2458-11-828
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 845BO
+UT WOS:000296798000001
+PM 22029430
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+EF

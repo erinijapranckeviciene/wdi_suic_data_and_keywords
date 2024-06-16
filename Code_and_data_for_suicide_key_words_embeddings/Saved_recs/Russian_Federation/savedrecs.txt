@@ -1,0 +1,1483 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Innamorati, M
+   Serafini, G
+   Lester, D
+   Amore, M
+   Girardi, P
+   Pompili, M
+AF Innamorati, Marco
+   Serafini, Gianluca
+   Lester, David
+   Amore, Mario
+   Girardi, Paolo
+   Pompili, Maurizio
+TI Violent deaths among Russian and EU male older adults
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Suicide; homicide; violent deaths; European Union; Russian Federation
+ID SUICIDE RATES; MORTALITY; CRISIS; CRIME; FEAR; VICTIMIZATION;
+   REGRESSION; GENDER; TRENDS
+AB Aims: This ecological comparison study explored temporal trends since 1985 in age-adjusted suicide and homicide rates for older male adults (over the age of 65) resident in the EU and the Russian Federation.
+   Methods: The data were extracted from the World Health Organization's (WHO) European mortality database.
+   Results: Older men resident in the Russian Federation had a higher risk of dying a violent death (by homicide and by suicide) than their younger compatriots (relative risks (RR) ranging from 1.13 to 1.31). Conversely, in the EU, older men had a higher risk of dying from suicide (RRs of 1.52 for men over the age of 65 and 3.27 for men over the age of 75) and a lower risk of being victims of homicide (RRs ranging between 0.84 and 0.89) than their younger compatriots.
+   Conclusions: The European region is characterized by great inequalities in rates of violent deaths among the elderly.
+C1 [Innamorati, Marco; Serafini, Gianluca; Girardi, Paolo; Pompili, Maurizio] Univ Roma La Sapienza, Dept Neurosci Mental Hlth & Sensory Funct, St Andrea Hosp, Suicide Prevent Ctr, I-00189 Rome, Italy.
+   [Innamorati, Marco] Univ Parma, Div Psychiat, Dept Neurosci, I-43100 Parma, Italy.
+   [Lester, David] Richard Stockton Coll New Jersey, Pomona, NJ USA.
+   [Amore, Mario] Univ Genoa, Dept Neurosci Ophthalmol & Genet, Sect Psychiat, Genoa, Italy.
+C3 Sapienza University Rome; Azienda Ospedaliera Sant'Andrea; University of
+   Parma; Stockton University; University of Genoa
+RP Pompili, M (corresponding author), Univ Roma La Sapienza, Dept Psychiat, St Andrea Hosp, 1035-1039 Via Grottarossa, I-00189 Rome, Italy.
+EM maurizio.pompili@uniroma1.it
+RI Serafini, Gianluca/K-6603-2016; Innamorati, Marco/H-8877-2013; Pompili,
+   Maurizio/AAC-1011-2019
+OI Serafini, Gianluca/0000-0002-6631-856X; Innamorati,
+   Marco/0000-0003-1389-2290; Pompili, Maurizio/0000-0003-1886-4977
+NR 28
+TC 2
+Z9 2
+U1 0
+U2 7
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD FEB
+PY 2014
+VL 60
+IS 1
+BP 89
+EP 94
+DI 10.1177/0020764012467261
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 294CJ
+UT WOS:000330019700012
+PM 23283750
+DA 2023-12-05
+ER
+
+PT J
+AU Bychkova, AM
+   Radnayeva, EL
+AF Bychkova, Anna M.
+   Radnayeva, Elvira L.
+TI INCITEMENT TO SUICIDE WITH THE USE OF INTERNET TECHNOLOGIES:
+   SOCIO-PSYCHOLOGICAL, CRIMINOLOGICAL AND CRIMINAL LAW ASPECTS
+SO RUSSIAN JOURNAL OF CRIMINOLOGY
+LA Russian
+DT Article
+DE Suicide; incitement to suicide; "groups of death"; "blue whale";
+   "teenage suicide"
+AB The development of online technologies gave rise to new ways of psychological influence on victims, for example, cyberbullicide - suicide resulting from direct or indirect online aggression. This paper is devoted to another specific phenomenon - users or their groups whose activities are aimed at driving other users to suicide through psychologically influencing them on social networking sites. The authors present statistical data on death and suicide rates in the Russian Federation, in Federal Districts and in a number of regions of the Russian Federation (including the age-adjusted death rate). They discuss regional specifics of suicidal activities of adults and minors; they also present information on the number of teenage suicides in the Buryat Republic and Irkutsk Region in 2015-2017. The authors explain the concepts of a "group of death" and "suicidal quest", describe methods of driving people to suicide by involving them in suicidal "games". The paper contains empirical data on the number of children that consulted psychologists and psychiatrists because of their involvement in "groups of death". The authors analyze the practice of prosecuting the so- called supervisors of "suicidal quests". They give a critical evaluation of the data presented by Russian Ministry of Internal Affairs, according to which only 1 % of suicides was connected with the activities of "groups of death" in 2016. The authors believe it is urgent to introduce amendments to the Criminal Code of the Russian Federation to counteract the activities aimed at driving children to suicide; however, the contents of Art. 110.2 should be transferred to Section IX of the Criminal Code of the RF ("Crimes against Public Safety and Public Order"). They conclude that the negative experience gained by the Russian Federation in counteracting "groups of death" needs a complex understanding from the standpoint of sociology, suicidology, pedagogics, psychology and legal disciplines. The adoption of substantive law norms makes it necessary to develop both criminological characteristics of driving people to suicide with the use of telecommunication technologies (including the Internet) and the criminalistic methodology of investigating this type of crime.
+C1 [Bychkova, Anna M.] Baikal State Univ, Legal Support Natl Secur, Inst Natl Secur, Irkutsk, Russia.
+   [Radnayeva, Elvira L.] Byryat State Univ, Law Fac, Ulan Ude, Russia.
+   [Radnayeva, Elvira L.] Byryat State Univ, Criminal Law & Criminol, Ulan Ude, Russia.
+C3 Baikal State University; Buryat State University; Buryat State
+   University
+RP Bychkova, AM (corresponding author), Baikal State Univ, Legal Support Natl Secur, Inst Natl Secur, Irkutsk, Russia.
+EM amb-38@mail.ru; elviraradnaeva@mail.ru
+RI Bychkova, Anna/AAO-7496-2020
+FU Russian Fundamental Research Fund [18-013-00620]
+FX Supported by Russian Fundamental Research Fund, Grant 18-013-00620.
+   "Interdisciplinary Research of the Causes and Regional Factors of
+   Suicidal Behavior of Minors"
+NR 40
+TC 4
+Z9 4
+U1 1
+U2 13
+PU BAIKAL STATE UNIV
+PI IRKUTSK
+PA 11 LENIN ST, IRKUTSK, 664003, RUSSIA
+SN 2500-4255
+EI 2500-1442
+J9 RUSS J CRIMINOL
+JI Russ. J. Criminol.
+PY 2018
+VL 12
+IS 1
+BP 101
+EP 115
+DI 10.17150/2500-4255.2018.12(1).101-115
+PG 15
+WC Criminology & Penology
+WE Emerging Sources Citation Index (ESCI)
+SC Criminology & Penology
+GA GE2SH
+UT WOS:000431064400011
+OA Green Submitted, Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Semenova, NB
+AF Semenova, N. B.
+TI CAUSES OF SUICIDAL BEHAVIOR IN INDIGENOUS PEOPLES OF SIBERIA:
+   SOCIO-ECONOMIC RISK FACTORS
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE suicide; crime; mortality; indigenous peoples; Siberia; socio-economic
+   indicators; the level of life; Yakutia; Altai; Buryatia; Tuva; Yakut;
+   Eveny; Evenki; Tuvinians; Altaians; Buryats; Russia
+ID AUSTRALIA
+AB This article is a continuation of the series of scientific publications devoted to the study of the causes and risk factors of suicidal behavior among the indigenous peoples of Siberia - the Altaians, Buryats, Tuvinians, Yakuts, Evens, Evenks. The death rate from suicides among the indigenous peoples of Siberia is many times higher than the average for the Russian Federation (RF), which requires a careful analysis of this social phenomenon and an explanation of its causes. Aim of the study is to assess the standard of living of representatives of the indigenous populations of Siberia - Altaians, Buryats, Tuvinians, Yakuts, Evens, Evenks - according to the basic socio-economic indicators of the regions. To study the role of socio-economic factors in the formation of aggressive and autoaggressive behavior. Materials of the study. Statistical materials of the Federal State Statistics Service (FSSS), statistical data on the socio-economic situation of the subjects of the Russian Federation. Object and methods of research. Dynamic analysis of socio-economic indicators (unemployment rate, population with cash incomes below the subsistence level, average per capita incomes, consumer spending of the population) in four national regions of the Russian Federation - the Republic of Altai, the Republic of Tyva, the Republic of Sakha (Yakutia) and the Trans-Baikal Territory - for the period from 2005 to 2016. Results. The standard of living of the population dwelling in the national subjects of the Russian Federation is much lower than the national average. The unemployment rate is 10.8-12.0% (for the Russian Federation - 5.5%); the share of the population with cash incomes below the subsistence level reaches 42.1% (in the Russian Federation it is 13.4%); per capita incomes of the population are more than twice as lower. Representatives of indigenous populations make up the poorest part of the population of national subjects: the unemployment rate among them reaches 36.6%, and the share of families living below the poverty line is 78.3%. According to the FSGS, in the national subjects of the Russian Federation, high mortality rates from unnatural causes are recorded, exceeding the all-Russian values by 2.5 times, and the level of suicide exceeds the Russian average by 2-2.5 times. The crime rate is high: the number of recorded crimes - robberies, thefts, murders, rapes - exceeds the all-Russian index from 3 to 9 times. The close correlation between low living standards and high mortality rates from homicides and suicides has been identified. The most informative indicator of aggressive and autoaggressive behavior is the average per capita income of the population, which inversely correlates with the death rate from murders (p<0.05) and suicides (p<0.05) both in national subjects and in the Russian Federation in general. Conclusions. A lot of social problems that are present among the populations of the indigenous peoples of Siberia - unemployment, poverty, social lack of demand, lack of further prospects - are a consequence of a violation of adaptation that covers the entire population. The clinical symptoms of population adaptation disorder are manifested by destructive tendencies both at the emotional level - in the form of social anger and behavior abnormalities - in various forms of aggressive and autoaggressive behavior.
+C1 [Semenova, N. B.] Russian Acad Sci, Res Inst Med Problems North, Siberian Branch, Krasnoyarsk Sci Ctr, Krasnoyarsk, Russia.
+C3 Russian Academy of Sciences; Krasnoyarsk Science Center of the Siberian
+   Branch of the Russian Academy of Sciences; Research Institute for
+   Medical Problems in the North, Siberian Branch, Russian Academy of
+   Sciences
+RP Semenova, NB (corresponding author), Russian Acad Sci, Res Inst Med Problems North, Siberian Branch, Krasnoyarsk Sci Ctr, Krasnoyarsk, Russia.
+EM snb237@gmail.com
+RI Semenova, Nadejda/AAG-5178-2019
+OI Semenova, Nadejda/0000-0002-6120-7860
+NR 18
+TC 1
+Z9 1
+U1 1
+U2 9
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2018
+VL 9
+IS 3
+BP 30
+EP 41
+DI 10.32878/suiciderus.18-09-03(32)-30-41
+PG 12
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA HA5KK
+UT WOS:000450310100003
+OA gold
+DA 2023-12-05
+ER
+
+PT C
+AU Mulyukov, FB
+   Ibragimov, AG
+AF Mulyukov, F. B.
+   Ibragimov, A. G.
+BE Valeeva, R
+TI MODERN FORMS OF MINORS' SUICIDE PREVENTION
+SO 4TH INTERNATIONAL FORUM ON TEACHER EDUCATION (IFTE 2018)
+SE European Proceedings of Social and Behavioural Sciences
+LA English
+DT Proceedings Paper
+CT 4th International Forum on Teacher Education (IFTE)
+CY MAY 22-24, 2018
+CL Kazan Fed Univ, Kazan, RUSSIA
+HO Kazan Fed Univ
+DE Prevention; violence; suicide; assistance; family; minors
+AB The issue of minors' legal protection is of great importance in contemporary socio-economic realities in Russia, which is of particular relevance at the present time.
+   A new threat to minors has appeared recently - their inclination to suicide. As a result of suicides, which increased in forty subjects of the Russian Federation, 720 children died in 2016. Of the 150 committed suicides in Moscow and near Moscow, most of the children jumped from the roof. In 2017, the staff members of the Bureau of Special Technical Activities of the Ministry of Internal Affairs of the Russian Federation in social networks detected more than 200,000 publications calling for suicide. 12,000 users were identified, 234 criminal cases were initiated by internal affairs bodies, and 1,400 such kinds of crimes were disclosed.
+   The leading approach to the study of this problem is the dialectical method of cognition, based on the use of dialectical materialist teaching. The article presents modern forms of suicide prevention in the children's environment, some aspects of the prevention of domestic violence against minors, which are often the cause of children's suicide. The results of the re-search can be used by psychologists, teachers and police officers in the implementation of preventive activities to counteract the tendency of minors to commit suicide. (C) 2018 Published by Future Academy www.FutureAcademy.org.UK
+C1 [Mulyukov, F. B.; Ibragimov, A. G.] Kazan Volga Reg Fed Univ, 18 Kremlyovskaya Str, Kazan, Russia.
+C3 Kazan Federal University
+RP Ibragimov, AG (corresponding author), Kazan Volga Reg Fed Univ, 18 Kremlyovskaya Str, Kazan, Russia.
+EM farhad.muljukov@kpfu.ru; guseinibragimov@yandex.ru
+RI Muljukov, Farhad/R-6539-2017
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 4
+PU FUTURE ACAD
+PI NICOSIA
+PA PO BOX 24333, NICOSIA, 1703, CYPRUS
+SN 2357-1330
+J9 EUR PROC SOC BEHAV
+PY 2018
+VL 45
+BP 661
+EP 668
+DI 10.15405/epsbs.2018.09.77
+PG 8
+WC Education & Educational Research
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research
+GA BN0BM
+UT WOS:000472144400074
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Pridemore, WA
+   Chamlin, MB
+   Cochran, JK
+AF Pridemore, William Alex
+   Chamlin, Mitchell B.
+   Cochran, John K.
+TI An interrupted time-series analysis of Durkheim's social deregulation
+   thesis: The case of the Russian federation
+SO JUSTICE QUARTERLY
+LA English
+DT Article
+DE homicide; time-series analysis; Durkheim; social deregulation; Russian
+   Federation
+ID ALCOHOL-CONSUMPTION; MORTALITY; HOMICIDE; RATES; CRIME; CORRUPTION;
+   PATTERNS; VIOLENCE; SUICIDE; STRESS
+AB The dissolution of the Soviet Union resulted in sudden, widespread, and fundamental changes to Russian society. The former social welfare system-with its broad guarantees of employment, healthcare, education, and other forms of social support-was dismantled in the shift toward democracy, rule of taw, and a free-market economy. This unique natural experiment provides a rare opportunity to examine the potentially disintegrative effects of rapid social change on deviance, and thus to evaluate one of Durkheim's core tenets. We took advantage of this opportunity by performing interrupted time-series analyses of annual age-adjusted homicide, suicide, and alcohol-related mortality rates for the Russian Federation using data from 1956 to 2002, with 1992-2002 as the postintervention time-frame. The ARIMA models indicate that, controlling for the long-term processes that generated these three time series, the breakup of the Soviet Union was associated with an appreciable increase in each of the cause-of-death rates. We interpret these findings as being consistent with the Durkheimian hypothesis that rapid social change disrupts social order, thereby increasing the level of crime and deviance.
+C1 Indiana Univ, Dept Criminal Justice, Bloomington, IN 47405 USA.
+   Indiana Univ, Russian & E European Inst, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington; Indiana
+   University System; Indiana University Bloomington
+RP Pridemore, WA (corresponding author), Indiana Univ, Dept Criminal Justice, Sycamore Hall 302, Bloomington, IN 47405 USA.
+EM wpridemo@indiana.edu
+RI Cochran, John K./IAR-2270-2023
+FU NIAAA NIH HHS [R21 AA013958-01A1] Funding Source: Medline
+NR 57
+TC 45
+Z9 57
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0741-8825
+EI 1745-9109
+J9 JUSTICE Q
+JI Justice Q.
+PD JUN
+PY 2007
+VL 24
+IS 2
+BP 271
+EP 290
+DI 10.1080/07418820701294813
+PG 20
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 177KF
+UT WOS:000247151300004
+PM 20165565
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI REGIONAL ANALYSIS OF BIG FIVE PERSONALITY FACTORS AND SUICIDE RATES IN
+   RUSSIA
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID NATIONAL CHARACTER; SCORES
+AB Extending cross-national and intranational studies on possible aggregate-level associations between personality dimensions and suicide prevalence, this study examined the associations of the Big Five personality factors and suicide rates across 32 regions of the Russian Federation. Failing to replicate one key finding of similar geographic studies, namely, a correspondence of higher suicide rates with lower Agreeableness and Conscientiousness (i.e., higher Psychoticism) scores, higher suicide rates corresponded to higher Agreeableness scores. This effect was obtained with one available data source (regional-level Big Five ratings based on the National Character Survey), but not with another (based on the NEO-PI-R measure). All in all, regional suicide rates across Russia were dissociated from regional variation in personality dimensions.
+C1 [Voracek, Martin] Univ Vienna, A-1010 Vienna, Austria.
+   [Voracek, Martin] Univ Gottingen, D-37073 Gottingen, Germany.
+C3 University of Vienna; University of Gottingen
+RP Voracek, M (corresponding author), Univ Vienna, Dept Basic Psychol Res & Res Methods, Sch Psychol, Liebiggasse 5,Room 03-46, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 14
+TC 3
+Z9 3
+U1 0
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0033-2941
+EI 1558-691X
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD AUG
+PY 2013
+VL 113
+IS 1
+BP 31
+EP 35
+DI 10.2466/09.12.PR0.113x13z4
+PG 5
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 243UZ
+UT WOS:000326345000005
+DA 2023-12-05
+ER
+
+PT J
+AU Polozhy, BS
+AF Polozhy, B. S.
+TI SUICIDES AMONG MINORS (epidemiological aspect)
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE suicide rate; epidemiological aspect; minors; federal districts;
+   subjects of the federation; regional characteristics of suicide
+   prevalence; suicides among rural residents; suicides among urban
+   residents; programs for the prevention of suicides among minors
+ID RISK-FACTORS
+AB Suicidal behavior among minors (0-17 years old) is the most dramatic and, at the same time, one of the least studied aspects of suicidology. According to the State Statistics in Russia in 2017, the rate of completed suicides in this age group of the population made up 1.3 cases per 100,000 (males - 1.6, females - 0.9 per 100 000). The most disadvantaged subjects of the Russian Federation in terms of suicidal situation are identified. Among them, the Republic of Altai (Siberian Federal District) takes the highest position. In this region, the rate of suicides among minors reaches 9 per 100,000, which is 6.9 times the Russian average, 3.3 times the Siberian federal district average, and 1.6 times average of the second-largest suicide area - Amur region. To an even greater extent, this concerns the rate of suicides among male minors that equals 14.6 per 100,000, which is 9.1 times higher than the national one. The following subjects with a high incidence of suicides among minors represent 4 Federal Districts: Siberian (Republic of Buryatia, Trans-Baikal Territory, Irkutsk Region), Far Eastern (Amur Region, Republic of Sakha (Yakutia), Uralsky (Kurgan Region), Volga (Udmurt Republic), North- West (Kaliningrad region). The rate of suicides among minors in them lays within 3.0-5.6 per 100,000 peers, which is 2-4 times higher than the average Russian indicator. It should be noted that the regions with the highest suicide rates among minors are also distinguished by the highest rate of these indicators among general population there. The prevalence of suicide among minors living in rural areas equals 2.3 per 100,000, which is 2.9 times higher than the corresponding indicator among general public in the area. This fact demonstrates a significantly higher risk of suicide among minors living in villages. The proposed programs for the prevention of suicides among minors should on one hand be based on uniform methodological approaches that correspond to modern scientific ideas, and on the other hand take into account social, economic, ethnocultural characteristics of specific regions and the level of organization of medical care. Special preventive attention should be paid to minors living in rural areas.
+C1 [Polozhy, B. S.] Minist Hlth Russian Federat, Moscow Res Inst Psychiat, Moscow, Russia.
+C3 Ministry of Health of the Russian Federation
+RP Polozhy, BS (corresponding author), Minist Hlth Russian Federat, Moscow Res Inst Psychiat, Moscow, Russia.
+EM pbs.moscow@gmail.com
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 2
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2019
+VL 10
+IS 1
+BP 21
+EP 26
+DI 10.32878/suiciderus.19-10-01(34)-21-26
+PG 6
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA IK5QY
+UT WOS:000476640900002
+OA gold
+DA 2023-12-05
+ER
+
+PT C
+AU Andreeva, E
+   Ermakov, S
+   Brenner, H
+AF Andreeva, Elena
+   Ermakov, Sergey
+   Brenner, Harvey
+BE Filho, WL
+   Dzemydiene, D
+   Sakalauskas, L
+   Zavadskas, EK
+TI The socioeconomic aetiology of suicide mortality
+SO 4TH INTERNATIONAL CONFERENCE CITIZENS AND GOVERNANCE FOR SUSTAINABLE
+   DEVELOPMENT
+LA English
+DT Proceedings Paper
+CT 4th International Conference on Citizens and Governance for Sustainable
+   Development
+CY SEP 28-30, 2006
+CL Mykolas Romeris Univ, Vilnius, LITHUANIA
+SP Vilnius Gediminas Tech Univ, Inst Math & Informat, Balt Ecol Informat Disseminat Syst, Natl Commiss Sustainable Dev Lithuania, UN Dept Econ & Social Affairs, UNESCO, UN Dev Program, Inst Environm & Sustainabil, European Commiss, European Assoc Operat Res Soc, European Working Grp Human Centered Processes, ICSC World Lab Lithuanian Branch, Baltic 21, Balt Univ Programme, Agcy Int Sci & Technol Dev Programmes Lithuania
+HO Mykolas Romeris Univ
+DE suicide; stress; socioeconomic transition; heavy binge drinking;
+   ecological study; panel data analysis; Russian Federation
+AB Large-scale socioeconomic changes are often associated with an increase of suicide rates. During the turbulent period of the socioeconomic transition, an epidemic outbreak of suicide mortality has been recorded in the post-Soviet Baltic countries - particularly, in Lithuania - and in Russia.
+   The given study analyses the socioeconomic aetiology of suicide. The analytical approach is based on the main hypotheses suggested in the research literature for the explanation of suicide mortality epidemics: (1) the detrimental impact of psychosocial stress and (2) heavy binge drinking of alcohol. This approach involves an extrapolation of Selye's psycho-physiological stress model to the population level. Nonimpulsive suicide is understood as emanating from the Exhaustion phase of stress, when hopelessness and fatigue ensue, and the behaviour is characterised by passivity and "escape".
+   The study included annual data (1990-2001) on suicide mortality (SDR) and its explanatory variables for 77 administrative areas of the Russian Federation. The data were mostly derived from official statistical sources (GOSKOMSTAT). Considerable efforts have been devoted to the identification of measurable mortality predictors, which include three main groups: (1) the core transition-related stressors, (2) coping strategies used by the population to overcome economic hardship and (3) aggregate-level stress moderators. A pooled cross-sectional time series analysis has been carried out. The "best fitting" model explains about 75 percent of the variation in mortality level across regions. Deficiency of coping resources (lacking economic activities) turned out to be the strongest predictor of suicide mortality. Suicide rates were statistically accounted for by the factors related to transition-related stressors hyperinflation, severe economic depression, etc. Heavy binge drinking was a significant, but not the leading mortality predictor.
+   In conclusion, the study results support the idea that sustainable development is crucial for the prevention of stress-related mortality. Socioeconomic instability is detrimental for the demographic situation in Russia.
+C1 [Andreeva, Elena] Berlin Univ Technol, Inst Hlth Sci, Epidemiol Unit, Sekr TEL 11-1, Ernst Reuter Pl 7, D-10587 Berlin, Germany.
+   [Ermakov, Sergey] MRMOIF, Moscow 107078, Russia.
+C3 Technical University of Berlin
+RP Andreeva, E (corresponding author), Berlin Univ Technol, Inst Hlth Sci, Epidemiol Unit, Sekr TEL 11-1, Ernst Reuter Pl 7, D-10587 Berlin, Germany.
+EM elan@ifg.tu-berlin.de; spe@mofoms.ru
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 5
+PU VILNIUS GEDIMINAS TECHNICAL UNIV PRESS, TECHNIKA
+PI VILNIUS-40
+PA SAULETEKIO A1. 11, VILNIUS-40, LT-10233, LITHUANIA
+PY 2006
+BP 140
+EP +
+PG 3
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Economics; Urban Studies
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Computer Science; Business & Economics; Urban Studies
+GA BFP65
+UT WOS:000243634400027
+DA 2023-12-05
+ER
+
+PT J
+AU Mitikhina, IA
+   Mitikhin, VG
+   Yastrebov, VS
+   Limankin, OV
+AF Mitikhina, I. A.
+   Mitikhin, V. G.
+   Yastrebov, V. S.
+   Limankin, O. V.
+TI Mental health in the Russian Federation in 1992-2010
+SO ZHURNAL NEVROLOGII I PSIKHIATRII IMENI S S KORSAKOVA
+LA Russian
+DT Article
+DE mental health; epidemiology; population; prevalence; incidence; model;
+   social-economic factors
+ID POPULATION
+AB At the population level, the quantitative assessment of the impact of social-economic and medical-demographic factors on the dynamics of main mental health indicators (prevalence, incidence, level of suicide, disability) in the population of the Russian Federation in 1992-2010 years is presented. Regression models relating the key indicators of mental health with the health-demographic and social-economic factors have been developed. The interpretation of the dynamics of mental health in Russia according to the social changes and living conditions in the country during 1992-2010 years is suggested. Models have good predictive performance, which allows their use as a tool for real-time monitoring and planning of health and social services.
+C1 [Mitikhina, I. A.] Acad Med Sci, Mental Hlth Res Ctr, Moscow, Russia.
+   Kaschenko City Psychiat Hosp, St Petersburg, Russia.
+C3 Russian Academy of Medical Sciences
+RP Mitikhina, IA (corresponding author), Acad Med Sci, Mental Hlth Res Ctr, Moscow, Russia.
+EM mia52@mail.ru
+RI Mitikhina, Irina/F-3184-2014; Yastrebov, Vassily/D-4511-2016; Mitikhin,
+   VG/F-3197-2014
+OI Mitikhina, Irina/0000-0002-9937-228X; Yastrebov,
+   Vassily/0000-0003-0065-0081; Mitikhin, VG/0000-0002-9502-5395
+NR 47
+TC 1
+Z9 10
+U1 0
+U2 3
+PU IZDATELSTVO MEDITSINA
+PI MOSCOW
+PA PETROVERIGSKII PER 6-8, K-142 MOSCOW, RUSSIA
+SN 1997-7298
+J9 ZH NEVROL PSIKHIATR
+JI Z. Nevrol. Psikhiatrii Im S S Korsakova
+PY 2013
+VL 113
+IS 9
+BP 4
+EP +
+PG 10
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA 242QD
+UT WOS:000326256200001
+PM 24107873
+DA 2023-12-05
+ER
+
+PT J
+AU Golenkov, AV
+   Orlov, FV
+   Bulygina, IE
+   Deomidov, ES
+AF Golenkov, A., V
+   Orlov, F., V
+   Bulygina, I. E.
+   Deomidov, E. S.
+TI POST-HOMICIDE SUICIDES IN RUSSIA
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE post-homicide suicides; Russia; criminological and demographic features;
+   Internet media reporting
+ID MURDER-SUICIDE; NEWSPAPER SURVEILLANCE; EPIDEMIOLOGY
+AB At the moment there have been few studies of post-homicide suicides (PHSU) in the indigenous literature, and those are mainly based on studying them in the Chuvash Republic (a region of Russia). The aim is to analyze the characteristics of the PHSU performed in the regions of the Russian Federation over the past 10 years. Materials and methods. The Internet was used to search for PHSU in all 85 regions of the Russian Federation from January 1, 2009 to June 30, 2019 using a combination of the words "Homicide and suicide in the region". Information was collected on 195 cases of PHSU in 67 regions of the Russian Federation (from 1 to 7 cases), committed by 169 men and 26 women aged from 16 to 86 years (average age - 42.6 +/- 15.9 years), and 300 victims (108 males and 192 females) aged from 2 months to 93 years (average age - 31.2 +/- 20.3 years). For each case of PHSU, socio-demographic indicators and features of delict were analyzed. Mathematical-statistical processing was carried out using descriptive statistics and with Pearson's chi-squared (chi(2)) test. Results. Men performed PHSU in 86.7%, women - in 13.3%. The most common were marital (partner) PHSU (30,3%), followed by mixed (22,6%), extra-family (21,5%), children (16,4%), and family (9,2%). Children's PHSU were characteristic for women (88,5%), extra-familial and mixed - for men; family PHSU occurred at about the same frequency. There were 39% of PHSU with two or more victims, 61% - with one. The most common method of murder and suicide was the use of firearms (40%); often criminals opted for pointed or bladed weapon (38,7%) and strangulation (10,3%). Of the methods of suicide, except for firearms (42,1%), hanging (33,3%), edged weapon (14,4%) and falling from a height were not uncommon (6,2%). Significant differences were found only for firearms as a way of killing men. After the murder, 184 (94.4%) people committed suicide during three days (74.9% at once), 5.6% did that in the period of over three days to one month. As a rule, suicides were committed at the same place as the murder (various premises). The methods of murder and suicide coincided in 124 (63.6%) cases. Alcoholic intoxication was registered in 34 (17.4%) PHSU. The most common causes of PHSU were the break in partnerships (24.6%) and various conflicts, drunken quarrels (20.5%). Among women, various mental disorders were significantly more common, and among men - separation from a partner. Over 70% of victims and 99% of murderers/suicides were in the age group of 18 years and older. Conclusion: Similarity with other countries of the world can be traced in the typological structure of the PSGU, demographic and criminological indicators, social, psychological and psychiatric reasons. PSGU as the cause of mortality of the population is still little studied.
+C1 [Golenkov, A., V; Orlov, F., V; Bulygina, I. E.; Deomidov, E. S.] IN Ulyanov Chuvash State Univ, Cheboksary, Russia.
+RP Golenkov, AV (corresponding author), IN Ulyanov Chuvash State Univ, Cheboksary, Russia.
+EM golenkovav@inbox.ru; orlovf@yandex.ru; ibuligina@rambler.ru;
+   neurokaf@yandex.ru
+RI Deomidov, Evgenii/AAL-4537-2020; Orlov, Fedor/AAI-4508-2020
+NR 35
+TC 6
+Z9 6
+U1 0
+U2 0
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2019
+VL 10
+IS 2
+BP 32
+EP 41
+DI 10.32878/suiciderus.19-10-02(35)-32-41
+PG 10
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA JM9NL
+UT WOS:000496532700004
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Korotkov, PA
+   Zagaynova, EA
+AF Korotkov, P. A.
+   Zagaynova, E. A.
+TI SUICIDE RATE AND TIME USE IN DAILY LIFE AND LEISURE
+SO SOTSIOLOGICHESKIE ISSLEDOVANIYA
+LA Russian
+DT Article
+DE suicide rate; everyday life; social cohesion; loneliness; nonparametric
+   estimate
+AB In this paper we test the hypothetical dependence between the suicide rate and the use of time in personal life (household, personal care and leisure activities) in the countries, including Russia, with relatively stable social situation, in which the suicide rate equals or is higher than the average (11 suicides per 100,000 of the population). In order to carry out nonparametric statistical analysis we used the data pool of time budget from 17 OECD countries. The research revealed that the suicide rate decreases when people spend their time taking care of the members of their families, participating in cultural events and volunteering. We offer a list of general recommendations meant to optimize the structure and duration of positive activities aimed at the reduction of suicides. We found an interrelation between the suicide rate and the use of time in 7 subjects of the Russian Federation. The paper also highlights the suicide reduction factors in Russia including the improvement of physical recreation (sleep and relaxation), as well as extension of outdoor activities, mainly due to the raise in the living standards of the population. The research offers encouraging prospects for further integrated studies of suicide tendencies influenced by everyday activities (work, routine and leisure).
+C1 [Korotkov, P. A.] Volga State Univ Technol, Yoshkar Ola, Russia.
+   [Zagaynova, E. A.] Kazan Fed Univ, Kazan, Russia.
+C3 Volga State University of Technology; Kazan Federal University
+RP Korotkov, PA (corresponding author), Volga State Univ Technol, Yoshkar Ola, Russia.
+EM korotkovpa@volgatech.net; katenazag@yandex.ru
+RI Korotkov, Peter/E-6735-2015
+OI Korotkov, Peter/0000-0003-0340-074X
+NR 24
+TC 0
+Z9 1
+U1 0
+U2 5
+PU IZDATELSTVO NAUKA
+PI MOSCOW
+PA PROFSOYUZNAYA UL 90, MOSCOW, 117864, RUSSIA
+SN 0132-1625
+J9 SOTSIOL ISSLED+
+JI Sotsiologicheskie Issled.
+PY 2019
+IS 1
+BP 106
+EP 115
+DI 10.31857/S013216250003752-0
+PG 10
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA HR2HL
+UT WOS:000462956100011
+DA 2023-12-05
+ER
+
+PT J
+AU Levi, F
+   La Vecchia, C
+   Lucchini, F
+   Negri, E
+   Saxena, S
+   Maulik, PK
+   Saraceno, B
+AF Levi, F
+   La Vecchia, C
+   Lucchini, F
+   Negri, E
+   Saxena, S
+   Maulik, PK
+   Saraceno, B
+TI Trends in mortality from suicide, 1965-99
+SO ACTA PSYCHIATRICA SCANDINAVICA
+LA English
+DT Article
+DE suicide; mortality; trends; international; epidemiology
+ID INCREASING RATES; AGE; PERIOD; UNEMPLOYMENT; ALCOHOL; PREVENTION;
+   DEPRESSION; STRATEGY; ENGLAND; RUSSIA
+AB Objective: To analyse trends in mortality from suicide over the period 1965 - 99.
+   Method: Data were derived from the WHO database, including data for 47 countries.
+   Results: In the European Union (EU), all age suicide mortality peaked at 16.1/100 000 in men in 1980 - 84, and declined thereafter to 14.4/ 100 000 in 1995 - 98. In females, the fall was 29% to reach 4.6/100 000. A similar pattern of trends was observed in several eastern European countries. In contrast, mortality from suicide rose substantially in the Russian Federation, from 37.7/100 000 in males in 1985 - 89 to 58.3/ 100 000 in 1995 - 98 (+ 55%), and to 9.5/100 000 (+ 12%) in females. In the USA and most other American countries providing data, no consistent pattern was evident for males, but falls were observed in females. Steady declines were registered for Japan, starting from the highest suicide rates worldwide in the late 1950s. Suicide rates were upwards in Ireland, Italy, Spain, the UK, Cuba, Australia and New Zealand. Substantial rises were observed in a few countries ( Ireland, Cuba, Mexico, Australia and New Zealand) for young males.
+   Conclusion: In spite of mixed trends, suicide remains a significant public health problem worldwide.
+C1 Univ Lausanne, Inst Social & Prevent Med, Canc Epidemiol Unit, CH-1005 Lausanne, Switzerland.
+   CHUV Falaises, Univ Inst Social & Prevent Med, Canc Registry Vaud, Lausanne, Switzerland.
+   Mario Negri Inst Pharmacol Res, Lab Epidemiol, I-20157 Milan, Italy.
+   Univ Milan, Inst Med Stat & Biometry, Milan, Italy.
+   WHO, Mental Hlth & Subst Dependence Dept, CH-1211 Geneva, Switzerland.
+C3 University of Lausanne; University of Lausanne; Centre Hospitalier
+   Universitaire Vaudois (CHUV); Istituto di Ricerche Farmacologiche Mario
+   Negri IRCCS; University of Milan; World Health Organization
+RP Levi, F (corresponding author), Univ Lausanne, Inst Social & Prevent Med, Canc Epidemiol Unit, Bugnon 17, CH-1005 Lausanne, Switzerland.
+EM fabio.levi@inst.hospvd.ch
+RI Negri, Eva/B-7244-2013; La Vecchia, Carlo/Z-1710-2019; Negri, Eva Vanna
+   Lorenza/AAC-5698-2019
+OI Negri, Eva/0000-0001-9712-8526; La Vecchia, Carlo/0000-0003-1441-897X;
+   Negri, Eva Vanna Lorenza/0000-0001-9712-8526; Maulik, Pallab
+   Kumar/0000-0001-6835-6175; Saraceno, Benedetto/0000-0001-7119-5712
+NR 47
+TC 150
+Z9 164
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-690X
+EI 1600-0447
+J9 ACTA PSYCHIAT SCAND
+JI Acta Psychiatr. Scand.
+PD NOV
+PY 2003
+VL 108
+IS 5
+BP 341
+EP 349
+DI 10.1034/j.1600-0447.2003.00147.x
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 728VC
+UT WOS:000185736200004
+PM 14531754
+DA 2023-12-05
+ER
+
+PT J
+AU Baker, TD
+   Baker, SP
+   Haack, SA
+AF Baker, Timothy D.
+   Baker, Susan P.
+   Haack, Sara A.
+TI Trauma in the Russian Federation: Then and Now
+SO JOURNAL OF TRAUMA-INJURY INFECTION AND CRITICAL CARE
+LA English
+DT Article; Proceedings Paper
+CT 34th Annual Meeting of the Western-Trauma-Association
+CY FEB 22-28, 2004
+CL Steamboat Springs, CO
+SP Western Trauma Assoc
+DE Russia; Trauma; Injury; Alcohol
+ID SOVIET-UNION; MORTALITY; ALCOHOL; SKORAYA; TRIAGE; PART
+AB Background: Russia has made substantial, largely unrecognized contributions to the field of trauma. These include the early development of triage, improvement of blood transfusions and blood bank networks, and Mobile Emergency Medical Services. Despite these advances, injury fatality rates in Russia are alarmingly high (similar to 50% higher than other Eastern European countries). They fluctuated dramatically during 1980 to 2006, a period that included the dissolution of Union of Soviet Socialist Republics. Suggested causes, including inaccurate data, alcohol use, and economic hardship, are investigated in this article.
+   Methods: Injury mortality rates for homicide, suicide, accidental poisoning, and total injuries (source: World Health Organization), alcohol consumption (source: World Health Organization), and economic data (source: United Nations Economic Commission for Europe) for the Russian Federation from 1980 to 2006 were examined and compared with the Baltic States, Central Asian Republics, other Eastern European nations, and the United States.
+   Results: Injury mortality rates declined in Russia from 1980 to 1987. The total injury mortality rate more than doubled between 1987 and 1994, followed by a 40% decline from 1994 to 1998. The 1984 to 1994 mortality rates generally parallel alcohol consumption trends. The 1991 to 1994 climb coincides with the dissolution of the Union of Soviet Socialist Republics. A smaller rise in fatality rates occurred in the early 2000s.
+   Conclusions: Deaths caused by injuries in the Russian Federation are related to multiple factors. Some authors conclude that the data accurately reflect injury mortality. Financial concerns during these times may have led to riskier behaviors resulting in more deaths from injuries. Heavy alcohol consumption also likely contributes to high injury mortality rates. Excessive injury mortality calls for action by Russian policy makers.
+C1 [Baker, Timothy D.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Int Hlth, Baltimore, MD 21205 USA.
+   [Baker, Susan P.] Johns Hopkins Bloomberg Sch Publ Hlth, Ctr Injury Res & Policy, Dept Hlth Policy & Management, Baltimore, MD 21205 USA.
+C3 Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health
+RP Baker, TD (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Int Hlth, 615 N Wolfe St,E8012, Baltimore, MD 21205 USA.
+EM shaack@jhsph.edu
+NR 25
+TC 5
+Z9 5
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0022-5282
+EI 1529-8809
+J9 J TRAUMA
+JI J. Trauma-Injury Infect. Crit. Care
+PD APR
+PY 2011
+VL 70
+IS 4
+BP 991
+EP 995
+DI 10.1097/TA.0b013e31820e27c6
+PG 5
+WC Critical Care Medicine; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC General & Internal Medicine; Surgery
+GA 750OV
+UT WOS:000289558700045
+PM 21610401
+DA 2023-12-05
+ER
+
+PT J
+AU Lyubov, EB
+   Shmatova, YE
+   Holland, VB
+   Zotov, PB
+AF Lyubov, E. B.
+   Shmatova, Y. E.
+   Holland, V. B.
+   Zotov, P. B.
+TI 10-YEAR EPIDEMIOLOGICAL ANALYSIS OF SUICIDAL BEHAVIOR OF PSYCHIATRIC
+   PATIENTS IN RUSSIA
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE suicidal behavior; epidemiology; federal; regional levels; mentally ill
+   patients; general population
+ID CARE
+AB A long-term (10 years) epidemiological study of the suicidal behavior of patients (i.e., those registered by the psychiatric services) in comparison with the suicide levels of the general population at the federal and regional levels, based on official statistics was conducted. There was a decrease by one-third of the level of suicides of the mentally ill patients while the corresponding decrease in the general population was observed at 60%. The suicides of psychiatric patients do not exceed 5% of all suicides in the Russian Federation. The level of parasuicides of patients decreased by 2/3, i.e., below 100. The average ratio between suicides and suicidal attempts (parasuicides) of mentally ill people in the country is 1:4. The variance ("peaks") suicides and suicidal attempts is associated with epidemiologically infrequent phenomena and a small population of some regions, but long-term analysis indicates trends similar to the general population regarding suicides. Data suggest underdiagnosis of suicidal behavior of psychiatric patients and the need for multi-level targeted treatment and prevention programs for the clinical target group at high risk of suicidal behavior. A scientifically evidence-based approach to substantiate and develop anti-crisis services is the refinement and specification of the epidemiology of suicidal behavior of mentally ill patients within the framework of regional suicidological registers.
+C1 [Lyubov, E. B.; Holland, V. B.] Serbsky Natl Med Res Ctr Psychiat & Addict, Moscow, Russia.
+   [Shmatova, Y. E.] Russian Acad Sci, Vologda Res Ctr, Vologda, Russia.
+   [Zotov, P. B.] Tyumen State Med Univ, Tyumen, Russia.
+C3 Vologda Research Center, RAS; Russian Academy of Sciences; Tyumen State
+   Medical University
+RP Lyubov, EB (corresponding author), Serbsky Natl Med Res Ctr Psychiat & Addict, Moscow, Russia.
+EM lyubov.evgeny@mail.ru; ueshmatova@mail.ru; holland@2con.ru;
+   note72@yandex.ru
+RI Зотов, Павел/AGA-2616-2022; Zotov, Pavel/U-2807-2017
+OI Зотов, Павел/0000-0002-1826-486X; Zotov, Pavel/0000-0002-1826-486X
+NR 15
+TC 2
+Z9 3
+U1 0
+U2 0
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2019
+VL 10
+IS 1
+BP 84
+EP 90
+DI 10.32878/suiciderus.19-10-01(34)-84-90
+PG 7
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA IK5QY
+UT WOS:000476640900009
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Kornetov, NA
+AF Kornetov, Nikolay Alexeyevich
+TI Nikolay Alexeyevich Kornetov (on the occasion of the seventieth
+   anniversary)
+SO BYULLETEN SIBIRSKOY MEDITSINY
+LA Russian
+DT Biographical-Item
+DE history of medicine; N.A. Kornetov; clinical anthropology; regional
+   morphological dysplasis; depressive disorders; suicide prevention
+AB This article is devoted to the 70th birthday anniversary and the 45th anniversary of the scientific and educational work of N.A. Kornetov - DM, Professor of the Division of Psychiatry, Narcology and Psychotherapy, the Honored Scientific Worker of the Russian Federation, the Honored Professor of SSMU. The article highlights his interdisciplinary and educational activity in the development of International Academy of Integrative Anthropology, main courses of scientific activity and new data in the field of integrative clinical anthropology, the doctrine of constitutions, and the biological significance of minor physical anomalies.
+C1 [Kornetov, Nikolay Alexeyevich] SSMU, 2 Moscow Trakt, Tomsk 634050, Russia.
+C3 Siberian State Medical University
+RP Kornetov, NA (corresponding author), SSMU, 2 Moscow Trakt, Tomsk 634050, Russia.
+RI Nikolai, Kornetov/I-4273-2016
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SIBERIAN STATE MEDICAL UNIV
+PI TOMSK
+PA UL LENINA 107, TOMSK, 63405, RUSSIA
+SN 1682-0363
+EI 1819-3684
+J9 BYULLETEN SIB MED
+JI BYULLETEN SIB. MED.
+PY 2018
+VL 17
+IS 3
+BP 247
+EP 252
+PG 6
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA GW0GQ
+UT WOS:000446542000028
+DA 2023-12-05
+ER
+
+PT J
+AU Gurina, NA
+   Vangen, S
+   Forsén, L
+   Sundby, J
+AF Gurina, NA
+   Vangen, S
+   Forsén, L
+   Sundby, J
+TI Maternal mortality in St. Petersburg, Russian Federation
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+DE maternal mortality/trends; pregnancy complications/mortality; abortion;
+   spontaneous/mortality; abortion; criminal; comparative study;
+   prospective studies; Russian Federation
+AB Objective To study the levels and causes of maternal mortality in St. Petersburg, Russian Federation.
+   Methods We collected data about all pregnancy-related deaths in St. Petersburg over the period 1992-2003 using several sources of information. An independent research group reviewed and classified all cases according to ICD-1 0 and the Confidential Enquiries into Maternal Deaths in the United Kingdom. We tested trends of overall and cause specific ratios (deaths per 100 000 births) for four 3-year intervals using the chi(2) test.
+   Findings The maternal mortality ratio for the study period was 43 per 100 000 live births. A sharp decline of direct obstetric deaths was observed from the first to fourth 3-year interval (49.8 for 1992-94 versus 18.5 for 2001-03). Sepsis and haemorrhage were the main causes of direct obstetric deaths. Among the total deaths from sepsis, 63.8% were due to abortion. Death ratios from sepsis declined significantly from the first to second study interval. In the last study interval (2001-03), 50% of deaths due to haemorrhage were secondary to ectopic pregnancies. The death ratio from thromboembolism remained low (2.9%) and stable throughout the study period. Among indirect obstetric deaths a non-significant decrease was observed for deaths from cardiac disease. Death ratios from infectious causes and suicides increased over the study period.
+   Conclusions Maternal mortality levels in St. Petersburg still exceed European levels by a factor of five. Improved management of abortion, emergency care for sepsis and haemorrhage, and better identification and control of infectious diseases in pregnancy, are needed.
+C1 St Petersburg Med Acad Postgrad Studies, Dept Family Med, Sch Publ Hlth, St Petersburg 194291, Russia.
+   Norwegian Inst Publ Hlth, Div Epidemiol, Oslo, Norway.
+   Univ Oslo, Inst Community Med, Oslo, Norway.
+C3 North-Western State Medical University named after I.I. Mechnikov;
+   Norwegian Institute of Public Health (NIPH); University of Oslo
+RP Gurina, NA (corresponding author), St Petersburg Med Acad Postgrad Studies, Dept Family Med, Sch Publ Hlth, St Petersburg 194291, Russia.
+EM gurina27@hotmail.com
+NR 9
+TC 12
+Z9 14
+U1 0
+U2 3
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD APR
+PY 2006
+VL 84
+IS 4
+BP 283
+EP 289
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 031GZ
+UT WOS:000236694000010
+PM 16628301
+OA Green Published, Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Gvozdeva, IS
+   Shapiro, LG
+   Yuzhaninova, AL
+AF Gvozdeva, I. S.
+   Shapiro, L. G.
+   Yuzhaninova, A. L.
+TI SPECIAL PSYCHOLOGICAL KNOWLEDGE IN THE INVESTIGATION OF THE MINORITY
+   AWARDS TO SUCCESSFUL BY SUCCESSING WITH THE INTERNET NETWORK
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE suicide; investigation; minors; the Internet; drive to suicide; bringing
+   to suicide; special knowledge; forensic psychological examination;
+   expert psychologist
+ID SUICIDE
+AB In recent years, there has been a steady upward trend in suicides among children and adolescents, influenced by the information that could be found in the Internet. This article is devoted to studying the problems of investigating the motivation of minors to suicide through the use of special psychological knowledge, primarily in the form of a forensic psychological examination. The article focuses on the complex, interdisciplinary nature of the problem of counteracting youth suicidal behavior caused by the criminal behavior of others (Articles 110, 110.1, 110.2 of the Criminal Code of the Russian Federation), on the criminal potential of the Internet, the role of a psychologist as an expert to establish the circumstances of the crimes committed in this category is examined. The purpose of the study: to determine the opportunities of the use of special psychological knowledge in investigating how subjects of crime used the Internet to motivate minors to suicide. Material and methods: we analyzed the texts of 51 court sentences on bringing to suicide both minors and adults published on the website "Judicial and regulatory acts of the Russian Federation" for the period from 2011 to 2017, as well as the texts of court decisions made in various regions of Russia on the claims of the prosecutor's office on the recognition of information posted on certain Internet pages as the information that is prohibited to be spread in the territory of the Russian Federation. The study also used regulatory acts, publications on this subject, statistical data and materials of published law enforcement practice. The following methodological basis was used: a set of abstract logical, inductive and deductive methods, methods of comparative and statistical analysis. Results: Of the total number of victims of minors (persons aged 11 to 18) made up 26.6%. Of the total number of minors who committed suicide the death rate reached 83.3%. All the survivors stayed alive due to circumstances beyond their control. Thus, most adolescents were determined to complete their suicide. Of all the minor victims, there were 63.6% of females and 36.4% of males. Consequently, adolescent girls are subject to violence that can lead to suicide almost twice more often than boys. Persons who brought minors to suicide as a rule were close to their victims: in 28.9% of cases these were victims' peers; in 29.1% cases the father was accused, and the mother was found guilty in 21.1% cases, 14.4% of the accused were the mother's cohabitant, and 6.5% were the guardian. Only in 6.5% of cases minors were subject to mental violence, in the remaining 93.5% cases they suffered both mental and physical violence. In most cases, violence has been carried out systematically for several years. In 41.1% of the total sentences studied, forensic expert reports of psychiatrists or psychologists were used as evidence for both victims and defendants, and in 58.9% of cases issues requiring special knowledge relating to the mental sphere of a person were executed by law enforcement officers themselves. The proportion of psychological and psychiatric examinations of all the studied sentences was as follows: psychiatric - 21.5%, complex psychological and psychiatric - 9.9%, psychological 9.7%, which allows us to state the existence of a trend of predominant use of psychiatric knowledge compared to psychological and complex in the investigation of this category of cases.
+   The study found no connection between the fact of appointment of expertise and the age of suicide, the outcome of a suicidal attempt, the presence of violence against the victim. In addition, the insufficiency of the psychological aspect of the expert approach to the accused was revealed in terms of establishing the motive of behavior that caused the victim to attempt suicide. When determining the specifics of the appointment of a forensic psychological examination of victims we revealed that the proportion of forensic examinations carried out reached 76% on the victims and 24 on the accused % of the total number of cases. In this category of cases, the frequency of psychological examinations is 37.7%, psychiatric examinations made up 31.2%, complex psychological and psychiatric were applied in 31.1%. In 87.9% of cases, along with determining the state preceding suicide, a causal relationship between the actions of the accused and the victim's decision to attempt suicide was established. The expert conclusion was also positive. Only in 35.7% of cases forensic examinations of minors were appointed. With a relatively rare appointment of examinations in cases of minor's suicide, the priority area of special knowledge to be used is psychiatry (compared with psychology). Thus, the problems of using special psychological knowledge in the form of a forensic psychological examination were revealed when investigating what can drive minors to suicide using the Internet. Conclusions: in view of the significant gap in the use of special psychological knowledge in law enforcement practice, it is of great importance to study the nature and current trends of their use in investigating driving to suicide, as well as using the Internet to encourage minors to commit suicide, because a number of circumstances that are to be proved in cases of this category can only be established with the help of a forensic psychological examination.
+C1 [Gvozdeva, I. S.; Shapiro, L. G.; Yuzhaninova, A. L.] Saratov State Law Acad, Saratov, Russia.
+RP Gvozdeva, IS (corresponding author), Saratov State Law Acad, Saratov, Russia.
+EM gvozdeva-irina@yandex.ru; lyudmila-shapiro2014@yandex.ru;
+   juzhaninoya-alla@yandex.ru
+NR 43
+TC 0
+Z9 0
+U1 0
+U2 8
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2018
+VL 9
+IS 4
+BP 118
+EP 137
+DI 10.32878/suiciderus.18-09-04(33)-118-137
+PG 20
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA HJ5HG
+UT WOS:000457208800010
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Denisenko, MB
+   Nikolaeva, UG
+AF Denisenko, M. B.
+   Nikolaeva, U. G.
+TI What happens to the rural population in the Russian Near North? (the
+   case of Kostroma region)
+SO SOTSIOLOGICHESKIE ISSLEDOVANIYA
+LA Russian
+DT Article
+DE rural population; demography of rural associations; birth-rate; death
+   rate; death rate from external reasons; depopulation; migrations;
+   migratory politics
+AB The authors discuss social and demographic processes in the rural regions of the Russian Near North and, first of all, in the Kostroma region one of the socially problematic regions in the Russian Federation. In the article, the attention is focused on the analysis of mechanisms and assessment of scales of the depopulation: high mortality, migration of youth and middle aged people to the cities, deformations in age and gender structure with prevalence of the elderly population and a small share of children. The authors state essential distinctions of demographic indicators between municipalities in the Kostroma region and emphasize importance of social and demographic research on a basic municipal level. Indicators of the low life expectancy, high mortality caused by external reasons (alcoholism, murders, suicides, etc.), and high migration of youth are seen as the objective indicators of social problems in the local communities. It demands special attention on the part of the government authorities that plan social programs and take administrative decisions.
+C1 [Denisenko, M. B.] Natl Res Univ, Higher Sch Econ, Moscow, Russia.
+   [Nikolaeva, U. G.] Moscow MV Lomonosov State Univ, Moscow, Russia.
+C3 HSE University (National Research University Higher School of
+   Economics); Lomonosov Moscow State University
+RP Denisenko, MB (corresponding author), Natl Res Univ, Higher Sch Econ, Moscow, Russia.
+EM den-mikhail@yandex.ru; ynikolaeva@list.ru
+RI Denisenko, Mikhail B./K-3462-2015; Nikolaeva, Uliana G/AAC-6444-2022
+OI Denisenko, Mikhail B./0000-0001-7983-5323; Nikolaeva,
+   Uliana/0000-0002-6266-8984
+NR 30
+TC 4
+Z9 8
+U1 0
+U2 4
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., MOSCOW, 113095, RUSSIA
+SN 0132-1625
+J9 SOTSIOL ISSLED+
+JI Sotsiologicheskie Issled.
+PY 2015
+IS 12
+BP 70
+EP +
+PG 13
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA DD8YS
+UT WOS:000370213400007
+DA 2023-12-05
+ER
+
+PT J
+AU Slobodskaya, HR
+   Semenova, NB
+AF Slobodskaya, Helena R.
+   Semenova, Nadezhda B.
+TI Child and adolescent mental health problems in Tyva Republic, Russia, as
+   possible risk factors for a high suicide rate
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE Tyva; Children; Adolescents; Mental health; Epidemiology
+ID PSYCHIATRIC-DISORDERS; PREVALENCE; PSYCHOPATHOLOGY; QUESTIONNAIRE;
+   EPIDEMIOLOGY; COMORBIDITY
+AB High rates of child mental health problems in the Russian Federation have recently been documented; the rates of youth suicide are among the highest in the world. Across the Russian regions, Republic of Tyva has one of the highest rates of child and adolescent suicide and the lowest life expectancy at birth. The aim of this study was to investigate the prevalence and associations of mental health problems in Native Tyvinian children and adolescents using internationally recognised measures and diagnoses. A two-stage, two-phase design involved selection of schools in five rural settlements in Western Tyva and two schools in the capital city followed by selection of Native Tyvinian children in grades 3-4 (ages 9-10) and 6-7 (ages 14-15). In the first phase, a screening measure of psychopathology, the Rutter Teacher Questionnaire, was obtained on 1048 children with a 97 % participation rate. In the second phase, more detailed psychiatric assessments were carried out for subgroups of screen-positive and screen-negative children. The prevalence of mental health problems was about 25 %, ranging from 40 % in adolescent boys from rural areas to 9 % in adolescent girls from the city. The patterning of disorders and risk factors were similar to those in other countries, rural areas were associated with an increased risk of psychopathology. The findings indicate that there is an urgent need for interventions to reduce risk in this population and provide effective help for Tyvinian children and adolescents with mental health problems.
+C1 [Slobodskaya, Helena R.] Novosibirsk State Univ, Inst Physiol & Basic Med, Timakova Str 4, Novosibirsk 630117, Russia.
+   [Semenova, Nadezhda B.] Sci Res Inst Med Problems North, Partizan Zheleznyak Str 3G, Krasnoyarsk 660022, Russia.
+C3 Novosibirsk State University; Research Institute for Neurosciences &
+   Medicine; Russian Academy of Sciences; Krasnoyarsk Science Center of the
+   Siberian Branch of the Russian Academy of Sciences; Research Institute
+   for Medical Problems in the North, Siberian Branch, Russian Academy of
+   Sciences
+RP Slobodskaya, HR (corresponding author), Novosibirsk State Univ, Inst Physiol & Basic Med, Timakova Str 4, Novosibirsk 630117, Russia.
+EM hslob@physiol.ru
+RI Semenova, Nadejda/AAG-5178-2019; Slobodskaya, Helena R./B-3534-2012
+OI Semenova, Nadejda/0000-0002-6120-7860; Slobodskaya, Helena
+   R./0000-0003-2076-0691
+FU Federal Presidential Programme "Children of North"; Russian Foundation
+   for Basic Research [13-06-00156]; Russian Foundation for Humanities
+   [14-06-00139]; Russian Scientific Foundation [14-15-00202]
+FX The study was funded by Federal Presidential Programme "Children of
+   North". H.S. is supported by grants of Russian Foundation for Basic
+   Research # 13-06-00156, Russian Foundation for Humanities # 14-06-00139
+   and Russian Scientific Foundation # 14-15-00202.
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 10
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1018-8827
+EI 1435-165X
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD APR
+PY 2016
+VL 25
+IS 4
+BP 361
+EP 371
+DI 10.1007/s00787-015-0743-z
+PG 11
+WC Psychology, Developmental; Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics; Psychiatry
+GA DI6WU
+UT WOS:000373641700004
+PM 26162484
+DA 2023-12-05
+ER
+
+PT J
+AU Evangelista, M
+AF Evangelista, M
+TI Chechnya's Russia problem
+SO CURRENT HISTORY
+LA English
+DT Article
+AB In October 2002, armed Chechen terrorists seized control of the Dubrovka Theater in downtown Moscow and held nearly 800 people hostage. They demanded an immediate end to Russia's war in Chechnya and withdrawal of the Russian army. Eighteen of the fifty Chechens were women, veiled and dressed in black robes, with explosives strapped to their bodies. They threatened to blow up the building if their demands were not met. After a tense 58 hours, Russian special forces piped in an incapacitating gas and then stormed the theater. They killed the Chechens and freed the hostages, although more than a hundred of those freed later died from the effects of the gas.
+   Russian President Vladimir Putin characterized the hostage taking as entirely about international terrorism-and nothing else. He linked the Chechens to the Al Qaeda terrorist network. He said that the Chechen republic president, Aslan Maskhadov, whose election Russia had recognized as legitimate in 1997, was complicit in the hostage operation and therefore could not be part of a negotiated solution to what had become known as the second Chechen war.
+   In the months that followed, even as Chechen suicide bombings of Russian military and civilian targets mounted-both inside Chechnya and elsewhere in the Russian Federation-Putin declared victory over the secessionists and began to implement his preferred postwar policy. A March 2003 referendum ostensibly demonstrated overwhelming popular support among Chechens for a new constitution that would reaffirm the region's status as a republic of the Russian Federation, thereby repudiating the separatist government of Maskhadov and the armed opposition to Russian occupation. A presidential election was scheduled for October 2003.
+   But no one believes that the situation in Chechnya will become stable anytime soon. Hundreds of thousands of refugees who fled the war are struggling to remain in camps in neighboring republics such as Ingushetia, even though the Russian authorities have sought to cut off international humanitarian aid and force the refugees to return home. Their reluctance to do so speaks more eloquently than the referendum results about the prospects for peace in Chechnya. As long as President Putin insists on framing the war in Chechnya as a struggle with international terrorism, as long as he refuses to consider a negotiated or internationally sanctioned resolution, and as long as the West tacitly acquiesces to his approach, there may be no end to the bloodshed.
+C1 Cornell Univ, Peace Studies Program, Ithaca, NY 14853 USA.
+C3 Cornell University
+RP Evangelista, M (corresponding author), Cornell Univ, Peace Studies Program, Ithaca, NY 14853 USA.
+NR 0
+TC 2
+Z9 3
+U1 0
+U2 12
+PU CURRENT HIST INC
+PI PHILADELPHIA
+PA 4225 MAIN ST PO BOX 4647, PHILADELPHIA, PA 19127 USA
+SN 0011-3530
+J9 CURR HIST
+JI Curr. Hist.
+PD OCT
+PY 2003
+VL 102
+IS 666
+BP 313
+EP 319
+PG 7
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 726TM
+UT WOS:000185616000002
+DA 2023-12-05
+ER
+
+PT J
+AU Gavrilova, NS
+   Semyonova, VG
+   Evdokushkina, GN
+   Gavrilov, LA
+AF Gavrilova, NS
+   Semyonova, VG
+   Evdokushkina, GN
+   Gavrilov, LA
+TI The response of violent mortality to economic crisis in Russia
+SO POPULATION RESEARCH AND POLICY REVIEW
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the Population-Association-of-America
+CY MAR 25-27, 1999
+CL NEW YORK, NEW YORK
+SP Populat Assoc Amer
+DE mortality; Russia; economic crisis; violent mortality; life expectancy;
+   injuries; homicide; suicide; alcohol poisoning
+ID LIFE EXPECTANCY; SOCIAL STRESS; TRANSITION; ALCOHOL; DETERMINANTS;
+   FEDERATION; REFORM
+AB From 1992 to 1994 life expectancy for Russian males dropped from 62.0 to 57.6 years. Female life expectancy dropped from 73.8 years to 71.2 years. This drop in life expectancy coincided in time with the introduction of painful economic reforms in Russia, leading to a rapid decrease in real wages and pensions, nearly complete loss of personal savings, and a tremendous increase in the poverty rate. This article examines the temporary changes in mortality fur violent causes of death during the crisis period with a special emphasis on age-specific and gender-specific differences in the response to economic crisis.
+C1 Univ Chicago, Ctr Aging, NORC, Chicago, IL 60637 USA.
+   Cent Res Publ Hlth Inst, Moscow, Russia.
+C3 University of Chicago
+RP Gavrilova, NS (corresponding author), Univ Chicago, Ctr Aging, NORC, 1155 E 60th St, Chicago, IL 60637 USA.
+RI Semyonova, Victoria/AAH-1211-2020; Gavrilova, Natalia/JKI-8137-2023;
+   Gavrilov, Leonid/AAH-2935-2020; Evdokushkina, Galina/AAH-1364-2020;
+   Gavrilova, Natalia/AAH-2917-2020; Gavrilov, Leonid/H-7189-2019
+OI Gavrilova, Natalia/0000-0003-3572-0879; Gavrilov,
+   Leonid/0000-0002-4462-3803; Evdokushkina, Galina/0000-0002-1389-2509;
+   Semenova, Viktoria/0000-0002-2794-1009
+NR 44
+TC 84
+Z9 99
+U1 0
+U2 13
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0167-5923
+J9 POPUL RES POLICY REV
+JI Popul. Res. Policy Rev.
+PD OCT
+PY 2000
+VL 19
+IS 5
+BP 397
+EP 419
+DI 10.1023/A:1010621601409
+PG 23
+WC Demography
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Demography
+GA 429ND
+UT WOS:000168522900001
+DA 2023-12-05
+ER
+
+PT J
+AU Krukovskiy, V
+   Mosechkin, I
+AF Krukovskiy, Vladimir
+   Mosechkin, Ilya
+TI Legal Issues of Counteractions to Encouraging Murders and Suicides
+SO PRAVO-ZHURNAL VYSSHEI SHKOLY EKONOMIKI
+LA Russian
+DT Article
+DE suicide; murder; incitement; inducing; facilitating; organizing
+   activities; encouragement
+AB The article is devoted to researching criminal legal problems of regulation of responsibility for declining and assisting in committing suicides as well as for organizing activities related to the propaganda of murders and suicides. New articles of the Criminal Code need in improvement. Besides, outside the legal framework there remains the organization of activities aimed at encouraging the commission of the murder. The urgency of the issues is due to the fact that, according to statistical information and research, the number of suicides remains at a high level, and qualitative indicators changing towards increasing the number of victims among minors. The number of "motiveless" acts of aggression is growing, including at social infrastructure facilities provoked not without the participation of communities of social networks and channels of messengers of violent subjects. For the purpose of the study, the authors focused on the development of recommendations for improving criminal legislation taking into account the recent changes made to it in the fight against inducement and the promotion of suicide, as well as the great role of social networks and messengers in people's lives. During the research, the methodological basis was the dialectical method of cognition because it allowed evaluating the subject of research in connection with the norms of criminal law and social phenomena. Such scholar methods, as comparative legal, normative dogmatic method and content analysis were applied with the help of which it became possible to analyze social phenomena in the context of their legal regulation. The article analyzes the provisions of criminal law doctrine regarding the problems of countering the external influence on committing suicide and murder. The study of forensic investigation allowed us to identify modern qualitative changes of such influence. In the course of the study, the authors concluded that it is possible to combine articles 110 and 110.1 of the Criminal Code of the Russian Federation because they contain significant similarities, and the perpetrator in the course of their execution tends to the same result. The authors also proposed a version of the expanded version of article 110.2 of the Criminal Code, covering the organization of activities aimed at encouraging not only suicide, but also murders.
+C1 [Krukovskiy, Vladimir] Vyatka State Univ, Criminal Law, Criminal Procedure Law & Natl Secur Dept, 36 Moskovskaya Str, Kirov 610000, Russia.
+   [Mosechkin, Ilya] Vyatka State Univ, Criminal Procedure Law & Natl Secur Dept, 36 Moskovskaya Str, Kirov 610000, Russia.
+C3 Vyatka State University; Vyatka State University
+RP Krukovskiy, V (corresponding author), Vyatka State Univ, Criminal Law, Criminal Procedure Law & Natl Secur Dept, 36 Moskovskaya Str, Kirov 610000, Russia.
+EM krukovsky@vyatsu.ru; Weretowelie@gmail.com
+RI Mosechkin, Elya Nikolaevich/I-8772-2017
+OI Mosechkin, Elya Nikolaevich/0000-0002-9724-9552
+NR 15
+TC 1
+Z9 1
+U1 0
+U2 6
+PU NATL RES UNIV HIGHER EDUCATION
+PI MOSCOW
+PA NATL RES UNIV HIGHER EDUCATION, MOSCOW, 00000, RUSSIA
+SN 2072-8166
+J9 PRAVO
+JI Pravo
+PY 2018
+IS 4
+BP 196
+EP 215
+DI 10.17323/2072-8166.2018.4.196.215
+PG 20
+WC Law
+WE Emerging Sources Citation Index (ESCI)
+SC Government & Law
+GA HH2YA
+UT WOS:000455584700011
+DA 2023-12-05
+ER
+
+PT J
+AU Semenova, NB
+AF Semenova, N. B.
+TI SUICIDE BEHAVIOR IN SIBERIA NATIVE CHILDREN AND ADOLESCENTS: SOCIAL RISK
+   FACTORS
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE adolescents; suicide; native peoples of Siberia; indigenous; aborigines;
+   risk factors; North
+ID SUBSTANCE USE; DRUG-USE; PEOPLES; YOUTH
+AB Suicide mortal cases related to Siberia native children and adolescents are many times more frequent as compared to average indices in Russian Federation. This requires thorough analysis for this social phenomenon and its reasons. Aim of the Research. To estimate the prevalence and pronouncement of social risk factors, which are associated with suicide behavior in adolescents of Siberia native populations - the Yakuts, the Evens, the Evenks, the Altayans, the Aginsk Buryats and the Tyvins. Subjects and Methods of the Study. We examined 781 adolescents of different ethnic groups by anonymous questionnaire: the Yakuts (181), the Evens and Evenks (63), the Altayans (103), the Buryats (228), the Tyvins (206). The Yakuts, the Evens and the Evenks inhabit northern regions and the Altayans, the Buryats and the Tyvins inhabit southern regions of Siberia. Average age of the adolescents was 16.5 years. We have studied three groups of risk factors: I. Family risk factors (family problems in regard to housing conditions; intra-family problems; conflicts in the family; drinking parents); II. Risks related to the system of relationships (problems in the relationships with parents, teachers, peers, the opposite sex); III. Deviant activity risks (alcohol and/or psychoactive preparations (PAP) consumption; alcoholic and/or PAP friends; criminal friends). Statistical processing of the data had been worked out with Statistica for Window Version X program. Resul ts. Family risks were found in 7.8-29.8% adolescents; risks related to relationships in 9.6-43.1%; deviant activity risks in 7.8-69.8%. Combination of negative influence of two or three factors had been revealed in 7.0-29.6% adolescents. The prevalence of social risk factors is more frequent in adolescents, inhabiting northern regions of Siberia - the Yakuts, the Evens, the Evenks (p < 0.01). In Tyvin adolescents housing problems and parental alcoholism are as frequent as in the adolescents, living in the North. Conclusions. In 20.4% Yakuts, in 19.1% Evens and Evenks, in 13.5% Altayans, in 7% Aginsk Buryats and in 29.6% Tyvins we have found the combinations of two or three unfavorable social factors. Those adolescents require special preventive measures.
+C1 [Semenova, N. B.] Russian Acad Sci, Sci Res Inst Med Problems North, Fed Res Ctr, Krasnoyarsk Sci Ctr,Siberian Div, Krasnoyarsk, Russia.
+C3 Russian Academy of Sciences; Krasnoyarsk Science Center of the Siberian
+   Branch of the Russian Academy of Sciences; Research Institute for
+   Medical Problems in the North, Siberian Branch, Russian Academy of
+   Sciences
+RP Semenova, NB (corresponding author), Russian Acad Sci, Sci Res Inst Med Problems North, Fed Res Ctr, Krasnoyarsk Sci Ctr,Siberian Div, Krasnoyarsk, Russia.
+EM snb237@gmail.com
+RI Semenova, Nadejda/AAG-5178-2019
+OI Semenova, Nadejda/0000-0002-6120-7860
+NR 24
+TC 0
+Z9 1
+U1 0
+U2 2
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2018
+VL 9
+IS 4
+BP 3
+EP 16
+DI 10.32878/suiciderus.18-09-04(33)-3-16
+PG 14
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA HJ5HG
+UT WOS:000457208800001
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Bellis, MA
+   Hughes, K
+   Leckenby, N
+   Jones, L
+   Baban, A
+   Kachaeva, M
+   Povilaitis, R
+   Pudule, I
+   Qirjako, G
+   Ulukol, B
+   Raleva, M
+   Terzic, N
+AF Bellis, Mark A.
+   Hughes, Karen
+   Leckenby, Nicola
+   Jones, Lisa
+   Baban, Adriana
+   Kachaeva, Margarita
+   Povilaitis, Robertas
+   Pudule, Iveta
+   Qirjako, Gentiana
+   Ulukol, Betul
+   Raleva, Marija
+   Terzic, Natasa
+TI Adverse childhood experiences and associations with health-harming
+   behaviours in young adults: surveys in eight eastern European countries
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID FOLLOW-UP; ABUSE; DISEASE; MALTREATMENT; METAANALYSIS; PREVALENCE;
+   NEGLECT; BURDEN
+AB Objective To evaluate the association between adverse childhood experiences e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration and the health of young adults in eight eastern European countries.
+   Methods Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey. There were 10 696 respondents 59.7% female - aged 18-25 years. Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+   Findings Over half of the respondents reported at least one adverse childhdod experience. Having one adverse childhood experience increased the probability of having other adverse childhood experiences. The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours. Compared with those Who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, Cl: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide. Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.
+   Conclusion Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods. Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.
+C1 [Bellis, Mark A.; Hughes, Karen; Leckenby, Nicola; Jones, Lisa] Liverpool John Moores Univ, Ctr Publ Hlth, Liverpool L3 2ET, Merseyside, England.
+   [Baban, Adriana] Univ Babes Bolyai, Dept Psychol, R-3400 Cluj Napoca, Romania.
+   [Kachaeva, Margarita] Serbsky Natl Res Ctr Social & Forens Psychiat, Moscow, Russia.
+   [Povilaitis, Robertas] Vilnius State Univ, Fac Philosophy, Dept Clin & Org Psychol, Vilnius, Lithuania.
+   [Pudule, Iveta] Ctr Dis Prevent & Control, Riga, Latvia.
+   [Qirjako, Gentiana] Univ Med, Fac Publ Hlth, Tirana, Albania.
+   [Ulukol, Betul] Ankara Univ Sch Med, Dept Social Paediat, Ankara, Turkey.
+   [Raleva, Marija] Univ St Cyril & Methudius, Univ Clin Psychiat, Skopje 91000, North Macedonia.
+   [Terzic, Natasa] Inst Publ Hlth, Podgorica, Montenegro.
+C3 Liverpool John Moores University; Babes Bolyai University from Cluj;
+   Vilnius University; Ankara University; Saints Cyril & Methodius
+   University of Skopje
+RP Bellis, MA (corresponding author), Liverpool John Moores Univ, Ctr Publ Hlth, 15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM m.a.bellis@ljmu.ac.uk
+RI Wilson, Gregory/AAA-9035-2021; Bellis, Mark A./HGA-2019-2022; Jones,
+   Lisa/C-2678-2013; Hughes, Karen/JOK-1499-2023
+OI Jones, Lisa/0000-0001-5136-5614; Ulukol, Betul/0000-0001-8058-0911;
+   Bellis, Mark/0000-0001-6980-1963; Hughes, Karen/0000-0001-8097-3395
+FU violence prevention research programme at Liverpool John Moores
+   University
+FX This analysis was funded as part of the violence prevention research
+   programme at Liverpool John Moores University.
+NR 37
+TC 177
+Z9 190
+U1 7
+U2 83
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD SEP
+PY 2014
+VL 92
+IS 9
+BP 641
+EP 655
+DI 10.2471/BLT.13.129247
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AQ3UM
+UT WOS:000342719000008
+PM 25378755
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2023-12-05
+ER
+
+PT J
+AU Hernández, AMC
+   García, LFM
+   Merino, HP
+   Ramírez, L
+AF Hernández, AMC
+   García, LFM
+   Merino, HP
+   Ramírez, L
+TI Epidemiology of suicide in the state of Guanajuato.
+SO SALUD MENTAL
+LA Spanish
+DT Article
+DE Suicide; epidemiology; Guanajuato; migration; social-demograph
+ID MEXICO
+AB From the epidemic perspective, suicide appears as an international public health problem due to the remarkable increase of its incidence. According to the World Health Organization (WHO), in the year 2000, suicide had the greater percentage (49%) in the statistics of "deaths by intentional injuries"; followed by violence (32%) and war (19%).
+   This source also notifies that in countries with population over 100 millions, Mexico is the country that shows the higher increase of "changes in age-standardized groups in specific intervals of time" (+61, 9% in period 81-83/93-95). Followed in descendent order by: India (+54%, period 80-93), Brazil (+13.2%, period 79-81/93-93), and the Russian Federation (+5.3%, period 80-82/96-98). The United States of America (-5.3%, period 80-82/93-97) and Japan (-14.3%, period 80-82/95-97) have shown decreasing rates.
+   The increase in the rates of suicide in Mexico has been registered by various studies, which also have proved that the States where those rates were the highest are: Veracruz, Mexico City and, in third place, Guanajuato.
+   Some specific sectors of Guanajuato State show an association of two phenomena: suicide and migration, basically migrants travelling to the United States of America and Canada, both countries with a high frequency of suicides. The information on suicide in Mexico come from sources such as local or international studies, and also from reports obtained through public institutions, the Instituto Nacional de Estadistica, Geografia e Informatica (INEGI), the Secreteria de Salud (SS) and the Procuraduria General de Justicia (PGJ). Nevertheless, the data given by these institutions show discrepancies in statistics, a fact due perhaps to differences in the classification criteria for deaths, and to registration and filing mistakes.
+   The aim of the present research was to collect and report epidemiological data on suicides and the characteristics of the suicidal events, in the State of Guanajuato, during the period between 1995 and 2001. To this purpose the files of the PGJ in Guanajuato State were analyzed; these files contain detailed information about suicides and the suicidal act, as well as the transcription of suicidal notes, in case they be left. They also contain declarations and testimonies from people who are close (relatives, friends, acquaintances) to the suicidal victim.
+   The data gathered included socio-demographical information, migrant condition, variables related to the Suicidal act, alcohol and drug use at the moment of the event, and the transcription of the suicidal note. The declarations and testimonies from the suicide acquaintances were kept for further studies.
+   The data-gathering lasted six months and was made by last semester students of the Faculty of Psychology.
+   Data were analyzed according to the State distribution Of the PGJ that divides it into 4 zones: Leon, Irapuato, Celaya and San Miguel de Allende. Frequency analysis were made and for some variables, chi square statistical tests.
+   Of the 747 cases of death caused by suicide registered by the PGJ in Guanajuato, during the 1995 - 2001 period, 733 were analyzed because the lacking 13 files Could not be located. From the total of cases 80.1% were men and 19.9%, women. The rank of age goes from 8 to 9 1 years. The average for men was 30 years and the mode 20 years; for women the average was 28 wars and the mode 18 years old. This shows that Suicide was committed at,an earlier age by women than by men.
+   Only 10% of the whole had no schooling; almost half of the total had completed elementary Studies and 21% had attained high school level. Besides, 30% of the people who committed suicide were employees and only 1.6% were professionals.
+   Regarding the characteristics of the suicidal act, the place more used to committ it, was the suicide's house (78%), mainly in the case of women (with significant difference) (p=.001). The suicide method used in most cases was different for both sexes: men preferred hanging (p=.001), and women poisoning (p=.001).
+   Forty one per cent of the men had ingested alcohol before committing suicide and only 7.8% of the women. In addition, alcohol use was more frequent in the group of 35 to 44 years of age, and by those who were married. The use of other drugs was present in 13% of the total (no significant differences between sexes).
+   As to the migration phenomenon, most of migrant suicides were between 20 and 34 years old. The rate of non-migrant suicides was 4:1 (4 men committed suicide for every suicidal women) and it changed in the migrant group to 3:2. This migration phenomenon is data included: returning migrants, people who were going to leave Mexico in the near future (one day or week later) and also people who had one or more close relatives living as migrant laborers in the northern countries.
+   Finally, other differences found when comparing the migrant group with the non-migrants Suicidal group are: the greater use of firearms registered as suicidal method (p=.001) and the higher percentage of psychiatric medication.
+   On the other hand, the higher frequency Of Suicides was registered in the month of May (13%), and the lower percentage in October (5.7%).
+   State regionalization, showed the higher percentage of suicides in Celaya (254 cases), and the lower corresponded to San Miguel de Allende (103 cases).
+   It may be concluded that in the State Of Guanajuato the phenomenon of suicide presents alarming peculiarities: more risked groups include children, adolescents and Young people (this sample found 42 suicidal children under 14 years old).
+   Also, considering that migration is the most important social phenomenon in Guanajuato State, we may observe that it has contributed to modify the patterns Of Suicide of some population groups. This is shown by the increasing suicidal women percentage and the most frequent use of firearms, drug and alcohol usage, and psychiatric medication; a possible explanation to this has to do with the Cultural shock of the migration process.
+   Although it is difficult to consider the suicidal phenomenon as a consequence of drug abuse and vice versa, from the current frequency of suicide cases involved with drugs, at least at the moment of death, we may observe that this circumstance increases the complexity and difficulty, of the suicide problem.
+   Finally, we may stress that obtaining information through the files of the PGJ demonstrated to be fruitful, because they have important elements to consider in the suicide research. Data as the transcription Of suicide notes, the declaration of relatives or close friends of the suicide, and the detailed description of the suicidal event, aren't registered by Other instances. Nevertheless, it is urgent to combine the efforts of the institutions related to the study of the suicidal behaviors, in order to systematize and to unify, the official statistics. This will optimize the registration forms and add some variables aimed to favor research purposes.
+C1 Univ Guanajuato, Fac Psicol, Leon, Guanjuato, Mexico.
+C3 Universidad de Guanajuato
+RP Hernández, AMC (corresponding author), Univ Guanajuato, Fac Psicol, Av Rosas 501,Jardines Jerez, Leon, Guanjuato, Mexico.
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 9
+PU INST MEX PSIQUIATRIA
+PI MEXICO CITY
+PA CALZ MEXICO-XOCHIMILCO #101, MEXICO CITY 22 DF, MEXICO
+SN 0185-3325
+J9 SALUD MENT
+JI Salud Ment.
+PD APR
+PY 2004
+VL 27
+IS 2
+BP 15
+EP 20
+PG 6
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 822CK
+UT WOS:000221511900003
+DA 2023-12-05
+ER
+
+PT J
+AU Chasdi, RJ
+AF Chasdi, Richard J.
+TI A Continuum of Nation-State Resiliency to Watershed Terrorist Events
+SO ARMED FORCES & SOCIETY
+LA English
+DT Article
+DE international security; national security; terrorism; resiliency;
+   counterterrorism
+AB This article is a qualitative analysis of nation-state population "resiliency'' to several spectacular and/or highly symbolic terrorist assaults that were watershed events. It draws heavily from qualitative comparative analysis (QCA) frameworks to isolate and identify the presence of what Goertz calls the "secondary dimensions'' of a "primary concept'' such as resiliency to terrorist assaults. In turn, the presence of those secondary dimensions and their strength presuppose and derive from "tertiary indicators'' that are the basic metrics and concrete manifestations of those secondary dimensions. The nation-states under consideration include the London bombings of 2005, the United States for 9/11, the Madrid bombings of 2004, the first suicide bombings within pre-1967 boundaries of Israel, and the Russian Federation in the case of the 2002 terrorist assault against the Dubrovka Theater in Moscow. The results serve as the basis for the development of a "resiliency continuum'' of nation-states where placement of those countries on the continuum reflect "nonresilient,'' "semiresilient,'' and "resilient'' conditions, themselves defined by the number of secondary dimensions found in each case study. In the process, the analysis illuminates possible interconnections between "context specific'' factors, such as a country's historical experience with terrorism and population characteristics (e. g., education levels, degree of heterogeneity) to the resiliency or nonresiliency condition, and describes possible links between exogenous "systems factors'' such as war and power ranking to the resiliency condition.
+C1 Wayne State Univ, Ctr Peace & Conflict Studies, Detroit, MI 48202 USA.
+C3 Wayne State University
+RP Chasdi, RJ (corresponding author), Wayne State Univ, Ctr Peace & Conflict Studies, 2320 Fac Adm Bldg, Detroit, MI 48202 USA.
+EM ad6794@wayne.edu
+NR 78
+TC 4
+Z9 4
+U1 0
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0095-327X
+EI 1556-0848
+J9 ARMED FORCES SOC
+JI Armed Forces Soc.
+PD JUL
+PY 2014
+VL 40
+IS 3
+BP 476
+EP 503
+DI 10.1177/0095327X12471332
+PG 28
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA AQ4TN
+UT WOS:000342792700005
+DA 2023-12-05
+ER
+
+PT J
+AU Semenova, NB
+AF Semenova, N. B.
+TI SUICIDAL BEHAVIOR IN NATIVE CHILDREN AND ADOLESCENTS OF SIBERIA:
+   CLINICAL RISK FACTORS
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE adolescents; children; suicide; native people; Siberia; risk factors;
+   psychic health; epidemiology
+ID MENTAL-HEALTH PROBLEMS; PSYCHIATRIC-SYMPTOMS; YOUTH; AGE;
+   PSYCHOPATHOLOGY; EPIDEMIOLOGY; IDEATION; HISTORY
+AB Suicidal mortality indices in native children and adolescents of Siberia are many times higher than average ones for Russian Federation. This demands a thorough analysis of the said social phenomenon to reveal its reasons. Aim of the research. To study the prevalence of psychic disorders in children and adolescents in native populations of Siberia, namely in the Yakuts, the Evens, the Evenks, the Altayans, the Aginsk Buryats and the Tyvins using internationally-recognized standard methods. Subjects and Methods of the Research. The authors examined children and adolescents in the ages from 7 to 15 years, schoolchildren of common schools, rural inhabitants of four national districts of RF: Sakha Republic (Yakutia), Altay Republic, Aginsk Buryatskiy District and Tyva Republic. There were two stages of the examination. On the first stage we performed screening for psychic health in 5208 children and adolescents (1662 Yakuts, Evens and Evenks, 1044 Altayans, 1797 Buryats, 705 Tyvins) implementing M.Ratter questionnaire for teachers (RTQ, B scale). The second stage included more detailed psychic evaluation for the children with RTQ scale negative results. Results. Prevalence of psychic disorders among the Yakuts, the Evens and the Evenks amounted at 16.3%, the Altayans 12.1%, the Aginsk Buryats 7.4%, the Tyvins 29.2%. In boys the disturbances have been marked 2-3 times more often than in girls. In the structure of psychic disorders, behavior disorders ranked first, second place belonged to hyperkinetic disorders and the third - emotional disorders. More than 40% of children and adolescents with psychic disorders showed combinatory forms. Conclusions. The results refer to the necessity to work out the measures of medical intervention aimed at effective assistance to the children and adolescents with the problems of psychic health.
+C1 [Semenova, N. B.] Russian Acad Sci, Fed Res Ctr, Krasnoyarsk Sci Ctr, Siberian Div,Sci Res Inst Med Problems North, Krasnoyarsk, Russia.
+C3 Russian Academy of Sciences; Krasnoyarsk Science Center of the Siberian
+   Branch of the Russian Academy of Sciences; Research Institute for
+   Medical Problems in the North, Siberian Branch, Russian Academy of
+   Sciences
+RP Semenova, NB (corresponding author), Russian Acad Sci, Fed Res Ctr, Krasnoyarsk Sci Ctr, Siberian Div,Sci Res Inst Med Problems North, Krasnoyarsk, Russia.
+EM snb237@gmail.com
+RI Semenova, Nadejda/AAG-5178-2019
+OI Semenova, Nadejda/0000-0002-6120-7860
+NR 40
+TC 1
+Z9 1
+U1 0
+U2 1
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2019
+VL 10
+IS 1
+BP 36
+EP 47
+DI 10.32878/suiciderus.19-10-01(34)-36-47
+PG 12
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA IK5QY
+UT WOS:000476640900004
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Semenova, NB
+AF Semenova, N. B.
+TI PREREQUISITES OF SUICIDAL BEHAVIOR IN CHILDREN AND ADOLESCENTS OF
+   INDIGENOUS PEOPLES OF SIBERIA: COGNITIVE RISK FACTORS (PART II)
+SO SUICIDOLOGY
+LA Russian
+DT Article
+DE ethnopsychology; adolescents; children; mental health; suicide;
+   indigenous peoples; Siberia; risk factors; neurocognitive functions
+ID DECISION-MAKING; ATTEMPTERS
+AB Introduction. Cognitive risk factors for suicidal behavior were revealed in adolescents of Siberian indigenous peoples: dysfunctional attitudes, a tendency to excessive generalization, a subjective feeling of insolubility of life's difficulties. However, the importance of cognitive factors in the formation of suicidal behavior is not limited to a distorted cognitive scheme, but covers a wider range of mental processes. Aim of the study is to study the features of cognitive processes in indigenous populations of Siberia (Yakuts, Evens, Evenks, Altai, Agin Buryats and Tuvans), in comparison with the Eastern Slays. The object of the study and research methods. The children of 9-10 years of age, the students of secondary schools living in rural areas, in the national subjects of the Russian Federation, a total number of 779 people were examined. Among them there are 180 Yakuts, 49 Evens and Evenks, 135 Altai, 154 Agin and Buryats, 98 Tuvinians, 163 Slays from the East. The mean age was 9.8 y.o. The study used non-verbal methods: 1) Classification of pictures from the Otis-Lennon School Ability Test (OLSAT); 2) subtests: The concept of sequential order, the Concept of horizontality and the Concept of verticality from the battery of pictures of tests by R. Silver; 3) test The picture of a Man in the interpretation of A.L. Wenger; 4) methods: Reproduction of digital series, Battery coding of non-verbal subtests by D. Wechsler (WAIS, subtests V and VII). Statistical processing was per- formed using IBM SPSS Statistics, Version 22. Results. The formation of intellectual functions in representatives of different populations occurs in accordance with the general laws of ontogenetic development. The interpopulation differences that were identified relate to visual skills, memory indicators, the formation of ideas about the coordinate system and speed in processing information. In Yakuts, Evens, and Evenks, visual memory is better developed (p<0.001), compared to auditory memory. Tuvinians have better developed auditory and verbal memory, spatial thinking and the concept of vertical (p<0.001). The Buryats have better developed spatial thinking and horizontal understanding (p=0.03). Altai people have lower indicators of auditory-verbal memory (p=0.001). We explain these differences by the specifics of lifestyle and the main activities formed by unique natural landscapes of habitat. The main feature of cognitive processes among indigenous peoples, in comparison with the Eastern Slays, is associated with different speed of information processing. When performing the Coding methodology, the Yakuts processed 22.3 characters; Evenks and Evens - 16.1; Altai - 26.2; Tuvans - 26.4; Agin Buryats - 28.4, which is lower compared to the Eastern Slays (30.6 characters), p<0.001. Conclusion. Representatives of the indigenous populations of Siberia, in comparison with the Eastern Slays, revealed culturally specific features of cognitive functions - a reduced processing speed of information, which we consider as a risk factor for suicidal behavior associated with the characteristics of neurocognitive functioning.
+C1 [Semenova, N. B.] Russian Acad Sci, Fed Res Ctr, Krasnoyarsk Sci Ctr, Siberian Div,Sci Res Inst Med Problems North, Krasnoyarsk, Russia.
+C3 Russian Academy of Sciences; Krasnoyarsk Science Center of the Siberian
+   Branch of the Russian Academy of Sciences; Research Institute for
+   Medical Problems in the North, Siberian Branch, Russian Academy of
+   Sciences
+RP Semenova, NB (corresponding author), Russian Acad Sci, Fed Res Ctr, Krasnoyarsk Sci Ctr, Siberian Div,Sci Res Inst Med Problems North, Krasnoyarsk, Russia.
+EM snb237@gmail.com
+RI Semenova, Nadejda/AAG-5178-2019
+OI Semenova, Nadejda/0000-0002-6120-7860
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 4
+PU TYUMEN STATE MEDICAL ACAD
+PI BELGOROD
+PA RM 1, ST PODEBY 69A, BELGOROD, 00000, RUSSIA
+SN 2224-1264
+J9 SUICIDOLOGY
+JI Suicidology
+PY 2019
+VL 10
+IS 3
+BP 19
+EP 31
+DI 10.32878/suiciderus.19-10-03(36)-19-31
+PG 13
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA JR2WU
+UT WOS:000499492500002
+OA gold
+DA 2023-12-05
+ER
+
+EF

@@ -1,0 +1,835 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Noh, JW
+   Park, H
+   Kwon, YD
+   Kim, IH
+   Lee, YH
+   Kim, YJ
+   Kim, SG
+AF Noh, Jin-Won
+   Park, Hyunchun
+   Kwon, Young Dae
+   Kim, In Hye
+   Lee, Yo Han
+   Kim, Yoon Jung
+   Kim, Sin Gon
+TI Gender Differences in Suicidal Ideation and Related Factors among North
+   Korean Refugees in South Korea
+SO PSYCHIATRY INVESTIGATION
+LA English
+DT Article
+DE North Korean refugees; Suicidal ideation; Gender differences
+ID MENTAL-HEALTH SURVEY; RISK-FACTORS; GENERAL-POPULATION; PREVALENCE;
+   BEHAVIOR; SYMPTOMS; TRAUMA; SCALE
+AB Objective According to previous social survey, a high number of North Korean refugees (NKRs) in South Korea had suicidal ideation. The purpose of this study is to examine the related factors for suicidal ideation among NKRs by gender in South Korea.
+   Methods We examined the sample of NKRs, 701 subjects (men=160, women=-541) residing in South Korea, the participants were enrolled from October 2008 to May 2014. The related factors with suicidal ideation in NKRs were analyzed via a logistic regression analysis.
+   Results Refugee women were more likely to have suicidal ideation than men were. Although thoughts of suicide do not necessarily mean that they will follow through, however, there is an association that the higher rate of suicide also results in a higher rate of attempted suicide. In both genders, they tended to think more frequently about suicide who had stayed in South Korea for more than 5 years. In addition, higher frequencies of suicidal ideation also associated with higher level of perceived stress in both genders.
+   Conclusion The gender difference should be addressed when designing suicide prevention interventions among the North Korean population in South Korea.
+C1 [Noh, Jin-Won; Park, Hyunchun; Kim, In Hye] Eulji Univ, Dept Healthcare Management, Seongnam, South Korea.
+   [Noh, Jin-Won] Eulji Univ, Inst Global Healthcare Res, Seongnam, South Korea.
+   [Kwon, Young Dae] Catholic Univ Korea, Coll Med, Dept Humanities & Social Med, Seoul, South Korea.
+   [Kwon, Young Dae] Catholic Univ Korea, Catholic Inst Healthcare Management, Seoul, South Korea.
+   [Lee, Yo Han] Seoul Bukbu Hosp, Dept Publ Healthcare Serv, Seoul, South Korea.
+   [Kim, Yoon Jung] Hallym Univ, Hangang Sacred Heart Hosp, Dept Internal Med, Div Endocrinol & Metab, Seoul, South Korea.
+   [Kim, Sin Gon] Korea Univ, Coll Med, Dept Internal Med, Div Endocrinol & Metab, 73 Inchon Ro, Seoul 02841, South Korea.
+C3 Eulji University; Eulji University; Catholic University of Korea;
+   Catholic University of Korea; Hallym University; Korea University; Korea
+   University Medicine (KU Medicine)
+RP Kim, SG (corresponding author), Korea Univ, Coll Med, Dept Internal Med, Div Endocrinol & Metab, 73 Inchon Ro, Seoul 02841, South Korea.
+EM k50367@korea.ac.kr
+RI Kwon, Young Dae/T-1591-2017; Lee, Yo Han/J-1911-2019; Lee, Yo
+   Han/IUN-3410-2023
+OI Kwon, Young Dae/0000-0002-8781-6832; Lee, Yo Han/0000-0002-9631-9969;
+   Lee, Yo Han/0000-0002-9631-9969; Park, Hyunchun/0000-0001-5449-7831;
+   Kim, Sin Gon/0000-0002-7430-3675
+FU Korean Mental Health Technology R&D Project, Ministry of Health &
+   Welfare, Republic of Korea [HM15C1054]
+FX This study was supported by a grant of the Korean Mental Health
+   Technology R&D Project, Ministry of Health & Welfare, Republic of Korea
+   (HM15C1054).
+NR 26
+TC 8
+Z9 8
+U1 0
+U2 7
+PU KOREAN NEUROPSYCHIATRIC ASSOC
+PI SEOUL
+PA RN 522, G-FIVE CENTRAL PLAZA 1685-8 SEOCHO 4-DONG, SEOCHO-GU, SEOUL,
+   137-882, SOUTH KOREA
+SN 1738-3684
+EI 1976-3026
+J9 PSYCHIAT INVEST
+JI Psychiatry Investig.
+PD NOV
+PY 2017
+VL 14
+IS 6
+BP 762
+EP 769
+DI 10.4306/pi.2017.14.6.762
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FM5TQ
+UT WOS:000415103900007
+PM 29209379
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+PT B
+AU Lebovic, JH
+AF Lebovic, James H.
+BA Lebovic, JH
+BF Lebovic, JH
+TI Deterrence in a changing world INTRODUCTION
+SO DETERRING INTERNATIONAL TERRORISM AND ROGUE STATES: US NATIONAL SECURITY
+   POLICY AFTER 9/11
+SE Contemporary Security Studies
+LA English
+DT Editorial Material; Book Chapter
+ID NATIONAL MISSILE DEFENSE; KOREAN NUCLEAR CRISIS; US FOREIGN-POLICY;
+   RATIONAL DETERRENCE; MIDDLE-EAST; NORTH-KOREA; CIVIL-WAR; LIBERAL
+   INTERNATIONALISM; EXTENDED DETERRENCE; SUICIDE TERRORISM
+C1 [Lebovic, James H.] George Washington Univ, Dept Polit Sci, Washington, DC 20052 USA.
+   [Lebovic, James H.] George Washington Univ, Elliott Sch Int Affairs, Washington, DC 20052 USA.
+C3 George Washington University; George Washington University
+RP Lebovic, JH (corresponding author), George Washington Univ, Dept Polit Sci, Washington, DC 20052 USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ROUTLEDGE
+PI ABINGDON
+PA 2 PARK SQ, MILTON PARK, ABINGDON OX14 4RN, OXFORD, ENGLAND
+BN 978-0-203-08900-2
+J9 CONTEMP SECUR STUD
+PY 2007
+BP 1
+EP +
+PG 27
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BML08
+UT WOS:000272704200001
+DA 2023-12-06
+ER
+
+PT J
+AU Ahn, JH
+   Kim, WH
+   Choi, HJ
+   Jeon, JY
+   Song, IG
+   Bae, JN
+AF Ahn, Ji-Hoon
+   Kim, Won-Hyoung
+   Choi, Hye-Jin
+   Jeon, Jin-Yong
+   Song, In-Gyu
+   Bae, Jae-Nam
+TI Stigma of Mental Illnesses as Perceived by North Korean Defectors Living
+   in South Korea
+SO PSYCHIATRY INVESTIGATION
+LA English
+DT Article
+DE Stigma; North Korean defectors; Mental illnesses
+ID RISK-FACTORS; DISORDERS; PREVALENCE; DIAGNOSES; ATTITUDES; SYMPTOMS
+AB Objective This study aims to provide the information of the stigmas of mental illness such as psychosis, alcoholism, attempt suicide, and depression among North Korean defectors.
+   Methods We examined stigma for the mental illnesses of 639 North Korean defectors aged 19 to 65 years who live in the Settlement, Support Center for North Korean Refugees. The stigmas of mental illnesses were assessed using the Perceived Devaluation-Discrimination Scale We directly compared the stigma level between North Korean defectors and the general population of South Korea.
+   Results North Korean defectors had higher perceived stigmas of psychosis and alcoholism and lower perceived stigmas of depression than South Koreans. Perceived stigma associated with attempted suicide was similar for North Korean defectors and South Koreans. Only marital status in sociodemographic variables had associations with higher perceived stigma of psychosis, alcoholism, and depression in the North Korean defectors. North Korean defectors, who spent more than one year in transit country, had associations with lower perceived stigma of psychosis and alcoholism. North Korean defectors, who had the experience of compulsory repatriation to North Korea or North Korean family in South Korea, had an association with higher perceived stigma of depression.
+   Conclusion North Korean defectors had higher perceived stigmas of psychosis and alcoholism and lower perceived stigmas of depression than South Koreans. Further studies are needed to document serial changes in stigmas for mental illnesses associated with the receipt of education at the Settlement Support Center for North Korean defectors.
+C1 [Ahn, Ji-Hoon; Kim, Won-Hyoung; Bae, Jae-Nam] Inha Univ Hosp, Dept Psychiat, Inchon, South Korea.
+   [Choi, Hye-Jin] Suwon Hosp, Gyeonggi Prov Med Ctr, Dept Psychiat, Suwon, South Korea.
+   [Jeon, Jin-Yong] Settlement Support Ctr North Korean Refugees, Dept Psychiat, Anseong, South Korea.
+   [Song, In-Gyu] Seoul Natl Univ, Grad Sch Publ Hlth, Seoul, South Korea.
+C3 Inha University; Inha University Hospital; Seoul National University
+   (SNU)
+RP Kim, WH (corresponding author), Inha Univ, Coll Med, Dept & Res Inst Psychiat, 27 Inhang Ro, Inchon 400711, South Korea.
+EM ckgodman@hanmail.net
+OI Bae, Jae Nam/0000-0002-5024-6231
+NR 30
+TC 11
+Z9 12
+U1 2
+U2 19
+PU KOREAN NEUROPSYCHIATRIC ASSOC
+PI SEOUL
+PA RN 522, G-FIVE CENTRAL PLAZA 1685-8 SEOCHO 4-DONG, SEOCHO-GU, SEOUL,
+   137-882, SOUTH KOREA
+SN 1738-3684
+EI 1976-3026
+J9 PSYCHIAT INVEST
+JI Psychiatry Investig.
+PD JAN
+PY 2015
+VL 12
+IS 1
+BP 9
+EP 15
+DI 10.4306/pi.2015.12.1.9
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AZ5KA
+UT WOS:000348258800002
+PM 25670940
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU David-West, A
+AF David-West, Alzo
+TI North Korean Newsbriefs
+SO NORTH KOREAN REVIEW
+LA English
+DT Article
+AB This section contains an overview of major North Korea-related developments between April and October 2010. Newsbriefs include information such as the sentencing of American border crosser Aijalon Mahli Gomes and the international investigation of the Cheonan sinking (April); South Korean charges against North Korea in the Cheonan incident and doubts about investigation findings (May); appeals to the UN Security Council by both Koreas and the promotion of Kim Song-taek as vice-chair of the North Korean National Defense Commission (June); the alleged suicide attempt of Gomes and UN Security Council condemnation of the Cheonan sinking (July); damage of North Korean crops from heavy rain and Jimmy Carter's visit to release Gomes (August); the Third Delegates' Conference in Pyongyang and the first official photo of heir apparent Kim Jong-un (September); and the death of defected party secretary Hwang Jang-yop and the first official shipment of food aid from South Korea to North Korea (October). North Korean Review consulted online news media for information in this section.
+C1 Aichi Prefectural Univ, Aichi 4801198, Japan.
+RP David-West, A (corresponding author), Aichi Prefectural Univ, Aichi 4801198, Japan.
+EM adavidwest@yahoo.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MCFARLAND & COMPANY, INC, PUBLISHERS
+PI JEFFERSON
+PA BOX 611, JEFFERSON, NC 28640 USA
+SN 1551-2789
+J9 N KOREAN REV
+JI North Korean Rev.
+PD SPR
+PY 2011
+VL 7
+IS 1
+BP 94
+EP 104
+DI 10.3172/NKR.7.1.94
+PG 11
+WC Area Studies; International Relations
+WE Social Science Citation Index (SSCI)
+SC Area Studies; International Relations
+GA 750YL
+UT WOS:000289584100009
+DA 2023-12-06
+ER
+
+PT J
+AU Joo, Y
+AF Joo, Y.
+TI Spatiotemporal study of elderly suicide in Korea by age cohort
+SO PUBLIC HEALTH
+LA English
+DT Article
+DE Elderly suicide; Spatiotemporal pattern; Spatial diffusion
+ID SPATIAL DIFFUSION; PANEL-DATA; CLUSTERS; ASSOCIATION; POPULATION;
+   PREDICTORS; HOMICIDE; HEALTH; SPREAD; GROWTH
+AB Objectives: This study analyzed the spatiotemporal pattern and spatial diffusion of elderly suicide by age cohort, in Korea. Study design: The research investigated the elderly suicide rates of the 232 municipal units in South Korea between 2001 and 2011.
+   Methods: The Gi* score, which is a spatially weighted indicator of area attributes, was used to identify hot spots and the spatiotemporal pattern of elderly suicide in the nation during the last 10 years. The spatial Markov matrix and spatial dynamic panel data model were employed to identify and estimate the diffusion effect.
+   Results: The suicide rate among elderly individuals 75 years and older was substantially higher than the rate for those between 65 and 74 years of age; however, the spatial patterns of the suicide clusters were similar between the two groups. From 2001 to 2011, the spatial distribution of elderly suicide hot spots differed each year. For both age cohorts, elderly suicide hot spots developed around the north area of South Korea in 2001 and moved to the mid-east area and the mid-western coastal area over 10 years. The spatial Markov matrix indicates that the change in the suicide rate of one area was affected by the suicide rates of neighbouring areas from the previous year, which suggests that suicide increase in one area inflates a neighbouring area's suicide rate over time. Using a spatial dynamic panel data model, elderly suicide diffusion effects were found to be statistically significant for both age cohorts even after economic and demographic indicators and a time variable are included. For individuals 75 years and older, the diffusion effect appeared to be larger.
+   Conclusions: This study demonstrates that elderly suicide can spread spatially over time in both age cohorts. Thus, it is necessary to design a place-based and age-differentiated intervention policy that precisely considers the spatial diffusion of elderly suicide. (C) 2016 The Royal Society for Public Health. Published by Elsevier Ltd. All rights reserved.
+C1 [Joo, Y.] Seoul Natl Univ, Environm Planning Inst, Environm Planning Dept, 220,1 Gwanak Ro, Seoul 151742, South Korea.
+C3 Seoul National University (SNU)
+RP Joo, Y (corresponding author), Seoul Natl Univ, Environm Planning Inst, Environm Planning Dept, 220,1 Gwanak Ro, Seoul 151742, South Korea.
+EM yooju@yahoo.com
+NR 45
+TC 10
+Z9 11
+U1 0
+U2 11
+PU W B SAUNDERS CO LTD
+PI LONDON
+PA 32 JAMESTOWN RD, LONDON NW1 7BY, ENGLAND
+SN 0033-3506
+EI 1476-5616
+J9 PUBLIC HEALTH
+JI Public Health
+PD JAN
+PY 2017
+VL 142
+BP 144
+EP 151
+DI 10.1016/j.puhe.2016.07.016
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EG8OV
+UT WOS:000391317500022
+PM 27613224
+DA 2023-12-06
+ER
+
+PT J
+AU Park, YS
+   Park, SM
+   Jun, JY
+   Kim, SJ
+AF Park, Young Su
+   Park, Sang Min
+   Jun, Jin Yong
+   Kim, Seog Ju
+TI Psychiatry in Former Socialist Countries: Implications for North Korean
+   Psychiatry
+SO PSYCHIATRY INVESTIGATION
+LA English
+DT Review
+DE Psychiatry; Socialism; North Korea
+ID POST-MAO CHINA; MENTAL-HEALTH; SOVIET-UNION; SOUTH-KOREA; POLITICAL
+   PSYCHIATRY; EASTERN-EUROPE; EPIDEMIOLOGY; REFUGEES; DEPRESSION; SUICIDE
+AB Very little information is available regarding psychiatry in North Korea, which is based on the legacy of Soviet psychiatry. This paper reviews the characteristits of psychiatry in former socialist countries and discusses its implications for North Korean psychiatry Under socialism, psychiatric disorders were attributed primarily to neurophysiologic or neurobiological origins. Psychosocial or psychodynainic etiology was denied or distorted in line with the political ideology of the Communist Party Psychiatry was primarily conterned with psychotic disorders, and this diagnostic category was sometimes applied based on political considerations. Neurotic disorders were ignored by psychiatry or were regarded as the remnants of capitalism. Several neurotic disorders characterized by high levels of somatization were considered to be neurological or physical in nature. The majority of "mental patients" were institutionalized for a long periods in large-scale psychiatric hospitals. Treatment of psychiatric disorders depended largely on a few influenced by the
+C1 [Park, Young Su] Stanford Univ, Dept Anthropol, Stanford, CA 94305 USA.
+   [Park, Sang Min; Kim, Seog Ju] Seoul Natl Univ, Coll Med, Ctr Med & Korean Reunificat, Seoul 110799, South Korea.
+   [Park, Sang Min] Seoul Natl Univ, Seoul Natl Univ Hosp, Coll Med, Dept Family Med, Seoul 110799, South Korea.
+   [Jun, Jin Yong] Minist Unificat, Settlement Support Ctr North Korean Refugee, Dept Psychiat, Anseong, South Korea.
+   [Kim, Seog Ju] Seoul Natl Univ Hosp, Dept Psychiat, Seoul 110744, South Korea.
+C3 Stanford University; Seoul National University (SNU); Seoul National
+   University (SNU); Seoul National University Hospital; Seoul National
+   University (SNU); Seoul National University Hospital
+RP Kim, SJ (corresponding author), Seoul Natl Univ, Seoul Natl Univ Hosp, Coll Med, Ctr Med & Korean Reunificat,Dept Psychiat, 101 Daehak Ro, Seoul 110799, South Korea.
+EM psychical@hanmail.net
+RI Park, Sang Min/V-9194-2019
+FU National Research Foundation of Korea (NRF)-Korea government (MEST)
+   [2013R1A1A2A10007021]; Institute for Peace and Unification Studies,
+   Seoul National University; National Research Foundation of Korea
+   [2013R1A1A2A10007021] Funding Source: Korea Institute of Science &
+   Technology Information (KISTI), National Science & Technology
+   Information Service (NTIS)
+FX This work was supported by the National Research Foundation of Korea
+   (NRF) grant funded by the Korea government (MEST) (2013R1A1A2A10007021)
+   and the fund from the Institute for Peace and Unification Studies, Seoul
+   National University (2012).
+NR 50
+TC 10
+Z9 10
+U1 0
+U2 15
+PU KOREAN NEUROPSYCHIATRIC ASSOC
+PI SEOUL
+PA RN 522, G-FIVE CENTRAL PLAZA 1685-8 SEOCHO 4-DONG, SEOCHO-GU, SEOUL,
+   137-882, SOUTH KOREA
+SN 1738-3684
+EI 1976-3026
+J9 PSYCHIAT INVEST
+JI Psychiatry Investig.
+PD OCT
+PY 2014
+VL 11
+IS 4
+BP 363
+EP 370
+DI 10.4306/pi.2014.11.4.363
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AS5KD
+UT WOS:000344309000002
+PM 25395966
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Hong, JH
+   Knapp, M
+AF Hong, Jihyung
+   Knapp, Martin
+TI Geographical Inequalities in Suicide Rates and Area Deprivation in South
+   Korea
+SO JOURNAL OF MENTAL HEALTH POLICY AND ECONOMICS
+LA English
+DT Article
+ID MENTAL-HEALTH; MULTILEVEL ANALYSIS; NEIGHBORHOOD; INCOME; PREVALENCE;
+   DISORDERS; MORTALITY; WALES; ASSOCIATION; DEPRESSION
+AB Background: Recent years have witnessed growing interest in determinants of suicide in South Korea. While much of the research has paid attention to the role of individual factors in explaining suicide mortality, another potentially important dimension of health inequality is geography.
+   Aims of the Study: To describe the geographical distribution of suicide rates in South Korea, and to examine to what extent the distribution is shaped by area deprivation.
+   Methods: Using 2004-2006 mortality data and 2005 population census data, the study first described the spatial mapping of age-standardised suicide rates and level of area deprivation across 250 districts in South Korea. A spatial lag model was also employed to examine the association between the two, taking into account the spatial dependence and interactions between neighbouring districts, as indicated by Moran's I and Geary' C statistics. In addition to level of area deprivation, population density, welfare spending, and rates of divorce, marriage and fertility at district-level were added to the model.
+   Results: The spatial mapping of suicide rates across 250 districts exhibited a different pattern between males and females. While the highest suicide rates tended to cluster in the north-east region of South Korea for males', no clear pattern was observed for females. On the other hand, the lowest suicide rates for both males and females were found in most districts of the capital city. The results of the spatial lag model revealed a significant association between suicide rates and area deprivation, particularly for male suicide. Compared to the least deprived area, there were about 12-13 more male suicide cases (per 100,000 males) in highly deprived areas. The association with area deprivation was less clear for females. Population density was negatively associated with suicide rates for both males and females. While suicide rates were in general positively associated with divorce rates and negatively associated with fertility rates, the coefficients of both were not significant in the model for females.
+   Discussion and Limitations: The study highlighted substantial geographical variation in suicide rates across South Korea. Such variation can be largely explained by level of area deprivation, especially for males. The level of excess suicides (i.e. 12-13 per 100,000 males) in highly deprived areas was similar to the average suicide rates of OECD countries. Due to the paucity of individual-level data however, the study was unable to test whether or not these associations were independent of population composition.
+   Implications for Health Policies: Prioritising development in relatively more deprived areas would potentially minimise resource barriers. Since such area-based approaches focus on a body with clear responsibility (i.e. local authority) and a greater relevance for local residents, programmes and services can be more effectively tailored to local needs and also more effectively delivered to local residents.
+   Implications for Further Research: Alternative sources of data with individual-level data should be explored to strengthen the basis of the present findings, and also to examine the exact mechanism underlying the associations between suicide rates and area deprivation.
+C1 [Hong, Jihyung; Knapp, Martin] London Sch Econ, London WC2A 2AE, England.
+   [Knapp, Martin] Kings Coll London, Inst Psychiat, London, England.
+C3 University of London; London School Economics & Political Science;
+   University of London; King's College London
+RP Hong, JH (corresponding author), LSE Hlth & Social Care, Houghton St, London WC2A 2AE, England.
+EM jihyung.hong.kr@gmail.com
+RI Knapp, Martin RJ/G-3011-2011
+OI Knapp, Martin/0000-0003-1427-0215
+NR 62
+TC 18
+Z9 20
+U1 0
+U2 14
+PU INT CTR MENTAL HEALTH POLICY & ECONOMICS-ICMPE
+PI MILANO
+PA VIA DANIELE CRESPI 7, MILANO, 20123, ITALY
+SN 1091-4358
+EI 1099-176X
+J9 J MENT HEALTH POLICY
+JI J. Ment. Health Policy Econ.
+PD SEP
+PY 2013
+VL 16
+IS 3
+BP 109
+EP 119
+PG 11
+WC Health Policy & Services; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Psychiatry
+GA 217LY
+UT WOS:000324362200003
+PM 24327481
+DA 2023-12-06
+ER
+
+PT J
+AU Kim, JY
+   Kim, HJ
+   Choi, K
+   Nam, B
+AF Kim, Jae Yop
+   Kim, Hee Jin
+   Choi, Kwonho
+   Nam, Boyoung
+TI Mental Health Conditions Among North Korean Female Refugee Victims of
+   Sexual Violence
+SO INTERNATIONAL MIGRATION
+LA English
+DT Article
+ID POSTTRAUMATIC-STRESS-DISORDER; ASYLUM-SEEKERS; SUBSTANCE USE;
+   TRAFFICKING; DEPRESSION; SUICIDE; WOMEN; DRINKING; IDEATION; LESSONS
+AB The study aims to examine the negative effects of sexual violence on North Korean (NK) female refugees in South Korea. Although the prevalence of sexual violence victimization is extremely high and mental health problems are serious among these refugees, little to no research has been done on the relationship between sexual violence and mental health among these women. The mental health conditions of two groups of women (sexual violence victims and those who have not experienced sexual violence) were compared using ANCOVA analyses. The results show that suicidal ideation and alcohol use are significantly more prevalent in the sexual violence group than in the non-sexual violence group. The women who had experienced sexual violence in particular should be provided with more professional and sustained treatment and management services. The government must improve the effectiveness of existing policies related to suicide and the drinking culture in South Korea.
+C1 [Kim, Jae Yop] Yonsei Univ, Seoul, South Korea.
+   [Kim, Hee Jin] Myongji Univ, Seoul, South Korea.
+   [Choi, Kwonho] Woosong Univ, Daejeon, South Korea.
+   [Nam, Boyoung] Univ Maryland, College Pk, MD 20742 USA.
+C3 Yonsei University; Myongji University; Woosong University; University
+   System of Maryland; University of Maryland College Park
+RP Kim, JY (corresponding author), Yonsei Univ, Seoul, South Korea.
+NR 47
+TC 14
+Z9 14
+U1 1
+U2 22
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-7985
+EI 1468-2435
+J9 INT MIGR
+JI Int. Migr.
+PD APR
+PY 2017
+VL 55
+IS 2
+BP 68
+EP 79
+DI 10.1111/imig.12300
+PG 12
+WC Demography
+WE Social Science Citation Index (SSCI)
+SC Demography
+GA EQ3LH
+UT WOS:000397973300007
+DA 2023-12-06
+ER
+
+PT J
+AU An, JH
+   Lee, KE
+   Lee, HC
+   Kim, HS
+   Jun, JY
+   Chang, HI
+   Kim, SS
+   Lee-Tauler, SY
+   Hong, JP
+AF An, Ji Hyun
+   Lee, Kyoung Eun
+   Lee, Hyo Chul
+   Kim, Hae Soo
+   Jun, Jin Yong
+   Chang, Hye In
+   Kim, Suk Sun
+   Lee-Tauler, Su Yeon
+   Hong, Jin Pyo
+TI Prevalence and Correlates of Suicidal Thoughts and Behaviors among North
+   Korean Defectors
+SO PSYCHIATRY INVESTIGATION
+LA English
+DT Article
+DE North Korean defectors; Social connectedness; Suicide; Mental health
+ID MENTAL-HEALTH; ANXIETY DISORDERS; PSYCHIATRIC-SYMPTOMS; ASYLUM SEEKERS;
+   RISK-FACTORS; REFUGEES; IDEATION; VICTIMIZATION; COMMUNITY; MILITARY
+AB Objective Despite the increasing number of North Korean defectors, research on their mental health conditions and suicidal thoughts and behaviors has not been conducted systematically. We examined the prevalence and risk factors of suicidal thoughts and behaviors in North Korean defectors.
+   Methods This study focused on 300 North Korean defectors recruited from regional resettlement centers in South Korea, In-person interviews based on the North Korean version of the Composite International Diagnostic Interview were conducted to diagnose mental disorders and assess suicidal thoughts and behaviors. Logistic regression analyses were performed to evaluate the association between suicidal thoughts and behaviors and socio-demographic variables, and DSM-IV mental disorders.
+   Results Lifetime prevalence of suicidal ideation, plans, and attempts were 28,3,13,3, and 17,3%, respectively. Female sex (OR; 2,0,95% Cl; l.0-3.9), presence of health problems in the past year (2.6, 95% Cl: 1.4-4.6), and absence of both South Korean acquaintances (1,9, 95% Cl: 1.0-3.4) and North Korean family (1.7, 95% Cl: 1.0-2.9) were associated with higher odds of suicidal thoughts and behaviors, after adjusting for participant age, sex, and education. Presence of a mental disorder was associated with a significantly increased odd of suicide ideation, plan, and attempt. Of all mental disorder categories, agoraphobia had the strongest association with suicidal ideation (6.5,95% CI: 2.0-21.6), plans (7.7, 95% CI: 2.5-23.2) and attempts (12.0,95% Cl: 3.5-40.8),
+   Conclusion Suicidal thoughts and behaviors among North Korean defectors are higher than the general population in South Korea, especially show high rates in transit countries. Further study should focus on the changes in suicidal thoughts and behaviors according to the settlement process and early prevention.
+C1 [An, Ji Hyun; Lee, Kyoung Eun; Lee, Hyo Chul; Kim, Hae Soo; Hong, Jin Pyo] Sungkyunkwan Univ, Sch Med, Samsung Med Ctr, Dept Psychiat, 81 Irwon Ro, Seoul 06351, South Korea.
+   [Jun, Jin Yong] Seoul Natl Hosp, Dept Psychiat, Seoul, South Korea.
+   [Chang, Hye In] Sungkyunkwan Univ, Dept Psychol, Seoul, South Korea.
+   [Kim, Suk Sun] Ewha Womans Univ, Coll Nursing, Seoul, South Korea.
+   [Lee-Tauler, Su Yeon] Johns Hopkins Univ, Dept Mental Hlth, Baltimore, MD USA.
+C3 Sungkyunkwan University (SKKU); Samsung Medical Center; Sungkyunkwan
+   University (SKKU); Ewha Womans University; Johns Hopkins University
+RP Hong, JP (corresponding author), Sungkyunkwan Univ, Sch Med, Samsung Med Ctr, Dept Psychiat, 81 Irwon Ro, Seoul 06351, South Korea.
+EM suhurhong@gmail.com
+RI Lee-Tauler, Su Yeon/ABI-5516-2020
+OI Lee-Tauler, Su Yeon/0000-0003-0931-2265; Kim,
+   Suk-Sun/0000-0002-8057-3655
+FU Korea Healthcare Technology R&D project, Ministry of Health and Welfare,
+   Republic of Korea [HM15C1072]
+FX This work was supported by the Korea Healthcare Technology R&D project,
+   Ministry of Health and Welfare, Republic of Korea (HM15C1072).
+NR 35
+TC 17
+Z9 17
+U1 0
+U2 8
+PU KOREAN NEUROPSYCHIATRIC ASSOC
+PI SEOUL
+PA RN 522, G-FIVE CENTRAL PLAZA 1685-8 SEOCHO 4-DONG, SEOCHO-GU, SEOUL,
+   137-882, SOUTH KOREA
+SN 1738-3684
+EI 1976-3026
+J9 PSYCHIAT INVEST
+JI Psychiatry Investig.
+PD MAY
+PY 2018
+VL 15
+IS 5
+BP 445
+EP 451
+DI 10.30773/pi.2017.11.08.3
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GF9QB
+UT WOS:000432312100003
+PM 30504749
+OA Green Submitted, Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Oh, W
+AF Oh, Whachul
+TI Transforming Han: A Correlational Method for Psychology and Religion
+SO JOURNAL OF RELIGION & HEALTH
+LA English
+DT Article
+DE Han; Method of correlation; Self-psychology; Hermeneutical circle
+   psychology and theology; Subjectivity; Minjung theology
+AB Han is a destructive feeling in Korea. Although Korea accomplished significant exterior growth, Korean society is still experiencing the dark aspects of transforming han as evidenced by having the highest suicide rate in Asia. Some reasons for this may be the fragmentation between North and South Korea. If we can transform han then it can become constructive. I was challenged to think of possibilities for transforming han internally; this brings me to the correlational method through psychological and religious interpretation. This study is to challenge and encourage many han-ridden people in Korean society. Through the psychological and religious understanding of han, people suffering can positively transform their han. They can relate to han more subjectively, and this means the han-ridden psyche has an innate sacredness of potential to transform.
+C1 [Oh, Whachul] Yonsei Univ, Dept Theol, Seoul 120749, South Korea.
+   [Oh, Whachul] Myongji Univ, Seoul, South Korea.
+C3 Yonsei University; Myongji University
+RP Oh, W (corresponding author), Yonsei Univ, Dept Theol, Seoul 120749, South Korea.
+EM whachul@yonsei.ac.kr
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0022-4197
+EI 1573-6571
+J9 J RELIG HEALTH
+JI J. Relig. Health
+PD JUN
+PY 2015
+VL 54
+IS 3
+BP 1099
+EP 1109
+DI 10.1007/s10943-014-9944-x
+PG 11
+WC Public, Environmental & Occupational Health; Religion
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Public, Environmental & Occupational Health; Religion
+GA CH2UA
+UT WOS:000353879000023
+PM 25252804
+DA 2023-12-06
+ER
+
+PT J
+AU Park, S
+   Rim, SJ
+   Jun, JY
+AF Park, Subin
+   Rim, Soo Jung
+   Jun, Jin Yong
+TI Related Factors of Suicidal Ideation among North Korean Refugee Youth in
+   South Korea
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE refugee; adolescent; risk factor; protective factor
+ID TORONTO-ALEXITHYMIA-SCALE; INCOME COUNTRIES RISK; MENTAL-HEALTH; EVENT
+   SCALE; RESILIENCE; DEPRESSION; CHILDREN; ASSOCIATION; DEFECTORS; ANXIETY
+AB This study investigated the factors associated with suicidal ideation among 174 North Korean refugees (aged 13-27 years) residing in South Korea. Specifically, we compared sociodemographic, familial, social, and psychological characteristics between participants with and without suicidal ideation. Twenty-nine refugees (16.7%) had exhibited suicidal ideation in the past 12 months. These refugees had significantly lower levels of familial cohesion (U = 1459.0; p < 0.001), self-esteem (U = 1032.0; p < 0.001), and resilience (U = 1190.0; p < 0.001), as well as higher levels of expressional suppression (U = 1202.5; p < 0.001) and post-traumatic stress disorder symptoms (U = 1303.0; p = 0.001), (with Cohen's d > 0.5), compared to those without suicidal ideation. A multiple logistic regression analysis showed that the level of emotional suppression and familial cohesion were significantly associated with suicidal ideation, after controlling for the other variables. Familial and individual interventions, particularly those focused on encouraging emotional expression and familial cohesion, will be useful for North Korean refugee youth, who have a high risk of suicide.
+C1 [Park, Subin; Rim, Soo Jung] Natl Ctr Mental Hlth, Mental Hlth Res Inst, Dept Res Planning, Seoul 04933, South Korea.
+   [Jun, Jin Yong] Natl Ctr Mental Hlth, Dept Psychiat, Seoul 04933, South Korea.
+RP Jun, JY (corresponding author), Natl Ctr Mental Hlth, Dept Psychiat, Seoul 04933, South Korea.
+EM subin-21@hanmail.net; soojung0411@gmail.com; jjy826@naver.com
+OI Rim, Soo Jung/0000-0003-4938-4116; Park, Subin/0000-0002-4623-9899
+FU National Research Foundation of Korea (NRF) - Korean Government
+   [NRF-2016R1D1A1B03931290]
+FX This work was supported by a National Research Foundation of Korea (NRF)
+   grant funded by the Korean Government (NRF-2016R1D1A1B03931290).
+NR 40
+TC 10
+Z9 11
+U1 0
+U2 13
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD AUG
+PY 2018
+VL 15
+IS 8
+AR 1694
+DI 10.3390/ijerph15081694
+PG 8
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA GS0GQ
+UT WOS:000443168200134
+PM 30096867
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Hlásny, V
+   Jung, BJ
+AF Hlasny, Vladimir
+   Jung, Byung Joon
+TI Wellington Chung: <i>Child of the Korean Independence Movement Crushed
+   by Cold War Regimes</i>
+SO KOREA JOURNAL
+LA English
+DT Article
+DE Wellington Chung; Alice Hyun; Korean American; Korean Independence
+   Movement; Cold War; Czechoslovakia; Karlovy Vary
+AB Wellington Chung (1927-1963) was a Korean American doctor born and raised in Hawaii, striving all his life to move to Korea, and dying in despair in Czechoslovakia. Chung received medical education at Charles University and practiced pathology in Czechoslovakia for eight years. Chung's life, however, ended tragically when he committed suicide. This study recounts the untold life story of Chung as well as his Korean American family. Reverend Hyun Soon, Chung's grandfather, was a nationalist movement leader. Alice Hyun, Chung's mother, was labeled Korean Mata Hari. This study argues that Chung was a son of the Korean independence movement who perished amidst the Cold War. The lives of his mother, grandfather, and uncles influenced Chung's life path. He joined political organizations, wrote essays, and organized fundraisers in support of North Korea, and wanted to return there after becoming a doctor. However, his mother was executed in North Korea around 1956 as an alleged U.S. intelligence spy. His uncles were summoned to the U.S. House Un-American Activities Committee hearings and harassed with the threat of deportation. Chung himself lost his American citizenship. He had nowhere to return. He was trapped in rural Czechoslovakia by the witch hunt of the Cold War regimes.
+C1 [Hlasny, Vladimir] Ewha Womans Univ, Dept Econ, Seoul, South Korea.
+   [Jung, Byung Joon] Ewha Womans Univ, Dept Hist, Seoul, South Korea.
+C3 Ewha Womans University; Ewha Womans University
+RP Hlásny, V (corresponding author), Ewha Womans Univ, Dept Econ, Seoul, South Korea.
+EM vhlasny@ewha.ac.kr; bjjung@ewha.ac.kr
+RI Hlasny, Vladimir/AAI-9716-2020
+OI Hlasny, Vladimir/0000-0002-6029-1634
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 1
+PU KOREAN NATL COMMISSION UNESCO
+PI SEOUL
+PA C P O BOX 64, SEOUL 100-600, SOUTH KOREA
+SN 0023-3900
+J9 KOREA J
+JI Korea J.
+PD WIN
+PY 2014
+VL 54
+IS 4
+BP 106
+EP 146
+PG 41
+WC Asian Studies
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Asian Studies
+GA AX8DU
+UT WOS:000347141400005
+DA 2023-12-06
+ER
+
+PT J
+AU Jang, J
+   Park, EC
+   Lee, SA
+   Choi, Y
+   Choy, YS
+   Kim, W
+   Jang, SI
+AF Jang, Jieun
+   Park, Eun-Cheol
+   Lee, Sang Ah
+   Choi, Young
+   Choy, Yoon Soo
+   Kim, Woorim
+   Jang, Sung-In
+TI Association between Parents' Country of Birth and Adolescent Depressive
+   Symptoms: the Early Stages of Multicultural Society
+SO JOURNAL OF KOREAN MEDICAL SCIENCE
+LA English
+DT Article
+DE Multicultural; Depression; Adolescent; Parents' Birth of Country;
+   Migration
+ID MENTAL-HEALTH; IMMIGRATION; MIGRATION; SUICIDE
+AB Background: This study aims to determine whether significant associations exist between the parents' country of birth and adolescent depressive symptoms in the early stages of a multicultural society.
+   Methods: We used data from the 2012-2016 Korea Youth Risk Behavior Web-based Survey, which included responses from 327,357 individuals. Participants were classified into groups according to their parent's country of birth. Logistic regression analysis was used to examine the significance of the associations.
+   Results: Adolescents whose parents were born abroad are more likely to have depressive symptoms (odds ratio [OR] = 1.68; 95% confidence interval [CI], 1.33-2.12) than adolescents whose parents were native Koreans. Respondents whose father was born in North Korea or Japan or Taiwan show greater odds of depressive symptoms than respondents whose parents were native Korean.
+   Conclusion: Adolescents whose parents were born abroad are more likely to have depressive symptoms. Multicultural family support policies should be implemented in consideration of the characteristics of the parents' country of birth.
+C1 [Jang, Jieun; Lee, Sang Ah; Choi, Young; Choy, Yoon Soo; Kim, Woorim] Yonsei Univ, Grad Sch, Dept Publ Hlth, Seoul, South Korea.
+   [Jang, Jieun; Park, Eun-Cheol; Lee, Sang Ah; Choi, Young; Choy, Yoon Soo; Kim, Woorim; Jang, Sung-In] Yonsei Univ, Inst Hlth Serv Res, Seoul, South Korea.
+   [Park, Eun-Cheol; Jang, Sung-In] Yonsei Univ, Coll Med, Dept Prevent Med, 50 Yonsei Ro, Seoul 03722, South Korea.
+C3 Yonsei University; Yonsei University; Yonsei University; Yonsei
+   University Health System
+RP Jang, SI (corresponding author), Yonsei Univ, Coll Med, Dept Prevent Med, 50 Yonsei Ro, Seoul 03722, South Korea.; Jang, SI (corresponding author), Yonsei Univ, Coll Med, Inst Hlth Serv Res, 50 Yonsei Ro, Seoul 03722, South Korea.
+EM JANGSI@yuhs.ac
+RI Park, Eun-Cheol/O-5644-2019
+OI Park, Eun-Cheol/0000-0002-2306-5398; Lee, Sang Ah/0000-0001-5415-0141;
+   Choi, Young/0000-0002-8314-6130; Kim, Woorim/0000-0002-1199-6822; Jang,
+   Jieun/0000-0003-1797-8649; Jang, Sung-in/0000-0002-0760-2878
+NR 36
+TC 3
+Z9 3
+U1 0
+U2 4
+PU KOREAN ACAD MEDICAL SCIENCES
+PI SEOUL
+PA 302 75 DONG DU ICHON, DONG YONGSAN KU, SEOUL 140 031, SOUTH KOREA
+SN 1011-8934
+EI 1598-6357
+J9 J KOREAN MED SCI
+JI J. Korean Med. Sci.
+PD APR 9
+PY 2018
+VL 33
+IS 15
+AR e116
+DI 10.3346/jkms.2018.33.e116
+PG 12
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA GG1PR
+UT WOS:000432459500004
+PM 29629519
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Ahmadpanah, M
+   Rahighi, AH
+   Haghighi, M
+AF Ahmadpanah, Mohammad
+   Rahighi, Amir Hosein
+   Haghighi, Mohammad
+TI Female Gender, Marital and Family Problems, and Feelings of Guilt Are
+   Related to Self-Immolation Suicide Attempts
+SO NEUROPSYCHOBIOLOGY
+LA English
+DT Article
+DE Suicide; Self-immolation; Predictors; Gender; Shame; Guilt
+ID MENTAL-DISORDERS; ECONOMIC-CRISIS; UNITED-STATES; SOUTH-KOREA; RATES;
+   RISK; IDEATION; EPIDEMIOLOGY; TRENDS; IMPACT
+AB Background: Self-immolation (SI) is considered one of the most painful, dramatic, and at the same time most inexplicable methods of suicide, with a high social impact. Prevalence rates are particularly high in Iran, and in north-western Iran specifically. Here, we report sociodemographic, psychological, and psychiatric characteristics of patients attempting self-immolation (PSIs), compared to patients with accident burns (PABs). Method: Patients referred to the Burns Emergency Unit of the Besat Hospital (Hamadan, Iran) were enrolled in the present study between winter 2015 and summer 2016. After burn-related treatments and surgery, a thorough interview was undertaken covering sociodemographic characteristics, burn-related information, and psychiatric background. Results: A total of 79 patients were enrolled. Among these, 19 (31.7%) had attempted suicide via SI. Compared to the PABs, the PS's were predominantly females; they reported family and marital problems as the main triggers for SI. The psychiatric interviews indi- cated that PSIS often suffered from major depressive disorders, adjustment disorders, and bipolar disorders. The prevailing feelings reported were guilt and shame. A binary logistic regression showed that feelings of guilt and marital and family problems predicted SI. Conclusions: The prevalence of SI was surprisingly high. Marital and family conflicts as a proxy for highly distressing social interactions, along with female gender and feelings of guilt and shame were strongly associated with SI. Family and couple counseling specifically tailored to difficulties experienced by women might reduce the risk of SI. (C) 2018 S. Karger AG, Basel
+C1 [Ahmadpanah, Mohammad; Rahighi, Amir Hosein; Haghighi, Mohammad] Hamadan Univ Medial Sci, Behav Disorders & Subst Abuse Res Ctr, Hamadan, Iran.
+RP Ahmadpanah, M (corresponding author), Hamadan Univ Medial Sci, Behav Disorders & Subst Abuse Res Ctr, Farshcian Psychiat Hosp, Honarestan St,Pastor Crossrd, Hamadan, Iran.
+EM m1ahmad2000@gmail.com
+RI Ahmadpanah, Mohammad/U-6860-2017; Haghighi, Mohammad/GNH-4892-2022;
+   farjad, farshad/AGC-9105-2022
+OI Ahmadpanah, Mohammad/0000-0003-2908-2460; 
+NR 42
+TC 10
+Z9 10
+U1 0
+U2 44
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0302-282X
+EI 1423-0224
+J9 NEUROPSYCHOBIOLOGY
+JI Neuropsychobiology
+PY 2018
+VL 76
+IS 1
+BP 51
+EP 58
+DI 10.1159/000487859
+PG 8
+WC Neurosciences; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry; Psychology
+GA GJ5HP
+UT WOS:000435412400091
+PM 29649810
+DA 2023-12-06
+ER
+
+PT S
+AU Sung-kil, M
+   In-sok, Y
+AF Sung-kil, Min
+   In-sok, Yeo
+BE Minas, H
+   Lewis, M
+TI Mental Health in Korea: Past and Present
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+AB In pre-modern Korean society, mental illnesses were treated according to the concepts of Shamanism and Asian traditional medicine. H.N. Allen (1858-1932), the first missionary doctor, from USA, described mental illnesses including hysteria and delirium tremens. Western medicine brought a new way of perceiving physical and mental illnesses. From 1910 to 1945, the policy of the Japanese colonial government was to isolate patients in mental hospitals as they were considered to be harmful to society. This promoted stigma. The Government Hospital opened a special ward for mental patients in 1911. In contrast, the Australian medical missionary, Charles I. McLaren, believed in humane treatment in missionary hospitals including Severance Hospital. After the Korean War (1950-1953), psychiatry came under American influences. For the last several decades, the country has undergone a rapid and intense industrialization and democratization. Clinical and community services, as well as research and education in psychiatry, have been developed. In this brief period, the traditional agrarian, family-oriented, and collective social system has been transformed into a capitalistic, egalitarian, individualistic, high technological, and competitive one. An achievement-oriented lifestyle involving hard work, merciless competition, unstable employment and an uncertain future has created stress in many Koreans. Compounding this stress is the disintegration of the traditional, family support system. The consequence has been an exacerbation of Haan (suppressed anger and feelings of unfairness) related to a sense of historical suffering from colonialism and war, and the stress of rapid social change underlies various culture-specific mental problems. The burgeoning feelings of anger and depression are likely to contribute to the high rate of suicide. The challenges for the future include providing culturally relevant services and further promotion of the human rights of the mentally ill in the face of continued stigma. Another challenge is promoting the mental health of North Korean defectors, and marriage immigrants and their mixed-blood children. Finally, Korean psychiatry should prepare for reconstruction of psychiatry in North Korea after reunification.
+C1 [Sung-kil, Min] Yonsei Univ, Coll Med, Dept Psychiat, Seoul, South Korea.
+   [In-sok, Yeo] Yonsei Univ, Coll Med, Dept Med Hist, Seoul, South Korea.
+C3 Yonsei University; Yonsei University Health System; Yonsei University;
+   Yonsei University Health System
+RP Sung-kil, M (corresponding author), Yonsei Univ, Coll Med, Dept Psychiat, Seoul, South Korea.
+EM skmin518@yuhs.ac; ISYEO@yuhs.ac
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 79
+EP 92
+DI 10.1007/978-1-4899-7999-5_5
+D2 10.1007/978-1-4899-7999-5
+PG 14
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000005
+DA 2023-12-06
+ER
+
+EF

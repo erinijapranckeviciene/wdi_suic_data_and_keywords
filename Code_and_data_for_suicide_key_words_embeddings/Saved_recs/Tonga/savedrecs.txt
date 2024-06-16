@@ -1,0 +1,107 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nielssen, O
+   Fukui, A
+   Fawkner, L
+   Walker, K
+AF Nielssen, Olav
+   Fukui, Atsumi
+   Fawkner, Lisa
+   Walker, Kipling
+TI Va'a fakalelei 'atamai: restoring the mind in the Kingdom of Tonga
+SO AUSTRALASIAN PSYCHIATRY
+LA English
+DT Article
+DE Tonga; developing country; psychosis; prevalence; kava
+ID PSYCHOSIS; SUICIDE
+AB Objective: We aim to report on the practice of psychiatry in the Kingdom of Tonga.
+   Method: We provide a description of the findings from a visit to Vaiola Hospital and data provided by the chief psychiatrist of Tonga.
+   Results: The practice of psychiatry in Tonga reflects the difficulties of providing health care in a middle-income micro state. Interesting features include the use of kava as a calmative for some acutely disturbed and anxious patients, the high proportion of patients receiving treatment with fluphenazine decanoate and the possibility that the observed increase in psychosis among Tongan migrants to Australia is at least partly due to a high prevalence of psychosis in Tonga itself.
+   Conclusions: A prevalence of psychosis study would need to be undertaken to confirm the report of a higher rate of psychosis in Tonga compared with that in Australia
+C1 [Nielssen, Olav; Fukui, Atsumi; Walker, Kipling] Level 8 Practice, Sydney, NSW 2000, Australia.
+   [Nielssen, Olav] St Vincents Hosp, Darlinghurst, NSW, Australia.
+   [Fawkner, Lisa] Northern Beaches Child & Adolescent Serv, Manly, NSW, Australia.
+C3 St Vincents Hospital Sydney
+RP Nielssen, O (corresponding author), Level 8 Practice, 17-235 Macquarie St, Sydney, NSW 2000, Australia.
+EM olavn@ozemail.com.au
+OI Nielssen, Olav/0000-0001-5172-2781
+NR 5
+TC 3
+Z9 3
+U1 0
+U2 3
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1039-8562
+EI 1440-1665
+J9 AUSTRALAS PSYCHIATRY
+JI Australas. Psychiatry
+PD APR
+PY 2014
+VL 22
+IS 2
+BP 183
+EP 185
+DI 10.1177/1039856214520792
+PG 3
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AE5KP
+UT WOS:000334028000016
+PM 24516194
+DA 2023-12-06
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,1465 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Redaniel, MT
+   Lebanan-Dalida, MA
+   Gunnell, D
+AF Redaniel, Maria Theresa
+   Antonnette Lebanan-Dalida, May
+   Gunnell, David
+TI Suicide in the Philippines: time trend analysis (1974-2005) and
+   literature review
+SO BMC PUBLIC HEALTH
+LA English
+DT Review
+ID RATES; MORTALITY; THAILAND
+AB Background: Suicide prevention is given a low priority in many Western Pacific countries due to competing health problems, stigma and poor understanding of its incidence and aetiology. Little is known about the epidemiology of suicide and suicidal behaviour in the Philippines and although its incidence is reported to be low, there is likely to be under-reporting because of its non-acceptance by the Catholic Church and the associated stigma to the family. This study aims to investigate trends in the incidence of suicide in the Philippines, assess possible underreporting and provide information on the methods used and the reasons for suicide.
+   Methods: Data for suicide deaths occurring between 1974 and 2005 were obtained from Philippine Health Statistics. Age- and sex-specific trends were examined graphically. Underreporting was investigated by comparing trends in suicides, accidents and deaths of undetermined intent. To provide a fuller picture of suicide in the Philippines, a comprehensive search for published papers, theses and reports on the epidemiology of suicide in the Philippines was undertaken.
+   Results: The incidence of suicide in males increased from 0.23 to 3.59 per 100,000 between 1984 and 2005. Similarly, rates rose from 0.12 to 1.09 per 100,000 in females. Amongst females, suicide rates were highest in 15-24 year olds, whilst in males rates were similar in all age groups throughout the study period. The most commonly used methods of suicide were hanging, shooting and organophosphate ingestion. In non-fatal attempts, the most common methods used were ingestion of drugs, specifically isoniazid and paracetamol, or organophosphate ingestion. Family and relationship problems were the most common precipitants. While rates were lower compared to other countries, there is suggestive evidence of underreporting and misclassification to undetermined injury. Recent increases may reflect either true increase or better reporting of suicides.
+   Conclusions: While suicide rates are low in the Philippines, increases in incidence and relatively high rates in adolescents and young adults point to the importance of focused suicide prevention programs. Improving data quality and better reporting of suicide deaths is likewise imperative to inform and evaluate prevention strategies.
+C1 [Redaniel, Maria Theresa; Gunnell, David] Univ Bristol, Sch Social & Community Med, Bristol BS8 2PS, Avon, England.
+   [Antonnette Lebanan-Dalida, May] Univ Philippines, Dept Epidemiol & Biostat, Manila 1000, Philippines.
+C3 University of Bristol; University of the Philippines System; University
+   of the Philippines Manila
+RP Redaniel, MT (corresponding author), Univ Bristol, Sch Social & Community Med, Canynge Hall,39 Whatley Rd, Bristol BS8 2PS, Avon, England.
+EM theresa.redaniel@bristol.ac.uk
+RI Gunnell, David/ABE-6653-2020
+OI Gunnell, David/0000-0002-0829-6470; Redaniel,
+   Theresa/0000-0002-0668-0874
+NR 41
+TC 33
+Z9 34
+U1 0
+U2 8
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 6
+PY 2011
+VL 11
+AR 536
+DI 10.1186/1471-2458-11-536
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 800AK
+UT WOS:000293328700001
+PM 21733151
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Manalastas, EJ
+AF Manalastas, Eric Julian
+TI Suicide Risk Among Sexual Minority Female Youth in the Philippines
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Meeting Abstract
+C1 [Manalastas, Eric Julian] Univ Philippines, Quezon City, Philippines.
+C3 University of the Philippines System; University of the Philippines
+   Diliman
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0020-7594
+EI 1464-066X
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PD JUL
+PY 2016
+VL 51
+SU 1
+SI SI
+BP 995
+EP 995
+PG 1
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA FK7XH
+UT WOS:000413720407062
+DA 2023-12-03
+ER
+
+PT J
+AU Ugarte, EF
+AF Ugarte, Eduardo F.
+TI Uncultural behavior: An anthropological investigation of suicide in the
+   southern Philippines
+SO AUSTRALIAN JOURNAL OF ANTHROPOLOGY
+LA English
+DT Book Review
+C1 [Ugarte, Eduardo F.] Univ Canberra, Belconnen, ACT 2616, Australia.
+C3 University of Canberra
+RP Ugarte, EF (corresponding author), Univ Canberra, Belconnen, ACT 2616, Australia.
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 1
+PU AUSTRALIAN ANTHROPOLOGICAL SOC
+PI UNIV SYDNEY
+PA DEPT ANTHROPOLOGY, UNIV SYDNEY, NSW 2006, AUSTRALIA
+SN 1035-8811
+J9 AUST J ANTHROPOL
+PD APR
+PY 2008
+VL 19
+IS 1
+BP 112
+EP 113
+PG 2
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 275HY
+UT WOS:000254063700024
+DA 2023-12-03
+ER
+
+PT J
+AU Evangelista, OL
+AF Evangelista, Oscar L.
+TI Uncultural behavior, an anthropological investigation of suicide in the
+   southern Philippines
+SO JOURNAL OF SOUTHEAST ASIAN STUDIES
+LA English
+DT Book Review
+C1 [Evangelista, Oscar L.] Palawan State Univ, Puerto Princesa, Philippines.
+RP Evangelista, OL (corresponding author), Palawan State Univ, Puerto Princesa, Philippines.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0022-4634
+J9 J SOUTHEAST ASIAN ST
+JI J. Southeast Asian Stud.
+PD OCT
+PY 2010
+VL 41
+IS 3
+BP 555
+EP 556
+DI 10.1017/S0022463410000378
+PG 3
+WC Area Studies; Asian Studies
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Area Studies; Asian Studies
+GA 658JY
+UT WOS:000282487500011
+DA 2023-12-03
+ER
+
+PT J
+AU Tremlett, PF
+AF Tremlett, Paul-Francois
+TI 'Uncultural behavior': An anthropological investigation of suicide in
+   the southern Philippines
+SO BULLETIN OF THE SCHOOL OF ORIENTAL AND AFRICAN STUDIES-UNIVERSITY OF
+   LONDON
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0041-977X
+J9 B SCH ORIENT AFR ST
+JI Bull. Sch. Orient. Afr. Stud.-Univ. London
+PY 2007
+VL 70
+BP 636
+EP 638
+DI 10.1017/S0041977X07000997
+PN 3
+PG 3
+WC Asian Studies
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Asian Studies
+GA 231MM
+UT WOS:000250951100020
+DA 2023-12-03
+ER
+
+PT J
+AU Okamura, JY
+AF Okamura, Jonathan Y.
+TI Uncultural behavior: An anthropological investigation of suicide in the
+   southern Philippines
+SO AMERICAN ETHNOLOGIST
+LA English
+DT Book Review
+C1 [Okamura, Jonathan Y.] Univ Hawaii, Honolulu, HI 96822 USA.
+C3 University of Hawaii System
+RP Okamura, JY (corresponding author), Univ Hawaii, Honolulu, HI 96822 USA.
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0094-0496
+J9 AM ETHNOL
+JI Am. Ethnol.
+PD MAY
+PY 2008
+VL 35
+IS 2
+BP 2109
+EP 2112
+DI 10.1111/j.1548-1425.2008.00077.x
+PG 4
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 311PC
+UT WOS:000256611100038
+DA 2023-12-03
+ER
+
+PT J
+AU Pertierra, R
+AF Pertierra, Raul
+TI Uncultural behavior; An anthropological investigation of suicide in the
+   southern Philippines
+SO BIJDRAGEN TOT DE TAAL- LAND- EN VOLKENKUNDE
+LA English
+DT Book Review
+C1 [Pertierra, Raul] Univ Philippines, Quezon City 1101, Philippines.
+C3 University of the Philippines System; University of the Philippines
+   Diliman
+RP Pertierra, R (corresponding author), Univ Philippines, Quezon City 1101, Philippines.
+EM rpertier@mozcom.com
+NR 1
+TC 1
+Z9 1
+U1 0
+U2 0
+PU KITLV PRESS
+PI LEIDEN
+PA PO BOX 9515, 2300 RA LEIDEN, NETHERLANDS
+SN 0006-2294
+J9 BIJDR TAAL-LAND-V
+JI Bijd. Tot Taal- Land- Volkenkunde
+PY 2007
+VL 163
+IS 4
+BP 593
+EP 595
+PG 3
+WC Anthropology; Asian Studies
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Asian Studies
+GA 244NN
+UT WOS:000251872700022
+DA 2023-12-03
+ER
+
+PT J
+AU Miller, BD
+AF Miller, Barbara D.
+TI UNCULTURAL BEHAVIOR: An Anthropological Investigation of Suicide in the
+   Southern Philippines
+SO PACIFIC AFFAIRS
+LA English
+DT Book Review
+C1 [Miller, Barbara D.] George Washington Univ, Washington, DC 20052 USA.
+C3 George Washington University
+RP Miller, BD (corresponding author), George Washington Univ, Washington, DC 20052 USA.
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PACIFIC AFFAIRS UNIV BRITISH COLUMBIA
+PI VANCOUVER
+PA #376-1855 WEST MALL, VANCOUVER, BC V6T 1Z2, CANADA
+SN 0030-851X
+EI 1715-3379
+J9 PAC AFF
+JI Pac. Aff.
+PD WIN
+PY 2009
+VL 82
+IS 4
+BP 738
+EP 739
+PG 2
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 538AV
+UT WOS:000273157100037
+DA 2023-12-03
+ER
+
+PT J
+AU Temby, Q
+AF Temby, Quinton
+TI Cells, Factions and Suicide Operatives: The Fragmentation of Militant
+   Islamism in the Philippines Post-Marawi
+SO CONTEMPORARY SOUTHEAST ASIA
+LA English
+DT Article
+DE Terrorism; Philippines; Mindanao; ISIS; suicide bombing
+AB The siege of Marawi City in 2017 by militants flying the black flag of the Islamic State in Iraq and Syria (ISIS) was one of the most significant events in the development of militant Islamism in Southeast Asia. The devastation of the attack, however, was followed by a major breakthrough in the peace process in the Southern Philippines with the formation in early 2019 of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The consequences of these two major events represent a critical juncture in the conflict in Mindanao in which the pattern of militant Islamism is highly fluid. Surveying the situation in Mindanao post-Marawi siege, this article argues that, in parallel to the decline of ISIS in the Middle East, the conflict in Mindanao is undergoing a transitional phase in which the dominant pattern of militant Islamism is shifting from one of insurgency to clandestine terrorism, characterized by a protean network of small but more ruthless groups. This development is marked by the emergence for the first time ever of suicide bombings in the Philippines. If suicide bombing becomes normalized in the Philippines as the most desperate tactic of a decentralized terrorist network, it will present a formidable new challenge to both the Philippine state and the nascent autonomous government in Muslim Mindanao.
+C1 [Temby, Quinton] ISEAS Yusof Ishak Inst, Singapore, Singapore.
+   [Temby, Quinton] 30 Heng Mui Keng Terrace, Singapore 119614, Singapore.
+RP Temby, Q (corresponding author), ISEAS Yusof Ishak Inst, Singapore, Singapore.; Temby, Q (corresponding author), 30 Heng Mui Keng Terrace, Singapore 119614, Singapore.
+EM quinton_temby@iseas.edu.sg
+NR 50
+TC 7
+Z9 7
+U1 0
+U2 8
+PU INST SOUTHEAST ASIAN STUDIES-ISEAS
+PI PASIR PANJANG
+PA 30 HENG MUI KING TERACE, PASIR PANJANG, 119614, SINGAPORE
+SN 0129-797X
+EI 1793-284X
+J9 CONTEMP SE ASIA
+JI Contemp. Southeast Asia
+PD APR
+PY 2019
+VL 41
+IS 1
+BP 114
+EP 137
+DI 10.1355/cs41-1f
+PG 24
+WC Area Studies; International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC Area Studies; International Relations; Government & Law
+GA HX3OS
+UT WOS:000467302000006
+DA 2023-12-03
+ER
+
+PT J
+AU Page, RM
+   Yanagishita, J
+   Suwanteerangkul, J
+   Zarco, EP
+   Mei-Lee, C
+   Miao, NF
+AF Page, Randy M.
+   Yanagishita, Jun
+   Suwanteerangkul, Jiraporn
+   Zarco, Emilia Patricia
+   Mei-Lee, Ching
+   Miao, Nae-Fang
+TI Hopelessness and loneliness among suicide attempters in school-based
+   samples of Taiwanese, Philippine and Thai adolescents
+SO SCHOOL PSYCHOLOGY INTERNATIONAL
+LA English
+DT Article
+DE adolescents; hopelessness; loneliness; Philippines; suicide; suicide
+   attempts; Taiwan; Thailand
+ID TEST-RETEST RELIABILITY; GENDER-DIFFERENCES; DEPRESSION; IDEATION;
+   SCALE; RISK; AMERICAN; VALIDITY
+AB The aim of this study was to assess the level of suicide attempts in three school-based samples of Southeast Asian adolescents (Taipei, Taiwan; the Philippines; Chiang Mai, Thailand) and determine whether adolescent suicide attempters score higher on measures of hopelessness and loneliness relative to nonattempters. It was hypothesized that hopelessness and loneliness would be related to suicide attempts, and that hopelessness would continue to be associated with suicide attempts when controlling for loneliness. The prevalence of suicide attempts across the three samples of Asian youth were not consistent with Taiwanese girls and boys as the most likely to have ever attempted suicide. As expected, results showed that suicide attempters (in past 12 months and ever) scored higher on hopelessness and loneliness than nonattempters across all three samples and for both genders. However, the statistical control of loneliness demonstrably weakened the association between suicide attempt behaviour and hopelessness across the samples and for both genders, and resulted in nonsignificant ANCOVA tests for some of the sample-gender groups.
+C1 Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   Chiang Mai Univ, Fac Med, Dept Community Med, Chiang Mai, Thailand.
+   Adelphi Univ, Dept Hlth Educ, Garden City, NY 11530 USA.
+   Natl Taiwan Normal Univ, Dept Hlth Educ, Taipei, Taiwan.
+   Taipei Med Univ, Coll Nursing, Taipei, Taiwan.
+C3 Brigham Young University; Chiang Mai University; Adelphi University;
+   National Taiwan Normal University; Taipei Medical University
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+NR 47
+TC 48
+Z9 52
+U1 0
+U2 19
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0143-0343
+EI 1461-7374
+J9 SCHOOL PSYCHOL INT
+JI Sch. Psychol. Int.
+PD DEC
+PY 2006
+VL 27
+IS 5
+BP 583
+EP 598
+DI 10.1177/0143034306073415
+PG 16
+WC Psychology, Educational
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 120GD
+UT WOS:000243071600005
+DA 2023-12-03
+ER
+
+PT J
+AU Andriolo, K
+AF Andriolo, K
+TI Murder by suicide: Episodes from Muslim history
+SO AMERICAN ANTHROPOLOGIST
+LA English
+DT Article
+AB Suicide terrorism and other operations that consume the killer's life employ beliefs and practices intended to reconcile the killer with his or her own death. This article reviews three episodes from Muslim history: the Assassins of Syria and Persia, juramentado in the Philippines, and Husayn's martyrdom at Karbala, Each of these episodes manifests a different symbolic stratagem: the neutralization of transition anxiety, the sacrificial fusion of murder and suicide, and the justifying projection of the past onto the present.
+C1 SUNY Albany, Dept Anthropol, New Paltz, NY 12561 USA.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Albany
+RP Andriolo, K (corresponding author), SUNY Albany, Dept Anthropol, New Paltz, NY 12561 USA.
+NR 34
+TC 23
+Z9 23
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-7294
+EI 1548-1433
+J9 AM ANTHROPOL
+JI Am. Anthropol.
+PD SEP
+PY 2002
+VL 104
+IS 3
+BP 736
+EP 742
+DI 10.1525/aa.2002.104.3.736
+PG 7
+WC Anthropology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Anthropology
+GA 592KB
+UT WOS:000177935900004
+DA 2023-12-03
+ER
+
+PT J
+AU Manalastas, EJ
+AF Manalastas, Eric Julian
+TI Suicide Ideation and Suicide Attempt Among Young Lesbian and Bisexual
+   Filipina Women: Evidence for Disparities in the Philippines
+SO ASIAN WOMEN
+LA English
+DT Article
+DE suicide ideation; suicide attempt; sexual orientation; lesbian; bisexual
+ID ADOLESCENT SEXUAL ORIENTATION; SELF-HARM; RISK; GAY; YOUTH; POPULATIONS;
+   MINORITY; DISORDER
+AB Using archival data from a national survey of N=8,891 young Filipina women ages 15 to 24, this paper aimed to examine links between sexual-minority status and thinking about and attempting suicide. Similar to previous results from young Filipino men and to findings in the global LGBT mental health literature, sexual-minority status was associated with both suicide ideation and suicide attempt across measures of same-sex attraction and same-sex romantic relationships. Sexual-minority Filipina youth had higher odds of having thought about suicide and having attempted suicide, compared to heterosexual peers. Following a minority stress framework, this paper explored a number of correlates of suicide ideation and attempt, including normative risk factors such as depression, recent suicide attempt of a friend, and experiences of threat and victimization.
+C1 [Manalastas, Eric Julian] Univ Philippines, Dept Psychol, Diliman, Philippines.
+C3 University of the Philippines System; University of the Philippines
+   Diliman
+RP Manalastas, EJ (corresponding author), Univ Philippines, Dept Psychol, Diliman, Philippines.
+EM eric.manalastas@gmail.com
+OI Manalastas, Eric Julian/0000-0002-6907-4302
+NR 54
+TC 15
+Z9 15
+U1 1
+U2 22
+PU SOOKMYUNG WOMENS UNIV
+PI YOUNGSAK-KU
+PA RES INST ASIAN WOMEN, 52 HYOCHANGWON-GIL, YOUNGSAK-KU, SEOUL 00000,
+   SOUTH KOREA
+SN 1225-925X
+J9 ASIAN WOMEN
+JI Asian Women
+PD FAL
+PY 2016
+VL 32
+IS 3
+BP 101
+EP 120
+DI 10.14431/aw.2016.09.32.3.101
+PG 20
+WC Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Women's Studies
+GA DY3FV
+UT WOS:000384977100006
+DA 2023-12-03
+ER
+
+PT J
+AU Page, RM
+   West, JH
+   Hall, PC
+AF Page, Randy M.
+   West, Joshua H.
+   Hall, P. Cougar
+TI Psychosocial Distress and Suicide Ideation in Chinese and Philippine
+   Adolescents
+SO ASIA-PACIFIC JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE suicide; psychosocial distress; hopelessness; China; Philippines;
+   adolescent health
+ID RISK-FACTORS; BEHAVIOR; HOPELESSNESS; PREVALENCE; GENDER; LONELINESS;
+   ATTEMPTERS; OVERWEIGHT; PEOPLE; RATES
+AB Objective: The purpose of this study was to identify associations between suicide ideation and indicators of psychological distress and health behaviors in Chinese and Philippine adolescents. Method: Global School Health Surveys consisting of 9015 Chinese and 7338 Philippine students aged 11 to 17 years were analyzed using logistic regression to determine demographic, psychosocial, and health/risk behavioral determinants of suicide ideation. Results: In both samples, suicide ideation was associated with substance use, physical activity, feelings of loneliness, hopelessness/sadness, and worrying. Chinese girls were more likely to than boys to report suicide ideation and suicide planning, whereas Philippine girls were more likely to report suicide planning. Overweight status and sedentary behaviors were associated with increased risk of suicide ideation in Chinese adolescents, but the same influences were observed to be protective for Philippine adolescents. Conclusions: Psychosocial, demographic, and health/risk behaviors factors appear to impact suicide ideation and suicide planning in both of these youth populations.
+C1 [Page, Randy M.; West, Joshua H.; Hall, P. Cougar] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+C3 Brigham Young University
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+NR 49
+TC 20
+Z9 20
+U1 1
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1010-5395
+EI 1941-2479
+J9 ASIA-PAC J PUBLIC HE
+JI Asia-Pac. J. Public Health
+PD SEP
+PY 2011
+VL 23
+IS 5
+BP 774
+EP 791
+DI 10.1177/1010539509353113
+PG 18
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 837WK
+UT WOS:000296239100014
+PM 21118858
+DA 2023-12-03
+ER
+
+PT J
+AU Ueda, M
+   Yoshikawa, K
+   Matsubayashi, T
+AF Ueda, Michiko
+   Yoshikawa, Kanako
+   Matsubayashi, Tetsuya
+TI Suicide by persons with foreign background in Japan
+SO PLOS ONE
+LA English
+DT Article
+ID HEALTH-STATUS; AUSTRALIA; IMMIGRANT; RATES; AMERICANS; MIGRANTS; COUNTRY
+AB Purpose
+   This study examined trends in the suicide rates of persons with foreign background in Japan.
+   Methods
+   Using the nationwide death records in the Vital Statistics of Japan, we first reported the age-adjusted suicide rates of 8 foreign nationals (Brazil, China, Korea, Peru, the Philippines, Thailand, the United Kingdom, and the United States) in Japan by sex from 1980 to the mid-2010s. We also computed rate ratios to compare the suicide rate of each group with those of the Japanese population. Second, we focused on Koreans, who had the highest suicide rate in Japan. We compared the suicide rates of Koreans in Japan with Koreans in South Korea to examine whether their suicide rates were more closely related to those of their country of origin or those of their host country.
+   Results
+   We found that the suicide rates of Koreans and Chinese in Japan were similar to or higher than those of Japanese, while other groups tended to show lower suicide rates. Most notably, Koreans displayed consistently high suicide rates from 1980 to the mid-2010s, which were nearly twice as high as those of the Japanese population. Korean males and females in Japan had higher suicide rates than those in South Korea.
+   Conclusions
+   Immigrants in Japan were not necessarily influenced by the suicide rates of the host country. The high suicide rates among Korean residents in Japan might be explained by various disadvantages and adversities that they face in Japan.
+C1 [Ueda, Michiko] Waseda Univ, Fac Polit Sci & Econ, Shinjuku Ku, Tokyo, Japan.
+   [Yoshikawa, Kanako; Matsubayashi, Tetsuya] Osaka Univ, Osaka Sch Int Publ Policy, Toyonaka, Osaka, Japan.
+C3 Waseda University; Osaka University
+RP Ueda, M (corresponding author), Waseda Univ, Fac Polit Sci & Econ, Shinjuku Ku, Tokyo, Japan.
+EM mueda@waseda.jp
+OI Ueda, Michiko/0000-0001-6552-8090
+FU JSPS [17H02541]; Innovative Research Program on Suicide Countermeasures
+   Research Grant [1-1]; Grants-in-Aid for Scientific Research [17H02541]
+   Funding Source: KAKEN
+FX This work was supported by JSPS Grants-in-Aid for Scientific Research
+   Grant Number 17H02541 (MU) and Innovative Research Program on Suicide
+   Countermeasures Research Grant, AY2017, Grant Number 1-1 (MU),
+   https://www.jsps.go.jp/english/index.html,
+   http://irpsc-jssc.jp/irpsc.php. The funders had no role in study,
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 6
+PY 2019
+VL 14
+IS 2
+AR e0211867
+DI 10.1371/journal.pone.0211867
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HK4EL
+UT WOS:000457874000083
+PM 30726285
+OA Green Published, gold, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Jorm, AF
+   Ross, AM
+   Colucci, E
+AF Jorm, Anthony F.
+   Ross, Anna M.
+   Colucci, Erminia
+TI Cross-cultural generalizability of suicide first aid actions: an
+   analysis of agreement across expert consensus studies from a range of
+   countries and cultures
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Mental health first aid; Delphi studies; Guidelines;
+   Gatekeepers
+ID GUIDELINES; CONSUMERS; CARERS
+AB Background: A number of Delphi expert consensus studies have been carried out with different countries and cultural groups to develop guidelines on how a member of the public should provide assistance to a person who is suicidal. The present study aimed to determine whether cross-culturally generalizable suicide first aid actions are possible by comparing agreement across these Delphi studies.
+   Methods: Data on endorsement rates for items were compared across six Delphi studies. These studies involved panels of professionals and consumer advocates from English-speaking countries, professionals from Sri Lanka, professionals from Japan, professionals from India, professionals from the Philippines, and professionals and consumer advocates in refugee and immigrant mental health. Correlations were calculated between item endorsement rates across panels.
+   Results: There were 18 items that were highly endorsed across all eight of the Delphi panels and an additional 15 items highly endorsed across the panels from the three lower middle-income countries (India, Philippines and Sri Lanka). Correlations across panels in item endorsement rates were all 0.60 or above, but were higher between panels from countries that are socioeconomically similar.
+   Conclusions: There is broad agreement across the diverse expert panels about what are appropriate suicide first aid actions for members of the public, indicating that cross-cultural generalizability is possible. However, there is also some cultural specificity, indicating the need for local tailoring.
+C1 [Jorm, Anthony F.; Ross, Anna M.; Colucci, Erminia] Univ Melbourne, Ctr Mental Hlth, Melbourne Sch Populat & Global Hlth, 207 Bouverie St, Carlton, Vic 3010, Australia.
+   [Colucci, Erminia] Middlesex Univ London, Dept Psychol, London, England.
+C3 University of Melbourne; Middlesex University
+RP Jorm, AF (corresponding author), Univ Melbourne, Ctr Mental Hlth, Melbourne Sch Populat & Global Hlth, 207 Bouverie St, Carlton, Vic 3010, Australia.
+EM ajorm@unimelb.edu.au
+RI Ross, Anna/AAE-9897-2021; Ross, Anna M/AAE-9790-2021; Colucci,
+   Erminia/AAE-8061-2019; ross, Anna/JFK-5042-2023; Jorm, Anthony
+   F/B-5555-2009
+OI Ross, Anna/0000-0002-5114-5686; Ross, Anna M/0000-0002-5114-5686;
+   Colucci, Erminia/0000-0001-9714-477X; Jorm, Anthony
+   F/0000-0002-1424-4116
+FU National Health and Medical Research Council Fellowship [1059785];
+   National Health and Medical Research Council of Australia [1059785]
+   Funding Source: NHMRC
+FX AFJ was supported by National Health and Medical Research Council
+   Fellowship 1059785.
+NR 33
+TC 14
+Z9 14
+U1 0
+U2 10
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD MAR 1
+PY 2018
+VL 18
+DI 10.1186/s12888-018-1636-8
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FX8VB
+UT WOS:000426372600002
+PM 29490626
+OA Green Accepted, Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Estrada, CAM
+   Nonaka, D
+   Gregorio, ER
+   Leynes, CR
+   del Castillo, RT
+   Hernandez, PMR
+   Hayakawa, T
+   Kobayashi, J
+AF Estrada, Crystal Amiel M.
+   Nonaka, Daisuke
+   Gregorio, Ernesto R., Jr.
+   Leynes, Cynthia R.
+   del Castillo, Ronald T.
+   Hernandez, Paul Michael R.
+   Hayakawa, Tatsuro
+   Kobayashi, Jun
+TI Suicidal ideation, suicidal behaviors, and attitudes towards suicide of
+   adolescents enrolled in the Alternative Learning System in Manila,
+   Philippinesa mixed methods study
+SO TROPICAL MEDICINE AND HEALTH
+LA English
+DT Article
+DE Suicidal ideation; Suicide; Attitude; Adolescent; (Alternative)
+   education; Philippines
+AB BackgroundGlobally, suicide is a significant cause of death among adolescents. Previous studies conducted in high-income countries suggest that students in alternative schools are more likely to engage in suicidal behaviors than those in formal schools. This study aimed to document suicidal ideation and behaviors among adolescent learners enrolled in the Alternative Learning System (ALS) in Manila, Philippines.MethodsA mixed methods study was conducted in 24 ALS centers in the city of Manila. ALS centers were stratified according to congressional district and selected using probability proportionate sampling. A cross-sectional survey to determine attitudes towards suicide and prevalence of suicidal ideation and behaviors was administered to 171 learners aged 13 to 17years old. In-depth interviews with 18 teachers and 12 learners were conducted to explore the school psychosocial environment's role on learners' suicidal ideation and behaviors. Exploratory factor analysis was used to extract attitude factors. Fisher's exact test and Student's t-test were used to identify differences in sociodemographic characteristics and attitudes towards suicide between learners with or without suicidal ideation or behaviors. Qualitative data were analyzed using thematic analysis.ResultsNon-specific active thoughts were the most common type of lifetime suicidal ideation (40.9%) while passive ideation was the most common in the past month (13.5%). Aborted suicide attempt was the most frequent behavior in both lifetime (16.4%) and in the past month (4.7%). Non-fatal suicide attempt in the past month was 2.3%, reaching 12.9% for the entire lifetime. Age, sex, education, and attitudes towards suicide were significantly associated with suicidal ideation or behavior. Thematic analysis showed five themes: (1) fostering belongingness, (2) securing learners' safety, (3) teaching philosophy, (4) teacher and learner beliefs towards suicidal behavior, and (5) availability of school-offered and community-based services.ConclusionSuicidal ideation and behaviors are prevalent among adolescent ALS learners. This study also showed a significant difference in attitudes towards suicide and sociodemographic characteristics between learners with and without suicidal ideation behaviors. It also suggests that the school psychosocial environment, through social norms and learner-teacher interactions, can potentially prevent progression of suicidal ideation to behavior, influence help-seeking, and promote mental health among learners.
+C1 [Estrada, Crystal Amiel M.; Nonaka, Daisuke; Gregorio, Ernesto R., Jr.; Kobayashi, Jun] Univ Ryukyus, Fac Med, Grad Sch Hlth Sci, Dept Global Hlth, 207 Uehara, Nishihara, Okinawa, Japan.
+   [Hernandez, Paul Michael R.] Univ Philippines Manila, Coll Publ Hlth, Dept Environm & Occupat Hlth, Manila, Philippines.
+   [Gregorio, Ernesto R., Jr.; del Castillo, Ronald T.; Hernandez, Paul Michael R.] SEAMEO TROPMED Reg Ctr Publ Hlth Hosp Adm Environ, Manila, Philippines.
+   [Gregorio, Ernesto R., Jr.] Univ Philippines Manila, Coll Publ Hlth, Dept Hlth Promot & Educ, Manila, Philippines.
+   [Leynes, Cynthia R.] Univ Philippines Manila, Coll Med, Dept Psychiat & Behav Med, Manila, Philippines.
+   [del Castillo, Ronald T.] Univ Philippines Manila, Coll Publ Hlth, Dept Hlth Policy & Adm, Manila, Philippines.
+   [Hayakawa, Tatsuro] Kohnodai Hosp, Natl Ctr Global Hlth & Med, Dept Psychiat, Ichikawa, Japan.
+C3 University of the Ryukyus; University of the Philippines System;
+   University of the Philippines Manila; University of the Philippines
+   System; University of the Philippines Manila; University of the
+   Philippines System; University of the Philippines Manila; University of
+   the Philippines System; University of the Philippines Manila; National
+   Center for Global Health & Medicine - Japan
+RP Estrada, CAM (corresponding author), Univ Ryukyus, Fac Med, Grad Sch Hlth Sci, Dept Global Hlth, 207 Uehara, Nishihara, Okinawa, Japan.
+EM cmestrada@up.edu.ph
+RI Hernandez, Paul Michael/AAP-9266-2021; Daisuke, Nonaka/AAB-8509-2020;
+   Nonaka, Daisuke/AAP-7918-2021
+OI Hernandez, Paul Michael/0000-0003-0528-9766; Daisuke,
+   Nonaka/0000-0001-6793-2062; 
+FU Research Grant for National Center for Global Health and Medicine [30-3]
+FX This study was supported by the Research Grant for National Center for
+   Global Health and Medicine (30-3).
+NR 0
+TC 13
+Z9 13
+U1 2
+U2 8
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1348-8945
+EI 1349-4147
+J9 TROP MED HEALTH
+JI Trop. Med. Health
+PD MAR 29
+PY 2019
+VL 47
+AR 22
+DI 10.1186/s41182-019-0149-6
+PG 18
+WC Tropical Medicine
+WE Emerging Sources Citation Index (ESCI)
+SC Tropical Medicine
+GA HS2HW
+UT WOS:000463682700001
+PM 30976193
+OA gold, Green Submitted, Green Published
+DA 2023-12-03
+ER
+
+PT C
+AU Booc, CER
+   Diego, CMDS
+   Tee, ML
+   Caro, ADL
+AF Booc, Chad Errol R.
+   San Diego, Chara Mae D.
+   Tee, Michael L.
+   Caro, Aime D. L.
+GP IEEE
+TI A Mobile Application for Campus-based Psychosocial Wellness Program
+SO 2016 7TH INTERNATIONAL CONFERENCE ON INFORMATION, INTELLIGENCE, SYSTEMS
+   & APPLICATIONS (IISA)
+SE International Conference Information Intelligence Systems and
+   Applications
+LA English
+DT Proceedings Paper
+CT 7th International Conference on Information, Intelligence, Systems &
+   Applications (IISA)
+CY JUL 13-15, 2016
+CL Chalkidiki, GREECE
+SP Inst Elect & Elect Engineers, BAIF, Univ Piraeus, Aristotle Univ Salonika, Technolog Educ Inst Western Macedonia, BAIF Aristotle Univ Thessaloniki
+DE mental health; mobile application; campus-based; peer counseling;
+   college
+AB The prevalence of mental health problems has become alarming, with the worldwide occurrence of mental health problems and deaths due to suicide reaching significant numbers. In the Philippines, suicide rate has increased from 1984 to 2005 especially among the youth. This is evident in campus setting in the Philippines, with the death of at least ten college students in the past three years. Despite this prevalence, many of those experiencing mental health problems do not seek help because of factors such as inaccessibility of help and the stigma and discrimination brought by mental health conditions. Using insights collected from a series of consultations with the campus' counseling center, administrators, faculty, and students of the University of the Philippines Manila, this project designed and developed a mobile application which will provide a more convenient and accessible mental health first aid service to students that helps them avoid stigma and discrimination. The application connects students with trained peer counselors, while at the same time, protecting their anonymity through safeguards. It also collects data regarding the frequency of the software's use and the demographics of active users, which can be used in understanding the mental health status of each campus. The project shows potential not only in providing mental health intervention, but also in studying and preventing mental illnesses in college campuses.
+C1 [Booc, Chad Errol R.; San Diego, Chara Mae D.; Caro, Aime D. L.] Univ Philippines Diliman, Dept Comp Sci, Quezon City, Philippines.
+   [Tee, Michael L.] Univ Philippines Manila, Off Vice Chancellor Planning & Dev, Manila, Philippines.
+C3 University of the Philippines System; University of the Philippines
+   Diliman; University of the Philippines System; University of the
+   Philippines Manila
+RP Booc, CER (corresponding author), Univ Philippines Diliman, Dept Comp Sci, Quezon City, Philippines.
+EM crbooc@up.edu.ph; cdsandiego@up.edu.ph; mltee@up.edu.ph;
+   jdlcaro@up.edu.ph
+RI Caro, Jaime D.L./I-7745-2016; Tee, Michael/ABA-9906-2020
+OI Caro, Jaime D.L./0000-0003-1447-594X; 
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 5
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2379-3732
+BN 978-1-5090-3429-1
+J9 INT CONF INFORM INTE
+PY 2016
+PG 4
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BG8AT
+UT WOS:000392155300094
+DA 2023-12-03
+ER
+
+PT J
+AU Brockington, I
+AF Brockington, I
+TI Suicide in women
+SO INTERNATIONAL CLINICAL PSYCHOPHARMACOLOGY
+LA English
+DT Editorial Material
+DE suicide; depression; women's mental health; menstruation; child bearing;
+   unwanted pregnancy; parturition; divorce; widowhood; domestic violence
+ID CHILDHOOD SEXUAL ABUSE; POSTTRAUMATIC-STRESS-DISORDER; FOLLOW-UP;
+   DOMESTIC VIOLENCE; MENTAL-HEALTH; CLINICAL CHARACTERISTICS;
+   GENERAL-POPULATION; MENSTRUAL-CYCLE; SOCIAL-FACTORS; MARITAL-STATUS
+AB This article reviews research into suicide in women during the last 25 years. National rates vary between the extremes of 19/10(5) per year in Sri Lanka and < 1/10(5) per year in the Philippines and Egypt, but almost everywhere rates for women are much lower than male retest with a median ratio of 2.8/1. The exceptions are in India and China, which report higher rates in young married women. The reproductive process has some influence. While menstruation, hormonal treatment, pregnancy and the puerperium have no major effect, unwanted pregnancy may still lead to suicide under certain circumstances, and severe labour can occasionally do so. Having children protects, but the relative risk is no more than 2.0 in nulliparous women. Social factors also have a limited effect. There are higher rates of suicide in divorced women, but the evidence on widowhood is equivocal. Prosperity and employment have no effect. Sexual abuse, rape and domestic violence undoubtedly lead to suicide attempts, but the evidence on completed suicide is lacking. There are many unanswered questions, especially why rates of completed suicide for women (with a greater prevalence of overt depression) are lower than for men, and why Chinese and Indian women have higher rates. More research is required, especially from developing nations.
+C1 Univ Birmingham, Queen Elizabeth Psychiat Hosp, Dept Psychiat, Birmingham B15 2QZ, W Midlands, England.
+C3 University of Birmingham
+RP Brockington, I (corresponding author), Univ Birmingham, Queen Elizabeth Psychiat Hosp, Dept Psychiat, Birmingham B15 2QZ, W Midlands, England.
+EM i.f.brockington@bham.ac.uk
+NR 164
+TC 39
+Z9 44
+U1 1
+U2 22
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0268-1315
+EI 1473-5857
+J9 INT CLIN PSYCHOPHARM
+JI Int. Clin. Psychopharmacol.
+PD MAR
+PY 2001
+VL 16
+SU 2
+BP S7
+EP S19
+DI 10.1097/00004850-200103002-00003
+PG 13
+WC Pharmacology & Pharmacy; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pharmacology & Pharmacy; Psychiatry
+GA 432BY
+UT WOS:000168668300003
+PM 11349759
+DA 2023-12-03
+ER
+
+PT J
+AU Chang, SS
+   Chen, YY
+   Yip, PSF
+   Lee, WJ
+   Hagihara, A
+   Gunnell, D
+AF Chang, Shu-Sen
+   Chen, Ying-Yeh
+   Yip, Paul S. F.
+   Lee, Won Jin
+   Hagihara, Akihito
+   Gunnell, David
+TI Regional Changes in Charcoal-Burning Suicide Rates in East/Southeast
+   Asia from 1995 to 2011: A Time Trend Analysis
+SO PLOS MEDICINE
+LA English
+DT Article
+ID HONG-KONG; TAIWAN; IMPACT; REGULATIONS; PREVENTION; MORTALITY;
+   SINGAPORE; FIREARMS; ACCESS; DEATH
+AB Background
+   Suicides by carbon monoxide poisoning resulting from burning barbecue charcoal reached epidemic levels in Hong Kong and Taiwan within 5 y of the first reported cases in the early 2000s. The objectives of this analysis were to investigate (i) time trends and regional patterns of charcoal-burning suicide throughout East/Southeast Asia during the time period 1995-2011 and (ii) whether any rises in use of this method were associated with increases in overall suicide rates. Sex- and age-specific trends over time were also examined to identify the demographic groups showing the greatest increases in charcoal-burning suicide rates across different countries.
+   Methods and Findings
+   We used data on suicides by gases other than domestic gas for Hong Kong, Japan, the Republic of Korea, Taiwan, and Singapore in the years 1995/1996-2011. Similar data for Malaysia, the Philippines, and Thailand were also extracted but were incomplete. Graphical and joinpoint regression analyses were used to examine time trends in suicide, and negative binomial regression analysis to study sex- and age-specific patterns. In 1995/1996, charcoal-burning suicides accounted for <1% of all suicides in all study countries, except in Japan (5%), but they increased to account for 13%, 24%, 10%, 7%, and 5% of all suicides in Hong Kong, Taiwan, Japan, the Republic of Korea, and Singapore, respectively, in 2011. Rises were first seen in Hong Kong after 1998 (95% CI 1997-1999), followed by Singapore in 1999 (95% CI 1998-2001), Taiwan in 2000 (95% CI 1999-2001), Japan in 2002 (95% CI 1999-2003), and the Republic of Korea in 2007 (95% CI 2006-2008). No marked increases were seen in Malaysia, the Philippines, or Thailand. There was some evidence that charcoal-burning suicides were associated with an increase in overall suicide rates in Hong Kong, Taiwan, and Japan (for females), but not in Japan (for males), the Republic of Korea, and Singapore. Rates of change in charcoal-burning suicide rate did not differ by sex/age group in Taiwan and Hong Kong but appeared to be greatest in people aged 15-24 y in Japan and people aged 25-64 y in the Republic of Korea. The lack of specific codes for charcoal-burning suicide in the International Classification of Diseases and variations in coding practice in different countries are potential limitations of this study.
+   Conclusions
+   Charcoal-burning suicides increased markedly in some East/Southeast Asian countries (Hong Kong, Taiwan, Japan, the Republic of Korea, and Singapore) in the first decade of the 21st century, but such rises were not experienced by all countries in the region. In countries with a rise in charcoal-burning suicide rates, the timing, scale, and sex/age pattern of increases varied by country. Factors underlying these variations require further investigation, but may include differences in culture or in media portrayals of the method.
+   Please see later in the article for the
+   Editors' Summary
+   Editors' Summary
+   Background
+   Every year, almost one million people die by suicide globally; suicide is the fifth leading cause of death in women aged 15-49 and the sixth leading cause of death in men in the same age group. Most people who take their own life are mentally ill. For others, stressful events (the loss of a partner, for example) have made life seem worthless or too painful to bear.
+   Strategies to reduce suicide rates include better treatment of mental illness and programs that help people at high risk of suicide deal with stress. Suicide rates can also be reduced by limiting access to common suicide methods. These methods vary from place to place. Hanging is the predominant suicide method in many countries, but in Hong Kong, for example, jumping from a high building is the most common method. Suicide methods also vary over time. For example, after a woman in Hong Kong took her life in 1998 by burning barbecue charcoal in a sealed room (a process that produces the toxic gas carbon monoxide), charcoal burning rapidly went from being a rare method of killing oneself in Hong Kong to the second most common suicide method.
+   Why Was This Study Done? ?
+   Cases of charcoal-burning suicide have also been reported in several East and Southeast Asian countries, but there has been no systematic investigation of time trends and regional patterns of this form of suicide. A better understanding of regional changes in the number of charcoal-burning suicides might help to inform efforts to prevent the emergence of other new suicide methods. Here, the researchers investigate the time trends and regional patterns of charcoal-burning suicide in several countries in East and Southeast Asia between 1995 and 2011 and ask whether any rises in the use of this method are associated with increases in overall suicide rates. The researchers also investigate sex- and age-specific time trends in charcoal-burning suicides to identify which groups of people show the greatest increases in this form of suicide across different countries.
+   What Did the Researchers Do and Find? ?
+   The researchers analyzed method-specific data on suicide deaths for Hong Kong, Japan, the Republic of Korea, Taiwan, and Singapore between 1995/1996 and 2011 obtained from the World Health Organization Mortality Database and from national death registers. In 1995/1996, charcoal-burning suicides accounted for less than 1% of all suicides in all these countries except Japan (4.9%). By 2011, charcoal-burning suicides accounted for between 5% (Singapore) and 24% (Taiwan) of all suicides. Rises in the rate of charcoal-burning suicide were first seen in Hong Kong in 1999, in Singapore in 2000, in Taiwan in 2001, in Japan in 2003, and in the Republic of Korea in 2008. By contrast, incomplete data from Malaysia, the Philippines, and Thailand showed no evidence of a marked increase in charcoal-burning suicide in these countries over the same period. Charcoal-burning suicides were associated with an increase in overall suicide rates in Hong Kong in 1998-2003, in Taiwan in 2000-2006, and in Japanese women after 2003. Finally, the annual rate of change in charcoal-burning suicide rate did not differ by sex/age group in Taiwan and Hong Kong, whereas in Japan people aged 15-24 and in the Republic of Korea people aged 25-64 tended to have the greatest rates of increase.
+   What Do These Findings Mean? ?
+   These findings show that charcoal-burning suicides increased markedly in several but not all East and Southeast Asian countries during the first decade of the 21st century. Moreover, in countries where there was an increase, the timing, scale, and sex/age pattern of the increase varied by country. The accuracy of these findings is likely to be limited by several aspects of the study.
+   For example, because of the way that method-specific suicides are recorded in the World Health Organization Mortality Database and national death registries, the researchers may have slightly overestimated the number of charcoal-burning suicides. Further studies are now needed to identify the factors that underlie the variations between countries in charcoal-burning suicide rates and time trends reported here. However, the current findings highlight the need to undertake surveillance to identify the emergence of new suicide methods and the importance of policy makers, the media, and internet service providers working together to restrict graphic and detailed descriptions of new suicide methods.
+   Additional Information
+   Please access these websites via the online version of this summary at http://dx.doi.org/10.1371/journal.pmed.1001622.
+   A PLOS Medicine research article by Shu-Sen Chang and colleagues investigates time trends and regional patterns of charcoal-burning suicide in Taiwan
+   The World Health Organization provides information on the global burden of suicide and on suicide prevention (in several languages); it also has an article on international patterns in methods of suicide
+   The US National Institute of Mental Health provides information on suicide and suicide prevention
+   The UK National Health Service Choices website has detailed information about suicide and its prevention
+   MedlinePlus provides links to further resources about suicide (in English and Spanish)
+   The International Association for Suicide Prevention provides links to crisis centers in Asia
+   The charity Healthtalkonline has <ext-link ext-link-type="uri" xlink:href="http://www.healthtalkonline.
+   org/Dying_and_bereavement/Bereavement_due_to_suicide" xlink:type="simple">personal stories about dealing with suicide
+C1 [Chang, Shu-Sen; Yip, Paul S. F.] Univ Hong Kong, Hong Kong Jockey Club Ctr Suicide Res & Prevent, Pokfulam, Hong Kong, Peoples R China.
+   [Chang, Shu-Sen; Yip, Paul S. F.] Univ Hong Kong, Dept Social Work & Social Adm, Pokfulam, Hong Kong, Peoples R China.
+   [Chang, Shu-Sen] Ju Shan Hosp, Taoyuan, Taiwan.
+   [Chang, Shu-Sen; Gunnell, David] Univ Bristol, Sch Social & Community Med, Bristol, Avon, England.
+   [Chen, Ying-Yeh] Taipei City Hosp, Taipei City Psychiat Ctr, Taipei, Taiwan.
+   [Chen, Ying-Yeh] Natl Yang Ming Univ, Inst Publ Hlth, Taipei 112, Taiwan.
+   [Chen, Ying-Yeh] Natl Yang Ming Univ, Dept Publ Hlth, Taipei 112, Taiwan.
+   [Lee, Won Jin] Korea Univ, Coll Med, Dept Prevent Med, Seoul 136705, South Korea.
+   [Hagihara, Akihito] Kyushu Univ, Grad Sch Med, Dept Hlth Serv Management & Policy, Fukuoka 812, Japan.
+C3 University of Hong Kong; University of Hong Kong; University of Bristol;
+   Taipei City Hospital; National Yang Ming Chiao Tung University; National
+   Yang Ming Chiao Tung University; Korea University; Korea University
+   Medicine (KU Medicine); Kyushu University
+RP Chang, SS (corresponding author), Univ Hong Kong, Hong Kong Jockey Club Ctr Suicide Res & Prevent, Pokfulam, Hong Kong, Peoples R China.
+EM ychen@tpech.gov.tw
+RI Chang, Shu-Sen/AAH-6733-2021; Chang, Shu-Sen/B-3518-2012; Gunnell,
+   David/ABE-6653-2020; Chen, Ying-Yeh/AAY-1478-2021
+OI Chang, Shu-Sen/0000-0001-5012-1132; Chang, Shu-Sen/0000-0001-5012-1132;
+   Gunnell, David/0000-0002-0829-6470; Lee, Won Jin/0000-0002-0254-7267;
+   Chen, Ying-Yeh/0000-0001-5543-5704
+FU University of Hong Kong Seed Funding Programme for Basic Research
+   [201203159017]; Chiang Chingkuo Foundation, Taiwan [RG014-P-12];
+   National Science Council, Taiwan [101-2314-B-532-005-MY2]; National
+   Health Research Institute, Taiwan [NHRI-EX100-10024PC]; Public Policy
+   Research Grant [HKU7030-PPR-12]; General Research Fund [HKU-784210M];
+   National Institute for Health Research [NF-SI-0512-10068] Funding
+   Source: researchfish
+FX SSC was supported by The University of Hong Kong Seed Funding Programme
+   for Basic Research (grant number 201203159017) and the Chiang Chingkuo
+   Foundation, Taiwan (grant number RG014-P-12). YYC was supported by the
+   National Science Council, Taiwan (grant number 101-2314-B-532-005-MY2)
+   and the National Health Research Institute, Taiwan (grant number
+   NHRI-EX100-10024PC). PSFY was supported by a Public Policy Research
+   Grant (HKU7030-PPR-12) and a General Research Fund (HKU-784210M). DG is
+   a UK National Institute for Health Research Senior Investigator. The
+   funders had no role in study design, the collection, analysis, and
+   interpretation of data, writing of the article, and the decision to
+   submit the article.
+NR 67
+TC 68
+Z9 71
+U1 1
+U2 27
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1549-1277
+EI 1549-1676
+J9 PLOS MED
+JI PLos Med.
+PD APR
+PY 2014
+VL 11
+IS 4
+DI 10.1371/journal.pmed.1001622
+PG 17
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA AG5NN
+UT WOS:000335465800009
+PM 24691071
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Schober, E
+AF Schober, Elisabeth
+TI Working (wo)man's suicide: transnational relocations of capital -
+   repercussions for labour in South Korea and the Philippines
+SO JOURNAL OF THE ROYAL ANTHROPOLOGICAL INSTITUTE
+LA English
+DT Article
+ID ANTHROPOLOGY; RISK
+AB In South Korea, 2011 was marked by the rise of a social movement against precarity, the emergence of which was dependent upon effective and affective mobilizing strategies amongst workers. The impetus was provided by a struggle at a shipyard in Pusan, where an activist held a crane occupied for 309 days. The role of affect in constituting neoliberal workplaces has recently received much attention in anthropology. The question of how emotions figure into the mobilizing efforts of labour, rather than those of management, however, has been overlooked. Hope and despair are two emotive themes amongst activists involved in the Hanjin dispute that are closely linked to the practice of suicide amongst unionized workers in the country. Since the 1997 Asian financial crisis, suicide has also become an all-too-ordinary response to pressures imposed upon an increasingly precarious Korean workforce. I look into the affective mobilizing cultures that have allowed the Hope Bus' movement to excel in Korea, and explore the less successful efforts that were made by Korean and Filipino activists to link up their struggles.
+C1 [Schober, Elisabeth] Univ Oslo, Dept Social Anthropol, POB 1091, NO-0317 Oslo, Norway.
+C3 University of Oslo
+RP Schober, E (corresponding author), Univ Oslo, Dept Social Anthropol, POB 1091, NO-0317 Oslo, Norway.
+EM elisabeth.schober@sai.uio.no
+NR 43
+TC 11
+Z9 10
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1359-0987
+EI 1467-9655
+J9 J ROY ANTHROPOL INST
+JI J. R. Anthropol. Inst.
+PD APR
+PY 2018
+VL 24
+SU 1
+SI SI
+BP 134
+EP 147
+DI 10.1111/1467-9655.12804
+PG 14
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA GC9IL
+UT WOS:000430110600009
+DA 2023-12-03
+ER
+
+PT J
+AU Page, RM
+   Dennis, M
+   Lindsay, GB
+   Merrill, RM
+AF Page, Randy M.
+   Dennis, Megan
+   Lindsay, Gordon B.
+   Merrill, Ray M.
+TI Psychosocial Distress and Substance Use Among Adolescents in Four
+   Countries: Philippines, China, Chile, and Namibia
+SO YOUTH & SOCIETY
+LA English
+DT Article
+DE psychosocial distress; drug use; adolescent health; tobacco use; alcohol
+   use
+ID HEALTH-COMPROMISING BEHAVIORS; CIGARETTE-SMOKING; DRUG-USE;
+   PSYCHOLOGICAL DISTRESS; PEER INFLUENCE; RISK-FACTORS; DEPRESSION;
+   ASSOCIATION; DRINKING; ANXIETY
+AB The purpose of the current study was to examine the relationship between adolescent substance use and psychosocial distress indicators among 30,851 adolescents aged 11 to 16 in four countries (Philippines, China, Chile, and Namibia). Global School-Based Student Health Survey data from these countries provided information about frequency and lifetime use of alcohol, tobacco, and other drugs as well as items about early adolescents' feelings of loneliness, worry, hopelessness, suicide, and number of close friends. Overall, there were significant relationships between adolescent substance-use behaviors and a measure of "global" psychosocial distress for both boys and girls in all four countries and for four of the five items of psychosocial distress (often lonely, often worry, sad/hopeless, and having a suicide plan). The association between substance use and psychosocial distress was also consistent in both genders and across the four countries. These results have important implications for professionals who work with adolescent populations.
+C1 [Page, Randy M.] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   [Dennis, Megan] Intermt Hlth Care, Provo, UT USA.
+C3 Brigham Young University; Intermountain Healthcare
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+NR 62
+TC 39
+Z9 45
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0044-118X
+EI 1552-8499
+J9 YOUTH SOC
+JI Youth Soc.
+PD SEP
+PY 2011
+VL 43
+IS 3
+BP 900
+EP 930
+DI 10.1177/0044118X10368932
+PG 31
+WC Social Issues; Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics; Sociology
+GA 804GF
+UT WOS:000293641600005
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Early Substance Use Initiation And Psychological Distress Among
+   Adolescents In Five ASEAN Countries: A Cross-Sectional Study
+SO PSYCHOLOGY RESEARCH AND BEHAVIOR MANAGEMENT
+LA English
+DT Article
+DE early substance use; psychological distress; adolescents; ASEAN
+   countries
+ID SUICIDE IDEATION; CONSEQUENCES
+AB Aim: The study aimed to assess the associations between substance use early initiation (<12 years) (smoking cigarettes, alcohol and drug use) with psychological distress among adolescents in five ASEAN countries.
+   Methods: Cross-sectional data were analysed from 33,184 school adolescents, with a median age of 14 years, from Indonesia, Laos, Philippines, Thailand and Timor-Leste that took part in the "Global School-Based Student Health Survey (GSHS)" in 2015.
+   Results: The overall prevalence of pre-adolescent (<12 years) cigarette use was 10.6%, 8.1% pre-adolescent current alcohol use, and 4.2% pre-adolescent drug use initiation. In adjusted multinomial logistic regression analysis, pre-adolescent initiation of cigarette smoking, pre-adolescent initiation of alcohol use, pre-adolescent initiation of drug use and multi-substance pre-adolescent initiation were highly associated with medium (=1) and high (=2-5) psychological distress (of five psychological distress items: no close friends, loneliness, anxiety, suicidal ideation and suicide attempt). Late initiation of cigarette use and late initiation of drug use were not associated with medium and/or high psychological distress.
+   Conclusion: Early prevention programmes should target concurrent early substance use initiation in order to prevent possible subsequent psychological distress.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Bangkok, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus,11 Hoffman St, ZA-2531 Potchefstroom, South Africa.
+C3 Mahidol University; North West University - South Africa
+RP Peltzer, K (corresponding author), North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus,11 Hoffman St, ZA-2531 Potchefstroom, South Africa.
+EM kfpeltzer@gmail.com
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 14
+TC 17
+Z9 17
+U1 0
+U2 3
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-1578
+J9 PSYCHOL RES BEHAV MA
+JI Psychol. Res. Behav. Manag.
+PY 2019
+VL 12
+BP 1003
+EP 1008
+DI 10.2147/PRBM.S223624
+PG 6
+WC Psychology, Clinical; Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA JH8DS
+UT WOS:000492999500001
+PM 31749642
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+PT J
+AU Diestro, JDB
+   Vesagas, TS
+   Teleg, RA
+   Aguilar, JA
+   Anlacan, JP
+   Jamora, RDG
+AF Diestro, Jose Danilo B.
+   Vesagas, Theodor S.
+   Teleg, Rosalia A.
+   Aguilar, Jose A.
+   Anlacan, Joseph P.
+   Jamora, Roland Dominic G.
+TI Deep Brain Stimulation for Parkinson Disease in the Philippines:
+   Outcomes of the Philippine Movement Disorder Surgery Center
+SO WORLD NEUROSURGERY
+LA English
+DT Article
+DE Deep brain stimulation; Levodopa equivalent dose; Parkinson disease;
+   Treatment outcomes
+ID 5-YEAR FOLLOW-UP; SUBTHALAMIC NUCLEUS; MEDICAL THERAPY;
+   COST-EFFECTIVENESS; TRIAL; PALLIDOTOMY; METAANALYSIS; TREMOR; PD
+AB OBJECTIVE: Deep brain stimulation (DBS) is an established treatment modality for Parkinson disease (PD). The first DBS for PD in the Philippines was performed at the Philippine Movement Disorder Surgery Center in 2006. There are no Philippine data on DBS for PD. We aim to determine the motor improvement and reduction in medication dosage of all patients with PD who underwent DBS at the Philippine Movement Disorder Surgery Center.
+   METHODS: This is a retrospective study of all patients with PD (n = 17) who underwent DBS from 2006 to 2016. The change in the Unified Parkinson's Disease Rating Scale (UPDRS) motor and levodopa equivalent dose were determined.
+   RESULTS: There was a statistically significant reduction in the UPDRS motor in all patients off medication at 3 months (48.2%; P = 0.004), 1 year (47.3%; P = 0.026), 2 years (48.4%; P = 0.021), and 3 years (66.0%; P = 0.032) after DBS and on medication at 3 months (43.3%; P = 0.023), 6 months (24.7%; P = 0.053), and 1 year (38.1%; P = 0.033). A significant reduction in the dosage of PD medications was also seen until the second year of followup (52.3%; P < 0.001). Adverse events included an attempted suicide and a device-related infection.
+   CONCLUSIONS: DBS for PD improves the UPDRS motor score in the off-medication and on-medication state, with the maximal benefit seen at 3 years after surgery and reduces PD medication dosage by half. Although the benefit from DBS is undeniable, the high cost of the procedure precludes more patients from benefitting from it. There is a need for government support to expand access to DBS.
+C1 [Diestro, Jose Danilo B.] Univ Philippines Manila, Philippine Gen Hosp, Dept Neurosci, Manila, Philippines.
+   [Vesagas, Theodor S.; Teleg, Rosalia A.; Aguilar, Jose A.; Anlacan, Joseph P.; Jamora, Roland Dominic G.] Cardinal Santos Med Ctr, Philippine Movement Disorder Surg Ctr, San Juan, Philippines.
+   [Teleg, Rosalia A.] Natl Kidney & Transplant Inst, Dept Med, Sect Neurol, Quezon City, Philippines.
+   [Anlacan, Joseph P.] Univ Philippines Manila, Philippine Gen Hosp, Coll Med, Dept Psychiat & Behav Med, Manila, Philippines.
+   [Jamora, Roland Dominic G.] Univ Philippines Manila, Philippine Gen Hosp, Coll Med, Dept Neurosci, Manila, Philippines.
+   [Jamora, Roland Dominic G.] St Lukes Med Ctr, Inst Neurosci, Movement Disorder Serv, Quezon City, Philippines.
+   [Jamora, Roland Dominic G.] St Lukes Med Ctr, Inst Neurosci, Sect Neurol, Quezon City, Philippines.
+   [Jamora, Roland Dominic G.] St Lukes Med Ctr, Inst Neurosci, Movement Disorder Serv, Global City, Philippines.
+   [Jamora, Roland Dominic G.] St Lukes Med Ctr, Inst Neurosci, Sect Neurol, Global City, Philippines.
+C3 University of the Philippines System; University of the Philippines
+   Manila; National Kidney & Transplant Institute; University of the
+   Philippines System; University of the Philippines Manila; University of
+   the Philippines System; University of the Philippines Manila; Saint
+   Lukes Medical Center - Philippines; Saint Lukes Medical Center -
+   Philippines
+RP Jamora, RDG (corresponding author), Cardinal Santos Med Ctr, Philippine Movement Disorder Surg Ctr, San Juan, Philippines.; Jamora, RDG (corresponding author), Univ Philippines Manila, Philippine Gen Hosp, Coll Med, Dept Neurosci, Manila, Philippines.; Jamora, RDG (corresponding author), St Lukes Med Ctr, Inst Neurosci, Movement Disorder Serv, Quezon City, Philippines.; Jamora, RDG (corresponding author), St Lukes Med Ctr, Inst Neurosci, Sect Neurol, Quezon City, Philippines.; Jamora, RDG (corresponding author), St Lukes Med Ctr, Inst Neurosci, Movement Disorder Serv, Global City, Philippines.; Jamora, RDG (corresponding author), St Lukes Med Ctr, Inst Neurosci, Sect Neurol, Global City, Philippines.
+EM rgjamora@up.edu.ph
+RI Jamora, Roland Dominic Go/AAT-6899-2020; Jamora, Roland Dominic
+   G./AAO-6290-2020; Diestro, Jose Danilo Bengzon/Z-5122-2019
+OI Jamora, Roland Dominic Go/0000-0001-5317-7369; Diestro, Jose Danilo
+   Bengzon/0000-0001-8450-2021
+NR 39
+TC 6
+Z9 6
+U1 0
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1878-8750
+EI 1878-8769
+J9 WORLD NEUROSURG
+JI World Neurosurg.
+PD JUL
+PY 2018
+VL 115
+BP E650
+EP E658
+DI 10.1016/j.wneu.2018.04.125
+PG 9
+WC Clinical Neurology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Surgery
+GA GK8YL
+UT WOS:000436519600081
+PM 29709756
+DA 2023-12-03
+ER
+
+PT J
+AU Lee, RB
+   Maria, MS
+   Estanislao, S
+   Rodriguez, C
+AF Lee, Romeo B.
+   Maria, Madelene Sta.
+   Estanislao, Susana
+   Rodriguez, Cristina
+TI Factors Associated with Depressive Symptoms among Filipino University
+   Students
+SO PLOS ONE
+LA English
+DT Article
+ID GENDER-DIFFERENCES; FAMILY; PREVALENCE; ALCOHOL; ADOLESCENTS; BEHAVIOR
+AB Depression can be prevented if its symptoms are addressed early and effectively. Prevention against depression among university students is rare in the Philippines, but is urgent because of the rising rates of suicide among the group. Evidence is needed to systematically identify and assist students with higher levels of depressive symptoms. We carried out a survey to determine the social and demographic factors associated with higher levels of depressive symptoms among 2,436 Filipino university students. The University Students Depression Inventory with measures on lethargy, cognition-emotion, and academic motivation, was used. Six of the 11 factors analyzed were found to be statistically significantly associated with more intense levels of depressive symptoms. These factors were: frequency of smoking, frequency of drinking, not living with biological parents, dissatisfaction with one's financial condition, level of closeness with parents, and level of closeness with peers. Sex, age category, course category, year level and religion were not significantly related. In identifying students with greater risk for depression, characteristics related to lifestyle, financial condition, parents and peers are crucial. There is a need to carry out more surveys to develop the pool of local knowledge on student depression.
+C1 [Lee, Romeo B.; Rodriguez, Cristina] De La Salle Univ, Dept Behav Sci, Manila 1004, Philippines.
+   De La Salle Univ, Dept Psychol, Manila 1004, Philippines.
+   [Estanislao, Susana] De La Salle Univ, Off Counselling & Career Serv, Manila 1004, Philippines.
+C3 De La Salle University; De La Salle University; De La Salle University
+RP Lee, RB (corresponding author), De La Salle Univ, Dept Behav Sci, Manila 1004, Philippines.
+EM romeo.lee@dlsu.edu.ph
+RI LEE, ROMEO B./R-3120-2019
+NR 41
+TC 16
+Z9 16
+U1 0
+U2 21
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD NOV 6
+PY 2013
+VL 8
+IS 11
+AR e79825
+DI 10.1371/journal.pone.0079825
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 247XD
+UT WOS:000326656200091
+PM 24223198
+OA Green Submitted, Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI Bullying victimization and externalizing and internalizing symptoms
+   among in-school adolescents from five ASEAN countries
+SO CHILDREN AND YOUTH SERVICES REVIEW
+LA English
+DT Article
+DE Bullying victimization; Substance use; Interpersonal violence; Hygiene;
+   Psychological distress; Adolescents; Southeast Asia
+ID ASSOCIATION; HEALTH; STUDENTS; RISK; BEHAVIOR; PATHWAYS; OUTCOMES; YOUTH
+AB The study aimed to assess the relationship between bullying victimization and adverse health or psychosocial problems among in-school adolescents from five Southeast Asian countries. The sample consisted of 33,184 school-going children, mean age 14.6 years (SD = 1.7), from Indonesia, Laos, Philippines, Thailand and Timor-Leste that took part in the cross-sectional "Global School-based Student Health Survey" (GSHS) in 2015. Results indicate 18.6% of the students reported infrequent (1-2 days/month) and 12.0% frequent (3-30 days/month) past-month bullying victimization. Among different types of bullying victimization, the most prevalent was psychological (13.5%), followed by other (5.6%), physical (3.6%) and social (1.3%). In adjusted Poisson regression analysis, bullying victimization is associated with tobacco, alcohol and drug use, physically attacked, in physical fight, injury, truancy and poor hand hygiene behaviour, anxiety, loneliness, suicidal ideation, suicide attempt, no close friends, sedentary behaviour, underweight and overweight or obesity. This study extends previous findings from mainly high-income countries on the relationship between bullying victimization and a large number of adverse outcomes in adolescents in Southeast Asia.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhon Pathom, Thailand.
+   [Peltzer, Karl] Ton Duc Thang Univ, Dept Management Sci & Technol Dev, Ho Chi Minh City, Vietnam.
+   [Pengpid, Supa] Univ Limpopo, Dept Res Adm & Dev, Turfloop, South Africa.
+   [Peltzer, Karl] Ton Duc Thong Univ, Fac Pharm, Ho Chi Minh City, Vietnam.
+C3 Mahidol University; Ton Duc Thang University; University of Limpopo; Ton
+   Duc Thang University
+RP Peltzer, K (corresponding author), Ton Duc Thang Univ, Ho Chi Minh City, Vietnam.
+EM karl.peltzer@tdtu.edu.vn
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 39
+TC 31
+Z9 31
+U1 2
+U2 27
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0190-7409
+EI 1873-7765
+J9 CHILD YOUTH SERV REV
+JI Child. Youth Serv. Rev.
+PD NOV
+PY 2019
+VL 106
+AR 104473
+DI 10.1016/j.childyouth.2019.104473
+PG 7
+WC Family Studies; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Social Work
+GA JI1JP
+UT WOS:000493222000009
+DA 2023-12-03
+ER
+
+PT J
+AU Litsinger, JA
+   Alviola, AL
+   Dela Cruz, CG
+   Canapi, BL
+   Batay-An, EH
+   Barrion, AT
+AF Litsinger, JA
+   Alviola, AL
+   Dela Cruz, CG
+   Canapi, BL
+   Batay-An, EH
+   Barrion, AT
+TI Rice white stemborer <i>Scirpophaga innotata</i> (Walker) in southern
+   Mindanao, Philippines.: I.: Supplantation of yellow stemborer
+   <i>S-incertulas</i> (Walker) and pest status
+SO INTERNATIONAL JOURNAL OF PEST MANAGEMENT
+LA English
+DT Article
+DE rice insect pest; population ecology; diapause; damage; climate change;
+   cultural practices; Scirpophaga innotata; S. incertulas
+ID STEM BORERS
+AB The rice white stemborer ( WSB) Scirpophaga innotata ( Walker) supplanted the closely related rice yellow stemborer ( YSB) S. incertulas ( Walker) in irrigated, double- rice culture in both Koronadal, South Cotabato, Philippines and Java, Indonesia. In Java, WSB became a serious pest but not in Koronadal where damage levels remained unchanged. The species shift and subsequent outbreaks are seen as independent events. The former occurred just after the El Nino droughts in 1982 1983 which suggests that climatic factors triggered the demise of YSB which does not aestivate. A contributing factor may have also been the crop failures from pest outbreaks that occurred during the same period creating long fallows which would have allowed WSB larvae selectively to survive. WSB larvae have been known to diapause for up to 10 - 12 months and consequently is able to survive climatically driven long fallows. Diapause is terminated by rainfall > 10mm after larvae have rested for a minimum of 4 months. Supportive evidence in favour of climate as the causal agent of change is that the distribution of WSB in Asia and Oceania overlaps that of the Intertropical Convergence Zone of the Southern Oscillation. YSB on the other hand is more adapted to a monsoon climate. It is also hypothesised that WSB, normally associated with single- crop, rainfed- rice culture, was able to adapt to double- cropped, irrigated culture due to the introduction of early maturing rices. From what is known about rice stemborer ecology, five cultural practices and natural events were postulated as the reasons keeping WSB densities in check in Koronadal: ( 1) medium maturing varieties to reduce the dry season fallow, ( 2) low inorganic N levels, ( 3) natural enemies, ( 4) destruction of crop residue harbouring larvae and pupae during land preparation, and ( 5) rainfall in the dry season causing suicide flights. Control strategies for areas where WSB is a pest should be based on: ( 1) reducing the fallow period by growing longer maturing varieties and ( 2) undertaking early ploughing for the wet season crop.
+C1 Int Rice Res Inst, Los Banos, Philippines.
+   Monsanto Philippines, Manila, Philippines.
+   Philippine Rice Res Inst, Agusan del Norte, Philippines.
+C3 CGIAR; International Rice Research Institute (IRRI); Philippine Rice
+   Research Institute
+RP Litsinger, JA (corresponding author), 1365 Jacobs Pl, Dixon, CA 95620 USA.
+EM jlitsinger@thegrid.net
+NR 30
+TC 13
+Z9 15
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0967-0874
+EI 1366-5863
+J9 INT J PEST MANAGE
+JI Int. J. Pest Manage.
+PD JAN-MAR
+PY 2006
+VL 52
+IS 1
+BP 11
+EP 21
+DI 10.1080/09670870600552497
+PG 11
+WC Entomology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Entomology
+GA 018ZD
+UT WOS:000235803300002
+DA 2023-12-03
+ER
+
+PT C
+AU Carrasco, S
+   O'Brien, D
+AF Carrasco, Sandra
+   O'Brien, David
+BE Asgary, A
+TI Urbanism of Emergency: Use and Adaptation of Public Open Spaces in
+   Disaster-Induced Resettlement Sites
+SO RESETTLEMENT CHALLENGES FOR DISPLACED POPULATIONS AND REFUGEES
+SE Sustainable Development Goals Series
+LA English
+DT Proceedings Paper
+CT 8th I-Rec Conference on Reconstruction and Recovery for Displaced
+   Populations and Refugees
+CY JUN 01-02, 2017
+CL York Univ, Toronto, CANADA
+HO York Univ
+DE Public spaces; Disaster-induced resettlement; Community interaction;
+   Adaptation
+ID COMMUNITY; SENSE; SUICIDE; CRIME
+AB Post-disaster reconstruction projects in areas with high pre-disaster vulnerabilities can lead to both temporary and permanent resettlement outcomes. During this complex process, efforts are centred to the provision of housing and basic infrastructure. In general, the limited land available restricts opportunities for high-quality spatial design within the settlements to optimize the land and provide the maximum number of houses possible. Open spaces in these settlements are rarely considered during the planning and implementation of the projects, and consequently there is little scholarship of community space. However, the importance of open spaces to the community and the liveability of these new settlements depend on the interactions which spontaneously take place in these areas. This study explores the different uses and characteristics of open spaces in temporary and permanent resettlement sites established in the aftermath of major disasters in Japan and the Philippines. This study addresses the limitations of the immediate post-disaster urban planning, compared to the longer-term urban space that emerges spontaneously in an attempt by the residents to improve their community. It was observed that the planning of open and public spaces was not a priority for the governments and the other stakeholders involved in settlement design. Despite these compromises, this study reveals that resettled communities appreciate any available open spaces and transform these spaces to accommodate their needs and cultural preferences reflecting their vital role as urban elements for convergence of the multiple sociocultural activities towards the recovery and revitalization of the disaster-affected communities.
+C1 [Carrasco, Sandra; O'Brien, David] Univ Melbourne, Melbourne, Vic, Australia.
+C3 University of Melbourne
+RP Carrasco, S (corresponding author), Univ Melbourne, Melbourne, Vic, Australia.
+EM sandra.carrasco@unimelb.edu.au; djobrien@unimelb.edu.au
+RI Carrasco, Sandra M/I-6753-2018; Carrasco, Sandra/AAE-2685-2020;
+   Carrasco, Sandra/HLG-8004-2023
+OI Carrasco, Sandra M/0000-0002-1395-4976; Carrasco,
+   Sandra/0000-0002-1395-4976; Carrasco, Sandra/0000-0002-1395-4976
+NR 44
+TC 2
+Z9 2
+U1 1
+U2 11
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2523-3084
+EI 2523-3092
+BN 978-3-319-92498-4; 978-3-319-92497-7
+J9 SUSTAIN DEV GOAL SER
+PY 2019
+BP 163
+EP 174
+DI 10.1007/978-3-319-92498-4_12
+PG 12
+WC Development Studies; Demography; Environmental Studies; Regional & Urban
+   Planning
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Development Studies; Demography; Environmental Sciences & Ecology;
+   Public Administration
+GA BL7RT
+UT WOS:000455385400012
+DA 2023-12-03
+ER
+
+PT J
+AU Cheung, YB
+   Ashorn, P
+AF Cheung, Yin Bun
+   Ashorn, Per
+TI Linear growth in early life is associated with suicidal ideation in
+   18-year-old Filipinos
+SO PAEDIATRIC AND PERINATAL EPIDEMIOLOGY
+LA English
+DT Article
+DE birth length; Cebu cohort study; postnatal growth; suicidal ideation;
+   developing country
+ID DEVELOPING-COUNTRIES; DEPRESSIVE SYMPTOMS; MENTAL-HEALTH; BIRTH-WEIGHT;
+   FETAL-GROWTH; CHILDREN; RISK; DISEASE; COHORT; RETARDATION
+AB Studies in Western societies have shown some evidence that growth in early life may be associated with suicide and suicidal ideation in later life. The pattern of growth retardation in developing countries is different from that in Western societies. This study examines the association between size at birth, postnatal growth from birth to age 24 months and suicidal ideation in 18-year-old Filipinos. The 1941 participants born in 1983 and 1984 in the Philippines were assessed for growth status bimonthly from birth to 24 months of age and were administered an interview in 2002, which included items on suicidal ideation.
+   The pattern of growth stunting in this cohort was similar to that in many other developing countries: a minor level of shortness in crown-heel length at birth followed by sharp decline in length-for-age in the first 24 months of life. The prevalence of suicidal ideation at age 18 was 2.9%; 95% confidence interval [CI] 2.2, 3.8%. Length Z-score at 24 months (odds ratios [OR] = 0.67; 95% CI [0.52, 0.86]; P = 0.002) and gain in length Z-score from birth to age 24 months (OR = 0.74; 95% CI [0.56, 0.98]; P = 0.037) were inversely associated with the odds of suicidal ideation. Adjustment for covariates made little difference. Length at birth Z-score was associated with suicidal ideation only after adjustment for postnatal length gain (OR = 0.61; 95% CI [0.46, 0.80]; P < 0.001). The associations between linear growth in early life and suicidal ideation appeared to be partly mediated by educational attainment. In conclusion, postnatal growth stunting is an important predictor of suicidal ideation in later life. It also affects the association between birth length and suicidal ideation.
+C1 [Cheung, Yin Bun] Singapore Clin Res Inst, Singapore, Singapore.
+   [Cheung, Yin Bun; Ashorn, Per] Univ Tampere, Dept Int Hlth, FIN-33101 Tampere, Finland.
+   [Ashorn, Per] Tampere Univ Hosp, Dept Paediat, Tampere, Finland.
+C3 Singapore Clinical Research Institute; Tampere University; Tampere
+   University; Tampere University Hospital
+RP Cheung, YB (corresponding author), Nanos 02-01,31 Biopolis Way, Singapore 138669, Singapore.
+EM yinbun.cheung@scri.edu.sg
+OI Ashorn, Per/0000-0003-2311-2593
+NR 30
+TC 2
+Z9 2
+U1 0
+U2 3
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0269-5022
+J9 PAEDIATR PERINAT EP
+JI Paediatr. Perinat. Epidemiol.
+PD SEP
+PY 2009
+VL 23
+IS 5
+BP 463
+EP 471
+DI 10.1111/j.1365-3016.2009.01037.x
+PG 9
+WC Public, Environmental & Occupational Health; Obstetrics & Gynecology;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Obstetrics & Gynecology;
+   Pediatrics
+GA 479LA
+UT WOS:000268659600010
+PM 19689497
+DA 2023-12-03
+ER
+
+EF

@@ -1,0 +1,1275 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Andriolo, K
+AF Andriolo, K
+TI Murder by suicide: Episodes from Muslim history
+SO AMERICAN ANTHROPOLOGIST
+LA English
+DT Article
+AB Suicide terrorism and other operations that consume the killer's life employ beliefs and practices intended to reconcile the killer with his or her own death. This article reviews three episodes from Muslim history: the Assassins of Syria and Persia, juramentado in the Philippines, and Husayn's martyrdom at Karbala, Each of these episodes manifests a different symbolic stratagem: the neutralization of transition anxiety, the sacrificial fusion of murder and suicide, and the justifying projection of the past onto the present.
+C1 SUNY Albany, Dept Anthropol, New Paltz, NY 12561 USA.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Albany
+RP Andriolo, K (corresponding author), SUNY Albany, Dept Anthropol, New Paltz, NY 12561 USA.
+NR 34
+TC 23
+Z9 23
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-7294
+EI 1548-1433
+J9 AM ANTHROPOL
+JI Am. Anthropol.
+PD SEP
+PY 2002
+VL 104
+IS 3
+BP 736
+EP 742
+DI 10.1525/aa.2002.104.3.736
+PG 7
+WC Anthropology
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Anthropology
+GA 592KB
+UT WOS:000177935900004
+DA 2023-12-03
+ER
+
+PT J
+AU Gan, R
+   Neo, LS
+   Chin, J
+   Khader, M
+AF Gan, Ruth
+   Neo, Loo Seng
+   Chin, Jeffery
+   Khader, Majeed
+TI Change is the Only Constant: The Evolving Role of Women in the Islamic
+   State in Iraq and Syria (ISIS)
+SO WOMEN & CRIMINAL JUSTICE
+LA English
+DT Article
+DE women; jihadi; terrorism; suicide bomber; ISIS
+AB In the past, women in the Islamic State in Iraq and Syria (ISIS) were known to serve as homemakers (i.e., wives, mothers). However, in recent times there has been a shift in their roles, as more women are starting to emerge on the front lines as suicide bombers, recruiters, or a part of ISIS's official women police brigade. This article investigates this phenomenon by performing a thematic analysis on open-source material, namely research reports, media reports, and propaganda material produced by ISIS. In doing so, it presents the evolution of the roles of women in ISIS from past to present and highlights key reasons that motivate women to join ISIS, which include ideology, alienation, romance, peer influence, and a sense of security. Implications for research on women in terrorism have also been identified.
+C1 [Gan, Ruth; Neo, Loo Seng; Chin, Jeffery; Khader, Majeed] Minist Home Affairs, Home Team Behav Sci Ctr, Singapore, Singapore.
+RP Gan, R (corresponding author), Minist Home Affairs, Home Team Behav Sci Ctr, Singapore, Singapore.
+EM ruthgyt@gmail.com
+OI Neo, Loo Seng/0000-0003-1956-6816
+NR 61
+TC 10
+Z9 13
+U1 3
+U2 20
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0897-4454
+EI 1541-0323
+J9 WOMEN CRIM JUSTICE
+JI Women Crim. Justice
+PD SEP 3
+PY 2019
+VL 29
+IS 4-5
+SI SI
+BP 204
+EP 220
+DI 10.1080/08974454.2018.1547674
+PG 17
+WC Criminology & Penology; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Women's Studies
+GA JC1LQ
+UT WOS:000489039900003
+DA 2023-12-03
+ER
+
+PT J
+AU Beccaro, A
+AF Beccaro, Andrea
+TI Modern Irregular Warfare: The ISIS Case Study
+SO SMALL WARS AND INSURGENCIES
+LA English
+DT Article
+DE ISIS; hybrid warfare; irregular warfare; terrorism; insurgency;
+   counterinsurgency; suicide attacks; urban warfare
+AB ISIS (the Islamic State of Iraq and Syria) has become a key political and military actor in the Middle East and in North Africa. This essay aims at outlining ISIS warfare through an analysis of its operations in the frame of hybrid warfare theory proposed by Frank Hoffman. Therefore, the paper deals with: the role of terrorist tactics in ISIS warfare and the relationship between terrorism and insurgency; ISIS use of technology, mainly with regard to suicide attacks and to drones; and the relevance of urban warfare. Finally, the paper highlights how ISIS operates and the most threatening features of its warfare.
+C1 [Beccaro, Andrea] Univ Piemonte Orientale, Dipartimento Studi Umanist, Vercelli, Italy.
+   [Beccaro, Andrea] SUISS, Int Relat, Turin, Italy.
+C3 University of Eastern Piedmont Amedeo Avogadro
+RP Beccaro, A (corresponding author), Univ Piemonte Orientale, Dipartimento Studi Umanist, Vercelli, Italy.; Beccaro, A (corresponding author), SUISS, Int Relat, Turin, Italy.
+EM beccaro.andrea@gmail.com
+NR 96
+TC 15
+Z9 15
+U1 2
+U2 20
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0959-2318
+EI 1743-9558
+J9 SMALL WAR INSUR
+JI Small War Insur.
+PY 2018
+VL 29
+IS 2
+BP 207
+EP 228
+DI 10.1080/09592318.2018.1433469
+PG 22
+WC International Relations
+WE Emerging Sources Citation Index (ESCI)
+SC International Relations
+GA GA2NU
+UT WOS:000428161000002
+DA 2023-12-03
+ER
+
+PT J
+AU Norton, AR
+AF Norton, AR
+TI Hizballah and the Israeli withdrawal from southern Lebanon
+SO JOURNAL OF PALESTINE STUDIES
+LA English
+DT Article
+AB Using as its starting point the Israeli withdrawal from southern Lebanon, this article traces Hizballah's development from a radical resistance group known especially for suicide bombings and kidnappings to a highly professional guerrilla force and a political party with a broad constituency and pragmatic leadership. The author examines Hizballah's entry into politics in the early 1990's; its evolving relations with state actors, especially Syria and Iran; its conduct during and following the withdrawal; and its future prospects.
+C1 Boston Univ, Dept Anthropol, Boston, MA 02215 USA.
+   Boston Univ, Dept Int Relat, Boston, MA 02215 USA.
+C3 Boston University; Boston University
+RP Norton, AR (corresponding author), Boston Univ, Dept Anthropol, Boston, MA 02215 USA.
+NR 0
+TC 47
+Z9 57
+U1 0
+U2 2
+PU UNIV CALIF PRESS
+PI BERKELEY
+PA C/O JOURNALS DIVISION, 2000 CENTER ST, STE 303, BERKELEY, CA 94704-1223
+   USA
+SN 0377-919X
+J9 J PALESTINE STUD
+JI J. Palest. Stud.
+PD FAL
+PY 2000
+VL 30
+IS 1
+BP 22
+EP 35
+DI 10.1525/jps.2000.30.1.02p01053
+PG 14
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 375VB
+UT WOS:000165421000002
+DA 2023-12-03
+ER
+
+PT J
+AU Mokdad, AH
+   Moradi-Lakeh, M
+   Charara, R
+   El Bcheraoui, C
+   Khalil, I
+   Afshin, A
+   Kassebaum, NJ
+   Collison, M
+   Chew, A
+   Krohn, KJ
+   Daoud, F
+   Colombara, D
+   Graetz, N
+   Kutz, M
+   Wang, HD
+   Abd-Allah, F
+   Abu-Raddad, LJ
+   Kiadaliri, AA
+   Ahmed, MB
+   Alam, K
+   Alghnam, S
+   Alizadeh-Navaei, R
+   Al-Raddadi, R
+   Altirkawi, KA
+   Anber, N
+   Anwari, P
+   Avila-Burgos, L
+   Awasthi, A
+   Barac, A
+   Barker-Collo, SL
+   Bedi, N
+   Bhutta, ZA
+   Borschmann, R
+   Boufous, S
+   Butt, ZA
+   Castañeda-Orjuela, CA
+   Dalal, K
+   Danawi, H
+   De Leo, D
+   Dharmaratne, SD
+   Djalalinia, S
+   Doyle, KE
+   Esteghamati, A
+   Faro, A
+   Farvid, MS
+   Fereshtehnejad, SM
+   Fischer, F
+   Gebrehiwot, TT
+   Gutiérrez, RA
+   Hafezi-Nejad, N
+   Hamadeh, RR
+   Hamidi, S
+   Haro, JM
+   Hendrie, D
+   Hu, GQ
+   Jonas, JB
+   Kasaeian, A
+   Keiyoro, PN
+   Khader, YS
+   Khan, EA
+   Khubchandani, J
+   Kopec, JA
+   Larson, HJ
+   Latif, AA
+   Leshargie, CT
+   Lunevicius, R
+   Abd El Razek, MM
+   Majeed, A
+   Malekzadeh, R
+   Memish, ZA
+   Meretoja, TJ
+   Miller, TR
+   Mohammed, S
+   Obermeyer, CM
+   Ogbo, FA
+   Phillips, MR
+   Pourmalek, F
+   Qorbani, M
+   Radfar, A
+   Rafay, A
+   Rahimi-Movaghar, A
+   Rahimi-Movaghar, V
+   Rai, RK
+   Rawaf, DL
+   Rawaf, S
+   Rezaei, S
+   Rezai, MS
+   Roshandel, G
+   Safdarian, M
+   Safiri, S
+   Salamati, P
+   Samy, AM
+   Sartorius, B
+   Seedat, S
+   Sepanlou, SG
+   Shaikh, MA
+   Sobaih, BHA
+   Tabb, KM
+   Tehrani-Banihashemi, A
+   Temsah, MH
+   Terkawi, AS
+   RomanTopor-Madry
+   Ukwaja, KN
+   Uthman, OA
+   Yaseri, M
+   NaohiroYonemoto
+   Younis, MZ
+   Jumaan, AO
+   Vos, T
+   Hay, SI
+   Naghavi, M
+   Murray, CJL
+AF Mokdad, Ali H.
+   Moradi-Lakeh, Maziar
+   Charara, Raghid
+   El Bcheraoui, Charbel
+   Khalil, Ibrahim
+   Afshin, Ashkan
+   Kassebaum, Nicholas J.
+   Collison, Michael
+   Chew, Adrienne
+   Krohn, Kristopher J.
+   Daoud, Farah
+   Colombara, Danny
+   Graetz, Nicholas
+   Kutz, Michael
+   Wang, Haidong
+   Abd-Allah, Foad
+   Abu-Raddad, Laith J.
+   Kiadaliri, Aliasghar Ahmad
+   Ahmed, Muktar Beshir
+   Alam, Khurshid
+   Alghnam, Suliman
+   Alizadeh-Navaei, Reza
+   Al-Raddadi, Rajaa
+   Altirkawi, Khalid A.
+   Anber, Nahla
+   Anwari, Palwasha
+   Avila-Burgos, Leticia
+   Awasthi, Ashish
+   Barac, Aleksandra
+   Barker-Collo, Suzanne L.
+   Bedi, Neeraj
+   Bhutta, Zulfiqar A.
+   Borschmann, Rohan
+   Boufous, Soufiane
+   Butt, Zahid A.
+   Castaneda-Orjuela, Carlos A.
+   Dalal, Koustuv
+   Danawi, Hadi
+   De Leo, Diego
+   Dharmaratne, Samath D.
+   Djalalinia, Shirin
+   Doyle, Kerrie E.
+   Esteghamati, Alireza
+   Faro, Andre
+   Farvid, Maryam S.
+   Fereshtehnejad, Seyed-Mohammad
+   Fischer, Florian
+   Gebrehiwot, Tsegaye Tewelde
+   Gutierrez, Reyna A.
+   Hafezi-Nejad, Nima
+   Hamadeh, Randah Ribhi
+   Hamidi, Samer
+   Haro, Josep Maria
+   Hendrie, Delia
+   Hu, Guoqing
+   Jonas, Jost B.
+   Kasaeian, Amir
+   Keiyoro, Peter Njenga
+   Khader, Yousef Saleh
+   Khan, Ejaz Ahmad
+   Khubchandani, Jagdish
+   Kopec, Jacek A.
+   Larson, Heidi J.
+   Latif, Asma Abdul
+   Leshargie, Cheru Tesema
+   Lunevicius, Raimundas
+   Abd El Razek, Mohammed Magdy
+   Majeed, Azeem
+   Malekzadeh, Reza
+   Memish, Ziad A.
+   Meretoja, Tuomo J.
+   Miller, Ted R.
+   Mohammed, Shafiu
+   Obermeyer, Carla Makhlouf
+   Ogbo, Felix Akpojene
+   Phillips, Michael Robert
+   Pourmalek, Farshad
+   Qorbani, Mostafa
+   Radfar, Amir
+   Rafay, Anwar
+   Rahimi-Movaghar, Afarin
+   Rahimi-Movaghar, Vafa
+   Rai, Rajesh Kumar
+   Rawaf, David Laith
+   Rawaf, Salman
+   Rezaei, Satar
+   Rezai, Mohammad Sadegh
+   Roshandel, Gholamreza
+   Safdarian, Mahdi
+   Safiri, Saeid
+   Salamati, Payman
+   Samy, Abdallah M.
+   Sartorius, Benn
+   Seedat, Soraya
+   Sepanlou, Sadaf G.
+   Shaikh, Masood Ali
+   Sobaih, Badr H. A.
+   Tabb, Karen M.
+   Tehrani-Banihashemi, Arash
+   Temsah, Mohamad-Hani
+   Terkawi, Abdullah Sulieman
+   RomanTopor-Madry
+   Ukwaja, Kingsley Nnanna
+   Uthman, Olalekan A.
+   Yaseri, Mehdi
+   NaohiroYonemoto
+   Younis, Mustafa Z.
+   Jumaan, Aisha O.
+   Vos, Theo
+   Hay, Simon I.
+   Naghavi, Mohsen
+   Murray, Christopher J. L.
+CA GBD 2015 Eastern Mediterranean Reg
+TI Intentional injuries in the Eastern Mediterranean Region, 1990-2015:
+   findings from the Global Burden of Disease 2015 study
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Intentional injuries; Eastern mediterranean region; Burden of disease
+ID SYSTEMATIC ANALYSIS; HEALTH; DISABILITY; MORTALITY; CONFLICT; SUICIDE
+AB We used GBD 2015 findings to measure the burden of intentional injuries in the Eastern Mediterranean Region (EMR) between 1990 and 2015.
+   The Global Burden of Disease (GBD) study defines intentional injuries as a combination of self-harm (including suicide), interpersonal violence, collective violence (war), and legal intervention. We estimated number of deaths, years of life lost (YLLs), years lived with disability (YLDs), and disability-adjusted life years (DALYs) for each type of intentional injuries.
+   In 2015, 28,695 individuals (95% UI: 25,474-37,832) died from self-harm, 35,626 (95% UI: 20,947-41,857) from interpersonal violence, and 143,858 (95% UI: 63,554-223,092) from collective violence and legal interventions. In 2015, collective violence and legal intervention was the fifth-leading cause of DALYs in the EMR and the leading cause in Syria, Yemen, Iraq, Afghanistan, and Libya; they account for 49.7% of total DALYs in Syria.
+   Our findings call for increased efforts to stabilize the region and assist in rebuilding the health systems, as well as increasing transparency and employing preventive strategies to reduce self-harm and interpersonal injuries.
+C1 [GBD 2015 Eastern Mediterranean Reg] Inst Hlth Metr & Evaluat, 2301 5th Ave,Suite 600, Seattle, WA 98121 USA.
+   [Mokdad, Ali H.; El Bcheraoui, Charbel; Khalil, Ibrahim; Afshin, Ashkan; Kassebaum, Nicholas J.; Collison, Michael; Chew, Adrienne; Krohn, Kristopher J.; Daoud, Farah; Colombara, Danny; Graetz, Nicholas; Kutz, Michael; Wang, Haidong; Kopec, Jacek A.; Vos, Theo; Hay, Simon I.; Naghavi, Mohsen; Murray, Christopher J. L.] Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+   [Moradi-Lakeh, Maziar] Iran Univ Med Sci, Dept Community Med, Preventat Med & Publ Hlth Res Ctr, Gastrointestinal & Liver Dis Res Ctr GILDRC, Tehran, Iran.
+   [Charara, Raghid] Amer Univ Beirut, Beirut, Lebanon.
+   [Kassebaum, Nicholas J.] Seattle Childrens Hosp, Dept Anesthesiol & Pain Med, Seattle, WA USA.
+   [Abd-Allah, Foad] Cairo Univ, Dept Neurol, Cairo, Egypt.
+   [Abu-Raddad, Laith J.] Weill Cornell Med Coll Qatar, Infect Dis Epidemiol Grp, Doha, Qatar.
+   [Kiadaliri, Aliasghar Ahmad] Lund Univ, Dept Clin Sci Lund, Clin Epidemiol Unit, Orthoped, Lund, Sweden.
+   [Ahmed, Muktar Beshir] Jimma Univ, Dept Epidemiol, Coll Hlth Sci, Jimma, Ethiopia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Murdoch Childrens Res Inst, Victoria, Parkville, Vic, Australia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Melbourne, Vic, Australia.
+   [Alam, Khurshid] Univ Sydney, Sydney, NSW, Australia.
+   [Alghnam, Suliman] King Abdulah Int Med Res Ctr, Riyadh, Saudi Arabia.
+   [Alghnam, Suliman] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Ctr Injury Res & Policy, Baltimore, MD USA.
+   [Alizadeh-Navaei, Reza] Mazandaran Univ Med Sci, Gastrointestinal Canc Res Ctr, Mazandaran, Iran.
+   [Al-Raddadi, Rajaa] Joint Program Family & Community Med, Jeddah, Saudi Arabia.
+   [Altirkawi, Khalid A.; Sobaih, Badr H. A.; Temsah, Mohamad-Hani] King Saud Univ, Riyadh, Saudi Arabia.
+   [Anber, Nahla] Mansoura Univ, Mansoura, Egypt.
+   [Avila-Burgos, Leticia] Natl Inst Publ Hlth, Cuernavaca, Morelos, Mexico.
+   [Awasthi, Ashish] Sanjay Gandhi Postgrad Inst Med Sci, Lucknow, Uttar Pradesh, India.
+   [Barac, Aleksandra] Univ Belgrade, Fac Med, Belgrade, Serbia.
+   [Barker-Collo, Suzanne L.] Univ Auckland, Sch Psychol, Auckland, New Zealand.
+   [Bedi, Neeraj] Coll Publ Hlth & Trop Med, Jazan, Saudi Arabia.
+   [Bhutta, Zulfiqar A.] Aga Khan Univ, Ctr Excellence Women & Child Hlth, Ctr Global Child Hlth, Hosp Sick Children, Karachi, Pakistan.
+   [Boufous, Soufiane] Univ New South Wales, Transport & Rd Safety TARS Res, Sydney, NSW, Australia.
+   [Butt, Zahid A.] Al Shifa Trust Eye Hosp, Rawalpindi, Punjab, Pakistan.
+   [Castaneda-Orjuela, Carlos A.] Colombian Natl Hlth Observ, Inst Nacl Salud, Bogota, Colombia.
+   [Castaneda-Orjuela, Carlos A.] Univ Nacl Colombia, Publ Hlth Dept, Epidemiol & Publ Hlth Evaluat Grp, Bogota, Colombia.
+   [Dalal, Koustuv] Univ Orebro, Ctr Injury Prevent & Safety Promot, Sch Hlth & Med Sci, Orebro, Sweden.
+   [Danawi, Hadi] Walden Univ, Minneapolis, MN USA.
+   [De Leo, Diego] Griffith Univ, Brisbane, Qld, Australia.
+   [Dharmaratne, Samath D.] Univ Peradeniya, Dept Community Med, Fac Med, Peradeniya, Sri Lanka.
+   [Djalalinia, Shirin] Minist Hlth & Med Educ, Undersecretary Res & Technol, Tehran, Iran.
+   [Doyle, Kerrie E.] RMIT Univ, Bundoora, Vic, Australia.
+   [Doyle, Kerrie E.] Australian Natl Univ, Canberra, ACT, Australia.
+   [Esteghamati, Alireza; Hafezi-Nejad, Nima; Kasaeian, Amir] Univ Tehran Med Sci, Endocrinol & Metab Res Ctr, Tehran, Iran.
+   [Faro, Andre] Univ Fed Sergipe, Aracaju, Sergipe, Brazil.
+   [Farvid, Maryam S.] Harvard Univ, Harvard TH Chan Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   [Farvid, Maryam S.] Massachusetts Gen Hosp, Mongan Inst Hlth Policy, Harvard MGH Ctr Gen Vulnerable Populat & Hlth Dis, Boston, MA 02114 USA.
+   [Fereshtehnejad, Seyed-Mohammad] Karolinska Inst, Dept Neurobiol, Care Sci & Soc NVS, Stockholm, Sweden.
+   [Fischer, Florian] Univ Bielefeld, Sch Publ Hlth, Bielefeld, Germany.
+   [Gebrehiwot, Tsegaye Tewelde] Jimma Univ, Jimma, Ethiopia.
+   [Gutierrez, Reyna A.] Natl Inst Psychiat Ramon de la Fuente, Mexico City, DF, Mexico.
+   [Hamadeh, Randah Ribhi] Arabian Gulf Univ, Manama, Bahrain.
+   [Hamidi, Samer] Hamdan Bin Mohammed Smart Univ, Dubai, U Arab Emirates.
+   [Haro, Josep Maria] CIBERSAM, Parc Sanitari St Joan Deu, St Boi De Llobregat, Barcelona, Spain.
+   [Hendrie, Delia] Curtin Univ, Ctr Populat Hlth Res, Bentley, WA, Australia.
+   [Hu, Guoqing] Cent South Univ, Sch Publ Hlth, Dept Epidemiol & Hlth Stat, Changsha, Peoples R China.
+   [Jonas, Jost B.] Heidelberg Univ, Dept Ophthalmol, Fac Med Mannheim, Mannheim, Germany.
+   [Kasaeian, Amir] Univ Tehran Med Sci, Hematol Oncol & Stem Cell Transplantat Res Ctr, Tehran, Iran.
+   [Keiyoro, Peter Njenga] Inst Trop & Infect Dis, Nairobi, Kenya.
+   [Keiyoro, Peter Njenga] Sch Continuing & Distance Educ, Nairobi, Kenya.
+   [Khader, Yousef Saleh] Jordan Univ Sci & Technol, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Khan, Ejaz Ahmad] Hlth Serv Acad, Islamabad, Pakistan.
+   [Khubchandani, Jagdish] Ball State Univ, Dept Nutr & Hlth Sci, Muncie, IN 47306 USA.
+   [Kopec, Jacek A.] Univ British Columbia, Vancouver, BC, Canada.
+   [Larson, Heidi J.] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London, England.
+   [Latif, Asma Abdul] Lahore Coll Women Univ, Dept Zool, Lahore, Pakistan.
+   [Leshargie, Cheru Tesema] Debre Markos Univ, Debre Markos, Ethiopia.
+   [Lunevicius, Raimundas] Aintree Univ Hosp NHS Fdn Trust, Natl Hlth Serv Fdn Trust, Liverpool, Merseyside, England.
+   [Lunevicius, Raimundas] Univ Liverpool, Sch Med, Liverpool, Merseyside, England.
+   [Abd El Razek, Mohammed Magdy] Aswan Univ Hosp, Aswan Fac Med, Aswan, Egypt.
+   [Majeed, Azeem] Dept Primary Care Publ Hlth, Imperial Coll London, London, England.
+   [Malekzadeh, Reza; Roshandel, Gholamreza; Sepanlou, Sadaf G.] Univ Tehran Med Sci, Digest Dis Res Inst, Tehran, Iran.
+   [Memish, Ziad A.] Saudi Minist Hlth, Riyadh, Saudi Arabia.
+   [Memish, Ziad A.] Alfaisal Univ, Coll Med, Riyadh, Saudi Arabia.
+   [Meretoja, Tuomo J.] Helsinki Univ Hosp, Breast Surg Unit, Comprehens Canc Ctr, Helsinki, Finland.
+   [Meretoja, Tuomo J.] Univ Helsinki, Helsinki, Finland.
+   [Miller, Ted R.] Pacific Inst Res & Evaluat, Calverton, MD USA.
+   [Miller, Ted R.] Curtin Univ, Ctr Populat Hlth, Perth, WA, Australia.
+   [Mohammed, Shafiu] Ahmadu Bello Univ, Hlth Syst & Policy Res Unit, Zaria, Kaduna, Nigeria.
+   [Mohammed, Shafiu] Heidelberg Univ, Inst Publ Hlth, Heidelberg, Germany.
+   [Obermeyer, Carla Makhlouf] Amer Univ Beirut, Ctr Res Populat & Hlth, Fac Hlth Sci, Beirut, Lebanon.
+   [Ogbo, Felix Akpojene] Western Sydney Univ, Ctr Hlth Res, Sydney, NSW, Australia.
+   [Phillips, Michael Robert] Shanghai Jiao Tong Univ, Sch Med, Shanghai, Peoples R China.
+   [Phillips, Michael Robert] Emory Univ, Atlanta, GA 30322 USA.
+   [Pourmalek, Farshad] Univ British Columbia, Vancouver, BC, Canada.
+   [Qorbani, Mostafa] Alborz Univ Med Sci, Noncommunicable Dis Res Ctr, Karaj, Iran.
+   [Radfar, Amir] AT Still Univ, Kirksville, MO USA.
+   [Rafay, Anwar] Contech Int Hlth Consultants, Lahore, Pakistan.
+   [Rafay, Anwar] Contech Sch Publ Hlth, Lahore, Pakistan.
+   [Rahimi-Movaghar, Afarin] Univ Tehran Med Sci, INCAS, Tehran, Iran.
+   [Rahimi-Movaghar, Vafa; Salamati, Payman] Univ Tehran Med Sci, Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Rai, Rajesh Kumar] Soc Hlth & Demog Surveillance, Suri, W Bengal, India.
+   [Rawaf, David Laith] WHO Collaborating Ctr, Imperial Coll London, London, England.
+   [Rawaf, David Laith] North Hampshire Hosp, Basingstroke, England.
+   [Rawaf, David Laith] Univ Coll London Hosp, London, England.
+   [Rawaf, Salman] Imperial Coll London, London, England.
+   [Rezaei, Satar] Kermanshah Univ Med Sci, Sch Publ Hlth, Kermanshah, Iran.
+   [Rezai, Mohammad Sadegh] Mazandaran Univ Med Sci, Sari, Iran.
+   [Roshandel, Gholamreza] Golestan Univ Med Sci, Golestan Res Ctr Gastroenterol & Hepatol, Gorgan, Iran.
+   [Safdarian, Mahdi] Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Safiri, Saeid] Maragheh Univ Med Sci, Sch Nursing & Mid wifery, Dept Publ Hlth, Managerial Epidemiol Res Ctr, Maragheh, Iran.
+   [Samy, Abdallah M.] Ain Shams Univ, Cairo, Egypt.
+   [Sartorius, Benn] Univ KwaZulu Natal, Sch Nursing & Publ Hlth, Publ Hlth Med, Durban, South Africa.
+   [Sartorius, Benn] SAMRC, UKZN Gastrointestinal Canc Res Ctr, Durban, South Africa.
+   [Seedat, Soraya] Stellenbosch Univ, Cape Town, South Africa.
+   [Tabb, Karen M.] Univ Illinois, Sch Social Work, Champaign, IL USA.
+   [Tehrani-Banihashemi, Arash] Iran Univ Med Sci, Prevent Med & Publ Hlth Res Ctr, Tehran, Iran.
+   [Temsah, Mohamad-Hani] King Faisal Specialist Hosp & Res Ctr, Riyadh, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Univ Virginia, Dept Anesthesiol, Charlottesville, VA USA.
+   [Terkawi, Abdullah Sulieman] King Fahad Med City, Dept Anesthesiol, King, WI, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Cleveland Clin, Outcomes Res Consortium, Cleveland, OH 44106 USA.
+   [RomanTopor-Madry] Jagiellonian Univ Med Coll, Inst Publ Hlth, Fac Hlth Sci, Krakow, Poland.
+   [RomanTopor-Madry] Wroclaw Med Univ, Fac Hlth Sci, Wroclaw, Poland.
+   [Ukwaja, Kingsley Nnanna] Fed Teaching Hosp, Dept Internal Med, Ebonyi State, Nigeria.
+   [Uthman, Olalekan A.] Univ Warwick, Warwick Med Sch, Coventry, W Midlands, England.
+   [Yaseri, Mehdi] Univ Tehran Med Sci, Tehran, Iran.
+   [Yaseri, Mehdi] Shahid Beheshti Univ Med Sci, Ophthalm Res Ctr, Tehran, Iran.
+   [NaohiroYonemoto] Kyoto Univ, Sch Publ Hlth, Dept Biostat, Kyoto, Japan.
+   [Younis, Mustafa Z.] Jackson State Univ, Jackson, MS USA.
+   [Hay, Simon I.] Univ Oxford, Li Ka Shing Ctr Hlth Informat & Discovery, Oxford Big Data Inst, Oxford, England.
+C3 Institute for Health Metrics & Evaluation; University of Washington;
+   University of Washington Seattle; Institute for Health Metrics &
+   Evaluation; Iran University of Medical Sciences; American University of
+   Beirut; Seattle Children's Hospital; Egyptian Knowledge Bank (EKB);
+   Cairo University; Qatar Foundation (QF); Weill Cornell Medical College
+   Qatar; Lund University; Jimma University; Murdoch Children's Research
+   Institute; University of Melbourne; University of Melbourne; University
+   of Sydney; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health; Mazandaran University Medical Sciences; King Saud
+   University; Egyptian Knowledge Bank (EKB); Mansoura University;
+   Instituto Nacional de Salud Publica; Sanjay Gandhi Postgraduate
+   Institute of Medical Sciences; University of Belgrade; University of
+   Auckland; Aga Khan University; University of New South Wales Sydney;
+   Instituto Nacional de Salud (Colombia); Universidad Nacional de
+   Colombia; Orebro University; Walden University; Griffith University;
+   University of Peradeniya; Ministry of Health & Medical Education
+   (MOHME); Royal Melbourne Institute of Technology (RMIT); Australian
+   National University; Tehran University of Medical Sciences; Universidade
+   Federal de Sergipe; Harvard University; Harvard T.H. Chan School of
+   Public Health; Harvard University; Massachusetts General Hospital;
+   Karolinska Institutet; University of Bielefeld; Jimma University;
+   Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz; Arabian Gulf
+   University; CIBER - Centro de Investigacion Biomedica en Red; CIBERSAM;
+   Curtin University; Central South University; Ruprecht Karls University
+   Heidelberg; Tehran University of Medical Sciences; Jordan University of
+   Science & Technology; Health Services Academy; Ball State University;
+   University of British Columbia; University of London; London School of
+   Hygiene & Tropical Medicine; Aintree University Hospitals NHS Foundation
+   Trust; University of Liverpool; Egyptian Knowledge Bank (EKB); Aswan
+   University; Imperial College London; Tehran University of Medical
+   Sciences; Alfaisal University; University of Helsinki; Helsinki
+   University Central Hospital; University of Helsinki; Pacific Institute
+   for Research & Evaluation (PIRE); Curtin University; Ahmadu Bello
+   University; Ruprecht Karls University Heidelberg; American University of
+   Beirut; Western Sydney University; Shanghai Jiao Tong University; Emory
+   University; University of British Columbia; A.T. Still University of
+   Health Sciences; Tehran University of Medical Sciences; Tehran
+   University of Medical Sciences; World Health Organization; Imperial
+   College London; University College London Hospitals NHS Foundation
+   Trust; University of London; University College London; Imperial College
+   London; Kermanshah University of Medical Sciences; Mazandaran University
+   Medical Sciences; Golestan University of Medical Sciences; Egyptian
+   Knowledge Bank (EKB); Ain Shams University; University of Kwazulu Natal;
+   Stellenbosch University; University of Illinois System; University of
+   Illinois Urbana-Champaign; Iran University of Medical Sciences; King
+   Faisal Specialist Hospital & Research Center; University of Virginia;
+   King Fahad Medical City; Cleveland Clinic Foundation; Jagiellonian
+   University; Collegium Medicum Jagiellonian University; Wroclaw Medical
+   University; University of Warwick; Tehran University of Medical
+   Sciences; Shahid Beheshti University Medical Sciences; Kyoto University;
+   Jackson State University; University of Oxford
+RP Mokdad, AH (corresponding author), Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+EM mokdaa@uw.edu
+RI Terkawi, Abdullah Suleiman/AAC-1113-2019; Moradi-Lakeh,
+   Maziar/ABC-9793-2021; Tehrani-Banihashemi, Arash/L-5964-2018; Bedi,
+   Neeraj/H-2838-2019; Mokdad, Ali H./AAD-1232-2022; Salamati,
+   Payman/AAK-7086-2020; Hay, Simon Iain/F-8967-2015; Radfar,
+   Amir/I-8057-2019; Ahmed, Muktar/AAY-6783-2020; Haro, Josep
+   Maria/D-1423-2011; Khalil, Ibrahim/M-1520-2016; Rahimi-Movaghar,
+   Vafa/L-6339-2019; Khubchandani, Jagdish/D-1831-2014; Alizadeh-Navaei,
+   Reza/B-2207-2017; Safiri, Saeid/A-1678-2017; Yaseri, Mehdi/I-1645-2018;
+   Fereshtehnejad, Seyed-Mohammad/ABF-6020-2020; Khan, Prof Dr
+   Ejaz/GNP-1245-2022; Ukwaja, Kingsley N./A-7794-2013; Khan, Ejaz
+   A/B-9340-2016; Rezai, Mohammad Sadegh/F-6274-2017; Rubino,
+   Salvatore/AAC-5848-2022; Roshandel, Gholamreza/AAJ-9562-2021;
+   Abu-Raddad, Laith J/AAY-1441-2020; Temsah, Mohamad-Hani/AAJ-9703-2020;
+   Altirkawi, Khalid A/D-7302-2017; Borschmann, Rohan/A-7954-2011;
+   Mohammed, Shafiu/P-2016-2014; Uthman, Olalekan/N-5584-2019; Vos,
+   Theo/HLH-2955-2023; Barac, Aleksandra/W-9785-2019; Hamadeh, Randah
+   R./AAE-9720-2020; Khader, Yousef Saleh/AAE-9620-2019; Altirkawi,
+   Khalid/AAW-5947-2021; Majeed, Abdul/JHT-0587-2023; Memish, Ziad
+   Ahmed/AEJ-9424-2022; Anber, Nahla/AAM-9830-2021; Al-Raddadi,
+   Rajaa/F-8337-2010; Pourmalek, Farshad/A-8188-2010; Samy, Abdallah
+   M./B-4375-2010; Phillips, Michael R/AAE-7585-2021; Ahmed, Muktar
+   B/G-6184-2019; Qorbani, Mostafa/M-8171-2017; f, m/AAM-2063-2021;
+   Sepanlou, Sadaf G/H-9343-2016; Fischer, Florian/F-9003-2016; Lunevicius,
+   Raimundas/B-2528-2018; Kasaeian, Amir/C-8290-2017; Awasthi,
+   Ashish/Y-5915-2019; Rahimi-Movaghar, Afarin/E-9505-2011; Bedi,
+   Neeraj/AGR-0606-2022; Butt, Zahid Ahmad/W-4292-2017; Faro,
+   Andre/J-1696-2014; Castañeda-Orjuela, Carlos/N-2601-2017;
+   Rahimi-Movaghar, Vafa/T-7816-2017; Larson, Heidi J./N-1018-2017; Bhutta,
+   Zulfiqar/L-7822-2015; Dalal, Koustuv/O-6737-2017; Colombara,
+   Danny/H-7202-2015
+OI Terkawi, Abdullah Suleiman/0000-0001-8734-2748; Moradi-Lakeh,
+   Maziar/0000-0001-7381-5305; Bedi, Neeraj/0000-0003-4709-8423; Mokdad,
+   Ali H./0000-0002-4994-3339; Salamati, Payman/0000-0001-9313-3977; Hay,
+   Simon Iain/0000-0002-0611-7272; Radfar, Amir/0000-0001-6177-3048; Ahmed,
+   Muktar/0000-0002-9524-7027; Haro, Josep Maria/0000-0002-3984-277X;
+   Khalil, Ibrahim/0000-0002-1868-5437; Khubchandani,
+   Jagdish/0000-0002-9058-4278; Alizadeh-Navaei, Reza/0000-0003-0580-000X;
+   Safiri, Saeid/0000-0001-7986-9072; Yaseri, Mehdi/0000-0002-4066-873X;
+   Fereshtehnejad, Seyed-Mohammad/0000-0001-9255-9351; Khan, Prof Dr
+   Ejaz/0000-0002-7072-8035; Ukwaja, Kingsley N./0000-0002-1974-8735; Khan,
+   Ejaz A/0000-0002-7072-8035; Rezai, Mohammad Sadegh/0000-0003-4585-9954;
+   Roshandel, Gholamreza/0000-0002-5494-0722; Abu-Raddad, Laith
+   J/0000-0003-0790-0506; Altirkawi, Khalid A/0000-0002-7331-4196;
+   Mohammed, Shafiu/0000-0001-5715-966X; Uthman,
+   Olalekan/0000-0002-8567-3081; Hamadeh, Randah R./0000-0002-4205-1354;
+   Khader, Yousef Saleh/0000-0002-7830-6857; Altirkawi,
+   Khalid/0000-0002-7331-4196; Memish, Ziad Ahmed/0000-0002-5099-0714;
+   Anber, Nahla/0000-0001-5684-9298; Al-Raddadi, Rajaa/0000-0002-8921-9628;
+   Pourmalek, Farshad/0000-0002-2134-0771; Samy, Abdallah
+   M./0000-0003-3978-1134; Phillips, Michael R/0000-0002-5973-2439; Ahmed,
+   Muktar B/0000-0002-9524-7027; Sepanlou, Sadaf G/0000-0002-3669-5129;
+   Fischer, Florian/0000-0002-4388-1245; Lunevicius,
+   Raimundas/0000-0003-3295-0142; Kasaeian, Amir/0000-0003-2018-9368;
+   Awasthi, Ashish/0000-0002-9308-9782; Rahimi-Movaghar,
+   Afarin/0000-0002-5761-1668; Bedi, Neeraj/0000-0003-4709-8423; Butt,
+   Zahid Ahmad/0000-0002-2486-4781; Faro, Andre/0000-0002-7348-6297;
+   Castañeda-Orjuela, Carlos/0000-0002-8735-6223; Wasif,
+   Muhammad/0009-0004-1374-302X; Alghnam, Suliman/0000-0001-5817-0481;
+   Rahimi-Movaghar, Vafa/0000-0001-7347-8767; Barac,
+   Aleksandra/0000-0002-0132-2277; Rezaei, Satar/0000-0002-6194-6057;
+   Borschmann, Rohan/0000-0002-0365-7775; ,
+   bennsartorius/0000-0001-6761-2325; Hamidi, Samer/0000-0002-6766-3728;
+   Farvid, Maryam/0000-0003-1783-4186; Larson, Heidi
+   J./0000-0002-8477-7583; Tabb Dina, Karen/0000-0002-4722-9502; Rawaf,
+   Salman/0000-0001-7191-2355; Alam, Khurshid/0000-0002-7402-7519;
+   Kiadaliri, Ali/0000-0002-4254-9099; Abd-Allah, Foad/0000-0001-8308-5756;
+   Miller, Ted/0000-0002-0958-2639; Bhutta, Zulfiqar/0000-0003-0637-599X;
+   Tehrani Banihashemi, Seyed Arash/0000-0001-6911-9817; Seedat,
+   Soraya/0000-0002-5118-786X; Majeed, Azeem/0000-0002-2357-9858; Temsah,
+   Mohamad-Hani/0000-0002-4389-9322; Hu, Guoqing/0000-0002-5002-8015;
+   Younis, Mustafa/0000-0001-8448-808X; Esteghamati,
+   Alireza/0000-0001-5114-3982; Dalal, Koustuv/0000-0001-7393-796X;
+   Colombara, Danny/0000-0002-5237-1300
+FU Bill & Melinda Gates Foundation
+FX This research was funded by the Bill & Melinda Gates Foundation.
+NR 18
+TC 19
+Z9 19
+U1 1
+U2 15
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD MAY
+PY 2018
+VL 63
+SU 1
+BP 39
+EP 46
+DI 10.1007/s00038-017-1005-2
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GH6AA
+UT WOS:000433519400007
+PM 28776251
+OA Green Accepted, Green Published, Green Submitted, hybrid
+DA 2023-12-03
+ER
+
+PT C
+AU Stanton, A
+   Thart, A
+   Jain, A
+   Vyas, P
+   Chatterjee, A
+   Shakarian, P
+AF Stanton, Andrew
+   Thart, Amanda
+   Jain, Ashish
+   Vyas, Priyank
+   Chatterjee, Arpan
+   Shakarian, Paulo
+GP Assoc Comp Machinery
+TI Mining for Causal Relationships: A Data-Driven Study of the Islamic
+   State
+SO KDD'15: PROCEEDINGS OF THE 21ST ACM SIGKDD INTERNATIONAL CONFERENCE ON
+   KNOWLEDGE DISCOVERY AND DATA MINING
+LA English
+DT Proceedings Paper
+CT 21st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+CY AUG 10-13, 2015
+CL Univ Technol Sydney, Adv Analyt Inst, Sydney, AUSTRALIA
+SP Assoc Comp Machinery SIGKDD, Assoc Comp Machinery SIGMOD, Taylor & Francis Grp, Univ Technol Sydney, Morgan & Claypool Publishers
+HO Univ Technol Sydney, Adv Analyt Inst
+DE Rule learning; causality; security informatics
+AB The Islamic State of Iraq and al-Sham (ISIS) is a dominant insurgent group operating in Iraq and Syria that rose to prominence when it took over Mosul in June, 2014. In this paper, we present a data-driven approach to analyzing this group using a dataset consisting of 2200 incidents of military activity surrounding ISIS and the forces that oppose it (including Iraqi, Syrian, and the American-led coalition). We combine ideas from logic programming and causal reasoning to mine for association rules for which we present evidence of causality. We present relationships that link ISIS vehicle-bourne improvised explosive device (VBIED) activity in Syria with military operations in Iraq, coalition air strikes, and ISIS IED activity, as well as rules that may serve as indicators of spikes in indirect fire, suicide attacks, and arrests.
+C1 [Stanton, Andrew; Thart, Amanda; Jain, Ashish; Vyas, Priyank; Chatterjee, Arpan; Shakarian, Paulo] Arizona State Univ, Tempe, AZ 85287 USA.
+C3 Arizona State University; Arizona State University-Tempe
+RP Stanton, A (corresponding author), Arizona State Univ, Tempe, AZ 85287 USA.
+EM dstanto2@asu.edu; althart@asu.edu; ashish.jain.1@asu.edu;
+   pvyas1@asu.edu; achatt14@asu.edu; shak@asu.edu
+RI Shakarian, Paulo/GPK-6176-2022
+OI Shakarian, Paulo/0000-0002-3159-4660
+NR 18
+TC 5
+Z9 9
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+BN 978-1-4503-3664-2
+PY 2015
+BP 2137
+EP 2146
+DI 10.1145/2783258.2788591
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BN6IU
+UT WOS:000485312900225
+DA 2023-12-03
+ER
+
+PT J
+AU Temby, Q
+AF Temby, Quinton
+TI Cells, Factions and Suicide Operatives: The Fragmentation of Militant
+   Islamism in the Philippines Post-Marawi
+SO CONTEMPORARY SOUTHEAST ASIA
+LA English
+DT Article
+DE Terrorism; Philippines; Mindanao; ISIS; suicide bombing
+AB The siege of Marawi City in 2017 by militants flying the black flag of the Islamic State in Iraq and Syria (ISIS) was one of the most significant events in the development of militant Islamism in Southeast Asia. The devastation of the attack, however, was followed by a major breakthrough in the peace process in the Southern Philippines with the formation in early 2019 of the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). The consequences of these two major events represent a critical juncture in the conflict in Mindanao in which the pattern of militant Islamism is highly fluid. Surveying the situation in Mindanao post-Marawi siege, this article argues that, in parallel to the decline of ISIS in the Middle East, the conflict in Mindanao is undergoing a transitional phase in which the dominant pattern of militant Islamism is shifting from one of insurgency to clandestine terrorism, characterized by a protean network of small but more ruthless groups. This development is marked by the emergence for the first time ever of suicide bombings in the Philippines. If suicide bombing becomes normalized in the Philippines as the most desperate tactic of a decentralized terrorist network, it will present a formidable new challenge to both the Philippine state and the nascent autonomous government in Muslim Mindanao.
+C1 [Temby, Quinton] ISEAS Yusof Ishak Inst, Singapore, Singapore.
+   [Temby, Quinton] 30 Heng Mui Keng Terrace, Singapore 119614, Singapore.
+RP Temby, Q (corresponding author), ISEAS Yusof Ishak Inst, Singapore, Singapore.; Temby, Q (corresponding author), 30 Heng Mui Keng Terrace, Singapore 119614, Singapore.
+EM quinton_temby@iseas.edu.sg
+NR 50
+TC 7
+Z9 7
+U1 0
+U2 8
+PU INST SOUTHEAST ASIAN STUDIES-ISEAS
+PI PASIR PANJANG
+PA 30 HENG MUI KING TERACE, PASIR PANJANG, 119614, SINGAPORE
+SN 0129-797X
+EI 1793-284X
+J9 CONTEMP SE ASIA
+JI Contemp. Southeast Asia
+PD APR
+PY 2019
+VL 41
+IS 1
+BP 114
+EP 137
+DI 10.1355/cs41-1f
+PG 24
+WC Area Studies; International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC Area Studies; International Relations; Government & Law
+GA HX3OS
+UT WOS:000467302000006
+DA 2023-12-03
+ER
+
+PT B
+AU Christiansen, P
+AF Christiansen, Paul
+BA Christiansen, P
+BF Christiansen, P
+TI Bush v. Gore: 2000
+SO ORCHESTRATING PUBLIC OPINION: HOW MUSIC PERSUADES IN TELEVISION
+   POLITICAL ADS FOR US PRESIDENTIAL CAMPAIGNS, 1952-2016
+LA English
+DT Article; Book Chapter
+AB In 2000, in the largest corporate merger until that time, Time Warner was purchased by America Online. Vladimir Putin was elected President of Russia. The anti-trust case United States v. Microsoft Corporation was resolved against Microsoft. A demonstration against globalization took place in Washington, DC. India's population reached one billion. Bashar al-Assad was elected as his father's successor in Syria. At Bill Clinton's urging, Yasser Arafat and Ehud Barak met to hammer out a peace agreement, but talks ultimately failed to produce a tangible result. During naval exercises, the Russian submarine Kursk sank and all aboard perished. Suicide bombers from Al Qaeda blew a large hole in the naval destroyer USS Cole. Hillary Clinton was elected to represent New York in the US Senate.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU AMSTERDAM UNIV PRESS
+PI AMSTERDAM 1071
+PA PRINSENGRACHI 747-51, AMSTERDAM 1071, NETHERLANDS
+BN 978-9-04-853167-7; 978-9-46-298188-1
+PY 2018
+BP 144
+EP 150
+D2 10.5117/9789462981881
+PG 7
+WC Communication; Music; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Communication; Music; Government & Law
+GA BO3MP
+UT WOS:000511087500014
+OA Green Published, Green Submitted
+DA 2023-12-03
+ER
+
+PT C
+AU Usmani, ZU
+   Imana, EY
+   Kirk, D
+AF Usmani, Zeeshan-ul-hassan
+   Imana, Eyosias Yoseph
+   Kirk, Daniel
+BE Sobh, T
+TI Escaping Death - Geometrical Recommendations for High Value Targets
+SO INNOVATIONS AND ADVANCES IN COMPUTER SCIENCES AND ENGINEERING
+LA English
+DT Proceedings Paper
+CT International Joint Conference on Computer, Information, Systems
+   Sciences and Engineering
+CY DEC 05-13, 2008
+CL Bridgeport, CT
+AB Improvised Explosive Devices (IED) and Suicide Bombing have become the headline news for every other day. It is a growing global phenomenon that is happening from Iraq to Afghanistan, Syria to United Kingdom and Spain to Pakistan. An average US soldier in Iraq receives 6 to 23 blast wave shocks over his/her tenure in Iraq. Pakistan has witnessed 120 suicide bombing attacks in last six years. While various attempts have been made to assess the impact of blast overpressure on buildings and animals, little has been done on crowd formation, crowd density and underlying geometry to mitigate the effects. This paper is set to make geometrical recommendations to reduce the casualties in case of such an incident for high value targets, like mosques and army facilities in the frontline countries fighting the global war on terrorism. A virtual simulation tool has been developed which is capable of assessing the impact of crowd formation patterns and their densities on the magnitude of injury and number of casualties during a suicide bombing attack. Results indicated that the worst crowd formation is street (Zig-Zag) where 30% crowd can be dead and 45% can be injured, given typical explosive carrying capacity of a single suicide bomber. Row wise crowd formations was found to be the best for reducing the effectiveness of an attack with 18% crowd in lethal zone and 38% in injury zones. For a typical suicide bombing attack, we can reduce the number of fatalities by 12%, and the number of injuries by 7%. Simulation results were compared and validated by the real-life incidents and found to he in good agreement. Line-of-sight with the attacker, rushing towards the exit, and stampede were found to be the most lethal choices both during and after the attack. These findings, although preliminary, may have implications for emergency response and counter terrorism.
+C1 [Usmani, Zeeshan-ul-hassan] Florida Inst Technol, Dept Comp Sci, Melbourne, FL 32901 USA.
+   [Imana, Eyosias Yoseph] Florida Inst Technol, Dept Elect Engn, Melbourne, FL USA.
+   [Kirk, Daniel] Florida Inst Technol, Dept Aerosp & Mech Engn, Melbourne, FL USA.
+C3 Florida Institute of Technology; Florida Institute of Technology;
+   Florida Institute of Technology
+RP Usmani, ZU (corresponding author), Florida Inst Technol, Dept Comp Sci, Melbourne, FL 32901 USA.
+EM zusmani@fit.edu; eyoseph2007@fit.edu; dkirk@fit.edu
+RI Usmani, Zeeshan-ul-hassan/AAU-1477-2021
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+BN 978-90-481-3657-5
+PY 2010
+BP 503
+EP +
+DI 10.1007/978-90-481-3658-2_88
+PG 2
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BQL52
+UT WOS:000281247700088
+DA 2023-12-03
+ER
+
+PT J
+AU Byman, D
+AF Byman, Daniel
+TI The Homecomings: What Happens When Arab Foreign Fighters in Iraq and
+   Syria Return?
+SO STUDIES IN CONFLICT & TERRORISM
+LA English
+DT Article
+AB What threat do foreign Arab jihadists returning from the war in Syria and Iraq pose to their home states and the broader Arab world? Foreign fighters come back as hardened veterans, steady in the face of danger and skilled in the use of weapons and explosives. While in the conflict zone, they will form networks with other radicals, embrace techniques like suicide bombings and beheadings, and establish ties to jihadists around the world. Different countries have different mitigating factors that limit the danger. The presence or absence of strong and focused security services is particularly important. Returnees' ambition, regional focus, lack of discipline, and brutality often mean they create more enemies than they vanquish and anger local populations. Most terrorism will be locally and regionally focused, with international terrorism probably less of a priority. Area regimes can reduce the risk of bleedout by hindering the travel of volunteers and constraining their ability to organize, stressing the internecine nature of the violence in the Sunni Muslim community, and developing effective de-radicalization programs. Regional and international cooperation to monitor and disrupt travel is also valuable. Many regimes, however, are also likely to take advantage of the jihadists' presence to gain more support from the United States, delay democratic reforms, and crackdown on non-jihadist opposition. Improving intelligence sharing and offensive counterintelligence is important, and the United States can play an important facilitating role.
+C1 [Byman, Daniel] Georgetown Univ, Secur Studies Program, Sch Foreign Serv, Washington, DC 20007 USA.
+   [Byman, Daniel] Brookings Inst, Ctr Middle East Policy, Washington, DC 20036 USA.
+C3 Georgetown University; Brookings Institution
+RP Byman, D (corresponding author), Georgetown Univ, Secur Studies Program, 3600 N St NW, Washington, DC 20007 USA.
+EM Daniel.Byman@georgetown.edu
+RI Byman, Daniel/AAK-1837-2020; Byman, Daniel/AGZ-3597-2022
+NR 62
+TC 31
+Z9 34
+U1 0
+U2 60
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1057-610X
+EI 1521-0731
+J9 STUD CONFL TERROR
+JI Stud. Confl. Terror.
+PD AUG 3
+PY 2015
+VL 38
+IS 8
+BP 581
+EP 602
+DI 10.1080/1057610X.2015.1031556
+PG 22
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA CL5RW
+UT WOS:000357019000001
+DA 2023-12-03
+ER
+
+PT J
+AU Sayari, S
+AF Sayari, Sabri
+TI Back to a Predominant Party System: The November 2015 Snap Election in
+   Turkey
+SO SOUTH EUROPEAN SOCIETY AND POLITICS
+LA English
+DT Article
+DE AKP; Erdogan; political violence; opposition failure; predominant party
+   system
+AB Turkey's snap parliamentary election in November 2015 took place in an environment of growing political violence and terrorism resulting from the renewal of the Kurdish conflict in the southeast and two major suicide bombings carried out by Islamic State of Iraq and Syria (ISIS). Presenting the coalition arithmetic, the article first examines the failure to form a government after the previous election five months earlier. It then examines the campaign for the November election, including party strategies, key issues and the role of the media, before analysing the results and the election winners and losers. In restoring a parliamentary majority for the Adalet ve Kalknma Partisi (Justice and Development Party - AKP) that has governed Turkey continuously for the past 13years, the November election marked the basic continuity of Turkey's predominant party system.
+C1 [Sayari, Sabri] Bahcesehir Univ, Polit Sci, Istanbul, Turkey.
+   [Sayari, Sabri] Sabanci Univ, Istanbul, Turkey.
+   [Sayari, Sabri] Sabanci Univ, Polit Sci, Istanbul, Turkey.
+C3 Bahcesehir University; Sabanci University; Sabanci University
+RP Sayari, S (corresponding author), Bahcesehir Univ, Polit Sci, Istanbul, Turkey.
+EM sabri.sayari@gmail.com
+NR 31
+TC 30
+Z9 31
+U1 0
+U2 19
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1360-8746
+EI 1743-9612
+J9 S EUR SOC POLIT
+JI S. Eur. Soc. Polit.
+PD JUN
+PY 2016
+VL 21
+IS 2
+SI SI
+BP 263
+EP 280
+DI 10.1080/13608746.2016.1170254
+PG 18
+WC Political Science; Social Issues
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Social Issues
+GA DQ5QG
+UT WOS:000379259300007
+OA Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Yüzbasioglu, Y
+   Isik, GÇ
+AF Yuzbasioglu, Yucel
+   Isik, Gulsah Cikrikci
+TI Retrospective analysis of forensic cases in refugees admitted to
+   emergency department
+SO AMERICAN JOURNAL OF EMERGENCY MEDICINE
+LA English
+DT Article
+DE Forensic cases; Refugees; Emergency department
+AB Introduction: The aim of this study was to compare the distribution and frequency of forensic medical events in a refugee group with that of the general population, and thus, extrapolate the problems encountered in the immigrant population.
+   Methods: Those cases admitted to the emergency department (ED) for any reason that required a forensic examination between January 2016 and June 2018 were investigated retrospectively.
+   Results: A total of 310 refugees were admitted to the ED for forensic medical events. The most common nations of origin of the refugees were Iraq (n = 167), Syria (n = 65), and Afghanistan (n = 28). The median age of the refugees was 24 years old (interquartile range = 17-33). With regard to forensics, the most common reasons for the refugees to present to the ED were motor vehicle accidents 27.4%, assaults 25.8%, employment and industrial accidents 16.1%, and suicide attempts 10.3%. Other than suicide attempts, all of the forensic presentations were more common in the males. The outcomes of the refugee group were as follows: 92.3% were discharged, 5.8% were admitted to the hospital, 1% were admitted to the intensive care unit (ICU), and 1% were transferred. Suicide attempts were the most common reasons for the ICU admissions, while the most common reasons for the hospital admissions were orthopedic injuries.
+   Conclusion: In general, the forensic event frequency in the refugee group was lower (p = 0.001); however, this was a single center study, and there could have been unrecorded cases due to an inability to access healthcare assistance, so these results may not be reliable. (C) 2018 Elsevier Inc All rights reserved.
+C1 [Yuzbasioglu, Yucel; Isik, Gulsah Cikrikci] Kecioren Training & Res Hosp, Dept Emergency, Ankara, Turkey.
+C3 Ankara Kecioren Training & Research Hospital
+RP Isik, GÇ (corresponding author), Kecioren Training & Res Hosp, Dept Emergency, Ankara, Turkey.
+EM gulsah8676@gmail.com
+RI yuzbasioglu, yucel/W-3992-2017; IŞIK, GÜLŞAH ÇIKRIKÇI/M-2079-2019
+OI IŞIK, GÜLŞAH ÇIKRIKÇI/0000-0002-6067-7051; Yuzbasioglu,
+   Yucel/0000-0002-4622-2456
+NR 8
+TC 3
+Z9 3
+U1 1
+U2 3
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0735-6757
+EI 1532-8171
+J9 AM J EMERG MED
+JI Am. J. Emerg. Med.
+PD SEP
+PY 2019
+VL 37
+IS 9
+BP 1691
+EP 1693
+DI 10.1016/j.ajem.2018.12.010
+PG 3
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Emergency Medicine
+GA IS5RZ
+UT WOS:000482211500015
+PM 30577984
+DA 2023-12-03
+ER
+
+PT J
+AU Flaherty, MG
+   Roberts, LF
+AF Flaherty, Mary Grace
+   Roberts, Leslie F.
+TI Internet searching produces misleading findings regarding violent deaths
+   in crisis settings: short report
+SO CONFLICT AND HEALTH
+LA English
+DT Letter
+DE Violent death rate; Internet searching; Humanitarian injustice
+AB Donor and agency priorities are influenced by a variety of political, social, and media-related forces that can have a profound impact on response and resource provision. We have attempted to assess how well internet searches articulate the span of violent death rates for five current crisis settings. In three graduate classes (2 public health, 1 information science) at US universities, during a four month period in 2017-2018, we asked approximately 60 graduate students to conduct an internet search to determine which of five countries had the highest and lowest violence specific mortality rate: Venezuela, Syria, Yemen, Central African Republic (CAR), or Mali. Students were divided into groups of three, and within each group explored this question by three approaches. Many graduate students in all groups could not determine the relative rates, especially which country had the lowest violence specific mortality rate. Of the 34 searches that identified a highest violent death rate country, 27.5 (81%) concluded it was Venezuela, followed by Syria (4.5; 13%), Mali (1; 3%) and CAR (1; 3%). Of the 26 searches that identified a least violent death rate 21.5 (83%) reported either CAR or Mali, followed by Yemen (2.5; 10%) and Syria (2; 8%). Aside from lack of data on CAR and Mali, students were perplexed about whether to include suicides or executions in the measure. This resulted in almost half of all inquiries unable to estimate a highest and lowest rate among these five countries. Where conclusions were drawn, it is likely the internet drew students to the opposite conclusion from reality. There are several reasons for this discordance, such as differing categories of violent deaths as defined by the World Health Organization, and search engine algorithms. It is probable, however, that larger issues of connectivity of individual societies with each other and the outside world are playing a profound role in the deceptive results found in this exercise. This insight emphasizes the internet's under-reporting in the world's most poor and remote locations, and highlights the importance of primary data collection and reporting in such settings.
+C1 [Flaherty, Mary Grace] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+   [Roberts, Leslie F.] Columbia Univ, Mailman Sch Publ Hlth, Populat & Family Hlth, New York, NY 10023 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Columbia University
+RP Flaherty, MG (corresponding author), Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+EM mgflaher@email.unc.edu
+OI Flaherty, Mary Grace/0000-0002-8623-4259
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PD FEB 15
+PY 2019
+VL 13
+AR 4
+DI 10.1186/s13031-019-0187-z
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HL9CG
+UT WOS:000459039400001
+PM 30815029
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-03
+ER
+
+PT J
+AU Eshel, H
+AF Eshel, Hanan
+TI Publius Quinctilius Varus in Jewish sources
+SO JOURNAL OF JEWISH STUDIES
+LA English
+DT Article
+AB Varus was the Roman governor of Syria between 7 and 4 BCE. After Herod's death in 4 BCE, Varus ruthlessly suppressed the riots that broke out in Judaea, during which Roman soldiers razed the porticos of the temple in Jerusalem. These events are described in detail in Josephus' writing, and are mentioned in the pseudoepigraphical work the Assumption of Moses and in the rabbinic chronicle work Seder 'Olam Rabbah. Between 6 and 9 CE Varus was the legate of Germania. In 9 CE, while Varus was leading three legions from the areas north of the Rhine to their winter quarters on the Lippe and Rhine rivers, the Germanic tribes at the Teutoburg Forest ambushed him. The Germanic forces slaughtered the Roman legionaries; during the battle Varus committed suicide. We have not found in the writings of Josephus or in the apocryphal and rabbinic works the claim that Varus was killed in Germania because of his actions in Jerusalem. Therefore, it seems as though Josephus and Jews in Judaea were not aware of what befell Varus in the Teutoburg Forest in 9 CE.
+C1 Bar Ilan Univ, Ramat Gan, Israel.
+C3 Bar Ilan University
+RP Eshel, H (corresponding author), Bar Ilan Univ, Ramat Gan, Israel.
+NR 37
+TC 3
+Z9 3
+U1 1
+U2 3
+PU OXFORD CENTRE HEBREW JEWISH STUDIES
+PI OXFORD
+PA 45 ST GILES, OXFORD OX1 3LP, ENGLAND
+SN 0022-2097
+J9 J JEWISH STUD
+JI J. Jew. Stud.
+PD SPR
+PY 2008
+VL 59
+IS 1
+BP 112
+EP 119
+DI 10.18647/2777/JJS-2008
+PG 8
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA 287RX
+UT WOS:000254935300007
+DA 2023-12-03
+ER
+
+PT J
+AU Fealy, G
+AF Fealy, Greg
+TI Apocalyptic Thought, Conspiracism and Jihad in Indonesia
+SO CONTEMPORARY SOUTHEAST ASIA
+LA English
+DT Article
+DE ISIS; apocalypse; conspiracy; jihadism; Indonesia; terrorism
+AB The impact of apocalyptic and conspiracist discourses on Indonesian jihadi thinking and behaviour has been little studied, but evidence in recent years is mounting that it has been significant. Many Indonesians who joined Islamic State forces in Syria and Iraq from 2013 were driven in part by a belief that the final cataclysmic battle between Islam and its foes would occur there imminently, and the families responsible for the 2018 Surabaya suicide bombing which killed more than two dozen people were convinced that the world would soon end. This article examines Indonesia's contemporary apocalyptic literature, with an emphasis on the two main genres: populist and jihadist. It argues that the populist forms, though sensational, highly conspiratorial and commercially motivated, are more insidious than commonly assumed, and can have a "priming effect" upon radicalizing readers by deepening their sense of crisis and grievance, thus inclining them to extreme views and actions. Jihadi apocalypticism has a stronger scholarly basis, but is subject to serious debate and some scepticism within Islamist circles. For some jihadis, such discourses bring a compelling urgency that triggers violence, but for others, apocalypticism is viewed more warily due to the risk that it impairs judgement and leads to erroneous strategies.
+C1 [Fealy, Greg] Hedley Bull Ctr, Dept Polit & Social Change, 130 Garran Rd, Acton, ACT 2601, Australia.
+RP Fealy, G (corresponding author), Hedley Bull Ctr, Dept Polit & Social Change, 130 Garran Rd, Acton, ACT 2601, Australia.
+EM greg.fealy@anu.edu.au
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 5
+PU INST SOUTHEAST ASIAN STUDIES-ISEAS
+PI PASIR PANJANG
+PA 30 HENG MUI KING TERACE, PASIR PANJANG, 119614, SINGAPORE
+SN 0129-797X
+EI 1793-284X
+J9 CONTEMP SE ASIA
+JI Contemp. Southeast Asia
+PD APR
+PY 2019
+VL 41
+IS 1
+BP 63
+EP 85
+DI 10.1355/cs41-1d
+PG 23
+WC Area Studies; International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC Area Studies; International Relations; Government & Law
+GA HX3OS
+UT WOS:000467302000004
+DA 2023-12-03
+ER
+
+PT J
+AU Pasta, L
+   Suero, LAM
+   Farinella, EM
+   Marchese, G
+   Serravalle, D
+   D'Amico, N
+   Filippazzo, MG
+AF Pasta, Linda
+   Suero, Leonardo Antonio Mesa
+   Farinella, Enzo Massimo
+   Marchese, Gaetano
+   Serravalle, Domenico
+   D'Amico, Nicolo
+   Filippazzo, Maria Gabriella
+TI Causes of hospitalisation of migrants arrived in Lampedusa (Southern
+   Italy) from January 2011 to June 2014
+SO EPIDEMIOLOGIA & PREVENZIONE
+LA Italian
+DT Article
+DE exposure; law limits; public interest; health effects
+ID HEALTH; STRAIT
+AB This is the synthesis of a study on admissions of migrants to hospitals in Sicily, from January 2011 to June 2014. Migrants arrived in Lampedusa were 49,000 in 2011; 4,000 in 2012; 15,000 in 2013; 6,000 in 2014; 378 patients requiring hospitalizationwere transported exclusively by the 118 Helicopter Emergency Medical Service in 6 Sicilian hospitals: 203 in 2011, 62 in 2012, 95 in 2013, 18 in 2014. The mean age was 25 years; more frequent areas of provenance were Horn of Africa, North Africa, Syria, and Nigeria. Women were hospitalised almost exclusively for obstetric-gynaecological problems, with a high prevalence of abortions (17/140 pregnancies) secondary to the long journey; men were hospitalised especially for bone fractures, burns, dehydration, infectious diseases, suicide attempts, and, recently, for CO poisoning of people locked in the holds of boats. Infectious diseases were mainly due to respiratory and intestinal distress, 20 people had tuberculosis (TB), 3 had HIV and 1 had malaria. No suspicious of Ebola virus infection was registered. The causes of hospitalisation do not depend on the nationality of patients and are constant over the years. Infectious diffusible diseases, mainly TB, are more common than in the Italian population, and consequently the best surveillance systems, aimed at identifying and treating patients immediately, should be activated. Mare Nostrum Operation helped migrants while they are in sea and allowed the reduction of serious health problems, mainly related to the hardships and duration of the journey, and also anticipating arrivals directly in Lampedusa, permitting a more efficient organisation of the relief in the sea.
+C1 [Pasta, Linda; Suero, Leonardo Antonio Mesa; Filippazzo, Maria Gabriella] Fdn Emergenza Sanit Sud Mondo Vincenzo Cervel, Palermo, Italy.
+   [Farinella, Enzo Massimo] Azienda Osped Osped Riuniti Villa Sofia Cervello, UO Malattie Infett, Palermo, Italy.
+   [Marchese, Gaetano; Serravalle, Domenico] Elisoccorso Serv Urgenza Emergenza Sanit SUES 118, Palermo, Italy.
+   [D'Amico, Nicolo] Univ Palermo, I-90133 Palermo, Italy.
+C3 University of Palermo
+RP Pasta, L (corresponding author), Fdn Emergenza Sanit Sud Mondo Vincenzo Cervel, Palermo, Italy.
+EM lindpas@yahoo.it
+NR 6
+TC 7
+Z9 7
+U1 0
+U2 11
+PU INFERENZE SCARL
+PI MILANO
+PA VIA RICCIARELLI N 29, MILANO, 20148, ITALY
+SN 1120-9763
+J9 EPIDEMIOL PREV
+JI Epidemiol. Prev.
+PD JAN-FEB
+PY 2015
+VL 39
+IS 1
+BP 55
+EP 58
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CM2FV
+UT WOS:000357496200012
+PM 25855548
+DA 2023-12-03
+ER
+
+PT J
+AU Gleich, S
+   Domingo, O
+   Ackermann, N
+   Schwerer, M
+   Graw, M
+   Schöpfer, J
+AF Gleich, S.
+   Domingo, O.
+   Ackermann, N.
+   Schwerer, M.
+   Graw, M.
+   Schoepfer, J.
+TI A post-mortem study of the cause of death and concomitant diseases of
+   refugees in Munich (2014-2015)
+SO RECHTSMEDIZIN
+LA English
+DT Article
+DE Asylum applicants; Forensic autopsy; Cause of death; Infectious
+   diseases; Histological analysis
+AB Background. There was a clear increase in the influx of refugees in Germany in 2014 and 2015. The majority of them came from countries without regular access to medical care. There are often precarious hygienic conditions during the flight. An above-average prevalence for infectious diseases, such as tuberculosis and blood-borne viral diseases is described for this group of persons. There are no available data on the causes of death and concomitant diseases in this group. In the Institute of Forensic Medicine at the University of Munich autopsies were carried out on a significant number of refugees for the first time.
+   Material and methods. The macromorphological findings during the autopsies and the prosecution files were evaluated. Blood and urine samples were analyzed for alcohol and drugs by chromatography and mass spectrometry. Femoral vein blood samples (whole blood) were analyzed for human immunodeficiency virus (HIV), hepatitis B and C by the polymerase chain reaction (PCR). The formalin-fixed parenchymatous organs were histologically examined and assessed. The statistical evaluation of the obtained data was carried out using SPSS (version 23).
+   Results. A total of 20 deceased refugees were autopsied during the investigation period and the average age was 26 years. The main countries of origin were Syria, Afghanistan and Eritrea. In 14 cases an unnatural death was detected, in 2 a natural death and in 4 cases the cause of death remained unclear. The cases of unnatural death were caused by drowning accidents, suicide, traffic accidents, drug abuse and one homicide and the cases of natural death by pneumonia and heart failure. In three cases an infectious or parasitic accompanying disease was diagnosed (tuberculosis or roundworm disease). In 12 of the deceased there were non-infectious concomitant diseases, 6 of which were psychiatric diseases.
+   Conclusion. According to our knowledge for the first time a professional overview of autopsies of refugees, their causes of death and existing concomitant diseases can be given. The indications for a medicolegal autopsy of this group are no different from the general German population. Striking was the low average age of the deceased and the leading cause of death in this small study was drowning of non-swimmers during the summer. None of the autopsied refugees had a contagious disease which could be transmitted to third parties. Despite the young age more than half of the cases were caused by internal diseases, which were the cause of death in two cases. No particular danger for infection existed for the personnel involved in the autopsies of the subjects.
+C1 [Gleich, S.; Domingo, O.; Schwerer, M.; Graw, M.; Schoepfer, J.] Ludwig Maximilian Univ Munich, Inst Forens Med, Munich, Germany.
+   [Gleich, S.] City Munich, Dept Hlth & Environm, Bayerstr 28a, D-80335 Munich, Germany.
+   [Ackermann, N.] Bavarian State Off Hlth & Food Safety, Munich, Germany.
+C3 University of Munich; Bavarian Health & Food Safety Authority
+RP Gleich, S (corresponding author), City Munich, Dept Hlth & Environm, Bayerstr 28a, D-80335 Munich, Germany.
+EM sabine.gleich@muenchen.de
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0937-9819
+EI 1434-5196
+J9 RECHTSMEDIZIN
+JI Rechtsmedizin
+PD FEB
+PY 2018
+VL 28
+IS 1
+BP 25
+EP 32
+DI 10.1007/s00194-017-0214-6
+PG 8
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA FT7ZL
+UT WOS:000423371600004
+DA 2023-12-03
+ER
+
+EF

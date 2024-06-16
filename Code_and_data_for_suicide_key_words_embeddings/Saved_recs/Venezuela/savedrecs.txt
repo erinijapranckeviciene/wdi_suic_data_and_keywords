@@ -1,0 +1,1291 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Corral, WH
+AF Corral, Will H.
+TI Venezuela: Biography of a suicide
+SO WORLD LITERATURE TODAY
+LA English
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV OKLAHOMA PRESS
+PI NORMAN
+PA UNIVERSITY PRESS BUILDING, 1005 ASP AVE, NORMAN, OK 73019 USA
+SN 0196-3570
+EI 1945-8134
+J9 WORLD LITERATURE TOD
+JI World Lit. Today
+PD SEP-OCT
+PY 2018
+VL 92
+IS 5
+BP 93
+EP 94
+PG 2
+WC Literature
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Literature
+GA GR9NB
+UT WOS:000443090600070
+DA 2023-12-06
+ER
+
+PT J
+AU Crespo, FA
+AF Crespo P, Freddy A.
+TI A Descriptive Approach to the Phenomenon of Suicide in Merida, Venezuela
+SO URVIO-REVISTA LATINOAMERICANA DE ESTUDIOS DE SEGURIDAD
+LA Spanish
+DT Article
+DE crisis; emotion; strain; suicide; Venezuela
+AB The present study is a descriptive approximation to suicide in Merida, Venezuela, with the objective of exposing and alerting about the behavior of this phenomenon and its differentiated tendency with the rates of the other states of Venezuela in the period 1995-2012. Using a complementary methodology, the national suicide trend and its differentiation between the different states is exposed. Likewise, in-depth interviews were conducted with the relatives of the suicidal persons in the state. The results show that Merida's suicide rate behaves differently from the national trend and that of the other states, since it is the highest in the period under study. On the other hand, the interviews show a destructuring of the relationship between means and social goals due to the situation that the country is going through, which leads to the accumulation of tension of the individual. The main conclusion is that this situation is generating new morphologies for the expression of violent behavior, among which suicide is a very probable action.
+C1 [Crespo P, Freddy A.] Univ Los Andes, Merida, Venezuela.
+C3 University of Los Andes Venezuela
+RP Crespo, FA (corresponding author), Univ Los Andes, Merida, Venezuela.
+EM frecrepe1@gmail.com
+NR 43
+TC 3
+Z9 3
+U1 0
+U2 1
+PU FLACSO-ECUADOR
+PI QUITO
+PA CALLE PRADERA E7-174 & DIEGO ALMAGRO, QUITO, 00000, ECUADOR
+SN 1390-3691
+EI 1390-4299
+J9 URVIO-REV LATINOAM E
+JI URVIO-REV. LATINOAM. ESTUD. SEGUR.
+PD JUN-NOV
+PY 2019
+IS 24
+BP 167
+EP 185
+DI 10.17141/urvio.24.2019.3731
+PG 19
+WC Political Science
+WE Emerging Sources Citation Index (ESCI)
+SC Government & Law
+GA IB2IF
+UT WOS:000470092200010
+OA Green Submitted, Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Naím, M
+   Toro, F
+AF Naim, Moises
+   Toro, Francisco
+TI Venezuela's Suicide Lessons From a Failed State
+SO FOREIGN AFFAIRS
+LA English
+DT Article
+C1 [Naim, Moises] Carnegie Endowment Int Peace, Washington, DC 20037 USA.
+   [Toro, Francisco] Grp Fifty, Washington, DC USA.
+   [Toro, Francisco] Caracas Chronicles, Caracas, Venezuela.
+RP Naím, M (corresponding author), Carnegie Endowment Int Peace, Washington, DC 20037 USA.
+NR 0
+TC 8
+Z9 8
+U1 0
+U2 6
+PU COUNCIL FOREIGN RELAT IONS INC
+PI NEW YORK
+PA HAROLD PRATT HOUSE, 58 E 68TH ST, NEW YORK, NY 10065 USA
+SN 0015-7120
+J9 FOREIGN AFF
+JI Foreign Aff.
+PD NOV-DEC
+PY 2018
+VL 97
+IS 6
+BP 126
+EP +
+PG 12
+WC International Relations
+WE Social Science Citation Index (SSCI)
+SC International Relations
+GA GX1MY
+UT WOS:000447482600013
+DA 2023-12-06
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-06
+ER
+
+PT J
+AU Altez, R
+AF Altez, Rogelio
+TI The Bolivar who was not. Rise and fall of Antonio Leocadio Guzman in the
+   Venezuelan politics of the 19th century
+SO PRESENTE Y PASADO-REVISTA DE HISTORIA
+LA Spanish
+DT Article
+DE Antonio Leocadio Guzman; Partido Liberal; Venezuela; populism
+AB The life of Antonio Leocadio Guzman had a before and after his death sentence and the commutation of the sentence. In the time before he founded the Gran Partido Liberal of Venezuela with strategies that dearly preceded the modern parties of the 20th century, including the deployment of that party supported by a newspaper, just as Lenin will do with the foundation of the Russian Communist Party. They called Bolivar and followed him with the conviction which it was followed as a hero. He disappointed everyone and committed suicide politically, as his own comrades told him. He died in 1847 before actually dying in 1884. This work synthesizes these facts analytically on the basis of documentary research.
+C1 [Altez, Rogelio] Univ Cent Venezuela, Escuela Antropol, Dept Etnol & Antropol Social, Caracas, Venezuela.
+C3 University of Central Venezuela
+RP Altez, R (corresponding author), Univ Cent Venezuela, Escuela Antropol, Dept Etnol & Antropol Social, Caracas, Venezuela.
+EM ryaltez@yahoo.es
+RI Ortega, Rogelio Altez/G-4913-2018
+OI Ortega, Rogelio Altez/0000-0002-2193-772X
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV LOS ANDES
+PI MERIDA
+PA AP POSTAL 870, MERIDA, 5101-A, VENEZUELA
+SN 1316-1369
+EI 2343-5682
+J9 PRESENTE PASADO
+JI Presente Pasado
+PD JUL-DEC
+PY 2018
+VL 23
+IS 46
+BP 183
+EP 202
+PG 20
+WC History
+WE Emerging Sources Citation Index (ESCI)
+SC History
+GA HD0RG
+UT WOS:000452215100008
+DA 2023-12-06
+ER
+
+PT J
+AU Granero, R
+   Poni, E
+   Poni, C
+AF Granero, Ricardo
+   Poni, Esteban
+   Poni, Caroltn
+TI Suicidal Ideation Among Students of the 7<SUP>th</SUP>, 8<SUP>th</SUP>,
+   and 9<SUP>th</SUP> Grades in the State of Lara, Venezuela: the Global
+   School Health Survey
+SO PUERTO RICO HEALTH SCIENCES JOURNAL
+LA English
+DT Article
+DE Adolescents; Latinos; School; Suicidal Ideation; Suicide; Venezuela
+ID GENDER-DIFFERENCES; RISK; ADOLESCENCE; DEPRESSION; BEHAVIORS; SAMPLE;
+   YOUTH
+AB Background: Suicidal behavior among adolescents is not a well-explored public health problem. Health policy decision-making on suicidal behavior needs reliable information on the prevalence of suicidal ideation (SI) and its associated risk factors to produce health promotion and prevention programs.
+   Methods: The Global School Health Survey is a self-administered survey done on a random probabilistic sample among students of the 7th, 8th, and 9th grades in the Lara State, Venezuela, school period 2003 to 2004. Point prevalence of SI and associated factors were included and the odds (OR) of having SI was calculated given selected factors.
+   Results: Two-thousand seventy (2070) respondents, of which 13.5 % reported having SI in the last 12 months, and in females more than males (14.6% vs. 11.7%). The OR for SI, according to an associated risk factor, were among (a) females: age >= 14 years (2.2), worries (3.42), loneliness (8.8), ever had sexual intercourse (5.58), alcohol (8.43) and (b) males: having only one or non close friends (3.69), alcohol (12.36), ever had sexual intercourse (2.73).
+   Conclusion: Behavioral risk factors are relatively new in the field of surveillance systems; therefore, results on SI should be cautiously taken into consideration and a wide discussion should be encouraged as we learn how to best use the results for health promotion and disease prevention.
+C1 [Poni, Esteban] Good Samaritan Community Hosp, Dept Pediat, Aguadilla, PR USA.
+RP Poni, E (corresponding author), 171 E Manchester Ln, San Bernardino, CA 92408 USA.
+EM este3808@hotmail.com
+FU World Health Organization (WHO) [HQ/03/906339]; ASCARDIO
+FX This study was in part supported by the World Health Organization (WHO)
+   obligation number HQ/03/906339 and dASCARDIO. We thank Carlos Poni for
+   his early assistance with this manuscript. Also, we are deeply grateful
+   to Carol Desoer for her critical review and suggestions of the final
+   manuscript
+NR 42
+TC 4
+Z9 5
+U1 0
+U2 5
+PU UNIV PUERTO RICO MEDICAL SCIENCES CAMPUS
+PI SAN JUAN
+PA OFFICE DEAN ACADEMIC AFFAIRS BOX 365067, SAN JUAN, PR 00936-5067 USA
+SN 0738-0658
+EI 2373-6011
+J9 P R HEALTH SCI J
+JI P. R. Health Sci. J.
+PD DEC
+PY 2008
+VL 27
+IS 4
+BP 337
+EP 342
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 380RM
+UT WOS:000261482900006
+PM 19069360
+DA 2023-12-06
+ER
+
+PT J
+AU Naghavi, M
+   Marczak, LB
+   Kutz, M
+   Shackelford, KA
+   Arora, M
+   Miller-Petrie, M
+   Aichour, MTE
+   Akseer, N
+   Al-Raddadi, RM
+   Alam, K
+   Alghnam, SA
+   Antonio, CAT
+   Aremu, O
+   Arora, A
+   Asadi-Lari, M
+   Assadi, R
+   Atey, TM
+   Avila-Burgos, L
+   Awasthi, A
+   Quintanilla, BPA
+   Barker-Collo, SL
+   Bärnighausen, TW
+   Bazargan-Hejazi, S
+   Behzadifar, M
+   Behzadifar, M
+   Bennett, JR
+   Bhalla, A
+   Bhutta, ZA
+   Bilal, AI
+   Borges, G
+   Borschmann, R
+   Brazinova, A
+   Rincon, JCC
+   Carvalho, F
+   Castañeda-Orjuela, CA
+   Dandona, L
+   Dandona, R
+   Dargan, PI
+   De Leo, D
+   Dharmaratne, SD
+   Ding, EL
+   Do, HP
+   Doku, DT
+   Doyle, KE
+   Driscoll, T
+   Edessa, D
+   El-Khatib, Z
+   Endries, AY
+   Esteghamati, A
+   Faro, A
+   Farzadfar, F
+   Feigin, VL
+   Fischer, F
+   Foreman, KJ
+   Franklin, RC
+   Fullman, N
+   Futran, ND
+   Gebrehiwot, TT
+   Gutiérrez, RA
+   Hafezi-Nejad, N
+   Bidgoli, HH
+   Hailu, GB
+   Haro, JM
+   Hassen, HY
+   Hawley, C
+   Hendrie, D
+   Híjar, M
+   Hu, GQ
+   Ilesanmi, OS
+   Jakovljevic, M
+   James, SL
+   Jayaraman, S
+   Jonas, JB
+   Kahsay, A
+   Kasaeian, A
+   Keiyoro, PN
+   Khader, Y
+   Khalil, IA
+   Khang, YH
+   Khubchandani, J
+   Kiadaliri, AA
+   Kieling, C
+   Kim, YJ
+   Kosen, S
+   Krohn, KJ
+   Kumar, GA
+   Lami, FH
+   Lansingh, VC
+   Larson, HJ
+   Linn, S
+   Lunevicius, R
+   Abd El Razek, HM
+   Abd El Razek, MM
+   Malekzadeh, R
+   Malta, DC
+   Mason-Jones, AJ
+   Matzopoulos, R
+   Memiah, PTN
+   Mendoza, W
+   Meretoja, TJ
+   Mezgebe, HB
+   Miller, TR
+   Mohammed, S
+   Moradi-Lakeh, M
+   Mori, R
+   Nand, D
+   Nguyen, CT
+   Nguyen, QL
+   Ningrum, DNA
+   Ogbo, FA
+   Olagunju, AT
+   Patton, GC
+   Phillips, MR
+   Polinder, S
+   Pourmalek, F
+   Qorbani, M
+   Rahimi-Movaghar, A
+   Rahimi-Movaghar, V
+   Rahman, M
+   Rai, RK
+   Ranabhat, CL
+   Rawaf, DL
+   Rawaf, S
+   Rowhani-Rahbar, A
+   Safdarian, M
+   Safiri, S
+   Sagar, R
+   Salama, JS
+   Sanabria, J
+   Milicevic, MMS
+   Sarmiento-Suárez, R
+   Sartorius, B
+   Satpathy, M
+   Schwebel, DC
+   Seedat, S
+   Sepanlou, SG
+   Shaikh, MA
+   Sharew, NT
+   Shiue, I
+   Singh, JA
+   Sisay, M
+   Skirbekk, V
+   Soares, AM
+   Stein, DJ
+   Stokes, MA
+   Sufiyan, MB
+   Swaroop, M
+   Sykes, BL
+   Tabarés-Seisdedos, R
+   Tadese, F
+   Tran, BX
+   Tran, TT
+   Ukwaja, KN
+   Vasankari, TJ
+   Vlassov, V
+   Werdecker, A
+   Ye, PP
+   Yip, P
+   Yonemoto, N
+   Younis, MZ
+   Zaidi, Z
+   Zaki, ME
+   Hay, SI
+   Lim, SS
+   Lopez, AD
+   Mokdad, AH
+   Vos, T
+   Murray, CJL
+AF Naghavi, Mohsen
+   Marczak, Laurie B.
+   Kutz, Michael
+   Shackelford, Katya Anne
+   Arora, Megha
+   Miller-Petrie, Molly
+   Aichour, Miloud Taki Eddine
+   Akseer, Nadia
+   Al-Raddadi, Rajaa M.
+   Alam, Khurshid
+   Alghnam, Suliman A.
+   Antonio, Carl Abelardo T.
+   Aremu, Olatunde
+   Arora, Amit
+   Asadi-Lari, Mohsen
+   Assadi, Reza
+   Atey, Tesfay Mehari
+   Avila-Burgos, Leticia
+   Awasthi, Ashish
+   Quintanilla, Beatriz Paulina Ayala
+   Barker-Collo, Suzanne Lyn
+   Barnighausen, Till Winfried
+   Bazargan-Hejazi, Shahrzad
+   Behzadifar, Masoud
+   Behzadifar, Meysam
+   Bennett, James R.
+   Bhalla, Ashish
+   Bhutta, Zulfiqar A.
+   Bilal, Arebu Issa
+   Borges, Guilherme
+   Borschmann, Rohan
+   Brazinova, Alexandra
+   Rincon, Julio Cesar Campuzano
+   Carvalho, Felix
+   Castaneda-Orjuela, Carlos A.
+   Dandona, Lalit
+   Dandona, Rakhi
+   Dargan, Paul I.
+   De Leo, Diego
+   Dharmaratne, Samath Dhamminda
+   Ding, Eric L.
+   Huyen Phuc Do
+   Doku, David Teye
+   Doyle, Kerrie E.
+   Driscoll, TimRobert
+   Edessa, Dumessa
+   El-Khatib, Ziad
+   Endries, Aman Yesuf
+   Esteghamati, Alireza
+   Faro, Andre
+   Farzadfar, Farshad
+   Feigin, Valery L.
+   Fischer, Florian
+   Foreman, Kyle J.
+   Franklin, Richard Charles
+   Fullman, Nancy
+   Futran, Neal D.
+   Gebrehiwot, Tsegaye Tewelde
+   Gutierrez, Reyna Alma
+   Hafezi-Nejad, Nima
+   Bidgoli, Hassan Haghparast
+   Hailu, Gessessew Bugssa
+   Haro, Josep Maria
+   Hassen, Hamid Yimam
+   Hawley, Caitlin
+   Hendrie, Delia
+   Hijar, Martha
+   Hu, Guoqing
+   Ilesanmi, Olayinka Stephen
+   Jakovljevic, Mihajlo
+   James, Spencer L.
+   Jayaraman, Sudha
+   Jonas, Jost B.
+   Kahsay, Amaha
+   Kasaeian, Amir
+   Keiyoro, Peter Njenga
+   Khader, Yousef
+   Khalil, Ibrahim A.
+   Khang, Young-Ho
+   Khubchandani, Jagdish
+   Kiadaliri, Aliasghar Ahmad
+   Kieling, Christian
+   Kim, Yun Jin
+   Kosen, Soewarta
+   Krohn, Kristopher J.
+   Kumar, G. Anil
+   Lami, Faris Hasan
+   Lansingh, Van C.
+   Larson, Heidi Jane
+   Linn, Shai
+   Lunevicius, Raimundas
+   Abd El Razek, Hassan Magdy
+   Abd El Razek, Muhammed Magdy
+   Malekzadeh, Reza
+   Malta, Deborah Carvalho
+   Mason-Jones, Amanda J.
+   Matzopoulos, Richard
+   Memiah, Peter T. N.
+   Mendoza, Walter
+   Meretoja, Tuomo J.
+   Mezgebe, Haftay Berhane
+   Miller, Ted R.
+   Mohammed, Shafiu
+   Moradi-Lakeh, Maziar
+   Mori, Rintaro
+   Nand, Devina
+   Cuong Tat Nguyen
+   Quyen Le Nguyen
+   Ningrum, Dina Nur Anggraini
+   Ogbo, Felix Akpojene
+   Olagunju, Andrew T.
+   Patton, George C.
+   Phillips, Michael R.
+   Polinder, Suzanne
+   Pourmalek, Farshad
+   Qorbani, Mostafa
+   Rahimi-Movaghar, Afarin
+   Rahimi-Movaghar, Vafa
+   Rahman, Mahfuzar
+   Rai, Rajesh Kumar
+   Ranabhat, Chhabi Lal
+   Rawaf, David Laith
+   Rawaf, Salman
+   Rowhani-Rahbar, Ali
+   Safdarian, Mahdi
+   Safiri, Saeid
+   Sagar, Rajesh
+   Salama, Joseph S.
+   Sanabria, Juan
+   Milicevic, Milena M. Santric
+   Sarmiento-Suarez, Rodrigo
+   Sartorius, Benn
+   Satpathy, Maheswar
+   Schwebel, David C.
+   Seedat, Soraya
+   Sepanlou, Sadaf G.
+   Shaikh, Masood Ali
+   Sharew, Nigussie Tadesse
+   Shiue, Ivy
+   Singh, Jasvinder A.
+   Sisay, Mekonnen
+   Skirbekk, Vegard
+   Soares Filho, Adauto Martins
+   Stein, Dan J.
+   Stokes, Mark Andrew
+   Sufiyan, Mu'awiyyah Babale
+   Swaroop, Mamta
+   Sykes, Bryan L.
+   Tabares-Seisdedos, Rafael
+   Tadese, Fentaw
+   Bach Xuan Tran
+   Tung Thanh Tran
+   Ukwaja, Kingsley Nnanna
+   Vasankari, Tommi Juhani
+   Vlassov, Vasily
+   Werdecker, Andrea
+   Ye, Pengpeng
+   Yip, Paul
+   Yonemoto, Naohiro
+   Younis, Mustafa Z.
+   Zaidi, Zoubida
+   Zaki, Maysaa El Sayed
+   Hay, Simon I.
+   Lim, Stephen S.
+   Lopez, Alan D.
+   Mokdad, Ali H.
+   Vos, Theo
+   Murray, Christopher J. L.
+CA Global Burden Dis 2016 Injury Col
+TI Global Mortality From Firearms, 1990-2016
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+ID HOMICIDE RATES; SUICIDE; GUN; VIOLENCE; RISK; LAWS
+AB IMPORTANCE Understanding global variation in firearm mortality rates could guide prevention policies and interventions.
+   OBJECTIVE To estimate mortality due to firearm injury deaths from 1990 to 2016 in 195 countries and territories.
+   DESIGN, SETTING, AND PARTICIPANTS This study used deidentified aggregated data including 13 812 location-years of vital registration data to generate estimates of levels and rates of death by age-sex-year-location. The proportion of suicides in which a firearm was the lethal means was combined with an estimate of per capita gun ownership in a revised proxy measure used to evaluate the relationship between availability or access to firearms and firearm injury deaths.
+   EXPOSURES Firearm ownership and access.
+   MAIN OUTCOMES AND MEASURES Cause-specific deaths by age, sex, location, and year.
+   RESULTS Worldwide, it was estimated that 251 000 (95% uncertainty interval [UI], 195 000-276 000) people died from firearm injuries in 2016, with 6 countries (Brazil, United States, Mexico, Colombia, Venezuela, and Guatemala) accounting for 50.5%(95% UI, 42.2%-54.8%) of those deaths. In 1990, there were an estimated 209 000 (95% UI, 172 000 to 235 000) deaths from firearm injuries. Globally, the majority of firearm injury deaths in 2016 were homicides (64.0%[95% UI, 54.2%-68.0%]; absolute value, 161 000 deaths [95% UI, 107 000-182 000]); additionally, 27% were firearm suicide deaths (67 500 [95% UI, 55 400-84 100]) and 9% were unintentional firearm deaths (23 000 [95% UI, 18 200-24 800]). From 1990 to 2016, there was no significant decrease in the estimated global age-standardized firearm homicide rate (-0.2%[95% UI, -0.8% to 0.2%]). Firearm suicide rates decreased globally at an annualized rate of 1.6%(95% UI, 1.1-2.0), but in 124 of 195 countries and territories included in this study, these levels were either constant or significant increases were estimated. There was an annualized decrease of 0.9% (95% UI, 0.5%-1.3%) in the global rate of age-standardized firearm deaths from 1990 to 2016. Aggregate firearm injury deaths in 2016 were highest among persons aged 20 to 24 years (for men, an estimated 34 700 deaths [95% UI, 24 900-39 700] and for women, an estimated 3580 deaths [95% UI, 2810-4210]). Estimates of the number of firearms by country were associated with higher rates of firearm suicide (P<.001; R-2 = 0.21) and homicide (P<.001; R-2 = 0.35).
+   CONCLUSIONS AND RELEVANCE This study estimated between 195 000 and 276 000 firearm injury deaths globally in 2016, the majority of which were firearm homicides. Despite an overall decrease in rates of firearm injury death since 1990, there was variation among countries and across demographic subgroups.
+C1 [Naghavi, Mohsen; Marczak, Laurie B.; Kutz, Michael; Shackelford, Katya Anne; Arora, Megha; Miller-Petrie, Molly; Dandona, Lalit; Dandona, Rakhi; Dharmaratne, Samath Dhamminda; Feigin, Valery L.; Foreman, Kyle J.; Fullman, Nancy; Hawley, Caitlin; James, Spencer L.; Khalil, Ibrahim A.; Krohn, Kristopher J.; Larson, Heidi Jane; Salama, Joseph S.; Hay, Simon I.; Lim, Stephen S.; Lopez, Alan D.; Mokdad, Ali H.; Vos, Theo; Murray, Christopher J. L.] Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+   [Aichour, Miloud Taki Eddine] Higher Natl Sch Vet Med, Algiers, Algeria.
+   [Akseer, Nadia; Bhutta, Zulfiqar A.] Univ Toronto, Hosp Sick Children, Ctr Global Child Hlth, Toronto, ON, Canada.
+   [Al-Raddadi, Rajaa M.] King Abdulaziz Univ, Dept Family & Community Med, Jeddah, Saudi Arabia.
+   [Alam, Khurshid] Univ Western Australia, Sch Populat & Global Hlth, Perth, WA, Australia.
+   [Alghnam, Suliman A.] King Abdullah Int Med Res Ctr, Dept Populat Hlth, Riyadh, Saudi Arabia.
+   [Antonio, Carl Abelardo T.] Univ Philippines Manila, Dept Hlth Policy & Adm, Manila, Philippines.
+   [Aremu, Olatunde] Birmingham City Univ, Dept Publ & Community Hlth, Birmingham, England.
+   [Arora, Amit] Western Sydney Univ, Sch Sci & Hlth, Penrith, NSW, Australia.
+   [Arora, Amit] Sydney Local Hlth Dist, Oral Hlth Serv, Sydney, NSW, Australia.
+   [Asadi-Lari, Mohsen] Iran Univ Med Sci, Dept Epidemiol & Biostat, Tehran, Iran.
+   [Asadi-Lari, Mohsen] Iranian Minist Hlth & Med Educ, Int Relat Dept, Tehran, Iran.
+   [Assadi, Reza] Mashhad Univ Med Sci, Educ Dev Ctr, Mashhad, Iran.
+   [Atey, Tesfay Mehari] Mekelle Univ, Dept Pharm, Mekelle, Ethiopia.
+   [Avila-Burgos, Leticia] Natl Inst Publ Hlth, Ctr Hlth Syst Res, Cuernavaca, Morelos, Mexico.
+   [Awasthi, Ashish] Indian Inst Publ Hlth, Gandhinagar, India.
+   [Dandona, Lalit; Dandona, Rakhi; Kumar, G. Anil; Rawaf, David Laith] Publ Hlth Fdn India, Gurugram, India.
+   [Quintanilla, Beatriz Paulina Ayala] La Trobe Univ, Judith Lumley Ctr, Melbourne, Vic, Australia.
+   [Quintanilla, Beatriz Paulina Ayala] Peruvian Natl Inst Hlth, Gen Off Res & Technol Transfer, Lima, Peru.
+   [Barker-Collo, Suzanne Lyn] Univ Auckland, Sch Psychol, Auckland, New Zealand.
+   [Barnighausen, Till Winfried; Mohammed, Shafiu] Heidelberg Univ, Inst Publ Hlth, Heidelberg, Germany.
+   [Barnighausen, Till Winfried] Harvard Univ, Dept Global Hlth & Populat, Boston, MA 02115 USA.
+   [Bazargan-Hejazi, Shahrzad] Charles R Drew Univ Med & Sci, Dept Psychiat, 1621 E 120th St, Los Angeles, CA 90059 USA.
+   [Bazargan-Hejazi, Shahrzad] Univ Calif Los Angeles, Dept Psychiat & Biobehav Sci, Los Angeles, CA 90024 USA.
+   [Behzadifar, Masoud; Behzadifar, Meysam] Lorestan Univ Med Sci, Social Determinants Hlth Res Ctr, Khorranmabad, Iran.
+   [Behzadifar, Masoud; Behzadifar, Meysam] Lorestan Univ Med Sci, Fac Hlth & Nutr, Khorranmabad, Iran.
+   [Bhalla, Ashish] Post Grad Inst Med Educ & Res, Dept Internal Med, Chandigarh, India.
+   [Bhutta, Zulfiqar A.] Aga Khan Univ, Ctr Excellence Women & Child Hlth, Karachi, Pakistan.
+   [Bilal, Arebu Issa] Addis Ababa Univ, Sch Pharm, Addis Ababa, Ethiopia.
+   [Borges, Guilherme] Natl Inst Psychiat Ramon Fuente, Dept Epidemiol, Mexico City, DF, Mexico.
+   [Borschmann, Rohan] Murdoch Childrens Res Inst, Ctr Adolescent Hlth, Melbourne, Vic, Australia.
+   [Borschmann, Rohan] Univ Melbourne, Melbourne Sch Populat & Global Hlth, Melbourne, Vic, Australia.
+   [Brazinova, Alexandra] Comenius Univ, Inst Epidemiol, Bratislava, Slovakia.
+   [Rincon, Julio Cesar Campuzano] Natl Inst Hlth, Cuernavaca, Morelos, Mexico.
+   [Rincon, Julio Cesar Campuzano] Univ Valle Cuernavaca, Escuela Med, Cuernavaca, Morelos, Mexico.
+   [Carvalho, Felix] Univ Porto, Ucibio Requimte Fac Pharm, Porto, Portugal.
+   [Castaneda-Orjuela, Carlos A.] Inst Nacl Salud, Colombian Natl Hlth Observ, Bogota, Colombia.
+   [Castaneda-Orjuela, Carlos A.] Univ Nacl Colombia, Epidemiol & Publ Hlth Evaluat Grp, Bogota, Colombia.
+   [Dargan, Paul I.] Guys & St Thomas NHS Fdn Trust, Dept Clin Toxicol, London, England.
+   [Dargan, Paul I.] Kings Coll London, Dept Fac Life Sci & Med, London, England.
+   [De Leo, Diego] Griffith Univ, Australian Inst Suicide Res & Prevent, Mt Gravatt, Qld, Australia.
+   [Dharmaratne, Samath Dhamminda] Univ Peradeniya, Dept Community Med, Peradeniya, Sri Lanka.
+   [Ding, Eric L.] Harvard Univ, Harvard Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   [Huyen Phuc Do; Cuong Tat Nguyen; Quyen Le Nguyen; Tung Thanh Tran] Duy Tan Univ, Inst Global Hlth Innovat, Hanoi, Vietnam.
+   [Doku, David Teye] Univ Cape Coast, Dept Populat & Hlth, Cape Coast, Ghana.
+   [Doku, David Teye] Univ Tampere, Fac Social Sci, Tampere, Finland.
+   [Doyle, Kerrie E.] Royal Melbourne Inst Technol Univ RMIT, Sch Hlth & Biomed Sci, Bundoora, Vic, Australia.
+   [Driscoll, TimRobert] Univ Sydney, Sydney Sch Publ Hlth, Sydney, NSW, Australia.
+   [Edessa, Dumessa] Haramaya Univ, Sch Pharm, Harar, Ethiopia.
+   [El-Khatib, Ziad] Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+   [Endries, Aman Yesuf] St Pauls Hosp, Millennium Med Coll, Dept Publ Hlth, Addis Ababa, Ethiopia.
+   [Esteghamati, Alireza] Univ Tehran Med Sci, Endocrinol & Metab Res Ctr, Tehran, Iran.
+   [Faro, Andre] Univ Fed Sergipe, Dept Psychol, Sao Cristovao, Brazil.
+   [Farzadfar, Farshad] Univ Tehran Med Sci, Noncommunicable Dis Res Ctr, Tehran, Iran.
+   [Feigin, Valery L.] Auckland Univ Technol, Natl Inst Stroke & Appl Neurosci, Auckland, New Zealand.
+   [Fischer, Florian] Univ Bielefeld, Dept Publ Hlth Med, Bielefeld, Germany.
+   [Franklin, Richard Charles] James Cook Univ, Coll Publ Hlth Med & Vet Sci, Douglas, Qld, Australia.
+   [Futran, Neal D.] Univ Washington, Sch Med, Dept Otolaryngol Head & Neck Surg, Seattle, WA 98195 USA.
+   [Gebrehiwot, Tsegaye Tewelde] Jimma Univ, Dept Epidemiol & Biostat, Jimma, Ethiopia.
+   [Gutierrez, Reyna Alma] Natl Inst Psychiat Ramon de la Fuente, Epidemiol & Psychosocial Invest, Mexico City, DF, Mexico.
+   [Hafezi-Nejad, Nima] Univ Tehran Med Sci, Sch Med, Tehran, Iran.
+   [Hafezi-Nejad, Nima] Johns Hopkins Univ, Dept Radiol, Baltimore, MD USA.
+   [Bidgoli, Hassan Haghparast] UCL, Inst Global Hlth, London, England.
+   [Hailu, Gessessew Bugssa] Mekelle Univ, Sch Med, Biomed Sci Div, Mekelle, Ethiopia.
+   [Haro, Josep Maria] Parc Sanitari Sant Joan Deu CIBERSAM, Res Unit, Sant Boi De Llobregat, Spain.
+   [Haro, Josep Maria] Univ Barcelona, Dept Med, Barcelona, Spain.
+   [Hassen, Hamid Yimam] Mizan Tepi Univ, Dept Publ Hlth, Mizan Teferi, Ethiopia.
+   [Hassen, Hamid Yimam] Univ Hosp Antwerp, Unit Epidemiol & Social Med, Antwerp, Belgium.
+   [Hendrie, Delia; Miller, Ted R.] Curtin Univ, Sch Publ Hlth, Perth, WA, Australia.
+   [Hijar, Martha] Fdn Entornos AC, Res Coordinat, Cuernavaca, Morelos, Mexico.
+   [Hijar, Martha] Natl Inst Publ Hlth, CISS, Cuernavaca, Morelos, Mexico.
+   [Hu, Guoqing] Cent South Univ, Xiangya Sch Publ Hlth, Dept Epidemiol & Hlth Stat, Changsha, Hunan, Peoples R China.
+   [Ilesanmi, Olayinka Stephen] Univ Liberia, Dept Publ Hlth & Community Med, Monrovia, Liberia.
+   [Jakovljevic, Mihajlo] Univ Kragujevac, Fac Med Sci, Kragujevac, Serbia.
+   [Jayaraman, Sudha] Virginia Commonwealth Univ, Dept Surg, Richmond, VA USA.
+   [Jonas, Jost B.] Heidelberg Univ, Med Fac Mannheim, Dept Ophthalmol, Heidelberg, Germany.
+   [Jonas, Jost B.] Capital Med Univ, Beijing Ophthalmol & Visual Sci Key Lab, Beijing Tongren Hosp, Beijing Inst Ophthalmol, Beijing, Peoples R China.
+   [Kahsay, Amaha] Mekelle Univ, Dept Nutr & Dietet, Mekelle, Ethiopia.
+   [Kasaeian, Amir] Univ Tehran Med Sci, Hemat Oncol & Stem Cell Transplantat Res Ctr, Tehran, Iran.
+   [Kasaeian, Amir] Univ Tehran Med Sci, Hematol Malignancies Res Ctr, Tehran, Iran.
+   [Keiyoro, Peter Njenga] Univ Nairobi, Sch Continuing & Distance Educ, Nairobi, Kenya.
+   [Khader, Yousef] Jordan Univ Sci & Technol, Publ Hlth & Community Med, Alramtha, Jordan.
+   [Khang, Young-Ho] Seoul Natl Univ, Coll Med, Dept Hlth Policy & Management, Seoul, South Korea.
+   [Khang, Young-Ho] Seoul Natl Univ, SNU Med Res Ctr, Inst Hlth Policy & Management, Seoul, South Korea.
+   [Khubchandani, Jagdish] Ball State Univ, Dept Nutr & Hlth Sci, Muncie, IN 47306 USA.
+   [Kiadaliri, Aliasghar Ahmad] Lund Univ, Clin Epidemiol Unit, Lund, Sweden.
+   [Kieling, Christian] Univ Fed Rio Grande do Sul, Dept Psychiat, Porto Alegre, RS, Brazil.
+   [Kieling, Christian] Hosp Clin Porto Alegre, Child & Adolescent Psychiat Div, Porto Alegre, RS, Brazil.
+   [Kim, Yun Jin] Xiamen Univ Malaysia, Sch Med, Sepang, Malaysia.
+   [Lami, Faris Hasan] Acad Med Sci, Dept Community & Family Med, Baghdad, Iraq.
+   [Lansingh, Van C.] Helpmesee, New York, NY USA.
+   [Lansingh, Van C.] Mexican Inst Ophthalmol, Dept Int Relat, Queretaro, Mexico.
+   [Larson, Heidi Jane] London Sch Hyg & Trop Med London, Dept Infect Dis Epidemiol, London, England.
+   [Linn, Shai] Univ Haifa, Sch Publ Hlth, Haifa, Israel.
+   [Lunevicius, Raimundas] Aintree Univ Hosp Natl Hlth Serv Fdn Trust NHS, Gen Surg Dept, Liverpool, Merseyside, England.
+   [Lunevicius, Raimundas] Univ Liverpool, Sch Med, Liverpool, Merseyside, England.
+   [Abd El Razek, Hassan Magdy] Damietta Univ, Dept Cardiol, Dumyat, Egypt.
+   [Abd El Razek, Muhammed Magdy] Aswan Fac Med, Ophthalmol Dept, Aswan, Egypt.
+   [Malekzadeh, Reza; Sepanlou, Sadaf G.] Univ Tehran Med Sci, Digest Dis Res Inst, Tehran, Iran.
+   [Malekzadeh, Reza; Sepanlou, Sadaf G.] Shiraz Univ Med Sci, Noncommunicable Dis Res Ctr, Shiraz, Iran.
+   [Malta, Deborah Carvalho] Univ Fed Minas Gerais, Dept Materno Infantil & Saude Publ, Belo Horizonte, MG, Brazil.
+   [Mason-Jones, Amanda J.] Univ York, Dept Hlth Sci, York, N Yorkshire, England.
+   [Matzopoulos, Richard] South African Med Res Council, Burden Dis Res Unit, Cape Town, South Africa.
+   [Matzopoulos, Richard] Univ Cape Town, Sch Publ Hlth & Family Med, Cape Town, South Africa.
+   [Memiah, Peter T. N.] Univ West Florida, Dept Publ Hlth, Pensacola, FL 32514 USA.
+   [Mendoza, Walter] United Nations Populat Fund UNFPA, Peru Country Off, Lima, Peru.
+   [Meretoja, Tuomo J.] Helsinki Univ Hosp, Breast Surg Unit, Comprehens Canc Ctr, Helsinki, Finland.
+   [Meretoja, Tuomo J.] Univ Helsinki, Dept Surg, Helsinki, Finland.
+   [Mezgebe, Haftay Berhane] Acad Med Sci, Sch Pharm, Baghdad, Iraq.
+   [Miller, Ted R.] Pacific Inst Res & Evaluat, Calverton, MD USA.
+   [Mohammed, Shafiu] Ahmadu Bello Univ, Hlth Syst & Policy Res Unit, Zaria, Nigeria.
+   [Moradi-Lakeh, Maziar] Iran Univ Med Sci, Prevent Med & Publ Hlth Res Ctr, Tehran, Iran.
+   [Mori, Rintaro] Natl Ctr Child Hlth & Dev, Dept Hlth Policy, Tokyo, Japan.
+   [Nand, Devina] Minist Hlth, Hlth Informat Unit, Suva, Fiji.
+   [Nand, Devina] Accamargo Canc Ctr, Sao Paulo, Brazil.
+   [Ningrum, Dina Nur Anggraini] Semarang State Univ, Publ Hlth Dept, Kota Semarang, Indonesia.
+   [Ningrum, Dina Nur Anggraini] Taipei Med Univ, Grad Inst Biomed Informat, Taipei, Taiwan.
+   [Ogbo, Felix Akpojene] Western Sydney Univ, Penrith, NSW, Australia.
+   [Olagunju, Andrew T.] Univ Adelaide, Sch Med, Adelaide, SA, Australia.
+   [Olagunju, Andrew T.] Univ Lagos, Dept Psychiat, Lagos, Nigeria.
+   [Patton, George C.] Univ Melbourne, Dept Paediat, Melbourne, Vic, Australia.
+   [Patton, George C.] Murdoch Childrens Res Inst, Dept Paediat, Melbourne, Vic, Australia.
+   [Phillips, Michael R.] Shanghai Jiao Tong Univ, Shanghai Mental Hlth Ctr, Shanghai, Peoples R China.
+   [Polinder, Suzanne] Erasmus Univ, Med Ctr, Dept Publ Hlth, Rotterdam, Netherlands.
+   [Pourmalek, Farshad] Univ British Columbia, Sch Populat & Publ Hlth, Vancouver, BC, Canada.
+   [Qorbani, Mostafa] Alborz Univ Med Sci, Noncommunicable Dis Res Ctr, Karaj, Iran.
+   [Rahimi-Movaghar, Afarin] Univ Tehran Med Sci, INCAS, Tehran, Iran.
+   [Rahimi-Movaghar, Vafa] Univ Tehran Med Sci, Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Rahman, Mahfuzar] BRAC, Res & Evaluat Div, Dhaka, Bangladesh.
+   [Rai, Rajesh Kumar] Soc Hlth & Demog Surveillance, Suri, India.
+   [Rai, Rajesh Kumar] Univ Gottingen, Dept Econ, Gottingen, Germany.
+   [Ranabhat, Chhabi Lal] Yonsei Univ, Inst Poverty Alleviat & Int Dev, Seoul, South Korea.
+   [Rawaf, David Laith] Imperial Coll London, WHO Collaborating Ctr Publ Hlth Educ & Training, London, England.
+   [Rawaf, David Laith] Univ Coll London Hosp, London, England.
+   [Rawaf, Salman] Imperial Coll London, Dept Primary Care & Publ Hlth, London, England.
+   [Rawaf, Salman] Publ Hlth England, London, England.
+   [Rowhani-Rahbar, Ali] Univ Washington, Dept Epidemiol, Seattle, WA 98195 USA.
+   [Safdarian, Mahdi] Iran Univ Med Sci, Sina Trauma & Surg Ctr, Tehran, Iran.
+   [Safiri, Saeid] Maragheh Univ Med Sci, Sch Nursing & Midwifery, Dept Publ Hlth, Managerial Epidemiol Res Ctr, Maragheh, Iran.
+   [Sagar, Rajesh] AIIMS, Dept Psychiat, New Delhi, India.
+   [Sanabria, Juan] Marshall Univ, Dept Surg, Huntington, WV USA.
+   [Sanabria, Juan] Case Western Reserve Univ, Dept Nutr & Prevent Med, Cleveland, OH 44106 USA.
+   [Milicevic, Milena M. Santric] Univ Belgrade, Ctr Sch Publ Hlth & Hlth Management, Inst Social Med, Fac Med, Belgrade, Serbia.
+   [Sarmiento-Suarez, Rodrigo] Univ Ciencias Aplicadas & Ambient, Fac Med, Dept Hlth & Soc, Bogota, Colombia.
+   [Sartorius, Benn] Univ Kwazulu Natal, Dept Publ Hlth Med, Durban, South Africa.
+   [Satpathy, Maheswar] Utkal Univ, UGC Ctr Adv Study Psychol, Bhubaneswar, India.
+   [Schwebel, David C.] Univ Alabama Birmingham, Dept Psychol, Birmingham, AL 35294 USA.
+   [Seedat, Soraya] Stellenbosch Univ, Dept Psychiat, Cape Town, South Africa.
+   [Sharew, Nigussie Tadesse] Debre Berhan Univ, Coll Hlth Sci, Debre Berhan, Ethiopia.
+   [Shiue, Ivy] Martin Luther Univ Halle Wittenberg, Inst Med Epidemiol Biometrie & Informat, Haale, Germany.
+   [Singh, Jasvinder A.] Univ Alabama Birmingham, Sch Med, Birmingham, AL USA.
+   [Singh, Jasvinder A.] Univ Alabama Birmingham, Dept Epidemiol, Birmingham, AL USA.
+   [Sisay, Mekonnen] Haramaya Univ, Sch Pharm, Harar, Ethiopia.
+   [Skirbekk, Vegard] Norwegian Inst Publ Hlth, Oslo, Norway.
+   [Soares Filho, Adauto Martins] Fed Minist Hlth, Dept Dis & Noncommunicable Dis & Hlth Promot, Brasilia, DF, Brazil.
+   [Stein, Dan J.] South African Med Res Council, Cape Town, South Africa.
+   [Stein, Dan J.] Univ Cape Town, Dept Psychiat & Mental Hlth, Cape Town, South Africa.
+   [Stokes, Mark Andrew] Deakin Univ, Sch Psychol, Burwood, Vic, Australia.
+   [Sufiyan, Mu'awiyyah Babale] Ahmadu Bello Univ, Dept Community Med, Zaria, Nigeria.
+   [Swaroop, Mamta] Northwestern Univ, Dept Surg, Chicago, IL 60611 USA.
+   [Sykes, Bryan L.] Univ Calif Irvine, Dept Criminol Law & Soc, Irvine, CA USA.
+   [Tabares-Seisdedos, Rafael] Univ Valencia, Dept Med, Valencia, Spain.
+   [Tadese, Fentaw] Wollo Univ, Dept Publ Hlth, Dessie, Ethiopia.
+   [Bach Xuan Tran; Tung Thanh Tran] Hanoi Med Univ, Dept Hlth Econ, Hanoi, Vietnam.
+   [Ukwaja, Kingsley Nnanna] Fed Teaching Hosp, Dept Internal Med, Abakaliki, Nigeria.
+   [Vasankari, Tommi Juhani] UKK Inst Hlth Promot Res, Tampere, Finland.
+   [Vlassov, Vasily] Natl Res Univ, Higher Sch Econ, Dept Hlth Care Management & Econ, Moscow, Russia.
+   [Werdecker, Andrea] Fed Inst Populat Res, Demog Change & Ageing, Wiesbaden, Germany.
+   [Ye, Pengpeng] Chinese Ctr Dis Control & Prevent, Natl Ctr Chron & Noncommunicable Dis Control & Pr, Div Injury Prevent & Mental Hlth Improvement, Xicheng Dist, Peoples R China.
+   [Yip, Paul] Univ Hong Kong, Ctr Suicide Res & Prevent, Hong Kong, Hong Kong, Peoples R China.
+   [Yonemoto, Naohiro] Kyoto Univ, Sch Publ Hlth, Dept Biostat, Kyoto, Japan.
+   [Younis, Mustafa Z.] Jackson State Univ, Healthcare Management Hlth Econ & Finance Global, Jackson, MO USA.
+   [Younis, Mustafa Z.] Tsinghua Univ, Res Ctr Publ Hlth, Beijing, Peoples R China.
+   [Zaidi, Zoubida] Univ Hosp Setif, Dept Epidemiol, Setif, Algeria.
+   [Zaidi, Zoubida] ACS Med Coll & Hosp, Fac Med Sci, Algiers, Algeria.
+   [Zaki, Maysaa El Sayed] Mansoura Univ, Fac Med, Mansoura, Egypt.
+   [Lopez, Alan D.] Univ Melbourne, Sch Populat & Global Hlth, Melbourne, Vic, Australia.
+C3 University of Washington; University of Washington Seattle; Institute
+   for Health Metrics & Evaluation; University of Toronto; Hospital for
+   Sick Children (SickKids); King Abdulaziz University; University of
+   Western Australia; King Saud Bin Abdulaziz University for Health
+   Sciences; King Abdullah International Medical Research Center (KAIMRC);
+   University of the Philippines System; University of the Philippines
+   Manila; Birmingham City University; Western Sydney University; Iran
+   University of Medical Sciences; Ministry of Health & Medical Education
+   (MOHME); Mashhad University Medical Science; Mekelle University;
+   Instituto Nacional de Salud Publica; Public Health Foundation of India;
+   La Trobe University; Instituto Nacional de Salud - Peru; University of
+   Auckland; Ruprecht Karls University Heidelberg; Harvard University;
+   Charles R. Drew University of Medicine & Science; University of
+   California System; University of California Los Angeles; Lorestan
+   University of Medical Sciences; Lorestan University of Medical Sciences;
+   Post Graduate Institute of Medical Education & Research (PGIMER),
+   Chandigarh; Aga Khan University; Addis Ababa University; Instituto
+   Nacional de Psiquiatria Ramon de la Fuente Muniz; Murdoch Children's
+   Research Institute; University of Melbourne; Comenius University
+   Bratislava; Universidade do Porto; Instituto Nacional de Salud
+   (Colombia); Universidad Nacional de Colombia; Guy's & St Thomas' NHS
+   Foundation Trust; University of London; King's College London; Griffith
+   University; Griffith University - Mount Gravatt Campus; University of
+   Peradeniya; Harvard University; Harvard T.H. Chan School of Public
+   Health; Duy Tan University; University of Cape Coast; Tampere
+   University; Royal Melbourne Institute of Technology (RMIT); University
+   of Sydney; Haramaya University; Karolinska Institutet; Tehran University
+   of Medical Sciences; Universidade Federal de Sergipe; Tehran University
+   of Medical Sciences; Auckland University of Technology; University of
+   Bielefeld; James Cook University; University of Washington; University
+   of Washington Seattle; Jimma University; Instituto Nacional de
+   Psiquiatria Ramon de la Fuente Muniz; Tehran University of Medical
+   Sciences; Johns Hopkins University; University of London; University
+   College London; Mekelle University; CIBER - Centro de Investigacion
+   Biomedica en Red; CIBERSAM; University of Barcelona; University of
+   Antwerp; Curtin University; Instituto Nacional de Salud Publica; Central
+   South University; University of Kragujevac; Virginia Commonwealth
+   University; Ruprecht Karls University Heidelberg; Capital Medical
+   University; Mekelle University; Tehran University of Medical Sciences;
+   Tehran University of Medical Sciences; University of Nairobi; Jordan
+   University of Science & Technology; Seoul National University (SNU);
+   Seoul National University (SNU); Ball State University; Lund University;
+   Universidade Federal do Rio Grande do Sul; Xiamen University Malaysia
+   Campus; University of Haifa; University of Liverpool; Egyptian Knowledge
+   Bank (EKB); Damietta University; Tehran University of Medical Sciences;
+   Shiraz University of Medical Science; Universidade Federal de Minas
+   Gerais; University of York - UK; South African Medical Research Council;
+   University of Cape Town; State University System of Florida; University
+   of West Florida; University of Helsinki; Helsinki University Central
+   Hospital; University of Helsinki; Pacific Institute for Research &
+   Evaluation (PIRE); Ahmadu Bello University; Iran University of Medical
+   Sciences; National Center for Child Health & Development - Japan;
+   A.C.Camargo Cancer Center; Universitas Negeri Semarang; Taipei Medical
+   University; Western Sydney University; University of Adelaide;
+   University of Lagos; University of Melbourne; Murdoch Children's
+   Research Institute; Shanghai Jiao Tong University; Erasmus University
+   Rotterdam; Erasmus MC; University of British Columbia; Tehran University
+   of Medical Sciences; Tehran University of Medical Sciences; Bangladesh
+   Rural Advancement Committee BRAC; University of Gottingen; Yonsei
+   University; Imperial College London; University of London; University
+   College London; University College London Hospitals NHS Foundation
+   Trust; Imperial College London; Public Health England; University of
+   Washington; University of Washington Seattle; Iran University of Medical
+   Sciences; All India Institute of Medical Sciences (AIIMS) New Delhi;
+   Marshall University; Case Western Reserve University; University of
+   Belgrade; University of Kwazulu Natal; Utkal University; University of
+   Alabama System; University of Alabama Birmingham; Stellenbosch
+   University; Martin Luther University Halle Wittenberg; University of
+   Alabama System; University of Alabama Birmingham; University of Alabama
+   System; University of Alabama Birmingham; Haramaya University; Norwegian
+   Institute of Public Health (NIPH); South African Medical Research
+   Council; University of Cape Town; Deakin University; Ahmadu Bello
+   University; Northwestern University; University of California System;
+   University of California Irvine; University of Valencia; Hanoi Medical
+   University; UKK Institute; HSE University (National Research University
+   Higher School of Economics); Chinese Center for Disease Control &
+   Prevention; National Center for Chronic & Noncommunicable Disease
+   Control & Prevention, Chinese Center for Disease Control & Prevention;
+   University of Hong Kong; Kyoto University; Tsinghua University; Egyptian
+   Knowledge Bank (EKB); Mansoura University; University of Melbourne
+RP Naghavi, M (corresponding author), Univ Washington, Inst Hlth Metr & Evaluat, Global Hlth Dept, 2301 Fifth Ave,Ste 600, Seattle, WA 98121 USA.
+EM nagham@uw.edu
+RI Franklin, Richard Charles/H-1731-2012; Aremu, Olatunde/AAD-1995-2019;
+   Bidgoli, Hassan Haghparast/C-1601-2018; Qorbani, Mostafa/M-8171-2017;
+   Malta, Deborah Carvalho/L-2491-2019; Sisay, Mekonnen/AAD-3257-2020;
+   assadi, reza/AAT-6629-2020; Mason-Jones, Amanda/ABF-1565-2020; Khalil,
+   Ibrahim/M-1520-2016; Ayala Quintanilla, Beatriz Paulina/C-8325-2016;
+   Ningrum, Dina Nur Anggraini/ABA-1698-2020; Hay, Simon Iain/F-8967-2015;
+   Borschmann, Rohan/A-7954-2011; Kieling, Christian/U-3905-2019;
+   Milicevic, Milena Santric/H-6423-2018; Vos, Theo/HLH-2955-2023;
+   Tabares-Seisdedos, Rafael/H-6432-2013; Edessa, Dumessa/K-2892-2019;
+   Jakovljevic, Mihajlo/B-3002-2014; Ilesanmi, Olayinka/AAF-8628-2021;
+   Khader, Yousef Saleh/AAE-9620-2019; Bärnighausen, Till/Y-2388-2019;
+   Asadi-Lari, Mohsen/IXN-6643-2023; El-Khatib, Ziad/B-5161-2017; Fischer,
+   Florian/F-9003-2016; Carvalho, Félix/D-4914-2013; Olagunju, Andrew
+   Toyin/B-4746-2017; Pourmalek, Farshad/A-8188-2010; KUMAR,
+   ANIL/ACD-8340-2022; Lopez, Alan D/F-1487-2010; Lunevicius,
+   Raimundas/B-2528-2018; Sharew, Nigussie Tadesse/AAD-5597-2022; Memiah,
+   Peter/P-3115-2017; Kumar, Anil/HJB-2850-2022; Nguyễn,
+   Cường/JDV-5253-2023; Safiri, Saeid/A-1678-2017; Zaki, Maysaa El
+   Sayed/C-1522-2013; Awasthi, Ashish/Y-5915-2019; Matzopoulos,
+   Richard/AAL-9965-2021; Rahimi-Movaghar, Afarin/E-9505-2011; Stein, Dan
+   J/A-1752-2008; nguyen, huu/JMP-7804-2023; assadi, reza/AAI-1124-2021;
+   Sagar, Rajesh/L-7775-2016; Sufiyan, Muawiyyah Babale/GWN-2609-2022;
+   Kasaeian, Amir/C-8290-2017; Filho, Adauto Martins Soares/M-2176-2016;
+   Zaki, Maysaa El Sayed/H-3049-2019; Behzadifar, Masoud/H-1433-2016;
+   Singh, Jasvinder/R-6172-2019; Lopez, Alan/AAA-2734-2022; Stokes, Mark
+   A/P-8937-2017; Phuc, Huyen/I-5061-2019; Behzadifar, Meysam/K-2781-2016;
+   Haro, Josep Maria/D-1423-2011; Rahimi-Movaghar, Vafa/L-6339-2019;
+   Yousefi, Zabihollah/G-2287-2011; Khubchandani, Jagdish/D-1831-2014;
+   Antonio, Carl Abelardo/AAP-4280-2020; Phillips, Michael R/AAE-7585-2021;
+   James, Spencer/JFK-0818-2023; Lami, Faris/AAW-7666-2021; Jayaraman,
+   Sudha/AAH-3059-2019; Moradi-Lakeh, Maziar/ABC-9793-2021; Faro,
+   Andre/J-1696-2014; Patton, George C/B-5246-2013; Mansour-Ghanaei,
+   Fariborz/ABC-0170-2022; Hassen, Hamid Y./HPG-4002-2023; Hassen, Hamid
+   Y./K-6445-2019; Brazinova, Alexandra/C-4265-2016; Al-Raddadi,
+   Rajaa/F-8337-2010; Ribeiro, Ana Cristina/HHN-7466-2022; Ukwaja, Kingsley
+   N./A-7794-2013; Kim, Yun Jin/AAE-8281-2019; Milicevic,
+   Milena/AAV-3679-2021; Ding, Eric L./K-1118-2019; Hassen, Hamid
+   Y./A-1105-2019; Endries, Aman Yesuf/AAN-6871-2021; Schwebel, David
+   C./GXH-9944-2022; Edessa, Dumessa/K-3885-2019; Naohiro,
+   Yonemoto/Y-3761-2019; Mokdad, Ali H./AAD-1232-2022; Feigin,
+   Valery/AAF-2313-2019; Satpathy, Maheswar/J-3135-2017; Mohammed,
+   Shafiu/P-2016-2014; Boothapati, Anil Kumar/HHS-1813-2022;
+   Rahimi-Movaghar, Vafa/T-7816-2017; Sepanlou, Sadaf/H-9343-2016; Larson,
+   Heidi J./N-1018-2017; Castaneda-Orjuela, Carlos/N-2601-2017; Bhutta,
+   Zulfiqar/L-7822-2015
+OI Franklin, Richard Charles/0000-0003-1864-4552; Aremu,
+   Olatunde/0000-0002-5832-2403; Bidgoli, Hassan
+   Haghparast/0000-0001-6365-2944; Malta, Deborah
+   Carvalho/0000-0002-8214-5734; Sisay, Mekonnen/0000-0001-6611-1174;
+   Mason-Jones, Amanda/0000-0002-4292-3183; Khalil,
+   Ibrahim/0000-0002-1868-5437; Ayala Quintanilla, Beatriz
+   Paulina/0000-0002-2630-4569; Ningrum, Dina Nur
+   Anggraini/0000-0002-8557-2862; Hay, Simon Iain/0000-0002-0611-7272;
+   Kieling, Christian/0000-0001-7691-4149; Milicevic, Milena
+   Santric/0000-0002-0684-359X; Jakovljevic, Mihajlo/0000-0002-9160-6846;
+   Ilesanmi, Olayinka/0000-0003-0827-6442; Khader, Yousef
+   Saleh/0000-0002-7830-6857; El-Khatib, Ziad/0000-0003-0756-7280; Fischer,
+   Florian/0000-0002-4388-1245; Carvalho, Félix/0000-0003-3858-3494;
+   Olagunju, Andrew Toyin/0000-0003-1736-9886; Pourmalek,
+   Farshad/0000-0002-2134-0771; Lopez, Alan D/0000-0001-5818-6512;
+   Lunevicius, Raimundas/0000-0003-3295-0142; Sharew, Nigussie
+   Tadesse/0000-0002-6443-6992; Memiah, Peter/0000-0002-3067-188X; Kumar,
+   Anil/0000-0002-5817-5829; Safiri, Saeid/0000-0001-7986-9072; Zaki,
+   Maysaa El Sayed/0000-0001-5431-0248; Awasthi,
+   Ashish/0000-0002-9308-9782; Matzopoulos, Richard/0000-0001-9063-6210;
+   Rahimi-Movaghar, Afarin/0000-0002-5761-1668; Stein, Dan
+   J/0000-0001-7218-7810; Sufiyan, Muawiyyah Babale/0000-0003-3630-6995;
+   Kasaeian, Amir/0000-0003-2018-9368; Filho, Adauto Martins
+   Soares/0000-0002-0917-7473; Zaki, Maysaa El Sayed/0000-0001-5431-0248;
+   Behzadifar, Masoud/0000-0002-0271-4360; Singh,
+   Jasvinder/0000-0003-3485-0006; Stokes, Mark A/0000-0001-6488-4544; Phuc,
+   Huyen/0000-0003-0461-7529; Haro, Josep Maria/0000-0002-3984-277X;
+   Yousefi, Zabihollah/0000-0001-9251-2668; Khubchandani,
+   Jagdish/0000-0002-9058-4278; Antonio, Carl Abelardo/0000-0001-7476-0553;
+   Phillips, Michael R/0000-0002-5973-2439; Lami,
+   Faris/0000-0002-3673-3818; Jayaraman, Sudha/0000-0003-1094-5836;
+   Moradi-Lakeh, Maziar/0000-0001-7381-5305; Faro,
+   Andre/0000-0002-7348-6297; Patton, George C/0000-0001-5039-8326;
+   Mansour-Ghanaei, Fariborz/0000-0001-6747-0232; Hassen, Hamid
+   Y./0000-0001-6485-4193; Brazinova, Alexandra/0000-0003-0625-256X;
+   Al-Raddadi, Rajaa/0000-0002-8921-9628; Ribeiro, Ana
+   Cristina/0000-0002-0493-8376; Ukwaja, Kingsley N./0000-0002-1974-8735;
+   Ding, Eric L./0000-0002-5881-8097; Hassen, Hamid Y./0000-0001-6485-4193;
+   Schwebel, David C./0000-0002-2141-8970; Edessa,
+   Dumessa/0000-0001-6558-5829; Mokdad, Ali H./0000-0002-4994-3339;
+   Satpathy, Maheswar/0000-0003-3521-4781; Mohammed,
+   Shafiu/0000-0001-5715-966X; Mori, Rintaro/0000-0001-7656-6156; ,
+   bennsartorius/0000-0001-6761-2325; swaroop, mamta/0009-0008-1090-6283;
+   /0000-0002-4565-5364; Campuzano Rincon, Julio Cesar/0000-0003-4408-7059;
+   Miller, Ted/0000-0002-0958-2639; Tadese, Fentaw/0000-0001-9058-1854;
+   Marczak, Laurie/0000-0001-5979-4261; Younis,
+   Mustafa/0000-0001-8448-808X; Rahimi-Movaghar, Vafa/0000-0001-7347-8767;
+   Seedat, Soraya/0000-0002-5118-786X; Sarmiento Suarez,
+   Rodrigo/0000-0002-7301-277X; Sepanlou, Sadaf/0000-0002-3669-5129;
+   Meretoja, Tuomo/0000-0002-2691-0710; International,
+   ArvinMed/0000-0002-1322-878X; Larson, Heidi J./0000-0002-8477-7583;
+   Hendrie, Delia/0000-0001-5022-5281; Castaneda-Orjuela,
+   Carlos/0000-0002-8735-6223; Esteghamati, Alireza/0000-0001-5114-3982;
+   Borschmann, Rohan/0000-0002-0365-7775; Magdy Abd El Razek,
+   Hassan/0000-0002-8857-0408; Kosen, Soewarta/0000-0002-2517-8118; Wasif,
+   Muhammad/0009-0004-1374-302X; Alam, Khurshid/0000-0002-7402-7519;
+   Tabares-Seisdedos, Rafael/0000-0002-1089-2204; Ye,
+   Pengpeng/0000-0002-2924-1436; Alghnam, Suliman/0000-0001-5817-0481;
+   Kahsay, Amaha/0000-0002-6242-8040; Shiue, Ivy/0000-0003-1788-3009; Rai,
+   Rajesh Kumar/0000-0002-5249-9937; Dargan, Paul/0000-0002-3433-9622;
+   Bhutta, Zulfiqar/0000-0003-0637-599X; Kiadaliri,
+   Ali/0000-0002-4254-9099; Tran, Bach/0000-0002-2191-3947; Rowhani-Rahbar,
+   Ali/0000-0002-2705-4485; Dandona, Rakhi/0000-0003-0926-788X; SAGAR,
+   RAJESH/0000-0003-4563-7841; ZAIDI, ZOUBIDA/0000-0003-3378-4799; Rawaf,
+   Salman/0000-0001-7191-2355; Farzadfar, Farshad/0000-0001-8288-4046;
+   Feigin, Valery L./0000-0002-6372-1740; Kumar, G
+   Anil/0000-0002-7986-0905; Borges, Guilherme/0000-0002-3269-0507
+FU Bill & Melinda Gates Foundation [OPP1152504]; Bill and Melinda Gates
+   Foundation [OPP1152504] Funding Source: Bill and Melinda Gates
+   Foundation
+FX This study was funded by the Bill & Melinda Gates Foundation
+   (OPP1152504).
+NR 39
+TC 141
+Z9 154
+U1 1
+U2 49
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 0098-7484
+EI 1538-3598
+J9 JAMA-J AM MED ASSOC
+JI JAMA-J. Am. Med. Assoc.
+PD AUG 28
+PY 2018
+VL 320
+IS 8
+BP 792
+EP 814
+DI 10.1001/jama.2018.10060
+PG 23
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA GR8HM
+UT WOS:000442958800024
+PM 30167700
+OA Green Published, Bronze, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Flaherty, MG
+   Roberts, LF
+AF Flaherty, Mary Grace
+   Roberts, Leslie F.
+TI Internet searching produces misleading findings regarding violent deaths
+   in crisis settings: short report
+SO CONFLICT AND HEALTH
+LA English
+DT Letter
+DE Violent death rate; Internet searching; Humanitarian injustice
+AB Donor and agency priorities are influenced by a variety of political, social, and media-related forces that can have a profound impact on response and resource provision. We have attempted to assess how well internet searches articulate the span of violent death rates for five current crisis settings. In three graduate classes (2 public health, 1 information science) at US universities, during a four month period in 2017-2018, we asked approximately 60 graduate students to conduct an internet search to determine which of five countries had the highest and lowest violence specific mortality rate: Venezuela, Syria, Yemen, Central African Republic (CAR), or Mali. Students were divided into groups of three, and within each group explored this question by three approaches. Many graduate students in all groups could not determine the relative rates, especially which country had the lowest violence specific mortality rate. Of the 34 searches that identified a highest violent death rate country, 27.5 (81%) concluded it was Venezuela, followed by Syria (4.5; 13%), Mali (1; 3%) and CAR (1; 3%). Of the 26 searches that identified a least violent death rate 21.5 (83%) reported either CAR or Mali, followed by Yemen (2.5; 10%) and Syria (2; 8%). Aside from lack of data on CAR and Mali, students were perplexed about whether to include suicides or executions in the measure. This resulted in almost half of all inquiries unable to estimate a highest and lowest rate among these five countries. Where conclusions were drawn, it is likely the internet drew students to the opposite conclusion from reality. There are several reasons for this discordance, such as differing categories of violent deaths as defined by the World Health Organization, and search engine algorithms. It is probable, however, that larger issues of connectivity of individual societies with each other and the outside world are playing a profound role in the deceptive results found in this exercise. This insight emphasizes the internet's under-reporting in the world's most poor and remote locations, and highlights the importance of primary data collection and reporting in such settings.
+C1 [Flaherty, Mary Grace] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+   [Roberts, Leslie F.] Columbia Univ, Mailman Sch Publ Hlth, Populat & Family Hlth, New York, NY 10023 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Columbia University
+RP Flaherty, MG (corresponding author), Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+EM mgflaher@email.unc.edu
+OI Flaherty, Mary Grace/0000-0002-8623-4259
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PD FEB 15
+PY 2019
+VL 13
+AR 4
+DI 10.1186/s13031-019-0187-z
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HL9CG
+UT WOS:000459039400001
+PM 30815029
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Otamendi, MA
+AF Alejandra Otamendi, Maria
+TI "Armed juvenicide": youth homicides and firearms in Latin America
+SO SALUD COLECTIVA
+LA Spanish
+DT Article
+DE Firearms; Youths; Homicide; Latin America
+ID ARGENTINA; VIOLENCE; GUNS; OWNERSHIP; MORTALITY; SUICIDE; DEATHS;
+   MEXICO; BRAZIL; TREND
+AB This article analyzes the impact of firearms in the homicides of young people in Latin America today. A cross-sectional descriptive epidemiological study was carried out based on data from the Pan American Health Organization. There were 14,427 deaths due to assaults with firearms in young people, that is, a rate of 14.3 per 100,000 young people for the year 2014 in Latin America. Thus, 80% of all homicides in young people between 10 to 19 years of age in the region were committed with firearms. This especially affects young males, with a rate of 26.5 per 100,000 deaths due to assault with firearms, although it should not be overlooked that the deaths among women are largely femicides. In addition, 1,828 deaths of undetermined intent with firearms (especially in Argentina and Venezuela) and 284 deaths with firearms in legal interventions (showing higher policy lethality among young people) were registered. The corrected rate is therefore 16.4 young people killed by others with firearms per 100,000 youth in Latin America. The need for gun control and disarmament policies, de-stigmatization campaigns and youth development programs is discussed, in order to reduce the current conditions that foster and invisibilize the so-called "armed juvenicide" in Latin America.
+C1 [Alejandra Otamendi, Maria] Univ Buenos Aires, Inst Invest Gino Germani, Consejo Nacl Invest Cient & Tecn, Sede Observ Adolescentes & Jovenes, Buenos Aires, DF, Argentina.
+C3 Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);
+   University of Buenos Aires
+RP Otamendi, MA (corresponding author), Univ Buenos Aires, Inst Invest Gino Germani, Consejo Nacl Invest Cient & Tecn, Sede Observ Adolescentes & Jovenes, Buenos Aires, DF, Argentina.
+NR 55
+TC 2
+Z9 2
+U1 0
+U2 2
+PU UNIVERSIDAD NACIONAL DE LANUS
+PI BUENOS AIRES
+PA 29 DE SEPTIEMBRE 3901, LANUS, BUENOS AIRES, CP 1826, ARGENTINA
+SN 1669-2381
+EI 1851-8265
+J9 SALUD COLECT
+JI Salud Colect.
+PY 2019
+VL 15
+AR e1690
+DI 10.18294/sc.2019.1690
+PG 16
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA JN3GD
+UT WOS:000496786300001
+PM 31066812
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Sánchez-Díaz, G
+   Arias-Merino, G
+   Villaverde-Hueso, A
+   Morales-Piga, A
+   Abaitua-Borda, I
+   Hens, M
+   Bermejo-Sánchez, E
+   de la Paz, MP
+   Alonso-Ferreira, V
+AF Sanchez-Diaz, German
+   Arias-Merino, Greta
+   Villaverde-Hueso, Ana
+   Morales-Piga, Antonio
+   Abaitua-Borda, Ignacio
+   Hens, Manuel
+   Bermejo-Sanchez, Eva
+   Posada de la Paz, Manuel
+   Alonso-Ferreira, Veronica
+TI Monitoring Huntington's Disease Mortality across a 30-Year Period:
+   Geographic and Temporal Patterns
+SO NEUROEPIDEMIOLOGY
+LA English
+DT Article
+DE Huntington's disease; Mortality; Spatial analysis; Spain;
+   Population-based
+ID PREVALENCE; SPAIN; MUTATION; EPIDEMIOLOGY; POPULATION; VENEZUELA;
+   SUICIDE; ONSET
+AB Background: Huntington's disease (HD) is a progressive neurodegenerative condition characterized by chorea, dystonia, behavioral disturbances and cognitive decline. The aim of this study is to assess temporal and spatial changes on mortality attributable to HD over 30 years in Spain. Methods: HD data were extracted from the nationwide mortality registry for the period 1984-2013. Annual and 5-year gender-and age-specific rates adjusted for the standard European population were calculated. Geographic analysis was performed by districts from 1999 through 2013, and then estimated standardized mortality ratios (SMRs) and smoothed SMRs. Results: There were 1,556 HD-related deaths across the study period. An increasing trend in age-adjusted HD mortality was in evidence, specifically from 1994 through 1998. On a year-by-year basis, age-adjusted mortality rates increased from 0.076 per 100,000 population in 1984 to 0.157 in 2013. Geographical differences among districts were evident in specific areas and in the southwest of Spain with a significantly higher HD mortality risk. Conclusion: HD mortality rising trends in Spain might be attributable to improvements in diagnosis leading to a rise in prevalence. Geographical variability in HD mortality could be related to regional differences in disease prevalence, health-care disparities, or other factors which call for in-depth assessment in future studies. (C) 2016 S. Karger AG, Basel
+C1 [Sanchez-Diaz, German; Arias-Merino, Greta; Villaverde-Hueso, Ana; Morales-Piga, Antonio; Abaitua-Borda, Ignacio; Hens, Manuel; Bermejo-Sanchez, Eva; Posada de la Paz, Manuel; Alonso-Ferreira, Veronica] ISCIII, Inst Rare Dis Res, Avda Monforte Lemos 5, ES-28029 Madrid, Spain.
+   [Bermejo-Sanchez, Eva] ISCIII, Res Ctr Congenital Abnormal CIAC, Madrid, Spain.
+   [Villaverde-Hueso, Ana; Morales-Piga, Antonio; Abaitua-Borda, Ignacio; Hens, Manuel; Bermejo-Sanchez, Eva; Posada de la Paz, Manuel; Alonso-Ferreira, Veronica] Ctr Biomed Network Res Rare Dis CIBERER, Madrid, Spain.
+C3 Instituto de Salud Carlos III; Instituto de Salud Carlos III; CIBER -
+   Centro de Investigacion Biomedica en Red; CIBERER
+RP Arias-Merino, G (corresponding author), ISCIII, Inst Rare Dis Res, Avda Monforte Lemos 5, ES-28029 Madrid, Spain.
+EM garias@externos.isciii.es
+RI Merino, Greta Arias/GVT-2892-2022; Alonso, Verónica/E-7766-2018;
+   BERMEJO-SANCHEZ, EVA/E-8703-2012; Posada, Manuel/C-3832-2008
+OI Merino, Greta Arias/0000-0002-4478-3153; Alonso,
+   Verónica/0000-0002-8560-1336; BERMEJO-SANCHEZ, EVA/0000-0001-7282-2714;
+   Posada, Manuel/0000-0002-8372-4180; Villaverde Hueso,
+   Ana/0000-0002-6371-6685; Sanchez-Diaz, German/0000-0003-2686-7545
+FU Spanish Strategy Action for Health (AESI) [TPY1238/15]; Spanish Ministry
+   of Education, Culture and Sport [FPU14/03914]; Innovate-Peru
+   [220-FINCyT-BDE-2014]
+FX This research was supported by the Spanish Strategy Action for Health
+   (AESI), project No. TPY1238/15. One author enjoys a research grant
+   funded by the Spanish Ministry of Education, Culture and Sport (No.
+   FPU14/03914), another by Innovate-Peru (No. 220-FINCyT-BDE-2014).
+NR 44
+TC 8
+Z9 8
+U1 3
+U2 10
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0251-5350
+EI 1423-0208
+J9 NEUROEPIDEMIOLOGY
+JI Neuroepidemiology
+PY 2016
+VL 47
+IS 3-4
+BP 155
+EP 163
+DI 10.1159/000452860
+PG 9
+WC Public, Environmental & Occupational Health; Clinical Neurology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Neurosciences & Neurology
+GA EJ3NC
+UT WOS:000393117900003
+PM 27883994
+DA 2023-12-06
+ER
+
+PT J
+AU Muñoz, D
+   de Fermín, YC
+   de Marín, CG
+   Marval, H
+AF Munoz, Daniel
+   Castaneda de Fermin, Yeisy
+   Graue de Marin, Crucita
+   Marval, Hilda
+TI Prevalence and Susceptibility to Antibiotics of Motile Strains of
+   <i>Aeromonas</i> Isolated from the Mangrove Oyster (<i>Crassostrea
+   rhizophorae</i>)
+SO REVISTA CIENTIFICA-FACULTAD DE CIENCIAS VETERINARIAS
+LA Spanish
+DT Article
+DE Antibiotics; susceptibility; Aeromonas spp.; mangrove oyster
+ID MESOPHILIC AEROMONADS; SUICIDE PHENOMENON; RESISTANCE; HYDROPHILA;
+   WATER; VIBRIO; SPP.; IDENTIFICATION; BACTERIA; SAMPLES
+AB The prevalence and susceptibility to antibiotics was investigated in motile strains of the genus Aeromonas isolated from mangrove oysters, Crassostrea rhyzophorae intended for human consumption. The study was conducted during February-August 2007 in Laguna Grande del Obispo, Sucre State, Gulf of Cariaco, Venezuela. The standard methodology of multiple tubes was used for detection, isolation and counting of this bacterial group. The susceptibility profile was made by the diffusion technique on disc. A maximum values of Aeromonas spp. count was reaches in April, 1.1 x 10(3) NML/g (number most likely/gram) and a minimum value of <3 NML/g in February. From the total number of isolated strains, the highest prevalence was recorded for Aeromonas hydrophila 51.6%; followed by A. caviae and A. sobria with 28.1 and 20.3%, respectively. With respect susceptibility to antibiotics, 100% of the isolated strains were sensitive to imipenem and gentamicin, while a sensibility higher than 70% was found in the antibiotics amikacin, norfloxacin, ceftazidime, ciprofloxacin, polymyxin 13, sulfamethoxazole-trimetoprin, aztreonam, ceftriaxone, tetracycline and chloramphenicol. Finally, the strains were resistant to amoxicillin and cephalothin (more than 80%) and furoxone (57,8%). The observed resistance to antibiotics among the studied strains could be due to the indiscriminate use of antibiotics and poor sanitary conditions favoring the spread of the microorganism and the acquisition of R plasmids and transposons that determine the spread of antibiotic resistance.
+C1 [Munoz, Daniel] Liceo Bolivariano Jose Silverio Gonzalez, Sucre Nueva Esparta, Venezuela.
+   [Castaneda de Fermin, Yeisy] Colegio Santo Angel de la Guarda, Sucre Nueva Esparta, Venezuela.
+   [Graue de Marin, Crucita; Marval, Hilda] INIA, Sucre Nueva Esparta, Venezuela.
+RP Muñoz, D (corresponding author), Liceo Bolivariano Jose Silverio Gonzalez, Sucre Nueva Esparta, Venezuela.
+EM d_josem77@hotmail.com
+RI Munoz, Daniel/IXD-6516-2023
+NR 49
+TC 1
+Z9 2
+U1 0
+U2 4
+PU UNIV ZULIA, FACULTAD CIENCIAS VETERINARIAS
+PI MARACAIBO
+PA UNIVERSIDAD DEL ZULIA, MARACAIBO, VENEZUELA
+SN 0798-2259
+J9 REV CIENT-FAC CIEN V
+JI Rev. Cient.-Fac. Cienc. Vet.
+PD NOV-DEC
+PY 2012
+VL 22
+IS 6
+BP 565
+EP 573
+PG 9
+WC Veterinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Veterinary Sciences
+GA 047DO
+UT WOS:000311818100011
+DA 2023-12-06
+ER
+
+PT J
+AU Poggetti, RS
+AF Poggetti, Renato Sergio
+TI Acute care surgeon South American model
+SO WORLD JOURNAL OF SURGERY
+LA English
+DT Article
+AB Background In the World Health Organization book by Murray and Lopez (The Global Burden of Disease), the authors make the point that there are major regional differences across the world for death from injury. In the European market economies, injuries accounted for 6% of all deaths, of which the majority were the result of road traffic accidents. In stark contrast, in Latin America and the Caribbean, injuries account for 12-13% of all deaths, and most of these are the result of violence. An estimated 30% of all male deaths are from external causes, and road traffic accidents are the number two cause of death. Within South American countries, trauma is the second most common cause of death in Columbia, Venezuela, Ecuador, and Brazil. In other South American countries, it is the third or fourth most common cause of death. If one examines the Disability Adjusted Life Years, South America is the third highest in the world. Death from injury primarily affects people in the middle- and low-income group. Traffic accidents and suicide are the main causes of trauma in the high-income population. South America is made up of developing and poor countries that have trauma as a very important cause of death and disability.
+   Methods The author has reviewed information on injury from the World Health Organization, Pan American Health Organization, and Brazilian Health Ministry. In addition, a search of injury was performed through MEDLINE.
+   Results and Conclusions The results of this review show that trauma is a major public health problem in South America. At the present time, there is a lack of statewide system development. In addition, there are difficulties in training surgeons to cope with these problems.
+C1 Univ Sao Paulo, Sch Med, Hosp Clin, Div Surg Clin 3, Sao Paulo, Brazil.
+C3 Universidade de Sao Paulo
+RP Poggetti, RS (corresponding author), Univ Sao Paulo, Sch Med, Hosp Clin, Div Surg Clin 3, Sao Paulo, Brazil.
+EM poggetti@terra.com.br
+NR 0
+TC 4
+Z9 4
+U1 0
+U2 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0364-2313
+J9 WORLD J SURG
+JI World J.Surg.
+PD AUG
+PY 2008
+VL 32
+IS 8
+BP 1626
+EP 1629
+DI 10.1007/s00268-008-9659-9
+PG 4
+WC Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Surgery
+GA 332PC
+UT WOS:000258093900008
+PM 18574624
+DA 2023-12-06
+ER
+
+EF

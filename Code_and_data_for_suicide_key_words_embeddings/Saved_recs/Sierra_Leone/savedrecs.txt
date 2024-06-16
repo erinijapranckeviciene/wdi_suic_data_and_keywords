@@ -1,0 +1,91 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Keita, MM
+   Taverne, B
+   Savané, SS
+   March, L
+   Doukoure, M
+   Sow, MS
+   Touré, A
+   Etard, JF
+   Barry, M
+   Delaporte, E
+AF Keita, Mamady Mory
+   Taverne, Bernard
+   Savane, Sekou Sy
+   March, Laura
+   Doukoure, Morifode
+   Sow, Mamadou Saliou
+   Toure, Abdoulaye
+   Etard, Jean Francois
+   Barry, Moumie
+   Delaporte, Eric
+CA PostEboGui Study Grp
+TI Depressive symptoms among survivors of Ebola virus disease in Conakry
+   (Guinea): preliminary results of the PostEboGui cohort
+SO BMC PSYCHIATRY
+LA English
+DT Article
+ID NORTHERN UGANDA; SIERRA-LEONE; SEQUELAE
+AB Background: The 2013-2016 West African Ebola outbreak infected 28,616 people and caused 11,310 deaths by 11 May 2016, across six countries. The outbreak has also resulted in the largest number of EVD survivors in history-over 17,000. Guinea was declared Ebola-free on 1 June 2016. Reports from the outbreak documented 3814 cases resulting in 2544 deaths and 1270 survivors. EVD survivors face various neuropsychological and psycho-affective alterations that have not been fully identified yet. This study aims to document the depressive symptoms among adult survivors in Guinea.
+   Methods: Depressive symptoms were investigated using the French version of the Center for Epidemiologic Studies-Depression Scale (CES-D) administered to all adult survivors (>= 20 years) participating in the PostEboGui study and receiving care in Conakry. The study was combined with a clinical consultation by a psychiatrist at the Donka National Hospital in Conakry that ensured adapted care was provided when needed.
+   Results: Overall, 256 adult participants receiving care in Conakry participated in this study: 55% were women, median age 31 years [IQR: 26-40]. The median time since the Ebola Treatment Center (ETC) discharge was 8. 1 months [IQR: 4.1-11.7]. 15% had a score above the threshold values indicating psychological suffering (15% for men and 14% for women). 33 people (16 women and 17 men) met with the psychiatrist, which resulted in the diagnosis of 3 cases of post-traumatic stress disorder (PTSD), 3 cases of mild depression, 13 cases of moderate depression, and 11 cases of severe depression, including 1 with kinesthetic hallucinations and another with visual hallucinations, and 1 with suicidal ideation and 3 with attempted suicide. Severe depression was diagnosed between 1 and 19 months after ETC discharge. The various identified forms of depression responded favorably to conventional drug therapies and cognitive behavioral therapy.
+   Conclusion: Long-term follow-up for EVD survivors will be necessary to understand the evolution of these pathologies. In the current post-epidemic context, these cases underscore the need to strengthen mental health diagnostic systems and treatment on a national scale.
+C1 [Keita, Mamady Mory; Savane, Sekou Sy; Doukoure, Morifode] Univ Med Ctr Conakry, Donka Natl Hosp, Psychiat Unit, BP 925, Conakry, Guinea.
+   [Taverne, Bernard; March, Laura; Toure, Abdoulaye; Etard, Jean Francois; Delaporte, Eric] Univ Montpellier, Inst Rech Dev, INSERM, IRD,UMI 233,U 1175, 911 Ave Agropolis,BP 6450134394, Montpellier 5, France.
+   [Taverne, Bernard] Univ Teaching Hosp CHU Fann, Ctr Reg Rech & Format Charge Clin Fann CRCF, Dakar, Senegal.
+   [Sow, Mamadou Saliou; Barry, Moumie] Univ Med Ctr Conakry, Donka Natl Hosp, Dept Infect Dis, BP 925, Conakry, Guinea.
+   [Toure, Abdoulaye] Conakry Univ, Dept Publ Hlth, Conakry, Guinea.
+C3 Institut National de la Sante et de la Recherche Medicale (Inserm);
+   Universite de Montpellier; Institut de Recherche pour le Developpement
+   (IRD)
+RP Taverne, B (corresponding author), Univ Montpellier, Inst Rech Dev, INSERM, IRD,UMI 233,U 1175, 911 Ave Agropolis,BP 6450134394, Montpellier 5, France.; Taverne, B (corresponding author), Univ Teaching Hosp CHU Fann, Ctr Reg Rech & Format Charge Clin Fann CRCF, Dakar, Senegal.
+EM Bernard.Taverne@ird.fr
+RI Etard, Jean François/A-9630-2008; Keita, Alpha/A-9454-2015; KEITA, Alpha
+   Kabinet/AAR-1586-2020; Etard, Jean-Francois/V-4865-2019; Delaporte,
+   Eric/J-5397-2018; Ayouba, Ahidjo/G-8775-2017; Abel, Laurent/H-8888-2017
+OI Etard, Jean François/0000-0002-4873-0788; Keita,
+   Alpha/0000-0003-4377-341X; KEITA, Alpha Kabinet/0000-0003-4377-341X;
+   Etard, Jean-Francois/0000-0002-4873-0788; Delaporte,
+   Eric/0000-0002-1822-9853; Ayouba, Ahidjo/0000-0002-5081-1632; March,
+   Laura/0000-0003-1568-3812; Toure, Abdoulaye/0000-0003-2269-6611; Baize,
+   Sylvain/0000-0002-3234-7477; Abel, Laurent/0000-0001-7016-6493; Taverne,
+   Bernard/0000-0002-3708-5883; Lacabaratz, Christine/0000-0001-6925-0225
+FU French Interministerial Ebola Task Force; French National Institute for
+   Health and Medical Research (Institut national de la sante et de la
+   recherche medicale; Inserm); Research Institute for Development
+   (Institut de recherche pour le developpement; IRD)
+FX This work was supported by the French Interministerial Ebola Task Force,
+   the French National Institute for Health and Medical Research (Institut
+   national de la sante et de la recherche medicale; Inserm), and the
+   Research Institute for Development (Institut de recherche pour le
+   developpement; IRD).
+NR 23
+TC 59
+Z9 65
+U1 0
+U2 14
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD APR 4
+PY 2017
+VL 17
+AR 127
+DI 10.1186/s12888-017-1280-8
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EQ9RZ
+UT WOS:000398423500006
+PM 28376850
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

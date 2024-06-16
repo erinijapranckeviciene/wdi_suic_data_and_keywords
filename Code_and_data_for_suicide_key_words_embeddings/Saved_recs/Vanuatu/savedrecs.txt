@@ -1,0 +1,212 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Peltzer, K
+   Pengpid, S
+AF Peltzer, Karl
+   Pengpid, Supa
+TI Early Substance Use Initiation and Suicide Ideation and Attempts among
+   School-Aged Adolescents in Four Pacific Island Countries in Oceania
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE early substance use; cigarette smoking; alcohol; drugs; suicidal
+   ideation; suicide attempt; global school-based health survey; Kiribati;
+   Samoa; Solomon Islands; Vanuatu
+ID ALCOHOL-USE INITIATION; YOUNG-PEOPLE; EPIDEMIC SUICIDE; BEHAVIOR; RISK;
+   STUDENTS; CANNABIS; SMOKING; TOBACCO
+AB This study aimed to investigate the correlations between early initiation (<12 years) of smoking cigarettes, alcohol use, and drug use (cannabis) with suicidal ideation and suicide attempts in school-aged adolescents in four Pacific Island countries in Oceania. The sample included 6540 adolescents (13 to 16 years old) from Kiribati, Samoa, Solomon Islands, and Vanuatu. Bivariate and multivariable analyses were conducted to assess the association between pre-adolescent substance use initiation and suicidal ideation and suicide attempts. Results indicate a prevalence of 25.8% suicidal ideation in the past 12 months (ranging from 17.2% in Vanuatu to 34.7% in Kiribati) and 34.9% suicide attempts in the past 12 months (ranging from 23.5% in Vanuatu to 62.0% in Samoa). The prevalence of early cigarette smoking initiation was 15.7%, early alcohol initiation 13.8%, and early drug use initiation was 12.9%. Students who reported pre-adolescent substance use initiation, compared with non-substance users, were more likely reporting suicidal ideation and suicide attempts. The concurrent initiation of cigarette smoking, alcohol, and drug use should be targeted in early prevention programmes in order to prevent possible subsequent suicidal behaviours.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya 73170, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, ZA-0727 Turfloop, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, ZA-0002 Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Salaya 73170, Thailand.
+EM karl.pel@mahidol.ac.th; supaprom@yahoo.com
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 31
+TC 46
+Z9 51
+U1 0
+U2 20
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-7827
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD OCT
+PY 2015
+VL 12
+IS 10
+BP 12291
+EP 12303
+DI 10.3390/ijerph121012291
+PG 13
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA CX1RE
+UT WOS:000365472500020
+PM 26437423
+OA Green Submitted, gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Blignault, I
+   Iaurel, J
+   Nampon, R
+   Paul, M
+   Natuman, S
+AF Blignault, Ilse
+   Iaurel, Jerry
+   Nampon, Reuben
+   Paul, Minado
+   Natuman, Sereana
+TI Establishing mental health policy and services in Vanuatu
+SO ASIA-PACIFIC PSYCHIATRY
+LA English
+DT Editorial Material
+DE cultural health beliefs; mental health; policy; service; Vanuatu
+AB With a population of 245,000 spread mostly over six groups of islands and a total land area of 12,189 km2, Vanuatu is one of the larger Pacific Island countries. Compared to other Pacific Island countries of similar or larger size, mental health has received little attention from government until very recently. While systematic studies are lacking, the limited available data suggest that mental disorders and suicide are increasing. The first ever National Mental Health Policy and Strategic Plan were launched in October 2009. Key areas include formalization of the National Mental Health Committee established in 2007, financing, mental health legislation, service organization, human resources, essential medicines, information systems, quality, advocacy, and monitoring and evaluation. In 2010, mental health was inserted for the first time into the new Ministry of Health organizational structure. The Ministry of Health mandate is to work with partners to achieve sustainable progress in reducing all key risk factors to improve the wellbeing of everybody with mental illness. The country has commenced a program of mental health training for workers at primary and secondary health facilities and community awareness, with support from the World Health Organization Pacific Island Mental Health Network (PIMHnet) and others. A foundation for modern mental health services has been laid.
+C1 [Blignault, Ilse] Prince Wales Hosp, Black Dog Inst, Sydney, NSW 2031, Australia.
+   [Iaurel, Jerry] Minist Hlth, Efate, Vanuatu.
+   [Nampon, Reuben] Lenakel Hosp, Lenakel, Tanna, Vanuatu.
+   [Paul, Minado; Natuman, Sereana] Vila Cent Hosp, Dept Med, Efate, Vanuatu.
+C3 Black Dog Institute
+RP Blignault, I (corresponding author), Prince Wales Hosp, Black Dog Inst, Hosp Rd, Sydney, NSW 2031, Australia.
+EM i.blignault@unsw.edu.au
+OI Blignault, Ilse/0000-0002-7164-2217
+NR 4
+TC 4
+Z9 4
+U1 0
+U2 2
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1758-5864
+J9 ASIA-PAC PSYCHIAT
+JI Asia-Pac. Psychiatry
+PD JUN
+PY 2011
+VL 3
+IS 2
+BP 76
+EP 79
+DI 10.1111/j.1758-5872.2011.00109.x
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 767PM
+UT WOS:000290868500007
+DA 2023-12-06
+ER
+
+PT J
+AU Sharma, B
+   Lee, TH
+   Nam, EW
+AF Sharma, Bimala
+   Lee, Tae Ho
+   Nam, Eun Woo
+TI Loneliness, Insomnia and Suicidal Behavior among School-Going
+   Adolescents in Western Pacific Island Countries: Role of Violence and
+   Injury
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE loneliness; insomnia; suicidal ideation; suicide attempt; adolescents;
+   pacific island countries
+ID NATIONALLY REPRESENTATIVE SAMPLE; MIDDLE-INCOME COUNTRIES; SUBSTANCE
+   USE; IDEATION; STUDENTS; RISK; YOUTH; HEALTH; ASSOCIATION; DISTRESS
+AB This study aimed to examine whether being bullied, fighting, and injury, regarded in terms of frequency and nature, were significantly associated with psychological distress and suicidal behavior, independent of substance abuse and parental support in adolescents. Secondary analysis of data from the Global School-based Student Health Survey from Kiribati, the Solomon Islands, and Vanuatu was conducted. Binomial logistic regression analysis was used to examine the association of being bullied, fighting and injury with psychological health outcomes (loneliness, insomnia, suicidal ideation and suicide attempt) at a 5% level of significance. A total of 4122 students were included; 45.5% were male, and 52.0% were 14 years of age or younger. Of the total, 9.3% felt lonely and 9.5% had insomnia most of the time over the last 12 months; 27.6% had suicidal ideation, and 30.9% reported at least one suicide attempt in the last 12 months. Multivariable logistic regression analysis showed that being bullied, fighting and injury were significantly associated with psychological health outcomes; adjusted odds ratios (AORs) of loneliness, insomnia, suicidal ideation and suicide attempt increased with increased exposure to bullying, fighting, and injury compared to non-exposed group. Among the types of bullying victimization, the highest AORs of insomnia and suicide attempt were among students who were left out of activities, compared to the non-bullied. Among the causes of injury, adolescents injured due to a physical attack were the most likely to report the highest AORs of loneliness, insomnia and suicidal ideation compared to those not injured. Preventing violence and injury among adolescents might contribute to better mental health and reduction of suicidal behavior.
+C1 [Sharma, Bimala; Lee, Tae Ho; Nam, Eun Woo] Yonsei Univ, Yonsei Global Hlth Ctr, Wonju 26493, Gangwon Do, South Korea.
+   [Sharma, Bimala; Lee, Tae Ho; Nam, Eun Woo] Yonsei Univ, Grad Sch, Dept Hlth Adm, Wonju 26493, Gangwon Do, South Korea.
+C3 Yonsei University; Yonsei University
+RP Nam, EW (corresponding author), Yonsei Univ, Yonsei Global Hlth Ctr, Wonju 26493, Gangwon Do, South Korea.; Nam, EW (corresponding author), Yonsei Univ, Grad Sch, Dept Hlth Adm, Wonju 26493, Gangwon Do, South Korea.
+EM bimalasharma@gmail.com; leetaeh5@naver.com; ewnam@yonsei.ac.kr
+NR 37
+TC 28
+Z9 30
+U1 0
+U2 30
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD JUL
+PY 2017
+VL 14
+IS 7
+AR 791
+DI 10.3390/ijerph14070791
+PG 11
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA FD2ND
+UT WOS:000407370700123
+PM 28714893
+OA Green Submitted, gold, Green Published
+DA 2023-12-06
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,169 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bertolote, JM
+   Fleischmann, A
+   De Leo, D
+   Bolhari, J
+   Botega, N
+   De Silva, D
+   Thanh, HTT
+   Phillips, M
+   Schlebusch, L
+   Värnik, A
+   Vijayakumar, L
+   Wasserman, D
+AF Bertolote, JM
+   Fleischmann, A
+   De Leo, D
+   Bolhari, J
+   Botega, N
+   De Silva, D
+   Thanh, HTT
+   Phillips, M
+   Schlebusch, L
+   Värnik, A
+   Vijayakumar, L
+   Wasserman, D
+TI Suicide attempts, plans, and ideation in culturally diverse sites:: the
+   WHOSUPRE-MISS community survey
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+ID GENERAL-POPULATION; RISK-FACTORS; PREVALENCE; BEHAVIOR; PARASUICIDE;
+   RATES; CHINA
+AB Background. The objectives were to assess thoughts about suicide, plans to commit suicide and suicide attempts in the community, to investigate the use of health services following a suicide attempt, and to describe basic socio-cultural indices of the community.
+   Method. The community survey was one component of the larger WHO multisite intervention study on suicidal behaviours (SUPRE-MISS). In each site, it aimed at randomly selecting and interviewing at least 500 subjects of the general population living in the catchment area of the emergency department where the intervention component of the study was conducted. Communities of eight SUPRE-MISS sites (in Brazil, China, Estonia, India, Iran, South Africa, Sri Lanka, and Viet Nam) participated plus two additional sites from Australia and Sweden conducting similar surveys.
+   Results. Suicide attempts (0(.)4-4(.)2%), plans (1(.)1-15(.)6%), and ideation (2(.)6-25(.)4%) varied by a factor of 10-14 across sites, but remained mostly within the ranges of previously published data. Depending on the site, the ratios between attempts, plans, and thoughts Of Suicide differed substantially. Medical attention following a suicide attempt varied between 22% and 88% of the attempts.
+   Conclusions. The idea of the suicidal process as a continuous and smooth evolution from thoughts to plans and attempts of suicide needs to be further investigated as it seems to be dependent on the cultural setting. There are indications, that the burden of undetected attempted suicide is high in different cultures; an improved response from the health sector on how to identify and support these individuals is needed.
+C1 WHO, Dept Mental Hlth & Substance Abuse, CH-1211 Geneva, Switzerland.
+   Griffith Univ, Australian Inst Suicide Res & Prevent, Brisbane, Qld 4111, Australia.
+   Tehran Psychiat Inst, Mental Hlth Res Ctr, Tehran, Iran.
+   UNICAMP, FCM, Dept Psychiat, Campinas, SP, Brazil.
+   Univ Colombo, Fac Med, Dept Psychol Med, Colombo, Sri Lanka.
+   Hanoi Med Univ, Hanoi, Vietnam.
+   Beijing Hui Long Guan Hosp, Beijing Suicide Res & Prevent Ctr, Beijing, Peoples R China.
+   Univ KwaZulu Natal, Nelson R Mandela Sch Med, Fac Hlth Sci, Dept Behav Med,Sch Family & Publ Hlth Med, Durban, South Africa.
+   Estonian Swedish Mental Hlth & Suicidol Inst, Estonian Ctr Behav & Hlth Sci, Tallinn, Estonia.
+   Voluntary Hlth Serv & SNEHA, Dept Psychiat, Madras, Tamil Nadu, India.
+   Karolinska Inst, Natl & Stockholm Cty Ctr Suicide Res & Prevent Me, Dept Publ Hlth Sci, Stockholm, Sweden.
+   Swedish Natl Inst Psychosocial Med, Stockholm, Sweden.
+C3 World Health Organization; Griffith University; Universidade Estadual de
+   Campinas; University of Colombo; Hanoi Medical University; University of
+   Kwazulu Natal; Karolinska Institutet
+RP Bertolote, JM (corresponding author), WHO, Dept Mental Hlth & Substance Abuse, CH-1211 Geneva, Switzerland.
+EM bertolotej@who.int
+RI Phillips, Michael R/AAE-7585-2021; Bolhari, Jafar/L-4049-2018
+OI Phillips, Michael R/0000-0002-5973-2439; Bolhari,
+   Jafar/0000-0001-5360-7541
+NR 25
+TC 262
+Z9 296
+U1 0
+U2 28
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 0033-2917
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD OCT
+PY 2005
+VL 35
+IS 10
+BP 1457
+EP 1465
+DI 10.1017/S0033291705005404
+PG 9
+WC Psychology, Clinical; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA 974JZ
+UT WOS:000232589000007
+PM 16164769
+OA Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Nguyen, TQ
+   Bandeen-Roche, K
+   German, D
+   Nguyen, NTT
+   Bass, JK
+   Knowlton, AR
+AF Trang Quynh Nguyen
+   Bandeen-Roche, Karen
+   German, Danielle
+   Nguyen, Nam T. T.
+   Bass, Judith K.
+   Knowlton, Amy R.
+TI Negative Treatment by Family as a Predictor of Depressive Symptoms, Life
+   Satisfaction, Suicidality, and Tobacco/Alcohol Use in Vietnamese Sexual
+   Minority Women
+SO LGBT HEALTH
+LA English
+DT Article
+DE family rejection; latent class model; mental health; sexual minority
+   women (SMW); substance use; suicidality
+ID MENTAL-HEALTH; GAY; ORIENTATION; ADOLESCENTS; DISCLOSURE; REJECTION;
+   STRESS; YOUTH
+AB Purpose: Research linking family rejection and health outcomes in sexual minority people is mostly limited to North America. We assessed the associations between negative treatment by family members and depressive symptoms, life satisfaction, suicidality, and tobacco/alcohol use in sexual minority women (SMW) in Viet Nam. Methods: Data were from an anonymous internet survey (n=1936). Latent class analysis characterized patterns of negative treatment by family members experienced by respondents. Latent class with distal outcome modeling was used to regress depressive symptoms, life satisfaction, suicidality, and tobacco/alcohol use on family treatment class, controlling for predictors of family treatment and for two other types of sexual prejudice. Results: Five latent family treatment classes were extracted, including four negative classes representing varying patterns of negative family treatment. Overall, more than one negative class predicted lower life satisfaction, more depressive symptoms, and higher odds of attempted suicide (relative to the non-negative class), supporting the minority stress hypothesis that negative family treatment is predictive of poorer outcomes. Only the most negative class had elevated alcohol use. The association between family treatment and smoking status was not statistically significant. The most negative class, unexpectedly, did not have the highest odds of having attempted suicide, raising a question about survivor bias. Conclusion: This population requires public health attention, with emphasis placed on interventions targeting the family to promote acceptance and to prevent negative treatment, and interventions supporting those SMW who encounter the worst types of negative family treatment.
+C1 [Trang Quynh Nguyen; Bass, Judith K.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Mental Hlth, 624 North Broadway,Room 800, Baltimore, MD 21205 USA.
+   [Trang Quynh Nguyen; German, Danielle; Knowlton, Amy R.] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Hlth Behav & Soc, Baltimore, MD 21205 USA.
+   [Trang Quynh Nguyen; Bandeen-Roche, Karen] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Biostat, Baltimore, MD 21205 USA.
+   [Trang Quynh Nguyen; Nguyen, Nam T. T.] Inst Studies Soc Econ & Environm, Hanoi, Vietnam.
+   [Nguyen, Nam T. T.] Hlth Strategy & Policy Inst, Hanoi, Vietnam.
+C3 Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health
+RP Nguyen, TQ (corresponding author), Johns Hopkins Bloomberg Sch Publ Hlth, Dept Mental Hlth, 624 North Broadway,Room 800, Baltimore, MD 21205 USA.
+EM tnguye28@jhu.edu
+FU Institute for Studies of Society, Economy and Environment (iSEE);
+   Department of Health, Behavior and Society, JHSPH; Sommer Scholars
+   Program; Drug Dependence Epidemiology Training Program(NIDA)
+   [T-32DA007292]; iSEE; ICS Center
+FX Instrument development and data collection were funded by the Institute
+   for Studies of Society, Economy and Environment (iSEE, from core
+   funding) and the Department of Health, Behavior and Society, JHSPH
+   (through doctoral research grants for T.Q.N.). T.Q.N.'s work was
+   supported by the Sommer Scholars Program and the Drug Dependence
+   Epidemiology Training Program(NIDA grant T-32DA007292, PI C. Debra M.
+   Furr-Holden). The authors are grateful for the contribution of survey
+   respondents, the collaboration by websites for Vietnamese SMW, effective
+   implementation support by iSEE and the ICS Center, and helpful inputs
+   from Le Nguyen Thu Thuy, Nguyen Hai Yen, Le Kieu Chau Loan, Brian Weir,
+   Anna Flynn, Nguyen Phuong Quynh Trang, the two anonymous reviewers, and
+   the Chief, Associate, and Managing Editors.
+NR 34
+TC 12
+Z9 17
+U1 1
+U2 21
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+SN 2325-8292
+EI 2325-8306
+J9 LGBT HEALTH
+JI LGBT Health
+PD OCT
+PY 2016
+VL 3
+IS 5
+BP 357
+EP 365
+DI 10.1089/lgbt.2015.0017
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DX9BY
+UT WOS:000384689500006
+PM 27219025
+OA Green Published
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,170 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bowd, GP
+AF Bowd, Gavin Philip
+TI Jean-Joseph Rabearivelo, Charles Maurras and colonial Madagascar
+SO MODERN & CONTEMPORARY FRANCE
+LA English
+DT Article
+AB Jean-Joseph Rabearivelo (1903-1937) is widely considered to be the first major writer of la francophonie and as Madagascar's national poet. His untimely death has been interpreted as an act of rebellion against French colonial rule. However, little attention has been given to his outspoken attachment to the ideas of Charles Maurras and the far right Action Francaise. This article explores Rabearivelo's politics, his ambivalent relationship with colonial rule and the complexity of the identity politics expressed in his work. Jean-Joseph Rabearivelo (1903-1937) est largement considere comme le premier grand ecrivain de la francophonie et comme le poete national de Madagascar. Son suicide a ete interprete comme un acte de revolte contre la domination coloniale de la France. Cependant, on a consacre peu d'attention a son attachement ouvert aux idees de Charles Maurras et de son organisation d'extreme droite, Action Francaise. Cet article explore la vision politique de Rabearivelo, ses rapports ambigus avec le pouvoir colonial, et la complexite de la politique identitaire exprimee dans son OEuvre.
+C1 [Bowd, Gavin Philip] Univ St Andrews, Sch Modern Languages, St Andrews KY16 9PH, Fife, Scotland.
+C3 University of St Andrews
+RP Bowd, GP (corresponding author), Univ St Andrews, Sch Modern Languages, St Andrews KY16 9PH, Fife, Scotland.
+EM gpb@st-andrews.ac.uk
+OI Bowd, Gavin/0000-0002-3748-0656
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0963-9489
+EI 1469-9869
+J9 MOD CONTEMP FR
+JI Mod. Contemp. Fr.
+PD JAN 2
+PY 2016
+VL 24
+IS 1
+BP 1
+EP 14
+DI 10.1080/09639489.2015.1068283
+PG 14
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA DB6BW
+UT WOS:000368599100001
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Gaillard, Y
+   Krishnamoorthy, A
+   Bevalot, F
+AF Gaillard, Y
+   Krishnamoorthy, A
+   Bevalot, F
+TI <i>Cerbera odollam</i>:: a 'suicide tree' and cause of death in the
+   state of Kerala, India
+SO JOURNAL OF ETHNOPHARMACOLOGY
+LA English
+DT Review
+DE forensic science; Odollam tree; suicide; homicide; poisoning; ordeal;
+   plant; Cerbera odollam; cerberm; apocynaceac
+AB Cerbera odollam is a tree belonging to the poisonous Apocynaceae family, which includes the yellow and common oleanders. The seeds are excessively toxic, containing cerberin as the main active cardenolide. Cerbera venenifera, a related species found in Madagascar, has a long history as an ordeal poison, and was responsible for the death of 3000 people per year in previous centuries.
+   The odollam tree is responsible for about 50% of the plant poisoning cases and 10% of the total poisoning cases in Kerala, India. It is used both for suicide and homicide. The aim of this retrospective study is to call attention to a powerful toxic plant that is currently completely ignored by western physicians, chemists, analysts and even coroners and forensic toxicologists. (C) 2004 Elsevier Ireland Ltd. All rights reserved.
+C1 LAT, F-07800 La Voulte Sur Rhone, France.
+RP Gaillard, Y (corresponding author), LAT, Quai Jean Jaures, F-07800 La Voulte Sur Rhone, France.
+EM yvangaillard@aol.com
+NR 16
+TC 52
+Z9 59
+U1 0
+U2 14
+PU ELSEVIER SCI IRELAND LTD
+PI CLARE
+PA CUSTOMER RELATIONS MANAGER, BAY 15, SHANNON INDUSTRIAL ESTATE CO, CLARE,
+   IRELAND
+SN 0378-8741
+J9 J ETHNOPHARMACOL
+JI J. Ethnopharmacol.
+PD DEC
+PY 2004
+VL 95
+IS 2-3
+BP 123
+EP 126
+DI 10.1016/j.jep.2004.08.004
+PG 4
+WC Plant Sciences; Chemistry, Medicinal; Integrative & Complementary
+   Medicine; Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences; Pharmacology & Pharmacy; Integrative & Complementary
+   Medicine
+GA 871SU
+UT WOS:000225154500002
+PM 15507323
+DA 2023-12-06
+ER
+
+PT J
+AU Menezes, RG
+   Usman, MS
+   Hussain, SA
+   Madadin, M
+   Siddiqi, TJ
+   Fatima, H
+   Ram, P
+   Pasha, SB
+   Senthilkumaran, S
+   Fatima, TQ
+   Luis, SA
+AF Menezes, Ritesh G.
+   Usman, Muhammad Shariq
+   Hussain, Syed Ather
+   Madadin, Mohammed
+   Siddiqi, Tariq Jamal
+   Fatima, Huda
+   Ram, Pradhum
+   Pasha, Syed Bilal
+   Senthilkumaran, S.
+   Fatima, Tooba Qadir
+   Luis, Sushil Allen
+TI Cerbera odollam toxicity: A review
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Review
+DE Plant poison; Cerbera odollam toxicity; Cardiac glycoside; Cerberin;
+   Cardenolide; Cardiotoxicity; Emergency medicine; Forensic toxicology
+ID CYTOTOXIC CARDENOLIDE GLYCOSIDE; DIGOXIN; SEEDS; TREE
+AB Cerbera odollam is a plant species of the Apocynaceae family. It is often dubbed the 'suicide tree' due to its strong cardiotoxic effects, which make it a suitable means to attempt suicide. The plant grows in wet areas in South India, Madagascar, and Southeast Asia; and its common names include Pong-Pong and Othalanga. The poison rich part of the plant is the kernel which is present at the core of its fruit. The bioactive toxin in the plant is cerberin, which is a cardiac glycoside of the cardenolide class. Cerberin has a mechanism of action similar to digoxin; hence, Cerbera odollam toxicity manifests similar to acute digoxin poisoning. Ingestion of its kernel causes nausea, vomiting, hyperkalemia, thrombocytopenia, and ECG abnormalities. Exposure to high doses of Cerbera odollam carries the highest risk of mortality. Initial management includes supportive therapy and administration of atropine followed by temporary pacemaker insertion. Administration of digoxin immune Fab may be considered in severe cases, although efficacy is variable and data limited to isolated case reports.
+C1 [Menezes, Ritesh G.; Madadin, Mohammed] Imam Abdulrahman Bin Faisal Univ, Coll Med, Dept Pathol, Dammam, Saudi Arabia.
+   [Usman, Muhammad Shariq; Hussain, Syed Ather; Siddiqi, Tariq Jamal; Fatima, Huda; Pasha, Syed Bilal; Fatima, Tooba Qadir] Dow Univ Hlth Sci, Dow Med Coll, Karachi, Pakistan.
+   [Ram, Pradhum] Albert Einstein Med Ctr, Dept Internal Med, Philadelphia, PA 19141 USA.
+   [Senthilkumaran, S.] Be Well Hosp, Dept Emergency Med & Crit Care, Erode, India.
+   [Luis, Sushil Allen] Univ Queensland, Sch Med, Brisbane, Qld, Australia.
+C3 Imam Abdulrahman Bin Faisal University; Dow University of Health
+   Sciences; Yeshiva University; University of Queensland
+RP Menezes, RG (corresponding author), Imam Abdulrahman Bin Faisal Univ, Coll Med, Dept Pathol, Dammam, Saudi Arabia.
+EM mangalore971@yahoo.co.in
+RI Siddiqi, Tariq/AAH-1034-2020; Usman, Muhammad/AAH-1076-2020; Usman,
+   Muhammad/AAU-8410-2021; Ram, Pradhum/GNO-9987-2022; Menezes, Ritesh
+   G/A-7480-2015; Madadin, Mohammed/F-5174-2015
+OI Siddiqi, Tariq/0000-0002-9672-6628; Usman, Muhammad/0000-0001-9747-8892;
+   Menezes, Ritesh G/0000-0002-2135-4161; Madadin,
+   Mohammed/0000-0002-8594-5868; Pasha, Syed Bilal/0000-0001-9547-6201;
+   Luis, Sushil/0000-0001-9821-1225
+NR 28
+TC 3
+Z9 3
+U1 0
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD AUG
+PY 2018
+VL 58
+BP 113
+EP 116
+DI 10.1016/j.jflm.2018.05.007
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA GO5CN
+UT WOS:000440035700021
+PM 29778924
+DA 2023-12-06
+ER
+
+EF

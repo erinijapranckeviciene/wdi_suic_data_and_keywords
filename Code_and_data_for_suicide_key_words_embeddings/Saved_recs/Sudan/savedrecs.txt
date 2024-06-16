@@ -1,0 +1,248 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lester, D
+AF Lester, David
+TI Women and suicide in Islamic sub-Saharan Africa
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID SUDAN
+AB Research on suicide among Islamic women in sub-Saharan Africa was reviewed. The few reports available do not specify the ethnicity and religious affiliation of the cases, making interpretation of the reports difficult.
+C1 Richard Stockton Coll New Jersey, Psychol Program, Pomona, NJ 08240 USA.
+C3 Stockton University
+RP Lester, D (corresponding author), Richard Stockton Coll New Jersey, Psychol Program, Jimmie Leeds Rd, Pomona, NJ 08240 USA.
+NR 16
+TC 8
+Z9 8
+U1 0
+U2 1
+PU AMMONS SCIENTIFIC, LTD
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807-9229 USA
+SN 0033-2941
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD JUN
+PY 2008
+VL 102
+IS 3
+BP 734
+EP 738
+DI 10.2466/PR0.102.3.734-738
+PG 5
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 337VG
+UT WOS:000258463000013
+PM 18763444
+DA 2023-12-06
+ER
+
+PT J
+AU Abdelraheem, M
+   Ali, ET
+   Hussien, R
+   Zijlstra, E
+AF Abdelraheem, Mohamed
+   Ali, El-Tigani
+   Hussien, Rasha
+   Zijlstra, Eduard
+TI Paraphenylene diamine hair dye poisoning in an adolescent
+SO TOXICOLOGY AND INDUSTRIAL HEALTH
+LA English
+DT Article
+DE Paraphenylene diamine; poisoning; angio-oedema
+AB A 14-year-old female was referred to the pediatric nephrology unit with a short history of progressive angio-oedema of the face requiring tracheostomy. She ingested an unusual substance which caused swollen tongue, cervical oedema and dark coloured brown urine. These clinical features with the laboratory tests confirmed the diagnosis of paraphenylene diamine (PPD) poisoning. Psychological assessment confirmed that the child had severe depression. The suicide attempt was just immediately after failure in the final qualifying examination to secondary school. She did not have any family support but she used to be punished in different ways. In Sudan PPD in its pure form is available in the local market and until recently there was no restrictions for its use or trade. Adolescents are well aware of its toxic effects and it is commonly used to attempt suicide. Legislation and laws should prevent its use in different hair dye formulations and look for another substitute. Clinical management is hampered by the lack of a rapid diagnostic test; no other treatment other than supportive measures can be offered.
+C1 [Abdelraheem, Mohamed; Ali, El-Tigani; Hussien, Rasha] Soba Univ Hosp, Paediat Nephrol Unit, Khartoum, Sudan.
+   [Zijlstra, Eduard] Erasmus MC, Dept Med, Rotterdam, Netherlands.
+C3 Erasmus University Rotterdam; Erasmus MC
+RP Abdelraheem, M (corresponding author), Soba Univ Hosp, Paediat Nephrol Unit, POB 8081, Khartoum, Sudan.
+EM elfakky@hotmail.com
+NR 7
+TC 9
+Z9 9
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0748-2337
+J9 TOXICOL IND HEALTH
+JI Toxicol. Ind. Health
+PD NOV
+PY 2011
+VL 27
+IS 10
+BP 911
+EP 913
+DI 10.1177/0748233711399321
+PG 3
+WC Public, Environmental & Occupational Health; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Toxicology
+GA 848TJ
+UT WOS:000297077700006
+PM 21543462
+DA 2023-12-06
+ER
+
+PT J
+AU Abdelraheem, MB
+   El-Tigani, MAA
+   Hassan, EG
+   Ali, MAM
+   Mohamed, IA
+   Nazik, AE
+AF Abdelraheem, M. B.
+   El-Tigani, M. A. A.
+   Hassan, E. G.
+   Ali, M. A. M.
+   Mohamed, I. A.
+   Nazik, A. E.
+TI Acute renal failure owing to paraphenylene diamine hair dye poisoning in
+   Sudanese children
+SO ANNALS OF TROPICAL PAEDIATRICS
+LA English
+DT Article
+ID ADOLESCENT SUICIDES; INGESTION
+AB Introduction: Paraphenylene diamine (PPD) has traditionally been used as a dark-coloured hair dye. In Sudan, it is used by women to colour their hair and as a body dye when added to henna (Lawasonia alba). Accidental or deliberate ingestion causes severe systemic toxicity. Although a wide variety of complications has been described, there are few reports in children.
+   Aim: To describe the clinical features, management and outcome of PPD intoxication in Sudanese children
+   Methods: Data for a 3-year period (2006-2008) were extracted from the medical records of the Paediatric Nephrology Unit, Soba University Hospital. Information included the circumstances of poisoning, gender, age distribution, clinical presentation, biochemical findings and outcome.
+   Results: Over the 3-year period, 17 children (16 female) were admitted to the Paediatric Nephrology Unit with PPD intoxication. Mean age was 13.8 yrs (range 2-18). Thirteen (76.4%) had attempted suicide, three (17.6%) were poisoned as a result of attempted murder and one poisoning (5.8%) was accidental. Eight children (47%) required tracheostomy for severe angioneurotic oedema. Of 12 (71%) who developed acute renal failure (ARF), nine required dialysis and three were managed conservatively. Two children (12%) died and the other 15 recovered with normal renal function.
+   Conclusion: PPD intoxication is a life-threatening condition with significant morbidity and mortality in children. Clinical manifestations and outcome are similar to those in adults. Mortality can be reduced by early recognition, prompt referral and aggressive supportive treatment.
+C1 [Abdelraheem, M. B.; El-Tigani, M. A. A.; Hassan, E. G.; Ali, M. A. M.; Mohamed, I. A.] Univ Khartoum, Paediat Nephrol Unit, Soba Univ Hosp, Khartoum, Sudan.
+   [Nazik, A. E.] Univ Khartoum, Dept Ear Nose & Throat, Soba Univ Hosp, Khartoum, Sudan.
+C3 University of Khartoum; University of Khartoum
+RP Abdelraheem, MB (corresponding author), Univ Khartoum, Paediat Nephrol Unit, Soba Univ Hosp, Khartoum, Sudan.
+EM elfakky@hotmail.com
+NR 30
+TC 21
+Z9 21
+U1 2
+U2 11
+PU MANEY PUBLISHING
+PI LEEDS
+PA STE 1C, JOSEPHS WELL, HANOVER WALK, LEEDS LS3 1AB, W YORKS, ENGLAND
+SN 0272-4936
+EI 1465-3281
+J9 ANN TROP PAEDIATR
+JI Ann. Trop. Paediatr.
+PD SEP
+PY 2009
+VL 29
+IS 3
+BP 191
+EP 196
+DI 10.1179/027249309X12467994693815
+PG 6
+WC Pediatrics; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pediatrics; Tropical Medicine
+GA 487SW
+UT WOS:000269297100004
+PM 19689860
+DA 2023-12-06
+ER
+
+PT J
+AU Byman, DL
+AF Byman, DL
+TI Al-Qaeda as an adversary - Do we understand our enemy?
+SO WORLD POLITICS
+LA English
+DT Review
+AB Several recent books on al-Qaeda depict the organization as capable, committed, and bloodthirsty. The authors contend that further attacks, perhaps exceeding the scale of September 11, are likely and may even be inevitable. Indeed, they portray the United States as caught in an enduring struggle with Islamic extremism. Although the effort to arrest, kill, or disrupt al-Qaeda's leadership may be going extremely well, radical Islam appears to be thriving.
+   The bleak outlook, however, ignores several. positive signs. Infighting among Islamists remains rampant, a perennial problem that al-Qaeda has managed to reduce but not eliminate. Islamist regimes such as the Taliban's Afghanistan have been overthrown, while revolutionary regimes in Sudan and Iran are now far less fervent. Nor have violent movements gained mass support in the Muslim world, as their bloody tactics alienate more Muslims than they attract.
+   This portrait of al-Qaeda as an adversary suggests several policies. First, many of the bromides regarding counterterrorism in general-often drawn from struggles against small, left-wing European groups with at best limited popular appeal-do not apply to al-Qaeda. Its size, dedication, and popular appeal make it unusually, perhaps uniquely, formidable. Second, one must be wary of confusing al-Qaeda with its many affiliates and of confusing these violent radical groups with the broader political Islamist movement. Third, the United States must re-engage its allies, ensuring that its counterterrorism strategy is robust enough to maintain their support. Fourth, public diplomacy, always an American weakness, must go from an episodic and underfunded foreign policy instrument to a major tool of national power. Fifth, al-Qaeda's unusually innovative nature requires the United States to try to defend not only against obvious methods such as truck bombs but also against new means like surface-to-air missiles and sustained suicide bombing campaigns. Sixth and finally, political leaders must engage the public to increase the ability of the United States to stand fast in the event of another major attack.
+C1 Georgetown Univ, Edmund A Walsh Sch Foreign Serv, Washington, DC 20057 USA.
+C3 Georgetown University
+RP Byman, DL (corresponding author), Georgetown Univ, Edmund A Walsh Sch Foreign Serv, Washington, DC 20057 USA.
+RI Byman, Daniel/AGZ-3597-2022; Byman, Daniel/AAK-1837-2020
+NR 34
+TC 63
+Z9 66
+U1 0
+U2 31
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4319 USA
+SN 0043-8871
+J9 WORLD POLIT
+JI World Polit.
+PD OCT
+PY 2003
+VL 56
+IS 1
+BP 139
+EP +
+DI 10.1353/wp.2004.0002
+PG 26
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 813TF
+UT WOS:000220928700005
+DA 2023-12-06
+ER
+
+PT J
+AU Sarkar, A
+   Nandy, RK
+   Nair, GB
+   Ghose, AC
+AF Sarkar, A
+   Nandy, RK
+   Nair, GB
+   Ghose, AC
+TI Vibrio pathogenicity island and cholera toxin genetic element-associated
+   virulence genes and their expression in non-O1 non-O139 strains of
+   <i>Vibrio cholerae</i>
+SO INFECTION AND IMMUNITY
+LA English
+DT Article
+ID COREGULATED PILUS; CTX-PHI; COLONIZATION FACTOR; EL-TOR; TRANSCRIPTIONAL
+   ACTIVATION; ENVIRONMENTAL STRAINS; ESCHERICHIA-COLI; PANDEMIC STRAINS;
+   SUICIDE VECTOR; EPIDEMIC
+AB A non-O1 non-O139 Vibrio cholerae strain, 10259, belonging to the serogroup 053 was shown to harbor genes related to the vibrio pathogenicity island (VPI) and a cholera toxin (CT) genetic element called CTX. While the nucleotide sequence of the strain 10259 tcpA gene differed significantly (26 and 28%) from those of 01 classical and El Tor biotype strains, respectively, partial sequence analysis data of certain other VPI-associated genes (aldA, tagA, tcpP/H, toxT, acfB/C, and int) and intergenic regions (tcpF to toxT and tcpH to tcpA) of the strain showed only minor variations (0.4 to 4.8%) from corresponding sequences in 01 strains. Strain 10259 also contained CTX element-associated toxin genes with sequences almost identical to those of 01 strains. Growth of the organism in Luria broth (LB) under ToxR inducing conditions (30degreesC and pH 6.5) led to transcriptional activation of tcpP/H, toxR, toxT, and tcpA genes, but not of ctxA, as determined by reverse transcription-PCR (RT-PCR). Subsequent analysis revealed that strain 10259 possessed only two copies (instead of three or more copies found in epidemic-causing 01 or 0139 strains) of the heptanucleotide (TTTTGAT) repeats in the intergenic region upstream of ctxAB. Therefore, a strain 10259 mutant was generated by replacement of this region with a homologous region (1.4 kb) derived from a V. cholerae 01 classical biotype strain (0395) that contained seven such repeats. The resultant recombinant strain (10259R) was found to be capable of coordinately regulated expression of toxT, ctxA, and tcpA when grown under the ToxR inducing conditions. Serological studies also demonstrated that the recombinant strain produced TcpA and a significantly (similar to1,000-fold) higher level of CT in vitro compared to that of the parent strain. Virulence gene expression in two other non-O1 non-O139 strains (serogroup 037) containing VPI and the CTX element was studied by RT-PCR and serological assay. One strain (S7, which was involved in an epidemic in Sudan in 1968) showed coordinately regulated expression of virulence genes leading to the production of both CT and TcpA in LB medium. However, the other strain, V2, produced RT-PCR-detectable transcripts of toxT, ctxA, or tcpA genes in the early phase (6 h), but not in the late phase (16 h) of growth in LB medium. These results are consistent with the low levels of production of CT and TcpA by the strain that were serologically detectable. The significance of these results is discussed in relation to the role of virulence genes and their expression to the pathogenic potential of V. cholerae strains belonging to non-O1 serogroups.
+C1 VIIM, Dept Microbiol, Bose Inst, CIT Scheme, Kolkata 700054, W Bengal, India.
+   Natl Inst Cholera & Enter Dis, Kolkata 700010, W Bengal, India.
+C3 Department of Science & Technology (India); Bose Institute; Indian
+   Council of Medical Research (ICMR); ICMR - National Institute of Cholera
+   & Enteric Diseases (NICED)
+RP Ghose, AC (corresponding author), VIIM, Dept Microbiol, Bose Inst, CIT Scheme, P-1-12, Kolkata 700054, W Bengal, India.
+EM acghosh@boseinst.ernet.in
+OI Nandy, Ranjan Kumar/0000-0002-0012-9803
+NR 55
+TC 30
+Z9 33
+U1 0
+U2 2
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 0019-9567
+EI 1098-5522
+J9 INFECT IMMUN
+JI Infect. Immun.
+PD AUG
+PY 2002
+VL 70
+IS 8
+BP 4735
+EP 4742
+DI 10.1128/IAI.70.8.4735-4742.2002
+PG 8
+WC Immunology; Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Immunology; Infectious Diseases
+GA 574VC
+UT WOS:000176909400092
+PM 12117994
+OA Green Published
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,106 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ishida, K
+   Stupp, P
+   Melian, M
+   Serbanescu, F
+   Goodwin, M
+AF Ishida, Kanako
+   Stupp, Paul
+   Melian, Mercedes
+   Serbanescu, Florina
+   Goodwin, Mary
+TI Exploring the associations between intimate partner violence and women's
+   mental health: Evidence from a population-based study in Paraguay
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Paraguay; Intimate partner violence; Child abuse; Sexual abuse; Mental
+   health; Common mental disorders; Suicidal ideation; Latin America; Women
+ID DOMESTIC VIOLENCE; RISK-FACTORS; DEVELOPING-COUNTRIES; MARRIED-WOMEN;
+   DISORDERS; GENDER; FAMILY; MULTICOUNTRY; PREVALENCE; SUICIDE
+AB Using a nationally representative sample from the 2008 Paraguayan National Survey of Demography and Sexual and Reproductive Health, we examine the association between emotional physical and sexual intimate partner violence (IPV) and mental health among women aged 15-44 years who have ever been married or in a consensual union The results from multivariate logistic regression models demonstrate that controlling for women s socioeconomic and marital status and history of childhood abuse and their male partners unemployment and alcohol consumption IPV is independently associated with an increased risk for common mental disorders (CMD) and suicidal ideation measured by the Self Reporting Questionnaire (SRQ-20) IPV variables substantially improve the explanatory power of the models, particularly for suicidal ideation Emotional abuse regardless of when it occurred is associated with the greatest increased risk for CMD whereas recent physical abuse is associated with the greatest increased risk for suicidal ideation These findings suggest that efforts to identify women with mental health problems particularly suicidal ideation should include screening for the types and history of IPV victimization Published by Elsevier Ltd
+C1 [Ishida, Kanako; Stupp, Paul; Serbanescu, Florina; Goodwin, Mary] Ctr Dis Control & Prevent, Div Reprod Hlth, Atlanta, GA 30341 USA.
+   [Melian, Mercedes] CEPEP, Asuncion, Paraguay.
+C3 Centers for Disease Control & Prevention - USA
+RP Ishida, K (corresponding author), Ctr Dis Control & Prevent, Div Reprod Hlth, 4770 Buford Hwy NE,Mail Stop K-23, Atlanta, GA 30341 USA.
+RI Serbanescu, Florina/HGB-8187-2022
+NR 56
+TC 36
+Z9 43
+U1 1
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD NOV
+PY 2010
+VL 71
+IS 9
+BP 1653
+EP 1661
+DI 10.1016/j.socscimed.2010.08.007
+PG 9
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 673ZJ
+UT WOS:000283702400015
+PM 20864237
+DA 2023-12-06
+ER
+
+PT J
+AU Hayashi, T
+AF Hayashi, Toshimitsu
+TI Investigation on Traditional Medicines of Guarany Indio and Studies on
+   Diterpenes from <i>Scoparia dulcis</i>
+SO YAKUGAKU ZASSHI-JOURNAL OF THE PHARMACEUTICAL SOCIETY OF JAPAN
+LA Japanese
+DT Review
+DE Scoparia dulcis L.; bioactive diterpene; cancer gene therapy; leaf organ
+   culture; traditional herbal medicines of Guarany Indio
+ID SCOPADULCIC ACID-B; BONE-RESORPTION; GASTRIC H+,K+-ATPASE; ANTIVIRAL
+   ACTIVITY; GENE-THERAPY; BRAIN-TUMORS; 2 CHEMOTYPES; INHIBITOR;
+   BIOSYNTHESIS; ACCUMULATION
+AB In interviews on the traditional herbal medicines of Tupi-Guarany Indians at the herbal market of Asuncion and questionnaire from their users, it was clarified that various useful medicinal plants are available in Paraguay and most of them are generally used without drying. In the search for bioactive substances from those plants, a beta-glucuroniclase-inhibitory diterpene called scoparic acid A (SA) was isolated from Scoparia dulcis L. together with scoparic acid B, scoparic acid C, and the aphidicolin-like tetracyclic diterpenes scopadulcic acid A (SDA) and scopadulcic acid B (SDB). HPLC analysis of diterpenes in the individual plants of Paraguayan and Asian S. dulcis revealed the presence of three chemotypes based on major component, i.e., SA type, SDB type, and SDX type containing mainly scopadiol and scopadulciol (SDC). SA and SDB were elucidated to be mainly biosynthesized in the leaves via 2-C-methyl-D-erythritol-4-phosphate pathway, and a leaf organ culture system containing methyl jasmonate 10 pm was found to enhance the production of diterpenes by activation of Ca-signal transduction systems such as calmodulin and protein kinase C. On the other hand, SDB and SDC were found to show multifaceted pharmacological effects such as inhibitory effects on gastric acid excretion, bone resorption, replication of herpes simplex virus type 1 (HSV-1), etc. In addition, SDC was suggested to be applicable to cancer gene therapy using ganciclovir or acyclovir and the HSV-1 thymidine kinase gene called the suicide gene.
+C1 Toyama Univ, Grad Sch Med & Pharmaceut Sci Res, Toyama 9300194, Japan.
+C3 University of Toyama
+RP Hayashi, T (corresponding author), Toyama Univ, Grad Sch Med & Pharmaceut Sci Res, 2630 Sugitani, Toyama 9300194, Japan.
+EM hayashi9@pha.u-toyama.ac.jp
+NR 43
+TC 0
+Z9 2
+U1 1
+U2 10
+PU PHARMACEUTICAL SOC JAPAN
+PI TOKYO
+PA 2-12-15 SHIBUYA, SHIBUYA-KU, TOKYO, 150-0002, JAPAN
+SN 0031-6903
+EI 1347-5231
+J9 YAKUGAKU ZASSHI
+JI Yakugaku Zasshi-J. Pharm. Soc. Jpn.
+PD SEP
+PY 2011
+VL 131
+IS 9
+BP 1259
+EP 1269
+DI 10.1248/yakushi.131.1259
+PG 11
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA 813RU
+UT WOS:000294387100001
+PM 21881299
+OA Bronze
+DA 2023-12-06
+ER
+
+EF

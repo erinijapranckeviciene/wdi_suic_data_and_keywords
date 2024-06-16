@@ -1,0 +1,228 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hroncová, J
+AF Hroncova, Jolana
+TI New suicidal tendencies development in the Slovak Republic and
+   possibilities of their prevention
+SO NEW EDUCATIONAL REVIEW
+LA English
+DT Article
+DE suicides; tendencies of suicides; prevention; social educational aspect
+   of suicide prevention
+AB The study analyses the historical context of suicide in the Slovak Republic. It deals with past and present tendencies of suicide. Particular attention is paid to the social-educational aspect of suicide prevention.
+C1 Matej Bel Univ, Pedagog Fac, Dept Pedagogy, Banska Bystrica 97411, Slovakia.
+C3 Matej Bel University
+RP Hroncová, J (corresponding author), Matej Bel Univ, Pedagog Fac, Dept Pedagogy, Ruzova 13, Banska Bystrica 97411, Slovakia.
+EM jhroncova@pdf.umb.sk
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 1
+PU WYDAWNICTWO ADAM MARSZALEK
+PI TORUN
+PA UL LUBICKA 44, TORUN, 87-100, POLAND
+SN 1732-6729
+J9 NEW EDUC REV
+JI New Educ. Rev.
+PY 2007
+VL 12
+IS 2
+BP 41
+EP 54
+PG 14
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA 272IC
+UT WOS:000253852100005
+DA 2023-12-06
+ER
+
+PT J
+AU Emmerová, I
+AF Emmerova, Ingrid
+TI Suicides and Attempted Suicides of Children and Adolescents in the
+   Slovak Republic and Possibilities of Their Prevention
+SO NEW EDUCATIONAL REVIEW
+LA English
+DT Article
+DE suicide; attempted suicide; causes and motives of suicides by children
+   and adolescents; prevention
+AB The study analyses the rate of suicides committed by children and adolescents in the Slovak Republic. It elucidates statistical data about reported suicides and attempted suicides of children and adolescents over the years 2005-2010. Special attention is paid to possibilities of prevention. The paper is one of preliminary outputs of the project VEGA No. 1/0168/12 Professionalizing Prevention of Social and Pathological Phenomena in the School Environment in the Slovak Republic from the aspect of the social pedagogue profession - present situation, problems and comparison with foreign countries.
+C1 Matej Bel Univ, Pedag Fac, Dept Pedag, Banska Bystrica 97411, Slovakia.
+C3 Matej Bel University
+RP Emmerová, I (corresponding author), Matej Bel Univ, Pedag Fac, Dept Pedag, Ruzova 13, Banska Bystrica 97411, Slovakia.
+EM ingrid.emmerova@umb.sk
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 11
+PU WYDAWNICTWO ADAM MARSZALEK
+PI TORUN
+PA UL LUBICKA 44, TORUN, 87-100, POLAND
+SN 1732-6729
+J9 NEW EDUC REV
+JI New Educ. Rev.
+PY 2012
+VL 29
+IS 3
+BP 81
+EP 89
+PG 9
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA 080PF
+UT WOS:000314254600007
+DA 2023-12-06
+ER
+
+PT J
+AU Brazinova, A
+   Moravansky, N
+   Gulis, G
+   Skodacek, I
+AF Brazinova, Alexandra
+   Moravansky, Norbert
+   Gulis, Gabriel
+   Skodacek, Igor
+TI Suicide rate trends in the Slovak Republic in 1993-2015
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Suicide rates; Slovak Republic; mortality; time trend
+ID JOINPOINT REGRESSION; FINANCIAL CRISIS; FINNO-UGRIANS; COUNTRIES;
+   HEALTH; MORTALITY; EUROPE; IMPACT; PREVENTION; HUNGARY
+AB Background: Suicide is a significant public health issue worldwide, resulting in loss of lives, and burdening societies.
+   Aims: To describe and analyze the time trends of suicide rates (SRs) in the Slovak Republic in 1993-2015 for targeted suicide prevention strategies.
+   Methods: Data for this study were obtained from the mortality database of the Statistical Office of the Slovak Republic. Crude and standardized annual SRs were calculated. Trends and relative risks of suicide according to age and sex were analyzed by joinpoint regression and negative binomial regression.
+   Results: In total, there were 14,575 suicides in the Slovak Republic in the period 1993-2015 (85.3% were men). The overall average age-standardized SR for the study period was 11.45 per 100,000 person years. The rate increases with age, the highest is in men aged 75+ (42.74 per 100,000 person years). Risk of suicide is six times higher in men than in women and nine times higher in men than in women in the age group 25-34. The time trend of SRs is stable or decreasing from 1993 to 2007, but increasing after 2007, corresponding with increased unemployment rate in the country.
+   Conclusion: The SR in the Slovak Republic is slightly below the average of Organisation for Economic Co-operation and Development (OECD) nations. Highest SR is observed in men of working age and in retirement. Society might benefit from a strategy of education for improving the recognition of suicide risks.
+C1 [Brazinova, Alexandra] Trnava Univ, Fac Hlth Sci & Social Work, Dept Publ Hlth, Univ Namestie 1, Trnava 91701, Slovakia.
+   [Moravansky, Norbert] Comenius Univ, Inst Forens Med, Fac Med, Bratislava, Slovakia.
+   [Moravansky, Norbert] Forens Sk Inst Forens Med Anal, Bratislava, Slovakia.
+   [Gulis, Gabriel] Univ Southern Denmark, Unit Hlth Promot Res, Esbjerg, Denmark.
+   [Skodacek, Igor] Comenius Univ, Fac Med, Dept Psychiat, Bratislava, Slovakia.
+   [Skodacek, Igor] Children Teaching Hosp, Bratislava, Slovakia.
+C3 University of Trnava; Slovak Academy of Sciences; Comenius University
+   Bratislava; University of Southern Denmark; Comenius University
+   Bratislava
+RP Brazinova, A (corresponding author), Trnava Univ, Fac Hlth Sci & Social Work, Dept Publ Hlth, Univ Namestie 1, Trnava 91701, Slovakia.
+EM alexandra.brazinova@gmail.com
+RI Gulis, Gabriel/E-4505-2013; Brazinova, Alexandra/C-4265-2016
+OI Gulis, Gabriel/0000-0002-8174-4591; Brazinova,
+   Alexandra/0000-0003-0625-256X
+NR 43
+TC 6
+Z9 8
+U1 0
+U2 9
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD MAR
+PY 2017
+VL 63
+IS 2
+BP 161
+EP 168
+DI 10.1177/0020764016688715
+PG 8
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EU0JP
+UT WOS:000400697800010
+PM 28114844
+DA 2023-12-06
+ER
+
+PT C
+AU Brazinová, A
+AF Brazinova, Alexandra
+BE Dlouhy, M
+TI Suicides in the Slovak Republic: Trend and Cross-Sectional Analysis
+SO PROCEEDINGS OF THE 3RD V4 CONFERENCE ON PUBLIC HEALTH 2017
+LA English
+DT Proceedings Paper
+CT 3rd V4 Conference on Public Health
+CY OCT 19-20, 2017
+CL Prague, CZECH REPUBLIC
+SP Soc Social Med & Hlth Care Management Czech, Med Assoc Jan Evangelista Purkyne, Inst Postgraduate Med Educ, Slovak Publ Hlth Assoc, Pavol Jozef Safarik Univ, Fac Med, Polish Soc Publ Hlth, Hungarian Assoc Publ Hlth Training & Res Inst
+DE suicide rate; mental health; completed suicides; Slovak Republic
+ID MENTAL-DISORDERS; INTERVENTIONS; COUNTRIES; DEATHS; HEALTH
+AB Background and Aim: Suicide is a significant global public health issue, resulting in loss of lives, and burdening societies. The aim of the study was to assess the situation of suicides in the Slovak Republic, as this has not been published before. We have conducted a study of time trends of suicide rates in the country in the period of its existence 1993-2015 as well as cross-sectional analysis of socio-economic sucide-influencing factors on district level for the period 2011-2015.
+   Methods: Data for this study were obtained from the Statistical Office of the Slovak Republic, the national mortality database for the period 1993-2015. Socio-economic indicators on district level were extracted from DataCube database of the Statistical Office of the Slovak Republic. We have calculated crude and standardised suicide rates by age, sex, year of death, methods of suicide on both national level (for the whole study period 1993-2015) as well as district level for 2011-2015 period. Suicide rates relative risk and trend were analyzed by using negative binomial and joinpoint regression models respectively. Univariate and multivariate linear regression was used to assess the relationship between the socioeconomic variables and suicide rates at district level.
+   Results: In the period 1993-2015 were 14,575 suicides reported in the Slovak Republic (85.3% men). The overall time trend for total population is decreasing with time over the study period, from 14.61 in 1993 to 7.76 per 100,000 people in 2015. The overall average age-standardized SR for the study period was 11.45 per 100,000 person years, this is below the Organisation for Economic Co-operation and Development (OECD) average. The rate increases with age, the highest is in men aged 75+ (42.74 per 100,000 people). Risk of suicide is six times higher in men than in women and nine times higher in men than in women in the age group 25-34. Highest suicide rate in the Slovak Republic in 2015 on district level is in Myjava district.
+   Conclusion: The time trend of SRs is decreasing in the study period 1993-2015, however, at the same time we have observed increasing trend of proportion of deaths classified as caused by 'undetermined intent'. Correct cause of death certification and standardized mortality data collection is higly desirable for accurate monitoring and targeted intervention. Suicides are an important public health issue in need of focused prevention activities, with special attention on older people.
+C1 [Brazinova, Alexandra] Comenius Univ, Fac Med, Inst Epidemiol, Bratislava, Slovakia.
+C3 Comenius University Bratislava
+RP Brazinova, A (corresponding author), Comenius Univ, Fac Med, Inst Epidemiol, Bratislava, Slovakia.
+RI Brazinova, Alexandra/C-4265-2016
+OI Brazinova, Alexandra/0000-0003-0625-256X
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 1
+PU PROFESSIONAL PUBLISHING
+PI PRUHONICE
+PA NA SIDLISTI 152, PRUHONICE, PRAGUE 252 43, CZECH REPUBLIC
+BN 978-80-88260-08-0
+PY 2018
+BP 9
+EP 15
+PG 7
+WC Public, Environmental & Occupational Health
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Public, Environmental & Occupational Health
+GA BP2LA
+UT WOS:000543008300002
+DA 2023-12-06
+ER
+
+PT J
+AU Brazinova, A
+AF Brazinova, A.
+TI Analysis of suicide rates in the Slovak Republic in the period 1993-2014
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [Brazinova, A.] Trnava Univ, Fac Hlth Sci & Social Work, Trnava, Slovakia.
+C3 University of Trnava
+EM alexandra.brazinova@gmail.com
+RI Brazinova, Alexandra/C-4265-2016
+OI Brazinova, Alexandra/0000-0003-0625-256X
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 1
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2016
+VL 26
+SU 1
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA ER2CA
+UT WOS:000398600404305
+DA 2023-12-06
+ER
+
+EF

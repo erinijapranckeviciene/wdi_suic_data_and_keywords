@@ -1,0 +1,1083 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU van Duin, C
+   Catunda, C
+   Heinz, A
+   Willems, H
+AF van Duin, C.
+   Catunda, C.
+   Heinz, A.
+   Willems, H.
+TI Using data from the HBSC study for evidence-based suicide prevention in
+   Luxembourg
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [van Duin, C.; Catunda, C.; Heinz, A.; Willems, H.] Univ Luxembourg, Inside Res Unit, Esch Sur Alzette, Luxembourg.
+C3 University of Luxembourg
+EM claire.vanduin@uni.lu
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2019
+VL 29
+SU 4
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA KC0RL
+UT WOS:000506895301202
+DA 2023-12-05
+ER
+
+PT J
+AU Mark, L
+   Samm, A
+   Tooding, LM
+   Sisask, M
+   Aasvee, K
+   Zaborskis, A
+   Zemaitiene, N
+   Värnik, A
+AF Mark, Lauraliisa
+   Samm, Algi
+   Tooding, Liina-Mai
+   Sisask, Merike
+   Aasvee, Katrin
+   Zaborskis, Apolinaras
+   Zemaitiene, Nida
+   Vaernik, Airi
+TI Suicidal Ideation, Risk Factors, and Communication With Parents An HBSC
+   Study on School Children in Estonia, Lithuania, and Luxembourg
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicidal ideation; parent-child communication; smoking; alcohol use;
+   physical fighting; bullying
+ID YOUTH SUICIDE; BEHAVIOR; ADOLESCENTS; CHILDHOOD; STUDENTS
+AB Background: Suicide is a leading cause of death among youth. In the year 2002, Lithuania had the 2nd, Luxembourg the 5th, and Estonia the 9th highest suicide rates among 15- to 19-year-olds across 90 countries worldwide. Suicidal ideation is a significant precursor to suicide. Aims: To report on the prevalence of and associations between suicidal ideation, smoking, alcohol consumption, physical fighting, bullying, and communication with parents among 15-year-old schoolchildren. Methods: The survey analyzes data from the 2005/2006 HBSC study from Estonia, Lithuania, and Luxembourg (N = 4,954). The risk factors were calculated through multinomial logistic regression analyses. Results: The overall prevalence of suicidal ideation in the preceding year was 17%. Suicidal thoughts were associated with communication difficulties with parents (OR from 2.0 to 4.6) and other risk factors, especially multiple risks (OR for 4-5 concurrent risk factors from 4.5 to 13.6). Parent-child communication had a significant mediating effect by decreasing the odds for suicidality and multiple risks. Limitations: The prevalence estimates were obtained by self-reports. The causal relationships need further investigation. Conclusion: The risk factors studied, particularly multiple risks, were associated with higher odds for suicidal ideation. Good parent-child communication is a significant resource for decreasing suicidal ideation among adolescents.
+C1 [Mark, Lauraliisa; Samm, Algi; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Mark, Lauraliisa; Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Samm, Algi; Tooding, Liina-Mai; Vaernik, Airi] Univ Tartu, Tartu, Estonia.
+   [Aasvee, Katrin] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Zaborskis, Apolinaras; Zemaitiene, Nida] Lithuanian Univ Hlth Sci, Kaunas, Lithuania.
+C3 Tallinn University; University of Tartu; National Institute for Health
+   Development - Estonia; Lithuanian University of Health Sciences
+RP Mark, L (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM lauraliisa.mark@gmail.com
+OI Sisask, Merike/0000-0001-6821-6367
+NR 40
+TC 17
+Z9 22
+U1 1
+U2 31
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2013
+VL 34
+IS 1
+BP 3
+EP 12
+DI 10.1027/0227-5910/a000153
+PG 10
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 082AQ
+UT WOS:000314364500002
+PM 22846444
+DA 2023-12-05
+ER
+
+PT J
+AU Zaborskis, A
+   Ilionsky, G
+   Tester, R
+   Heinz, A
+AF Zaborskis, Apolinaras
+   Ilionsky, Gabrieta
+   Tester, Riki
+   Heinz, Andreas
+TI The Association Between Cyberbullying, School Bullying, and Suicidality
+   Among Adolescents
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE adolescents; bullying; cyberbullying; suicidality; associations
+ID RISK-BEHAVIORS; VICTIMIZATION; IDEATION; METAANALYSIS; PREVALENCE;
+   CHILDREN; VICTIMS; EUROPE; HEALTH; CYBER
+AB Background: Bullying and suicidality are serious worldwide problems with negative effects on the young population and therefore international comparisons in this field are of paramount importance.Aims: To analyze the prevalence of bullying and cyberbullying and their association with suicidal behavior among school-aged children in Israel, Lithuania, and Luxembourg. Method: In total, 3,814 15-year-olds from schools in Israel, Lithuania, and Luxembourg were surveyed in the Health Behavior in School-Aged Children (HBSC) cross-national survey in 2013/2014 using standardized anonymous questionnaires. Data analysis employed logistic regression and structural equation modeling (SEM). Results: In all, 6.5% of the adolescents reported being cyberbullied, 15.6% reported being bullied at school. In the previous 12 months, 38.6% reported experiencing emotions that stopped them from doing their usual activities, 17.8% considered attempting suicide, 12.0% made a suicide plan, and 9.5% attempted suicide. Victims of cyberbullying and school bullying had a significantly higher risk of suicidal ideations, plans, and attempts.The SEM analysis confirmed a significant overall effect of bullying on adolescent suicidality.The strongest effect was seen among Israeli students. Limitations: The prevalence estimates were obtained by self-report. Conclusion: The prevalence of adolescent cyberbullying, school bullying, and suicidal behavior is relatively high in Israel, Lithuania, and Luxembourg. Cyberbullying is a strong predictor of adolescent suicidality.
+C1 [Zaborskis, Apolinaras; Ilionsky, Gabrieta] Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, 18 Tilzes St, LT-47181 Kaunas, Lithuania.
+   [Tester, Riki] Ariel Univ, Fac Hlth Sci, Dept Hlth Syst Management, Ariel, Israel.
+   [Heinz, Andreas] Univ Luxembourg, Luxembourg, Luxembourg.
+C3 Lithuanian University of Health Sciences; Ariel University; University
+   of Luxembourg
+RP Zaborskis, A (corresponding author), Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, 18 Tilzes St, LT-47181 Kaunas, Lithuania.
+EM apolinaras.zaborskis@lsmuni.lt
+RI Heinz, Andreas/ABB-7736-2020
+OI Heinz, Andreas/0000-0001-5405-9065; Heinz, Andreas/0000-0002-2362-417X;
+   Tesler, Riki/0000-0001-6070-6193
+NR 48
+TC 36
+Z9 43
+U1 5
+U2 74
+PU HOGREFE PUBLISHING CORP
+PI BOSTON
+PA 361 NEWBURY ST, 5 FL, BOSTON, MA, UNITED STATES
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD MAR
+PY 2019
+VL 40
+IS 2
+BP 100
+EP 114
+DI 10.1027/0227-5910/a000536
+PG 15
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA HP6KG
+UT WOS:000461792200004
+PM 30109963
+DA 2023-12-05
+ER
+
+PT J
+AU Grosse, C
+   Grosse, A
+AF Grosse, Claudia
+   Grosse, Alexandra
+TI Assisted suicide: Models of legal regulation in selected European
+   countries and the case law of the European Court of Human Rights
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+DE Human rights; law; legal system; medical law
+ID OF-LIFE PRACTICES; EUTHANASIA LAW; NETHERLANDS; END; SWITZERLAND; DEATH
+AB This paper presents three different models of the legal regulation of assisted suicide in European countries. First, the current legal regime governing assisted suicide in the Netherlands is described where both euthanasia and assisted suicide have been legalised. This section also includes some empirical data on euthanasia and assisted-suicide practices in the Netherlands, as well as a comparison with the current legal legislation in Belgium and Luxembourg. Next, Switzerland is presented as a country where euthanasia is punishable by law but assisted suicide is legally allowed, provided it is not carried out with selfish motives. This section also focuses on the assisted-suicide related case law of the Swiss Federal Supreme Court and the European Court of Human Rights. Last, the current legal situation regarding assisted suicide in Austria and Germany is described. While the Austrian Penal Code explicitly prohibits assisted suicide, assistance with suicide is not specifically regulated by the German Penal Code. However, medical doctors are not allowed to assist suicides according to the professional codes of conduct drawn up by the German medical associations under the supervision of the health authorities.
+C1 [Grosse, Claudia] Univ Bern, CH-3001 Bern, Switzerland.
+   [Grosse, Alexandra] Univ Vienna, A-1010 Vienna, Austria.
+C3 University of Bern; University of Vienna
+RP Grosse, C (corresponding author), Univ Bern, Schanzeneckstr 1, CH-3001 Bern, Switzerland.
+EM claudiagrosse@gmx.at
+NR 36
+TC 9
+Z9 10
+U1 0
+U2 29
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD OCT
+PY 2015
+VL 55
+IS 4
+BP 246
+EP 258
+DI 10.1177/0025802414540636
+PG 13
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA CU8TT
+UT WOS:000363817700002
+PM 25143341
+DA 2023-12-05
+ER
+
+PT J
+AU Julesz, M
+AF Julesz, Mate
+TI Euthanasia outside Europe
+SO ORVOSI HETILAP
+LA Hungarian
+DT Article
+DE euthanasia; assisted suicide; criminal law; euthanasia in Europe;
+   euthanasia outside Europe; rule of law
+AB The passive form of euthanasia is legalized almost in every civilized country. Its active form is not a generally accepted legal institution. In Europe, active euthanasia is legalized only in The Netherlands, Belgium, Luxembourg and Switzerland. In Australia, the Act on the Rights of the Terminally Ill of 1995 legalized the institution of assisted suicide, which is not identical to active euthanasia. The difference lies in the fact that legalized active euthanasia means that the author of a murder is not punishable (under certain circumstances), whilst assisted suicide is not about murder, rather about suicide. In the first case, the patient is killed on his or her request by someone else. In the second case, the patient himself or herself executes the act of self-killing (by the assistance of a healthcare worker). In Australia, the institution of assisted suicide was repealed in 1997. Assisted suicide is legal in four USA member states: in Vermont, Washington, Montana and Oregon. In Uruguay, the active form of euthanasia has been legal since 1932.
+C1 [Julesz, Mate] Szegedi Tudomanyegyet, Szeged, Hungary.
+C3 Szeged University
+RP Julesz, M (corresponding author), Szentharomsag U 20, H-6722 Szeged, Hungary.
+EM mate.julesz@freemail.hu
+OI Julesz, Mate/0000-0003-0148-1857
+NR 15
+TC 1
+Z9 1
+U1 4
+U2 42
+PU AKADEMIAI KIADO RT
+PI BUDAPEST
+PA PRIELLE K U 19, PO BOX 245,, H-1117 BUDAPEST, HUNGARY
+SN 0030-6002
+EI 1788-6120
+J9 ORVOSI HETILAP
+JI Orvosi Hetilap
+PD AUG
+PY 2014
+VL 155
+IS 32
+BP 1259
+EP 1264
+DI 10.1556/OH.2014.29978
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AW6KJ
+UT WOS:000346378100002
+PM 25087217
+DA 2023-12-05
+ER
+
+PT J
+AU Steck, N
+   Egger, M
+   Maessen, M
+   Reisch, T
+   Zwahlen, M
+AF Steck, Nicole
+   Egger, Matthias
+   Maessen, Maud
+   Reisch, Thomas
+   Zwahlen, Marcel
+TI Euthanasia and Assisted Suicide in Selected European Countries and US
+   States <i>Systematic Literature Review</i>
+SO MEDICAL CARE
+LA English
+DT Article
+DE assisted dying; end-of-life decisions; epidemiology
+ID OF-LIFE PRACTICES; RIGHT-TO-DIE; DUTCH EUTHANASIA; DECISION-MAKING;
+   OREGON DEATH; DIGNITY ACT; END; NETHERLANDS; BELGIUM; TRENDS
+AB Background:Legal in some European countries and US states, physician-assisted suicide and voluntary active euthanasia remain under debate in these and other countries.Objectives:The aim of the study was to examine numbers, characteristics, and trends over time for assisted dying in regions where these practices are legal: Belgium, Luxembourg, the Netherlands, Switzerland, Oregon, Washington, and Montana.Design:This was a systematic review of journal articles and official reports. Medline and Embase databases were searched for relevant studies, from inception to end of 2012. We searched the websites of the health authorities of all eligible countries and states for reports on physician-assisted suicide or euthanasia and included publications that reported on cases of physician-assisted suicide or euthanasia. We extracted information on the total number of assisted deaths, its proportion in relation to all deaths, and socio-demographic and clinical characteristics of individuals assisted to die.Results:A total of 1043 publications were identified; 25 articles and reports were retained, including series of reported cases, physician surveys, and reviews of death certificates. The percentage of physician-assisted deaths among all deaths ranged from 0.1%-0.2% in the US states and Luxembourg to 1.8%-2.9% in the Netherlands. Percentages of cases reported to the authorities increased in most countries over time. The typical person who died with assistance was a well-educated male cancer patient, aged 60-85 years.Conclusions:Despite some common characteristics between countries, we found wide variation in the extent and specific characteristics of those who died an assisted death.
+C1 [Steck, Nicole; Egger, Matthias; Maessen, Maud; Zwahlen, Marcel] Univ Bern, Inst Social & Prevent Med, CH-3012 Bern, Switzerland.
+   [Egger, Matthias] Univ Bristol, Sch Social & Community Med, Bristol, Avon, England.
+   [Reisch, Thomas] Univ Hosp Psychiat, Bern, Switzerland.
+C3 University of Bern; University of Bristol; University of Bern;
+   University Hospital of Bern
+RP Zwahlen, M (corresponding author), Univ Bern, Inst Social & Prevent Med, Finkenhubelweg 11, CH-3012 Bern, Switzerland.
+EM zwahlen@ispm.unibe.ch
+RI Zwahlen, Marcel/AFF-8559-2022
+OI Zwahlen, Marcel/0000-0002-6772-6346; Egger,
+   Matthias/0000-0001-7462-5132; Maessen, Maud/0000-0002-5439-9948
+FU Swiss National Science Foundation [325130_133139, 33CSC0_134273]; 
+   [406740_139240]; Swiss National Science Foundation (SNF) [325130_133139]
+   Funding Source: Swiss National Science Foundation (SNF)
+FX Supported by the Swiss National Science Foundation (grants 325130_133139
+   (http://p3.snf.ch/project-133139) and 33CSC0_134273
+   (http://p3.snf.ch/project-134273), and T.R. is a co-investigator on
+   grant number 406740_139240 (http://p3.snf.ch/project-139240).
+NR 39
+TC 112
+Z9 122
+U1 1
+U2 73
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0025-7079
+EI 1537-1948
+J9 MED CARE
+JI Med. Care
+PD OCT
+PY 2013
+VL 51
+IS 10
+BP 938
+EP 944
+PG 7
+WC Health Care Sciences & Services; Health Policy & Services; Public,
+   Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA 222SI
+UT WOS:000324751000013
+PM 23929402
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Arensman, E
+   Van Audenhove, C
+   van der Feltz-Cornelis, CM
+   Hegerl, U
+AF Vaernik, Peeter
+   Sisask, Merike
+   Vaernik, Airi
+   Arensman, Ella
+   Van Audenhove, Chantal
+   van der Feltz-Cornelis, Christina M.
+   Hegerl, Ulrich
+TI Validity of suicide statistics in Europe in relation to undetermined
+   deaths: developing the 2-20 benchmark
+SO INJURY PREVENTION
+LA English
+DT Article
+ID FORMER SOVIET-UNION; VITAL-STATISTICS; TIME-SERIES; MORTALITY;
+   CLASSIFICATION; DEPRESSION; COUNTRIES; ALLIANCE; QUALITY
+AB Background The suicide rate is a macro indicator of the population's psychosocial wellbeing and an evaluation criterion of the effectiveness of suicide prevention strategies. A high level of injury deaths of undetermined intent (UD) is usually discussed in connection with the validity of suicide statistics. An effort is made to develop a criterion to characterise the quality of suicide statistics.
+   Methods Standardised rates of suicides (X60-X84) and UD (Y10-Y34) by the International Classification of Disease version 10 as an average for the past five available years were taken from the WHO European mortality database. Rate ratios were computed by dividing rates of UD by suicide rates.
+   Results There is considerable variation in suicide and UD rates among countries. The highest overall rates of UD were registered in Russia, Ukraine and Belarus, and the lowest in Greece, Spain and Italy. The EU-15 average UD rate of 1.97 and the rate ratio of 0.194 UD to suicides were combined into a '2-20 benchmark', in which the primary indicator is 2.0 UD cases per 100 000 and the secondary indicator is the proportion of UD to suicides 0.20 (20%), which enables countries to be clustered according to the quality of suicide statistics. The following countries satisfied the benchmark: Greece, Norway, Spain, The Netherlands, Luxembourg, France, Austria, Italy, Romania, Hungary, Ireland and Finland.
+   Conclusion This study used the developed '2-20 benchmark' in Europe to assess suicide registration quality in a particular country, to compare the relative position of countries, and to set a target for those European countries that have not yet achieved the benchmark.
+C1 [Vaernik, Peeter; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Vaernik, Peeter] Tallinn Univ, Estonian Inst Populat Studies, Tallinn, Estonia.
+   [Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Arensman, Ella] Natl Suicide Res Fdn, Cork, Ireland.
+   [Van Audenhove, Chantal] Katholieke Univ Leuven, LUCAS, Louvain, Belgium.
+   [van der Feltz-Cornelis, Christina M.] Netherlands Inst Mental Hlth & Addict, Trimbos Inst, Utrecht, Netherlands.
+   [Hegerl, Ulrich] Univ Leipzig, Dept Psychiat, Leipzig, Germany.
+C3 Tallinn University; Tallinn University; KU Leuven; Trimbos Institute;
+   Leipzig University
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM peeterv@suicidology.ee
+RI Van der Feltz-Cornelis, Christina/JMP-7639-2023
+OI Van der Feltz-Cornelis, Christina/0000-0001-6925-8956; Hegerl,
+   Ulrich/0000-0002-3039-7470; Arensman, Ella/0000-0003-0376-1203; Sisask,
+   Merike/0000-0001-6821-6367; Van Audenhove, Chantal/0000-0002-5504-5439
+FU European Community Seventh Framework Programme OSPI-Europe [223138];
+   Estonian Ministry of Social Affairs
+FX The research reported in this paper has received funding from the
+   European Community Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement no 223138, and from the Estonian
+   Ministry of Social Affairs.
+NR 33
+TC 47
+Z9 51
+U1 1
+U2 21
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1353-8047
+EI 1475-5785
+J9 INJURY PREV
+JI Inj. Prev.
+PD OCT
+PY 2012
+VL 18
+IS 5
+BP 321
+EP 325
+DI 10.1136/injuryprev-2011-040070
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 016LV
+UT WOS:000309520800008
+PM 22157205
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Valge, J
+   Johanson, A
+AF Valge, Jaak
+   Johanson, Art
+TI Versions of How Artur Sirk Perished
+SO TUNA-AJALOOKULTUURI AJAKIRI
+LA Estonian
+DT Article
+AB A letter written by the entrepreneur and public figure Oskar Rutli, who lived in Tartu, was made public over 60 years after his death. Rutli claims that Artur Sirk, the leader of the Estonian War of Independence veterans' movement, was killed in the town of Ecternach, Luxembourg and describes how this happened.
+   This article is occasioned by Rutli's letter to analyse the different versions of Artur Sirk's death and to attempt to ascertain their validity. Two main versions are widespread: murder and suicide.
+   Neither version has been verified once and for all and summational analysis does not bring us any closer to the truth. The sources obtained from Luxembourg do not disprove or confirm suicide, and information hitherto disclosed by other researchers, for instance the writings of Villem Saarsen, are not convincing. The fact that the file on Artur Sirk has gone missing from the Luxembourg National Archives is a surprising circumstance that provides grounds for new suspicions. On the other hand, what is hitherto known also does not provide support for the murder version. The letter from Oskar Rutli, which contains several errors, also does not help in any significant way. Unfortunately, he has also left the source of his knowledge undisclosed. The primary research on the murder version has been conducted by Juri Remmelgas. Numerous publications have been published on this theme but the evidence brought forth in them is contradictory.
+   A third version has also been suggested, according to which Artur Sirk fell out of a window as he was attempting to escape in panic. A new argument in favour of this explanation is brought forth in this article, but this version is also nevertheless hypothetical. In light of the knowledge that has hitherto been at our disposal, there are no grounds for considering this version any more convincing than the preceding two versions.
+C1 [Valge, Jaak] Tallinna Ulikool, Eesti Demog Keskus, Narva Mnt 25, EE-10120 Tallinn, Estonia.
+   [Valge, Jaak] Tartu Ulikool, Ajaloo & Arheol Inst, Tallinn, Estonia.
+C3 University of Tartu
+RP Valge, J (corresponding author), Tallinna Ulikool, Eesti Demog Keskus, Narva Mnt 25, EE-10120 Tallinn, Estonia.; Valge, J (corresponding author), Tartu Ulikool, Ajaloo & Arheol Inst, Tallinn, Estonia.
+EM valge@hot.ee; art.johanson@gmail.com
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RAHVUSARHIV-NATL ARCH ESTONIA
+PI TALLINN
+PA TONISMAGI 16, TALLINN, 10119, ESTONIA
+SN 1406-4030
+J9 TUNA-AJALOOKULT AJAK
+JI Tuna-Ajalookultuuri Ajak.
+PY 2018
+IS 4
+BP 57
+EP +
+PG 12
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA HH8CL
+UT WOS:000455959200006
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, A
+   Sisask, M
+   Värnik, P
+   Wu, J
+   Kolves, K
+   Arensman, E
+   Maxwell, M
+   Reisch, T
+   Gusmao, R
+   van Audenhove, C
+   Scheerder, G
+   van der Feltz-Cornelis, CM
+   Coffey, C
+   Kopp, M
+   Szekely, A
+   Roskar, S
+   Hegerl, U
+AF Vaernik, Airi
+   Sisask, Merike
+   Vaernik, Peeter
+   Wu, Jing
+   Kolves, Kairi
+   Arensman, Ella
+   Maxwell, Margareth
+   Reisch, Thomas
+   Gusmao, Ricardo
+   van Audenhove, Chantal
+   Scheerder, Gert
+   van der Feltz-Cornelis, Christina M.
+   Coffey, Claire
+   Kopp, Maria
+   Szekely, Andras
+   Roskar, Saska
+   Hegerl, Ulrich
+TI Drug suicide: a sex-equal cause of death in 16 European countries
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID POISONING SUICIDES; GENDER; PREVENTION; RATES; ALLIANCE; ENGLAND;
+   TRENDS; ANTIDEPRESSANTS; AVAILABILITY; RESTRICTIONS
+AB Background: There is a lack of international research on suicide by drug overdose as a preventable suicide method. Sex-and age-specific rates of suicide by drug self-poisoning (ICD-10, X60-64) and the distribution of drug types used in 16 European countries were studied, and compared with other self-poisoning methods (X65-69) and intentional self-injury (X70-84).
+   Methods: Data for 2000-04/05 were collected from national statistical offices. Age-adjusted suicide rates, and age and sex distributions, were calculated.
+   Results: No pronounced sex differences in drug self-poisoning rates were found, either in the aggregate data (males 1.6 and females 1.5 per 100,000) or within individual countries. Among the 16 countries, the range (from some 0.3 in Portugal to 5.0 in Finland) was wide. 'Other and unspecified drugs' (X64) were recorded most frequently, with a range of 0.2-1.9, and accounted for more than 70% of deaths by drug overdose in France, Luxembourg, Portugal and Spain. Psychotropic drugs (X61) ranked second. The X63 category ('other drugs acting on the autonomic nervous system') was least frequently used. Finland showed low X64 and high X61 figures, Scotland had high levels of X62 ('narcotics and hallucinogens, not elsewhere classified') for both sexes, while England exceeded other countries in category X60. Risk was highest among the middle-aged everywhere except in Switzerland, where the elderly were most at risk.
+   Conclusions: Suicide by drug overdose is preventable. Intentional self-poisoning with drugs kills as many males as females. The considerable differences in patterns of self-poisoning found in the various European countries are relevant to national efforts to improve diagnostics of suicide and appropriate specific prevention. The fact that vast majority of drug-overdose suicides came under the category X64 refers to the need of more detailed ICD coding system for overdose suicides is needed to permit better design of suicide-prevention strategies at national level.
+C1 [Vaernik, Airi; Sisask, Merike; Vaernik, Peeter; Wu, Jing; Kolves, Kairi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Vaernik, Airi; Wu, Jing] Tallinn Univ, Inst Social Work, EE-10120 Tallinn, Estonia.
+   [Vaernik, Peeter] Tallinn Univ, Estonian Inst Populat Studies, EE-10120 Tallinn, Estonia.
+   [Arensman, Ella; Coffey, Claire] Natl Suicide Res Fdn, Cork, Ireland.
+   [Maxwell, Margareth] Univ Stirling, Dept Nursing & Midwifery, Stirling FK9 4LA, Great Britain, Scotland.
+   [Reisch, Thomas] Univ Hosp Psychiat, Dept Psychiat, CH-3000 Bern 60, Switzerland.
+   [Gusmao, Ricardo] Univ Nova Lisboa, Fac Ciencias Med, Dept Saude Mental, P-1169056 Lisbon, Portugal.
+   [van Audenhove, Chantal; Scheerder, Gert] Katholieke Univ Leuven, LUCAS, B-3000 Louvain, Belgium.
+   [van der Feltz-Cornelis, Christina M.] Netherlands Inst Mental Hlth & Addict, Trimbos Inst, NL-3521 VS Utrecht, Netherlands.
+   [Kopp, Maria; Szekely, Andras] Semmelweis Univ, Inst Behav Sci, H-1089 Budapest, Hungary.
+   [Roskar, Saska] Inst Publ Hlth Republ Slovenia, Ljubljana 1000, Slovenia.
+   [Hegerl, Ulrich] Univ Leipzig, Dept Psychiat, D-04103 Leipzig, Germany.
+C3 Tallinn University; Tallinn University; University of Stirling;
+   University of Bern; University Hospital of Bern; Universidade Nova de
+   Lisboa; KU Leuven; Trimbos Institute; Semmelweis University; Leipzig
+   University
+RP Värnik, A (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM airiv@online.ee
+RI Scheerder, Gert/AAA-4889-2020; Gusmao, Ricardo/AAT-5016-2020; Van der
+   Feltz-Cornelis, Christina/JMP-7639-2023; Scheerder, Gert/IXX-0118-2023;
+   Kolves, Kairi/ABE-7564-2020
+OI Gusmao, Ricardo/0000-0002-6334-4607; Van der Feltz-Cornelis,
+   Christina/0000-0001-6925-8956; Scheerder, Gert/0009-0001-9977-318X;
+   Kolves, Kairi/0000-0002-1638-8981; Arensman, Ella/0000-0003-0376-1203;
+   Maxwell, Margaret/0000-0003-3318-9500; Van Audenhove,
+   Chantal/0000-0002-5504-5439; Sisask, Merike/0000-0001-6821-6367; Hegerl,
+   Ulrich/0000-0002-3039-7470
+FU European Community [223138]; Estonian Ministry of Social Affairs; Chief
+   Scientist Office [NMAHP1] Funding Source: researchfish
+FX The research received funding from the European Community's Seventh
+   Framework Programme (FP7/2007-2013) under grant agreement No. 223138,
+   and from the Estonian Ministry of Social Affairs.
+NR 40
+TC 21
+Z9 23
+U1 1
+U2 12
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JAN 29
+PY 2011
+VL 11
+AR 61
+DI 10.1186/1471-2458-11-61
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 720AD
+UT WOS:000287251700001
+PM 21276260
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Shariff, MJ
+AF Shariff, M. J.
+TI Assisted death and the slippery slope-finding clarity amid advocacy,
+   convergence, and complexity
+SO CURRENT ONCOLOGY
+LA English
+DT Article
+DE Slippery slope; euthanasia; PAS; assisted suicide; assisted death; right
+   to die; Netherlands; Belgium; Luxembourg; Canada
+ID EUTHANASIA LAW; BELGIUM
+AB This paper unpacks the slippery slope argument as it pertains to assisted death.
+   The assisted-death regimes of the Netherlands, Belgium, Luxembourg, Switzerland, and the states of Washington and Oregon are discussed and examined with respect to the slippery slope analytical rubric. In addition to providing a preliminary explanation of how the slippery slope argument has been academically defined and constructed, the paper examines assisted-death models from the perspective of considering what might exist at the top and at the bottom of the slippery slope. It also explores the nature and scope of safeguards implemented to avoid slippage, and shows that what lies at the top and bottom of the slippery slope may be different from jurisdiction to jurisdiction. After identifying some of the recent concerns that have arisen within each of the jurisdictions (concerns that might be viewed by some as evidence of slide), the paper concludes by making note of certain critical issues in the current assisted-death debate that merit deeper examination.
+C1 Univ Manitoba, Fac Law, Winnipeg, MB R3T 2N2, Canada.
+C3 University of Manitoba
+RP Shariff, MJ (corresponding author), Univ Manitoba, Fac Law, Robson Hall, Winnipeg, MB R3T 2N2, Canada.
+EM shariff@cc.umanitoba.ca
+NR 49
+TC 25
+Z9 25
+U1 0
+U2 24
+PU MULTIMED INC
+PI TORONTO
+PA 66 MARTIN ST, TORONTO, ON L9T 2R2, CANADA
+SN 1198-0052
+J9 CURR ONCOL
+JI Curr. Oncol.
+PD JUN
+PY 2012
+VL 19
+IS 3
+BP 143
+EP 154
+PG 12
+WC Oncology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology
+GA 963ZK
+UT WOS:000305663300026
+PM 22670093
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Scurria, S
+   Asmundo, A
+   Gualniera, P
+AF Scurria, Serena
+   Asmundo, Alessio
+   Gualniera, Patrizia
+TI Euthanasia and physician-assisted suicide: what about in Europe?
+SO GAZZETTA MEDICA ITALIANA ARCHIVIO PER LE SCIENZE MEDICHE
+LA English
+DT Review
+DE Euthanasia; Assisted suicide; Legal liability; Europe
+ID OF-LIFE PRACTICES; CHILDREN; TRENDS
+AB INTRODUCTION: End-of-life legislation, because of its bioethical, medico-legal, and judicial implications, is heatedly disputed in Europe and throughout the world, engendering a variety of legal end-of-life care options in different countries. We thought it could be interesting to compare the Italian law with current European legislation regulating end-of-life matters.
+   EVIDENCE ACQUISITION: A systematic search of the Medline, Cochrane Central, Scopus, Web of Science, and Science Direct databases was conducted using the search words: "euthanasia", "law", "Europe", and "assisted suicide". The search word "euthanasia" was entered singly or in combination with each of the other search terms.
+   EVIDENCE SYNTHESIS: To date, only three countries in Europe (Belgium, the Netherlands, and Luxembourg) have legalized euthanasia, and four countries (Switzerland, France, Austria, Germany) permit only assisted suicide. Acceptance by the general public of euthanasia and assisted suicide increased in 11 of 13 European countries between 1981 and 2008, in parallel with a decrease in religiosity (except for Italy and Holland) and an increase in secularization. There was also a trend toward a correlation between an increase of the value of self-determination in important life issues and an increase in acceptance of euthanasia.
+   CONCLUSIONS: This review shows that end-of-life decisions constitute a challenge for political governance and bioethical deliberation in modern liberal democracies. It appears that in certain situations, euthanasia is perceived more as a means to reduce health care costs rather than an ethical question regarding self-determination.
+C1 [Scurria, Serena; Asmundo, Alessio; Gualniera, Patrizia] Univ Messina, Dept Biomed & Dent Sci & Morphofunct Imaging, Sect Legal Med, Via Consolare Valeria 1, Messina, Italy.
+C3 University of Messina
+RP Gualniera, P (corresponding author), Univ Messina, Dept Biomed & Dent Sci & Morphofunct Imaging, Sect Legal Med, Via Consolare Valeria 1, Messina, Italy.
+EM patrizia.gualniera@unime.it
+NR 26
+TC 0
+Z9 0
+U1 3
+U2 14
+PU EDIZIONI MINERVA MEDICA
+PI TURIN
+PA CORSO BRAMANTE 83-85 INT JOURNALS DEPT., 10126 TURIN, ITALY
+SN 0393-3660
+EI 1827-1812
+J9 GAZZ MED ITAL ARCH S
+JI Gazz. Med. Ital. Arch. Sci. Med.
+PD NOV
+PY 2019
+VL 178
+IS 11
+BP 894
+EP 900
+DI 10.23736/S0393-3660.19.04076-2
+PG 7
+WC Medicine, General & Internal; Medicine, Research & Experimental; Surgery
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine; Research & Experimental Medicine; Surgery
+GA KM1SN
+UT WOS:000513901300005
+DA 2023-12-05
+ER
+
+PT J
+AU Emanuel, EJ
+   Onwuteaka-Philipsen, BD
+   Urwin, JW
+   Cohen, J
+AF Emanuel, Ezekiel J.
+   Onwuteaka-Philipsen, Bregje D.
+   Urwin, John W.
+   Cohen, Joachim
+TI Attitudes and Practices of Euthanasia and Physician-Assisted Suicide in
+   the United States, Canada, and Europe
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Article
+ID OF-LIFE DECISIONS; CARE PROFESSIONALS; MEDICAL DECISIONS; POSTMORTEM
+   SURVEY; CANCER-PATIENTS; OREGON DEATH; END; NETHERLANDS; EXPERIENCES;
+   BELGIUM
+AB IMPORTANCE The increasing legalization of euthanasia and physician-assisted suicide worldwide makes it important to understand related attitudes and practices.
+   OBJECTIVE To review the legal status of euthanasia and physician-assisted suicide and the available data on attitudes and practices.
+   EVIDENCE REVIEW Polling data and published surveys of the public and physicians, official state and country databases, interview studies with physicians, and death certificate studies (the Netherlands and Belgium) were reviewed for the period 1947 to 2016. FINDINGS Currently, euthanasia or physician-assisted suicide can be legally practiced in the Netherlands, Belgium, Luxembourg, Colombia, and Canada (Quebec since 2014, nationally as of June 2016). Physician-assisted suicide, excluding euthanasia, is legal in 5 US states (Oregon, Washington, Montana, Vermont, and California) and Switzerland. Public support for euthanasia and physician-assisted suicide in the United States has plateaued since the 1990s (range, 47%-69%). In Western Europe, an increasing and strong public support for euthanasia and physician-assisted suicide has been reported; in Central and Eastern Europe, support is decreasing. In the United States, less than 20% of physicians report having received requests for euthanasia or physician-assisted suicide, and 5% or less have complied. In Oregon and Washington state, less than 1% of licensed physicians write prescriptions for physician-assisted suicide per year. In the Netherlands and Belgium, about half or more of physicians reported ever having received a request; 60% of Dutch physicians have ever granted such requests. Between 0.3% to 4.6% of all deaths are reported as euthanasia or physician-assisted suicide in jurisdictions where they are legal. The frequency of these deaths increased after legalization. More than 70% of cases involved patients with cancer. Typical patients are older, white, and well-educated. Pain is mostly not reported as the primary motivation. A large portion of patients receiving physician-assisted suicide in Oregon and Washington reported being enrolled in hospice or palliative care, as did patients in Belgium. In no jurisdiction was there evidence that vulnerable patients have been receiving euthanasia or physician-assisted suicide at rates higher than those in the general population.
+   CONCLUSIONS AND RELEVANCE Euthanasia and physician-assisted suicide are increasingly being legalized, remain relatively rare, and primarily involve patients with cancer. Existing data do not indicate widespread abuse of these practices.
+C1 [Emanuel, Ezekiel J.; Urwin, John W.] Univ Penn, Perelman Sch Med, Dept Med Eth & Hlth Policy, 423 Guardian Dr,Blockley Hall,11th & 14th Floors, Philadelphia, PA 19104 USA.
+   [Onwuteaka-Philipsen, Bregje D.] Vrije Univ Amsterdam, Med Ctr, Dept Publ & Occupat Hlth, EMGO Inst Hlth & Care Res, Amsterdam, Netherlands.
+   [Onwuteaka-Philipsen, Bregje D.] Vrije Univ Amsterdam, Med Ctr, Canc Ctr Amsterdam, Amsterdam, Netherlands.
+   [Cohen, Joachim] VUB, End Life Care Res Grp, Brussels, Belgium.
+   [Cohen, Joachim] Univ Ghent, Brussels, Belgium.
+C3 University of Pennsylvania; Pennsylvania Medicine; Vrije Universiteit
+   Amsterdam; Vrije Universiteit Amsterdam; University of Amsterdam; Vrije
+   Universiteit Brussel; Ghent University
+RP Emanuel, EJ (corresponding author), Univ Penn, Perelman Sch Med, Dept Med Eth & Hlth Policy, 423 Guardian Dr,Blockley Hall,11th & 14th Floors, Philadelphia, PA 19104 USA.
+EM MEHPchair@upenn.edu
+RI Cohen, Joachim/B-6803-2008
+OI Cohen, Joachim/0000-0002-7224-9476; Onwuteaka-Philipsen,
+   Bregje/0000-0002-9440-1248
+NR 102
+TC 394
+Z9 424
+U1 27
+U2 411
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 0098-7484
+EI 1538-3598
+J9 JAMA-J AM MED ASSOC
+JI JAMA-J. Am. Med. Assoc.
+PD JUL 5
+PY 2016
+VL 316
+IS 1
+BP 79
+EP 90
+DI 10.1001/jama.2016.8499
+PG 12
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA DQ2MY
+UT WOS:000379037600021
+PM 27380345
+HC Y
+HP N
+DA 2023-12-05
+ER
+
+PT J
+AU Mishara, BL
+   Weisstub, DN
+AF Mishara, Brian L.
+   Weisstub, David N.
+TI Premises and evidence in the rhetoric of assisted suicide and euthanasia
+SO INTERNATIONAL JOURNAL OF LAW AND PSYCHIATRY
+LA English
+DT Article
+DE Euthanasia; Assisted suicide; Suicide; Rational suicide; Slippery slope
+ID CANCER-PATIENTS; TERMINALLY-ILL; LIFE; DIE; DESIRE; DEATH; RISK
+AB In debates about euthanasia and assisted suicide, it is rare to find an article that begins with an expression of neutral interest and then proceeds to examine the various arguments and data before drawing conclusions based upon the results of a scholarly investigation. Although authors frequently give the impression of being impartial in their introduction, they invariably reach their prior conclusions. Positions tend to be clearly dichotomized: either one believes that the practice of euthanasia or assisted suicide is totally acceptable or completely unacceptable in a just and moral society. Where there is some admission of a gray zone of incertitude, authors attempt to persuade us that their beliefs (preferences) are the only sensible way to resolve outstanding dilemmas. The practice of vehemently promoting a "pro" or "con" position may be useful when societies must decide to either legalize certain practices or not. Although only a handful of countries have thus far accepted the legal practice of euthanasia or assisted suicide (Belgium, Luxembourg, The Netherlands, the U.S. states of Montana, Oregon, Vermont and Washington, and Switzerland), scholarly articles in recent trends mainly promote legalization, to the point of recommending expansion of the current practices. Is this a case of the philosophers being ahead of their time in promoting and rationalizing the wave of the future? Alternatively, does the small number of countries that have legalized these practices indicate a substantial gap between the beliefs and desires of common citizens and the universe of the 'abstracted realm'? For the time being, what we do know is that more countries and states are debating legalization of euthanasia or assisted suicide, the nature of laws and legal practices vary greatly and both ethical and empirical assessments of current practices are the subject of much controversy. This article presents an examination of the premises and evidence in the rhetoric of assisted suicide and euthanasia. Inasmuch as any analysis cannot be totally impartial, we do not contend that our analysis is without influence from our experiences and philosophical affinities. Notwithstanding this caveat, we venture to propose that our scrutiny of the arguments and empirical data may offer some guidance to individuals who are attempting to reach practical conclusions based upon the available evidence, whether empirical or rationalized. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Mishara, Brian L.] Univ Quebec, Ctr Res & Intervent Suicide & Euthanasia, Montreal, PQ H3C 3P8, Canada.
+   [Weisstub, David N.] Univ Montreal, Montreal, PQ H3C 3J7, Canada.
+C3 University of Quebec; University of Quebec Montreal; Universite de
+   Montreal
+RP Mishara, BL (corresponding author), CRISE UQAM, CP 8888,Succursale Ctr Ville, Montreal, PQ H3C 3P8, Canada.
+EM mishara.brian@uqam.ca
+NR 43
+TC 16
+Z9 17
+U1 0
+U2 53
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0160-2527
+EI 1873-6386
+J9 INT J LAW PSYCHIAT
+JI Int. J. Law Psychiatr.
+PD SEP-DEC
+PY 2013
+VL 36
+IS 5-6
+SI SI
+BP 427
+EP 435
+DI 10.1016/j.ijlp.2013.09.003
+PG 9
+WC Law; Psychiatry
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Government & Law; Psychiatry
+GA 260DX
+UT WOS:000327576300012
+PM 24145063
+DA 2023-12-05
+ER
+
+PT J
+AU Chambaere, K
+   Bernheim, JL
+AF Chambaere, Kenneth
+   Bernheim, Jan L.
+TI Does legal physician-assisted dying impede development of palliative
+   care? The Belgian and Benelux experience
+SO JOURNAL OF MEDICAL ETHICS
+LA English
+DT Article
+ID MAPPING LEVELS; EUTHANASIA; END; NETHERLANDS; SUICIDE; UPDATE; VIEW
+AB Background In 2002, physician-assisted dying was legally regulated in the Netherlands and Belgium, followed in 2009 by Luxembourg. An internationally frequently expressed concern is that such legislation could stunt the development of palliative care (PC) and erode its culture. To study this, we describe changes in PC development 2005-2012 in the permissive Benelux countries and compare them with non-permissive countries.
+   Methods Focusing on the seven European countries with the highest development of PC, which include the three euthanasia-permissive and four non-permissive countries, we compared the structural service indicators for 2005 and 2012 from successive editions of the European Atlas of Palliative Care. As an indicator for output delivery of services to patients, we collected the amounts of governmental funding of PC 2002-2011 in Belgium, the only country where we could find these data.
+   Results The rate of increase in the number of structural PC provisions among the compared countries was the highest in the Netherlands and Luxembourg, while Belgium stayed on a par with the UK, the benchmark country. Belgian government expenditure for PC doubled between 2002 and 2011. Basic PC expanded much more than endowment-restricted specialised PC.
+   Conclusions The hypothesis that legal regulation of physician-assisted dying slows development of PC is not supported by the Benelux experience. On the contrary, regulation appears to have promoted the expansion of PC. Continued monitoring of both permissive and non-permissive countries, preferably also including indicators of quantity and quality of delivered care, is needed to evaluate longer-term effects.
+C1 [Chambaere, Kenneth] Vrije Univ Brussel, End Of Life Care Res Grp, B-1090 Brussels, Belgium.
+   [Chambaere, Kenneth] Univ Ghent, B-1090 Brussels, Belgium.
+C3 Vrije Universiteit Brussel; Ghent University
+RP Chambaere, K (corresponding author), Vrije Univ Brussel, End Of Life Care Res Grp, Laarbeeklaan 103, B-1090 Brussels, Belgium.
+EM kenneth.chambaere@vub.ac.be
+RI Chambaere, Kenneth/ACV-2311-2022
+OI Bernheim, Jan/0000-0003-1610-5790
+NR 27
+TC 26
+Z9 28
+U1 0
+U2 19
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0306-6800
+EI 1473-4257
+J9 J MED ETHICS
+JI J. Med. Ethics
+PD AUG
+PY 2015
+VL 41
+IS 8
+BP 657
+EP 660
+DI 10.1136/medethics-2014-102116
+PG 4
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA CN5AY
+UT WOS:000358443000024
+PM 25648645
+DA 2023-12-05
+ER
+
+PT J
+AU Cohen, J
+   Van Landeghem, P
+   Carpentier, N
+   Deliens, L
+AF Cohen, Joachim
+   Van Landeghem, Paul
+   Carpentier, Nico
+   Deliens, Luc
+TI Public acceptance of euthanasia in Europe: a survey study in 47
+   countries
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Euthanasia; Public opinion; Cross-national comparison; Survey; Eastern
+   Europe; Western Europe
+ID OF-LIFE DECISIONS; PHYSICIAN-ASSISTED SUICIDE; GENERAL-POPULATION;
+   EASTERN-EUROPE; HEALTH DIVIDE; ATTITUDES; END
+AB In recent years, the European euthanasia debate has become more intense, and the practice was legalized in the Netherlands, Belgium, and Luxembourg. We aimed to determine the current degree of public acceptance of euthanasia across Europe and investigate what factors explain differences.
+   Data were derived from the 2008 wave of the European Values Survey (EVS), conducted in 47 European countries (N = 67,786, response rate = 69 %). Acceptance of euthanasia was rated on a 1-10 scale.
+   Relatively high acceptance was found in a small cluster of Western European countries, including the three countries that have legalized euthanasia and Denmark, France, Sweden and Spain. In a large part of Europe public acceptance was relatively low to moderate. Comparison with the results of the previous EVS wave (1999) suggests a tendency towards a polarization in Europe, with most of Western Europe becoming more permissive and most of Eastern Europe becoming less permissive.
+   There is roughly a West-East division in euthanasia acceptance among the European public, making a pan-European policy approach to the issue difficult.
+C1 [Cohen, Joachim; Van Landeghem, Paul; Deliens, Luc] Vrije Univ Brussel, Univ Ghent, End Of Life Care Res Grp, B-1090 Brussels, Belgium.
+   [Cohen, Joachim; Van Landeghem, Paul] Vrije Univ Brussel, B-1090 Brussels, Belgium.
+   [Carpentier, Nico] Vrije Univ Brussel, SCOM, B-1040 Brussels, Belgium.
+   [Carpentier, Nico] Univ Loughborough, Dept Social Sci, Loughborough, Leics, England.
+   [Deliens, Luc] Vrije Univ Amsterdam, Med Ctr, EMGO Inst, Dept Publ & Occupat Hlth, Amsterdam, Netherlands.
+C3 Vrije Universiteit Brussel; Ghent University; Vrije Universiteit
+   Brussel; Vrije Universiteit Brussel; Loughborough University; Vrije
+   Universiteit Amsterdam
+RP Cohen, J (corresponding author), Vrije Univ Brussel, Univ Ghent, End Of Life Care Res Grp, Laarbeeklaan 103, B-1090 Brussels, Belgium.
+EM jcohen@vub.ac.be; paul.van.landeghem@vub.ac.be;
+   nico.carpentier@vub.ac.be; luc.deliens@vub.ac.be
+RI Cohen, Joachim/B-6803-2008; Carpentier, Nico/E-9721-2018; Carpentier,
+   Nico/AAC-2522-2020
+OI Cohen, Joachim/0000-0002-7224-9476; Carpentier,
+   Nico/0000-0002-8996-4636; Carpentier, Nico/0000-0002-8996-4636; Deliens,
+   Luc/0000-0002-8158-2422
+FU Research Council of the Vrije Universiteit Brussel [HOA27]
+FX Joachim Cohen is a postdoctoral Fellow of the Research Foundation -
+   Flanders (FWO). This study used data of the European Values Study 2008,
+   4th wave, Integrated Dataset. GESIS Data Archive, Cologne, Germany,
+   ZA4800 Dataset Version 2.0.0 (2010-11-30), doi:10.4232/1.10188. The
+   analyses and writing activities were funded by a grant from the Research
+   Council of the Vrije Universiteit Brussel (HOA27). We would like to
+   thank Jane Ruthven for proofreading and copy editing the manuscript.
+NR 34
+TC 69
+Z9 73
+U1 3
+U2 81
+PU SPRINGER BASEL AG
+PI BASEL
+PA PICASSOPLATZ 4, BASEL, 4052, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD FEB
+PY 2014
+VL 59
+IS 1
+BP 143
+EP 156
+DI 10.1007/s00038-013-0461-6
+PG 14
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AB7IL
+UT WOS:000331962900015
+PM 23558505
+DA 2023-12-05
+ER
+
+PT J
+AU Arora, VS
+   Karanikolos, M
+   Clair, A
+   Reeves, A
+   Stuckler, D
+   Mckee, M
+AF Arora, Vishal S.
+   Karanikolos, Marina
+   Clair, Amy
+   Reeves, Aaron
+   Stuckler, David
+   Mckee, Martin
+TI Data Resource Profile: The European Union Statistics on Income and
+   Living Conditions (EU-SILC)
+SO INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+ID SOCIAL INEQUALITIES; FINANCIAL CRISIS; GREAT RECESSION; WELFARE STATES;
+   HEALTH; AUSTERITY; PEOPLE; UNEMPLOYMENT; SICKNESS; SUICIDES
+AB Social and economic policies are inextricably linked with population health outcomes in Europe, yet few datasets are able to fully explore and compare this relationship across European countries. The European Union Statistics on Income and Living Conditions (EU-SILC) survey aims to address this gap using microdata on income, living conditions and health. EU-SILC contains both cross-sectional and longitudinal elements, with nationally representative samples of individuals 16 years and older in 28 European Union member states as well as Iceland, Norway and Switzerland. Data collection began in 2003 in Belgium, Denmark, Ireland, Greece, Luxembourg and Austria, with subsequent expansion across Europe. By 2011, all 28 EU member states, plus three others, were included in the dataset. Although EU-SILC is administered by Eurostat, the data are output-harmonized so that countries are required to collect specified data items but are free to determine sampling strategies for data collection purposes. EU-SILC covers approximately 500 000 European residents for its cross-sectional survey annually. Whereas aggregated data from EU-SILC are publicly available [http://ec.europa.eu/eurostat/web/income-and-living-conditions/data/main-tables], microdata are only available to research organizations subject to approval by Eurostat. Please refer to [http://epp.eurostat.ec.europa.eu/portal/page/portal/microdata/eu_silc] for further information regarding microdata access.
+C1 [Arora, Vishal S.; Karanikolos, Marina; Mckee, Martin] London Sch Hyg & Trop Med, ECOHOST, London WC1H 9SH, England.
+   [Arora, Vishal S.] US UK Fulbright Commiss, London, England.
+   [Arora, Vishal S.] Belgium Fulbright Commiss, Brussels, Belgium.
+   [Clair, Amy; Reeves, Aaron; Stuckler, David] Univ Oxford, Dept Sociol, Oxford OX1 2JD, England.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Oxford
+RP Arora, VS (corresponding author), London Sch Hyg & Trop Med, 15-17 Tavistock Pl,1st Floor, London WC1H 9SH, England.
+EM vishal.arora@lshtm.ac.uk
+RI McKee, Marc D/E-2187-2011; McKee, Martin/E-6673-2018; Stuckler,
+   David/H-2261-2012
+OI McKee, Marc D/0000-0001-8349-965X; McKee, Martin/0000-0002-0121-9683;
+   Clair, Amy/0000-0001-5739-183X; Stuckler, David/0000-0002-1288-8401;
+   Karanikolos, Marina/0000-0002-3824-8226; Reeves,
+   Aaron/0000-0001-9114-965X
+FU Wellcome Trust Investigator Award; ERC Research Grant [313590-HRES]
+FX D. S. is funded by a Wellcome Trust Investigator Award and ERC Research
+   Grant 313590-HRES.
+NR 34
+TC 51
+Z9 51
+U1 1
+U2 20
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0300-5771
+EI 1464-3685
+J9 INT J EPIDEMIOL
+JI Int. J. Epidemiol.
+PD APR
+PY 2015
+VL 44
+IS 2
+BP 451
+EP 461
+DI 10.1093/ije/dyv069
+PG 11
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CL6VO
+UT WOS:000357106100010
+PM 25948659
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU McCormack, R
+   Fléchais, R
+AF McCormack, Ruaidhri
+   Flechais, Remy
+TI The Role of Psychiatrists and Mental Disorder in Assisted Dying
+   Practices Around the World: A Review of the Legislation and Official
+   Reports
+SO PSYCHOSOMATICS
+LA English
+DT Review
+ID HASTENED DEATH; DEPRESSION; EUTHANASIA; SUICIDE; DESIRE; CANCER;
+   HOPELESSNESS; ATTITUDES; REQUESTS; PAIN
+AB Objective: To establish the role of psychiatrists and mental disorder in assisted dying practices in countries and states where such practices are legal. Methods: The authors reviewed the Assisted Dying Acts and official statistical reports from Belgium, The Netherlands, Luxembourg, and the states of Washington and Oregon in the USA. The data extracted related to the role of psychiatrists in assisted dying practices, and the relevance of capacity, 'suffering', and mental disorder. Results: A psychiatry referral is recommended or required by all countries and states in certain circumstances. These circumstances include mental disorder 'impairing judgement' in Oregon and Washington, and cases of exclusive mental disorder in European countries. 'Exclusive tnental disorder' refers to those with a mental disorder (e.g., major depression) who apply for assisted dying in the absence of any terminal physical illness. Capacity/competence and necessary suffering must be present. On average, 5.4% (range 4.2%-6.7%) of applicants see a psychiatrist. Patients with exclusive mental disorder can apply for assisted dying in European countries but not in Oregon and Washington; actual figures are low. Conclusions: No country has a blanket policy of mandatory psychiatric review but the specialty contributes in circumstances of exclusive mental disorder or when there is doubt regarding capacity and sound judgement. The absence of a mandatory role for psychiatrists means that reversible psychopathology may be missed. As a result, the patient's decision to end his/her life may be more informed by treatable mental disorder than by his/her lifelong preferences. (Psychosomatics 2012; 53:319-326)
+C1 [McCormack, Ruaidhri] Kings Coll London, NIHR Biomed Res Ctr Mental Hlth S London, London WC2R 2LS, England.
+   [McCormack, Ruaidhri] Kings Coll London, Maudsley NHS Fdn Trust, London WC2R 2LS, England.
+   [McCormack, Ruaidhri] Kings Coll London, Inst Psychiat, London WC2R 2LS, England.
+   [Flechais, Remy] S London & Maudsley NHS Fdn Trust, London, England.
+C3 University of London; King's College London; South London & Maudsley NHS
+   Trust; University of London; King's College London; University of
+   London; King's College London; South London & Maudsley NHS Trust
+RP McCormack, R (corresponding author), Maudsley Hosp & Inst Psychiat, Michael Rutter Ctr, Denmark Hill, London SE5 8AZ, England.
+EM r.mcconriack@kcl.ac.uk
+FU National Institute for Health Research (NIHR) Specialist Biomedical
+   Research Centre for Mental Health at the South London; Maudsley NHS
+   Foundation Trust; Institute of Psychiatry, King's College London, UK
+FX Dr. Ruaidhri McCormack is an academic clinical fellow; the research is
+   therefore partly funded by the National Institute for Health Research
+   (NIHR) Specialist Biomedical Research Centre for Mental Health at the
+   South London and Maudsley NHS Foundation Trust and Institute of
+   Psychiatry, King's College London, UK.
+NR 25
+TC 22
+Z9 22
+U1 0
+U2 25
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0033-3182
+J9 PSYCHOSOMATICS
+JI Psychosomatics
+PD JUL-AUG
+PY 2012
+VL 53
+IS 4
+BP 319
+EP 326
+DI 10.1016/j.psym.2012.03.005
+PG 8
+WC Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 970XD
+UT WOS:000306164700002
+PM 22748750
+DA 2023-12-05
+ER
+
+PT J
+AU Van Wesemael, Y
+   Cohen, J
+   Onwuteaka-Philipsen, BD
+   Bilsen, J
+   Deliens, L
+AF Van Wesemael, Yanna
+   Cohen, Joachim
+   Onwuteaka-Philipsen, Bregje D.
+   Bilsen, Johan
+   Deliens, Luc
+TI Establishing specialized health services for professional consultation
+   in euthanasia: experiences in the Netherlands and Belgium
+SO BMC HEALTH SERVICES RESEARCH
+LA English
+DT Article
+ID TERMINALLY-ILL; HOPELESSNESS; DEPRESSION; PHYSICIAN; OREGON; CANCER;
+   DEATH
+AB Background: The Netherlands, Belgium, and Luxembourg have adopted laws decriminalizing euthanasia under strict conditions of prudent practice. These laws stipulate, among other things, that the attending physician should consult an independent colleague to judge whether the substantive criteria of due care have been met. In this context initiatives were taken in the Netherlands and Belgium to establish specialized services providing such consultants: Support and Consultation for Euthanasia in the Netherlands (SCEN) and Life End Information Forum (LEIF) in Belgium. The aim of this study is to describe and compare these initiatives.
+   Methods: We studied and compared relevant documents concerning the Dutch and Belgian consultation service (e.g. articles of bye-laws, inventories of activities, training books, consultation protocols).
+   Results: In both countries, the consultation services are delivered by trained physicians who can be consulted in cases of a request for euthanasia and who offer support and information to attending physicians. The context in which the two organisations were founded, as well as the way they are organised and regulated, is different in each country. By providing information on all end-of-life care matters, the Belgian LEIF seems to have a broader consultation role than the Dutch SCEN. SCEN on the other hand has a longer history, is more regulated and organised on a larger scale and receives more government funding than LEIF. The number of training hours for physicians is equal. However, SCEN-training puts more emphasis on the consultation report, whereas LEIF-training primarily emphasizes the ethical framework of end-of-life decisions.
+   Conclusion: In case of a request for euthanasia, in the Netherlands as well as in Belgium similar consultation services by independent qualified physicians have been developed. In countries where legalising physician-assisted death is being contemplated, the development of such a consultation provision could also be considered in order to safeguard the practice of euthanasia (as it can provide safeguards to adequate performance of euthanasia and assisted suicide).
+C1 [Van Wesemael, Yanna; Cohen, Joachim; Bilsen, Johan; Deliens, Luc] Vrije Univ Brussel, End Of Life Care Res Grp, Brussels, Belgium.
+   [Onwuteaka-Philipsen, Bregje D.; Deliens, Luc] Vrije Univ Amsterdam Med Ctr, Dept Publ & Occupat Hlth, EMGO Inst Hlth & Care Res, Expertise Ctr Palliat Care, Amsterdam, Netherlands.
+C3 Vrije Universiteit Brussel; Vrije Universiteit Amsterdam; VU UNIVERSITY
+   MEDICAL CENTER
+RP Van Wesemael, Y (corresponding author), Vrije Univ Brussel, End Of Life Care Res Grp, Brussels, Belgium.
+EM yvwesema@vub.ac.be; jcohen@vub.ac.be; b.philipsen@vumc.nl;
+   johan.bilsen@vub.ac.be; Luc.Deliens@vub.ac.be
+RI Cohen, Joachim/B-6803-2008
+OI Cohen, Joachim/0000-0002-7224-9476; Deliens, Luc/0000-0002-8158-2422
+FU Institute for the Promotion of Innovation by Science and Technology in
+   Flanders (Instituut voor de aanmoediging van Innovatie door Wetenschap
+   en Technologie in Vlaanderen) [050158]
+FX This study is part of the 'Monitoring Quality of End-of-Life Care (MELC)
+   Study', a collaboration between the Vrije Universiteit Brussel, Ghent
+   University, Antwerp University, the Scientific Institute of Public
+   Health, Belgium, and VU University Medical Centre Amsterdam, the
+   Netherlands. This study is supported by a grant from the Institute for
+   the Promotion of Innovation by Science and Technology in Flanders
+   (Instituut voor de aanmoediging van Innovatie door Wetenschap en
+   Technologie in Vlaanderen) (SBO IWT nr. 050158).; We would like to thank
+   Kathleen Van Hulle for gathering the first data and conducting the
+   interview with the director and coordinator of the Life End Information
+   Forum. We also thank Prof Dr Wim Distelmans (director), Paul Destrooper
+   (coordinator) and Kris Van de Gaer (staff member secretariat) from LEIF
+   and Raymond Sanders (district coordinator) from SCEN for providing us
+   with the necessary information.
+NR 26
+TC 34
+Z9 35
+U1 0
+U2 10
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1472-6963
+J9 BMC HEALTH SERV RES
+JI BMC Health Serv. Res.
+PD DEC 4
+PY 2009
+VL 9
+AR 220
+DI 10.1186/1472-6963-9-220
+PG 7
+WC Health Care Sciences & Services
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services
+GA 535XC
+UT WOS:000273004300001
+PM 19961568
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+EF

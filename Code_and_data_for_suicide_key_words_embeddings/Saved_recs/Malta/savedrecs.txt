@@ -1,0 +1,197 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Salas, SP
+   Arriagada, A
+   Villarroel, LB
+   Besio, M
+   Micolich, C
+   Misseroni, A
+   Sotta, FN
+   Salinas, RA
+   Valenzuela, CY
+   Estefó, GB
+AF Salas, Sofia P.
+   Arriagada, Anamaria
+   Bernier Villarroel, Lioniel
+   Besio, Mauricio
+   Micolich, Constanza
+   Misseroni, Adelio
+   Novoa Sotta, Fernando
+   Salinas, Rodrigo A.
+   Valenzuela, Carlos Y.
+   Borquez Estefo, Gladys
+TI Ethical aspects of the doctors' behavior towards people on hunger
+   strike: position paper from the Ethics Department of the Chilean Medical
+   Association
+SO REVISTA MEDICA DE CHILE
+LA Spanish
+DT Article
+DE Ethics; Enteral Nutrition; Hunger; Strikes; Employee
+AB Every so often, in Chile there is a discussion about the role of physicians in the care of people on hunger strike (HS). In this document, we review the ethical aspects of health care for persons in HS, aiming to provide guidelines to medical doctors who are required to attend them. First, we make an important distinction between HS and suicide, since the former is used as a protest and denunciation tool, while suicide seeks deliberately to end a life. Then we describe the three roles that the health professional can fulfill: as a treating doctor, as an expert or as an official of a prison. The respect for the autonomy and dignity of the person in HS must prevail whatever the role of the physician. Therefore, we maintain that under no circumstances, people who have autonomously decided to be in HS should be fed by force. Due to the complexity of the issue, we make special considerations about the management of minors and the non-competent persons in HS. In conclusion, we adhere to the principles that inspire the Declaration of Malta, which indicate that it would be preferable to "allow a person on hunger strike to die in dignity, rather than subjecting them to repeated interventions against their will".
+C1 [Salas, Sofia P.; Arriagada, Anamaria; Bernier Villarroel, Lioniel; Besio, Mauricio; Micolich, Constanza; Misseroni, Adelio; Novoa Sotta, Fernando; Salinas, Rodrigo A.; Valenzuela, Carlos Y.; Borquez Estefo, Gladys] Colegio Med Chile AG, Dept Etica, Santiago, Chile.
+   [Salas, Sofia P.] Clin Alemana Univ Desarrollo, Ctr Bioet, Fac Med, Santiago, Chile.
+   [Arriagada, Anamaria] Univ Chile, Fac Med, Dept Med Oriente, Santiago, Chile.
+   [Bernier Villarroel, Lioniel] Univ Chile Santiago, Fac Med, Dept Bioet & Humanidades Med, Santiago, Chile.
+   [Besio, Mauricio] Pontificia Univ Catolica Chile, Fac Med, Escuela Med, Div Obstet & Ginecol, Santiago, Chile.
+   [Micolich, Constanza] Hosp San Juan Dios, Serv Med Interna, Santiago, Chile.
+   [Novoa Sotta, Fernando] Univ Valparaiso, Dept Neuropediat, Valparaiso, Chile.
+   [Salinas, Rodrigo A.] Univ Chile, Dept Ciencias Neurol, Santiago, Chile.
+   [Valenzuela, Carlos Y.] Univ Chile, ICBM, Fac Med, Programa Genet Humana, Santiago, Chile.
+   [Borquez Estefo, Gladys] Clin Hosp Prof, Santiago, Chile.
+C3 Universidad del Desarrollo; Universidad de Chile; Universidad de Chile;
+   Pontificia Universidad Catolica de Chile; Universidad de Chile;
+   Universidad de Valparaiso; Universidad de Chile; Universidad de Chile
+RP Salas, SP (corresponding author), CAS UDD, Fac Med, Ctr Bioet, Avda Las Condes 12-461,Torre 3,Of 202, Santiago, Chile.
+EM sofiasalas@udd.cl
+OI Salas, Sofia P/0000-0002-7865-291X
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SOC MEDICA SANTIAGO
+PI SANTIAGO 9
+PA BERNARDA MORIN 488 PROVIDENCIA, CASILLA 168 CORREO 55, SANTIAGO 9,
+   00000, CHILE
+SN 0034-9887
+EI 0717-6163
+J9 REV MED CHILE
+JI Rev. Medica Chile
+PD SEP
+PY 2018
+VL 146
+IS 9
+BP 1059
+EP 1063
+DI 10.4067/s0034-98872018000901059
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HB9WW
+UT WOS:000451446200014
+PM 30725028
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Sciberras, A
+   Pilkington, L
+AF Sciberras, Audrey
+   Pilkington, Lesley
+TI The Lived Experience of Psychologists Working in Mental Health Services:
+   An Exhausting and Exasperating Journey
+SO PROFESSIONAL PSYCHOLOGY-RESEARCH AND PRACTICE
+LA English
+DT Article
+DE psychologists; burnout; mental health services; coping strategies;
+   interpretative phenomenological analysis
+ID CAREER-SUSTAINING BEHAVIORS; SELF-CARE; BURNOUT; SUICIDE
+AB What are the implications for psychologists working in the public mental health services (MHS)? Does this environment bring along different challenges when compared to their colleagues working in other settings? How do they cope? Using interpretative phenomenological analysis (IPA), this study explored the meaning psychologists give to their work with their clients and also looked at how they experience working in their teams within the context of the MHS in Malta. Semistructured in-depth interviews were conducted with seven registered psychologists who had worked in the Maltese MHS for at least 2 years. Common themes across participants included: client work as a source of satisfaction and a source of stress, the psychologist in the context of the multidisciplinary team (MDT), and focus on the self. The quality of the participants' work experience was found to be shaped by the larger context of their work setting. Participants' negative emotions arising from the system were perceived to be more distressing than those arising from client work. Issues of powerlessness, lack of control and divergent values were identified as the main modulators of this experience and were seen to contribute to distress and reduced job engagement. Personal coping strategies were used as a means to survive in this demanding work place. Implications and recommendations in relation to working with this client group and also working within a medical model (MM) system are highlighted.
+C1 [Sciberras, Audrey] Mt Carmel Hosp, Attard, Malta.
+   [Pilkington, Lesley] Teesside Univ, Counselling Psychol Program, Middlesbrough, Cleveland, England.
+   [Pilkington, Lesley] Teesside Univ, Psychol Therapies Clin, Middlesbrough, Cleveland, England.
+C3 University of Teesside; University of Teesside
+RP Sciberras, A (corresponding author), Mt Carmel Hosp, Dept Psychol, Notabile Rd, Attard 9033, Atd, Malta.
+EM audreyscib@gmail.com
+NR 37
+TC 6
+Z9 13
+U1 0
+U2 15
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0735-7028
+EI 1939-1323
+J9 PROF PSYCHOL-RES PR
+JI Prof. Psychol.-Res. Pract.
+PD APR
+PY 2018
+VL 49
+IS 2
+BP 151
+EP 158
+DI 10.1037/pro0000184
+PG 8
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GC3KC
+UT WOS:000429681800006
+OA Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Cohen, J
+   Marcoux, I
+   Bilsen, J
+   Deboosere, P
+   van der Wal, G
+   Deliens, L
+AF Cohen, Joachim
+   Marcoux, Isabelle
+   Bilsen, Johan
+   Deboosere, Patrick
+   van der Wal, Gerrit
+   Deliens, Luc
+TI European public acceptance of euthanasia: Socio-demographic and cultural
+   factors associated with the acceptance of euthanasia in 33 European
+   countries
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Europe; euthanasia; attitudes of general public; empirical study;
+   European values; cross-national research
+ID PHYSICIAN-ASSISTED SUICIDE; ILL CANCER-PATIENTS; OF-LIFE DECISIONS;
+   ACTIVE EUTHANASIA; PALLIATIVE CARE; ATTITUDES; END; OPINION;
+   SWITZERLAND; NETHERLANDS
+AB In many European countries, the last decade has been marked by an increasing debate about the acceptability and regulation'of euthanasia and other end-of-life decisions in medical practice. Growing public sensibility to a 'right to die' for terminally ill patients has been one of the main constituents of these debates. Within this context. we sought to describe and compare acceptance of euthanasia among the general public in 33 European countries. We used the European Values Study data of 1999-2000 with a total of 41 125 respondents (63% response rate) in 33 European countries. The main outcome measure concerned the acceptance of euthanasia (defined as 'terminating the life of the incurably sick', rated on a scale from I to 10).
+   Results showed that the acceptance of euthanasia tended to be high in some Countries (e.g. the Netherlands, Denmark, France, Sweden), while a markedly low acceptance was found in others (e.g. Romania. Malta and Turkey). A multivariate ordinal regression showed that weaker religious belief was the most important factor associated with a higher acceptance: however, there were also socio-demographic differences: younger cohorts. people from non-manual social classes, and people with a higher educational level tended to have a higher acceptance of euthanasia. While religious belief. sociodemographic factors, and also moral values (i.e. the belief in the right to self-determination) could largely explain the differences between countries, our findings suggest that perceptions regarding euthanasia are probably also influenced by national traditions and history (e.g. Germany). Thus, we demonstrated clear cross-national differences with regard to the acceptance of euthanasia, which can serve as an important basis for further debate and research in the specific countries. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Vrije Univ Brussels, End Life Care Res Grp, B-1050 Brussels, Belgium.
+   Univ Quebec, Ctr Res & Intervent Suicide & Euthanasia, Montreal, PQ, Canada.
+   Vrije Univ Amsterdam, Med Ctr, Dept Publ & Occupat Hlth, EMGO Inst, Amsterdam, Netherlands.
+   Univ Ghent, Ctr Environm Philosophy & Bioeth, B-9000 Ghent, Belgium.
+   Vrije Univ Brussels, Fac Econ Social & Polit Sci, Dept Social Res, Brussels, Belgium.
+C3 Vrije Universiteit Brussel; University of Quebec; University of Quebec
+   Montreal; Vrije Universiteit Amsterdam; Ghent University; Vrije
+   Universiteit Brussel
+RP Cohen, J (corresponding author), Vrije Univ Brussels, End Life Care Res Grp, B-1050 Brussels, Belgium.
+EM jcohen@vub.ac.be; marcoux.isabelle@uqam.ca; johan.bilsen@vub.ac.be;
+   patrick.deboosere@vub.ac.be; g.vanderwal@vumc.nl; luc.deliens@vub.ac.be
+RI Cohen, Joachim/B-6803-2008; Deboosere, Patrick/C-1113-2014
+OI Cohen, Joachim/0000-0002-7224-9476; Marcoux,
+   Isabelle/0000-0003-1652-0150; Deliens, Luc/0000-0002-8158-2422;
+   Deboosere, Patrick/0000-0002-8148-3694
+NR 55
+TC 139
+Z9 151
+U1 2
+U2 65
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD AUG
+PY 2006
+VL 63
+IS 3
+BP 743
+EP 756
+DI 10.1016/j.socscimed.2006.01.026
+PG 14
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 064TP
+UT WOS:000239112300018
+PM 16537097
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,274 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lowe, ED
+AF Lowe, Edward D.
+TI Social Change and Micronesian Suicide Mortality: A Test of Competing
+   Hypotheses
+SO CROSS-CULTURAL RESEARCH
+LA English
+DT Article
+DE suicide; social change; Micronesia; youth
+ID EPIDEMIC SUICIDE; BLOOD-PRESSURE; LIFE-STYLE; CONTEXT; ADOLESCENTS;
+   PACIFIC; FIJI
+AB How do modernizing social changes affect suicide risks for youths in small economically developing societies? Since Durkheim, social researchers have hypothesized that processes of social disintegration and processes of normative cultural disequilibrium can increase suicide rates. A lifestyle incongruity hypothesis has also been proposed. This article tests these competing hypotheses for the epidemic of suicide that occurred on culturally diverse communities of the Pacific Islands of Micronesia. The sample includes 74 municipalities of the Federated States of Micronesia. Multiple regression analyses suggest that the best analytic model includes the degree of urbanization, the levels of social integration, and the incongruity between modern economic resources and achieved modern material lifestyle. These results suggest that researchers should attend more to the way communities aspire to and participate in global markets as opposed to shifting adult role structures and occupations as a site for understanding the relationship between rapid social change and suicide.
+C1 [Lowe, Edward D.] Soka Univ Amer, Anthropol, 1 Univ Dr, Aliso Viejo, CA 92656 USA.
+RP Lowe, ED (corresponding author), Soka Univ Amer, Anthropol, 1 Univ Dr, Aliso Viejo, CA 92656 USA.
+EM elowe@soka.edu
+FU Soka University of America; President's Research Assistant Program at
+   Soka University of America
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was funded by Soka University of America. Ms. Houghton's work
+   was supported by the President's Research Assistant Program at Soka
+   University of America.
+NR 48
+TC 2
+Z9 2
+U1 0
+U2 5
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1069-3971
+EI 1552-3578
+J9 CROSS-CULT RES
+JI Cross-Cult. Res.
+PD FEB
+PY 2019
+VL 53
+IS 1
+BP 3
+EP 32
+DI 10.1177/1069397118759004
+PG 30
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA HH0JM
+UT WOS:000455402300001
+DA 2023-12-07
+ER
+
+PT J
+AU Booth, H
+AF Booth, Heather
+TI The Evolution of Epidemic Suicide on Guam: Context and Contagion
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID YOUTH SUICIDE; ETHNOCULTURAL ASPECTS; SOCIAL-CHANGE; YOUNG-PEOPLE;
+   RISK-FACTORS; ADOLESCENTS; MEDIA
+AB Thirty years of suicide rates for Guam were analyzed by age, sex, period, and cohort. Youth suicide increased rapidly in the 1990s; certain cohorts have higher rates. Four explanatory factors are discussed, including ecological factors and migration from the Federated States of Micronesia. Direct and indirect suicide contagion followed the death by suicide of a respected politician, strongly influencing period and cohort patterns. Suicide pacts inflated suicide among young people. These factors acted in combination to produce epidemic levels of suicide in the 1990s.
+C1 Australian Natl Univ, ADSRI, Canberra, ACT 0200, Australia.
+C3 Australian National University
+RP Booth, H (corresponding author), Australian Natl Univ, ADSRI, Coombs Bldg 9, Canberra, ACT 0200, Australia.
+EM booth@anu.edu.au
+OI Booth, Heather/0000-0002-8356-0534
+NR 42
+TC 19
+Z9 20
+U1 0
+U2 3
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 72 SPRING STREET, NEW YORK, NY 10012 USA
+SN 0363-0234
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD FEB
+PY 2010
+VL 40
+IS 1
+BP 1
+EP 13
+DI 10.1521/suli.2010.40.1.1
+PG 13
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 557BA
+UT WOS:000274641300001
+PM 20170257
+DA 2023-12-07
+ER
+
+PT J
+AU Else, IRN
+   Andrade, NN
+   Nahulu, LB
+AF Else, 'Iwalani R. N.
+   Andrade, Naleen N.
+   Nahulu, Linda B.
+TI Suicide and suicidal-related behaviors among indigenous Pacific
+   Islanders in the United States
+SO DEATH STUDIES
+LA English
+DT Article
+ID ADOLESCENTS; PREDICTION
+AB The authors present a comprehensive review on U. S. Pacific Islander suicide and suicide-related behaviors to extend the knowledge and understanding of suicide and suicide-related behaviors among the indigenous peoples of the state of Hawai`i, the territories of American Samoa, Guam, Commonwealth of the Northern Mariana Islands, and the Pacific Island Nations of Micronesia ( Federated States of Micronesia, the Republic of Belau [ Palau], and the Republic of the Marshall Islands). Historical, geographic, epidemiological, social, and cultural information is presented on these Pacific Island populations. Suicide behavioral data are presented for Pacific Islanders living within the U. S. and affiliated Pacific territories and nations from the existing scientific literature along with archival data and 2 epidemiological studies that assess suicidal behaviors and related psychosocial factors and measures of psychopathology among large community samples of youth in Hawai`i. The authors describe common patterns and differences among these populations, along with social-cultural practices that may explain suicide phenomenology among these U. S. indigenous peoples who-while small in numbers when compared with the total U. S. population-possess striking health disparities when compared to other populations within the U. S. and in their island homelands.
+C1 Univ Hawaii Manoa, John A Burns Sch Med, Dept Psychiat, Natl Ctr Indigenous Hawaiian Behav Hlth, Honolulu, HI 96813 USA.
+C3 University of Hawaii System; University of Hawaii Manoa
+RP Else, IRN (corresponding author), Univ Hawaii Manoa, John A Burns Sch Med, Dept Psychiat, Natl Ctr Indigenous Hawaiian Behav Hlth, 1356 Lusitana St,4th Floor, Honolulu, HI 96813 USA.
+EM elsei@dop.hawaii.edu
+NR 35
+TC 55
+Z9 61
+U1 0
+U2 8
+PU BRUNNER/MAZEL INC
+PI BRISTOL
+PA 1900 FROST RD, STE 101, BRISTOL, PA 19007-1598 USA
+SN 0748-1187
+J9 DEATH STUD
+JI Death Stud.
+PY 2007
+VL 31
+IS 5
+BP 479
+EP 501
+DI 10.1080/07481180701244595
+PG 23
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 158HE
+UT WOS:000245781600006
+PM 17554840
+DA 2023-12-07
+ER
+
+PT J
+AU Lowe, ED
+AF Lowe, Edward D.
+TI Epidemic Suicide in the Context of Modernizing Social Change in Oceania:
+   A Critical Review and Assessment
+SO CONTEMPORARY PACIFIC
+LA English
+DT Review
+DE social change; youth; suicide; Federated States of Micronesia; Republic
+   of the Marshall Islands; Republic of Palau; Samoa
+AB This article examines the Western academic explanations for suicide epidemics among adolescents and young adults documented in many Pacific Island nations beginning in the early 1970s. These explanatory accounts draw heavily from Emile Durkheim's theory of social change and suicide, developed in the late nineteenth century. Durkheim argued that suicide epidemics are more likely in the context of modernizing social change either because of increased social disequilibrium (anomie) or social disintegration (egoism). These traditional Western explanations are rarely empirically assessed for their appropriateness in Pacific Island contexts. Therefore, this article uses selected empirical evidence to assess the major claims found in these explanations, focusing on Samoa and the Micronesian region as the best documented examples. Finding that the data do not support well the major Western-derived explanations for these suicide epidemics, alternative explanations are explored. These alternatives suggest that Pacific Island young people's vulnerability to suicide is partly a result of how globalizing commodity flows, development policies, and the selective appropriation of these by local actors inform local social relations and the tensions in them. This view supports well recent advocacy for a shift in perspectives toward those that draw on indigenous Oceanic understandings of the va or wa as relational spaces that are central for the quality of health and well-being in Pacific Island communities.
+C1 [Lowe, Edward D.] Soka Univ Amer, Aliso Viejo, CA 92656 USA.
+RP Lowe, ED (corresponding author), Soka Univ Amer, Aliso Viejo, CA 92656 USA.
+NR 28
+TC 2
+Z9 3
+U1 0
+U2 4
+PU UNIV HAWAII PRESS
+PI HONOLULU
+PA 2840 KOLOWALU ST, HONOLULU, HI 96822 USA
+SN 1043-898X
+EI 1527-9464
+J9 CONTEMP PACIFIC
+JI Contemp. Pacif.
+PY 2019
+VL 31
+IS 1
+BP 105
+EP 138
+DI 10.1353/cp.2019.0007
+PG 34
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA HN0GS
+UT WOS:000459865700005
+OA Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Lowe, ED
+AF Lowe, ED
+TI Identity, activity, and the well-being of adolescents and youths:
+   Lessons from young people in a Micronesian society
+SO CULTURE MEDICINE AND PSYCHIATRY
+LA English
+DT Article
+DE adolescence; emotion; Oceania; suicide
+ID BLOOD-PRESSURE; SOCIAL-CHANGE; LIFE-STYLE; SUICIDE; PACIFIC; CHILD; TRUK
+AB Comparative studies of the health, well-being, and social functioning of adolescents and youths have, in the past two decades, been focused on young people in developing countries where rapid social, cultural, and economic changes have been associated with dramatic increases in the rates of social problems indicative of poorer mental health. Young people in many Pacific Island societies suffer from some of the highest rates of social problems like suicide and substance abuse in the world. It is generally agreed that the increases in rates of social problems among youths in this region result from increases in psychosocial stress, anger, and frustration surrounding intergenerational conflict within the family. Much less is known about the aspects of everyday experiences of young people in the Pacific that can lead to psychosocial stress and the angry episodes of interpersonal conflict that often precede suicide attempts and binge drinking. This paper examines 40 cases of interpersonal conflict in young men's and women's experiences in the islands of Chuuk of the Federated States of Micronesia to better understand what can lead to elevated levels of psychosocial stress for youths in the Pacific. This study shows that the emotional crises of young people in Chuuk often emerge from the incongruence in their pursuit of valued personal and social identities within the family, the community, and the peer group. Thus youths who experience more incongruity in their engagements across the multiple activity settings of everyday life are at greater risk for stressful experiences.
+C1 Univ Calif Los Angeles, Ctr Culture & Hlth, Los Angeles, CA 90095 USA.
+C3 University of California System; University of California Los Angeles
+RP Lowe, ED (corresponding author), Univ Calif Los Angeles, Ctr Culture & Hlth, 760 Westwood Plaza C9-752 NPI, Los Angeles, CA 90095 USA.
+NR 71
+TC 27
+Z9 27
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0165-005X
+J9 CULT MED PSYCHIAT
+JI Cult. Med. Psychiatr.
+PD JUN
+PY 2003
+VL 27
+IS 2
+BP 187
+EP 219
+DI 10.1023/A:1024274024956
+PG 33
+WC Anthropology; Psychiatry; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry; Biomedical Social Sciences
+GA 690NG
+UT WOS:000183554800005
+PM 12899467
+DA 2023-12-07
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-07
+ER
+
+EF

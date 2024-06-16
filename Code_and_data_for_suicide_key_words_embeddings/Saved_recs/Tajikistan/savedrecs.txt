@@ -1,0 +1,89 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Haarr, RN
+AF Haarr, Robin N.
+TI Suicidality Among Battered Women in Tajikistan
+SO VIOLENCE AGAINST WOMEN
+LA English
+DT Article
+DE Central Asia; domestic violence; suicide
+ID DOMESTIC VIOLENCE; PESTICIDE; EMERGENCY; BEHAVIOR
+AB This study examines the relationship between suicidality and women's experiences with marital violence in Tajikistan, including the type of abuser and help-seeking behaviors of battered women. This is a descriptive study that also includes comparisons based on women's demographics. Four hundred women in three districts of Khatlon Oblast, Tajikistan participated in this general population survey. Overall, women who experienced physical and/or sexual violence in their marriage and who told someone about the abuse were more likely to have suicidal thoughts and attempt suicide. The study's implications for future research on issues of marital violence against women and female suicide are discussed.
+C1 Eastern Kentucky Univ, Richmond, KY 40475 USA.
+C3 Eastern Kentucky University
+RP Haarr, RN (corresponding author), Eastern Kentucky Univ, Stratton Bldg,521 Lancaster Ave, Richmond, KY 40475 USA.
+EM Robin.Haarr@eku.edu
+NR 42
+TC 24
+Z9 34
+U1 1
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1077-8012
+EI 1552-8448
+J9 VIOLENCE AGAINST WOM
+JI Violence Against Women
+PD JUL
+PY 2010
+VL 16
+IS 7
+BP 764
+EP 788
+DI 10.1177/1077801210374409
+PG 25
+WC Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Women's Studies
+GA 612DO
+UT WOS:000278877200004
+PM 20558769
+DA 2023-12-06
+ER
+
+PT J
+AU Schatz, E
+   Levine, R
+AF Schatz, Edward
+   Levine, Renan
+TI Framing, Public Diplomacy, and Anti-Americanism in Central Asia
+SO INTERNATIONAL STUDIES QUARTERLY
+LA English
+DT Article
+ID PHYSICIAN-ASSISTED SUICIDE; POLITICAL MESSAGES; OPINION; PERSUASION;
+   VALUES
+AB The US State Department increasingly relies on efforts of public diplomacy to improve America's image abroad. We test the theoretical efficacy of these efforts through an experiment. Participants were recruited in Kyrgyzstan and Tajikistan. All but those participants randomly assigned to a control group read a quote about religious tolerance and pluralism in the United States. We varied the attribution of this quote to President Bush, to an unnamed US Ambassador, to an ordinary American, or to no one. We then asked respondents a battery of questions about their opinions of the United States before and after a long discussion with other participants about the United States. We find that the identity of the messenger matters, as those who read the quote attributed to Bush tended to have lower opinions of the United States. After the discussion, these views partially dissipated. Post-discussion views were more heavily influenced by how other participants viewed the United States. After controlling for the source and location of the discussion, when the discussion took place among people with more positive initial views of the United States, views of the United States improved. However, when there was a large range of views in the discussion, post-discussion views of the United States were relatively worse. Based on this study, we suggest new directions for the conduct of public diplomacy.
+C1 [Schatz, Edward; Levine, Renan] Univ Toronto, Toronto, ON M5S 1A1, Canada.
+C3 University of Toronto
+RP Schatz, E (corresponding author), Univ Toronto, Toronto, ON M5S 1A1, Canada.
+NR 45
+TC 33
+Z9 33
+U1 0
+U2 21
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-8833
+J9 INT STUD QUART
+JI Int. Stud. Q.
+PD SEP
+PY 2010
+VL 54
+IS 3
+BP 855
+EP 869
+DI 10.1111/j.1468-2478.2010.00612.x
+PG 15
+WC International Relations; Political Science
+WE Social Science Citation Index (SSCI)
+SC International Relations; Government & Law
+GA 647YS
+UT WOS:000281657400012
+OA Bronze
+DA 2023-12-06
+ER
+
+EF

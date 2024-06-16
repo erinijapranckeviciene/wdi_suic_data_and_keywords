@@ -1,0 +1,358 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gordana, DJ
+   Milivoje, P
+AF Gordana, Dedic J.
+   Milivoje, Panic
+TI Suicide Prevention Program in the Army of Serbia and Montenegro
+SO MILITARY MEDICINE
+LA English
+DT Article
+ID MILITARY
+AB Suicide, as one of the greatest problems of maladjustment to the military environment, has been a subject of investigation in the Army of Serbia and Montenegro (former Yugoslav Army) for more than six decades. The Suicide Prevention Program was implemented in December 2003. The aim of the study was to follow-up the application of the Suicide Prevention Program in the Army of Serbia and Montenegro and its effect on the suicide rate and to compare its incidence in civilians. Results of the program application showed that the number of suicides in the Army of Serbia and Montenegro was constantly reducing over the period 2004 to 2005. For soldiers, it was even four times less than in the civilian male population, particularly in the period of adaptation to the military environment. Since the Suicide Prevention Program in the Army of Serbia and Montenegro proved to be successful in decreasing the suicide number, it should be further improved and routinely applied.
+C1 Mil Med Acad, Dept Mental Hlth, Belgrade 17, Serbia.
+RP Gordana, DJ (corresponding author), Mil Med Acad, Dept Mental Hlth, Crnotravska 17, Belgrade 17, Serbia.
+NR 16
+TC 20
+Z9 20
+U1 0
+U2 5
+PU ASSOC MILITARY SURG US
+PI BETHESDA
+PA 9320 OLD GEORGETOWN RD, BETHESDA, MD 20814 USA
+SN 0026-4075
+EI 1930-613X
+J9 MIL MED
+JI Milit. Med.
+PD MAY
+PY 2007
+VL 172
+IS 5
+BP 551
+EP 555
+DI 10.7205/MILMED.172.5.551
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 167XC
+UT WOS:000246484800024
+PM 17521110
+DA 2023-12-07
+ER
+
+PT J
+AU Stevovic, L
+   Raznatovic, A
+   Jovanovic, TP
+   Tadic, N
+   Vukovic, O
+AF Stevovic, L.
+   Raznatovic, A.
+   Jovanovic, T. Perunovic
+   Tadic, N.
+   Vukovic, O.
+TI RISK FACTORS FOR SUICIDES IN MONTENEGRO DURING 2005-2008 PERIOD
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+DE Suicide; social transition; risk factors
+C1 [Stevovic, L.] Univ Montenegro, Sch Med, Podgorica, Montenegro.
+   [Raznatovic, A.; Jovanovic, T. Perunovic] Clin Ctr Montenegro, Psychiat Clin, Podgorica, Montenegro.
+   [Tadic, N.] Minist Internal, Podgorica, Montenegro.
+   [Vukovic, O.] Clin Ctr Serbia, Inst Psychiat, Belgrado, Serbia.
+C3 University of Montenegro; Clinical Centre of Serbia
+RI Vukovic, Olivera/AAP-2960-2020
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2010
+VL 25
+SU 1
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA V21RX
+UT WOS:000208225801378
+DA 2023-12-07
+ER
+
+PT J
+AU Stevovic, LI
+   Jasovic-Gasic, M
+   Vukovic, O
+   Pekovic, M
+   Terzic, N
+AF Stevovic, Lidija Injac
+   Jasovic-Gasic, Miroslava
+   Vukovic, Olivera
+   Pekovic, Mirko
+   Terzic, Natasa
+TI GENDER DIFFERENCES IN RELATION TO SUICIDES COMMITTED IN THE CAPITAL OF
+   MONTENEGRO (PODGORICA) IN THE PERIOD 2000-2006
+SO PSYCHIATRIA DANUBINA
+LA English
+DT Article
+DE suicide; gender differences; epidemiology; Montenegro
+ID CHRONIC PAIN; MENTAL-DISORDER; RISK-FACTORS; MORTALITY; IDEATION;
+   DENMARK; TRENDS; WALES
+AB Background: The purpose of the study was to research gender differences in suicides committed in Podgorica between 2000 and 2006, including sociodemographic variables (e.g. age, marital status, education etc.), methods of and motives for committing suicide. Data were taken from the Police Directorate of Montenegro.
+   Subjects and methods: We used data on 220 males and 83 females who committed suicide. Statistical analysis was done by using the crude specific rate. Significance between two independent crude rates is constructed around their 95% confidence intervals and it utilizes the difference between the two rates (D) to determine significance.
+   Results: The incidence of suicide in males was found to be higher than in females (the male to female suicide ratio is 2.6 to 1). Females were older than males. Females had completed elementary education more frequently, and they were single or divorced or widows. Males had completed secondary education more frequently and they were married. The most frequent employment status of both gender groups implied pensioner and unemployment statuses. There was a significant difference in suicide rates between the genders during the reporting period. Suicide rates increase with age in both genders. Males chose firearms, hanging, strangulation and suffocation and jumping. Females chose hanging, strangulation and suffocation, jumping and drowning as the most frequent methods of suicide. The most frequent motive for suicide in both gender groups was physical illness. The second most frequent motive was mental illness. Emotional and financial difficulties were motives which were more common in males, whereas family problems appeared to be motives two times more frequent in females.
+   Conclusions: The complex multifactorial etiology of suicide suggests the need to consider gender differences when developing effective strategies fir the therapy and the prevention of suicide.
+C1 [Stevovic, Lidija Injac] Univ Montenegro, Sch Med, Med Ctr, Police Directorate Montenegro, Podgorica, Montenegro.
+   [Jasovic-Gasic, Miroslava; Vukovic, Olivera] Univ Belgrade, Sch Med, Belgrade 11001, Serbia.
+C3 University of Montenegro; University of Belgrade
+RP Stevovic, LI (corresponding author), Univ Montenegro, Sch Med, Med Ctr, Police Directorate Montenegro, Bulevar Svetog Petra Cetinjskog 6, Podgorica, Montenegro.
+EM injacl@t-com.me
+RI Vukovic, Olivera/AAP-2960-2020; Vukovic, Olivera/AAA-9980-2020
+OI Vukovic, Olivera/0000-0001-6898-0007
+NR 43
+TC 6
+Z9 9
+U1 0
+U2 4
+PU MEDICINSKA NAKLADA
+PI ZAGREB
+PA VLASKA 69, HR-10000 ZAGREB, CROATIA
+SN 0353-5053
+J9 PSYCHIAT DANUB
+JI Psychiatr. Danub.
+PD MAR
+PY 2011
+VL 23
+IS 1
+BP 45
+EP 52
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 752OT
+UT WOS:000289702700006
+PM 21448096
+DA 2023-12-07
+ER
+
+PT J
+AU Stevovic, LI
+   Vodopic, S
+AF Stevovic, Lidija Injac
+   Vodopic, Sanja
+TI Attempted suicide in Podgorica, Montenegro: higher rates in females and
+   unemployed males
+SO ANNALS OF GENERAL PSYCHIATRY
+LA English
+DT Article
+DE Attempted suicide; Montenegro; Rate; Risk factors; Unemployment
+ID PARASUICIDE; EUROPE
+AB Background: A change in suicide attempts is associated with comprehensive changes in mental and physical health and social environment. Attempted suicide and suicide are one of the biggest problems nowadays worldwide, not only in the field of mental health but also in the field of public health. The aim of the research was to determine the number of attempted suicides as well as the influence of clinical and demographic variables on the attempted suicide rate.
+   Methods: The data on the attempted suicide were analysed in the period 2012-2016 based on the data from the Emergency Ward of the Clinical Centre of Montenegro in Podgorica. The rate of attempted suicides as well as the unemployment rate was calculated. The statistical analysis included descriptive statistics of the raw data and relative numbers, Chi-squared test, Fisher's test and Spearman coefficient.
+   Results: The average age of males who attempted suicide was 38.35 +/- 14.11, min 15 and max 88 years of age, and the age of women was 38.97 +/- 16.81, min 16 and max 93 years of age. Women attempted suicide more frequently (p < 0.05). Female/male ratio during the investigation period slightly declined (1.93 in 2012 vs. 1.29 in 2016). The attempted suicide rates ranged from 103 per 100,000 residents in 2016 to 142 per 100,000 residents in 2015. Crude attempt rate was the highest in women in 2012 (102.42 per 100,000 residents) and for men in 2014 and 2015 (84.48 vs. 83.06 per 100,000 residents). Poisoning with psychotropic drugs was the dominant manner of attempt (93.2%), while the largest number of attempts was in the late spring and summer (May, June and July). Attempted suicide rate in man was associated with higher unemployment rate.
+   Conclusions: Although women make the majority of attempted suicide cases, there has been a decline in the value of the rate for women and a rise for men. The attempted suicide rates in Podgorica belong to lower rates compared to the WHO European multicentre study on parasuicide. Poisoning with psychotropic drugs was the predominant manner, while the highest number of attempted suicides was in the late spring and summer (May, June and July). Unemployment influences men to attempt suicide much more frequently.
+C1 [Stevovic, Lidija Injac] Clin Ctr Montenegro, Clin Dept Psychiat, Podgorica, Montenegro.
+   [Stevovic, Lidija Injac] Univ Montenegro, Sch Med, Dept Psychiat, Podgorica, Montenegro.
+   [Vodopic, Sanja] Clin Ctr Montenegro, Clin Dept Neurol, Podgorica, Montenegro.
+C3 University of Montenegro
+RP Stevovic, LI (corresponding author), Clin Ctr Montenegro, Clin Dept Psychiat, Podgorica, Montenegro.; Stevovic, LI (corresponding author), Univ Montenegro, Sch Med, Dept Psychiat, Podgorica, Montenegro.
+EM injacl19@gmail.com
+NR 14
+TC 5
+Z9 6
+U1 0
+U2 1
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1744-859X
+J9 ANN GEN PSYCHIATR
+JI Ann. Gen. Psychiatr.
+PD JUL 4
+PY 2017
+VL 16
+AR 27
+DI 10.1186/s12991-017-0151-5
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FA9BJ
+UT WOS:000405740600001
+PM 28680456
+OA gold, Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Brajovic, M
+   Bellis, M
+   Kukec, A
+   Terzic, N
+   Baban, A
+   Sethi, D
+   Zaletel-Kragelj, L
+AF Brajovic, Mina
+   Bellis, Mark
+   Kukec, Andreja
+   Terzic, Natasa
+   Baban, Adriana
+   Sethi, Dinesh
+   Zaletel-Kragelj, Lijana
+TI Identification of adverse childhood experiences strongly predicting
+   suicidal behaviour among emerging adults in Montenegro and Romania: a
+   new way to targeted cost-effective prevention
+SO ANNALI DELL ISTITUTO SUPERIORE DI SANITA
+LA English
+DT Article
+DE adverse childhood experiences; suicidal behaviour; South Eastern Europe;
+   prevention
+ID HOUSEHOLD DYSFUNCTION; PSYCHIATRIC-DISORDERS; ABUSE; ADOLESCENT; LIFE;
+   ASSOCIATIONS; MALTREATMENT; DEPRESSION; IDEATION; RISK
+AB Introduction. Aiming at generating evidence for cost-effective public health (PH) interventions for suicidal behaviour (SB) prevention in South Eastern Europe, the objective was to identify adverse childhood experiences (ACEs) most strongly predicting SB in emerging adults.
+   Methods. Survey data of 3283 students aged 18-29 from Montenegro and Romania were analysed by logistic regression. Based on estimation of risk-for-SB, the profiles with the highest values were identified.
+   Results. The SB odds were the highest in respondents, experienced a suicide attempt in the household (OR: 13.81; p < 0.001), and whose primary family was not complete, in particular in those with the foster family background (OR: 18.30; p = 0.001).
+   Conclusions. Magnitude of impact on emerging adults' mental health vulnerability tends to vary considerably with individual ACEs. This should be considered carefully when developing cost-effective response to SB burden through PH interventions in particular at the times of financial crises and in scarce resources settings.
+C1 [Brajovic, Mina; Kukec, Andreja; Zaletel-Kragelj, Lijana] Univ Ljubljana, Fac Med, Publ Hlth Ctr, Ljubljana, Slovenia.
+   [Bellis, Mark] Bangor Univ, Coll Hlth & Behav Sci, Bangor, Gwynedd, Wales.
+   [Terzic, Natasa] Inst Publ Hlth Montenegro, Podgorica, Montenegro.
+   [Baban, Adriana] Babes Bolyai Univ, Cluj Napoca, Romania.
+   [Sethi, Dinesh] WHO, Reg Off Europe, Copenhagen, Denmark.
+C3 University of Ljubljana; Bangor University; Babes Bolyai University from
+   Cluj; World Health Organization
+RP Brajovic, M (corresponding author), SJ Piletica 7-29, Podgorica 81000, Montenegro.
+EM brajovicm@who.int
+RI Bellis, Mark A./HGA-2019-2022
+OI Bellis, Mark/0000-0001-6980-1963
+FU WHO Regional Office for Europe
+FX WHO Regional Office for Europe funded basic ACE surveys Survey on ACEs
+   in Montenegro and Survey of ACEs among Romanian university students
+   which data were used in the present study. No additional funding was
+   received to conduct the present study.
+NR 33
+TC 2
+Z9 2
+U1 1
+U2 4
+PU EDITRICE KURTIS S R L
+PI MILAN
+PA VIA LUIGI ZOJA 30, 20153 MILAN, ITALY
+SN 0021-2571
+J9 ANN I SUPER SANITA
+JI Ann. Ist. Super. Sanita
+PY 2018
+VL 54
+IS 4
+BP 348
+EP 357
+DI 10.4415/ANN_18_04_12
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA HO0TE
+UT WOS:000460616500012
+PM 30575572
+DA 2023-12-07
+ER
+
+PT J
+AU Bellis, MA
+   Hughes, K
+   Leckenby, N
+   Jones, L
+   Baban, A
+   Kachaeva, M
+   Povilaitis, R
+   Pudule, I
+   Qirjako, G
+   Ulukol, B
+   Raleva, M
+   Terzic, N
+AF Bellis, Mark A.
+   Hughes, Karen
+   Leckenby, Nicola
+   Jones, Lisa
+   Baban, Adriana
+   Kachaeva, Margarita
+   Povilaitis, Robertas
+   Pudule, Iveta
+   Qirjako, Gentiana
+   Ulukol, Betul
+   Raleva, Marija
+   Terzic, Natasa
+TI Adverse childhood experiences and associations with health-harming
+   behaviours in young adults: surveys in eight eastern European countries
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID FOLLOW-UP; ABUSE; DISEASE; MALTREATMENT; METAANALYSIS; PREVALENCE;
+   NEGLECT; BURDEN
+AB Objective To evaluate the association between adverse childhood experiences e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration and the health of young adults in eight eastern European countries.
+   Methods Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey. There were 10 696 respondents 59.7% female - aged 18-25 years. Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+   Findings Over half of the respondents reported at least one adverse childhdod experience. Having one adverse childhood experience increased the probability of having other adverse childhood experiences. The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours. Compared with those Who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, Cl: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide. Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.
+   Conclusion Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods. Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.
+C1 [Bellis, Mark A.; Hughes, Karen; Leckenby, Nicola; Jones, Lisa] Liverpool John Moores Univ, Ctr Publ Hlth, Liverpool L3 2ET, Merseyside, England.
+   [Baban, Adriana] Univ Babes Bolyai, Dept Psychol, R-3400 Cluj Napoca, Romania.
+   [Kachaeva, Margarita] Serbsky Natl Res Ctr Social & Forens Psychiat, Moscow, Russia.
+   [Povilaitis, Robertas] Vilnius State Univ, Fac Philosophy, Dept Clin & Org Psychol, Vilnius, Lithuania.
+   [Pudule, Iveta] Ctr Dis Prevent & Control, Riga, Latvia.
+   [Qirjako, Gentiana] Univ Med, Fac Publ Hlth, Tirana, Albania.
+   [Ulukol, Betul] Ankara Univ Sch Med, Dept Social Paediat, Ankara, Turkey.
+   [Raleva, Marija] Univ St Cyril & Methudius, Univ Clin Psychiat, Skopje 91000, North Macedonia.
+   [Terzic, Natasa] Inst Publ Hlth, Podgorica, Montenegro.
+C3 Liverpool John Moores University; Babes Bolyai University from Cluj;
+   Vilnius University; Ankara University; Saints Cyril & Methodius
+   University of Skopje
+RP Bellis, MA (corresponding author), Liverpool John Moores Univ, Ctr Publ Hlth, 15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM m.a.bellis@ljmu.ac.uk
+RI Wilson, Gregory/AAA-9035-2021; Bellis, Mark A./HGA-2019-2022; Jones,
+   Lisa/C-2678-2013; Hughes, Karen/JOK-1499-2023
+OI Jones, Lisa/0000-0001-5136-5614; Ulukol, Betul/0000-0001-8058-0911;
+   Bellis, Mark/0000-0001-6980-1963; Hughes, Karen/0000-0001-8097-3395
+FU violence prevention research programme at Liverpool John Moores
+   University
+FX This analysis was funded as part of the violence prevention research
+   programme at Liverpool John Moores University.
+NR 37
+TC 177
+Z9 190
+U1 7
+U2 83
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD SEP
+PY 2014
+VL 92
+IS 9
+BP 641
+EP 655
+DI 10.2471/BLT.13.129247
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AQ3UM
+UT WOS:000342719000008
+PM 25378755
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2023-12-07
+ER
+
+EF

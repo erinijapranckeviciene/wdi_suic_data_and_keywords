@@ -1,0 +1,2011 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al-Jahdali, H
+   Al-Johani, A
+   Al-Hakawi, A
+   Arabi, Y
+   Ahmed, QA
+   Altowirky, J
+   Moamary, MAL
+   Binsalih, S
+AF Al-Jahdali, H
+   Al-Johani, A
+   Al-Hakawi, A
+   Arabi, Y
+   Ahmed, QA
+   Altowirky, J
+   Moamary, MAL
+   Binsalih, S
+TI Pattern and risk factors for intentional drug overdose in Saudi Arabia
+SO CANADIAN JOURNAL OF PSYCHIATRY-REVUE CANADIENNE DE PSYCHIATRIE
+LA English
+DT Article
+DE drug overdose; suicide; attempted suicide; Saudi Arabia
+ID INTENSIVE-CARE UNIT; SUICIDE; EXPERIENCE
+AB Background: Attempted suicide by intentional drug overdose is an understudied subject in Saudi Arabia. Saudi Arabia is an Islamic country where suicide or attempted suicide is strictly prohibited. Despite the strong religious and constitutional sanctions against suicide, cases of intentional drug overdose occasionally occur. Our study represents the first attempt to better understand and characterize this sensitive topic.
+   Methods: Using a retrospective chart review of patients aged 12 years and over with a diagnosis of intentional drug overdose between 1997 and 1999, we studied the demographic characteristics, the risk factors, the most commonly used drugs, and the resulting morbidities and mortalities of study subjects.
+   Results: Most of the patients were young (mean age 22 years, SD 4.6, range 15 to 40 years), and most were Saudi nationals (n = 76; 96%). Eighty percent of the patients were women. The occurrence of intentional drug overdose peaked during the month of September (that is, 20% of total cases). Previous suicide attempts, family conflicts, and psychiatric disorders represented significant risk factors. Single-agent overdose occurred in 30% of the patients, and most of the drugs used were prescribed medications (53%). Acetaminophen represented the most common drug (30%). While some patients required prolonged hospital stay or admission to the intensive care unit, no mortalities occurred.
+   Conclusions: Intentional drug overdose is a relatively uncommon reason for hospital admission in Saudi Arabia. This study identifies certain risk factors relevant to the Saudi community and raises awareness about intentional drug overdose.
+C1 King Fahad Natl Guard Hosp, Dept Med, Riyadh 11426, Saudi Arabia.
+   King Fahad Natl Guard Hosp, Dept Intens Care, Riyadh 11426, Saudi Arabia.
+C3 King Saud Bin Abdulaziz University for Health Sciences; King Abdulaziz
+   Medical City - Riyadh; King Saud Bin Abdulaziz University for Health
+   Sciences; King Abdulaziz Medical City - Riyadh
+RP Al-Jahdali, H (corresponding author), King Fahad Natl Guard Hosp, Dept Med, Mail Code 1445,POB 22490, Riyadh 11426, Saudi Arabia.
+EM jahdali@yahoo.com
+RI Arabi, Yaseen/ABF-3316-2020
+OI Arabi, Yaseen/0000-0001-5735-6241
+NR 19
+TC 27
+Z9 28
+U1 0
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0706-7437
+EI 1497-0015
+J9 CAN J PSYCHIAT
+JI Can. J. Psychiat.-Rev. Can. Psychiat.
+PD MAY
+PY 2004
+VL 49
+IS 5
+BP 331
+EP 334
+DI 10.1177/070674370404900509
+PG 4
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 003UN
+UT WOS:000234707200009
+PM 15198470
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Helaly, AMN
+   Ali, EF
+   Zidan, EM
+AF Helaly, Ahmed Mohamed Nabil
+   Ali, Emad Fekry
+   Zidan, Essam Mohamed
+TI The Pattern of Suicide in the Western Kingdom of Saudi Arabia <i>A
+   Retrospective Study From 2008 to 2012</i>
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE suicide; KSA; hanging; young age
+AB Suicide represents the dramatic end of human life mostly in young age. In a 5-year retrospective study in Jeddah in the western Kingdom of Saudi Arabia, 200 successful suicidal attempts demonstrated that hanging was the most common method of suicide with 72% of the cases, and males represented 77% of the total loses. Most fatalities were of the age range from 20s to 40s. Saudi cases constituted 18.5% of the death cases representing the second most common nationality of successful suicidal attempt in Jeddah after Indians who represented 23% of the entire study. Saudi fatalities were induced by hanging in 56% of the all Saudi deaths in contrast to about 83% in the Indian fatalities.
+C1 [Helaly, Ahmed Mohamed Nabil; Ali, Emad Fekry] Univ Mansoura, Dept Forens & Toxicol, Fac Med, Mansoura 35516, Dakahlia, Egypt.
+   [Zidan, Essam Mohamed] Univ Mansoura, Dept Mental Hlth, Fac Educ, Mansoura 35516, Dakahlia, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Mansoura University; Egyptian Knowledge
+   Bank (EKB); Mansoura University
+RP Helaly, AMN (corresponding author), Univ Mansoura, Dept Forens & Toxicol, Fac Med, Al Gomhorria St, Mansoura 35516, Dakahlia, Egypt.
+EM ahmedhelaly@mans.edu.eg
+RI Helaly, Ahmed/W-3865-2018
+OI Helaly, Ahmed/0000-0002-3590-6959
+NR 21
+TC 5
+Z9 5
+U1 0
+U2 9
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0195-7910
+EI 1533-404X
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD MAR
+PY 2015
+VL 36
+IS 1
+BP 27
+EP 30
+DI 10.1097/PAF.0000000000000132
+PG 4
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine; Pathology
+GA CB2TT
+UT WOS:000349481900008
+PM 25470409
+DA 2023-12-06
+ER
+
+PT J
+AU Al Suliman, HR
+   Al-Mowallad, SM
+   Jadou, NS
+   Al Somali, AS
+   Almokhlef, SA
+   Alghamdi, WA
+   Bin Magbel, NA
+   Alabdulwahab, MM
+AF Al Suliman, Hassan Ramzi
+   Al-Mowallad, Saad Mohammad
+   Jadou, Nehal Saad
+   Al Somali, Abdulrahman Saeed
+   Almokhlef, Salman Abdullah
+   Alghamdi, Wesam Abdullah
+   Bin Magbel, Norah Abdulrahman
+   Alabdulwahab, Munirah Mohammed
+TI ANALYSIS OF PARACETAMOL OVERDOSE SAMPLES IN SAUDI ARABIA
+SO INDO AMERICAN JOURNAL OF PHARMACEUTICAL SCIENCES
+LA English
+DT Article
+DE Overdose; paracetamol; toxicity
+ID ACUTE LIVER-FAILURE; ACETAMINOPHEN OVERDOSE; N-ACETYLCYSTEINE;
+   HEPATIC-FAILURE; HEPATOTOXICITY; MULTICENTER; ETHANOL; PATTERN
+AB Background: Paracetamol overdose is common and has such serious consequences as hepatic toxicity. The aim of this study was to characterize patients in a sample from the Kingdom of Saudi Arabia (KSA) with paracetamol overdose.
+   Materials and Methods: Retrospective chart review (January 2015 to December 2018) for all patients above the age of 18 years with the diagnosis of paracetamol overdose in Saudi Arabia hospitals.
+   Results: A total of 86 patients with paracetamol overdose were analyzed, about 70% of these patients were young females. 80% were attempts at suicide. 56% of the patients received N-acetylcysteine. Two patients developed hepatic toxicity. There were no mortalities and the average hospital stay was 4.8 +/- 4.9 days.
+   Conclusion: Paracetamol overdose is frequently seen in young females attempting suicide. In KSA, it tends to have a low rate of hepatic toxicity.
+C1 [Al Suliman, Hassan Ramzi] King Fahad Hosp, Al Hufuf, Saudi Arabia.
+   [Al-Mowallad, Saad Mohammad] Ibn Sina Natl Coll Med Studies, Jeddah, Saudi Arabia.
+   [Jadou, Nehal Saad; Al Somali, Abdulrahman Saeed; Alghamdi, Wesam Abdullah; Bin Magbel, Norah Abdulrahman; Alabdulwahab, Munirah Mohammed] Almaarefa Univ Sci & Technol, Riyadh, Saudi Arabia.
+   [Almokhlef, Salman Abdullah] Qassim Univ, Buraydah, Saudi Arabia.
+C3 Ibn Sina National College for Medical Studies; Almaarefa University;
+   Qassim University
+RP Al Suliman, HR (corresponding author), King Fahad Hosp, Al Hufuf, Saudi Arabia.
+EM dr.hassan.vegetax@hotmail.com
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 7
+PU SSJ COLL PHARMACY-SSJCP
+PI NAGPUR
+PA 125B-125 SANTRANJIPURA, TLIPHONE EXCHANGE RD, NAGPUR, 440001, INDIA
+SN 2349-7750
+J9 INDO AM J PHARM SCI
+JI Indo Am. J. Pharm. Sci.
+PD JAN
+PY 2019
+VL 6
+IS 1
+BP 2327
+EP 2331
+DI 10.5281/zenodo.2552533
+PG 5
+WC Chemistry, Medicinal
+WE Emerging Sources Citation Index (ESCI)
+SC Pharmacology & Pharmacy
+GA HJ9YE
+UT WOS:000457554400066
+DA 2023-12-06
+ER
+
+PT J
+AU Eskin, M
+   Sun, JM
+   Abuidhail, J
+   Yoshimasu, K
+   Kujan, O
+   Janghorbani, M
+   Flood, C
+   Carta, MG
+   Tran, US
+   Mechri, A
+   Hamdan, M
+   Poyrazli, S
+   Aidoudi, K
+   Bakhshi, S
+   Harlak, H
+   Moro, MF
+   Nawafleh, H
+   Phillips, L
+   Shaheen, A
+   Taifour, S
+   Tsuno, K
+   Voracek, M
+AF Eskin, Mehmet
+   Sun, Jian-Min
+   Abuidhail, Jamila
+   Yoshimasu, Kouichi
+   Kujan, Omar
+   Janghorbani, Mohsen
+   Flood, Chris
+   Carta, Mauro Giovanni
+   Tran, Ulrich S.
+   Mechri, Anwar
+   Hamdan, Motasem
+   Poyrazli, Senel
+   Aidoudi, Khouala
+   Bakhshi, Seifollah
+   Harlak, Hacer
+   Moro, Maria Francesca
+   Nawafleh, Hani
+   Phillips, Louise
+   Shaheen, Amira
+   Taifour, Shahama
+   Tsuno, Kanami
+   Voracek, Martin
+TI Suicidal Behavior and Psychological Distress in University Students: A
+   12-nation Study
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE cross-cultural comparisons; psychological distress; suicide attempt;
+   suicide ideation
+ID CHILDHOOD SEXUAL-ABUSE; HIGH-SCHOOL-STUDENTS; AGE-OF-ONSET;
+   MENTAL-HEALTH; RISK-FACTORS; COLLEGE-STUDENTS; PARENTAL DEATH; LIFE
+   EVENTS; IDEATION; DEPRESSION
+AB This study investigated the prevalence of suicidal behavior and psychological distress in university students across 12 nations. A total of 5,572 university students from 12 countries were surveyed about suicide ideation, suicide attempts, and psychological distress by means of a self-administered questionnaire. Almost 29% of the samples reported having contemplated suicide and 7% reported attempting suicide. Of the total sample, 51.1% scored above the General Health Questionnaire-123 cut-off points, 41.6% above the GHQ-124 cut-off points, and 33.8% scored above the GHQ-125 cut-off points. While odds of suicide ideation were elevated in Austria and the UK, reduced ORs were detected for China, Italy, Saudi Arabia, Tunisia, and Turkey. Similarly, while odds of suicide attempt were high in Jordan, Palestine, Saudi Arabia, and to some extent in Turkey, reduced ORs were observed for Austria, China, Italy, Japan and the United States. Elevated ORs for psychological distress were seen in Japan, Jordan, Palestine, Saudi Arabia, Tunisia, and Turkey but reduced ORs were noted in Austria, China, Iran, Italy, and the United States. Psychological distress was strongly associated with reports of suicide ideation and attempts. Suicide ideation, suicide attempt, and psychological distress are common in university students but their rates vary depending on the sociocultural context. Due attention should be devoted to the mental health needs of young adults enrolled in higher educational institutions and more cross-cultural research is warranted to better understand the etiology of the observed intersocietal variations in suicidal behavior and psychological distress.
+C1 [Eskin, Mehmet] Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+   [Sun, Jian-Min] Renmin Univ China, Dept Psychol, Beijing, Peoples R China.
+   [Sun, Jian-Min] Renmin Univ China, Sch Labor & Human Resources, Beijing, Peoples R China.
+   [Abuidhail, Jamila] Hashemite Univ, Fac Nursing, Zarqa, Jordan.
+   [Yoshimasu, Kouichi; Tsuno, Kanami] Wakayama Med Univ, Sch Med, Dept Hyg, Wakayama, Japan.
+   [Kujan, Omar; Taifour, Shahama] Al Farabi Coll Dent & Nursing, Dept Oral & Maxillofacial Sci, Riyadh, Saudi Arabia.
+   [Janghorbani, Mohsen; Bakhshi, Seifollah] Isfahan Univ Med Sci, Sch Publ Hlth, Esfahan, Iran.
+   [Flood, Chris; Phillips, Louise] City Univ London, Sch Hlth Sci, London, England.
+   [Carta, Mauro Giovanni; Moro, Maria Francesca] Univ Cagliari, Dept Publ Hlth Clin & Mol Med, Cagliari, Italy.
+   [Tran, Ulrich S.; Voracek, Martin] Univ Vienna, Sch Psychol, Dept Basic Psychol Res & Res Methods, Vienna, Austria.
+   [Mechri, Anwar; Aidoudi, Khouala] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Israel.
+   [Poyrazli, Senel] Penn State Univ Harrisburg, Sch Behav Sci & Educ, Middletown, PA USA.
+   [Harlak, Hacer] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [Nawafleh, Hani] Al Hussein Bin Talal Univ, Princess Aisha Fac Nursing & Hlth Sci, Maan, Jordan.
+   [Shaheen, Amira] An Najah Natl Univ, Fac Med & Hlth Sci, Nablus, West Bank, Palestine.
+C3 Adnan Menderes University; Renmin University of China; Renmin University
+   of China; Hashemite University; Wakayama Medical University; Al-Farabi
+   College for Nursing & Dentistry; Isfahan University Medical Science;
+   City University London; University of Cagliari; University of Vienna;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Adnan Menderes University; Al-Hussein Bin
+   Talal University; An Najah National University
+RP Eskin, M (corresponding author), Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+EM meskin48@gmail.com
+RI Eskin, Mehmet/AAG-9269-2020; Hamdan, Motasem/AAB-3940-2019; Janghorbani,
+   Mohsen/A-2330-2010; Voracek, Martin/S-5865-2016; Harlak,
+   Hacer/ABC-5916-2020; Mechri, Anwar/I-5696-2019; Kujan, Omar/J-5082-2014;
+   Tsuno, Kanami/D-4388-2013
+OI Voracek, Martin/0000-0001-6109-6155; Mechri, Anwar/0000-0002-6431-6907;
+   Kujan, Omar/0000-0002-5951-8280; Tsuno, Kanami/0000-0001-9399-6596; Sun,
+   Jian-min/0000-0001-7696-3231; Abuidhail, Jamila/0000-0003-3145-119X;
+   Tran, Ulrich/0000-0002-6589-3167; Eskin, Mehmet/0000-0001-9916-9268;
+   Flood, Chris/0000-0001-5170-7792; Poyrazli, Senel/0000-0003-3210-8991;
+   Nawafleh, Hani/0000-0003-3424-6677; Hamdan, Motasem/0000-0002-7633-2541;
+   Moro, Maria Francesca/0000-0003-4426-8044
+NR 62
+TC 132
+Z9 141
+U1 1
+U2 59
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PY 2016
+VL 20
+IS 3
+BP 369
+EP 388
+DI 10.1080/13811118.2015.1054055
+PG 20
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA DR2KY
+UT WOS:000379734600006
+PM 26954847
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Al Madni, OM
+   Kharoshah, MAA
+   Zaki, MK
+   Ghaleb, SS
+AF Al Madni, Osama Mohammed
+   Kharoshah, Magdy Abdel Azim
+   Zaki, Mamdouh Kamal
+   Ghaleb, Sherien Salah
+TI Hanging deaths in Dammam, Kingdom of Saudi Arabia
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Suicide by hanging; Retrospective; Dammam, Kingdom of Saudi Arabia
+ID SUICIDE; INDIA
+AB A retrospective study was carried out on 133 suicidal hanging cases autopsied at Forensic Medicine Center in Dammam, Kingdom of Saudi Arabia (from 2003 to 2007). Of these cases, 115 (86.46%) were males and 18 females (13.54%), with an average male:female ratio of 6.38. There was an increasing trend of hanging among ages between 21 and 50 years (88.7%), and the fourth decade had the highest number of victims (about 36%) between all age groups.
+   Local Saudi nationals comprised a small proportion of cases (21 persons, 15.8%), while the others were foreigners working in the Kingdom with an Indian precedence (63 persons, 47.4%), followed by other 11 different nationalities representing 36.8% of the cases. The peak of these suicidal acts was in June and the least was in February and December. Postmortem blood alcohol was found in 6.76% of cases, amphetamine in 3% (4 cases), and cannabinoids in 2.25% (3 cases). About 75% of the deceased persons were male laborers (100 cases), 11.27% were female housemaids (15 cases), and only 13 persons were unemployed (9.77%). Previous history of psychological illnesses was documented in 19 cases (14.28%) and stressful family problems in 6% of cases. There were previous suicidal attempts in only one case. Suicidal note was found in only seven cases.
+   In conclusion, there was a decreasing trend of suicide by hanging in Dammam from 39 cases in 2003 to 17 cases in 2007, with a rate of 0.85/100,000 population in the last year. This was inconsistent with the overall increase in suicide rate in Dammam when compared to the previous decade. (C) 2010 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Al Madni, Osama Mohammed; Kharoshah, Magdy Abdel Azim] Forens Med Ctr, Dammam 666831176, Eastern Prov, Saudi Arabia.
+   [Zaki, Mamdouh Kamal] Forens Med Ctr Jeddah, Jeddah, Western Prov, Saudi Arabia.
+   [Ghaleb, Sherien Salah] Beni Suef Univ, Fac Med, Forens Med & Clin Toxicol Dept, Bani Suwayf, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Beni Suef University
+RP Kharoshah, MAA (corresponding author), POB 9112, Dammam 31413, Eastern Prov, Saudi Arabia.
+EM drmkharoshah@hotmail.com
+RI Kharoshah, Magdy/ADR-5349-2022
+OI Zaki, Mamdouh/0000-0002-1396-4373
+NR 33
+TC 22
+Z9 22
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JUL
+PY 2010
+VL 17
+IS 5
+BP 265
+EP 268
+DI 10.1016/j.jflm.2010.04.003
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 731WK
+UT WOS:000288140500008
+PM 20569953
+DA 2023-12-06
+ER
+
+PT J
+AU Abou Abbas, O
+   AlBuhairan, F
+AF Abou Abbas, Oraynab
+   AlBuhairan, Fadia
+TI Predictors of adolescents' mental health problems in Saudi Arabia:
+   findings from the Jeeluna® national study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Adolescents; School; Mental health; Sadness; Hopelessness; Worrisome;
+   Saudi Arabia
+ID GENDER-DIFFERENCES; DEPRESSIVE SYMPTOMS; ANXIETY DISORDERS; SUICIDAL
+   BEHAVIORS; CIGARETTE-SMOKING; SCHOOL-STUDENTS; EARLY-ADULTHOOD;
+   YOUNG-PEOPLE; BODY-IMAGE; ILLNESS
+AB Background: Depression and anxiety among adolescents require further attention as they have profound harmful implications on several aspects of adolescents' wellbeing and can be associated with life threatening risk behaviors such as suicide.
+   Objective: To examine the underlying risk factors for feeling so sad or hopeless and for feeling worried among adolescents in Saudi Arabia.
+   Methods: Data from Jeeluna (R) national survey was used. A cross-sectional, multi-stage, stratified, cluster random sampling technique was applied among a sample of students aged 10-19 years attending intermediate and secondary schools in Saudi Arabia. A self-administered questionnaire assessing several domains, including feeling so sad or hopeless and worried, was used to collect data. Logistic regression models were fitted to determine the different factors associated with mental health.
+   Results: A sample of 12,121 students was included in this study. Feeling so sad or hopeless and feeling worried were significantly more prevalent among females and older adolescents (p < 0.0001). The results showed that poor relationship with parents, negative body image, and chronic illness to be significantly associated with feeling so sad or hopeless and worried.
+   Conclusions: Symptoms suggestive of mental health problems among adolescents in Saudi Arabia are prevalent and deserve special attention. Adopting effective strategies, including regular screening and intervention programs are highly needed to better address, detect, and control early signs of these problems.
+C1 [Abou Abbas, Oraynab; AlBuhairan, Fadia] King Abdullah Int Med Res Ctr, Riyadh, Saudi Arabia.
+   [Abou Abbas, Oraynab; AlBuhairan, Fadia] King Saud Bin Abdulaziz Univ Hlth Sci, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] King Abdullah Specialized Childrens Hosp, Dept Pediat, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Baltimore, MD 21218 USA.
+C3 King Saud Bin Abdulaziz University for Health Sciences; King Abdullah
+   International Medical Research Center (KAIMRC); King Saud Bin Abdulaziz
+   University for Health Sciences; King Saud Bin Abdulaziz University for
+   Health Sciences; King Abdullah Specialist Childrens Hospital (KASCH);
+   Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health
+RP AlBuhairan, F (corresponding author), King Abdullah Int Med Res Ctr, Riyadh, Saudi Arabia.; AlBuhairan, F (corresponding author), King Saud Bin Abdulaziz Univ Hlth Sci, Riyadh, Saudi Arabia.; AlBuhairan, F (corresponding author), King Abdullah Specialized Childrens Hosp, Dept Pediat, Riyadh, Saudi Arabia.; AlBuhairan, F (corresponding author), Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Baltimore, MD 21218 USA.
+EM buhairanfs@ngha.med.sa
+OI AlBuhairan, Fadia/0000-0002-7377-503X
+FU King Abdullah International Medical Research Center [RC08-092]
+FX This study was supported and funded by King Abdullah International
+   Medical Research Center (Protocol Number RC08-092).
+NR 47
+TC 15
+Z9 15
+U1 1
+U2 13
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD SEP 26
+PY 2017
+VL 11
+AR 52
+DI 10.1186/s13034-017-0188-x
+PG 7
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FI2HG
+UT WOS:000411759100001
+PM 28959356
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Eskin, M
+   AlBuhairan, F
+   Rezaeian, M
+   Abdel-Khalek, AM
+   Harlak, H
+   El-Nayal, M
+   Asad, N
+   Khan, A
+   Mechri, A
+   Noor, IM
+   Hamdan, M
+   Isayeva, U
+   Khader, Y
+   Al Sayyari, A
+   Khader, A
+   Behzadi, B
+   Ozturk, CS
+   Hendarmin, LA
+   Khan, MM
+   Khatib, S
+AF Eskin, Mehmet
+   AlBuhairan, Fadia
+   Rezaeian, Mohsen
+   Abdel-Khalek, Ahmed M.
+   Harlak, Hacer
+   El-Nayal, Mayssah
+   Asad, Nargis
+   Khan, Aqeel
+   Mechri, Anwar
+   Noor, Isa Multazam
+   Hamdan, Motasem
+   Isayeva, Ulker
+   Khader, Yousef
+   Al Sayyari, Alaa
+   Khader, Albaraa
+   Behzadi, Bahareh
+   Ozturk, Cennet Safak
+   Hendarmin, Laifa Annisa
+   Khan, Murad Moosa
+   Khatib, Salam
+TI Suicidal Thoughts, Attempts and Motives Among University Students in 12
+   Muslim-Majority Countries
+SO PSYCHIATRIC QUARTERLY
+LA English
+DT Article
+DE Suicide ideation; Suicide attempt; Suicidal motives; Young adults;
+   Muslim world
+ID CHILDHOOD HOUSEHOLD DYSFUNCTION; NONSUICIDAL SELF-INJURY;
+   COLLEGE-STUDENTS; SOCIAL SUPPORT; YOUNG-ADULTS; IDEATION; BEHAVIOR;
+   PREVALENCE; COHORT; INDIVIDUALS
+AB There is a scarcity of research on suicidal phenomena in the Muslim world. Therefore, this study aimed at investigating the self-reported prevalence of suicidal thoughts, attempts and motives in 12 Muslim countries. A total of 8417 (54.4% women) university students were surveyed by means of a self-report questionnaire. Overall, 22% of the participants reported suicidal ideation and 8.6% reported attempting suicide. The odds of suicidal thoughts were elevated in Azerbaijan, Indonesia and Saudi Arabia, while reduced ORs were recorded in Egypt, Jordan, Lebanon and Malaysia. While odds of suicide attempts were high in Azerbaijan, Palestine and Saudi Arabia reduced odds ratios (OR) were detected in Indonesia, Iran, Jordan, Lebanon, Malaysia and Tunisia. Taking drugs and using a sharp instrument were the two most frequently used methods to attempt suicide. Only 32.7% of attempts required medical attention. Escape motives were endorsed more than social motives by participants who attempted suicide. Suicidal behaviors were more frequent in women than in men. Compered to men, fewer attempts by women required medical attention. Moreover, our results show that making suicide illegal does not reduce the frequency of suicidal behavior. Results from this comparative study show that suicidal thoughts and attempts are frequent events in young adults in countries where religious scripture explicitly prohibit suicide and the frequencies of nonfatal suicidal behavior show large variation in nations adhering to the same religion.
+C1 [Eskin, Mehmet] Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+   [AlBuhairan, Fadia] Al Dara Hosp & Med Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia] Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Rezaeian, Mohsen; Behzadi, Bahareh] Rafsanjan Med Sch, Epidemiol & Biostat, Rafsanjan, Iran.
+   [Abdel-Khalek, Ahmed M.] Alexandria Univ, Fac Arts, Dept Psychol, Alexandria, Egypt.
+   [Harlak, Hacer; Ozturk, Cennet Safak] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [El-Nayal, Mayssah] Beirut Arab Univ, Fac Human Sci, Dept Psychol, Beirut, Lebanon.
+   [Asad, Nargis; Khan, Murad Moosa] Aga Khan Univ, Coll Med, Dept Psychiat, Karachi, Pakistan.
+   [Khan, Aqeel] Univ Teknol Malaysia, Fac Educ, Johor Baharu, Malaysia.
+   [Mechri, Anwar] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Noor, Isa Multazam] Dr Soeharto Heerdjan Mental Hosp, Jakarta, Indonesia.
+   [Hamdan, Motasem] Al Quds Univ, Sch Publ Hlth, Jerusalem, Palestine.
+   [Isayeva, Ulker] Khazar Univ, Dept Psychol, Baku, Azerbaijan.
+   [Khader, Yousef; Khader, Albaraa] Jordan Univ Sci & Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Al Sayyari, Alaa] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdullah Int Med Res Ctr, Populat Hlth Res Sect Hosp MNGHA, Riyadh, Saudi Arabia.
+   [Hendarmin, Laifa Annisa] Syarif Hidayatullah State Islamic Univ, Fac Med, Jakarta, Indonesia.
+   [Khatib, Salam] Al Quds Univ, Dept Nursing, Fac Hlth Profess, Jerusalem, Palestine.
+C3 Koc University; Johns Hopkins University; Johns Hopkins Bloomberg School
+   of Public Health; Egyptian Knowledge Bank (EKB); Alexandria University;
+   Adnan Menderes University; American University of Beirut; Beirut Arab
+   University; Aga Khan University; Universiti Teknologi Malaysia;
+   Universite de Monastir; Hopital Fattouma Bourguiba; Al-Quds University;
+   Ministry of Education of Azerbaijan Republic; Khazar University; Jordan
+   University of Science & Technology; King Saud Bin Abdulaziz University
+   for Health Sciences; King Abdullah International Medical Research Center
+   (KAIMRC); Ministry of National Guard - Health Affairs; Universitas Islam
+   Negeri Syarif Hidayatullah Jakarta; Al-Quds University
+RP Eskin, M (corresponding author), Koc Univ, Coll Social Sci & Humanities, Dept Psychol, TR-34450 Istanbul, Turkey.
+EM meskin@ku.edu.tr
+RI Khan, Aqeel/B-5208-2010; Eskin, Mehmet/AAG-9269-2020; Harlak,
+   Hacer/ABC-5916-2020; Khan, Murad/AAE-5134-2020; Noor, Isa
+   Multazam/AAQ-2726-2020; Rezaeian, Mohsen/C-6513-2008; Hamdan,
+   Motasem/AAB-3940-2019; Khader, Yousef Saleh/AAE-9620-2019
+OI Khan, Aqeel/0000-0001-9338-9323; Rezaeian, Mohsen/0000-0003-3070-0166;
+   Khader, Yousef Saleh/0000-0002-7830-6857; Eskin,
+   Mehmet/0000-0001-9916-9268; Isayeva, Ulker/0000-0003-3927-4810;
+   Hendarmin, Laifa A./0000-0001-5281-395X; Hamdan,
+   Motasem/0000-0002-7633-2541
+NR 47
+TC 37
+Z9 37
+U1 0
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0033-2720
+EI 1573-6709
+J9 PSYCHIAT QUART
+JI Psychiatr. Q.
+PD MAR
+PY 2019
+VL 90
+IS 1
+BP 229
+EP 248
+DI 10.1007/s11126-018-9613-4
+PG 20
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HQ2EM
+UT WOS:000462212900020
+PM 30498939
+DA 2023-12-06
+ER
+
+PT J
+AU Al-Atawneh, M
+AF Al-Atawneh, Muhammad
+TI Wahhabi Self-Examination Post-9/11: Rethinking the 'Other', 'Otherness'
+   and Tolerance
+SO MIDDLE EASTERN STUDIES
+LA English
+DT Article
+ID SAUDI-ARABIA
+AB Saudi Arabia found itself under an unflattering spotlight in the wake of the events of 9/11, perhaps more than any other country in the Middle East. The fact that 15 of the 19 suicide skyjackers were Saudi citizens provoked an avalanche of criticism in the West as well as in some parts of the Islamic and Arab world against Saudi religious beliefs, rulers, social customs, and school curricula. This article traces the Wahhabi Post-9/11 ideological oself-examinationo of relationships with non-Wahhabis. Emphasis will be placed on the current Wahhabi perceptions of the fundamental terms of oothero and oothernesso that are most likely to affect relationships between the Wahhabis and other cultures and religious groups. I argue that post-9/11 Wahhabi Islam acknowledges the problematic nature of its traditional perception of the 'other' and, therefore, is making significant and unprecedented efforts to reformulate and redefine religious doctrines, such as jihad, tolerance, interfaith dialogue and so forth.
+RI AL-ATAWNEH, MUHAMMAD/AAJ-4077-2020
+NR 63
+TC 8
+Z9 8
+U1 0
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0026-3206
+J9 MIDDLE EASTERN STUD
+JI Middle East. Stud.
+PY 2011
+VL 47
+IS 2
+BP 255
+EP 271
+AR PII 934320037
+DI 10.1080/00263206.2011.544098
+PG 17
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA 733MB
+UT WOS:000288265700003
+DA 2023-12-06
+ER
+
+PT J
+AU Eskin, M
+   Kujan, O
+   Voracek, M
+   Shaheen, A
+   Carta, MG
+   Sun, JM
+   Flood, C
+   Poyrazli, S
+   Janghorbani, M
+   Yoshimasu, K
+   Mechri, A
+   Khader, Y
+   Aidoudi, K
+   Bakhshi, S
+   Harlak, H
+   Ahmead, M
+   Moro, MF
+   Nawafleh, H
+   Phillips, L
+   Abuderman, A
+   Tran, US
+   Tsuno, K
+AF Eskin, Mehmet
+   Kujan, Omar
+   Voracek, Martin
+   Shaheen, Amira
+   Carta, Mauro Giovanni
+   Sun, Jian-Min
+   Flood, Chris
+   Poyrazli, Senel
+   Janghorbani, Mohsen
+   Yoshimasu, Kouichi
+   Mechri, Anwar
+   Khader, Yousef
+   Aidoudi, Khouala
+   Bakhshi, Seifollah
+   Harlak, Hacer
+   Ahmead, Muna
+   Moro, Maria Francesca
+   Nawafleh, Hani
+   Phillips, Louise
+   Abuderman, Abdulwahab
+   Tran, Ulrich S.
+   Tsuno, Kanami
+TI Cross-national comparisons of attitudes towards suicide and suicidal
+   persons in university students from 12 countries
+SO SCANDINAVIAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE Suicidal attitudes; suicide ideation; suicide attempt; cross-national
+ID HIGH-SCHOOL-STUDENTS; HELP-SEEKING; SOCIAL SUPPORT; TURKISH ADOLESCENTS;
+   BEHAVIOR; IDEATION; SWEDISH; STIGMA; PEOPLE; RISK
+AB This paper reports the results of a comparative investigation of attitudes to suicide and suicidal persons in 5,572 university students from 12 countries. Participants filled out two scales measuring attitudes towards suicide and suicidal persons, a measure of psychological distress together with the questions about suicidal behavior. Results showed that the highest suicide acceptance scores were observed in Austrian, UK, Japanese and Saudi Arabian samples and the lowest scores were noted in Tunisian, Turkish, Iranian and Palestinian samples. While the highest social acceptance scores for a suicidal friend were noted in Turkish, US, Italian and Tunisian samples, the lowest scores were seen in Japanese, Saudi Arabian, Palestinian and Jordanian samples. Compared to participants with a suicidal past, those who were never suicidal displayed more internal barriers against suicidal behavior. Men were more accepting of suicide than women but women were more willing to help an imagined suicidal peer. Participants with accepting attitudes towards suicide but rejecting attitudes towards suicidal persons reported more suicidal behavior and psychological distress, and were more often from high suicide rate countries and samples than their counterparts. They are considered to be caught in a fatal trap in which most predominant feelings of suicidality such as hopelessness or helplessness are likely to occur. We conclude that in some societies such as Japan and Saudi Arabia it might be difficult for suicidal individuals to activate and make use of social support systems.
+C1 [Eskin, Mehmet] Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+   [Kujan, Omar] Dept Oral & Maxillofacial Sci, Farabi Coll Dent & Nursing, Riyadh, Saudi Arabia.
+   [Voracek, Martin; Tran, Ulrich S.] Univ Vienna, Sch Psychol, Dept Basic Psychol Res & Res Methods, Vienna, Austria.
+   [Shaheen, Amira] An Najah Natl Univ, Fac Med & Hlth Sci, Nablus, West Bank, Palestine.
+   [Carta, Mauro Giovanni; Moro, Maria Francesca] Univ Cagliari, Clin & Mol Med, Dept Publ Hlth, Cagliari, Italy.
+   [Sun, Jian-Min] Renmin Univ China, Dept Psychol & Sch Labor & Human Resources, Beijing, Peoples R China.
+   [Flood, Chris; Phillips, Louise] City Univ London, Sch Hlth Sci, London EC1V 0HB, England.
+   [Poyrazli, Senel] Penn State Univ, Sch Behav Sci & Educ, Middletown, NY USA.
+   [Janghorbani, Mohsen; Bakhshi, Seifollah] Isfahan Univ Med Sci, Sch Publ Hlth, Esfahan, Iran.
+   [Yoshimasu, Kouichi; Tsuno, Kanami] Wakayama Med Univ, Sch Med, Dept Hyg, Wakayama, Japan.
+   [Mechri, Anwar; Aidoudi, Khouala] Univ Hosp Monastir, Dept Psychiat, Monastir, Tunisia.
+   [Khader, Yousef] Jordan Univ Sci Technol, Fac Med, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Harlak, Hacer] Adnan Menderes Univ, Fac Arts & Sci, Dept Psychol, Aydin, Turkey.
+   [Ahmead, Muna] Quds Univ, Sch Publ Hlth, Jerusalem, Israel.
+   [Nawafleh, Hani] Al Hussein Bin Talal Univ, Princess Aisha Fac Nursing & Hlth Sci, Maan, Jordan.
+   [Abuderman, Abdulwahab] Prince Sattam Bin Abdulaziz Univ, Coll Med, Al Kharj, Saudi Arabia.
+C3 Adnan Menderes University; University of Vienna; An Najah National
+   University; University of Cagliari; Renmin University of China; City
+   University London; Isfahan University Medical Science; Wakayama Medical
+   University; Universite de Monastir; Hopital Fattouma Bourguiba; Jordan
+   University of Science & Technology; Adnan Menderes University;
+   Al-Hussein Bin Talal University; Prince Sattam Bin Abdulaziz University
+RP Eskin, M (corresponding author), Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+EM meskin48@gmail.com
+RI Voracek, Martin/S-5865-2016; Kujan, Omar/J-5082-2014; Khader, Yousef
+   Saleh/AAE-9620-2019; Janghorbani, Mohsen/A-2330-2010; Eskin,
+   Mehmet/AAG-9269-2020; Abuderman, Abdulwahab/GWN-2543-2022; Mechri,
+   Anwar/I-5696-2019; Harlak, Hacer/ABC-5916-2020; Tsuno,
+   Kanami/D-4388-2013
+OI Voracek, Martin/0000-0001-6109-6155; Kujan, Omar/0000-0002-5951-8280;
+   Khader, Yousef Saleh/0000-0002-7830-6857; Mechri,
+   Anwar/0000-0002-6431-6907; Tsuno, Kanami/0000-0001-9399-6596; Nawafleh,
+   Hani/0000-0003-3424-6677; Eskin, Mehmet/0000-0001-9916-9268; Tran,
+   Ulrich/0000-0002-6589-3167; Poyrazli, Senel/0000-0003-3210-8991; Sun,
+   Jian-min/0000-0001-7696-3231; Moro, Maria Francesca/0000-0003-4426-8044;
+   Flood, Chris/0000-0001-5170-7792
+NR 44
+TC 37
+Z9 43
+U1 0
+U2 21
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0036-5564
+EI 1467-9450
+J9 SCAND J PSYCHOL
+JI Scand. J. Psychol.
+PD DEC
+PY 2016
+VL 57
+IS 6
+BP 554
+EP 563
+DI 10.1111/sjop.12318
+PG 10
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA EB2HQ
+UT WOS:000387178900010
+PM 27538761
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Azmak, AD
+AF Azmak, AD
+TI Suicides in Trakya Region, Turkey, from 1984 to 2004
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+ID FIREARM FATALITIES; GUNSHOT WOUNDS; SAUDI-ARABIA; WEST-INDIES; DEATHS;
+   AUTOPSY; ADOLESCENTS; AUSTRALIA; CHILDREN; FEATURES
+AB The aim of this study is to investigate some features of suicide cases in Trakya region, Turkey. During the 21-year period from January 1984 to September 2004, there were 137 suicide cases autopsied by the Department of Forensic Medicine, Trakya University. Suicides comprised 16.1% of all forensic autopsies. Twenty-seven per cent of the cases were aged between 21 and 30 years and the mean age was 39.7 years. Males constituted 78.1% of the cases. The most frequent method of suicide was hanging (40.1%), followed by firearms, and poisoning. Overall, suicide rates in males showed an increase in the last five years. Most of the suicides occurred in the winter months.
+   In conclusion, since suicides present a major public health problem, detection and prevention methods must be developed for high-risk groups.
+C1 Trakya Univ, Fac Med, Dept Forens Med, TR-22030 Edirne, Turkey.
+C3 Trakya University
+RP Azmak, AD (corresponding author), Trakya Univ, Fac Med, Dept Forens Med, TR-22030 Edirne, Turkey.
+EM aderya@mail.trakya.edu.tr
+OI Azmak, Ali Derya/0000-0002-8510-5148
+NR 79
+TC 13
+Z9 14
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD JAN
+PY 2006
+VL 46
+IS 1
+BP 19
+EP 30
+DI 10.1258/rsmmsl.46.1.19
+PG 12
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 012RF
+UT WOS:000235356100005
+PM 16454460
+DA 2023-12-06
+ER
+
+PT J
+AU Al Madni, O
+   Kharosha, MAA
+   Shotar, AM
+AF Al Madni, Osama
+   Kharosha, Magdy Abdel Azim
+   Shotar, Ali M.
+TI Firearm fatalities in Dammam, Saudi Arabia
+SO MEDICINE SCIENCE AND THE LAW
+LA English
+DT Article
+ID GUNSHOT FATALITIES; TRANSKEI REGION; DEATHS; SUICIDE; TURKEY
+AB This paper provides a database representing injury mortality in Dammam, Saudi Arabia, with the aim of establishing a system which will record information about the incidence of such deaths, identify new trends and give priority to violence prevention. The retrospective study was carried out on 64 fatalities from gunfire injuries at the Forensic Medicine Centre in Dammam, Saudi Arabia during the period from January 2002 - December 2006. The deaths included 55 cases of homicide, seven cases of suicide and two accidental shootings. Twenty-six victims were aged between 16-30 years and 24 victims were between 31-45 years. Fifty-nine of the cases were male.
+   A handgun was the weapon used in 49 cases. The most common sites for the firearm entrance wounds were the head (45 cases) and the chest (35 cases). In the majority of cases (56.3%) a single shot was fired while in 15.6% of cases there were two shots. In 51.5% of cases no bullet was recovered from the body while a single bullet was recovered in 31.5% and two bullets in 6.2% of the cases.
+   Distant range fire was observed in 65.6% of cases. Exit wounds were found on the head in 36.7% and on the chest in 28.7% of cases.
+   The majority of victims were young males living in urban areas. This result should help in forming a strategy to improve the livelihoods of this group. The low incidence of alcohol abuse (one case, 1.56%) and only three cases (4.68%) of amphetamine abuse is significant.
+C1 [Al Madni, Osama; Kharosha, Magdy Abdel Azim] Dept Forens Med, Alkhoba 31952, Eastern Prov, Saudi Arabia.
+   [Shotar, Ali M.] Jordan Univ Sci & Technol, Sch Med, Dept Legal Med Toxicol & Forens Sci, Ar Ramtha, Jordan.
+C3 Jordan University of Science & Technology
+RP Al Madni, O (corresponding author), Dept Forens Med, POB 40102, Alkhoba 31952, Eastern Prov, Saudi Arabia.
+EM alishoter@yahoo.com
+RI Kharoshah, Magdy/ADR-5349-2022
+NR 20
+TC 14
+Z9 14
+U1 0
+U2 1
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0025-8024
+EI 2042-1818
+J9 MED SCI LAW
+JI Med. Sci. Law
+PD JUL
+PY 2008
+VL 48
+IS 3
+BP 237
+EP 240
+DI 10.1258/rsmmsl.48.3.237
+PG 4
+WC Law; Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Government & Law; Legal Medicine; Pathology
+GA 339CX
+UT WOS:000258556800011
+PM 18754211
+DA 2023-12-06
+ER
+
+PT J
+AU Abumadini, MS
+AF Abumadini, Mandi Saeed
+TI Sociodemographic Characteristics of Adult Saudi Patients with Mood
+   Disorder Subtypes
+SO SAUDI JOURNAL OF MEDICINE & MEDICAL SCIENCES
+LA English
+DT Article
+DE Adjustment disorder; bipolar disorder; depression; dysthymia; mood
+   disorder; Saudi Arabia
+ID BIPOLAR DISORDER; DEPRESSION; PREVALENCE; FEATURES; SUICIDE; ILLNESS;
+   GENDER; ONSET; RISK; AGE
+AB Background: The demographic profile and clinical manifestations of mood disorder subtypes can differ across regions; however, there is a lack of studies from Saudi Arabia on the sociodemographic characteristics of adult Saudi patients with mood disorder subtypes.
+   Objective: The study aims to explore the sociodemographic profile of adult Saudi patients with different types of mood disorders.
+   Methods: This retrospective study analyzed the data of all adult Saudi patients (aged >= 18 years) who were diagnosed with a mood disorder and attended the psychiatric outpatient clinic at King Fand Hospital of the University (KFHU), Al Khobar, Saudi Arabia, between 1982 and 2011. Patients with psychiatric comorbidity were not included in the analyses. Major depressive disorder (depression), bipolar disorder, adjustment disorder and dysthymia were the four subtypes of mood disorder identified in the sample, and all eligible patients were categorized accordingly.
+   Results: A total of 340 patients were included in this study. Slightly less than half (42.4%) the study population were aged 18-30 years. Further, 58 degrees 6 of the patients were females, 67.6% were married and 58.8% were unemployed. Depression was the most common mood disorder (similar to 73%). Of the patients with bipolar disorder (n = 38), more than half were male and aged 18-30 years (similar to 58% each); these percentages were higher than that observed in other subtypes.
+   Conclusion: This study found that among patients at KFHU, depression is the most common mood disorder and that most patients are females. In contrast, bipolar disorder is more common among males. Further in-depth studies in a larger sample size may provide better patient profiling, which can be used for developing effective screening programs.
+C1 [Abumadini, Mandi Saeed] Imam Abdul Rahman Bin Faisal Univ, Coll Med, Dept Psychiat, Dammam, Saudi Arabia.
+   [Abumadini, Mandi Saeed] King Fahd Hosp Univ, Dept Psychiat, Al Khobar, Saudi Arabia.
+C3 Imam Abdulrahman Bin Faisal University; Imam Abdulrahman Bin Faisal
+   University
+RP Abumadini, MS (corresponding author), King Fahd Hosp Univ, Dept Psychiat, Al Khobar, Saudi Arabia.
+EM mmadini@iau.edu.sa
+RI Abumadini, Mahdi Saeed M./AAN-6618-2021; Abumadini, Mahdi Saeed
+   M/D-4312-2015
+OI Abumadini, Mahdi Saeed M/0000-0002-4925-0532
+NR 33
+TC 2
+Z9 2
+U1 0
+U2 0
+PU WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI MUMBAI
+PA WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2
+   VILLAGE MAROL, ANDHERI EAST, MUMBAI, 400059, INDIA
+SN 2321-4856
+J9 SAUDI J MED MED SCI
+JI Saudi J. Med. Med. Sci.
+PD SEP-DEC
+PY 2019
+VL 7
+IS 3
+BP 169
+EP 174
+AR PMID 31543738
+DI 10.4103/sjmms.sjmms_60_18
+PG 6
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA JA7MK
+UT WOS:000488028100007
+PM 31543738
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Al-Tannir, MA
+   Kobrosly, SY
+   Al-Badr, AH
+   Salloum, NA
+   Altannir, YM
+   Sakkijha, HM
+AF Al-Tannir, Mohamad A.
+   Kobrosly, Samer Y.
+   Al-Badr, Ahmad H.
+   Salloum, Nourhan A.
+   Altannir, Youssef M.
+   Sakkijha, Husam M.
+TI Characterizing sleeping habits and disturbances among Saudi adults
+SO SAUDI MEDICAL JOURNAL
+LA English
+DT Article
+ID DISEASE RISK; DURATION; QUALITY; ADOLESCENTS; SUICIDE; ARABIA
+AB Objectives: To characterize sleeping habits, assess sleep disturbance prevalence, and identify associated factors among Saudi adults.
+   Methods: A total of 1720 adults were approached for this observational cross-sectional study between October 2014 and March 2015. The study took place in Riyadh, the capital of Saudi Arabia. We used a questionnaire to describe sleeping characteristics in relation to existing chronic diseases, smoking status, obesity, daily performance and sociodemographic variables.
+   Results: The response rate was 79.6% (1369 participants), 61.6% have or may have sleeping disturbances of which 18.6% claimed either slowed or stopped breathing during sleep. Women reported a higher prevalence of sleep disturbances (65.2%). Feeling tired was significantly associated with sleep disturbance (49% versus 19.7%) (p<0.001). Approximately 78.4% of those with sleep disturbance significantly believed that their ability to perform daily tasks is affected (p=0.005). Moreover, smoking and obesity were significantly associated with sleep disturbances (p<0.01). Participants with asthma, hypertension, chronic heart disease, and diabetes mellitus reported significantly more sleeping disturbance (p=0.016 to p=0.001).
+   Conclusions: Sleep disturbances are associated with obesity, smoking, chronic health conditions, and lower performance among Saudi adults.
+C1 [Al-Tannir, Mohamad A.; Al-Badr, Ahmad H.; Salloum, Nourhan A.] King Fahad Med City, Res Ctr, Riyadh, Saudi Arabia.
+   [Altannir, Youssef M.] Al Faisal Univ, Riyadh, Saudi Arabia.
+   [Sakkijha, Husam M.] King Fahad Med City, Pulm & Crit Care Dept, Riyadh, Saudi Arabia.
+   [Kobrosly, Samer Y.] Walden Univ, Minneapolis, MN USA.
+C3 King Fahad Medical City; Alfaisal University; King Fahad Medical City;
+   Walden University
+RP Al-Tannir, MA (corresponding author), King Fahad Med City, Clin & Translat Res Dept, Riyadh, Saudi Arabia.
+EM maltannir@kfmc.med.sa
+RI Al-Badr, Ahmed/P-8040-2016
+OI Al-Badr, Ahmed/0000-0002-9088-6014; Al-Tannir,
+   Mohamad/0000-0002-7739-8446
+NR 28
+TC 14
+Z9 14
+U1 0
+U2 4
+PU SAUDI MED J
+PI RIYADH
+PA ARMED FORCES HOSPITAL, PO BOX 7897,, RIYADH 11159, SAUDI ARABIA
+SN 0379-5284
+J9 SAUDI MED J
+JI Saudi Med. J.
+PD DEC
+PY 2016
+VL 37
+IS 12
+BP 1372
+EP 1380
+DI 10.15537/smj.2016.12.17373
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA EF3MH
+UT WOS:000390228000011
+PM 27874154
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Al-Habeeb, AA
+   Sherra, KS
+   Al-Sharqi, AM
+   Qureshi, NA
+AF Al-Habeeb, A. A.
+   Sherra, K. S.
+   Al-Sharqi, A. M.
+   Qureshi, N. A.
+TI Assessment of suicidal and self-injurious behaviours among patients with
+   depression
+SO EASTERN MEDITERRANEAN HEALTH JOURNAL
+LA English
+DT Article
+ID PROTECTIVE FACTORS; RISK-FACTORS; MENTAL-DISORDERS; IDEATION;
+   ADOLESCENTS; EMERGENCY; ADULTS; HARM; CARE
+AB The aim of this cross-sectional 1-year study was to estimate the prevalence and to identify the risk factors for suicidal and self-injurious behaviours among patients with depression. A convenience sample of 557 out- and inpatients diagnosed with mood disorders was selected from 3 treatment settings in Riyadh, Saudi Arabia. Eligible patients completed data on sociodemographic variables and the Columbia suicide severity rating scale risk assessment version. The reported prevalence of attempted suicide in the previous week was 36.6%, interrupted suicide attempt 29.8%, aborted suicide attempt 34.6% and self-injurious behaviour without suicide intent 7.7%. Concerning suicide ideation, 47.2% reported suicidal thoughts, 36.6% suicidal thoughts with methods but without a specific plan and 35.4% suicidal intent without a specific plan. Male sex, joint family type, literate education, being in employment, smoking and physical co-morbidities were significantly associated with all types of suicide behaviour.
+C1 [Al-Habeeb, A. A.; Qureshi, N. A.] Minist Hlth, Gen Adm Mental Hlth & Social Serv, Riyadh, Saudi Arabia.
+   [Sherra, K. S.] Univ Mansoura, Dept Psychiat, Fac Med, Mansoura, Egypt.
+   [Al-Sharqi, A. M.] Specialized Psychiat Clin, Riyadh, Saudi Arabia.
+C3 Ministry of Health - Saudi Arabia; Egyptian Knowledge Bank (EKB);
+   Mansoura University
+RP Qureshi, NA (corresponding author), Minist Hlth, Gen Adm Mental Hlth & Social Serv, Riyadh, Saudi Arabia.
+EM qureshinaseem@live.com
+FU King Abdulaziz City for Science and Technology [MS 12-17]
+FX The authors express thanks to King Abdulaziz City for Science and
+   Technology for financial support for this small grant research no. MS
+   12-17 and also to all the research participants and assistant
+   researchers for their cooperation in completing this research.
+NR 31
+TC 12
+Z9 12
+U1 0
+U2 10
+PU WHO EASTERN MEDITERRANEAN REGIONAL OFFICE
+PI NASR CITY, CAIRO
+PA P. O. BOX 7608, NASR CITY, CAIRO, EGYPT
+SN 1020-3397
+J9 E MEDITERR HEALTH J
+JI East Mediterr. Health J.
+PD MAR
+PY 2013
+VL 19
+IS 3
+BP 248
+EP 254
+DI 10.26719/2013.19.3.248
+PG 7
+WC Health Care Sciences & Services; Health Policy & Services; Public,
+   Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA 163QX
+UT WOS:000320353100007
+PM 23879076
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Al Ahwal, MS
+   Al Zaben, F
+   Sehlo, MG
+   Khalifa, DA
+   Koenig, HG
+AF Al Ahwal, Mahmoud Shaheen
+   Al Zaben, Faten
+   Sehlo, Mohammad Gamal
+   Khalifa, Doaa Ahmed
+   Koenig, Harold G.
+TI Religious beliefs, practices, and health in colorectal cancer patients
+   in Saudi Arabia
+SO PSYCHO-ONCOLOGY
+LA English
+DT Article
+DE religion; religiosity; colorectal cancer; Saudi Arabia; depression;
+   suicide; qualitative research
+ID BREAST-CANCER; SPIRITUALITY; DEPRESSION; WOMEN; COMPLEMENTARY
+AB ObjectiveColorectal cancer (CRC) patients experience considerable psychological stress because of changes brought on by their illness. Religion may be a resource for such patients. We examined the prevalence of religious beliefs and practices in CRC patients and correlation with demographic, social, psychological, and physical health characteristics.
+   MethodsSeventy CRC patients (all Muslim) in Jeddah, Saudi Arabia, were surveyed using a 13-item Muslim religiosity scale. Standard measures were used to assess depressive symptoms, depressive disorder, and social support; demographic and social factors, psychiatric history, and disease factors were also measured.
+   ResultsAll 70 participants (100%) engaged in group worship and prayer (Fard) five times/day, and 75.7% never skipped or combined two or more obligatory prayers; 71.4% read or recited the Qur'an several times/week or daily; 80.0% gave money to the poor each year (Zakat); 71.4% fasted throughout the month of Ramadan (Sawm) and other times as well; 91.4% said they definitely' experienced the presence of Allah; and 74.3% said their entire approach to life was definitely based on their religious beliefs. Overall religiosity was inversely related to depressive symptoms (B=-0.58, SE=0.30, p=0.026) and suicidal ideation (B=-0.07, SE=0.03, p=0.025), after controlling for financial status and social factors.
+   ConclusionsReligious involvement was widespread in this sample of CRC patients in Saudi Arabia and was related to fewer depressive symptoms and less suicidal ideation. No relationship was found with stage of disease or duration of treatment. Copyright (c) 2015 John Wiley & Sons, Ltd.
+C1 [Al Ahwal, Mahmoud Shaheen] King Abdulaziz Univ, Dept Med, Jeddah 21413, Saudi Arabia.
+   [Al Zaben, Faten; Sehlo, Mohammad Gamal; Khalifa, Doaa Ahmed; Koenig, Harold G.] King Abdulaziz Univ, Dept Psychiat, Jeddah 21413, Saudi Arabia.
+   [Sehlo, Mohammad Gamal] Zagazig Univ, Dept Psychiat, Zagazig, Egypt.
+   [Khalifa, Doaa Ahmed] Ain Shams Univ, Dept Psychiat, Cairo, Egypt.
+   [Koenig, Harold G.] Duke Univ, Med Ctr, Dept Psychiat & Behav Sci, POB 3400, Durham, NC 27710 USA.
+   [Koenig, Harold G.] Ningxia Med Univ, Sch Publ Hlth, Yinchuan, Peoples R China.
+C3 King Abdulaziz University; King Abdulaziz University; Egyptian Knowledge
+   Bank (EKB); Zagazig University; Egyptian Knowledge Bank (EKB); Ain Shams
+   University; Duke University; Ningxia Medical University
+RP Koenig, HG (corresponding author), Duke Univ, Med Ctr, Dept Psychiat & Behav Sci, POB 3400, Durham, NC 27710 USA.
+EM Harold.Koenig@duke.edu
+RI Sehlo, Mohammad G/E-8773-2013
+OI Sehlo, Mohammad/0000-0003-1479-4094
+FU Deanship of Scientific Research (DSR), King Abdulaziz University, Jeddah
+   [354/140/1433]
+FX This project was funded by the Deanship of Scientific Research (DSR),
+   King Abdulaziz University, Jeddah, under grant no. 354/140/1433. The
+   authors, therefore, acknowledge with thanks DSR for technical and
+   financial support.
+NR 36
+TC 30
+Z9 32
+U1 0
+U2 21
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1057-9249
+EI 1099-1611
+J9 PSYCHO-ONCOLOGY
+JI Psycho-Oncol.
+PD MAR
+PY 2016
+VL 25
+IS 3
+BP 292
+EP 299
+DI 10.1002/pon.3845
+PG 8
+WC Oncology; Psychology; Psychology, Multidisciplinary; Social Sciences,
+   Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology; Psychology; Biomedical Social Sciences
+GA DG2XN
+UT WOS:000371934200006
+PM 25990540
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Bakhaidar, M
+   Jan, S
+   Farahat, F
+   Attar, A
+   Alsaywid, B
+   Abuznadah, W
+AF Bakhaidar, Mohamad
+   Jan, Saber
+   Farahat, Fayssal
+   Attar, Ahmad
+   Alsaywid, Basim
+   Abuznadah, Wesam
+TI Pattern of Drug Overdose and Chemical Poisoning Among Patients Attending
+   an Emergency Department, Western Saudi Arabia
+SO JOURNAL OF COMMUNITY HEALTH
+LA English
+DT Article
+DE Poisoning; Drug overdose; Emergency service; Saudi Arabia
+ID CHILDREN
+AB Poisoning is a medical emergency that represent a major health problem all over the world. Studies on drug overdose and chemical poisoning are very limited in Saudi Arabia (SA). We aimed to describe the current pattern and assess risk factors of drug overdose and chemical poisoning in King Khalid National Guard hospital, Jeddah, SA. Medical records of patients attended emergency department in King Khalid National Guard hospital during the period from January 2008 to December 2012 due to drug overdose and chemical poisoning were reviewed. A total of 129 cases were included in the study. The majority of the population was Saudi (97.7 %), and almost half of them were females (54.3 %). Children under 12 years were the most affected age group (44.2 %). Drug overdose was the most common cause of poisoning (92.2 %). Analgesics and non-steroidal anti-inflammatory drugs represented the highest percentage of used medications (20.4 %). The most commonly reported symptoms were symptoms of the central nervous system (57.4 %) followed by GIT symptoms (41.9 %). Intentional poisoning was reported in 34 cases (26.4 %). Female patients were significantly more likely to attempt suicide than male patients (OR = 7.22, 95 % CI = 1.70, 30.62). Children continue to be at high risk for medication and chemical poisoning. Accessibility to medications at homes encountered for most of poisoning cases among children. Implementing methods to raise public awareness and minimize children access to medications would significantly contribute to reducing burden of this problem on the community.
+C1 [Bakhaidar, Mohamad] King Abdulaziz Univ, Fac Med, Jeddah 21413, Saudi Arabia.
+   [Jan, Saber] Taibah Univ, Coll Med, Madinah, Saudi Arabia.
+   [Farahat, Fayssal; Attar, Ahmad; Alsaywid, Basim; Abuznadah, Wesam] King Saud bin AbdulAziz Univ Hlth Sci KSAU HS, KAMC, KAIMRC, Jeddah, Saudi Arabia.
+   [Farahat, Fayssal] Menoufia Univ, Publ Hlth & Community Med Dept, Menoufia, Egypt.
+C3 King Abdulaziz University; Taibah University; King Saud Bin Abdulaziz
+   University for Health Sciences; King Abdulaziz Medical City - Jeddah;
+   King Abdullah International Medical Research Center (KAIMRC); Egyptian
+   Knowledge Bank (EKB); Menofia University
+RP Farahat, F (corresponding author), King Saud bin AbdulAziz Univ Hlth Sci KSAU HS, KAMC, KAIMRC, Jeddah, Saudi Arabia.
+EM farahatfa@ngha.med.sa
+RI Farahat, Fayssal/AAF-3226-2019; Abuznadah, Wesam/R-4218-2019; Alsaywid,
+   Basim/AAX-9089-2020
+OI Farahat, Fayssal/0000-0001-5186-2872; Abuznadah,
+   Wesam/0000-0002-6239-2367; Alsaywid, Basim/0000-0002-2277-5486; Jan,
+   Saber/0000-0002-9862-2603
+NR 24
+TC 28
+Z9 29
+U1 0
+U2 6
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0094-5145
+EI 1573-3610
+J9 J COMMUN HEALTH
+JI J. Community Health
+PD FEB
+PY 2015
+VL 40
+IS 1
+BP 57
+EP 61
+DI 10.1007/s10900-014-9895-x
+PG 5
+WC Health Policy & Services; Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA AZ4KS
+UT WOS:000348190400008
+PM 24927975
+DA 2023-12-06
+ER
+
+PT J
+AU Mleeh, NT
+   Alshamrani, HM
+   Basyouni, RN
+   Alshehri, KA
+   Algethami, MR
+   Sehlo, MG
+AF Mleeh, Nouf T.
+   Alshamrani, Hussein M.
+   Basyouni, Reem N.
+   Alshehri, Khalid A.
+   Algethami, Mohammed R.
+   Sehlo, Mohammad Gamal
+TI Prevalence and predictors of depression among dermatology clinic
+   patients in a teaching hospital, Jeddah, Saudi Arabia
+SO JOURNAL OF FAMILY MEDICINE AND PRIMARY CARE
+LA English
+DT Article
+DE Depression; dermatology; Saudi Arabia; skin diseases
+ID GENDER-DIFFERENCES; SKIN DISEASES; ACNE-VULGARIS; DISORDERS; SYMPTOMS;
+   ANXIETY; RISK; ASSOCIATION; SUICIDE; PATTERN
+AB Context: Depression in patients with a skin condition can lead to severe consequences that affect the quality of life. To our knowledge, the estimated prevalence of depression in patients who visited dermatological clinics in Jeddah remains unknown. Aims: To assess the prevalence of depression among patients with dermatological conditions and evaluate the association between clinical and demographic characteristics and depressive symptoms. Settings and Design: A cross-sectional study was conducted among dermatological patients at King Abdulaziz University Hospital in Jeddah, Saudi Arabia. Materials and Methods: The Patient Health Questionnaire-9 (PHQ-9) was used for screening depression. Statistical Analysis Used: Chi-square test and odds ratios (ORs) were used to determine the association among variables. Results: The study included 273 participants. More than two-thirds (194) of the participants were women (71.1%). Depressive symptoms were prevalent in 43 (15.8%) participants. Depression was the most prevalent among patients with psoriasis (39.5%, P < 0.001), followed by those with acne (30.2% P = 0.04) . Conclusion: Psychosocial assessment should be addressed when evaluating and treating dermatological diseases. Screening tools, including PHQ-9, can facilitate the early detection of depressive symptoms and improve clinical outcomes. Addressing psychosocial aspects of skin conditions may help in reducing exacerbation of symptoms, mainly for conditions aggravated by stress, including dermatitis and psoriasis.
+C1 [Mleeh, Nouf T.; Alshamrani, Hussein M.; Basyouni, Reem N.; Alshehri, Khalid A.; Algethami, Mohammed R.] King Abdulaziz Univ, Dept Dermatol, Jeddah, Saudi Arabia.
+   [Sehlo, Mohammad Gamal] King Abdulaziz Univ, Fac Med, Dept Psychiat, Jeddah, Saudi Arabia.
+   [Sehlo, Mohammad Gamal] Zagazig Univ, Dept Psychiat, Zagazig, Egypt.
+C3 King Abdulaziz University; King Abdulaziz University; Egyptian Knowledge
+   Bank (EKB); Zagazig University
+RP Alshamrani, HM (corresponding author), King Abdulaziz Univ, Dept Med, POB 80215, Jeddah 21589, Saudi Arabia.
+EM Hussein.m.edu@gmail.com
+RI Sehlo, Mohammad G/E-8773-2013; Algethami, Mohammed Ridha/JAN-4827-2023
+OI Algethami, Mohammed Ridha/0000-0002-0554-4790
+NR 35
+TC 7
+Z9 7
+U1 0
+U2 0
+PU WOLTERS KLUWER MEDKNOW PUBLICATIONS
+PI MUMBAI
+PA WOLTERS KLUWER INDIA PVT LTD , A-202, 2ND FLR, QUBE, C T S  NO 1498A-2
+   VILLAGE MAROL, ANDHERI EAST, MUMBAI, Maharashtra, INDIA
+SN 2249-4863
+EI 2278-7135
+J9 J FAM MED PRIM CARE
+JI J. Fam. Med. Prim. Care
+PD JUL
+PY 2019
+VL 8
+IS 7
+BP 2496
+EP 2501
+DI 10.4103/jfmpc.jfmpc_399_19
+PG 6
+WC Primary Health Care
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA VJ9ST
+UT WOS:000648425900059
+PM 31463283
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU AlBuhairan, F
+   AlMutairi, A
+   Al Eissa, M
+   Naeem, M
+   Almuneef, M
+AF AlBuhairan, Fadia
+   AlMutairi, Alanoud
+   Al Eissa, Majid
+   Naeem, Mohammed
+   Almuneef, Maha
+TI Non-suicidal self-strangulation among adolescents in Saudi Arabia: Case
+   series of the choking game
+SO Journal of Forensic and Legal Medicine
+LA English
+DT Article
+DE Self-strangulation; Choking game; Adolescents; Risky behaviors; Saudi
+   Arabia; Arab World
+ID AGED 6-19 YEARS; UNINTENTIONAL-STRANGULATION; UNITED-STATES; DEATHS
+AB Adolescence is known to be a time of exploration and initiation of risky behaviors. Much attention has been given to risk behaviors such as smoking, violence, and sexual promiscuity; other serious behaviors such as self-strangulation or the choking game, which is carried out by adolescents in response to peer pressures or to gain a transient sense of euphoria, have received little attention, with the available literature coming from the developed world.
+   This is the first report of cases of non-suicidal self-strangulation from the Arab World. In this case series, we report 5 cases of non-suicidal self-strangulation that presented to the Emergency Department of a tertiary care hospital in Riyadh, Saudi Arabia during 2010-2012. All of the 5 cases were young male adolescents aged 10-13 years. This activity resulted in the death of 2 boys; one boy sustained hypoxic ischemic insult to the brain with clinical deficits; and the remaining 2 were fortunate to be discharged home in healthy condition. None of the cases had underlying mental health problems, and multidisciplinary involvement ruled out suicide and homicide activities.
+   Non-suicidal self-strangulation is a fatal behavior that adolescents engage in. Increased efforts are needed to address this serious and preventable public health issue. Awareness and education of adolescents and their parents is crucial. Awareness of healthcare providers is also necessary in order to avoid misdiagnosis of such cases. (C) 2015 Elsevier Ltd and Faculty of Forensic and Legal Medicine.
+C1 [AlBuhairan, Fadia; AlMutairi, Alanoud; Al Eissa, Majid; Almuneef, Maha] King Abdul Aziz Med City, Natl Family Safety Program, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia; Al Eissa, Majid; Naeem, Mohammed; Almuneef, Maha] King Abdullah Int Med Res Ctr, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia; Al Eissa, Majid; Naeem, Mohammed; Almuneef, Maha] King Saud Bin Abdulaziz Univ Hlth Sci, King Abdulaziz Med City, Riyadh, Saudi Arabia.
+   [AlBuhairan, Fadia; Naeem, Mohammed; Almuneef, Maha] King Abdul Aziz Med City, Dept Pediat, Riyadh, Saudi Arabia.
+   [Al Eissa, Majid] King Abdul Aziz Med City, Emergency Dept, Riyadh, Saudi Arabia.
+C3 King Saud Bin Abdulaziz University for Health Sciences; King Abdulaziz
+   Medical City - Riyadh; King Abdulaziz Medical City; King Saud Bin
+   Abdulaziz University for Health Sciences; King Abdullah International
+   Medical Research Center (KAIMRC); King Saud Bin Abdulaziz University for
+   Health Sciences; King Saud Bin Abdulaziz University for Health Sciences;
+   King Abdulaziz Medical City - Riyadh; King Abdulaziz Medical City; King
+   Abdulaziz Medical City; King Saud Bin Abdulaziz University for Health
+   Sciences; King Abdulaziz Medical City - Riyadh
+RP AlBuhairan, F (corresponding author), POB 22490,Mail Code 1510, Riyadh 11426, Saudi Arabia.
+EM buhairanfs@ngha.med.sa; anoudkm@gmail.com; maleissanfsp@gmail.com;
+   naeemm@ngha.med.sa; muneefm@ngha.med.sa
+OI Naeem, Mohammed/0000-0003-0544-6557; AlBuhairan,
+   Fadia/0000-0002-7377-503X
+NR 14
+TC 14
+Z9 14
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD FEB
+PY 2015
+VL 30
+BP 43
+EP 45
+DI 10.1016/j.jflm.2014.12.015
+PG 3
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA AZ8HN
+UT WOS:000348456400011
+PM 25623195
+OA hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Morgan, A
+   AlAqi, NA
+   AlOkeil, NA
+   AlGhaleb, SA
+   AlOtaibi, AF
+   Alashqar, HM
+   AlGhuwainem, SOA
+   AlQahtani, MAM
+AF Morgan, Anthony
+   AlAqi, Nasser Abdullah
+   AlOkeil, Nawaf Abdullah
+   AlGhaleb, Shatha Ali
+   AlOtaibi, Azzam Fahad
+   Alashqar, Hisham Mutlaq
+   AlGhuwainem, Sultan Obaid Abdullah
+   AlQahtani, Mohammed Abdullah Mohammed
+TI Firearm injuries in rural Saudi Arabia: incidence, patterns, management,
+   and cost
+SO EGYPTIAN JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE Small firearms; Firearm injuries; Saudi Arabian province; Firearm injury
+   incidence; Firearm forensic aspects
+AB Background: A retrospective study from 2013 to 2017 was conducted to evaluate the incidence of small firearms and air gun injuries, social demographics of victims, severity of injuries, patterns, length of stay, and cost of hospitalization in highly populated central rural Al Kharj region of Saudi Arabia.
+   Results: In total, the study included 102 cases. The incidence of firearms and air gun injuries in Al Kharj region was 3.13/100,000. Most of the victims were young-aged males (98 cases; 96.1%). The males were absolute majority with the rate of males to females 23.5:1. There were no fatal injuries in this study and no suicides. Majority of the cases were accidents or usage of firearms as toys. The most common site of entry was the lower limb (44 cases; 43.1%), the abdomen (20 cases; 19.6%), and the upper limbs (16 cases, 15.7%). Handguns were the cause of injuries in 66 cases (64.7%) and air guns in 36 cases (35.3%) respectively. The median Injury Severity Score was 15. The total length of stay due to injuries over the study period was 514 days and was estimated for the local economy downfall of 285,000 Sadi Riyals as a cost of hospitalization. Twenty-six (25.4%) patients had to be readmitted to the hospital due to various complications. Thirty-seven (36.3%) patients had long-term disability. The mean length of stay in the hospital was 5 days (range = 1-9 days). The length of stay was positively correlated with Injury Severity Score, and significant increase was identified when the patients had ISS more than 20 (p < 0.04).
+   Conclusion: The results from this study support the current tight gun law regulations in Saudi Arabia, which aims to reduce the number of firearm-related morbidity and mortality in the society. There is a necessity for better education in Saudi Arabian communities in relation to firearms and their use in order to reduce the number of firearm accidents and related injuries.
+C1 [Morgan, Anthony; AlAqi, Nasser Abdullah; Alashqar, Hisham Mutlaq; AlGhuwainem, Sultan Obaid Abdullah; AlQahtani, Mohammed Abdullah Mohammed] Prince Sattam bin Abdulaziz Univ, Al Kharj, Saudi Arabia.
+   [AlOkeil, Nawaf Abdullah; AlGhaleb, Shatha Ali; AlOtaibi, Azzam Fahad] Prince Sultan Mil Med City, Riyadh, Saudi Arabia.
+C3 Prince Sattam Bin Abdulaziz University; Prince Sultan Military Medical
+   City
+RP Morgan, A (corresponding author), Prince Sattam bin Abdulaziz Univ, Al Kharj, Saudi Arabia.
+EM anatoly90@hotmail.com
+OI Morgan, Anthony/0000-0003-4142-5622
+NR 15
+TC 5
+Z9 5
+U1 0
+U2 1
+PU INT ASSOC LAW & FORENSIC SCIENCES
+PI CAIRO
+PA 1 AWAL MAYO BLDG, EL-NASR RD, CAIRO, 11371, EGYPT
+SN 2090-536X
+EI 2090-5939
+J9 EGYPT J FORENSIC SCI
+JI Egypt. J. Forensic Sci.
+PD JAN 5
+PY 2019
+VL 9
+AR 4
+DI 10.1186/s41935-018-0108-0
+PG 7
+WC Medicine, Legal
+WE Emerging Sources Citation Index (ESCI)
+SC Legal Medicine
+GA HQ9WS
+UT WOS:000462779400001
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Youssef, IM
+   Fahmy, MT
+   Haggag, WL
+   Mohamed, KA
+   Baalash, AA
+AF Youssef, Ismail M.
+   Fahmy, Magda T.
+   Haggag, Wafaa L.
+   Mohamed, Khalid A.
+   Baalash, Amany A.
+TI Dual Diagnosis and Suicide Probability in Poly-Drug Users
+SO JCPSP-JOURNAL OF THE COLLEGE OF PHYSICIANS AND SURGEONS PAKISTAN
+LA English
+DT Article
+DE Beck depressive inventory; Depression; Dual diagnosis; Poly-drug abuse;
+   Suicidal thoughts; Suicide probability scale
+ID SUBSTANCE USE; RISK-FACTORS; PATTERNS; ABUSE
+AB Objective: To determine the frequency of suicidal thoughts and suicidal probability among poly-substance abusers in Saudi population, and to examine the relation between dual diagnosis and suicidal thoughts.
+   Study Design: Case control study.
+   Place and Duration of Study: Al-Baha Psychiatric Hospital, Saudi Arabia, from May 2011 to June 2012.
+   Methodology: Participants were 239 subjects, aged 18 - 45 years. We reviewed 122 individuals who fulfilled the DSM-IV-TR criteria of substance abuse for two or more substances, and their data were compared with that collected from 117 control persons.
+   Results: Suicidal cases were highly present among poly-substance abusers 64.75%. Amphetamine and cannabis were the most abused substances, (87.7% and 70.49%, respectively). A statistically significant association with suicidality was found with longer duration of substance abuse (p < 0.001), using alcohol (p=0.001), amphetamine (p=0.007), volatile substances (p=0.034), presence of comorbid psychiatric disorders (dual diagnosis) as substance induced mood disorder (p=0.001), schizo-affective disorder (p=0.017), major depressive disorders (p=0.001), antisocial (p=0.016) and borderline (p=0.005) personality disorder. Suicidal cases showed significant higher scores (p < 0.001) of suicide probability scale and higher scores in Beck depressive inventory (p < 0.001).
+   Conclusion: Abusing certain substances for long duration, in addition to comorbid psychiatric disorders especially with disturbed-mood element, may trigger suicidal thoughts in poly-substance abusers. Depression and suicide probability is common consequences of substance abuse.
+C1 [Youssef, Ismail M.; Fahmy, Magda T.; Haggag, Wafaa L.; Mohamed, Khalid A.] Suez Canal Univ, Dept Neuropsychiat, Ismailia, Egypt.
+   [Baalash, Amany A.] Hosp Psychiat, Dept Psychiat, POB 14, Al Baha 22888, Baljurashi, Saudi Arabia.
+C3 Egyptian Knowledge Bank (EKB); Suez Canal University
+RP Baalash, AA (corresponding author), Hosp Psychiat, Dept Psychiat, POB 14, Al Baha 22888, Baljurashi, Saudi Arabia.
+EM amanyothman000@yahoo.com
+OI Haggag, Wafaa/0000-0002-1720-1349; Haggag, Wafaa/0000-0002-2004-1614
+NR 24
+TC 14
+Z9 15
+U1 0
+U2 8
+PU COLL PHYSICIANS & SURGEONS PAKISTAN
+PI KARACHI
+PA SEVENTH CENTRAL ST, DEFENCE HOUSING AUTHORITY, KARACHI, 75500, PAKISTAN
+SN 1022-386X
+EI 1681-7168
+J9 JCPSP-J COLL PHYSICI
+JI JCPSP-J. Coll. Physicians Surg.
+PD FEB
+PY 2016
+VL 26
+IS 2
+BP 130
+EP 133
+PG 4
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA DD1TH
+UT WOS:000369704200013
+PM 26876401
+DA 2023-12-06
+ER
+
+PT J
+AU Khazaei, S
+   Armanmehr, V
+   Nematollahi, S
+   Rezaeian, S
+   Khazaei, S
+AF Khazaei, Salman
+   Armanmehr, Vajihe
+   Nematollahi, Shahrzad
+   Rezaeian, Shahab
+   Khazaei, Somayeh
+TI Suicide rate in relation to the Human Development Index and other health
+   related factors: A global ecological study from 91 countries
+SO JOURNAL OF EPIDEMIOLOGY AND GLOBAL HEALTH
+LA English
+DT Article
+DE Ecological study; Human Development Index; Suicide
+ID CAUSE-SPECIFIC MORTALITY; MARITAL-STATUS; UNITED-STATES; MENTAL-HEALTH;
+   SAO-PAULO; AGE; GENDER; IMPACT; SIZE; RISK
+AB There has been no worldwide ecological study on suicide as a global major public health problem. This study aimed to identify the variations in suicide specific rates using the Human Development Index (HDI) and some health related variables among countries around the world. In this ecological study, we obtained the data from the World Bank Report 2013. The analysis was restricted to 91 countries for which both the epidemiologic data from the suicide rates and HDI were available. Overall, the global prevalence of suicide rate was 10.5 (95% confidence intervals: 8.8, 12.2) per 100,000 individuals, which significantly varied according to gender (16.3 in males vs. 4.6 in females, p < 0.001) and different levels of human development (11.64/100,000 individuals in very high development countries, 7.93/100,000 individuals in medium development countries, and 13.94/100,000 individuals in high development countries, p = 0.004). In conclusion, the suicide rate varies greatly between countries with different development levels. Our findings also suggest that male gender and HDI components are associated with an increased risk of suicide behaviors. Hence, detecting population subgroups with a high suicide risk and reducing the inequality of socioeconomic determinants are necessary to prevent this disorder around the world. (C) 2017 Ministry of Health, Saudi Arabia. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license.
+C1 [Khazaei, Salman; Khazaei, Somayeh] Hamadan Univ Med Sci, Sch Publ Hlth, Dept Epidemiol, Hamadan, Iran.
+   [Armanmehr, Vajihe] Gonabad Univ Med Sci, Social Determinants Hlth Res Ctr, Gonabad, Iran.
+   [Nematollahi, Shahrzad] Univ Tehran Med Sci, Dept Epidemiol & Biostat, Tehran, Iran.
+   [Rezaeian, Shahab] Kermanshah Univ Med Sci, RCEDH, Kermanshah, Iran.
+C3 Hamadan University of Medical Sciences; Tehran University of Medical
+   Sciences; Kermanshah University of Medical Sciences
+RP Rezaeian, S (corresponding author), Kermanshah Univ Med Sci, RCEDH, Kermanshah, Iran.
+EM shahab.rezayan@gmail.com
+RI Nematollahi, Shahrzad/AAP-7983-2020; Rezaeian, Shahab/G-7482-2011;
+   Khazaei, Salman/O-4553-2019
+OI Rezaeian, Shahab/0000-0002-5094-5315; Khazaei,
+   Salman/0000-0001-5918-2310; Nematollahi, Shahrzad/0000-0003-1248-7306
+NR 33
+TC 27
+Z9 29
+U1 1
+U2 9
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 2210-6006
+EI 2210-6014
+J9 J EPIDEMIOL GLOB HEA
+JI J. Epidemiol. Glob. Health
+PD JUN
+PY 2017
+VL 7
+IS 2
+BP 131
+EP 134
+DI 10.1016/j.jegh.2016.12.002
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EY7EC
+UT WOS:000404150300007
+PM 28188120
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Suárez-Peñaranda, JM
+   Alvarez, T
+   Miguéns, X
+   Rodríguez-Calvo, MS
+   de Abajo, BL
+   Cortesao, M
+   Cordeiro, C
+   Vieira, DN
+   Muñoz, JI
+AF Suarez-Penaranda, Jose M.
+   Alvarez, Teresa
+   Miguens, Xoan
+   Rodriguez-Calvo, Maria S.
+   Lopez de Abajo, Benito
+   Cortesao, Maria
+   Cordeiro, Cristina
+   Vieira, Duarte N.
+   Munoz, Jose I.
+TI Characterization of lesions in hanging deaths
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; death; asphyxia; hanging deaths; autopsy; neck injury;
+   suicide
+ID ASPHYXIAL DEATHS; NECK STRUCTURES; DELAYED DEATH; SAUDI-ARABIA; SUICIDE;
+   FRACTURES; FREQUENCY; INJURIES; CHILDREN; HUNGARY
+AB Hanging is a common method of committing suicide and a routine task in medico-legal autopsies. The hanging mark is the most relevant external sign and its characteristics are well known, but, for unknown reasons, there are major differences in reports on internal findings. We retrospectively studied 228 consecutive cases of hanging deaths. A complete standard autopsy was performed for every case. We investigated the association between the characteristics of the hanging mark and the frequency of bone, cartilage, soft tissue, and vascular injuries with the mode of suspension. Most cases (75.3%) presented some kind of bone or cartilage fracture, but these were unrelated to any of the variables studied. Vascular lesions are clearly more infrequent: intimal injuries were found in the carotid artery (9.1%), the jugular vein (2.2%), and ruptures of the carotid adventitial layer (21.7%). These could be partially associated with the use of a hard fixed noose and body weight.
+C1 [Alvarez, Teresa; Miguens, Xoan; Munoz, Jose I.] Univ Santiago de Compostela, Inst Legal Med, Santiago De Compostela 15782, Spain.
+   [Suarez-Penaranda, Jose M.; Rodriguez-Calvo, Maria S.] Univ Santiago de Compostela, Dept Pathol & Forens Sci, Santiago De Compostela 15782, Spain.
+   [Lopez de Abajo, Benito] Inst Legal Med Galicia, Santiago De Compostela 15703, Spain.
+   [Cortesao, Maria; Cordeiro, Cristina; Vieira, Duarte N.] Natl Inst Legal Med Portugal, P-3000213 Coimbra, Portugal.
+C3 Universidade de Santiago de Compostela; Universidade de Santiago de
+   Compostela
+RP Muñoz, JI (corresponding author), Univ Santiago de Compostela, Inst Legal Med, C San Francisco S-N, Santiago De Compostela 15782, Spain.
+EM barusim1@usc.es
+RI SUAREZ PEÑARANDA, JOSE MANUEL/D-2688-2009; Rodriguez-Calvo, Maria
+   Sol/AHC-3578-2022; Rodriguez-Calvo, Maria Sol/GQO-9141-2022; Miguens,
+   Xoan/ABA-5326-2021; Rodriguez-Calvo, Maria Sol/GPS-9078-2022
+OI SUAREZ PEÑARANDA, JOSE MANUEL/0000-0003-4033-3638; Rodriguez-Calvo,
+   Maria Sol/0000-0001-9948-9667; Rodriguez-Calvo, Maria
+   Sol/0000-0001-9948-9667; Miguens, Xoan/0000-0003-4732-497X;
+   Rodriguez-Calvo, Maria Sol/0000-0001-9948-9667; Munoz-Barus, Jose
+   Ignacio/0000-0002-4454-4670; Vieira, Duarte Nuno/0000-0002-7366-6765
+NR 40
+TC 54
+Z9 57
+U1 0
+U2 18
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD MAY
+PY 2008
+VL 53
+IS 3
+BP 720
+EP 723
+DI 10.1111/j.1556-4029.2008.00700.x
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 298VP
+UT WOS:000255715500029
+PM 18471222
+DA 2023-12-06
+ER
+
+PT J
+AU Elshatarat, RA
+   Yacoub, MI
+   Saleh, ZT
+   Ebeid, IA
+   Abu Raddaha, AH
+   Al-Za'areer, MS
+   Maabreh, RS
+AF Elshatarat, Rami A.
+   Yacoub, Mohammed, I
+   Saleh, Zyad T.
+   Ebeid, Inas A.
+   Abu Raddaha, Ahmad H.
+   Al-Za'areer, Majed S.
+   Maabreh, Rogia S.
+TI Perinatal Nurses' and Midwives' Knowledge About Assessment and
+   Management of Postpartum Depression
+SO JOURNAL OF PSYCHOSOCIAL NURSING AND MENTAL HEALTH SERVICES
+LA English
+DT Article
+ID SELF-EFFICACY; RISK-FACTORS; WOMEN; BARRIERS; SUICIDE; CARE
+AB The current study addresses lack of knowledge about assessment and management of postpartum depression (PPD) among nurses and midwives in Saudi Arabia. A descriptive, cross-sectional design was used to recruit a convenience sample of 181 nurses and 143 midwives. Data were collected using a self-administered questionnaire. Nurses and midwives lacked knowledge about various aspects of PPD, including its definition, prevalence, symptoms, risk factors, screening tools, and treatment. Only one third of participants were confident in their ability to provide education for women about PPD. Participants' self-confidence to educate women about PPD was significantly correlated with their level of knowledge about assessment and management of PPD. Continuing education is recommended for health care professionals to improve knowledge regarding PPD. Further studies are needed to determine the effectiveness of educational interventions on improving knowledge, practice, and self-confidence about PPD.
+C1 [Elshatarat, Rami A.] Taibah Univ, Coll Nursing, Dept Med & Surg Nursing, POB 30088, Madinah 41477, Saudi Arabia.
+   [Ebeid, Inas A.] Taibah Univ, Coll Nursing, Dept Psychiat & Mental Hlth Nursing, Madinah, Saudi Arabia.
+   [Yacoub, Mohammed, I; Saleh, Zyad T.] Univ Jordan, Sch Nursing, Clin Nursing Dept, Amman, Jordan.
+   [Ebeid, Inas A.] Portsaid Univ, Fac Nursing, Dept Psychiat & Mental Hlth Nursing, Portsaid, Egypt.
+   [Abu Raddaha, Ahmad H.] Prince Sattam bin Abdulaziz Univ, Coll Appl Med Sci, Al Kharj, Saudi Arabia.
+   [Al-Za'areer, Majed S.] Al Rayan Coll, Madinah, Saudi Arabia.
+   [Maabreh, Rogia S.] Irbid Natl Univ, Nursing Dept, Irbid, Jordan.
+C3 Taibah University; Taibah University; University of Jordan; Egyptian
+   Knowledge Bank (EKB); Port Said University; Prince Sattam Bin Abdulaziz
+   University
+RP Elshatarat, RA (corresponding author), Taibah Univ, Coll Nursing, Dept Med & Surg Nursing, POB 30088, Madinah 41477, Saudi Arabia.
+EM rshatarat@taibahu.edu.sa
+RI Abu Raddaha, Ahmad H/J-2182-2017; saleh, zyad/K-3849-2015
+OI Abu Raddaha, Ahmad H/0000-0002-7193-835X; saleh,
+   zyad/0000-0002-1107-0413; Yacoub, Mohammed/0000-0002-7497-0865;
+   Elshatarat, Rami/0000-0003-3882-7196
+NR 37
+TC 10
+Z9 12
+U1 0
+U2 24
+PU SLACK INC
+PI THOROFARE
+PA 6900 GROVE RD, THOROFARE, NJ 08086 USA
+SN 0279-3695
+EI 1938-2413
+J9 J PSYCHOSOC NURS MEN
+JI J. Psychosoc. Nurs. Ment. Health Serv.
+PD DEC
+PY 2018
+VL 56
+IS 12
+BP 36
+EP 46
+DI 10.3928/02793695-20180612-02
+PG 11
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA HC4XP
+UT WOS:000451808400007
+PM 29916523
+DA 2023-12-06
+ER
+
+PT J
+AU Groohi, B
+   Alaghehbandan, R
+   Lari, AR
+AF Groohi, B
+   Alaghehbandan, R
+   Lari, AR
+TI Analysis of 1089 burn patients in province of Kurdistan, Iran
+SO BURNS
+LA English
+DT Article
+DE burns; epidemiology; suicide; Kurdistan; Iran
+ID SELF-INFLICTED BURNS; EPIDEMIOLOGIC DATA; IMMOLATION DEATHS; CHILDHOOD
+   BURNS; PEDIATRIC BURNS; SAUDI-ARABIA; SOUTH-WEST; SUICIDE; INJURIES;
+   MORTALITY
+AB Burn injuries still produce a significant morbidity and mortality in Iran. This study was carried out to analyze the epidemiology, mortality, and current etiological factors of 1089 burn patients in the province of Kurdistan in the west of Iran during the 6 years from 21 March 1994 to 20 March 2000. There were two burn centers in Kurdistan, serving 1.4 million people in an area of 28,000km(2). The incidence rate of burn hospitalization was 13.5 per 100,000 person-years. The median age was 18 years with 58% of the patients under 20 years. The median Body Surface Area (BSA) burned was 40%. Incidence rate of burns for females was 18 per 100,000 person-years and 9.1 per 100,000 person-years for males (P-(2) < 0.000001). Also there was a statistically significant association between mortality rate and age groups/gender/BBS (P-(2) < 0.000001). Flame was the most common type of burn (694/1089, 63.7%). There was also a significant correlation between the age groups and types of burn (P-(2) < 0.00000 1). Ninety-one percent (991/1089) of the burns were unintentional (12.3 per 100,000 person-years), while suicide attempts by burning for the population aged 13 and older accounted for 12.7% (98/771) (2 per 100,000 person-years). The mortality rate was 4.5 per 100,000 person-years. The study results provide a valuable baseline by which to assess future efforts directed toward the prevention of burn injuries in Kurdistan. (C) 2002 Elsevier Science Ltd and ISBI. All rights reserved.
+C1 Iran Univ Med Sci, Dept Microbiol, Tehran, Iran.
+C3 Iran University of Medical Sciences
+RP Lari, AR (corresponding author), Iran Univ Med Sci, Dept Microbiol, POB 14515-717, Tehran, Iran.
+EM lari@iums.ac.ir
+OI Alaghehbandan, Reza/0000-0002-6708-5032
+NR 46
+TC 94
+Z9 95
+U1 0
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-4179
+EI 1879-1409
+J9 BURNS
+JI Burns
+PD SEP
+PY 2002
+VL 28
+IS 6
+BP 569
+EP 574
+AR PII S0305-4179(02)00099-2
+DI 10.1016/S0305-4179(02)00099-2
+PG 6
+WC Critical Care Medicine; Dermatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Dermatology; Surgery
+GA 602TK
+UT WOS:000178520400007
+PM 12220915
+DA 2023-12-06
+ER
+
+PT J
+AU Ambade, VN
+   Kolpe, D
+   Tumram, N
+   Meshram, S
+   Pawar, M
+   Kukde, H
+AF Ambade, Vipul Namdeorao
+   Kolpe, Dayanand
+   Tumram, Nilesh
+   Meshram, Satin
+   Pawar, Mohan
+   Kukde, Hemant
+TI Characteristic Features of Hanging: A Study in Rural District of Central
+   India
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; asphyxial deaths; hanging; characteristic features;
+   hanging mark; ligature material
+ID NECK STRUCTURES; SAUDI-ARABIA; SUICIDE; FRACTURES; DEATHS; EPIDEMIOLOGY;
+   LITHUANIA; INJURIES; HUNGARY; TRENDS
+AB The ligature mark is the most relevant feature of hanging. This study was undertaken with a view to determine the characteristic features of hanging and its association with ligature material or mode of suspension. Of a total medicolegal deaths reported at an Apex Medical Centre, hanging was noted in 4.1% cases, all suicidal with mortality rate of 1.5 per 100,000 population per year. The hanging was complete in 67.7% with nylon rope as the commonest type of ligature material used for ligation. The hanging mark was usually single, situated above thyroid cartilage, incomplete, prominent, and directed toward nape of neck. The mark of dribbling of saliva was seen in 11.8% cases. Facial congestion, petechial hemorrhage, and cyanosis were significantly seen in partial hanging. Though occasionally reported, the argent line was noted in 78.7% hanging deaths with neck muscle hemorrhage in 23.6% cases. Fracture of neck structure was predominant in complete hanging.
+C1 [Ambade, Vipul Namdeorao; Meshram, Satin] Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+   [Kolpe, Dayanand; Pawar, Mohan; Kukde, Hemant] Vasantrao Naik Govt Med Coll, Dept Forens Med, Yeotmal 445001, Maharashtra, India.
+   [Tumram, Nilesh] Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+RP Ambade, VN (corresponding author), Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+EM vipulambade@rediffmail.com
+RI PAWAR, MOHAN/AAH-9625-2021; Pawar, Mohan/AAZ-8953-2020
+OI PAWAR, MOHAN/0000-0001-8760-5683; 
+NR 63
+TC 13
+Z9 14
+U1 0
+U2 7
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD SEP
+PY 2015
+VL 60
+IS 5
+BP 1216
+EP 1223
+DI 10.1111/1556-4029.12772
+PG 8
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA CR0CE
+UT WOS:000360985000014
+PM 25899291
+DA 2023-12-06
+ER
+
+PT J
+AU Mobeireek, AF
+   Al-Kassimi, F
+   Al-Zahrani, K
+   Al-Shimemeri, A
+   Al-Damegh, S
+   Al-Amoudi, O
+   Al-Eithan, S
+   Al-Ghamdi, B
+   Gamal-Eldin, M
+AF Mobeireek, A. F.
+   Al-Kassimi, F.
+   Al-Zahrani, K.
+   Al-Shimemeri, A.
+   al-Damegh, S.
+   Al-Amoudi, O.
+   Al-Eithan, S.
+   Al-Ghamdi, B.
+   Gamal-Eldin, M.
+TI Information disclosure and decision-making: the Middle East versus the
+   Far East and the West
+SO JOURNAL OF MEDICAL ETHICS
+LA English
+DT Article
+ID END-OF-LIFE; PHYSICIANS ATTITUDES; PATIENT; AUTONOMY; DOCTORS; CARE
+AB Objectives: to assess physicians' and patients' views in Saudi Arabia (KSA) towards involving the patient versus the family in the process of diagnosis disclosure and decision-making, and to compare them with views from the USA and Japan.
+   Design: A self-completion questionnaire (used previously to study these issues in Japan and the USA) was translated to Arabic and validated.
+   Participants: Physicians (n = 321) from different specialties and ranks and patients (n = 264) in a hospital or attending outpatient clinics from 6 different regions in KSA.
+   Results: In the case of a patient with incurable cancer, 67% of doctors and 51% of patients indicated that they would inform the patient in preference to the family of the diagnosis (p = 0.001). Assuming the family already knew, 56% of doctors and 49% of patients would tell the patient even if family objected (p NS). However, in the case of HIV infection, 59% of physicians and 81% of patients would inform the family about HIV status without the patient's consent (p = 0.001). With regards to withholding ventilatory support, about 50% of doctors and over 60% of patients supported the use of mechanical ventilation in a patient with advanced cancer, regardless of the wishes of the patient or the family. Finally, the majority of doctors and patients (>85%) were against assisted suicide.
+   Conclusions: Although there was more recognition for a patient's autonomy amongst physicians, most patients preferred a family centred model of care. Views towards information disclosure were midway between those of the USA and Japan. Distinctively, however, decisions regarding life prolonging therapy and assisted suicide were not influenced to a great extent by wishes of the patient or family, but more likely by religious beliefs.
+C1 [Mobeireek, A. F.] King Saud Univ, King Faisal Specialist Hosp & Res Ctr, Dept Med, Riyadh, Saudi Arabia.
+   [Al-Kassimi, F.] King Saud Univ, Coll Med, Dept Med, Riyadh 11461, Saudi Arabia.
+   [Al-Zahrani, K.] Taiba Univ, Al Madinah, Saudi Arabia.
+   [Al-Shimemeri, A.] King Abdul Aziz Med City, Riyadh, Saudi Arabia.
+   [al-Damegh, S.] King Saud Univ, Qaseem, Saudi Arabia.
+   [Al-Amoudi, O.] King Abdulaziz Univ, Jeddah 21413, Saudi Arabia.
+   [Al-Eithan, S.] Dammam Cent Hosp, Dammam, Saudi Arabia.
+   [Al-Ghamdi, B.] King Khalid Univ, Abha, Saudi Arabia.
+   [Gamal-Eldin, M.] King Saud Univ, Dept Biostat, King Faisal Specialist Hosp & Res Ctr, Riyadh, Saudi Arabia.
+C3 King Saud University; King Faisal Specialist Hospital & Research Center;
+   King Saud University; Taibah University; King Saud University; King
+   Abdulaziz University; Dammam Central Hospital; King Khalid University;
+   King Saud University; King Faisal Specialist Hospital & Research Center
+RP Mobeireek, AF (corresponding author), POB 3354,MBC 46, Riyadh 11211, Saudi Arabia.
+EM mobeireeK@yahoo.com
+RI AlGhamdi, Badr/AAM-4037-2020
+OI AlGhamdi, Badr/0000-0002-8052-3113
+NR 29
+TC 71
+Z9 78
+U1 1
+U2 13
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0306-6800
+EI 1473-4257
+J9 J MED ETHICS
+JI J. Med. Ethics
+PD JUL 1
+PY 2008
+VL 34
+IS 4
+BP 225
+EP 229
+DI 10.1136/jme.2006.019638
+PG 5
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA 280YD
+UT WOS:000254461800002
+PM 18375670
+DA 2023-12-06
+ER
+
+PT J
+AU Odabasi, AB
+   Büken, NO
+AF Odabasi, Aysun Balseven
+   Buken, Nuket Ornek
+TI Informed Consent and Ethical Decision Making in the End of Life:
+   Hacettepe Example
+SO TURKIYE KLINIKLERI TIP BILIMLERI DERGISI
+LA Turkish
+DT Article
+DE Informed consent; decision making; personal autonomy; suicide, assisted;
+   life support care; physician-patient relations
+ID CARE; COMMUNICATION; AUTONOMY
+AB Objective: End-of-life decisions are among the most difficult to make or study in our country. This study compares the attitudes toward ethical decision making in the end of life and autonomy issues among academic physicians and patients of Hacettepe University Hospital outpatient clinics in Hacettepe. Our aim was to assess the opinions of physicians and patients involving the patient versus the family in the process of diagnosis disclosure and decision-making in end of life process. Material and Methods: A questionnaire, previously developed collaboratively to compare the attitudes of US, Japanese and Saudi Arabia physicians and patients, was used as the study instrument. It was translated to Turkish and was validated on a group of doctors and patients before research. Data were analyzed using SPSS V.11.5. Results: Most of physicians and patients agreed that a patient should be informed of an incurable cancer diagnosis before their family was informed. In the case of a patient with incurable cancer, 67.6% of doctors and 85.3% of patients indicated that they would rather inform the patient of the diagnosis than the family. The majority of doctors and patients were against physician-assisted suicide. Physicians and patients in Hacettepe example relied more on family and physician authority and placed less emphasis on patient autonomy. Conclusion: Family and physician opinions are accorded a larger role in clinical decision making by the physicians and patients in our university hospital. The results emphasize the need for clinicians to be aware of those issues that may affect patient and family responses potentially affecting patient satisfaction.
+C1 [Odabasi, Aysun Balseven] Hacettepe Univ, Tip Fak, Adli Tip AD, Ankara, Turkey.
+   [Buken, Nuket Ornek] Hacettepe Univ, Tip Fak, Tip Etigi AO, Ankara, Turkey.
+C3 Hacettepe University; Hacettepe University
+RP Odabasi, AB (corresponding author), Hacettepe Univ, Tip Fak, Adli Tip AD, Ankara, Turkey.
+EM balseven@hacettepe.edu.tr
+RI BUKEN, NUKET/I-8376-2013; Büken, Nüket/K-4327-2019
+OI BUKEN, NUKET/0000-0001-9166-6569; Büken, Nüket/0000-0001-9166-6569
+NR 20
+TC 6
+Z9 6
+U1 1
+U2 4
+PU ORTADOGU AD PRES & PUBL CO
+PI ANKARA
+PA TURKOCAGI CAD NO 30, BALGAT, ANKARA, 06520, TURKEY
+SN 1300-0292
+EI 2146-9040
+J9 TURK KLIN TIP BILIM
+JI Turk. Klin. Tip Bilim. Derg.
+PD OCT
+PY 2009
+VL 29
+IS 5
+BP 1041
+EP +
+PG 14
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 531GF
+UT WOS:000272651300001
+DA 2023-12-06
+ER
+
+PT J
+AU Yilmaz, S
+AF Yilmaz, Sema
+TI An Empirical Research on the Relationship Between 'Umra Worship and
+   Meaning in Life and Hopelessness
+SO CUMHURIYET ILAHIYAT DERGISI-CUMHURIYET THEOLOGY JOURNAL
+LA Turkish
+DT Article
+DE Psychology of Religion; Psychology of Worship/Religious Rituals; 'Umra
+   Worship; Meaning in Life; Hopelessness
+ID SUICIDE
+AB One of the important areas of study of religious psychology is to examine the reflection of worship in the spiritual life of individuals in the context of worship psychology. In this field survey, the relations between the level of meaning in life and hopelessness of individuals who performed the. Umra worship are examined. The study is conducted with 214 Turkish participants who performed. umra in Saudi Arabia. The collected data is analyzed by questionnaire technique. "Personal Information Form", "Meaning in Life Questionnaire (MLQ)" and "Beck Hopelessness Scale" are used as data collection tools. The obtained data is analyzed in the SPSS 23.0 statistical program. One Sample t-Test, Pearson Moments Multiplication Correlation Analysis, Independent Sampling t-Test, One Way ANOVA and Tukey HSD tests are used to analyse the data. It is found that the research group's level of meaning in life above average; the level of hopelessness is below average significantly. There is a significant negative correlation between meaning in life and hopelessness, feelings about the future, loss of motivation, expectation about the future. There is a significant positive correlation between searched meaning and hopelessness and loss of motivation.
+C1 [Yilmaz, Sema] Sivas Cumhuriyet Univ, Fac Theol, Dept Psychol Relig, Sivas, Turkey.
+C3 Cumhuriyet University
+RP Yilmaz, S (corresponding author), Sivas Cumhuriyet Univ, Fac Theol, Dept Psychol Relig, Sivas, Turkey.
+EM semayilmaz@cumhuriyet.edu.tr
+RI YILMAZ, SEMA/HTP-6798-2023
+NR 64
+TC 2
+Z9 2
+U1 0
+U2 1
+PU CUMHURIYET UNIV, FAC THEOLOGY
+PI SIVAS
+PA CAMPUS, SIVAS, 58140, TURKEY
+SN 2528-9861
+EI 2528-987X
+J9 CUMHUR ILAH DERG
+JI Cumhur. Ilah. Derg.
+PD JUN
+PY 2018
+VL 22
+IS 1
+BP 543
+EP 570
+DI 10.18505/cuid.417623
+PG 28
+WC Religion
+WE Emerging Sources Citation Index (ESCI)
+SC Religion
+GA GJ6NY
+UT WOS:000435502100022
+OA gold, Green Submitted, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Panjeshahin, MR
+   Lari, AR
+   Talei, AR
+   Shamsnia, J
+   Alaghehbandan, R
+AF Panjeshahin, MR
+   Lari, AR
+   Talei, AR
+   Shamsnia, J
+   Alaghehbandan, R
+TI Epidemiology and mortality of burns in the South West of Iran
+SO BURNS
+LA English
+DT Article
+DE burns; epidemiology; mortality
+ID SELF-INFLICTED BURNS; SAUDI-ARABIA; IMMOLATION DEATHS; THERMAL-INJURIES;
+   CHILDHOOD BURNS; PEDIATRIC BURNS; JEDDAH AREA; SUICIDE; UNIT; PREVENTION
+AB Burn injuries still produce a significant morbidity and mortality in Iran. This study was carried out to analyze the epidemioloy, mortality, and current etiological factors of 2043 burn patients who were admitted to the burn centers in the Fars province during 4 years (1994-1998). There were two burn centers in the Fars province serving 3 817 036 people over an area of 124 000 km(2). The overall incidence rates of hospitalization and death were 13.3 and 4.6 per 100 000 person-years. The mean age was 21.9 years, and 51% of patients were children under 19-years-old. The highest rates of hospitalization and death were observed in the elderly (80 years). Also young females (20-29 years) had a high rate of hospitalization. Thus, 55% of the patients had BBS less than 40%. Burn injuries were more frequent and larger with higher mortality in females than in males (P <0.0001). There was also statistically significant correlation between age groups, gender, and BBS with mortality rate (P < 0.0001). Flame was the most common etiology of burns. There was also significant correlation between age groups and type of burns (P < 0.0001). Suicide attempts for all the patients greater than or equal to 11 years were the cause of 41.3% (256/620) of the burns involving women and of 10.3% (40/388) of the burns involving men. The overall case fatality rate was 34.4%. The mortality rate was significantly higher for self-inflicted burns (78%) than for accidental burns (26.7%). Most of the lesions requiring hospital admission occurred during the winter months. Factors associated with an increase in mortality were suicidal burns, burn size, age, and flame burns. Most of the burn injuries were caused by domestic accidents and were, therefore, preventable. (C) 2001 Elsevier Science Ltd and ISBI. All rights reserved.
+C1 Iran Univ Med Sci, Dept Microbiol & Immunol, Tehran, Iran.
+C3 Iran University of Medical Sciences
+RP Lari, AR (corresponding author), Iran Univ Med Sci, Dept Microbiol & Immunol, POB 14515-717, Tehran, Iran.
+OI Alaghehbandan, Reza/0000-0002-6708-5032
+NR 77
+TC 132
+Z9 138
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-4179
+J9 BURNS
+JI Burns
+PD MAY
+PY 2001
+VL 27
+IS 3
+BP 219
+EP 226
+DI 10.1016/S0305-4179(00)00106-6
+PG 8
+WC Critical Care Medicine; Dermatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Dermatology; Surgery
+GA 425ZW
+UT WOS:000168325400003
+PM 11311514
+DA 2023-12-06
+ER
+
+PT J
+AU Saffari, M
+   Pakpour, AH
+   Mortazavi, SF
+   Koenig, HG
+AF Saffari, Mohsen
+   Pakpour, Amir H.
+   Mortazavi, Seyed Fattah
+   Koenig, Harold G.
+TI Psychometric characteristics of the Muslim Religiosity Scale in Iranian
+   patients with cancer
+SO PALLIATIVE & SUPPORTIVE CARE
+LA English
+DT Article
+DE Religiosity; Cancer; Muslim; Psychometric assessment
+ID QUALITY-OF-LIFE; HEMODIALYSIS-PATIENTS; DIALYSIS PATIENTS; SOCIAL
+   SUPPORT; SAUDI-ARABIA; INDEX DUREL; HEALTH; SPIRITUALITY; QUESTIONNAIRE;
+   RELIABILITY
+AB Objective: Cancer is a leading cause of death worldwide. Religiosity is a factor that may help cancer patients to cope with their disease. The aim of the current study was to validate a Persian translation of the Muslim Religiosity Scale (MRS) in a population of Iranian patients with cancer.
+   Method: Two thousand patients were invited to participate in this multisite study, of whom 1,879 participated. Patients completed a demographic questionnaire, the MRS, and several scales, including the Patient Health Questionnaire-9, the Hospital Anxiety and Depression Scale, the Perceived Social Support Scale, and the SF-12 quality of life measure. Backward-forward translation was employed to develop a Persian-language version of the MRS. Cronbach's alpha and two-week test-retest reliability were also assessed. Convergent and discriminative validity as well as the factor structure of the scale were also examined.
+   Results: The internal reliability (a) of the religious practices and beliefs subscales was 0.88 and 0.92, respectively. The intraclass correlation coefficient (ICC) was 0.92 (range = 0.75-1.0). The scale demonstrated solid convergent and discriminative validity. Factor analysis indicated two main factors, as predicted, with an appropriate goodness of fit (chi(2) = 76.23, RMSEA = 0.065). Such factors as marital status, quality of life, social support, and self-efficacy were positively associated with MRS total score, while anxiety, depression, and suicide ideation had negative associations.
+   Significance of results: The MRS is a useful tool for assessing religiosity in Iranian patients with cancer and is associated with a number of important health outcomes.
+C1 [Saffari, Mohsen] Baqiyatallah Univ Med Sci, Hlth Res Ctr, Tehran, Iran.
+   [Saffari, Mohsen] Baqiyatallah Univ Med Sci, Sch Hlth, Dept Hlth Educ, Tehran, Iran.
+   [Pakpour, Amir H.] Qazvin Univ Med Sci, Social Determinants Hlth Res Ctr, Qazvin, Iran.
+   [Mortazavi, Seyed Fattah] Qazvin Univ Med Sci, Dept Islamic Studies, Qazvin, Iran.
+   [Koenig, Harold G.] Duke Univ, Med Ctr, Dept Psychiat & Behav Sci, Durham, NC USA.
+   [Koenig, Harold G.] King Abdulaziz Univ, Dept Med, Jeddah, Saudi Arabia.
+C3 Baqiyatallah University of Medical Sciences (BMSU); Baqiyatallah
+   University of Medical Sciences (BMSU); Qazvin University of Medical
+   Sciences (QUMS); Qazvin University of Medical Sciences (QUMS); Duke
+   University; King Abdulaziz University
+RP Pakpour, AH (corresponding author), Qazvin Univ Med Sci, Social Determinants Hlth Res Ctr, Qazvin, Iran.
+EM pakpour_amir@yahoo.com
+RI Pakpour, Amir/C-6160-2014; Saffari, Mohsen/ABE-4594-2021
+OI Pakpour, Amir/0000-0002-8798-5345; Saffari, Mohsen/0000-0001-7590-9516
+FU Qazvin University of Medical Sciences
+FX This study was supported by Qazvin University of Medical Sciences. The
+   authors would like to thank all the people who helped us with the data
+   collection, especially the staff of the Cancer Prevention Deputy in the
+   Iranian Ministry of Health.
+NR 41
+TC 8
+Z9 8
+U1 0
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1478-9515
+EI 1478-9523
+J9 PALLIAT SUPPORT CARE
+JI Palliat. Support Care
+PD DEC
+PY 2016
+VL 14
+IS 6
+BP 612
+EP 620
+DI 10.1017/S1478951516000237
+PG 9
+WC Health Policy & Services
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services
+GA EJ4IX
+UT WOS:000393181400003
+PM 27094931
+DA 2023-12-06
+ER
+
+PT C
+AU Alqahtani, A
+AF Alqahtani, Abdulrahman
+BE Hart, D
+TI The Potential Threat of Cyber-Terrorism on National Security of Saudi
+   Arabia
+SO PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON INFORMATION WARFARE
+   AND SECURITY (ICIW-2013)
+LA English
+DT Proceedings Paper
+CT 8th International Conference on Information Warfare and Security (ICIW)
+CY MAR 25-26, 2013
+CL Regis Univ, Denver, CO
+HO Regis Univ
+DE terrorism; cyber-terrorism; national security; Saudi Arabia
+ID CYBERTERRORISM
+AB Throughout history, there have been many events and dangers that threaten state security, causing heavy loss of life, disease, injuries, destruction of property, displacement of large numbers of people and heavy economic losses. Political unrest on international and local levels and recent technological developments increase the seriousness of threats against national security. The concept of security has evolved gradually, especially since the disintegration of the Soviet Union, and end of the Cold War. The lingering impact of the policy of the bipolar world has blurred the image of relations between states. However, it provides an opportunity to understand and identify new threats and emerging conflicts, in addition to many unsolved problems. Simultaneously, globalisation has changed international rules and norms, in order to facilitate the rapid flow of capital and technology, with a weakening of national barriers. Non-governmental actors now play key roles in international politics, some as a threat, and others bridging the gap between communities and nations. In these circumstances, the role of the state began to suffer and the accepted traditional concept of power was challenged. Today, a major issue of such concern worldwide, arousing heated debate at both national and international levels, is terrorism. The threat of terrorism has never been as prominent as it seems to be at the present time. Terrorism is an old phenomenon that has existed since the emergence of human societies, but the threat of terrorism has increased steadily over the past 30 years. With technological and technical progress, the actions of terrorists have become more dangerous and destructive, while the perpetrators of such acts are becoming more elusive. There are few parts of the world that have escaped terrorism since late 1960s (Mythen and Walklate 2006). The phenomenon of terrorism is changing, while the motives of terrorism remain the same. The world today faces new and unfamiliar kinds of weapons. The international system, intelligence systems, security procedures and tactics which are expected to protect people, nations and governments, are not able to meet this new and devastating enemy. The methods and strategies developed to combat terrorism over the years are providing ineffective, as the enemy no longer attacks only with hijacked plans, truck bombs or suicide bombers. Terrorists may engage in cyber-terrorism, the use of cyberspace to launch attacks. The integration of the virtual and physical worlds, is a weakness confronting security agents (Collin 1996). This paper outlines a PhD proposal, which seeks to design an effective framework for the potential threat of cyber-terrorism on national security, compared with conventional terrorism by addressing three main themes: awareness - vulnerabilities - response, important in assessment of any security threat. According to Denning (2000) to understand the potential threat of cyber-terrorism, we should consider two factors: first, whether there are targets that are vulnerable to attack, and, secondly, whether actors have the ability and motivation to attack them. In this proposal a preliminary review of relevant literature will be introduced, followed by the research questions to be addressed and the proposed methods to address them. Then the expected time frame will be considered.
+C1 Univ Hull, Dept Polit & Int Studies, Kingston Upon Hull HU6 7RX, N Humberside, England.
+C3 University of Hull
+RP Alqahtani, A (corresponding author), Univ Hull, Dept Polit & Int Studies, Kingston Upon Hull HU6 7RX, N Humberside, England.
+EM qahtaniasa@hotmail.com
+RI Alqahtani, Abdulrahman/R-7755-2019
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 10
+PU ACAD  CONFERENCES LTD
+PI NR READING
+PA CURTIS FARM, KIDMORE END, NR READING, RG4 9AY, ENGLAND
+BN 978-1-909507-11-1
+PY 2013
+BP 231
+EP 239
+PG 9
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BFY83
+UT WOS:000321919600030
+DA 2023-12-06
+ER
+
+EF

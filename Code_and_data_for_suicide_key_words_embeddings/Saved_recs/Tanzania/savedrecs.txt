@@ -1,0 +1,892 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shayo, FK
+   Lawala, PS
+AF Shayo, Festo K.
+   Lawala, Paul S.
+TI Does bullying predict suicidal behaviors among in-school adolescents? A
+   cross-sectional finding from Tanzania as an example of a low-income
+   country
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Adolescents; School bullying; Suicide behaviors; Tanzania; Low-income
+   country
+ID MORTALITY; IDEATION; YOUTH
+AB Background: Bullying and suicidal behaviors are a silent public health problem among adolescents. Little is known about the link between bullying and suicidal behaviors in low-income countries such as Tanzania. In the current study, we estimated the prevalence of being bullied and determined its association with suicidal behaviors among in-school adolescents.
+   Methods: We performed a secondary analysis of the Tanzania Global School-based Student Health Survey (GSHS) conducted in 2014. This was the first nationally representative survey conducted to a sample of 3793 in-school adolescents. The primary independent variable was being bullied, while the outcome variables of interest were suicide ideation and suicide attempt. We used a chi-square chi(2) test for group variables comparisons and multivariate logistic regression for statistical associations between independent and outcome variables. In our analysis, a p < 0.05 was considered statistically significant at 95% confidence intervals.
+   Results: The prevalence of being bullied among 3793 surveyed in-school adolescents was 27.0%. In an adjusted multivariate regression model, being bullied was independently associated with suicidal ideation and suicide attempt: [AOR; 1.9, 95% C.I; 1.5-2.4], and [AOR; 3.6, 95% C.I; 2.9-4.5] respectively, p < 0.001.
+   Conclusions: Bullying is prevalent and possibly a potential predictor of suicidal behaviors among in-school adolescents in Tanzania. There is a need for all educational stakeholders: teachers, parents, students, mental health professionals, and policymakers to design a program for mitigating the problem of bullying in schools.
+C1 [Shayo, Festo K.] Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65001, Dar Es Salaam, Tanzania.
+   [Lawala, Paul S.] Mbeya Zonal Referral Hosp, Dept Psychiat & Mental Hlth, POB 419, Mbeya, Tanzania.
+   [Shayo, Festo K.] Tokyo Med & Dent Univ, Dept Global Hlth Entrepreneurship, Div Publ Hlth, Grad Sch,Bunkyo Ku, 1-5-45 Yushima, Tokyo 1138510, Japan.
+C3 Muhimbili University of Health & Allied Sciences; Tokyo Medical & Dental
+   University (TMDU)
+RP Shayo, FK (corresponding author), Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65001, Dar Es Salaam, Tanzania.; Shayo, FK (corresponding author), Tokyo Med & Dent Univ, Dept Global Hlth Entrepreneurship, Div Publ Hlth, Grad Sch,Bunkyo Ku, 1-5-45 Yushima, Tokyo 1138510, Japan.
+EM festocasmir@gmail.com
+NR 24
+TC 10
+Z9 10
+U1 1
+U2 10
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD DEC 16
+PY 2019
+VL 19
+IS 1
+AR 400
+DI 10.1186/s12888-019-2402-2
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA KJ3GT
+UT WOS:000511945900004
+PM 31842830
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Devries, K
+   Watts, C
+   Yoshihama, M
+   Kiss, L
+   Schraiber, LB
+   Deyessa, N
+   Heise, L
+   Durand, J
+   Mbwambo, J
+   Jansen, H
+   Berhane, Y
+   Ellsberg, M
+   Garcia-Moreno, C
+AF Devries, Karen
+   Watts, Charlotte
+   Yoshihama, Mieko
+   Kiss, Ligia
+   Schraiber, Lilia Blima
+   Deyessa, Negussie
+   Heise, Lori
+   Durand, Julia
+   Mbwambo, Jessie
+   Jansen, Henrica
+   Berhane, Yemane
+   Ellsberg, Mary
+   Garcia-Moreno, Claudia
+CA WHO Multicountry Study Team
+TI Violence against women is strongly associated with suicide attempts:
+   Evidence from the WHO multi-country study on women's health and domestic
+   violence against women
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Intimate partner violence; Sexual violence; Childhood sexual abuse;
+   Suicidal behaviour; Women; Gender; Developing countries
+ID INTIMATE-PARTNER VIOLENCE; MENTAL-HEALTH; RISK-FACTORS; PREVALENCE;
+   IDEATION; ABUSE; PREVENTION; COMMUNITY; OUTCOMES; COHORT
+AB Suicidal behaviours are one of the most important contributors to the global burden of disease among women, but little is known about prevalence and modifiable risk factors in low and middle income countries. We use data from the WHO multi-country study on women's health and domestic violence against women to examine the prevalence of suicidal thoughts and attempts, and relationships between suicide attempts and mental health status, child sexual abuse, partner violence and other variables. Population representative cross-sectional household surveys were conducted from 2000-2003 in 13 provincial (more rural) and city (urban) sites in Brazil, Ethiopia, japan, Namibia, Peru, Samoa, Serbia, Thailand and Tanzania. 20967 women aged 15-49 years participated. Prevalence of lifetime suicide attempts, lifetime suicidal thoughts, and suicidal thoughts in the past four weeks were calculated, and multivariate logistic regression models were fit to examine factors associated with suicide attempts in each site. Prevalence of lifetime suicide attempts ranged from 0.8% (Tanzania) to 12.0% (Peru city): lifetime thoughts of suicide from 7.2% (Tanzania province) to 29.0% (Peru province), and thoughts in the past four weeks from 1.9% (Serbia) to 13.6% (Peru province). 25-50% of women with suicidal thoughts in the past four weeks had also visited a health worker in that time. The most consistent risk factors for suicide attempts after adjusting for probable common mental health disorders were: intimate partner violence, non-partner physical violence, ever being divorced, separated or widowed, childhood sexual abuse and having a mother who had experienced intimate partner violence. Mental health policies and services must recognise the consistent relationship between violence and suicidality in women in low and middle income countries. Training health sector workers to recognize and respond to the consequences of violence may substantially reduce the health burden associated with suicidal behaviour. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Devries, Karen; Watts, Charlotte; Kiss, Ligia; Heise, Lori] London Sch Hyg & Trop Med, London WC1H 0DP, England.
+   [Yoshihama, Mieko] Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+   [Schraiber, Lilia Blima; Durand, Julia] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+   [Deyessa, Negussie; Berhane, Yemane] Addis Abbaba Univ, Addis Ababa, Ethiopia.
+   [Jansen, Henrica; Garcia-Moreno, Claudia] World Hlth Org, Geneva, Switzerland.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Michigan System; University of Michigan; Universidade de
+   Sao Paulo; Addis Ababa University; World Health Organization
+RP Devries, K (corresponding author), London Sch Hyg & Trop Med, 36 Gordon Sq, London WC1H 0DP, England.
+EM karen.devries@lshtm.ac.uk
+RI Schraiber, Lilia B/B-5708-2014; Berhane, Yemane/ABB-8154-2020; Heise,
+   LORI/AAI-6251-2020; Devries, Karen/K-1083-2016
+OI Devries, Karen/0000-0001-8935-2181; Berhane, Yemane/0000-0002-2527-1339;
+   Jansen, Henrica A.F.M./0009-0005-3691-049X; Kiss,
+   Ligia/0000-0002-3334-7110; Naved, Ruchira/0000-0002-0363-5648
+NR 61
+TC 343
+Z9 378
+U1 3
+U2 144
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2011
+VL 73
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.socscimed.2011.05.006
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 799DK
+UT WOS:000293263500010
+PM 21676510
+DA 2023-12-06
+ER
+
+PT J
+AU Nalkur, PG
+AF Nalkur, Priya G.
+TI Adolescent Hopefulness in Tanzania Street Youth, Former Street Youth,
+   and School Youth
+SO JOURNAL OF ADOLESCENT RESEARCH
+LA English
+DT Article
+DE hope; street youth; qualitative; Tanzania; sentence completion
+ID HOPE; FUTURE; SIMILARITIES; ORIENTATION; CONSTRUCT; CHILDREN; SUICIDE;
+   ISRAELI; FRIENDS; THREAT
+AB This study compares hope in street youth, former street youth, and school youth (aged 12-18) in Tanzania. Responding to Snyder's hope theory, the author argues that not only personal agency but also the stability of living context (street, shelter, home) shapes hopefulness. Employing qualitative and quantitative analyses, the author presents a framework that shows considerable differences by youth group in hope conceptualizations. Youth in unstable environments avoid hope to circumvent failure and instead attribute success to luck and other external factors, whereas youth in steadier environments rely on internal resources, seeing themselves as critical agents in engendering hopefulness. Taking youths' differing living contexts into account, the author proposes a contextual model of hope that consists of "hope instruments," "hope outcomes," and "pathways to hopefulness."
+C1 Univ Penn, Adolescent Risk Commun Inst, Annenberg Publ Policy Ctr, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania
+RP Nalkur, PG (corresponding author), Univ Penn, Adolescent Risk Commun Inst, Annenberg Publ Policy Ctr, 202 S 36th St,306, Philadelphia, PA 19104 USA.
+EM priya_nalkur@post.harvard.edu
+NR 38
+TC 16
+Z9 16
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0743-5584
+J9 J ADOLESCENT RES
+JI J. Adolesc. Res.
+PD NOV
+PY 2009
+VL 24
+IS 6
+BP 668
+EP 690
+DI 10.1177/0743558409350501
+PG 23
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 509FM
+UT WOS:000271000100002
+DA 2023-12-06
+ER
+
+PT J
+AU Shayo, FK
+AF Shayo, Festo K.
+TI Co-occurrence of risk factors for non communicable diseases among
+   in-school adolescents in Tanzania: an example of a low-income setting of
+   sub-Saharan Africa for adolescence health policy actions
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Co-occurrence; Risk factors; Non-communicable diseases; In-school
+   adolescents; Tanzania; Sub-Saharan Africa
+ID PHYSICAL-ACTIVITY; LIFE-STYLE; BEHAVIORS; PREVALENCE; CHILDREN; SUICIDE;
+   ALCOHOL; SMOKING
+AB BACKGROUND:Childhood lifestyle, health-risk behaviours contribute to two-thirds of non-communicable diseases (NCDs) premature mortality in adult populations. The co-occurrence of risk factors for NCDs is more harmful to health than that of individual risk factor effects when are added independently. The main objective of the present study was to explore the prevalence, sociodemographic distribution, and the co-occurrence of risk factors for NCDs among in-school adolescents.
+   METHODS:The present study is based on the secondary analysis of the first nationwide representative sample of the 2014 Tanzania Global School-based Student Health Survey (GSHS). A total sample of 3,793 in-school adolescents was included in the present analysis. The dependent variables were as follows: an unhealthy diet, physical inactivity, tobacco use, excessive alcohol use, and suicide attempt. The analysis involved the chi(2) test, multinomial and multivariate regression models: to determine the association between the variables of interest. In all analyses, the set level of statistical significance was a p-value of less than 0.05 at 95% confidence intervals.
+   RESULTS:The most prevalent combination of risk factors for NCDs were as follows: unhealthy diet and physical inactivity 666 (17.6%); unhealthy diet and suicide attempt 151 (4.0); unhealthy diet and tobacco use 98 (2.8); and unhealthy diet, physical inactivity, and suicide attempt 81 (2.1). In the adjusted regression model; having three 0.60 [0.40-0.91], and a sum of four and five 0.46 [0.28-0.79] risk factors than having no risk factor showed a significant declined with increasing in adolescents age. Primary in-school adolescents than secondary in-school adolescents were significantly more likely to have two 1.81 [1.42-2.32], three 2.40 [1.63-3.54]; and a sum of four and five 2.90 [1.61-5.13] combinations of risk factors.
+   CONCLUSION:The co-occurrence of lifestyle health-risk factors for NCDs was prevalent among in-school adolescents: it was significantly higher among younger adolescents. A multi-strategy public health intervention program may be more effective than that of a single risk factor approach: therefore, suitable for resource-limited settings, such as Tanzania.
+C1 [Shayo, Festo K.] Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65000, Dar Es Salaam, Tanzania.
+   [Shayo, Festo K.] Tokyo Med & Dent Univ, Grad Sch, Div Publ Hlth, Dept Global Hlth Entrepreneurship, Tokyo, Japan.
+C3 Muhimbili University of Health & Allied Sciences; Tokyo Medical & Dental
+   University (TMDU)
+RP Shayo, FK (corresponding author), Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65000, Dar Es Salaam, Tanzania.; Shayo, FK (corresponding author), Tokyo Med & Dent Univ, Grad Sch, Div Publ Hlth, Dept Global Hlth Entrepreneurship, Tokyo, Japan.
+EM festocasmir@gmail.com
+NR 43
+TC 21
+Z9 22
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 22
+PY 2019
+VL 19
+IS 1
+AR 972
+DI 10.1186/s12889-019-7320-1
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA IV5HO
+UT WOS:000484302000003
+PM 31331303
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Lekei, E
+   Ngowi, AV
+   London, L
+AF Lekei, Elikana
+   Ngowi, Aiwerasia V.
+   London, Leslie
+TI Hospital-based surveillance for acute pesticide poisoning caused by
+   neurotoxic and other pesticides in Tanzania
+SO NEUROTOXICOLOGY
+LA English
+DT Article
+DE Hospital; Surveillance; Pesticide; Poisoning; Tanzania
+ID DEVELOPING-COUNTRIES; DEVELOPING-WORLD; SUICIDE; EXPOSURE; WORKERS;
+   CLASSIFICATION; CHILDREN; USAGE
+AB Background and aim: Acute pesticide poisoning (APP), particularly with neurotoxic agents, is often under-reported in developing countries. This study aimed to estimate the burden of APP in Tanzania due to neurotoxic and other pesticides in order to propose a surveillance system.
+   Methods: The study reviewed hospital admission data for APP retrospectively (2000-2005) in 30 facilities in four regions of Tanzania. A prospective follow-up over 12 months in 2006 focused on 10 facilities with the highest reporting of APP.
+   Results: The majority of known poisoning agents were organophosphates or WHO class I and II pesticides. APP involving suicide was significantly more likely to be fatal in both retrospective (PRR fatal/non-fatal = 3.8; 95% CI = 1.8-8.0) and in prospective (PRR = 8.7; 95% CI = 1.1-65) studies. There was a significant association between suicide and gender (PRR female/male = 1.5; 95% CI = 1.1-2.0) in the prospective study. Occupational circumstances as a cause of APP, which was relatively small in both studies (8.5% in the retrospective and 10.2% in the prospective study) was less common amongst men compared to women (6.1% for males versus 12.0% for females) in the retrospective study but almost equal in prospective study (10.2% for males versus 10.1% for females). Contrasting retrospective to prospective studies, the annual incidence rate almost tripled (from 1.43 to 4.05 per 100,000) and mortality rate doubled (from 0.11 to 0.22 per 100,000). Case fatality declined accordingly from 7.8% to 5.6% in prospective study. The study revealed a substantial improvement in the completeness of data with prospective data collection. Missing data for circumstances and agents declined by 24.1% and 9.9%, respectively. Despite this improvement, routine reporting could only generate 33-50% of the information needed for a notification of banned or severely restricted chemicals under the Prior Informed Consent (PIC) convention.
+   Conclusion: The two to threefold increase in rates with prospective data collection suggests significant under-reporting of APP by neurotoxic and other pesticides. Routine reporting is likely to under-estimate the burden from pesticides, particularly for women in occupational settings. The burden of APP and the specific pesticides causing serious problems in Tanzania would continue to be missed without improved surveillance systems. (C) 2014 Elsevier Inc. All rights reserved.
+C1 [Lekei, Elikana] Trop Pesticides Res Inst, Arusha, Tanzania.
+   [Ngowi, Aiwerasia V.] MUHAS, Sch Publ Hlth & Social Sci, Dept Environm & Occupat Hlth, Dar Es Salaam, Tanzania.
+   [London, Leslie] Fac Hlth Sci, Sch Publ Hlth & Family Med, ZA-7925 Observatory, South Africa.
+C3 Muhimbili University of Health & Allied Sciences
+RP Lekei, E (corresponding author), Trop Pesticides Res Inst, POB 3024, Arusha, Tanzania.
+EM elekei98@gmail.com; vngowi@muhas.ac.tz; leslie.london@uct.ac.za
+FU National Research Foundation of South Africa [FA2005040800007]; Fogarty
+   International Center of the National Institutes of Health [R21
+   TW006515-01]; Swedish International Development Aid (SIDA)
+FX We wish to acknowledge the National Research Foundation of South Africa
+   (Grant Number FA2005040800007), the Fogarty International Center of the
+   National Institutes of Health (Health, Environment and Economic
+   Development programme; Grant Number R21 TW006515-01), and the Work and
+   Health in Southern Africa (WAHSA) programme funded by Swedish
+   International Development Aid (SIDA), who supported this work
+   financially. We also acknowledge TPRI of Tanzania and UCT of South
+   Africa for active coordination of this study. We further acknowledge the
+   Fogarty International Center for supporting the participation of the
+   first author in presenting this work at the12th International Symposium
+   on Neurobehavioral Methods and Effects in Occupational and Environmental
+   Health in Cape Town, March 2013. We finally wish to acknowledge Mr. Rauf
+   Sayed, the biostatistician, School of Public Health and Family Medicine,
+   UCT for consultation in statistical data analysis.
+NR 56
+TC 16
+Z9 16
+U1 0
+U2 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0161-813X
+EI 1872-9711
+J9 NEUROTOXICOLOGY
+JI Neurotoxicology
+PD DEC
+PY 2014
+VL 45
+BP 318
+EP 326
+DI 10.1016/j.neuro.2014.02.007
+PG 9
+WC Neurosciences; Pharmacology & Pharmacy; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Toxicology
+GA AX5GQ
+UT WOS:000346955100040
+PM 24594208
+DA 2023-12-06
+ER
+
+PT J
+AU Seff, I
+   Stark, L
+AF Seff, Ilana
+   Stark, Lindsay
+TI A sex-disaggregated analysis of how emotional violence relates to
+   suicide ideation in low- and middle-income countries
+SO CHILD ABUSE & NEGLECT
+LA English
+DT Article
+DE Emotional violence; Violence against children; LMICs; Adolescents;
+   Suicide
+ID CHILD MALTREATMENT; GENDER DIFFERENCES; MENTAL-HEALTH; ADOLESCENCE;
+   BEHAVIOR; RISK; DEPRIVATION; PARADOX; IMPACT; ABUSE
+AB Background: In recent years, research has increasingly focused on examining the relationship between one type of child maltreatment emotional violence and suicidal behaviors. However, the growing body of empirical evidence supporting these associations has been mostly limited to high-income contexts.
+   Objective: This study examines how exposure to emotional violence is associated with suicide ideation in childhood and adolescence in low- and middle-income countries (LMICs), and whether this association differs by sex.
+   Participants and setting: We employ nationally representative samples of 13-24 year-old males and females from the Violence Against Children Surveys in Tanzania (conducted in 2009), Kenya (2010), and Haiti (2012).
+   Methods: We use logistic regressions to estimate the odds of ever reporting suicide ideation, separately, for each country; models control for self-reported exposure to emotional violence, physical violence from a caregiver, physical violence by an adult in the community, sexual violence, intimate partner violence, and age. Formal moderation by sex for each form of child maltreatment is tested using interaction terms.
+   Results: We find the odds of suicide ideation are consistently and significantly greater for adolescents who report ever exposure to emotional violence. This same consistency is not observed for any other form of maltreatment across countries. The size of the relationship between emotional violence and suicide ideation is statistically significantly larger for males in Kenya only.
+   Conclusion: Research in LMICs should explore the mediating factors linking emotional abuse in childhood and adolescence to suicide ideation in adolescence, paying special attention to whether these pathways might operate differently by sex.
+C1 [Seff, Ilana] Columbia Univ, Mailman Sch Publ Hlth, Dept Populat & Family Hlth, 60 Haven Ave B-4 Suite 432, New York, NY 10032 USA.
+   [Stark, Lindsay] Washington Univ, George Warren Brown Sch, 1 Brookings Dr, St Louis, MO 63130 USA.
+C3 Columbia University; Washington University (WUSTL)
+RP Seff, I (corresponding author), Columbia Univ, Mailman Sch Publ Hlth, Heilbrunn Dept Populat & Family Hlth, 60 Haven Ave,B3, New York, NY 10032 USA.
+EM Ijs2120@cumc.columbia.edu
+OI Seff, Ilana/0000-0002-2569-995X
+NR 29
+TC 22
+Z9 22
+U1 1
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0145-2134
+EI 1873-7757
+J9 CHILD ABUSE NEGLECT
+JI Child Abuse Negl.
+PD JUL
+PY 2019
+VL 93
+BP 222
+EP 227
+DI 10.1016/j.chiabu.2019.05.008
+PG 6
+WC Family Studies; Psychology, Social; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Psychology; Social Work
+GA IF5LW
+UT WOS:000473123300022
+PM 31125852
+DA 2023-12-06
+ER
+
+PT J
+AU Moshiro, C
+   Mswia, R
+   Alberti, KGMM
+   Whiting, DR
+   Unwin, N
+   Setel, PW
+AF Moshiro, C
+   Mswia, R
+   Alberti, KGMM
+   Whiting, DR
+   Unwin, N
+   Setel, PW
+CA AMMP Project Team
+TI The importance of injury as a cause of death in sub-Saharan Africa:
+   results of a community-based study in Tanzania
+SO PUBLIC HEALTH
+LA English
+DT Article
+DE injury; mortality; transport accidents; sub-Saharan Africa;
+   community-based study
+ID VERBAL AUTOPSIES; CHILDHOOD; MORTALITY; ACCIDENTS; SUICIDES; KENYA
+AB This paper describes rates and causes of injury deaths among community members in three districts of the United Republic of Tanzania. A population-based study was carried out in two rural districts and one urban area in Tanzania. Deaths occurring in the study areas were monitored prospectively during a period of six years. Censuses were conducted annually in the rural areas and biannually in the urban area to determine the denominator populations. Cause-specific death rates and Years of Life Lost (YLL) due to injury were calculated for the three study areas. During a 6 year period (1992-1998), 5047 deaths were recorded in Dar es Salaam, 9339 in Hai District and 11 155 in Morogoro Rural District. Among all ages, deaths due to injuries accounted for 5% of all deaths in Dar es Salaam, 8% in Hai and 5% in Morogoro. The age-standardised injury death rates among men were approximately three times higher than among women in all study areas. Transport accidents were the commonest cause of mortality in all injury-related deaths in the three project areas, except for females in Hai District, where it ranked second after intentional self-harm. We conclude that injury deaths impose a considerable burden in Tanzania. Strategies should be strengthened in the prevention and control of avoidable premature deaths due to injuries.
+C1 Minist Hlth, Adult Morbid & Mortal Project, Dar Es Salaam, Tanzania.
+   Muhimbili Univ, Coll Hlth Sci, Dept Epidemiol & Biostat, Dar Es Salaam, Tanzania.
+   Univ Newcastle Upon Tyne, Dept Med, Sch Clin Med Sci, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+C3 Newcastle University - UK
+RP Mswia, R (corresponding author), Minist Hlth, Adult Morbid & Mortal Project, POB 65243, Dar Es Salaam, Tanzania.
+RI Setel, Philip/ABD-6362-2020
+OI Setel, Philip/0000-0002-9042-5699; Whiting, David/0000-0001-9827-2896;
+   Moshiro, Candida/0000-0001-7606-2361; Unwin, Nigel/0000-0002-1368-1648
+NR 25
+TC 35
+Z9 36
+U1 0
+U2 2
+PU NATURE PUBLISHING GROUP
+PI BASINGSTOKE
+PA HOUNDMILLS, BASINGSTOKE RG21 6XS, HAMPSHIRE, ENGLAND
+SN 0033-3506
+J9 PUBLIC HEALTH
+JI Public Health
+PD MAR
+PY 2001
+VL 115
+IS 2
+BP 96
+EP 102
+DI 10.1038/sj.ph.1900725
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 422AR
+UT WOS:000168096200004
+PM 11406773
+DA 2023-12-06
+ER
+
+PT J
+AU Lekei, EE
+   Ngowi, AV
+   London, L
+AF Lekei, Elikana E.
+   Ngowi, Aiwerasia V.
+   London, Leslie
+TI Undereporting of acute pesticide poisoning in Tanzania: modelling
+   results from two cross-sectional studies
+SO ENVIRONMENTAL HEALTH
+LA English
+DT Article
+DE Acute pesticide poisoning; Underreporting; Modeling; Tanzania
+ID DEVELOPING-COUNTRIES; SRI-LANKA; DEVELOPING-WORLD; HEALTH; FARMERS;
+   SURVEILLANCE; EXPOSURE; SYMPTOMS; WORKERS; PERCEPTIONS
+AB Background: Acute pesticide poisoning (APP) is known to cause serious injuries to end users globally but the magnitude of this problem in Tanzania is not well known. This study aimed to determine the extent and pattern of underreporting of APP in Tanzania to inform the development of a surveillance system and appropriate interventions.
+   Methods: This study integrates findings from two recent Tanzanian studies. A household survey established the proportion of poisoned farmers in a typical rural area who reported to hospital for a pesticide poisoning. Only 5 of the 112 farmers who reported attending hospital due to poisonings could be traced in medical records at the facilities they claimed to have attended. The 95% confidence interval for this ratio (5/112) was used to generate a high and low boundary for the estimates. Three under-estimation factors were generated for sensitivity analysis to adjust for under-reporting. A review of health facilities in three regions of Tanzania collected prospective data on admissions for APP in 2006 to generate population-based APP incidence rates stratified by circumstances of poisoning (occupational, accidental, suicide, and unknown). Sensitivity analysis was conducted involving adjustment for high and low boundaries of the under-reporting of occupational APP and an adjustment for different scenario allocations of cases with 'unknown' circumstances to different combinations of known circumstances.
+   Results: The study estimated the rate of occupational poisoning as ranging from 11.3-37.7 cases/million to 84.3-279.9 cases per million. The rate of all poisonings (occupational and non-occupational) ranged from 24.45-48.01 cases per million to 97.37-290.29 cases per million. Depending on the choice of scenario and under-reporting correction factor used, occupational APP could comprise from 52.2 to 96% of all APP cases.
+   Conclusion: The study confirms that data on APP in Tanzanian hospitals are poorly reported and that occupational circumstances are particularly overlooked in routine facility-based surveillance. Occupational APP needs to be taken more seriously in addressing prevention measures. A comprehensive surveillance system for APP should consider multiple data sources including community self-reporting in order to achieve better coverage.
+C1 [Lekei, Elikana E.] Trop Pesticides Res Inst, POB 3024, Arusha, Tanzania.
+   [Ngowi, Aiwerasia V.] MUHAS, Sch Publ Hlth & Social Sci, Dept Environm & Occupat Hlth, POB 65015, Dar Es Salaam, Tanzania.
+   [London, Leslie] Fac Hlth Sci, Sch Publ Hlth & Family Med, Anzio Rd, ZA-7925 Cape Town, South Africa.
+C3 Muhimbili University of Health & Allied Sciences
+RP Lekei, EE (corresponding author), Trop Pesticides Res Inst, POB 3024, Arusha, Tanzania.
+EM elekei98@gmail.com
+FU National Research Foundation of South Africa [FA2005040800007]; Fogarty
+   International Center of the National Institutes of Health (Health,
+   Environment and Economic Development program) [R21 TW006515-01]; Work
+   and Health in Southern Africa (WAHSA) program - Swedish International
+   Development Aid (Sida)
+FX This research was supported financially by the National Research
+   Foundation of South Africa, through Grant Number FA2005040800007, the
+   Fogarty International Center of the National Institutes of Health
+   (Health, Environment and Economic Development program; Grant Number R21
+   TW006515-01), and the Work and Health in Southern Africa (WAHSA) program
+   funded by Swedish International Development Aid (Sida).
+NR 43
+TC 17
+Z9 17
+U1 0
+U2 2
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1476-069X
+J9 ENVIRON HEALTH-GLOB
+JI Environ. Health
+PD NOV 29
+PY 2016
+VL 15
+AR 118
+DI 10.1186/s12940-016-0203-3
+PG 9
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA ED3SQ
+UT WOS:000388769200002
+PM 27899148
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Makame, V
+   Ani, C
+   Grantham-McGregor, S
+AF Makame, V
+   Ani, C
+   Grantham-McGregor, S
+TI Psychological well-being of orphans in Dar Es Salaam, Tanzania
+SO ACTA PAEDIATRICA
+LA English
+DT Article
+DE AIDS/HIV orphans; psychological problems; Tanzania
+ID CORPORAL PUNISHMENT; COMMUNITY; CHILDREN; DISTRESS; STRESS; UGANDA;
+   HEALTH
+AB Forty-one orphans whose fathers and/or mothers had died from AIDS. and were living in the poor suburbs of Dar Es Salaam. Tanzania. were compared with 41 matched non-orphans front the same neighbourhoods. The subjects were given an arithmetic test and a semi-structured questionnaire concerning any internalizing problems, their attendance at school and their experiences of punishment, reward and hunger. The scale of internalizing problems comprised 21 items adapted from the Rand Mental Health and Beck Depression Inventories concerning mood. pessimism, somatic symptoms. sense of failure, anxiety. positive affect and emotional ties. Most orphans lived with aunts and uncles. Compared with non-orphans. they were significantly less likely to be in school but those who did attend school had similar arithmetic scores. Significantly more orphans went to bed hungry. Orphans had markedly increased internalizing problems compared with non-orphans (p < 0.0001) and 34% reported they had contemplated suicide in the past Year. Multiple regression analysis indicated that the independent predictors of internalizing problem scores were sex (females higher than males), going to bed hungry. no reward for good behaviour, not currently attending school, as well as being an orphan.
+   Conclusion: The orphan,, not only had unmet basic needs, but also had markedly increased internalizing problems, thus their long-term mental health would be in jeopardy. There is an urgent need to expand and improve Current intervention programmes not only to meet the basic needs but also to include psychosocial support. counselling services for the orphans. and training for their carers and teachers.
+C1 UCL, Inst Child Hlth, Ctr Int Child Hlth, London WC1N 1EH, England.
+C3 University of London; University College London
+RP Grantham-McGregor, S (corresponding author), UCL, Inst Child Hlth, Ctr Int Child Hlth, 30 Guilford St, London WC1N 1EH, England.
+EM s.mcgregor@ich.ucl.ac.uk
+RI Raz, Anni/AAN-1250-2020
+NR 29
+TC 168
+Z9 211
+U1 0
+U2 18
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0803-5253
+EI 1651-2227
+J9 ACTA PAEDIATR
+JI Acta Paediatr.
+PY 2002
+VL 91
+IS 4
+BP 459
+EP 465
+DI 10.1080/080352502317371724
+PG 7
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA 545GB
+UT WOS:000175207800020
+PM 12061364
+DA 2023-12-06
+ER
+
+PT J
+AU Shayo, FK
+   Lawala, PS
+AF Shayo, Festo K.
+   Lawala, Paul S.
+TI Does food insecurity link to suicidal behaviors among in-school
+   adolescents? Findings from the low-income country of sub-Saharan Africa
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Adolescents; Suicide behaviors; Food insecurity; A low-income country;
+   Sub-Saharan Africa
+ID MENTAL-HEALTH; INSUFFICIENCY; ASSOCIATION; IDEATION; HUNGER
+AB Background: Suicidal behaviors among adolescents is a major public health concern. Psychological factors have been extensively studied known risks linked to suicidal behaviors in the general population. However, the association between food insecurity and suicidal behaviors is less researched, particularly in low and middle-income countries. The present study sought to assess the link between food insecurity and suicide behaviors among in-school adolescents.
+   Methods: The present study was based on the secondary analysis of the first nationally representative sample of the 2014 Tanzania Global School-based Student Health Survey (GSHS). A total sample of 3,793 in-school adolescents was included in the present analysis. The primary independent variable was food insecurity while the dependent variables of interest were suicide ideation and suicide attempt. Chi-square chi(2) and multivariate logistic regression were used to ascertain the measure of statistical association. In all analyses, a p < 0.05 was considered statistically significant.
+   Results: Of the 3,793 in-school adolescents, 254 (67%) were food insecure. A significantly large proportion of adolescents with suicidal ideation and suicidal attempt were food insecure than their counterparts, respectively. In the adjusted multivariate model, food insecure adolescents were more likely to have experienced suicidal ideation and suicidal attempt: [AOR; 18 95% C. I; 13-25] and [AOR; 24, 95% C. I; 17-33]; p < 0.001, respectively.
+   Conclusion: Food insecurity was an independent predictor of suicidal behaviors among in-school adolescents. An intervention that targets food security at the school level may protect adolescents of food insecure household from suicidal behaviors. Nevertheless, school-based mental health screening, evaluation, and promotion may be needed for adolescents with suicidal behaviors.
+C1 [Shayo, Festo K.] Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65001, Dar Es Salaam, Tanzania.
+   [Lawala, Paul S.] Mbeya Zonal Referral Hosp, Dept Psychiat & Mental Hlth, POB 419, Mbeya, Tanzania.
+   [Shayo, Festo K.] Grad Sch Tokyo Med, Dept Global Hlth Entrepreneurship, Div Publ Hlth, 1-5-45 Yushima, Tokyo 1138510, Japan.
+   [Shayo, Festo K.] Dent Univ, Bunkyo Ku, 1-5-45 Yushima, Tokyo 1138510, Japan.
+C3 Muhimbili University of Health & Allied Sciences
+RP Shayo, FK (corresponding author), Muhimbili Univ Hlth & Allied Sci, Dept Internal Med, POB 65001, Dar Es Salaam, Tanzania.; Shayo, FK (corresponding author), Grad Sch Tokyo Med, Dept Global Hlth Entrepreneurship, Div Publ Hlth, 1-5-45 Yushima, Tokyo 1138510, Japan.; Shayo, FK (corresponding author), Dent Univ, Bunkyo Ku, 1-5-45 Yushima, Tokyo 1138510, Japan.
+EM festocasmir@gmail.com
+NR 38
+TC 32
+Z9 32
+U1 0
+U2 4
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD JUL 24
+PY 2019
+VL 19
+AR 227
+DI 10.1186/s12888-019-2212-6
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IL1FE
+UT WOS:000477043500003
+PM 31340781
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ae-Ngibise, KA
+   Masanja, H
+   Kellerman, R
+   Owusu-Agyei, S
+AF Ae-Ngibise, Kenneth Ayuurebobi
+   Masanja, Honorati
+   Kellerman, Ronel
+   Owusu-Agyei, Seth
+TI Risk factors for injury mortality in rural Tanzania: a secondary data
+   analysis
+SO BMJ OPEN
+LA English
+DT Article
+ID TRANSPORT-RELATED INJURIES; SOCIOECONOMIC-STATUS; VERBAL AUTOPSIES;
+   SOUTH-AFRICA; SUICIDE; HEALTH; DEATHS; BURDEN; RATES; EPIDEMIOLOGY
+AB Background: Injuries rank high among the leading causes of death and disability annually, injuring over 50 million and killing over 5 million people globally. Approximately 90% of these deaths occur in developing countries.
+   Objectives: To estimate and identify the risk factors for injury mortality in the Rufiji Health and Demographic Surveillance System (RHDSS) in Tanzania.
+   Methods: Secondary data from the RHDSS covering the period 2002 and 2007 was examined. Verbal autopsy data was used to determine the causes of death based on the 10th revision of the International Classification of Diseases (ICD-10). Trend and Poisson regression tests were used to investigate the associations between risk factors and injury mortality.
+   Results: The overall crude injury death rate was 33.4/100 000 population. Injuries accounted for 4% of total deaths. Men were three times more likely to die from injuries compared with women (adjusted IRR (incidence risk ratios)=3.04, p=0.001, 95% CI (2.22 to 4.17)). The elderly (defined as 65+) were 2.8 times more likely to die from injuries compared with children under 15 years of age (adjusted IRR=2.83, p=0.048, 95% CI (1.01 to 7.93)). The highest frequency of deaths resulted from road traffic crashes.
+   Conclusions: Injury is becoming an important cause of mortality in the Rufiji district. Injury mortality varied by age and gender in this area. Most injuries are preventable, policy makers need to institute measures to address the issue.
+C1 [Ae-Ngibise, Kenneth Ayuurebobi; Owusu-Agyei, Seth] Kintampo Hlth Res Ctr, Res & Dev Div, Kintampo, Ghana.
+   [Masanja, Honorati] Ifakara Hlth Inst, Dept Hlth, Dar Es Salaam, Tanzania.
+   [Kellerman, Ronel] Univ Witwatersrand, Dept Hlth, Johannesburg, South Africa.
+C3 Kintampo Health Research Centre; Ifakara Health Institute; University of
+   Witwatersrand
+RP Ae-Ngibise, KA (corresponding author), Kintampo Hlth Res Ctr, Res & Dev Div, Kintampo, Ghana.
+EM asayah@kintampo-hrc.org
+RI Ae-Ngibise, Kenneth/HOH-7764-2023
+OI Owusu-Agyei, Seth/0000-0002-0807-1781
+FU INDEPTH (International Network for the Demographic Evaluation of
+   Populations and their Health) network; NDEPTH Network
+FX The authors are grateful to the INDEPTH (International Network for the
+   Demographic Evaluation of Populations and their Health) network for the
+   sponsoring the primary author to carry out this study and also allowed
+   for presentation of an earlier version of the paper at the INDEPTH
+   Scientific Conference in Accra, Ghana in September 2010 and to attend a
+   scientific writing workshop in Ho, Ghana in January 2011. We also render
+   our sincere gratitude to the director and staff of Ifakara Health
+   Institute for the provision of the injury mortality data for this
+   analysis and also to the lecturers and staff of the School of Public
+   Health, University of the Witwatersrand, for good coordination of the
+   programme.; The INDEPTH Network provided financial assistance for this
+   study.
+NR 46
+TC 15
+Z9 15
+U1 0
+U2 14
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PY 2012
+VL 2
+IS 6
+AR e001721
+DI 10.1136/bmjopen-2012-001721
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 091WV
+UT WOS:000315081400087
+PM 23166132
+OA gold, Green Accepted, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Ubuguyu, O
+   Tran, OC
+   Bruce, RD
+   Masao, F
+   Nyandindi, C
+   Sabuni, N
+   McCurdy, S
+   Mbwambo, J
+   Lambdin, BH
+AF Ubuguyu, Omary
+   Tran, Olivia C.
+   Bruce, Robert Douglas
+   Masao, Frank
+   Nyandindi, Cassian
+   Sabuni, Norman
+   McCurdy, Sheryl
+   Mbwambo, Jessie
+   Lambdin, Barrot H.
+TI Improvements in health-related quality of life among methadone
+   maintenance clients in Dar es Salaam, Tanzania
+SO INTERNATIONAL JOURNAL OF DRUG POLICY
+LA English
+DT Article
+DE Methadone; Tanzania; Quality of life; Harm reduction; Implementation
+   science
+ID HOPKINS SYMPTOM CHECKLIST-25; DRUG-USERS; TREATMENT RETENTION; SUICIDE
+   ATTEMPTS; SOCIAL SUPPORT; RISK BEHAVIOR; USE DISORDERS; INJECT DRUGS;
+   HIV RISK; COCAINE
+AB Background: Injection of heroin has become widespread in Dar es Salaam, Tanzania and is spreading throughout the country. To prevent potential bridging of HIV epidemics, the Tanzanian government established a methadone maintenance treatment (MMT) clinic in February 2011. We assess the effect of MMT on health-related quality of life (HRQOL) and examine factors, particularly HIV infection and methadone dose, associated with changes in HRQOL.
+   Methods: This study utilized routine data on clients enrolling in methadone from February 2011 to April 2012 at Muhimbili National Hospital. Change in physical (PCS) and mental health (MCS) composite scores, as measured by the SF-12 tool, were the primary outcomes. Backward stepwise linear regression, with a criterion of p < 0.2 was used to identify baseline exposure variables for inclusion in multivariable models, while adjusting for baseline scores.
+   Results: A total of 288 MMT clients received baseline and follow-up assessments. Mean methadone dose administered was 45 mg (SD 25) and 76 (27%) were confirmed HIV-positive. Significant improvements were observed in PCS and MCS, with mean increases of 15.7 and 3.3, respectively. In multivariable models, clients who had previous poly-substance use with cocaine [p = 0.040] had a significantly higher mean change in PCS. Clients who were living with HIV [p = 0.002]; satisfied with current marital situation [p = 0.045]; had a history of suicidal thoughts [p = 0.021]; and previously experienced cognitive difficulties [p = 0.012] had significantly lower mean change in PCS. Clients with shorter history of heroin use [p = 0.012] and who received higher methadone doses [p = 0.028] had significantly higher mean change in MCS, compared to their counterparts.
+   Conclusion: Aspects of mental and physical health, risk behaviors and quality of life among drug users are intertwined and complex. Our research revealed positive short-term effects of MMT on HRQOL and highlights the importance of sustained retention for optimal benefits. Comprehensive supportive services in addition to provision of methadone are needed to address the complex health needs of people who inject drugs. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Ubuguyu, Omary; Masao, Frank; Nyandindi, Cassian; Mbwambo, Jessie] Muhimbili Univ Hlth & Allied Sci, POB 65001, Dar Es Salaam, Tanzania.
+   [Tran, Olivia C.] Pangaea Global AIDS, 436 14th St,Suite 920, Oakland, CA 94612 USA.
+   [Bruce, Robert Douglas] Yale Univ, New Haven, CT 06520 USA.
+   [Sabuni, Norman] Tanzania Minist Hlth & Social Welf, 6 Samara Machel Ave, Dar Es Salaam, Tanzania.
+   [McCurdy, Sheryl] Univ Texas Houston, Sch Publ Hlth, 7000 Fannin St, Houston, TX USA.
+   [Lambdin, Barrot H.] RTI Int, 351 Calif St,Suite 500, San Francisco, CA 94104 USA.
+   [Lambdin, Barrot H.] Univ Washington, Dept Global Hlth, Seattle, WA 98195 USA.
+   [Lambdin, Barrot H.] Univ Calif San Francisco, Dept Epidemiol & Biostat, San Francisco, CA 94143 USA.
+C3 Muhimbili University of Health & Allied Sciences; Yale University;
+   University of Texas System; University of Texas Health Science Center
+   Houston; University of Texas School Public Health; Research Triangle
+   Institute; University of Washington; University of Washington Seattle;
+   University of California System; University of California San Francisco
+RP Lambdin, BH (corresponding author), RTI Int, 351 Calif St,Suite 500, San Francisco, CA 94104 USA.
+EM blambdin@rti.org
+OI Lambdin, Barrot/0000-0001-8546-0126; Bruce, Robert/0000-0003-4184-8748
+FU President's Emergency Plan for AIDS Relief (PEPFAR) through Centers for
+   Disease Control and Prevention [5U2GPS000951]; National Institutes of
+   Health, National Institute on Drug Abuse [1R34DA037787]; Baylor-UT
+   Health Center for AIDS Research (CFAR), an NIH [AI036211]
+FX This work was supported by the President's Emergency Plan for AIDS
+   Relief (PEPFAR) through Centers for Disease Control and Prevention under
+   the terms of [Grant number 5U2GPS000951], the National Institutes of
+   Health, National Institute on Drug Abuse (Grant No. 1R34DA037787), and
+   in part from research supported by the Baylor-UT Health Center for AIDS
+   Research (CFAR), an NIH funded program [AI036211].
+NR 78
+TC 14
+Z9 15
+U1 0
+U2 11
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0955-3959
+EI 1873-4758
+J9 INT J DRUG POLICY
+JI Int. J. Drug Policy
+PD APR
+PY 2016
+VL 30
+BP 74
+EP 81
+DI 10.1016/j.drugpo.2016.03.005
+PG 8
+WC Substance Abuse
+WE Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA DK8FW
+UT WOS:000375163600010
+PM 27017376
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Sherriff, B
+   MacKenzie, S
+   Swart, LA
+   Seedat, MA
+   Bangdiwala, SI
+   Ngude, R
+AF Sherriff, Bronwyn
+   MacKenzie, Sarah
+   Swart, Lu-Anne
+   Seedat, Mohamed Amine
+   Bangdiwala, Shrikant I.
+   Ngude, Robert
+TI A comparison of urban-rural injury mortality rates across two South
+   African provinces, 2007
+SO INTERNATIONAL JOURNAL OF INJURY CONTROL AND SAFETY PROMOTION
+LA English
+DT Article
+DE mortality rates; fatal injuries; urban-rural differences; comparative
+   analysis; South Africa
+ID SUICIDE; FATALITIES; TANZANIA; BURDEN; HEALTH; DEATH; AREAS; CHINA
+AB This study explored urban-rural variations in the magnitude and patterns of fatal injuries in South Africa. The National Injury Mortality Surveillance System was utilised to select South African mortality cases for the 2007 period and a cross-sectional methodology was employed in order to comparatively analyse injury mortality rates in the urban province of Gauteng and the rural province of Mpumalanga. The results reveal several differences in urban-rural injury trends across the two South African provinces. Overall, homicide and unintentional (non-transport) injury death rates were significantly higher in the urban province (40.28/100,000 versus 28.48/100,000; (RR = 1.41 [1.32-1.51]) and 18.30/100,000 versus 13.19/100,000; (RR = 1.39 [1.25-1.54]), respectively), whilst transport-related injury mortality rates were significantly higher in the rural province (66.57/100,000 versus 45.83/100,000; (RR = 0.69 [0.66-0.71])). Such results could be attributed to economical, environmental, and infrastructural differences between urban-rural locations and suggest that injury control strategies could be better targeted to the needs of specific geographic populations in South Africa.
+C1 [Sherriff, Bronwyn; MacKenzie, Sarah; Swart, Lu-Anne; Seedat, Mohamed Amine; Bangdiwala, Shrikant I.] Univ S Africa, Inst Social & Hlth Sci, Johannesburg, South Africa.
+   [Bangdiwala, Shrikant I.] Univ N Carolina, CSCC, Dept Biostat, Chapel Hill, NC 27514 USA.
+   [Ngude, Robert] Univ Witwatersrand, Dept Forens Med & Pathol, Johannesburg, South Africa.
+C3 University of South Africa; University of North Carolina; University of
+   North Carolina Chapel Hill; University of Witwatersrand
+RP Swart, LA (corresponding author), Univ S Africa, Inst Social & Hlth Sci, POB 1087, Johannesburg, South Africa.
+EM swartl@unisa.ac.za
+OI Swart, Lu-Anne/0000-0001-5602-7577; Seedat, Mohamed/0000-0001-9018-3370
+NR 39
+TC 7
+Z9 7
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1745-7300
+EI 1745-7319
+J9 INT J INJ CONTROL SA
+JI Int. J. Inj. Control Saf. Promot.
+PD JAN 2
+PY 2015
+VL 22
+IS 1
+BP 75
+EP 85
+DI 10.1080/17457300.2013.870580
+PG 11
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CE4YC
+UT WOS:000351835400011
+PM 24471441
+DA 2023-12-06
+ER
+
+PT J
+AU Whetten, K
+   Shirey, K
+   Pence, BW
+   Yao, J
+   Thielman, N
+   Whetten, R
+   Adams, J
+   Agala, B
+   Ostermann, J
+   O'Donnell, K
+   Hobbie, A
+   Maro, V
+   Itemba, D
+   Reddy, E
+AF Whetten, Kathryn
+   Shirey, Kristen
+   Pence, Brian Wells
+   Yao, Jia
+   Thielman, Nathan
+   Whetten, Rachel
+   Adams, Julie
+   Agala, Bernard
+   Ostermann, Jan
+   O'Donnell, Karen
+   Hobbie, Amy
+   Maro, Venance
+   Itemba, Dafrosa
+   Reddy, Elizabeth
+CA CHAT Res Team
+TI Trauma History and Depression Predict Incomplete Adherence to
+   Antiretroviral Therapies in a Low Income Country
+SO PLOS ONE
+LA English
+DT Article
+ID CD4 CELL COUNT; DRUG-RESISTANCE; HOUSEHOLD DYSFUNCTION; CHILDHOOD ABUSE;
+   HEALTH-STATUS; ADULTS; MANAGEMENT; INTERVENTIONS; METAANALYSIS; IMPACT
+AB Background: As antiretroviral therapy (ART) for HIV becomes increasingly available in low and middle income countries (LMICs), understanding reasons for lack of adherence is critical to stemming the tide of infections and improving health. Understanding the effect of psychosocial experiences and mental health symptomatology on ART adherence can help maximize the benefit of expanded ART programs by indicating types of services, which could be offered in combination with HIV care.
+   Methodology: The Coping with HIV/AIDS in Tanzania (CHAT) study is a longitudinal cohort study in the Kilimanjaro Region that included randomly selected HIV-infected (HIV+) participants from two local hospital-based HIV clinics and four freestanding voluntary HIV counselling and testing sites. Baseline data were collected in 2008 and 2009; this paper used data from 36 month follow-up interviews (N = 468). Regression analyses were used to predict factors associated with incomplete self-reported adherence to ART.
+   Results: Incomplete ART adherence was significantly more likely to be reported amongst participants who experienced a greater number of childhood traumatic events: sexual abuse prior to puberty and the death in childhood of an immediate family member not from suicide or homicide were significantly more likely in the non-adherent group and other negative childhood events trended toward being more likely. Those with incomplete adherence had higher depressive symptom severity and post-traumatic stress disorder (PTSD). In multivariable analyses, childhood trauma, depression, and financial sacrifice remained associated with incomplete adherence.
+   Discussion: This is the first study to examine the effect of childhood trauma, depression and PTSD on HIV medication adherence in a low income country facing a significant burden of HIV. Allocating spending on HIV/AIDS toward integrating mental health services with HIV care is essential to the creation of systems that enhance medication adherence and maximize the potential of expanded antiretroviral access to improve health and reduce new infections.
+C1 [Whetten, Kathryn; Shirey, Kristen; Pence, Brian Wells; Yao, Jia; Thielman, Nathan; Whetten, Rachel; Agala, Bernard; Ostermann, Jan; O'Donnell, Karen; Hobbie, Amy] Duke Univ, Duke Global Hlth Inst, Ctr Hlth Policy, Durham, NC USA.
+   [Whetten, Kathryn; Ostermann, Jan] Duke Univ, Duke Global Hlth Inst, Durham, NC USA.
+   [Thielman, Nathan; Reddy, Elizabeth] Duke Univ, Dept Med, Div Infect Dis & Int Hlth, Durham, NC USA.
+   [Pence, Brian Wells] Univ N Carolina, Dept Epidemiol, Chapel Hill, NC USA.
+   [Shirey, Kristen; Adams, Julie] Duke Univ, Dept Psychiat & Behav Sci, Durham, NC USA.
+   [O'Donnell, Karen] Duke Univ, Ctr Child & Family Hlth, Durham, NC USA.
+   [Maro, Venance; Reddy, Elizabeth] Kilimanjaro Christian Med Ctr, Moshi, Tanzania.
+   [Itemba, Dafrosa] Tanzania Womens Res Fdn, Moshi, Tanzania.
+C3 Duke University; Duke University; Duke University; University of North
+   Carolina; University of North Carolina Chapel Hill; Duke University;
+   Duke University; Kilimanjaro Christian Medical Centre
+RP Whetten, K (corresponding author), Duke Univ, Duke Global Hlth Inst, Ctr Hlth Policy, Durham, NC USA.
+EM k.whetten@duke.edu
+RI Ostermann, Jan/GQB-4743-2022; Agala, Chris B/GON-5389-2022; Thielman,
+   Nathan/R-5142-2019
+OI Agala, Chris B/0000-0001-7157-814X; Thielman, Nathan/0000-0001-8152-2879
+FU National Institute of Mental Health [5R01MH078756]; Duke Center for AIDS
+   Research [5P30-AI064518-08, KL2 RR024127-04]
+FX The project described was supported by 5R01MH078756 from the National
+   Institute of Mental Health. The funders had no role in study design,
+   data collection and analysis, decision to publish, or preparation of the
+   manuscript. The content is solely the responsibility of the authors and
+   does not necessarily represent the official views of the National
+   Institute of Mental Health or the National Institutes of Health and the
+   Duke Center for AIDS Research, 5P30-AI064518-08. KL2 RR024127-04
+   provided salary support for ER.
+NR 40
+TC 36
+Z9 37
+U1 0
+U2 24
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD OCT 4
+PY 2013
+VL 8
+IS 10
+AR e74771
+DI 10.1371/journal.pone.0074771
+PG 7
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 232JF
+UT WOS:000325489100012
+OA gold, Green Published, Green Submitted
+DA 2023-12-06
+ER
+
+EF

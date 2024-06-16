@@ -1,0 +1,504 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fellmeth, G
+   Plugge, E
+   Paw, MK
+   Charunwatthana, P
+   Nosten, F
+   McGready, R
+AF Fellmeth, Gracia
+   Plugge, Emma
+   Paw, Moo Kho
+   Charunwatthana, Prakaykaew
+   Nosten, Francois
+   McGready, Rose
+TI Pregnant migrant and refugee women's perceptions of mental illness on
+   the Thai-Myanmar border: a qualitative study
+SO BMC PREGNANCY AND CHILDBIRTH
+LA English
+DT Article
+DE Migration; Migrant; Refugee; Pregnancy; Mental health; Qualitative;
+   Myanmar
+ID LOW-INCOME; DISORDERS; DEPRESSION; PREVALENCE; HEALTH; COUNTRIES
+AB Background: Mental illness is a significant contributor to the global burden of disease, with prevalence highest in low- and middle-income countries. Rates are high in women of childbearing age, especially during pregnancy and the first year post-partum. Migrant and refugee populations are at risk of developing mental illness due to the multiple stressors associated with migration. The Thai-Myanmar border area is home to large populations of migrants and refugees as a result of long-standing conflict, poverty and unemployment in Myanmar. This study aims to explore perceptions of mental illness among pregnant migrants and refugees and antenatal clinic staff living and working along the Thai-Myanmar border.
+   Methods: Thirteen focus group discussions were conducted with pregnant migrants, pregnant refugees and antenatal clinic staff. Focus groups were held in one large refugee camp and two migrant health clinics along the Thai-Myanmar border. Thematic analysis was used to identify and code themes emerging from the data.
+   Results: A total of 92 pregnant women and 24 antenatal clinic staff participated. Discussions centered around five main themes: symptoms of mental illness; causes of mental illness; suicide; mental illness during pregnancy and the post-partum period; and managing mental illness. Symptoms of mental illness included emotional disturbances, somatic symptoms and socially inappropriate behavior. The main causes were described as current economic and family-related difficulties. Suicide was frequently attributed to shame. Mental illness was thought to be more common during and following pregnancy due to a lack of family support and worries about the future. Talking to family and friends, medication and hospitalization were suggested as means of helping those suffering from mental illness.
+   Conclusions: Mental illness was recognized as a concept by the majority of participants and there was a general willingness to discuss various aspects of it. More formal and systematic training including the development of assessment tools in the local languages would enable better ascertainment and treatment of mental illness in this population.
+C1 [Fellmeth, Gracia] Univ Oxford, Nuffield Dept Populat Hlth, Oxford, England.
+   [Plugge, Emma] Univ Oxford, Nuffield Dept Med Res Bldg, Ctr Trop Med & Global Hlth, Oxford, England.
+   [Paw, Moo Kho; Nosten, Francois; McGready, Rose] Mahidol Univ, Fac Trop Med, Mahidol Oxford Trop Med Res Unit, Shoklo Malaria Res Unit, Mae Sot, Thailand.
+   [Charunwatthana, Prakaykaew; Nosten, Francois; McGready, Rose] Mahidol Univ, Fac Trop Med, Mahidol Oxford Trop Med Res Unit, Bangkok 10700, Thailand.
+   [Nosten, Francois; McGready, Rose] Univ Oxford, Nuffield Dept Med, Ctr Trop Med, Oxford, England.
+C3 University of Oxford; University of Oxford; Mahidol Oxford Tropical
+   Medicine Research Unit (MORU); Mahidol University; Mahidol University;
+   Mahidol Oxford Tropical Medicine Research Unit (MORU); University of
+   Oxford
+RP Fellmeth, G (corresponding author), Univ Oxford, Nuffield Dept Populat Hlth, Old Rd Campus, Oxford, England.
+EM gracia.fellmeth@dph.ox.ac.uk
+RI Nosten, Francois/AAC-5509-2019; McGready, Rose/A-3290-2014
+OI Nosten, Francois/0000-0002-7951-0745; McGready,
+   Rose/0000-0003-1621-3257; Paw, Moo Kho/0000-0002-4008-3168
+FU Oxford Tropical Network, Nuffield Department of Medicine, Oxford
+   University
+FX We thank three reviewers, Maili Malin, Dawn Kingston and Karen Block,
+   for comments on an earlier draft and Dr Daniel M Parker for creating the
+   map for this study. GF was supported by a travel award granted by the
+   Oxford Tropical Network, Nuffield Department of Medicine, Oxford
+   University. The funding body had no role in the design, collection,
+   analysis or interpretation of data nor in the writing or submission of
+   the manuscript for publication.
+NR 44
+TC 22
+Z9 24
+U1 3
+U2 26
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2393
+J9 BMC PREGNANCY CHILDB
+JI BMC Pregnancy Childbirth
+PD APR 15
+PY 2015
+VL 15
+AR 93
+DI 10.1186/s12884-015-0517-0
+PG 11
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Obstetrics & Gynecology
+GA CK0OJ
+UT WOS:000355904200001
+PM 25884681
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Murshid, NS
+AF Murshid, Nadine Shaanta
+TI Bullying victimization and mental health outcomes of adolescents in
+   Myanmar, Pakistan, and Sri Lanka
+SO CHILDREN AND YOUTH SERVICES REVIEW
+LA English
+DT Article
+DE Bullying victimization; Depression symptoms; Mental health; Asia; Global
+   School-Based Health Survey
+ID DEPRESSION; RISK; BEHAVIOR; VIOLENCE; CHILDREN; SUICIDE; STATES; AGE
+AB The objective of this study was to examine the association between bullying victimization and symptoms of depression among adolescents in Myanmar, Pakistan, and Sri Lanka. Little is known about adolescents' bullying victimization and its ramifications in South Asia. Given that children's rights remain low amidst taboo surrounding their mental health issues that prevent parents from seeking help for their children, there is a need to understand the link between the two. Data from the Global School-Based Student Health Survey (GSHS) from Pakistan, Sri-Lanka, and Myanmar were analyzed. The GSHS is conducted using standardized sampling and survey methodology procedures. The association between experiences of bullying and depressive symptoms was estimated by computing unadjusted and adjusted prevalence ratios. Results indicate that adolescents who were bullied were significantly more likely to report symptoms of depression in all three countries. Findings support those from other regions suggesting that adolescents are at higher risk of developing depressive symptoms when they experience bullying, highlighting the need for resources, including policy and infrastructure, to address both bullying and mental health issues in the region. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Murshid, Nadine Shaanta] SUNY Buffalo, Sch Social Work, Buffalo, NY 14260 USA.
+   [Murshid, Nadine Shaanta] SUNY Buffalo, 685 Baldy Hall, Buffalo, NY 14260 USA.
+C3 State University of New York (SUNY) System; State University of New York
+   (SUNY) Buffalo; State University of New York (SUNY) System; State
+   University of New York (SUNY) Buffalo
+RP Murshid, NS (corresponding author), SUNY Buffalo, Sch Social Work, Buffalo, NY 14260 USA.; Murshid, NS (corresponding author), SUNY Buffalo, 685 Baldy Hall, Buffalo, NY 14260 USA.
+EM nadinemu@buffalo.edu
+NR 49
+TC 16
+Z9 18
+U1 2
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0190-7409
+EI 1873-7765
+J9 CHILD YOUTH SERV REV
+JI Child. Youth Serv. Rev.
+PD MAY
+PY 2017
+VL 76
+BP 163
+EP 169
+DI 10.1016/j.childyouth.2017.03.003
+PG 7
+WC Family Studies; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Social Work
+GA EV2PM
+UT WOS:000401597600019
+DA 2023-12-06
+ER
+
+PT J
+AU Peltzer, K
+   Yi, SY
+   Pengpid, S
+AF Peltzer, Karl
+   Yi, Siyan
+   Pengpid, Supa
+TI Suicidal behaviors and associated factors among university students in
+   six countries in the Association of Southeast Asian Nations (ASEAN)
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE Suicidal behaviors; Suicidal ideation; Suicide attempt; University
+   students; the Association of Southeast Asian Nations; (ASEAN)
+ID ADVERSE CHILDHOOD EXPERIENCES; POSTTRAUMATIC-STRESS; DEPRESSIVE
+   SYMPTOMS; GENDER-DIFFERENCES; PHYSICAL-ACTIVITY; COLLEGE-STUDENTS;
+   RELIGION INDEX; OLDER-ADULTS; IDEATION; RISK
+AB A large data gap remains on suicidal behaviors among youth in the Association of Southeast Asian Nations (ASEAN) countries, despite the increasing rates of suicide in Asian cultures that may be related to rapid economic changes and the loss of social stability. This study was therefore conducted to explore the prevalence of and factors associated with suicidal ideation and suicide attempts among university students in six ASEAN member states. Data were collected in a cross-sectional survey of 4675 undergraduate university students, mean age 20.6 years (SD = 2.7), range of 18-30 years, from Cambodia, Indonesia, Malaysia, Myanmar, Thailand and Vietnam. The overall prevalence of ever suicidal ideation and ever suicide attempt among students in this study was 11.7% and 2.4%, respectively. Different rates of these suicidal behaviors were observed across the countries. In multivariable logistic regression models, suicidal ideation was significantly associated with psychosocial factors including childhood sexual abuse, depressive symptoms, involvement in physical fights, and poor academic performance as well as socio-environmental factors including living with parents or guardians and low involvement in organized religious activity. Suicide attempt was significantly associated with childhood sexual abuse, depressive symptoms, low involvement in organized religious activity and being underweight or overweight. Our findings suggest that individual-level strategies for suicide prevention should be targeted toward students with poor academic performance, mental health problems and a history of adverse childhood experiences. Particular attention should be paid to the role of families that could be a potential stressor in the lives of university students. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, Turfloop, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+   [Yi, Siyan] KHANA Ctr Populat Hlth Res, Phnom Penh, Cambodia.
+   [Yi, Siyan] Touro Univ Calif, Ctr Global Hlth Res, Vallejo, CA USA.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa; Touro University California
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+EM karl.pel@mahidol.ac.th
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Yi, Siyan/0000-0002-3045-5386
+FU South African Department of Higher Education
+FX Partial funding for this study was provided by the South African
+   Department of Higher Education. The following colleagues participated in
+   this ASEAN student health survey and contributed to data collection
+   (locations of universities in parentheses): Cambodia: Siyan Yi (Phnom
+   Penh); Indonesia: Erna Rochmawati (Yogyakarta), Malaysia: Wah Yun Low
+   (Kuala Lumpur); Myanmar: Hla Hla Win (Yangon); Thailand: Niruwan
+   Turnbull (Maha Sarakham); Vietnam: Thang Nguyen Huu (Hanoi).
+NR 56
+TC 45
+Z9 53
+U1 2
+U2 53
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD APR
+PY 2017
+VL 26
+BP 32
+EP 38
+DI 10.1016/j.ajp.2017.01.019
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA EY8ZO
+UT WOS:000404288300010
+PM 28483087
+DA 2023-12-06
+ER
+
+PT J
+AU Turnbull, N
+   Peltzer, K
+   Pengpid, S
+   Low, WY
+   Huu, TN
+   Rochmawati, E
+   Win, HH
+AF Turnbull, Niruwan
+   Karl Peltzer
+   Pengpid, Supa
+   Low, Wah Yun
+   Thang Nguyen Huu
+   Rochmawati, Erna
+   Win, Hla Hla
+TI Pathological Internet Use and Psychosocial Risk Factors among ASEAN
+   University Students
+SO IRANIAN JOURNAL OF PSYCHIATRY AND BEHAVIORAL SCIENCES
+LA English
+DT Article
+DE Asia; Comorbidity; Internet; Psychosocial Factors; Students
+ID ADDICTION; PREVALENCE; ADOLESCENTS; DEPRESSION
+AB Background: Pathological internet use may lead to serious psychosocial problems and dysfunction.
+   Objectives: The purpose of the study was to investigate the prevalence of pathological internet use among undergraduate university students in five ASEAN countries in relation to sociodemographics, internet use variables, psychosocial factors, and comorbid symptoms.
+   Methods: In a cross-sectional survey in 2015 in Indonesia (Yogyakarta), Malaysia (Kuala Lumpur), Myanmar (Yangon), Thailand (MahaSarakham), and Vietnam (Hanoi), 3240 undergraduate university students (Mean age = 20.5 years, SD = 1.6), who were randomly selected, responded to a questionnaire including the "Young Diagnostic Questionnaire for Internet Addiction" (YDQ) and other measures.
+   Results: Overall, the prevalences of pathological internet use were 35.9% (ranging from 16.1% in Myanmar to 52.4% in Thailand), maladaptive use 34.8% and adjusted Internet users 29.9%. In multivariate logistic regression analysis, internet use variables (heavy overall Internet use, heavy Internet use for recreational purposes, and heavy smartphone use), psychosocial factors (the experience of childhood physical abuse, childhood sexual abuse, lack of social support, and poor academic performance), and comorbid symptoms (having a self-classified gambling problem, hazardous or harmful alcohol use, past 12-month drug use, severe depression, sleeping problems, having attempted a suicide, and PTSD symptoms) were found to be associated with pathological internet use.
+   Conclusions: The study found a very high prevalence of pathological internet use; those students lacking psychosocial support and having comorbid symptoms were at the highest risk.
+C1 [Turnbull, Niruwan] Mahasarakham Univ, Fac Publ Hlth, Maha Sarakham, Thailand.
+   [Karl Peltzer] Ton Duc Thang Univ, Dept Management Sci & Technol Dev, Ho Chi Minh City, Vietnam.
+   [Karl Peltzer] Ton Duc Thang Univ, Fac Pharm, Ho Chi Minh City, Vietnam.
+   [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, Sovenga, South Africa.
+   [Low, Wah Yun] Univ Malaya, Fac Med, Kuala Lumpur, Malaysia.
+   [Thang Nguyen Huu] Hanoi Med Univ, Fac Publ Hlth, Hanoi, Vietnam.
+   [Rochmawati, Erna] Univ Muhammadiyah Yogyakarta, Sch Nursing, Jl Lingkar Selatan, Bantul, Di Yogyakarta, Indonesia.
+   [Win, Hla Hla] Univ Med 1, DepartmentPrevent & Social Med Dept, Yangon, Myanmar.
+C3 Mahasarakham University; Ton Duc Thang University; Ton Duc Thang
+   University; Mahidol University; University of Limpopo; Universiti
+   Malaya; Hanoi Medical University; Universitas Muhammadiyah Yogyakarta
+RP Peltzer, K (corresponding author), Ton Duc Thang Univ, Ho Chi Minh City, Vietnam.
+EM karl.peltzer@tdt.edu.vn
+RI Peltzer, Karl/Q-7334-2019; Turnbull, Niruwan/U-3223-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Turnbull, Niruwan/0000-0002-7698-3352
+FU South African Department of higher education
+FX Partial funding for this study was provided by the South African
+   Department of higher education.
+NR 24
+TC 7
+Z9 7
+U1 0
+U2 27
+PU KOWSAR PUBL
+PI HOENSBROEK
+PA PATERSWEG 22,, HOENSBROEK, LIMBURG 6431 GC, NETHERLANDS
+SN 1735-8639
+EI 1735-9287
+J9 IRAN J PSYCHIATRY BE
+JI Iran. J. Psychiatry Behav. Sci.
+PD MAR
+PY 2018
+VL 12
+IS 1
+AR e10063
+DI 10.5812/ijpbs.10063
+PG 8
+WC Psychiatry
+WE Emerging Sources Citation Index (ESCI)
+SC Psychiatry
+GA GG8YK
+UT WOS:000432985900015
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Pengpid, S
+   Peltzer, K
+AF Pengpid, Supa
+   Peltzer, Karl
+TI High carbonated soft drink consumption is associated with externalizing
+   but not internalizing behaviours among university students in five ASEAN
+   states
+SO PSYCHOLOGY RESEARCH AND BEHAVIOR MANAGEMENT
+LA English
+DT Article
+DE soft drink consumption; addictive behaviour; substance use; mental
+   distress; university students; ASEAN
+ID DEPRESSIVE SYMPTOMS; MENTAL-HEALTH; SUICIDAL BEHAVIORS; SODA
+   CONSUMPTION; OLDER-ADULTS; FOOD; QUESTIONNAIRE; ADOLESCENTS; STRESS;
+   SAMPLE
+AB Background: The investigation aimed to estimate the association between carbonated soft drink consumption frequency and externalizing and internalizing behaviour among university students in five ASEAN counties.
+   Methods: A cross-sectional survey included 3353 university students from Indonesia, Malaysia, Myanmar, Thailand and Vietnam, median age 20 years (interquartile range 3 years).
+   Results: In all five ASEAN countries, the study found a prevalence no soft drink consumption in the past 30 days of 20.3%, less than one time a day 44.7%, once a day 25.4% and two or more times a day 9.6%. In the adjusted logistic regression analysis, higher frequency of soft drink consumption (one and/or two or more times a day) was associated with externalizing behaviour (in physical fight, injury, current tobacco use, problem drinking, drug use, pathological internet use and gambling behaviour), and higher frequency of soft drink consumption (two or more times a day) was associated with depression in females, but no association was found for the general student population in relation to internalizing behaviour (depression, posttraumatic stress disorder, suicidal ideation, suicide plan, suicide attempt and sleeping problem).
+   Conclusions: Findings suggest that carbonated soft drink consumption is associated with a number of externalizing but not internalizing health risk behaviours.
+C1 [Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya, Nakhon Pathom, Thailand.
+   [Pengpid, Supa; Peltzer, Karl] North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus 2,Hoffman St, ZA-2531 Potchefstroom, South Africa.
+C3 Mahidol University; North West University - South Africa
+RP Peltzer, K (corresponding author), North West Univ, Deputy Vice Chancellor Res & Innovat Off, Potchefstroom Campus 2,Hoffman St, ZA-2531 Potchefstroom, South Africa.
+EM kfpeltzer@gmail.com
+RI Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876
+NR 35
+TC 4
+Z9 4
+U1 0
+U2 20
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1179-1578
+J9 PSYCHOL RES BEHAV MA
+JI Psychol. Res. Behav. Manag.
+PY 2019
+VL 12
+BP 585
+EP 592
+DI 10.2147/PRBM.S209611
+PG 8
+WC Psychology, Clinical; Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA IO3PH
+UT WOS:000479292100002
+PM 31534377
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU McGready, R
+   Boel, M
+   Rijken, MJ
+   Ashley, EA
+   Cho, T
+   Moo, O
+   Paw, MK
+   Pimanpanarak, M
+   Hkirijareon, L
+   Carrara, VI
+   Lwin, KM
+   Phyo, AP
+   Turner, C
+   Chu, CS
+   van Vugt, M
+   Price, RN
+   Luxemburger, C
+   ter Kuile, FO
+   Tan, SO
+   Proux, S
+   Singhasivanon, P
+   White, NJ
+   Nosten, FH
+AF McGready, Rose
+   Boel, Machteld
+   Rijken, Marcus J.
+   Ashley, Elizabeth A.
+   Cho, Thein
+   Moo, Oh
+   Paw, Moo Koh
+   Pimanpanarak, Mupawjay
+   Hkirijareon, Lily
+   Carrara, Verena I.
+   Lwin, Khin Maung
+   Phyo, Aung Pyae
+   Turner, Claudia
+   Chu, Cindy S.
+   van Vugt, Michele
+   Price, Richard N.
+   Luxemburger, Christine
+   ter Kuile, Feiko O.
+   Tan, Saw Oo
+   Proux, Stephane
+   Singhasivanon, Pratap
+   White, Nicholas J.
+   Nosten, Francois H.
+TI Effect of Early Detection and Treatment on Malaria Related Maternal
+   Mortality on the North-Western Border of Thailand 1986-2010
+SO PLOS ONE
+LA English
+DT Article
+ID FALCIPARUM-MALARIA; PREGNANT-WOMEN; DOUBLE-BLIND; KAREN; EPIDEMIOLOGY;
+   PREVENTION; RATES; AREA; HIV
+AB Introduction: Maternal mortality is high in developing countries, but there are few data in high-risk groups such as migrants and refugees in malaria-endemic areas. Trends in maternal mortality were followed over 25 years in antenatal clinics prospectively established in an area with low seasonal transmission on the north-western border of Thailand.
+   Methods and Findings: All medical records from women who attended the Shoklo Malaria Research Unit antenatal clinics from 12th May 1986 to 31st December 2010 were reviewed, and maternal death records were analyzed for causality. There were 71 pregnancy-related deaths recorded amongst 50,981 women who attended antenatal care at least once. Three were suicide and excluded from the analysis as incidental deaths. The estimated maternal mortality ratio (MMR) overall was 184 (95% CI 150-230) per 100,000 live births. In camps for displaced persons there has been a six-fold decline in the MMR from 499 (95% CI 200-780) in 1986-90 to 79 (40-170) in 2006-10, p<0.05. In migrants from adjacent Myanmar the decline in MMR was less significant: 588 (100-3260) to 252 (150-430) from 1996-2000 to 2006-2010. Mortality from P. falciparum malaria in pregnancy dropped sharply with the introduction of systematic screening and treatment and continued to decline with the reduction in the incidence of malaria in the communities. P. vivax was not a cause of maternal death in this population. Infection (non-puerperal sepsis and P. falciparum malaria) accounted for 39.7 (27/68) % of all deaths.
+   Conclusions: Frequent antenatal clinic screening allows early detection and treatment of falciparum malaria and substantially reduces maternal mortality from P. falciparum malaria. No significant decline has been observed in deaths from sepsis or other causes in refugee and migrant women on the Thai-Myanmar border.
+C1 [McGready, Rose; Boel, Machteld; Rijken, Marcus J.; Ashley, Elizabeth A.; Cho, Thein; Moo, Oh; Paw, Moo Koh; Pimanpanarak, Mupawjay; Hkirijareon, Lily; Carrara, Verena I.; Lwin, Khin Maung; Phyo, Aung Pyae; Turner, Claudia; Chu, Cindy S.; van Vugt, Michele; Luxemburger, Christine; ter Kuile, Feiko O.; Tan, Saw Oo; Proux, Stephane; Nosten, Francois H.] Shoklo Malaria Res Unit, Dept Obstet, Mae Sot, Thailand.
+   [McGready, Rose; Ashley, Elizabeth A.; Turner, Claudia; van Vugt, Michele; Singhasivanon, Pratap; White, Nicholas J.; Nosten, Francois H.] Mahidol Oxford Trop Med Res Unit, Fac Trop Med, Bangkok, Thailand.
+   [McGready, Rose; Ashley, Elizabeth A.; Turner, Claudia; Price, Richard N.; White, Nicholas J.; Nosten, Francois H.] Univ Oxford, Ctr Trop Med, Oxford, England.
+   [van Vugt, Michele] Univ Amsterdam, Div Infect Dis, Amsterdam, Netherlands.
+   [Price, Richard N.] Menzies Sch Hlth Res, Global Hlth Div, Darwin, NT, Australia.
+   [ter Kuile, Feiko O.] Univ Liverpool, Liverpool Sch Trop Med, Child & Reprod Hlth Grp, Liverpool L3 5QA, Merseyside, England.
+C3 Mahidol University; Mahidol Oxford Tropical Medicine Research Unit
+   (MORU); University of Oxford; University of Amsterdam; Charles Darwin
+   University; Menzies School of Health Research; Liverpool School of
+   Tropical Medicine; University of Liverpool
+RP McGready, R (corresponding author), Shoklo Malaria Res Unit, Dept Obstet, Mae Sot, Thailand.
+EM rose@shoklo-unit.com
+RI Chu, Cindy S/E-3135-2014; ter Kuile, Feiko/HZJ-2409-2023; Phyo, Aung
+   Pyae/K-2413-2019; White, Nicholas J/I-4629-2012; Carrara,
+   Verena/R-6492-2019; Phyo, Aung Pyae/GYU-6181-2022; Kuile, Feiko
+   ter/ABD-6681-2020; McGready, Rose/A-3290-2014; White,
+   Nick/AAC-6527-2019; Nosten, Francois/AAC-5509-2019
+OI Chu, Cindy S/0000-0001-9465-8214; Phyo, Aung Pyae/0000-0002-0383-9624;
+   Carrara, Verena/0000-0002-2758-0872; Phyo, Aung
+   Pyae/0000-0002-0383-9624; Kuile, Feiko ter/0000-0003-3663-5617;
+   McGready, Rose/0000-0003-1621-3257; White, Nick/0000-0002-1897-1978;
+   Nosten, Francois/0000-0002-7951-0745; Ashley,
+   Elizabeth/0000-0002-7620-4822; Rijken, Marcus/0000-0003-0914-5508;
+   Price, Richard/0000-0003-2000-2874; Singhasivanon,
+   Pratap/0000-0002-9759-1702; Paw, Moo Kho/0000-0002-4008-3168
+FU Wellcome Trust of Great Britain (Major Overseas Programme-Thailand Unit
+   Core Grant)
+FX This research was a part of the Wellcome Trust Mahidol University Oxford
+   Tropical Medicine Research Programme, supported by the Wellcome Trust of
+   Great Britain (Major Overseas Programme-Thailand Unit Core Grant). The
+   funders had no role in the collection, analysis and interpretation of
+   the data, the writing of the article, or in submission of the paper for
+   publication. The views expressed in the paper are those of the authors
+   and do not represent the positions of their respective institutions or
+   that of the funding agencies.
+NR 41
+TC 47
+Z9 48
+U1 1
+U2 8
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 18
+PY 2012
+VL 7
+IS 7
+AR e40244
+DI 10.1371/journal.pone.0040244
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 975YY
+UT WOS:000306548900018
+PM 22815732
+OA Green Published, gold, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Kiss, L
+   Yun, K
+   Pocock, N
+   Zimmerman, C
+AF Kiss, Ligia
+   Yun, Katherine
+   Pocock, Nicola
+   Zimmerman, Cathy
+TI Exploitation, Violence, and Suicide Risk Among Child and Adolescent
+   Survivors of Human Trafficking in the Greater Mekong Subregion
+SO JAMA PEDIATRICS
+LA English
+DT Article
+ID HOPKINS SYMPTOM CHECKLIST-25; INTIMATE PARTNER VIOLENCE; MENTAL-HEALTH;
+   INSTRUMENT; DISORDERS; SERVICES; CAMBODIA; TRAUMA; WOMEN
+AB IMPORTANCE Human trafficking and exploitation of children have profound health consequences. To our knowledge, this study represents the largest survey on the health of child and adolescent survivors of human trafficking.
+   OBJECTIVE To describe experiences of abuse and exploitation, mental health outcomes, and suicidal behavior among children and adolescents in posttrafficking services. We also examine how exposures to violence, exploitation, and abuse affect the mental health and suicidal behavior of trafficked children.
+   DESIGN, SETTING, AND PARTICIPANTS A survey was conducted with 387 children and adolescents aged 10 to 17 years in posttrafficking services in Cambodia, Thailand, or Vietnam, which along with Laos, Myanmar, and Yunnan Province, China, compose the Greater Melong Subregion. Participants were interviewed within 2 weeks of entering services from October 2011 through May 2013.
+   MAIN OUTCOMES AND MEASURES Depression, posttraumatic stress disorder, anxiety, suicidal ideation, self-injury, and suicide attempts. RESULTS Among the 387 children and adolescent study participants, most (82%) were female. Twelve percent had tried to harm or kill themselves in the month before the interview. Fifty-six percent screened positive for depression, 33% for an anxiety disorder, and 26% for posttraumatic stress disorder. Abuse at home was reported by 20%. Physical violence while trafficked was reported by 41% of boys and 19% of girls. Twenty-three percent of girls and 1 boy reported sexual violence. Mental health symptoms were strongly associated with recent self-harm and suicide attempts. Severe physical violence was associated with depression (adjusted odds ratio [AOR], 3.55; 95% CI, 1.64-7.71), anxiety (AOR, 2.13; 95% CI, 1.12-4.05), and suicidal ideation (AOR, 3.68; 95% CI, 1.77-7.67). Sexual violence while trafficked was associated with depression (AOR, 2.27; 95% CI, 1.22-4.23) and suicidal ideation (AOR, 3.43; 95% CI, 1.80-6.54).
+   CONCLUSIONS AND RELEVANCE Children and adolescents in posttrafficking care showed high symptom levels of depression, anxiety, and posttraumatic stress disorder, which are strongly associated with self-harm or suicidal behaviors. Mental health screening and reintegration risk assessments are critical components of posttrafficking services, especially in planning for family reunification and other social integration options.
+C1 [Kiss, Ligia; Pocock, Nicola] London Sch Hyg & Trop Med, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, London WC1H 9SH, England.
+   [Yun, Katherine] Childrens Hosp Philadelphia, PolicyLab, Philadelphia, PA 19104 USA.
+   [Zimmerman, Cathy] London Sch Hyg & Trop Med, Gender Violence & Hlth, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, London WC1H 9SH, England.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Pennsylvania; Pennsylvania Medicine; Childrens Hospital of
+   Philadelphia; University of London; London School of Hygiene & Tropical
+   Medicine
+RP Kiss, L (corresponding author), London Sch Hyg & Trop Med, Dept Global Hlth & Dev, Fac Publ Hlth & Policy, 15-17 Tavistock Pl, London WC1H 9SH, England.
+EM ligia.kiss@lshtm.ac.uk
+RI Pocock, Nicola Suyin/ABB-5446-2020
+OI Pocock, Nicola Suyin/0000-0002-2083-4171; Kiss,
+   Ligia/0000-0002-3334-7110
+FU Anesvad Foundation; International Organization for Migration Development
+   Fund; Economic and Social Research Council, United Kingdom
+FX This study was funded by Anesvad Foundation and International
+   Organization for Migration Development Fund, with additional support
+   from the Economic and Social Research Council, United Kingdom.
+NR 49
+TC 79
+Z9 89
+U1 1
+U2 62
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 2168-6203
+EI 2168-6211
+J9 JAMA PEDIATR
+JI JAMA Pediatr.
+PD SEP
+PY 2015
+VL 169
+IS 9
+AR e152278
+DI 10.1001/jamapediatrics.2015.2278
+PG 8
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA CR0CT
+UT WOS:000360986500002
+PM 26348864
+OA Green Accepted
+DA 2023-12-06
+ER
+
+EF

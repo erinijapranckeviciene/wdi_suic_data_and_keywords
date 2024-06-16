@@ -1,0 +1,225 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hami, H
+   Diallo, T
+   Maïga, A
+   Mokhtari, A
+   Soulaymani, A
+AF Hami, H.
+   Diallo, T.
+   Maiga, A.
+   Mokhtari, A.
+   Soulaymani, A.
+TI Suicide Attempts in Mali
+SO DRUG SAFETY
+LA English
+DT Meeting Abstract
+CT 11th Annual Meeting of the International-Society-of-Pharmacovigilance
+   (ISoP) on Next Stop - Istanbul-Bridging the Continents
+CY OCT 26-28, 2011
+CL Istanbul, TURKEY
+SP Int Soc Pharmacovigilance
+C1 [Hami, H.; Diallo, T.; Mokhtari, A.; Soulaymani, A.] Ibn Tofail Univ, Lab Genet & Biometry, Fac Sci, Kenitra, Morocco.
+   [Diallo, T.; Maiga, A.] Fac Med Pharm & Odontostomatol, Bamako, Mali.
+C3 Ibn Tofail University of Kenitra
+RI SOULAYMANI, Abdelmajid/H-4382-2011
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; Mokhtari,
+   Abdelrhani/0000-0002-3771-8257
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ADIS INT LTD
+PI AUCKLAND
+PA 41 CENTORIAN DR, PRIVATE BAG 65901, MAIRANGI BAY, AUCKLAND 1311, NEW
+   ZEALAND
+SN 0114-5916
+J9 DRUG SAFETY
+JI Drug Saf.
+PY 2011
+VL 34
+IS 10
+BP 961
+EP 961
+PG 1
+WC Public, Environmental & Occupational Health; Pharmacology & Pharmacy;
+   Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Public, Environmental & Occupational Health; Pharmacology & Pharmacy;
+   Toxicology
+GA 827QR
+UT WOS:000295443500167
+DA 2023-12-06
+ER
+
+PT J
+AU Abdoulhamidou, A
+   Moustapha, M
+   Thierno, DM
+   Alioune, BS
+   Aladji, DS
+   Kassim, D
+   Mahamane, DD
+AF Abdoulhamidou, Almeimoune
+   Moustapha, Mangane
+   Thierno, Diop Madane
+   Alioune, Beye Seydina
+   Aladji, Dembele Seydou
+   Kassim, Diarra
+   Mahamane, Diango Djibo
+TI Management of medical assistance to the victims of terrorist attacks in
+   Mali
+SO PAN AFRICAN MEDICAL JOURNAL
+LA French
+DT Article
+DE Massive influx; suicide bombing; terrorism; University Hospital Gabriel
+   Toure; emergency; war; Mali
+ID EPIDEMIOLOGY
+AB Introduction: Recent suicide bombings have revealed a new type of massive influx of injured people, unique of its kind, which must be managed in Hospitals. Methods: We here describe the experience in the management of medical assistance to the victims of terrorist attacks in Mali in the University Hospital Gabriel Toure in Bamako and in the Hospital N.Fomba in Segou. Results: Sixty-four victims of three attacks were included in our study, among them 22 (34.4%) died on arrival. Ninety-seven percent of victims were men; the victims were native of Mali in 71% of cases. fifty-one percent of participants had severe injuries; 35% of these participants had predominant lesions on their limbs. No victim included alive died during treatment at the Hospital. Conclusion: The availability of accurate information's on the mechanisms and the severity of the lesions as well as prehospital medical treatment will reduce disaster-related morbi-mortality.
+C1 [Abdoulhamidou, Almeimoune; Moustapha, Mangane; Thierno, Diop Madane; Mahamane, Diango Djibo] CHU Gabriel Toure, Dept Anesthesie Reanimat & Med Urgence, Bamako, Mali.
+   [Alioune, Beye Seydina] Hop Segou, Serv Anesthesie Reanimat & Urgences, Segou, Mali.
+   [Aladji, Dembele Seydou] CHU IOTA, Serv Anesthesie Reanimat, Bamako, Mali.
+   [Kassim, Diarra] CHU Gabriel Toure, Serv ORL, Bamako, Mali.
+RP Abdoulhamidou, A (corresponding author), CHU Gabriel Toure, Dept Anesthesie Reanimat & Med Urgence, Bamako, Mali.
+NR 7
+TC 0
+Z9 0
+U1 1
+U2 2
+PU AFRICAN FIELD EPIDEMIOLOGY NETWORK-AFENET
+PI KAMPALA
+PA PO BOX 12874, KAMPALA, 00000, UGANDA
+SN 1937-8688
+J9 PAN AFR MED J
+JI Pan Afr. Med. J.
+PD MAY 15
+PY 2018
+VL 30
+AR 28
+DI 10.11604/pamj.2018.30.28.14610
+PG 7
+WC Public, Environmental & Occupational Health
+WE Emerging Sources Citation Index (ESCI)
+SC Public, Environmental & Occupational Health
+GA GM0SX
+UT WOS:000437767600001
+PM 30167055
+DA 2023-12-06
+ER
+
+PT J
+AU Diallo, T
+   Hami, H
+   Maiga, A
+   Coulibaly, B
+   Maiga, D
+   Mokhtari, A
+   Soulaymani, R
+   Soulaymani, A
+AF Diallo, Tidiane
+   Hami, Hinde
+   Maiga, Ababacar
+   Coulibaly, Boubou
+   Maiga, Diadie
+   Mokhtari, Abdelrhani
+   Soulaymani, Rachida
+   Soulaymani, Abdelmajid
+TI Epidemiology and risk factors for voluntary intoxication in Mali
+SO SANTE PUBLIQUE
+LA French
+DT Article
+DE Deliberate poisoning; Epidemiology; Drug; Mali
+AB Introduction: Voluntary intoxication is a major medical and social problem in developing countries and the most common method of suicide attempt. The purpose of this paper is to describe the main characteristics of voluntary intoxication in Mali and the risk factors associated with the outcome of poisoning. More generally, the aim is to contribute to the reduction of morbidity and mortality associated with self-poisoning.
+   Methods: We conducted a retrospective descriptive study of the cases of deliberate self-poisoning recorded between 2000 and 2010 in 15 Malian hospitals.
+   Results: 884 cases of self-poisoning (233 men and 651 women) were identified during the period of study, representing 28% of all cases of poisoning reported during this period. The man age of the victims was 23 +/- 8.9 years. The available data indicate that the most common cases were suicide attempts and self-induced abortion using toxic substances (respectively 62.8% and 29% of all cases). The most common methods were drugs (74.5%), especially chloroquine (65%), followed by industrial products (9.1%). The most commonly used industrial products were hydrochloric acid (26.7%), sodium hypochlorite (bleach) (22.2%) and sulphuric acid (15.6%). The findings suggest that poisoning symptoms vary depending on the type of substance, the amount ingested and the delay before treatment. 86 of the 877 cases with known outcome resulted in death.
+   Conclusion: The number of cases of poisoning is probably underestimated since many cases remain undiagnosed and unreported.
+C1 [Diallo, Tidiane; Hami, Hinde; Mokhtari, Abdelrhani; Soulaymani, Abdelmajid] Univ Ibn Tofail, Fac Sci, Lab Genet & Biometrie, Kenitra, Morocco.
+   [Diallo, Tidiane; Maiga, Ababacar] Univ Bamako, Fac Med Pharm & Odontostomatol, Bamako, Mali.
+   [Coulibaly, Boubou] Pharm Cote Bamako, Bamako, Mali.
+   [Maiga, Diadie] Direct Pharm & Med, Bamako, Mali.
+   [Soulaymani, Rachida] Ctr Anti Poison & Pharmacovigilance Maroc, Rabat, Morocco.
+C3 Ibn Tofail University of Kenitra; University of Bamako
+RP Diallo, T (corresponding author), Univ Ibn Tofail, Fac Sci, Lab Genet & Biometrie, Kenitra, Morocco.
+EM t_diallo2003@yahoo.fr
+RI SOULAYMANI, Abdelmajid/H-4382-2011
+OI SOULAYMANI, Abdelmajid/0000-0002-0964-1029; Rachida, Soulaymani
+   Bencheikh/0000-0002-3764-3523; Hami, Hinde/0000-0002-1803-0115;
+   Mokhtari, Abdelrhani/0000-0002-3771-8257
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SOC FRANCAISE SANTE PUBLIQUE
+PI VANDOEUVRE-LES-NANCY CEDEX
+PA 2 RUE DU DOYEN JACQUES PARISOT, BP 7, VANDOEUVRE-LES-NANCY CEDEX, 54501,
+   FRANCE
+SN 0995-3914
+J9 SANTE PUBLIQUE
+JI Sante Publique
+PD MAY-JUN
+PY 2013
+VL 25
+IS 3
+BP 359
+EP 366
+DI 10.3917/spub.253.0359
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health
+GA 208OA
+UT WOS:000323687800013
+PM 24007912
+DA 2023-12-06
+ER
+
+PT J
+AU Flaherty, MG
+   Roberts, LF
+AF Flaherty, Mary Grace
+   Roberts, Leslie F.
+TI Internet searching produces misleading findings regarding violent deaths
+   in crisis settings: short report
+SO CONFLICT AND HEALTH
+LA English
+DT Letter
+DE Violent death rate; Internet searching; Humanitarian injustice
+AB Donor and agency priorities are influenced by a variety of political, social, and media-related forces that can have a profound impact on response and resource provision. We have attempted to assess how well internet searches articulate the span of violent death rates for five current crisis settings. In three graduate classes (2 public health, 1 information science) at US universities, during a four month period in 2017-2018, we asked approximately 60 graduate students to conduct an internet search to determine which of five countries had the highest and lowest violence specific mortality rate: Venezuela, Syria, Yemen, Central African Republic (CAR), or Mali. Students were divided into groups of three, and within each group explored this question by three approaches. Many graduate students in all groups could not determine the relative rates, especially which country had the lowest violence specific mortality rate. Of the 34 searches that identified a highest violent death rate country, 27.5 (81%) concluded it was Venezuela, followed by Syria (4.5; 13%), Mali (1; 3%) and CAR (1; 3%). Of the 26 searches that identified a least violent death rate 21.5 (83%) reported either CAR or Mali, followed by Yemen (2.5; 10%) and Syria (2; 8%). Aside from lack of data on CAR and Mali, students were perplexed about whether to include suicides or executions in the measure. This resulted in almost half of all inquiries unable to estimate a highest and lowest rate among these five countries. Where conclusions were drawn, it is likely the internet drew students to the opposite conclusion from reality. There are several reasons for this discordance, such as differing categories of violent deaths as defined by the World Health Organization, and search engine algorithms. It is probable, however, that larger issues of connectivity of individual societies with each other and the outside world are playing a profound role in the deceptive results found in this exercise. This insight emphasizes the internet's under-reporting in the world's most poor and remote locations, and highlights the importance of primary data collection and reporting in such settings.
+C1 [Flaherty, Mary Grace] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+   [Roberts, Leslie F.] Columbia Univ, Mailman Sch Publ Hlth, Populat & Family Hlth, New York, NY 10023 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Columbia University
+RP Flaherty, MG (corresponding author), Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+EM mgflaher@email.unc.edu
+OI Flaherty, Mary Grace/0000-0002-8623-4259
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PD FEB 15
+PY 2019
+VL 13
+AR 4
+DI 10.1186/s13031-019-0187-z
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HL9CG
+UT WOS:000459039400001
+PM 30815029
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+EF

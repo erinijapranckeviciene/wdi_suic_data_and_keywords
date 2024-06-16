@@ -1,0 +1,172 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Isak, OV
+AF Isak, OV
+TI Suicide in Moldova viewed from the position of E. Durkheim's concept
+SO SOTSIOLOGICHESKIE ISSLEDOVANIYA
+LA Russian
+DT Article
+C1 Moldova State Univ, Dept Sociol & Social Work, Kishinev, Moldova.
+C3 Moldova State University
+RP Isak, OV (corresponding author), Moldova State Univ, Dept Sociol & Social Work, Kishinev, Moldova.
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 1
+PU MEZHDUNARODNAYA KNIGA
+PI MOSCOW
+PA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA
+SN 0132-1625
+J9 SOTSIOL ISSLED+
+JI Sotsiologicheskie Issled.
+PY 2004
+IS 12
+BP 116
+EP 120
+PG 5
+WC Sociology
+WE Social Science Citation Index (SSCI)
+SC Sociology
+GA 884GL
+UT WOS:000226072700013
+DA 2023-12-06
+ER
+
+PT J
+AU Duric, P
+   Harhaji, S
+   O'May, F
+   Boderscova, L
+   Chihai, J
+   Como, A
+   Hranov, GL
+   Mihai, A
+   Sotiri, E
+AF Duric, Predrag
+   Harhaji, Sanja
+   O'May, Fiona
+   Boderscova, Larisa
+   Chihai, Jana
+   Como, Ariel
+   Hranov, Georgi L.
+   Mihai, Adriana
+   Sotiri, Eugjen
+TI General practitioners' views towards diagnosing and treating depression
+   in five southeastern European countries
+SO EARLY INTERVENTION IN PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH-CARE; PHYSICIANS; PATHWAYS; OBSTACLES; ATTITUDES;
+   BARRIERS; SUICIDE; RISK
+AB Aim To assess and compare general practitioners' (GPs') views of diagnosing and treating depression in five southeastern European countries. Methods A cross-sectional study was conducted in Albania, Bulgaria, Moldova, Romania, and Serbia. The sample included 467 GPs who completed a hard-copy self-administered questionnaire, consisting of self-assessment questions related to diagnosing and treating depression. Results The most common barriers to managing depression in general practice reported by GPs were: patients' unwillingness to discuss depressive symptoms (92.3%); appointment time too short to take an adequate history (91.9%), barriers for prescribing appropriate treatment (90.6%); and patients' reluctance to be referred to a psychiatrist (89.1%). Most GPs (78.4%) agreed that recognizing depression was their responsibility, 71.7% were confident in diagnosing depression, but less than one-third (29.6%) considered that they should treat it. Conclusions Improvements to the organization of mental healthcare in all five countries should consider better training for GPs in depression diagnosis and treatment; the availability of mental healthcare specialists at primary care level, with ensured equal and easy access for all patients; and the removal of potential legal barriers for diagnosis and treatment of depression.
+C1 [Duric, Predrag; O'May, Fiona] Queen Margaret Univ Edinburgh, Inst Global Hlth & Dev, Musselburgh, Scotland.
+   [Duric, Predrag; Harhaji, Sanja] Univ Novi Sad, Fac Med, Inst Publ Hlth Vojvodina, Novi Sad, Vojvodina, Serbia.
+   [Boderscova, Larisa] WHO Country Off, Kishinev, Moldova.
+   [Chihai, Jana] State Med & Pharmaceut Univ Nicolae Testemitanu, Med Psychol & Narcol Dept, Kishinev, Moldova.
+   [Como, Ariel; Sotiri, Eugjen] Tirana Univ Hosp Ctr, Tirana, Albania.
+   [Hranov, Georgi L.] Univ Multiprofile Hosp Act Treatment Neurol & Psy, Psychiat Clin 2, Sofia, Bulgaria.
+   [Mihai, Adriana] Univ Med & Pharm, Dept Psychiat, Targul Mures, Romania.
+C3 Queen Margaret University; University of Novi Sad; Nicolae Testemitanu
+   State University of Medicine & Pharmacy; Medical University Sofia
+RP Duric, P (corresponding author), Queen Margaret Univ Edinburgh, Queen Margaret Univ Dr, Musselburgh EH21 6UU, Scotland.
+EM pduric@qmu.ac.uk
+RI Duric, Predrag/L-9002-2019; Chihai, Jana/GLQ-7102-2022
+OI Duric, Predrag/0000-0001-5770-7224; Chihai, Jana/0000-0002-7720-5544
+FU National Institute of Health Fogarty International Center
+   [ID43TW009122-01]
+FX National Institute of Health Fogarty International Center, Grant/Award
+   Number: ID43TW009122-01
+NR 36
+TC 5
+Z9 6
+U1 1
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-7885
+EI 1751-7893
+J9 EARLY INTERV PSYCHIA
+JI Early Interv. Psychiatry
+PD OCT
+PY 2019
+VL 13
+IS 5
+BP 1155
+EP 1164
+DI 10.1111/eip.12747
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IX8YC
+UT WOS:000485973000016
+PM 30277313
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Leskauskas, D
+   Adomaitiene, V
+   Seskeviciene, G
+   Cesnaite, E
+   Smigelskas, K
+AF Leskauskas, Darius
+   Adomaitiene, Virginija
+   Seskeviciene, Giedre
+   Cesnaite, Egle
+   Smigelskas, Kastytis
+TI Self-Reported Emotional and Behavioral Problems of Left-behind Children
+   in Lithuania
+SO CHILD INDICATORS RESEARCH
+LA English
+DT Article
+DE Emotional problems; Behavioral problems; Left-behind children;
+   Adolescents; Economic migration; Lithuania
+ID PARENTAL MIGRATION; DIFFICULTIES QUESTIONNAIRE; PSYCHOSOCIAL HEALTH;
+   STRENGTHS; CHINA; MOLDOVA
+AB The migration makes an influence on children's mental health and behaviors. However, the majority of studies investigate the families and people in migration rather than left-behind groups in their home countries. OBJECTIVE: to assess the possible impact of parents' migration on emotional and behavioral problems of their left-behind children. The study comprised 10-19-year-old adolescents from five urban secondary schools (n = 1292). The cross-sectional study was conducted in Kaunas city (Lithuania). Main measures were self-reported scales - Strengths and Difficulties Questionnaire (SDQ) and Child Behavior Checklist (CBCL) as well as items on subjective perceptions and feelings towards the change of relationship with a missing parent due to migration or divorce. Findings show that left-behind children report more risky behaviors and emotional problems, they tend more to feel unloved (OR = 2.34, p < 0.05), longing for missing parent (OR = 4.72, p < 0.05), contemplating suicide or self-injuring behavior (OR = 3.92, p < 0.05). Emotional and behavioral problems are more prevalent among 15-19-year-old male adolescents (OR = 1.71, p < 0.05). The left-behind children report more emotional and behavioral problems compared to the children from divorced families. The findings suggest that parental migration has specific negative effects on left-behind children's emotional state and behaviors.
+C1 [Leskauskas, Darius; Adomaitiene, Virginija] Lithuanian Univ Hlth Sci, Dept Psychiat, Eiveniu G 2, LT-50161 Kaunas, Lithuania.
+   [Seskeviciene, Giedre] Univ Sjukhuset, Linkoping Univ Hosp, Dept Child & Adolescent Psychiat, S-58185 Linkoping, Sweden.
+   [Cesnaite, Egle] Alytus Mental Hlth Care Ctr, Naujoji G 48, LT-62381 Alytus, Lithuania.
+   [Smigelskas, Kastytis] Lithuanian Univ Hlth Sci, Hlth Res Inst, Dept Hlth Psychol, Tilzes G 18, LT-47181 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences; Linkoping University;
+   Lithuanian University of Health Sciences
+RP Smigelskas, K (corresponding author), Lithuanian Univ Hlth Sci, Hlth Res Inst, Dept Hlth Psychol, Tilzes G 18, LT-47181 Kaunas, Lithuania.
+EM darius.leskauskas@lsmuni.lt; virginija.adomaitiene@lsmuni.lt;
+   giedre.sesk@gmail.com; ecesnaite@yahoo.com;
+   kastytis.smigelskas@lsmuni.lt
+RI Leskauskas, Darius/AAA-1172-2021
+NR 36
+TC 7
+Z9 7
+U1 7
+U2 31
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1874-897X
+EI 1874-8988
+J9 CHILD INDIC RES
+JI Child Indic. Res.
+PD AUG
+PY 2020
+VL 13
+IS 4
+BP 1203
+EP 1216
+DI 10.1007/s12187-019-09689-5
+EA NOV 2019
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA MH0CB
+UT WOS:000495976000001
+DA 2023-12-06
+ER
+
+EF

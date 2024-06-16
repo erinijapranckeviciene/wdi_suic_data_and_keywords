@@ -1,0 +1,1374 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Granja-González, S
+   Meneses-Fernández, MD
+AF Granja-Gonzalez, Silvia
+   Dolores Meneses-Fernandez, Maria
+TI THE JOURNALISTIC TREATMENT OF SUICIDE IN DIGITAL NEWSPAPERS OF
+   ARGENTINA, SPAIN AND PERU
+SO INDEX COMUNICACION
+LA Spanish
+DT Article
+DE suicide; journalistic treatment; journalistic ethics; South America;
+   Spain
+ID CELEBRITY SUICIDE; POPULATION; IMPACT; RATES
+AB This work shows an analysis of the journalistic treatment of four cases of suicide of international celebrities in digital newspapers of three Spanish-speaking countries: Argentina, Spain and Peru. Two of them, Argentina and Peru, regulate the treatment of suicide through their deontological codes. In Spain, none of the deontological codes applied at the national level do so. The chosen cases have been those of Chester Bennington, Robin Williams, Tony Scott and Alexander McQueen. Our goal was to identify the degree of adequacy of the media to self-regulation norms and to the recommendations of health professionals. We did an analysis of journalistic content, deontological codes and international guidelines prepared by health experts. The results reveal the dysfunction in the informative treatment and the deontological norms regarding the international directives.
+C1 [Granja-Gonzalez, Silvia; Dolores Meneses-Fernandez, Maria] Univ La Laguna, San Cristobal la Laguna, Spain.
+C3 Universidad de la Laguna
+RP Granja-González, S (corresponding author), Univ La Laguna, San Cristobal la Laguna, Spain.
+EM silvia.granja.08@ull.edu.es; dmeneses@ull.edu.es
+RI Fernández, María Dolores Meneses/F-4380-2017
+OI Fernández, María Dolores Meneses/0000-0001-8516-4298
+NR 69
+TC 1
+Z9 1
+U1 3
+U2 4
+PU UNIV REY JUAN CARLOS, FAC CIENCIAS COMUNICACION
+PI MADRID
+PA CAMINO DEL MOLINO S-N, FUENLABRADA, MADRID, 28943, SPAIN
+SN 2444-3239
+EI 2174-1859
+J9 INDEX COMUN
+JI Index Comun.
+PY 2019
+VL 9
+IS 1
+BP 57
+EP 79
+PG 23
+WC Communication
+WE Emerging Sources Citation Index (ESCI)
+SC Communication
+GA IF7UP
+UT WOS:000473290700003
+DA 2023-12-03
+ER
+
+PT J
+AU Vasquez, F
+   Mitrani, M
+   Nicolas, Y
+   Falconi, S
+   Vite, V
+AF Vasquez, F.
+   Mitrani, M.
+   Nicolas, Y.
+   Falconi, S.
+   Vite, V.
+TI Designing a profile of suicide attempter in the National Institute of
+   Mental Health, Lima, Peru, 2006
+SO EUROPEAN NEUROPSYCHOPHARMACOLOGY
+LA English
+DT Meeting Abstract
+CT 20th Congress of the European-College-of-Neuropsychopharmacology
+CY OCT 13-17, 2007
+CL Vienna, AUSTRIA
+SP European Coll Neuropsychopharmacol
+C1 [Vasquez, F.; Mitrani, M.; Nicolas, Y.; Falconi, S.; Vite, V.] Natl Inst Mental Hlth Honorio Delgado Hideyo N, Lima, Peru.
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0924-977X
+EI 1873-7862
+J9 EUR NEUROPSYCHOPHARM
+JI Eur. Neuropsychopharmacol.
+PD OCT
+PY 2007
+VL 17
+SU 4
+BP S590
+EP S591
+DI 10.1016/S0924-977X(07)70922-7
+PG 2
+WC Clinical Neurology; Neurosciences; Pharmacology & Pharmacy; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Neurosciences & Neurology; Pharmacology & Pharmacy; Psychiatry
+GA 235KE
+UT WOS:000251231901330
+DA 2023-12-03
+ER
+
+PT B
+AU Lutz, JM
+   Lutz, BJ
+AF Lutz, James M.
+   Lutz, Brenda J.
+BA Lutz, JM
+   Lutz, B
+BF Lutz, JM
+   Lutz, B
+TI Terrorism Origins and Evolution PREFACE
+SO TERRORISM: ORIGINS AND EVOLUTION
+LA English
+DT Editorial Material; Book Chapter
+ID SENDERO-LUMINOSO; THREAT; INDIA; WAR; CONFLICT; SUICIDE; CRISIS; CLASH;
+   STATE; PERU
+RI Lutz, James/Q-3729-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU PALGRAVE
+PI BASINGSTOKE
+PA HOUNDMILLS, BASINGSTOKE RG21 6XS, ENGLAND
+BN 978-1-40397-858-5
+PY 2005
+BP VIII
+EP +
+D2 10.1057/9781403978585
+PG 21
+WC History; International Relations
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC History; International Relations
+GA BQE83
+UT WOS:000280804600001
+DA 2023-12-03
+ER
+
+PT J
+AU Sandoval-Ato, R
+   Vilela-Estrada, MA
+   Mejia, CR
+   Alvarado, JC
+AF Sandoval-Ato, Raul
+   Vilela-Estrada, Martin A.
+   Mejia, Christian R.
+   Caballero Alvarado, Jose
+TI Suicide risk associated with bullying and depression in high school
+SO REVISTA CHILENA DE PEDIATRIA-CHILE
+LA Spanish
+DT Article
+DE Bullying; suicide risk; depression; children; Peru
+ID ADOLESCENTS; HEALTH; LIFE
+AB Introduction: Suicide risk is increasingly common among children and adolescents. There are no current and local studies of this reality in northern Peru. The objective was to determine whether suicide risk was associated with bullying and depression in high school students. Patients and Method: An analytical cross-sectional study was carried out in a city in northern Peru, using validated surveys to measure suicide risk, bullying and depression. Statical association data were obtained using generalized linear models. Results: Out of 289 schoolchildren, 20% was at suicide risk and had some type of depression. Among those on the upper tertile of the bullying scale, 38% had suicidal ideation, while those who were depressed, 63% had suicidal ideation. The frequency of suicide risk increased as a result of bullying score (aPR: 1.83, 95% CI: 1.13-2.99, p value = 0.015), being depressed (aPR: 3.32, 95% CI: 1.69-6.51, p value < 0.001), family history of suicide (aPR: 1.99, 95% CI: 1.55-2.56, p value < 0.001), the passive desire to die (aPR: 2.20, 95% CI: 1.86-2.61, p value < 0.001), have planned suicide at some point (aPR: 2.05, 95% CI: 1.60-2.64; p value < 0.001) and study in a private school (aPR: 1.16, 95% CI: 1.14-1.18, p value < 0.001); adjusted by gender and school location. Conclusion: Mental health of schoolchildren was involved in many aspects, several of them associated with a higher frequency of suicide risk.
+C1 [Sandoval-Ato, Raul] Univ Nacl Piura, Escuela Posgrad, Castilla, Peru.
+   [Sandoval-Ato, Raul; Mejia, Christian R.; Caballero Alvarado, Jose] Univ Privada Antenor Orrego, Escuela Posgrad, Trujillo, Peru.
+   [Vilela-Estrada, Martin A.] UPAO, Soc Cient Estudiantes Med, Piura, Peru.
+   [Vilela-Estrada, Martin A.] Univ Privada Antenor Orrego, Escuela Med, Piura, Peru.
+   [Mejia, Christian R.] Univ Continental, Escuela Med Humana, Huancayo, Peru.
+   [Sandoval-Ato, Raul] Scientia Clin & Epidemiol Res Inst, Unidad Invest Clin, Trujillo, Peru.
+C3 Universidad Nacional de Piura; Universidad Privada Antenor Orrego;
+   Universidad Privada Antenor Orrego; Universidad Continental
+RP Sandoval-Ato, R (corresponding author), Univ Nacl Piura, Escuela Posgrad, Castilla, Peru.; Sandoval-Ato, R (corresponding author), Univ Privada Antenor Orrego, Escuela Posgrad, Trujillo, Peru.; Sandoval-Ato, R (corresponding author), Scientia Clin & Epidemiol Res Inst, Unidad Invest Clin, Trujillo, Peru.
+EM genrh_@hotmail.com
+OI Vilela, Martin/0000-0002-1494-952X; SANDOVAL ATO, RAUL
+   HERNAN/0000-0001-8666-7188; Caballero-Alvarado, Jose/0000-0001-8297-6901
+NR 37
+TC 18
+Z9 27
+U1 5
+U2 51
+PU SOC CHILENA PEDIATRIA
+PI SANTIAGO
+PA ALCALDE EDUARDO CASTILLO VELASCO 1838, NUNOA, CASILLA 593-11, SANTIAGO,
+   00000, CHILE
+SN 0370-4106
+EI 0717-6228
+J9 REV CHIL PEDIATR-CHI
+JI Rev. Chil. Pediatr.-Chile
+PD APR
+PY 2018
+VL 89
+IS 2
+BP 208
+EP 215
+DI 10.4067/S0370-41062018000200208
+PG 8
+WC Pediatrics
+WE Emerging Sources Citation Index (ESCI)
+SC Pediatrics
+GA GE5FP
+UT WOS:000431245000008
+PM 29799888
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Sharma, B
+   Nam, EW
+   Kim, HY
+   Kim, JK
+AF Sharma, Bimala
+   Nam, Eun Woo
+   Kim, Ha Yun
+   Kim, Jong Koo
+TI Factors Associated with Suicidal Ideation and Suicide Attempt among
+   School-Going Urban Adolescents in Peru
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE suicidal ideation; suicide attempt; factors; adolescents; Peru
+ID KOREAN ADOLESCENTS; ALCOHOL-DRINKING; PERCEIVED WEIGHT; SEXUAL-ABUSE;
+   YOUNG-PEOPLE; RISK; HEALTH; BEHAVIOR; SAMPLE; PREVALENCE
+AB The study examines the prevalence of suicidal ideation and suicide attempt, and associated factors among school-going urban adolescents in Peru. A cross-sectional survey was conducted in a sample of 916 secondary school adolescents in 2014. A structured questionnaire adapted from Global School-based Student Health Survey was used to obtain information. Data were analyzed using logistic regression models at 5% level of significance. Overall, 26.3% reported having suicidal ideation, and 17.5% reported having attempted suicide during the past 12 months. Multivariate logistic regression analysis showed that female sex, being in a fight, being insulted, being attacked, perceived unhappiness, smoking and sexual intercourse initiation were significantly associated with increased risk of suicidal ideation, while female sex, being in a fight, being insulted, being attacked, perceived unhappiness, alcohol and illicit drug use were related to suicide attempt. The prevalence of suicidal ideation and suicide attempts observed in the survey area is relatively high. Female adolescents are particularly vulnerable to report suicidal ideation and suicide attempt. Interventions that address the issue of violence against adolescents, fighting with peers, health risk behaviors particularly initiation of smoking, alcohol and illicit drug use and encourage supportive role of parents may reduce the risk of suicidal behaviors.
+C1 [Sharma, Bimala; Nam, Eun Woo; Kim, Ha Yun; Kim, Jong Koo] Yonsei Univ, Yonsei Global Hlth Ctr, Wonju 220710, Gangwon Do, South Korea.
+   [Sharma, Bimala; Nam, Eun Woo] Yonsei Univ, Inst Poverty Alleviat & Int Dev, Wonju 220710, Gangwon Do, South Korea.
+   [Sharma, Bimala; Nam, Eun Woo; Kim, Ha Yun] Yonsei Univ, Grad Sch, Dept Hlth Adm, Wonju 220710, Gangwon Do, South Korea.
+   [Kim, Jong Koo] Yonsei Univ, Wonju Coll Med, Dept Family Med, Wonju 220710, Gangwon Do, South Korea.
+C3 Yonsei University; Yonsei University; Yonsei University; Yonsei
+   University
+RP Nam, EW (corresponding author), Yonsei Univ, Yonsei Global Hlth Ctr, 1 Yonseidae Gil, Wonju 220710, Gangwon Do, South Korea.
+EM bimalasharma@gmail.com; ewnam@yonsei.ac.kr; khy9053@naver.com;
+   kimjk214@yonsei.ac.kr
+FU Korea International Cooperation Agency (KOICA); National Research
+   Foundation of Korea [NRF-2013S1A01055336]
+FX We appreciate the support of the Korea International Cooperation Agency
+   (KOICA) and the National Research Foundation of Korea Grant
+   (NRF-2013S1A01055336) for financial support of this study. We express
+   our special thanks to the study participants, school staffs, field
+   enumerators, and all other partners in Peru who made the survey
+   possible.
+NR 50
+TC 42
+Z9 45
+U1 4
+U2 19
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD NOV
+PY 2015
+VL 12
+IS 11
+BP 14842
+EP 14856
+DI 10.3390/ijerph121114842
+PG 15
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA CX4CJ
+UT WOS:000365645500079
+PM 26610536
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Kim, H
+   Nam, EW
+   Jin, KN
+   So, AY
+AF Kim, Ha Yun
+   Nam, Eun Woo
+   Jin, Ki Nam
+   So, Ae Young
+TI Effectiveness of a school-based mental health education program in an
+   impoverished urban area of Peru
+SO GLOBAL HEALTH PROMOTION
+LA English
+DT Article
+DE health education; Korea International Cooperation Agency (KOICA); mental
+   health; Official Development Assistance; Peru; PRECEDE-PROCEED; school
+   health; suicide
+ID SUICIDAL IDEATION; CHILDREN; RISK
+AB This study aimed to evaluate the effectiveness of a school-based mental health education program in preventing adolescent suicide attempts in an impoverished urban area in Peru, as part of an Official Development Assistance project by the Korea International Cooperation Agency. The PRECEDE-PROCEED model informed the effectiveness study. In this intervention, the participants were first to fifth grade students in public secondary schools. The pre-post intervention survey was conducted with a stratified random sampling method. A sample of 768 and 738 students in experimental and control groups was analyzed comparatively, using chi-squared tests and logistic regression. This study found that the program had a positive effect on adolescent mental health-related risk behaviors and suicide attempts in the experimental group compared to the control group. Thus, the intervention may have helped prevent the increase in mental health-related risk behaviors and suicide attempts. Further, parental affection, when included in the intervention, had a significant effect on suicide attempts. As such, the involvement of parental affection in the intervention might be effective in preventing suicide attempts. To enhance the effectiveness of interventions aiming to prevent adolescent suicide, the participation and attention of parents, as well as adolescents, must be encouraged. Further, to maintain the effectiveness of the intervention and expand coverage to other schools in the neighborhood, a strategy for project sustainability is needed, particularly with regards to capacity-building in schools and communities.
+C1 [Kim, Ha Yun; Nam, Eun Woo] Yonsei Univ, Yonsei Global Hlth Ctr, 1 Yonseidae Gil, Wonju 26493, Gangwon Do, South Korea.
+   [Kim, Ha Yun; Nam, Eun Woo; Jin, Ki Nam] Yonsei Univ, Coll Hlth Sci, Dept Hlth Adm, Wonju, South Korea.
+   [So, Ae Young] Gangneung Wonju Natl Univ, Dept Nursing, Wonju, South Korea.
+C3 Yonsei University; Yonsei University; Kangnung Wonju National University
+RP Nam, EW (corresponding author), Yonsei Univ, Yonsei Global Hlth Ctr, 1 Yonseidae Gil, Wonju 26493, Gangwon Do, South Korea.
+EM ewnam@yonsei.ac.kr
+FU Korea International Cooperation Agency [P201300151-1]; Yonsei University
+FX This work was supported by the Korea International Cooperation Agency
+   under the title of 'Health Promotion Program in Lima North and Callao,
+   2014-2017' (P201300151-1). This work was also supported in part by the
+   Yonsei University Research Fund of 2017.
+NR 26
+TC 6
+Z9 7
+U1 2
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1757-9759
+EI 1757-9767
+J9 GLOB HEALTH PROMOT
+JI Glob. Health Promot.
+PD MAR
+PY 2020
+VL 27
+IS 1
+BP 77
+EP 86
+AR 1757975918786728
+DI 10.1177/1757975918786728
+EA OCT 2019
+PG 10
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA LA8IT
+UT WOS:000493250600001
+PM 31660795
+OA Bronze
+DA 2023-12-03
+ER
+
+PT J
+AU Devries, K
+   Watts, C
+   Yoshihama, M
+   Kiss, L
+   Schraiber, LB
+   Deyessa, N
+   Heise, L
+   Durand, J
+   Mbwambo, J
+   Jansen, H
+   Berhane, Y
+   Ellsberg, M
+   Garcia-Moreno, C
+AF Devries, Karen
+   Watts, Charlotte
+   Yoshihama, Mieko
+   Kiss, Ligia
+   Schraiber, Lilia Blima
+   Deyessa, Negussie
+   Heise, Lori
+   Durand, Julia
+   Mbwambo, Jessie
+   Jansen, Henrica
+   Berhane, Yemane
+   Ellsberg, Mary
+   Garcia-Moreno, Claudia
+CA WHO Multicountry Study Team
+TI Violence against women is strongly associated with suicide attempts:
+   Evidence from the WHO multi-country study on women's health and domestic
+   violence against women
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Intimate partner violence; Sexual violence; Childhood sexual abuse;
+   Suicidal behaviour; Women; Gender; Developing countries
+ID INTIMATE-PARTNER VIOLENCE; MENTAL-HEALTH; RISK-FACTORS; PREVALENCE;
+   IDEATION; ABUSE; PREVENTION; COMMUNITY; OUTCOMES; COHORT
+AB Suicidal behaviours are one of the most important contributors to the global burden of disease among women, but little is known about prevalence and modifiable risk factors in low and middle income countries. We use data from the WHO multi-country study on women's health and domestic violence against women to examine the prevalence of suicidal thoughts and attempts, and relationships between suicide attempts and mental health status, child sexual abuse, partner violence and other variables. Population representative cross-sectional household surveys were conducted from 2000-2003 in 13 provincial (more rural) and city (urban) sites in Brazil, Ethiopia, japan, Namibia, Peru, Samoa, Serbia, Thailand and Tanzania. 20967 women aged 15-49 years participated. Prevalence of lifetime suicide attempts, lifetime suicidal thoughts, and suicidal thoughts in the past four weeks were calculated, and multivariate logistic regression models were fit to examine factors associated with suicide attempts in each site. Prevalence of lifetime suicide attempts ranged from 0.8% (Tanzania) to 12.0% (Peru city): lifetime thoughts of suicide from 7.2% (Tanzania province) to 29.0% (Peru province), and thoughts in the past four weeks from 1.9% (Serbia) to 13.6% (Peru province). 25-50% of women with suicidal thoughts in the past four weeks had also visited a health worker in that time. The most consistent risk factors for suicide attempts after adjusting for probable common mental health disorders were: intimate partner violence, non-partner physical violence, ever being divorced, separated or widowed, childhood sexual abuse and having a mother who had experienced intimate partner violence. Mental health policies and services must recognise the consistent relationship between violence and suicidality in women in low and middle income countries. Training health sector workers to recognize and respond to the consequences of violence may substantially reduce the health burden associated with suicidal behaviour. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Devries, Karen; Watts, Charlotte; Kiss, Ligia; Heise, Lori] London Sch Hyg & Trop Med, London WC1H 0DP, England.
+   [Yoshihama, Mieko] Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+   [Schraiber, Lilia Blima; Durand, Julia] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+   [Deyessa, Negussie; Berhane, Yemane] Addis Abbaba Univ, Addis Ababa, Ethiopia.
+   [Jansen, Henrica; Garcia-Moreno, Claudia] World Hlth Org, Geneva, Switzerland.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Michigan System; University of Michigan; Universidade de
+   Sao Paulo; Addis Ababa University; World Health Organization
+RP Devries, K (corresponding author), London Sch Hyg & Trop Med, 36 Gordon Sq, London WC1H 0DP, England.
+EM karen.devries@lshtm.ac.uk
+RI Berhane, Yemane/ABB-8154-2020; Schraiber, Lilia B/B-5708-2014; Devries,
+   Karen/K-1083-2016; Heise, LORI/AAI-6251-2020
+OI Devries, Karen/0000-0001-8935-2181; Kiss, Ligia/0000-0002-3334-7110;
+   Naved, Ruchira/0000-0002-0363-5648; Jansen, Henrica
+   A.F.M./0009-0005-3691-049X; Berhane, Yemane/0000-0002-2527-1339
+NR 61
+TC 343
+Z9 378
+U1 3
+U2 144
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2011
+VL 73
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.socscimed.2011.05.006
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 799DK
+UT WOS:000293263500010
+PM 21676510
+DA 2023-12-03
+ER
+
+PT J
+AU Levey, EJ
+   Rondon, MB
+   Sanchez, S
+   Zhong, QY
+   Williams, MA
+   Gelaye, B
+AF Levey, Elizabeth J.
+   Rondon, Marta B.
+   Sanchez, Sixto
+   Zhong, Qiu-Yue
+   Williams, Michelle A.
+   Gelaye, Bizu
+TI Suicide risk assessment: examining transitions in suicidal behaviors
+   among pregnant women in Peru
+SO ARCHIVES OF WOMENS MENTAL HEALTH
+LA English
+DT Article
+DE Peru; Pregnant; Risk assessment; Suicide
+ID IDEATION; HEALTH; PREVALENCE
+AB The goals of this research were to characterize suicidal behavior among a cohort of pregnant Peruvian women and identify risk factors for transitions between behaviors. The World Health Organization Composite International Diagnostic Interview suicide questionnaire was employed to assess suicidal behavior. Discrete-time survival analysis was used to study the cumulative age-of-onset distribution. The hazard function was calculated to assess the risk of onset of each suicidal behavior. Among 2062 participants, suicidal behaviors were endorsed by 22.6% of participants; 22.4% reported a lifetime history of suicidal ideation, 7.2% reported a history of planning, and 6.0% reported attempting suicide. Childhood abuse was most strongly associated with suicidal behavior, accounting for a 2.57-fold increased odds of suicidal ideation, nearly 3-fold increased odds of suicide planning, and 2.43-fold increased odds of suicide attempt. This study identified the highest prevalence of suicidal behavior in a population of pregnant women outside the USA. Diverse populations of pregnant women and their patterns of suicidal behavior transition must be further studied. The association between trauma and suicidal behavior indicates the importance of trauma-informed care for pregnant women.
+C1 [Levey, Elizabeth J.] Massachusetts Gen Hosp, MD Div Global Psychiat, 151 Merrimac St,4th Floor, Boston, MA 02114 USA.
+   [Levey, Elizabeth J.] Harvard Med Sch, Boston, MA 02115 USA.
+   [Levey, Elizabeth J.] Univ Illinois, Coll Med, Inst Juvenile Res, Chicago, IL 60608 USA.
+   [Rondon, Marta B.] Univ Peruana Cayetano Heredia, Lima, Peru.
+   [Sanchez, Sixto] Univ Peruana Ciencias Aplicadas, Lima, Peru.
+   [Zhong, Qiu-Yue; Williams, Michelle A.; Gelaye, Bizu] Harvard TH Chan Sch Publ Hlth, Boston, MA 02115 USA.
+C3 Harvard University; Massachusetts General Hospital; Harvard University;
+   Harvard Medical School; University of Illinois System; University of
+   Illinois Chicago; University of Illinois Chicago Hospital; Universidad
+   Peruana Cayetano Heredia; Universidad Peruana de Ciencias Aplicadas
+   (UPC); Harvard University; Harvard T.H. Chan School of Public Health
+RP Levey, EJ (corresponding author), Massachusetts Gen Hosp, MD Div Global Psychiat, 151 Merrimac St,4th Floor, Boston, MA 02114 USA.; Levey, EJ (corresponding author), Harvard Med Sch, Boston, MA 02115 USA.; Levey, EJ (corresponding author), Univ Illinois, Coll Med, Inst Juvenile Res, Chicago, IL 60608 USA.
+EM elevey@mgh.harvard.edu
+RI Sanchez, Sixto ENRIQUE/HTO-5928-2023
+OI Rondon, Marta/0000-0001-8459-6785
+FU National Institutes of Health [T32-MH-093310, R01-HD-059835]
+FX This research was supported by awards from the National Institutes of
+   Health (T32-MH-093310 and R01-HD-059835). The NIH had no further role in
+   study design; in the collection, analysis and interpretation of data; in
+   the writing of the report; and in the decision to submit the paper for
+   publication.
+NR 25
+TC 11
+Z9 11
+U1 2
+U2 6
+PU SPRINGER WIEN
+PI WIEN
+PA SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA
+SN 1434-1816
+EI 1435-1102
+J9 ARCH WOMEN MENT HLTH
+JI Arch. Womens Ment. Health
+PD FEB
+PY 2019
+VL 22
+IS 1
+BP 65
+EP 73
+DI 10.1007/s00737-018-0884-4
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HK4ZP
+UT WOS:000457973500006
+PM 29971552
+OA Green Accepted, Green Published
+DA 2023-12-03
+ER
+
+PT C
+AU Calderon-Vilca, HD
+   Wun-Rafael, WI
+   Miranda-Loarte, R
+AF Calderon-Vilca, Hugo D.
+   Wun-Rafael, William I.
+   Miranda-Loarte, Roberto
+GP IEEE
+TI Simulation of Suicide Tendency by Using Machine Learning
+SO 2017 36TH INTERNATIONAL CONFERENCE OF THE CHILEAN COMPUTER SCIENCE
+   SOCIETY (SCCC)
+SE Proceedings of the International Conference of the Chilean Computer
+   Science Society
+LA English
+DT Proceedings Paper
+CT 36th International Conference of the Chilean Computer Science Society
+   (SCCC)
+CY OCT 16-20, 2017
+CL Arica, CHILE
+SP Sociedad Chilena Ciencia Computac, REUNA, SERNATUR Ministerio Economia Fomento Turismo, Telefonica, TLine, Ctr Math Modeling, Municipalidad ARICA, DELL EMC, Natl Lab High Performance Comp, NIC CHILE, INFONOR CHILE
+DE Suicide tendency; suicide; suicide attempt; suicide risk; machine
+   learning; prevention; classification
+AB Suicide is one of the most distinguished causes of death on the news worldwide. There are several factors and variables that can lead a person to commit this act, for example, stress, self-esteem, depression, among others. The causes and profiles of suicide cases are not revealed in detail by the competent institutions. We propose a simulation with a systematically generated dataset; such data reflect the adolescent population with suicidal tendency in Peru. We will evaluate three algorithms of supervised machine learning as a result of the algorithm C4.5 which is based on the trees to classify in a better way the suicidal tendency of adolescents. We finally propose a desktop tool that determines the suicidal tendency level of the adolescent.
+C1 [Calderon-Vilca, Hugo D.; Wun-Rafael, William I.; Miranda-Loarte, Roberto] Univ Peruana Ciencias Aplicadas, Sch Engn, Dept Comp Sci, Lima, Peru.
+C3 Universidad Peruana de Ciencias Aplicadas (UPC)
+RP Calderon-Vilca, HD (corresponding author), Univ Peruana Ciencias Aplicadas, Sch Engn, Dept Comp Sci, Lima, Peru.
+EM pcsihcal@upc.edu.pe; pcsihcal@upc.edu.pe; pcsihcal@upc.edu.pe
+RI Vilca, Hugo David Calderon/S-9995-2019
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 1522-4902
+BN 978-1-5386-3483-7
+J9 P INT C CHIL COMPUT
+PY 2017
+PG 6
+WC Computer Science, Theory & Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BL7MC
+UT WOS:000455184200023
+DA 2023-12-03
+ER
+
+PT J
+AU Ueda, M
+   Yoshikawa, K
+   Matsubayashi, T
+AF Ueda, Michiko
+   Yoshikawa, Kanako
+   Matsubayashi, Tetsuya
+TI Suicide by persons with foreign background in Japan
+SO PLOS ONE
+LA English
+DT Article
+ID HEALTH-STATUS; AUSTRALIA; IMMIGRANT; RATES; AMERICANS; MIGRANTS; COUNTRY
+AB Purpose
+   This study examined trends in the suicide rates of persons with foreign background in Japan.
+   Methods
+   Using the nationwide death records in the Vital Statistics of Japan, we first reported the age-adjusted suicide rates of 8 foreign nationals (Brazil, China, Korea, Peru, the Philippines, Thailand, the United Kingdom, and the United States) in Japan by sex from 1980 to the mid-2010s. We also computed rate ratios to compare the suicide rate of each group with those of the Japanese population. Second, we focused on Koreans, who had the highest suicide rate in Japan. We compared the suicide rates of Koreans in Japan with Koreans in South Korea to examine whether their suicide rates were more closely related to those of their country of origin or those of their host country.
+   Results
+   We found that the suicide rates of Koreans and Chinese in Japan were similar to or higher than those of Japanese, while other groups tended to show lower suicide rates. Most notably, Koreans displayed consistently high suicide rates from 1980 to the mid-2010s, which were nearly twice as high as those of the Japanese population. Korean males and females in Japan had higher suicide rates than those in South Korea.
+   Conclusions
+   Immigrants in Japan were not necessarily influenced by the suicide rates of the host country. The high suicide rates among Korean residents in Japan might be explained by various disadvantages and adversities that they face in Japan.
+C1 [Ueda, Michiko] Waseda Univ, Fac Polit Sci & Econ, Shinjuku Ku, Tokyo, Japan.
+   [Yoshikawa, Kanako; Matsubayashi, Tetsuya] Osaka Univ, Osaka Sch Int Publ Policy, Toyonaka, Osaka, Japan.
+C3 Waseda University; Osaka University
+RP Ueda, M (corresponding author), Waseda Univ, Fac Polit Sci & Econ, Shinjuku Ku, Tokyo, Japan.
+EM mueda@waseda.jp
+OI Ueda, Michiko/0000-0001-6552-8090
+FU JSPS [17H02541]; Innovative Research Program on Suicide Countermeasures
+   Research Grant [1-1]; Grants-in-Aid for Scientific Research [17H02541]
+   Funding Source: KAKEN
+FX This work was supported by JSPS Grants-in-Aid for Scientific Research
+   Grant Number 17H02541 (MU) and Innovative Research Program on Suicide
+   Countermeasures Research Grant, AY2017, Grant Number 1-1 (MU),
+   https://www.jsps.go.jp/english/index.html,
+   http://irpsc-jssc.jp/irpsc.php. The funders had no role in study,
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 4
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD FEB 6
+PY 2019
+VL 14
+IS 2
+AR e0211867
+DI 10.1371/journal.pone.0211867
+PG 10
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HK4EL
+UT WOS:000457874000083
+PM 30726285
+OA Green Published, gold, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Jollant, F
+   Macdonald, C
+AF Jollant, F.
+   Macdonald, C.
+TI Endogamy and suicide: An observation-based hypothesis
+SO MEDICAL HYPOTHESES
+LA English
+DT Article
+ID RISK-FACTORS; CONSANGUINITY; EPIDEMIOLOGY; POPULATION; BEHAVIOR; SPAIN
+AB Suicide is a complex and multifactorial behavior, which is likely the result of distinct pathways in different individuals or groups. Endogamy has been associated with numerous diseases, including behavioral disorders. Here, we discuss the hypothesis of endogamy as one mechanism facilitating high rates of suicide in some small and isolated groups of people across the world. To support our hypothesis, we describe four geographically and culturally distinct populations (the Aguarunas of Peru, the Vaqueiros of Spain, the Baruyas of New Guinea, and the Palawans of the Philippines), which present the following characteristics: (1) a high level of isolation and endogamy; (2) very high rates of suicide restricted to one group with (3) adjacent groups of similar origin and culture displaying low rates of suicide. Within these four distinct populations, endogamy could act in one isolated group as the amplifier of both selected genetic risk alleles and microcultural values (e.g. suicide as an acceptable solution), beyond cultural and genetic traits shared by the whole population (and therefore found in all groups). Genetic and microcultural risk factors are transmitted through close kinship and imitation/modeling, and could interact to increase the frequency of vulnerable individuals leading, in turn, to heightened rates of suicide. Culture could sometimes additionally act by generating stressful conditions for some individuals (e.g. lower social status and maltreatment). In contrast to endogamy, suicide motives (notably interpersonal conflicts) and mental disorders appear to be universal risk factors. More investigation of this endogamy hypothesis is necessary, which could represent a singular case of gene-culture co-transmission and shed light on particular conditions of suicide genesis. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Jollant, F.] McGill Univ, Dept Psychiat, Montreal, PQ, Canada.
+   [Jollant, F.] Douglas Mental Hlth Univ Inst, McGill Grp Suicide Studies, Montreal, PQ H4H 1R3, Canada.
+   [Jollant, F.] Acad Hosp Nimes, Dept Psychiat, Nimes, France.
+   [Macdonald, C.] CNRS, UMR7268, Marseille, France.
+C3 McGill University; McGill University; Universite de Montpellier; CHU de
+   Nimes; Aix-Marseille Universite; Centre National de la Recherche
+   Scientifique (CNRS); CNRS - Institute of Ecology & Environment (INEE)
+RP Jollant, F (corresponding author), Douglas Mental Hlth Univ Inst, McGill Grp Suicide Studies, 6875 Blvd LaSalle, Montreal, PQ H4H 1R3, Canada.
+EM fabrice.jollant@mcgill.ca
+RI Jollant, Fabrice/ABG-1025-2021
+OI Jollant, Fabrice/0000-0001-5809-4503
+FU Fond de Recherche du Quebec - Sante (FRQS)
+FX Fabrice Jollant held a chercheur-boursier clinicien salary grant from
+   the Fond de Recherche du Quebec - Sante (FRQS).
+NR 29
+TC 3
+Z9 3
+U1 0
+U2 1
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0306-9877
+EI 1532-2777
+J9 MED HYPOTHESES
+JI Med. Hypotheses
+PD NOV
+PY 2015
+VL 85
+IS 5
+BP 542
+EP 547
+DI 10.1016/j.mehy.2015.07.010
+PG 6
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine
+GA CV9MO
+UT WOS:000364611500005
+PM 26206761
+DA 2023-12-03
+ER
+
+PT J
+AU Tumbay, MRS
+AF Saldana Tumbay, Milagros Rocio
+TI FATHERHOOD'S SUBJECTIVE EXPERIENCE IN THE FACE OF ADOLESCENT CHILDREN'
+   DEPRESSIVE SYMPTOMATOLOGY AND SUICIDE ATTEMPT
+SO STUDIA UNIVERSITATIS BABES-BOLYAI PHILOSOPHIA
+LA English
+DT Article
+DE subjective experience; subjective constitution; fatherhood; depressive
+   symptomatology; suicide attempt; adolescence
+AB "Fatherhood's subjective experience in the face of adolescent children' depressive symptomatology and suicide attempt". The fatherhood's experience of living with a teenage son or daughter who presents depressive symptomatology and has tried to commit suicide constitutes a subjective experience in and of itself. For the father, these adverse conditions represent a challenge in his constituted role and cause an emotional impact which must be analysed by considering his subjective constitution. The aim of this research is to explore this experience by using a phenomenological qualitative approach. To do that, semi-structured interviews and the application of a test of incomplete sentences were applied to parents whose adolescent children received ambulatory care after a first suicide attempt in a psychiatric hospital in Peru. The results show that participants experience various emotions that involve impotence, anger, sadness, guilt, and relief around three stages: the onset of symptoms, attendance at a psychiatric hospital and the perception of remission of the symptoms. It was found that although at the beginning the fathers find it difficult to get involved with affection with their younger children, they are able to recover the bond through of the reconstitution and reorganization of their role.
+C1 [Saldana Tumbay, Milagros Rocio] Pontificia Univ Catolica Peru, Fac Psychol, Lima, Peru.
+C3 Pontificia Universidad Catolica del Peru
+RP Tumbay, MRS (corresponding author), Pontificia Univ Catolica Peru, Fac Psychol, Lima, Peru.
+EM milagros.saldana@pucp.pe
+NR 63
+TC 0
+Z9 0
+U1 0
+U2 4
+PU UNIV BABES-BOLYAI
+PI CLUJ-NAPOCA
+PA MIHAIL KOGALNICEANU NR. 1, CLUJ-NAPOCA RO-3400, ROMANIA
+SN 1221-8138
+EI 2065-9407
+J9 ST U BABE-BOL PHILOS
+JI Stud. Univ. babes-Bolyai Philos.
+PD APR
+PY 2018
+VL 63
+IS 1
+BP 119
+EP 135
+DI 10.24193/subbphil.2018.1.08
+PG 17
+WC Philosophy
+WE Emerging Sources Citation Index (ESCI)
+SC Philosophy
+GA HG0WK
+UT WOS:000454669800008
+DA 2023-12-03
+ER
+
+PT J
+AU West, JH
+   Lister, CE
+   Hall, PC
+   Crookston, BT
+   Snow, PR
+   Zvietcovich, ME
+   West, RP
+AF West, Joshua H.
+   Lister, Cameron E.
+   Hall, P. Cougar
+   Crookston, Benjamin T.
+   Snow, Paola Rivera
+   Zvietcovich, Maria Elena
+   West, Richard P.
+TI Sexting among peruvian adolescents
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Sexting; Adolescent health; Peru; Sexual health; Risk behaviors
+ID SEXUAL RISK-TAKING; ANTISOCIAL-BEHAVIOR; TESTOSTERONE; PHONE;
+   COMMUNICATION; PATHWAYS; CHILDREN; IMPACT
+AB Background: Sexting (sexual messaging via mobile devices) among adolescents may result in increased risky sexual practices, psychological distress and in some cases, suicide. There is very little research on sexting in developing nations, such as Peru. In particular, little is known about gender differences in the correlates of sexting. The purpose of this study was to determine the sexting prevalence and correlates of sexting among adolescent boys and girls in Cusco, Peru.
+   Methods: The study sample comprised 949 high school aged adolescents from Cusco, Peru. Adolescents responded to questions about demographics, sexting behavior, and risk/protective factors. Separate regression models were constructed to compare correlates of sexting for boys and sexting for girls.
+   Results: Twenty percent of the sample reported engaging in at least one instance of sexting. Boys reported higher rates of sexting than girls (35.17% vs. 13.19%, p = 0.000). Significant correlates for girls' sexting included having been cyberbullied and parental factors. For boys, hypertexting, fighting, parental factors, and parental rules about sexting were significant.
+   Conclusions: Peruvian health officials with an interest in reducing the effects of sexting among adolescents may choose to target boys differently than girls. These efforts may include advising parents to set clear rules and expectations about sexting and the appropriate use of mobile devices.
+C1 [West, Joshua H.; Lister, Cameron E.; Hall, P. Cougar; Crookston, Benjamin T.; Snow, Paola Rivera] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   [Zvietcovich, Maria Elena] Univ Nacl San Antonio Abad Cusco, Cuzco, Peru.
+   [West, Richard P.] Utah State Univ, Dept Special Educ & Rehabil Counseling, Logan, UT 84322 USA.
+C3 Brigham Young University; Universidad Nacional de San Antonio Abad del
+   Cusco; Utah System of Higher Education; Utah State University
+RP West, JH (corresponding author), Brigham Young Univ, Dept Hlth Sci, 229-D Richards Bldg, Provo, UT 84602 USA.
+EM josh.west@byu.edu
+OI Crookston, Benjamin/0000-0003-3110-9562
+FU Brigham Young University
+FX Internal funds from Brigham Young University were used to fund this
+   study and the preparation of this manuscript for publication.
+NR 32
+TC 48
+Z9 54
+U1 2
+U2 48
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD AUG 7
+PY 2014
+VL 14
+AR 811
+DI 10.1186/1471-2458-14-811
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AM6VJ
+UT WOS:000340003100001
+PM 25100162
+OA Green Published, gold
+DA 2023-12-03
+ER
+
+PT J
+AU Romo, ML
+   Kelvin, EA
+AF Romo, Matthew L.
+   Kelvin, Elizabeth A.
+TI Impact of bullying victimization on suicide and negative health
+   behaviors among adolescents in Latin America
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE Bullying; adolescent; suicide; tobacco; alcohol drinking; aggression;
+   sexual behavior; school health; Latin America
+ID MIDDLE-SCHOOL STUDENTS; SUBSTANCE USE; DEPRESSION; RISK; ASSOCIATION;
+   CHILDHOOD; IDEATION; MEXICO
+AB Objective. To compare the prevalence of bullying victimization, suicidal ideation, suicidal attempts, and negative health behaviors (current tobacco use, recent heavy alcohol use, truancy, involvement in physical fighting, and unprotected sexual intercourse) in five different Latin American countries and determine the association of bullying victimization with these outcomes, exploring both bullying type and frequency.
+   Methods. Study data were from Global School-based Student Health Surveys from Bolivia, Costa Rica, Honduras, Peru, and Uruguay, which covered nationally representative samples of school-going adolescents. The surveys used a two-stage clustered sample design, sampling schools and then classrooms. Logistic regression models were run to determine the statistical significance of associations with bullying.
+   Results. Among the 14 560 school-going adolescents included in this study, the prevalence of any bullying victimization in the past 30 days was 37.8%. Bullying victimization was associated with greater odds of suicidal ideation with planning (adjusted odds ratio (AOR): 3.12; P < 0.0001) and at least one suicide attempt (AOR: 3.07; P < 0.0001). An increasing exposure-response effect of increasing days of bullying victimization on suicide outcomes was also observed. Bullying victimization was associated with higher odds of current tobacco use (AOR: 2.14; P < 0.0001); truancy (AOR: 1.76; P < 0.0001); physical fighting (AOR: 2.40; P < 0.0001); and unprotected sexual intercourse (AOR: 1.77; P < 0.0001).
+   Conclusions. Although the prevalence of bullying victimization varied by country, its association with suicidal ideation and behavior and negative health behaviors remained relatively consistent. Addressing bullying needs to be made a priority in Latin America, and an integrated approach that also includes mental and physical health promotion is needed.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+EM elizabeth.kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Kelvin,
+   Elizabeth/0000-0002-0566-8697
+NR 28
+TC 36
+Z9 44
+U1 1
+U2 17
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD NOV
+PY 2016
+VL 40
+IS 5
+BP 347
+EP 355
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EJ4UT
+UT WOS:000393213100009
+PM 28076584
+DA 2023-12-03
+ER
+
+PT J
+AU Zhong, QY
+   Gelaye, B
+   Rondon, MB
+   Sánchez, SE
+   Simon, GE
+   Henderson, DC
+   Barrios, YV
+   Sánchez, PM
+   Williams, MA
+AF Zhong, Qiu-Yue
+   Gelaye, Bizu
+   Rondon, Marta B.
+   Sanchez, Sixto E.
+   Simon, Gregory E.
+   Henderson, David C.
+   Barrios, Yasmin V.
+   Mascaro Sanchez, Pedro
+   Williams, Michelle A.
+TI Using the Patient Health Questionnaire (PHQ-9) and the Edinburgh
+   Postnatal Depression Scale (EPDS) to assess suicidal ideation among
+   pregnant women in Lima, Peru
+SO ARCHIVES OF WOMENS MENTAL HEALTH
+LA English
+DT Article
+DE Suicidal ideation; Antepartum depressive symptoms; PHQ-9; EPDS
+ID POSTPARTUM WOMEN; PREVALENCE; RISK; HOMICIDE; SYMPTOMS; THOUGHTS;
+   VALIDITY; VIOLENCE; UTILITY; DEATH
+AB We sought to examine the concordance of two suicidal ideation items from the Patient Health Questionnaire-9 (PHQ-9) and the Edinburgh Postnatal Depression Scale (EPDS), to evaluate the prevalence of suicidal ideation among pregnant women, and to assess the co-occurrence of suicidal ideation with antepartum depressive symptoms. A cross-sectional study was conducted among 1,517 pregnant women attending prenatal care clinics in Lima, Peru. Item 9 of the PHQ-9 assesses suicidal ideation over the last 14 days while item 10 of the EPDS assesses suicidal ideation in the past 7 days. The two suicidal ideation items have a high concordance rate (84.2 %) but a moderate agreement (the Cohen's kappa = 0.42). Based on the PHQ-9 and the EPDS, 15.8 and 8.8 % of participants screened positive for suicidal ideation, respectively. Assessed by the PHQ-9, 51 % of participants with suicidal ideation had probable depression. In prenatal care clinics, screening for suicidal ideation is needed for women with and without depressive symptoms. Future studies are needed to identify additional predictors of antepartum suicidality, determine the appropriate duration of reporting period for suicidal ideation screening, and assess the percentage of individuals with positive responses to the two suicidal ideation items at high risk of planning and attempting suicide.
+C1 [Zhong, Qiu-Yue; Gelaye, Bizu; Henderson, David C.; Barrios, Yasmin V.; Williams, Michelle A.] Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   [Rondon, Marta B.] Cayetano Heredia Peruvian Univ, Dept Med, Lima, Peru.
+   [Sanchez, Sixto E.] Univ Peruana Ciencias Aplicadas, Lima, Peru.
+   [Sanchez, Sixto E.] Asociac Civil PROESA, Lima, Peru.
+   [Simon, Gregory E.] Grp Hlth Res Inst, Seattle, WA USA.
+   [Henderson, David C.] Massachusetts Gen Hosp, Dept Psychiat, Boston, MA 02114 USA.
+   [Henderson, David C.] Harvard Univ, Sch Med, Boston, MA USA.
+   [Mascaro Sanchez, Pedro] Univ Nacl Mayor San Marcos, Lima 14, Peru.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   Universidad Peruana Cayetano Heredia; Universidad Peruana de Ciencias
+   Aplicadas (UPC); Harvard University; Massachusetts General Hospital;
+   Harvard University; Harvard Medical School; Universidad Nacional Mayor
+   de San Marcos
+RP Zhong, QY (corresponding author), Harvard Univ, Sch Publ Hlth, Dept Epidemiol, 677 Huntington Ave, Boston, MA 02115 USA.
+EM qiz304@mail.harvard.edu
+OI Gelaye, Bizu/0000-0001-7934-548X; Mascaro Sanchez, Pedro
+   Arnaldo/0000-0001-7868-771X; Rondon, Marta/0000-0001-8459-6785; Sanchez,
+   Sixto/0000-0003-0354-0523
+FU National Institutes of Health (NIH), the Eunice Kennedy Shriver
+   Institute of Child Health and Human Development [R01-HD-059835]
+FX This research was supported by an award from the National Institutes of
+   Health (NIH), the Eunice Kennedy Shriver Institute of Child Health and
+   Human Development (R01-HD-059835). The NIH had no further role in the
+   study design; in the collection, analysis, and interpretation of data;
+   in the writing of the report; and in the decision to submit the paper
+   for publication. The authors wish to thank the dedicated staff members
+   of Asociacion Civil Proyectos en Salud (PROESA), Peru, and Instituto
+   Especializado Materno Perinatal, Peru, for their expert technical
+   assistance with this research. The authors would like to thank Kathy
+   Brenner for her help with revising this manuscript.
+NR 44
+TC 58
+Z9 62
+U1 1
+U2 30
+PU SPRINGER WIEN
+PI WIEN
+PA SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA
+SN 1434-1816
+EI 1435-1102
+J9 ARCH WOMEN MENT HLTH
+JI Arch. Womens Ment. Health
+PD DEC
+PY 2015
+VL 18
+IS 6
+BP 783
+EP 792
+DI 10.1007/s00737-014-0481-0
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CV0PS
+UT WOS:000363953500004
+PM 25369907
+OA Green Accepted, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Friedman, LE
+   Gelaye, B
+   Rondon, MB
+   Sanchez, SE
+   Peterlin, BL
+   Williams, MA
+AF Friedman, Lauren E.
+   Gelaye, Bizu
+   Rondon, Marta B.
+   Sanchez, Sixto E.
+   Peterlin, B. Lee
+   Williams, Michelle A.
+TI Association of Migraine Headaches With Suicidal Ideation Among Pregnant
+   Women in Lima, Peru
+SO HEADACHE
+LA English
+DT Article
+DE migraine; depression; suicidal ideation; pregnancy
+ID 2A RECEPTOR GENE; SEROTONIN TRANSPORTER; CLINICAL-FEATURES; CHILDHOOD
+   ABUSE; DEPRESSION; POLYMORPHISM; PREVALENCE; COMORBIDITY; BURDEN; PHQ-9
+AB BackgroundSuicide is a leading cause of maternal death globally, and suicide prevalence rates have been shown to be increased in those with migraine. No previous study has examined the association between migraine and suicidal ideation during pregnancy.
+   ObjectiveTo examine the association between migraine and suicidal ideation among a cohort of pregnant women.
+   MethodsA cross-sectional study was conducted among 3372 pregnant women attending prenatal care clinics in Lima, Peru. Suicidal ideation and depression were assessed using the Patient Health Questionnaire-9 (PHQ-9) scale during early pregnancy. Migraine classification (including migraine and probable migraine) was based on International Classification of Headache Disorders-III beta criteria. Multivariable logistic regression analyses were performed to estimate odds ratios (OR) and 95% confidence intervals (95%CI).
+   ResultsSuicidal ideation was more common among those with migraine (25.6%) as compared to those with probable migraine (22.1%, P<.001) or non-migraineurs (12.3%, P<.001). After adjusting for confounders, including depression, those with migraine or probable migraine had a 78% increased odds of suicidal ideation (OR=1.78; 95% CI: 1.46-2.17), as compared with non-migraineurs. Women with both migraine and depression had a 4.14-fold increased odds of suicidal ideation (OR=4.14; 95% CI: 3.17-5.42) compared to those with neither condition.
+   ConclusionMigraine is associated with increased odds of suicidal ideation in pregnant women even when controlling for depression. These findings support the consideration of screening women with comorbid migraine and depression for suicidal behavior during pregnancy.
+C1 [Friedman, Lauren E.; Gelaye, Bizu; Williams, Michelle A.] Harvard Univ, TH Chan Sch Publ Hlth Epidemiol, Boston, MA 02115 USA.
+   [Rondon, Marta B.] Cayetano Heredia Peruvian Univ, Dept Med, Lima, Peru.
+   [Sanchez, Sixto E.] Asociac Civil Proyectos Salud, Lima, Peru.
+   [Sanchez, Sixto E.] Univ Peruana Ciencias Aplicados, Lima, Peru.
+   [Peterlin, B. Lee] Johns Hopkins Sch Med Neurol, Baltimore, MD USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   Universidad Peruana Cayetano Heredia; Universidad Peruana de Ciencias
+   Aplicadas (UPC); Johns Hopkins University
+RP Friedman, LE (corresponding author), Harvard Univ, TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+EM lfriedm@hsph.harvard.edu
+OI Rondon, Marta/0000-0001-8459-6785; Gelaye, Bizu/0000-0001-7934-548X;
+   Sanchez, Sixto/0000-0003-0354-0523
+FU Eunice Kennedy Shriver Institute of Child Health and Human Development
+   [R01-HD-059835]; U.S. Department of Health and Human Services: National
+   Institutes of Health [T37-MD-001449]
+FX Eunice Kennedy Shriver Institute of Child Health and Human Development,
+   R01-HD-059835, U.S. Department of Health and Human Services: National
+   Institutes of Health, T37-MD-001449.
+NR 55
+TC 14
+Z9 14
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0017-8748
+EI 1526-4610
+J9 HEADACHE
+JI Headache
+PD APR
+PY 2016
+VL 56
+IS 4
+BP 741
+EP 749
+DI 10.1111/head.12793
+PG 9
+WC Clinical Neurology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology
+GA DK1TB
+UT WOS:000374696100011
+PM 27016264
+OA Green Accepted, Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Gelaye, B
+   Addae, G
+   Neway, B
+   Larrabure-Torrealva, GT
+   Qiu, CF
+   Stoner, L
+   Fernandez, MAL
+   Sanchez, SE
+   Williams, MA
+AF Gelaye, Bizu
+   Addae, Gifty
+   Neway, Beemnet
+   Larrabure-Torrealva, Gloria T.
+   Qiu, Chunfang
+   Stoner, Lee
+   Fernandez, Miguel Angel Luque
+   Sanchez, Sixto E.
+   Williams, Michelle A.
+TI Poor sleep quality, antepartum depression and suicidal ideation among
+   pregnant women
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Sleep; Pregnancy; Depression; Peru
+ID DISTURBANCES; HEALTH; ASSOCIATION; DISORDERS; BEHAVIOR; OUTCOMES; INDEX
+AB Objective: To evaluate the independent and combined associations of maternal self-reported poor sleep quality and antepartum depression with suicidal ideation during the third trimester
+   Methods: A cross-sectional study was conducted among 1298 pregnant women (between 24 and 28 gestational weeks) attending prenatal clinics in Lima, Peru. Antepartum depression and suicidal ideation were assessed using the Patient Health Questionnaire-9 (PHQ-9). The Pittsburgh Sleep Quality Index (PSQI) questionnaire was used to assess sleep quality. Multivariate logistical regression procedures were used to estimate odds ratios (OR) and 95% confidence intervals (95% CI) after adjusting for putative confounders.
+   Results: Approximately, 17% of women were classified as having poor sleep quality (defined using the recommended criteria of PSQI global score of > 5 vs <= 5). Further, the prevalence of antepartum depression and suicidal ideation were 10.3% and 8.5%, respectively in this cohort. After adjusting for confounders including depression, poor sleep quality was associated with a 2.81-fold increased odds of suicidal ideation (OR=2.81; 95% CI 1.78-4.45). When assessed as a continuous variable, each 1-unit increase in the global PSQI score resulted in a 28% increase in odds for suicidal ideation, even after adjusting for depression (OR=1.28; 95% CI 1.15-1.41). The odds of suicidal ideation was particularly high among depressed women with poor sleep quality (OR=13.56 95% CI 7.53-24.41) as compared with women without either risk factor.
+   Limitations: This cross-sectional study utilized self-reported data. Causality cannot be inferred, and results may not be fully generalizable.
+   Conclusion: Poor sleep quality, even after adjusting for depression, is associated with antepartum suicidal ideation. Our findings support the need to explore sleep-focused interventions for pregnant women.
+C1 [Gelaye, Bizu; Addae, Gifty; Neway, Beemnet; Fernandez, Miguel Angel Luque; Williams, Michelle A.] Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   [Larrabure-Torrealva, Gloria T.] Inst Nacl Materno Perinatal Lima, Lima, Peru.
+   [Larrabure-Torrealva, Gloria T.] Univ Nacl Mayor San Marcos, Dept Med, Lima, Peru.
+   [Larrabure-Torrealva, Gloria T.] Univ Nacl Mayor San Marcos, Dept Obstet & Ginecol, Lima, Peru.
+   [Qiu, Chunfang] Swedish Med Ctr, Ctr Perinatal Studies, Seattle, WA USA.
+   [Stoner, Lee] Massey Univ, Sch Sport & Exercise, Wellington, New Zealand.
+   [Fernandez, Miguel Angel Luque] London Sch Hyg & Trop Med, Dept Epidemiol & Populat Hlth, London, England.
+   [Sanchez, Sixto E.] Asociac Civil PROESA, Lima, Peru.
+   [Sanchez, Sixto E.] Univ Peruana Ciencias Aplicados, Lima, Peru.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   Universidad Nacional Mayor de San Marcos; Universidad Nacional Mayor de
+   San Marcos; Swedish Medical Center; Massey University; University of
+   London; London School of Hygiene & Tropical Medicine; Universidad
+   Peruana de Ciencias Aplicadas (UPC)
+RP Gelaye, B (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+EM bgelaye@hsph.harvard.edu
+RI FERNANDEZ, MIGUEL ANGEL LUQUE/AAK-7183-2021; Stoner, Lee/C-8504-2011;
+   FERNANDEZ, MIGUEL ANGEL LUQUE/AAZ-5017-2020; FERNANDEZ, MIGUEL ANGEL
+   LUQUE/L-4053-2015
+OI FERNANDEZ, MIGUEL ANGEL LUQUE/0000-0001-6683-5164; Stoner,
+   Lee/0000-0002-0682-2270; FERNANDEZ, MIGUEL ANGEL
+   LUQUE/0000-0001-6683-5164; FERNANDEZ, MIGUEL ANGEL
+   LUQUE/0000-0001-6683-5164; larrabure-torrealva,
+   gloria/0000-0003-1599-0708; Sanchez, Sixto/0000-0003-0354-0523
+FU Roche Diagnostic Operations Inc. [208617-5074547]; National Institutes
+   of Health (NIH), National Institute for Minority Health and Health
+   Disparities [T37-MD0001449]
+FX This research was supported by Roche Diagnostic Operations Inc. (project
+   number 208617-5074547) and the National Institutes of Health (NIH),
+   National Institute for Minority Health and Health Disparities
+   (T37-MD0001449).
+NR 29
+TC 58
+Z9 60
+U1 1
+U2 22
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD FEB
+PY 2017
+VL 209
+BP 195
+EP 200
+DI 10.1016/j.jad.2016.11.020
+PG 6
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA EJ5EW
+UT WOS:000393241400030
+PM 27930912
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Gelaye, B
+   Barrios, YV
+   Zhong, QY
+   Rondon, MB
+   Borba, CPC
+   Sánchez, SE
+   Henderson, DC
+   Williams, MA
+AF Gelaye, Bizu
+   Barrios, Yasmin V.
+   Zhong, Qiu-Yue
+   Rondon, Marta B.
+   Borba, Christina P. C.
+   Sanchez, Sixto E.
+   Henderson, David C.
+   Williams, Michelle A.
+TI Association of poor subjective sleep quality with suicidal ideation
+   among pregnant Peruvian women
+SO GENERAL HOSPITAL PSYCHIATRY
+LA English
+DT Article
+DE Sleep quality; Suicide ideation; Suicide; Depression; Pregnancy
+ID ANXIETY DISORDERS; POSTPARTUM WOMEN; RISK-FACTORS; DEPRESSION; COHORT;
+   BEHAVIOR; PERIOD; DEATH; PREVALENCE; VALIDATION
+AB Objective: To examine the independent and joint relationships of poor subjective sleep quality and antepartum depression with suicidal ideation among pregnant women.
+   Methods: A cross-sectional study was conducted among 641 pregnant women attending prenatal care clinics in Lima, Peru. Antepartum depression and suicidal ideation were assessed using the Patient Health Questionnaire-9 scale. Antepartum subjective sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI). Logistic regression procedures were performed to estimate odds ratios (aOR) and 95% confidence intervals (95% CI) adjusted for confounders.
+   Results: Overall, the prevalence of suicidal ideation in this cohort was 16.8% and poor subjective sleep quality was more common among women endorsing suicidal ideation as compared to their counterparts who did not (47.2% vs. 24.8%, P<.001). After adjustment for confounders including maternal depression, poor subjective sleep quality (defined using the recommended criteria of PSQI global score of >5 vs. <= 5) was associated with a 1.7-fold increased odds of suicidal ideation (aOR=1.67; 95% CI 1.02-2.71). When assessed as a continuous variable, each 1-unit increase in the global PSQI score resulted in an 18% increase in odds for suicidal ideation, even after adjusting for depression (aOR=1.18; 95% CI 1.08-1.28). Women with both poor subjective sleep quality and depression had a 3.5-fold increased odds of suicidal ideation (aOR=3.48; 95% CI 1.96-6.18) as compared with those who had neither risk factor.
+   Conclusion: Poor subjective sleep quality was associated with increased odds of suicidal ideation. Replication of these findings may promote investments in studies designed to examine the efficacy of sleep-focused interventions to treat pregnant women with sleep disorders and suicidal ideation. (C) 2015 Elsevier Inc. All rights reserved.
+C1 [Gelaye, Bizu; Barrios, Yasmin V.; Zhong, Qiu-Yue; Henderson, David C.; Williams, Michelle A.] Harvard Univ, TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   [Rondon, Marta B.] Cayetano Heredia Peruvian Univ, Dept Med, Lima, Peru.
+   [Borba, Christina P. C.; Henderson, David C.] Harvard Univ, Sch Med, Boston, MA 02115 USA.
+   [Borba, Christina P. C.; Henderson, David C.] Massachusetts Gen Hosp, Dept Psychiat, Boston, MA 02114 USA.
+   [Sanchez, Sixto E.] Univ Peruana Ciencias Aplicadas, Lima, Peru.
+   [Sanchez, Sixto E.] Asociac Civil PROESA, Lima, Peru.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   Universidad Peruana Cayetano Heredia; Harvard University; Harvard
+   Medical School; Harvard University; Massachusetts General Hospital;
+   Universidad Peruana de Ciencias Aplicadas (UPC)
+RP Gelaye, B (corresponding author), Harvard Univ, TH Chan Sch Publ Hlth, Dept Epidemiol, 677 Huntington Ave,K505F, Boston, MA 02115 USA.
+EM bgelaye@hsph.harvard.edu
+OI Borba, Christina/0000-0003-3559-9351; Rondon, Marta/0000-0001-8459-6785;
+   Sanchez, Sixto/0000-0003-0354-0523; Gelaye, Bizu/0000-0001-7934-548X
+FU National Institutes of Health (NIH) [R01-HD-059835, T37-MD000149,
+   K01MH100428]
+FX This research was supported by an award from the National Institutes of
+   Health (NIH; R01-HD-059835, T37-MD000149 and K01MH100428). The NIH had
+   no further role in study design; in the collection, analysis and
+   interpretation of data; in the writing of the report; and in the
+   decision to submit the paper for publication. The authors wish to thank
+   the dedicated staff members of Asociacion Civil Proyectos en Salud
+   (PROESA), Peru and Instituto Especializado Materno Perinatal, Peru, for
+   their expert technical assistance with this research.
+NR 74
+TC 41
+Z9 42
+U1 0
+U2 15
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0163-8343
+EI 1873-7714
+J9 GEN HOSP PSYCHIAT
+JI Gen. Hosp. Psych.
+PD SEP-OCT
+PY 2015
+VL 37
+IS 5
+BP 441
+EP 447
+DI 10.1016/j.genhosppsych.2015.04.014
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CQ4HD
+UT WOS:000360564500010
+PM 25983188
+OA Green Published, Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Zaeh, S
+   Miele, CH
+   Putcha, N
+   Gilman, RH
+   Miranda, JJ
+   Bernabe-Ortiz, A
+   Wise, RA
+   Checkley, W
+AF Zaeh, S.
+   Miele, C. H.
+   Putcha, N.
+   Gilman, R. H.
+   Miranda, J. J.
+   Bernabe-Ortiz, A.
+   Wise, R. A.
+   Checkley, W.
+TI Chronic respiratory disease and high altitude are associated with
+   depressive symptoms in four diverse settings
+SO INTERNATIONAL JOURNAL OF TUBERCULOSIS AND LUNG DISEASE
+LA English
+DT Article
+DE depressive symptoms; chronic obstructive pulmonary disease; asthma;
+   chronic bronchitis; mental health; chronic hypoxia; altitude
+ID OBSTRUCTIVE PULMONARY-DISEASE; QUALITY-OF-LIFE; ASTHMA; ANXIETY; HEALTH;
+   RISK; COPD; PREVALENCE; DISORDERS; SUICIDE
+AB SETTING: Depression is a prevalent comorbidity of chronic respiratory disease (CRD), and may indicate worse clinical outcomes. The relationship between depression and living with chronic hypoxia due to CRD or residence at altitude has received little attention in resource-poor settings.
+   OBJECTIVE: To investigate the association between CRD conditions and depressive symptoms in four settings in Peru.
+   DESIGN: We collected data on CRD and depressive symptoms in adults aged ?:35 years. Depressive symptoms were measured according to the Center for Epidemiologic Studies Depression scale. Multivariable ordinal logistic regression was used to assess the adjusted odds of being in a higher category of depressive symptoms as a function of CRD.
+   RESULTS: We analyzed data from 2953 participants (mean age 55.3 years, 49% male). The prevalence of major depressive symptoms was 19%, with significant variation according to setting. Participants with at least one CRD (OR 1.34, 95%CI 1.06-1.69) and those living at altitude (OR 1.64, 95%CI 1.10-2.43) had an increased adjusted odds of being in a higher category of depressive symptoms.
+   CONCLUSION: We found a high prevalence of depressive symptoms, and a positive association between depressive symptoms with CRD and with living at altitude, both of which cause chronic hypoxia.
+C1 [Zaeh, S.; Miele, C. H.; Putcha, N.; Wise, R. A.; Checkley, W.] Johns Hopkins Univ, Sch Med, Div Pulm & Crit Care, 1800 Orleans Ave,Suite 9121, Baltimore, MD 21205 USA.
+   [Gilman, R. H.; Checkley, W.] Johns Hopkins Univ, Program Global Dis Epidemiol & Control, Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+   [Miranda, J. J.; Bernabe-Ortiz, A.] Univ Peruana Cayetano Heredia, CRONICAS Ctr Excellence Chron Dis, Lima, Peru.
+   [Miranda, J. J.] Univ Peruana Cayetano Heredia, Dept Med, Lima, Peru.
+C3 Johns Hopkins University; Johns Hopkins University; Johns Hopkins
+   Bloomberg School of Public Health; Universidad Peruana Cayetano Heredia;
+   Universidad Peruana Cayetano Heredia
+RP Checkley, W (corresponding author), Johns Hopkins Univ, Sch Med, Div Pulm & Crit Care, 1800 Orleans Ave,Suite 9121, Baltimore, MD 21205 USA.
+EM wcheckl1@jhmi.edu
+RI Miranda, J. Jaime/A-8482-2008
+OI Miranda, J. Jaime/0000-0002-4738-5468; Bernabe-Ortiz,
+   Antonio/0000-0002-6834-1376; Wise, Robert/0000-0002-8353-2349; Checkley,
+   William/0000-0003-1106-8812; Zaeh, Sandra/0000-0002-5091-1975
+FU FIC NIH HHS [R25 TW009340] Funding Source: Medline; NHLBI NIH HHS [R00
+   HL096955, HHSN268200900033C, T32 HL007534] Funding Source: Medline
+NR 44
+TC 11
+Z9 12
+U1 0
+U2 9
+PU INT UNION AGAINST TUBERCULOSIS LUNG DISEASE (I U A T L D)
+PI PARIS
+PA 68 BOULEVARD SAINT-MICHEL,, 75006 PARIS, FRANCE
+SN 1027-3719
+EI 1815-7920
+J9 INT J TUBERC LUNG D
+JI Int. J. Tuberc. Lung Dis.
+PD SEP
+PY 2016
+VL 20
+IS 9
+BP 1263
+EP 1269
+DI 10.5588/ijtld.15.0794
+PG 7
+WC Infectious Diseases; Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Infectious Diseases; Respiratory System
+GA DT8XN
+UT WOS:000381779100025
+PM 27510256
+OA Green Accepted
+DA 2023-12-03
+ER
+
+PT J
+AU Caqueo-Urízar, A
+   Urzúa, A
+   Boyer, L
+   Williams, DR
+AF Caqueo-Urizar, Alejandra
+   Urzua, Alfonso
+   Boyer, Laurent
+   Williams, David R.
+TI Religion involvement and quality of life in patients with schizophrenia
+   in Latin America
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Quality of life; Schizophrenia; Religion; Spirituality
+ID MENTAL-HEALTH; SPIRITUALITY; QUESTIONNAIRE; OUTPATIENTS; PREDICTORS;
+   COUNTRIES; RELATIVES; SUICIDE; AYMARA
+AB The aim of the study was to explore the relationship between religion involvement (RI) and quality of life (QoL) in patients with schizophrenia from three countries in Latin America, while considering key confounding factors such as socio-demographic and clinical characteristics.
+   This cross-sectional study was conducted in the public mental health services in La Paz, Bolivia; Arica, Chile; and Tacna, Peru. The data collected included RI, socio-demographic information, clinical characteristics, type of treatment and QoL using the S-QoL 18 questionnaire. A multivariate analysis using multiple linear regressions was performed to determine variables associated with QoL levels.
+   Two hundred and fifty-three patients with schizophrenia were enrolled in our study. Significant positive associations were found between RI and QoL (the S-QoL 18 index: beta = 0.13; p = 0.048; autonomy dimension: beta = 0.15; p = 0.027). Other socio-cultural and economic factors were also associated with low QoL level: being a woman, older patient, low education level and being Aymara. Severity of the psychotic symptoms was associated to a lower QoL for all the dimension (beta from 0.15 to 0.31), except for the resilience.
+   Our study found that socio-cultural and economic factors including RI were associated with QoL in patients with schizophrenia in Latin America, suggesting that these factors may influence positively health outcome. However, these relationships were moderate in strength, especially in comparison to symptoms severity which remained the most important features associated with QoL.
+C1 [Caqueo-Urizar, Alejandra] Univ Tarapaca, Escuela Psicol & Filosofia, Ave 18 Septiembre 2222, Arica, Chile.
+   [Caqueo-Urizar, Alejandra; Williams, David R.] Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, 677 Huntington Ave, Boston, MA 02115 USA.
+   [Boyer, Laurent] Aix Marseille Univ, Res Unit, EA Publ Hlth Chron Dis & Qual Life 3279, F-13005 Marseille, France.
+   [Urzua, Alfonso] Univ Catolica Norte, Angamos 0610, Antofagasta, Chile.
+C3 Universidad de Tarapaca; Harvard University; Harvard T.H. Chan School of
+   Public Health; Aix-Marseille Universite; Universidad Catolica del Norte
+RP Caqueo-Urízar, A (corresponding author), Univ Tarapaca, Escuela Psicol & Filosofia, Ave 18 Septiembre 2222, Arica, Chile.; Caqueo-Urízar, A (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Social & Behav Sci, 677 Huntington Ave, Boston, MA 02115 USA.
+EM acaqueo@uta.cl; alurzua@ucn.cl; Laurent.BOYER@ap-hm.fr;
+   dwilliam@hsph.harvard.edu
+RI Williams, David/HKN-3732-2023; Boyer, Laurent/E-5728-2016;
+   Caqueo-Urízar, Alejandra/AAW-4045-2021; Urzúa, Alfonso/A-1208-2012
+OI Boyer, Laurent/0000-0003-1229-6622; Caqueo-Urízar,
+   Alejandra/0000-0002-4614-8380; Urzúa, Alfonso/0000-0002-0882-2194
+FU CONICYT; BECAS-CHILE Postdoctorado en el Extranjero [74140004]; Convenio
+   de Desempeno UTA-MINEDUC
+FX This research was funded in part by CONICYT and BECAS-CHILE
+   Postdoctorado en el Extranjero (74140004), the Convenio de Desempeno
+   UTA-MINEDUC. We thank Felipe Ponce y Jorge Escudero for their assistance
+   in the study and also the following people and facilities: Dr. Hugo
+   Sanchez, Dr. Ricardo Alvites, Dr. Andres Collado, Gladys Coaquira, Vilma
+   Liendo and specially thanks to Dr. Jose Revilla from Hipolito Unanue
+   Hospital in Tacna, Peru; Dr. Marcio Soto from Arequipa, Peru; Dr.
+   Fernando Garitano, Dr. Mauricio Peredo and Dra. Mabel Romero from Centro
+   de Rehabilitacion y Salud Mental San Juan de Dios; and the Director of
+   Hospital Psiquiatrico de la Caja Nacional de Salud from La Paz, Bolivia.
+   We also thank Dra. Magdalena Gardilcic, Ester Lopez, and Alejandra Lagos
+   from Servicio de Salud de Arica, Chile, and extend a special thanks to
+   all the patients and caregivers who participated in this study. Finally,
+   a special thanks to the Dr. Stephen Gilman from National Institute of
+   Child Health and Human Development who assisted with the preparation and
+   proof reading of the manuscript.
+NR 51
+TC 9
+Z9 9
+U1 1
+U2 16
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD APR
+PY 2016
+VL 51
+IS 4
+BP 521
+EP 528
+DI 10.1007/s00127-015-1156-5
+PG 8
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DI7UN
+UT WOS:000373707600006
+PM 26614006
+DA 2023-12-03
+ER
+
+PT J
+AU Zhong, QY
+   Wells, A
+   Rondon, MB
+   Williams, MA
+   Barrios, YV
+   Sanchez, SE
+   Gelaye, B
+AF Zhong, Qiu-Yue
+   Wells, Anne
+   Rondon, Marta B.
+   Williams, Michelle A.
+   Barrios, Yasmin V.
+   Sanchez, Sixto E.
+   Gelaye, Bizu
+TI Childhood abuse and suicidal ideation in a cohort of pregnant Peruvian
+   women
+SO AMERICAN JOURNAL OF OBSTETRICS AND GYNECOLOGY
+LA English
+DT Article
+DE childhood abuse; depression; pregnant women; suicidal ideation
+ID SEXUAL-ABUSE; PHYSICAL ABUSE; HOUSEHOLD DYSFUNCTION; SLEEP QUALITY;
+   PRETERM BIRTH; RISK-FACTORS; DEPRESSION; EXPERIENCES; HISTORY;
+   ASSOCIATION
+AB BACKGROUND: Childhood abuse is a major global and public health problem associated with a myriad of adverse outcomes across the life course. Suicide is one of the leading causes of mortality during the perinatal period. However, few studies have assessed the relationship between experiences of childhood abuse and suicidal ideation in pregnancy.
+   OBJECTIVE: We sought to examine the association between exposure to childhood abuse and suicidal ideation among pregnant women.
+   STUDY DESIGN: A cross-sectional study was conducted among 2964 pregnant women attending prenatal clinics in Lima, Peru. Childhood abuse was assessed using the Childhood Physical and Sexual Abuse Questionnaire. Depression and suicidal ideation were assessed using the Patient Health Questionnaire-9 scale. Logistic regression procedures were performed to estimate adjusted odds ratios and 95% confidence intervals adjusted for potential confounders.
+   RESULTS: Overall, the prevalence of childhood abuse in this cohort was 71.8% and antepartum suicidal ideation was 15.8%. The prevalence of antepartum suicidal ideation was higher among women who reported experiencing any childhood abuse compared to those reporting none (89.3% vs 10.7%, P <.0001). After adjusting for potential confounders, including antepartum depression and lifetime intimate partner violence, those with history of any childhood abuse had a 2.9-fold (2.90, adjusted odds ratio; 95% confidence interval, 2.12-3.97) increased odds of reporting suicidal ideation. Women who experienced both physical and sexual childhood abuse had much higher odds of suicidal ideation (adjusted odds ratio, 4.04; 95% confidence interval, 2.88-5.68). Women who experienced any childhood abuse and reported depression had 3.44fold (3.44, adjusted odds ratio; 95% confidence interval, 1.84-6.43) increased odds of suicidal ideation compared with depressed women with no history of childhood abuse. Finally, the odds of suicidal ideation increased with increased number of childhood abuse events experienced (P value for linear trend <.001).
+   CONCLUSION: Maternal history of childhood abuse was associated with increased odds of antepartum suicidal ideation. It is important for clinicians to be aware of the potential increased risk of suicidal behaviors among pregnant women with a history of childhood physical and sexual abuse.
+C1 [Zhong, Qiu-Yue; Wells, Anne; Williams, Michelle A.; Barrios, Yasmin V.; Gelaye, Bizu] Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+   [Rondon, Marta B.] Cayetano Heredia Peruvian Univ, Dept Med, Lima, Peru.
+   [Sanchez, Sixto E.] Asociac Civil Proyectos Salud, Lima, Peru.
+   [Sanchez, Sixto E.] Univ Peruana Ciencias Aplicados, Lima, Peru.
+C3 Harvard University; Harvard T.H. Chan School of Public Health;
+   Universidad Peruana Cayetano Heredia; Universidad Peruana de Ciencias
+   Aplicadas (UPC)
+RP Zhong, QY (corresponding author), Harvard TH Chan Sch Publ Hlth, Dept Epidemiol, Boston, MA USA.
+EM qyzhong@mail.harvard.edu
+OI Wells, Anne/0000-0002-4032-673X; Gelaye, Bizu/0000-0001-7934-548X;
+   Sanchez, Sixto/0000-0003-0354-0523; Rondon, Marta/0000-0001-8459-6785
+FU National Institutes of Health (NIH) [R01-HD-059835, T37-MD-000149]
+FX This research was supported by awards from the National Institutes of
+   Health (NIH) (R01-HD-059835 and T37-MD-000149). The NIH had no further
+   role in study design; in the collection, analysis, and interpretation of
+   data; in the writing of the report; or in the decision to submit the
+   paper for publication.
+NR 56
+TC 23
+Z9 25
+U1 1
+U2 17
+PU MOSBY-ELSEVIER
+PI NEW YORK
+PA 360 PARK AVENUE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0002-9378
+EI 1097-6868
+J9 AM J OBSTET GYNECOL
+JI Am. J. Obstet. Gynecol.
+PD OCT
+PY 2016
+VL 215
+IS 4
+AR 501.e1-8
+DI 10.1016/j.ajog.2016.04.052
+PG 9
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Obstetrics & Gynecology
+GA EE3RJ
+UT WOS:000389513600037
+PM 27173085
+OA Green Accepted
+DA 2023-12-03
+ER
+
+EF

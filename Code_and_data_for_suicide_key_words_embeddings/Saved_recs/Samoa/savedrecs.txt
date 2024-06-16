@@ -1,0 +1,587 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lowe, ED
+AF Lowe, Edward D.
+TI Epidemic Suicide in the Context of Modernizing Social Change in Oceania:
+   A Critical Review and Assessment
+SO CONTEMPORARY PACIFIC
+LA English
+DT Review
+DE social change; youth; suicide; Federated States of Micronesia; Republic
+   of the Marshall Islands; Republic of Palau; Samoa
+AB This article examines the Western academic explanations for suicide epidemics among adolescents and young adults documented in many Pacific Island nations beginning in the early 1970s. These explanatory accounts draw heavily from Emile Durkheim's theory of social change and suicide, developed in the late nineteenth century. Durkheim argued that suicide epidemics are more likely in the context of modernizing social change either because of increased social disequilibrium (anomie) or social disintegration (egoism). These traditional Western explanations are rarely empirically assessed for their appropriateness in Pacific Island contexts. Therefore, this article uses selected empirical evidence to assess the major claims found in these explanations, focusing on Samoa and the Micronesian region as the best documented examples. Finding that the data do not support well the major Western-derived explanations for these suicide epidemics, alternative explanations are explored. These alternatives suggest that Pacific Island young people's vulnerability to suicide is partly a result of how globalizing commodity flows, development policies, and the selective appropriation of these by local actors inform local social relations and the tensions in them. This view supports well recent advocacy for a shift in perspectives toward those that draw on indigenous Oceanic understandings of the va or wa as relational spaces that are central for the quality of health and well-being in Pacific Island communities.
+C1 [Lowe, Edward D.] Soka Univ Amer, Aliso Viejo, CA 92656 USA.
+RP Lowe, ED (corresponding author), Soka Univ Amer, Aliso Viejo, CA 92656 USA.
+NR 28
+TC 2
+Z9 3
+U1 0
+U2 4
+PU UNIV HAWAII PRESS
+PI HONOLULU
+PA 2840 KOLOWALU ST, HONOLULU, HI 96822 USA
+SN 1043-898X
+EI 1527-9464
+J9 CONTEMP PACIFIC
+JI Contemp. Pacif.
+PY 2019
+VL 31
+IS 1
+BP 105
+EP 138
+DI 10.1353/cp.2019.0007
+PG 34
+WC Area Studies
+WE Social Science Citation Index (SSCI)
+SC Area Studies
+GA HN0GS
+UT WOS:000459865700005
+OA Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Peltzer, K
+   Pengpid, S
+AF Peltzer, Karl
+   Pengpid, Supa
+TI Early Substance Use Initiation and Suicide Ideation and Attempts among
+   School-Aged Adolescents in Four Pacific Island Countries in Oceania
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE early substance use; cigarette smoking; alcohol; drugs; suicidal
+   ideation; suicide attempt; global school-based health survey; Kiribati;
+   Samoa; Solomon Islands; Vanuatu
+ID ALCOHOL-USE INITIATION; YOUNG-PEOPLE; EPIDEMIC SUICIDE; BEHAVIOR; RISK;
+   STUDENTS; CANNABIS; SMOKING; TOBACCO
+AB This study aimed to investigate the correlations between early initiation (<12 years) of smoking cigarettes, alcohol use, and drug use (cannabis) with suicidal ideation and suicide attempts in school-aged adolescents in four Pacific Island countries in Oceania. The sample included 6540 adolescents (13 to 16 years old) from Kiribati, Samoa, Solomon Islands, and Vanuatu. Bivariate and multivariable analyses were conducted to assess the association between pre-adolescent substance use initiation and suicidal ideation and suicide attempts. Results indicate a prevalence of 25.8% suicidal ideation in the past 12 months (ranging from 17.2% in Vanuatu to 34.7% in Kiribati) and 34.9% suicide attempts in the past 12 months (ranging from 23.5% in Vanuatu to 62.0% in Samoa). The prevalence of early cigarette smoking initiation was 15.7%, early alcohol initiation 13.8%, and early drug use initiation was 12.9%. Students who reported pre-adolescent substance use initiation, compared with non-substance users, were more likely reporting suicidal ideation and suicide attempts. The concurrent initiation of cigarette smoking, alcohol, and drug use should be targeted in early prevention programmes in order to prevent possible subsequent suicidal behaviours.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Salaya 73170, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res & Innovat, ZA-0727 Turfloop, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, ZA-0002 Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Salaya 73170, Thailand.
+EM karl.pel@mahidol.ac.th; supaprom@yahoo.com
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 31
+TC 46
+Z9 51
+U1 0
+U2 20
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1661-7827
+EI 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD OCT
+PY 2015
+VL 12
+IS 10
+BP 12291
+EP 12303
+DI 10.3390/ijerph121012291
+PG 13
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA CX1RE
+UT WOS:000365472500020
+PM 26437423
+OA Green Submitted, gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Else, IRN
+   Andrade, NN
+   Nahulu, LB
+AF Else, 'Iwalani R. N.
+   Andrade, Naleen N.
+   Nahulu, Linda B.
+TI Suicide and suicidal-related behaviors among indigenous Pacific
+   Islanders in the United States
+SO DEATH STUDIES
+LA English
+DT Article
+ID ADOLESCENTS; PREDICTION
+AB The authors present a comprehensive review on U. S. Pacific Islander suicide and suicide-related behaviors to extend the knowledge and understanding of suicide and suicide-related behaviors among the indigenous peoples of the state of Hawai`i, the territories of American Samoa, Guam, Commonwealth of the Northern Mariana Islands, and the Pacific Island Nations of Micronesia ( Federated States of Micronesia, the Republic of Belau [ Palau], and the Republic of the Marshall Islands). Historical, geographic, epidemiological, social, and cultural information is presented on these Pacific Island populations. Suicide behavioral data are presented for Pacific Islanders living within the U. S. and affiliated Pacific territories and nations from the existing scientific literature along with archival data and 2 epidemiological studies that assess suicidal behaviors and related psychosocial factors and measures of psychopathology among large community samples of youth in Hawai`i. The authors describe common patterns and differences among these populations, along with social-cultural practices that may explain suicide phenomenology among these U. S. indigenous peoples who-while small in numbers when compared with the total U. S. population-possess striking health disparities when compared to other populations within the U. S. and in their island homelands.
+C1 Univ Hawaii Manoa, John A Burns Sch Med, Dept Psychiat, Natl Ctr Indigenous Hawaiian Behav Hlth, Honolulu, HI 96813 USA.
+C3 University of Hawaii System; University of Hawaii Manoa
+RP Else, IRN (corresponding author), Univ Hawaii Manoa, John A Burns Sch Med, Dept Psychiat, Natl Ctr Indigenous Hawaiian Behav Hlth, 1356 Lusitana St,4th Floor, Honolulu, HI 96813 USA.
+EM elsei@dop.hawaii.edu
+NR 35
+TC 55
+Z9 61
+U1 0
+U2 8
+PU BRUNNER/MAZEL INC
+PI BRISTOL
+PA 1900 FROST RD, STE 101, BRISTOL, PA 19007-1598 USA
+SN 0748-1187
+J9 DEATH STUD
+JI Death Stud.
+PY 2007
+VL 31
+IS 5
+BP 479
+EP 501
+DI 10.1080/07481180701244595
+PG 23
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA 158HE
+UT WOS:000245781600006
+PM 17554840
+DA 2023-12-05
+ER
+
+PT J
+AU Liu, X
+   Huang, Y
+   Liu, YY
+AF Liu, Xiang
+   Huang, Yi
+   Liu, Yuanyuan
+TI Prevalence, distribution, and associated factors of suicide attempts in
+   young adolescents: School-based data from 40 low-income and
+   middle-income countries
+SO PLOS ONE
+LA English
+DT Article
+ID NONSUICIDAL SELF-INJURY; RISK BEHAVIOR SURVEY; YOUTH; IDEATION;
+   RELIABILITY; OUTCOMES; PEOPLE
+AB Suicide attempts are the most important known predictor of death by suicide. The aim of this study is to examine the prevalence, distribution, and associated factors of suicide attempts among young adolescents in 40 low-income and middle-income countries. We used data from the Global School-Based Student Health Survey (2009-2013) and a nationally representative study in China (2010), which are school-based surveys of students primarily aged 12-18 years that assess health behaviors using an anonymous, standardized, self-reported questionnaire. We calculated the prevalence of suicide attempts in young adolescents from 40 low-income and middle-income countries using the surveys. Multilevel logistic models were used to estimate the associations between suicide attempts and potential risk factors, adjusting for gender, age, school and survey year. Results show that the mean 12-month prevalence of suicide attempts was 17.2%, ranging from 6.7% in Malaysia to 61.2% in Samoa. The overall prevalence of suicide attempts was higher for girls than for boys (18.2% vs 16.2%, P<0.05). Among the suicide attempts, the proportion of suicide attempts with a plan was higher for girls than for boys (62.7% vs 53.2%, P<0.05). Both the prevalence of suicide attempts and the proportion of suicide attempts with a plan increased with age. Factors associated with suicide attempts included poor socioeconomic status, history of bullying, loneliness and anxiety, tobacco and alcohol use, and weak family and social relationships. In conclusion, suicide attempts are frequent among young adolescents in low-income and middle-income countries. Girls and older adolescents tend to make suicide attempts with a plan. The data demonstrate the need to strengthen suicide intervention and prevention programs for young adolescents in low-income and middle-income countries.
+C1 [Liu, Xiang] Sichuan Univ, Dept Hlth & Social Behav, Sch Publ Hlth, Chengdu, Sichuan, Peoples R China.
+   [Huang, Yi] Sichuan Univ, Mental Hlth Ctr, West China Hosp, Chengdu, Sichuan, Peoples R China.
+   [Liu, Yuanyuan] Sichuan Univ, Dept Epidemiol & Hlth Stat, Sch Publ Hlth, Chengdu, Sichuan, Peoples R China.
+C3 Sichuan University; Sichuan University; Sichuan University
+RP Liu, YY (corresponding author), Sichuan Univ, Dept Epidemiol & Hlth Stat, Sch Publ Hlth, Chengdu, Sichuan, Peoples R China.
+EM y_multi@126.com
+RI liu, yuanyuan/IQS-2755-2023; liu, yuanyuan/HSG-8372-2023; wei,
+   lai/JCO-0672-2023; yang, liu/HTN-9175-2023; liu, yuanyuan/GWZ-5838-2022;
+   liu, 园园/HJI-4438-2023
+FU Natural Science Foundation of China [81371495]
+FX This study was partly supported by Natural Science Foundation of China
+   (Grant No. 81371495).
+NR 54
+TC 52
+Z9 56
+U1 2
+U2 28
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD DEC 19
+PY 2018
+VL 13
+IS 12
+AR e0207823
+DI 10.1371/journal.pone.0207823
+PG 12
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HE9NT
+UT WOS:000453779300018
+PM 30566431
+OA Green Submitted, gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Carvalho, AF
+   Stubbs, B
+   Vancampfort, D
+   Kloiber, S
+   Maes, M
+   Firth, J
+   Kurdyak, PA
+   Stein, DJ
+   Rehm, J
+   Koyanagi, A
+AF Carvalho, Andre F.
+   Stubbs, Brendon
+   Vancampfort, Davy
+   Kloiber, Stefan
+   Maes, Michael
+   Firth, Joseph
+   Kurdyak, Paul A.
+   Stein, Dan J.
+   Rehm, Juergen
+   Koyanagi, Ai
+TI Cannabis use and suicide attempts among 86,254 adolescents aged 12-15
+   years from 21 low- and middle-income countries
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Article
+DE Cannabis; Survey; Suicide; Adolescence; Psychiatry; Epidemiology
+ID GLOBAL BURDEN; SUBSTANCE USE; DEPRESSION; INSOMNIA; ASSOCIATION;
+   DISORDERS; BEHAVIOR; IDEATION; CHILDREN
+AB Background: Evidence suggests that cannabis use may be associated with suicidality in adolescence. Nevertheless, very few studies have assessed this association in low-and middle-income countries (LMICs). In this cross-sectional survey, we investigated the association of cannabis use and suicidal attempts in adolescents from 21 LMICs, adjusting for potential confounders.
+   Method: Data from the Global school-based Student Health Surveywas analyzed in86,254 adolescentsfrom 21 countries [ mean (SD) age = 13.7 (0.9) years; 49.0% girls]. Suicide attempts during past year and cannabis during past month and lifetime were assessed. Multivariable logistic regression analyses were conducted.
+   Results: The overall prevalence of past 30-day cannabis use was 2.8% and the age-sex adjusted prevalence varied from 0.5% (Laos) to 37.6% (Samoa), while the overall prevalence of lifetime cannabis use was 3.9% (range 0.5%-44.9%). The overall prevalence of suicide attempts during the past year was 10.5%. Following multivariable adjustment to potential confounding variables, past 30-day cannabis use was significantly associated with suicide attempts (OR = 2.03; 95% CI: 1.42-2.91). Lifetime cannabis use was also independently associated with suicide attempts (OR = 2.30; 95% CI: 1.74-3.04).
+   Conclusion: Our data indicate that cannabis use is associated with a greater likelihood for suicide attempts in adolescents living in LMICs. The causality of this association should be confirmed/refuted in prospective studies to further inform public health policies for suicide prevention in LMICs. (c) 2018 Elsevier Masson SAS. All rights reserved.
+C1 [Carvalho, Andre F.; Kloiber, Stefan; Kurdyak, Paul A.; Rehm, Juergen] Univ Toronto, Dept Psychiat, Toronto, ON, Canada.
+   [Carvalho, Andre F.; Kloiber, Stefan] CAMH, 33 Russel St,Tower Bldg,T314, Toronto, ON M5S 2S1, Canada.
+   [Stubbs, Brendon] South London & Maudsley NHS Fdn Trust, Denmark Hill, London SE5 8AZ, England.
+   [Stubbs, Brendon] Kings Coll London, Inst Psychiat Psychol & Neurosci IoPPN, De Crespigny Pk, London SE5 8AF, England.
+   [Stubbs, Brendon] Anglia Ruskin Univ, Fac Hlth Social Care & Educ, Chelmsford CM1 1SQ, Essex, England.
+   [Vancampfort, Davy] Katholieke Univ Leuven, Dept Rehabil Sci, Leuven, Belgium.
+   [Vancampfort, Davy] UPC KU Leuven, Dept Neurosci, KU Leuven, Kortenberg, Belgium.
+   [Maes, Michael] Deakin Univ, Barwon Hlth, Sch Med, IMPACT Strateg Res Ctr, Geelong, Vic, Australia.
+   [Maes, Michael] Chulalongkorn Univ, Fac Med, Dept Psychiat, Bangkok, Thailand.
+   [Firth, Joseph] Western Sydney Univ, Sch Sci & Hlth, NICM Hlth Res Inst, Sydney, NSW, Australia.
+   [Firth, Joseph] Univ Manchester, Fac Biol Med & Hlth, Div Psychol & Mental Hlth, Manchester, Lancs, England.
+   [Firth, Joseph] Univ Melbourne, Ctr Youth Mental Hlth, Melbourne, Vic, Australia.
+   [Kurdyak, Paul A.] Ctr Addict & Mental Hlth, Social & Epidemiol Res Program, Hlth Outcomes & Performance Evaluat HOPE Res Unit, Toronto, ON, Canada.
+   [Kurdyak, Paul A.; Rehm, Juergen] Univ Toronto, Inst Mental Hlth Policy Res, Toronto, ON, Canada.
+   [Kurdyak, Paul A.] ICES, Mental Hlth & Addict Res Program, Toronto, ON, Canada.
+   [Stein, Dan J.] Univ Cape Town, Fac Hlth Sci, Dept Psychiat, Cape Town, South Africa.
+   [Stein, Dan J.] Univ Cape Town, Fac Hlth Sci, MRC Unit Risk & Resilience Mental Disorders, Cape Town, South Africa.
+   [Stein, Dan J.] Groote Schuur Hosp, Cape Town, South Africa.
+   [Rehm, Juergen] Tech Univ Dresden, Inst Clin Psychol & Psychotherapy, Chemnitzer Str 46, D-01187 Dresden, Germany.
+   [Rehm, Juergen] Univ Toronto, Dalla Lana Sch Publ Hlth, Addict Policy, 155 Coll St, Toronto, ON M5T 3M7, Canada.
+   [Rehm, Juergen] Univ Toronto, Fac Med, Inst Med Sci, Med Sci Bldg,1 Kings Coll Circle, Toronto, ON M5S 1A8, Canada.
+   [Koyanagi, Ai] Univ Barcelona, Fundacio St Joan de Deu, CIBERSAM, Res & Dev Unit,Parc Sanitari St Joan de Deu, Dr Antoni Pujadas 42, Barcelona 08830, Spain.
+C3 University of Toronto; University of Toronto; Centre for Addiction &
+   Mental Health - Canada; University of London; King's College London;
+   Anglia Ruskin University; KU Leuven; KU Leuven; Deakin University;
+   Chulalongkorn University; Western Sydney University; University of
+   Manchester; Orygen, The National Centre of Excellence in Youth Mental
+   Health; University of Melbourne; University of Toronto; Centre for
+   Addiction & Mental Health - Canada; University of Toronto; University of
+   Toronto; University of Cape Town; University of Cape Town; University of
+   Cape Town; Technische Universitat Dresden; University of Toronto;
+   University of Toronto; University of Barcelona; CIBER - Centro de
+   Investigacion Biomedica en Red; CIBERSAM
+RP Carvalho, AF (corresponding author), CAMH, 33 Russel St,Tower Bldg,T314, Toronto, ON M5S 2S1, Canada.
+EM andre.carvalho@camh.ca
+RI Kloiber, Stefan/AAW-8786-2021; Firth, Joseph/ABE-6809-2020; Stubbs,
+   Brendon/X-1904-2018; Stein, Dan J/A-1752-2008; Vancampfort,
+   Davy/AAD-1987-2019; Vancampfort, Davy/ABF-2439-2020; Maes,
+   Michael/B-8546-2011; Koyanagi, Ai/D-3833-2018
+OI Kloiber, Stefan/0000-0002-6838-4114; Firth, Joseph/0000-0002-0618-2752;
+   Stubbs, Brendon/0000-0001-7387-3791; Stein, Dan J/0000-0001-7218-7810;
+   Vancampfort, Davy/0000-0002-4592-8625; Maes,
+   Michael/0000-0002-2012-871X; Koyanagi, Ai/0000-0002-9565-5004; Kurdyak,
+   Paul/0000-0001-8115-7437
+FU Miguel Servet contract [CP13/00150, PI15/00862]; ISCIII - General Branch
+   Evaluation and Promotion of Health Research; European Regional
+   Development Fund (ERDF-FEDER); Health Education England; National
+   Institute for Health Research ICA Programme Clinical Lectureship
+   [ICA-CL-2017-03-001]
+FX AK's work was supported by the Miguel Servet contract financed by the
+   CP13/00150 and PI15/00862 projects, integrated into the National R + D +
+   I and funded by the ISCIII - General Branch Evaluation and Promotion of
+   Health Research - and the European Regional Development Fund
+   (ERDF-FEDER). BS is supported by Health Education England and the
+   National Institute for Health Research ICA Programme Clinical
+   Lectureship (ICA-CL-2017-03-001). The views expressed in this
+   publication are those of the author(s) and not necessarily those of the
+   NHS, the National Institute for Health Research or the Department of
+   Health and Social Care.
+NR 30
+TC 56
+Z9 58
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD FEB
+PY 2019
+VL 56
+BP 8
+EP 13
+DI 10.1016/j.eurpsy.2018.10.006
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HL1ZL
+UT WOS:000458502900002
+PM 30447436
+OA Green Accepted, Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Odden, HL
+AF Odden, Harold L.
+TI Interactions of Temperament and Culture: The Organization of Diversity
+   in Samoan Infancy
+SO ETHOS
+LA English
+DT Article
+DE Child development; temperament; infancy; developmental niche; Samoa
+ID BIOLOGICAL SENSITIVITY; DEVELOPMENTAL NICHE; SUICIDE; CONTEXT; FAMILY
+AB Many forms of individual variation in early childhood are accommodated via processes of reciprocal adaptation of the child and their "developmental niche.'' Although most are minor adaptations, some culturally patterned adjustments can have profound organizational effects on the niche and the child's developmental trajectory. Research conducted in Samoa suggests at least two distinct adaptations of the modal developmental niche for infants and toddlers keyed to different temperamental profiles: interpersonally assertive and behaviorally restrained. I argue that these two different variants of the modal niche emerge from dynamic interplay of different temperamental profiles, ethnotheories of child development, and child-rearing practices. These different niches can be developmentally significant in that they channel the individual's development in contrastive ways and introduce different future developmental challenges and opportunities. My larger point is that these different manifestations of the developmental niche represent one way in which social, cultural, and ecological factors on the one hand, and individual diversity on the other hand, interact to organize and constrain individual diversity.
+C1 Indiana Univ Purdue Univ, Ft Wayne, IN 46805 USA.
+C3 Purdue University System; Indiana University Purdue University Fort
+   Wayne
+RP Odden, HL (corresponding author), Indiana Univ Purdue Univ, Ft Wayne, IN 46805 USA.
+NR 76
+TC 9
+Z9 9
+U1 0
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0091-2131
+EI 1548-1352
+J9 ETHOS
+JI Ethos
+PD JUN
+PY 2009
+VL 37
+IS 2
+BP 161
+EP 180
+DI 10.1111/j.1548-1352.2009.01036.x
+PG 20
+WC Anthropology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychology
+GA 445BE
+UT WOS:000266023800002
+DA 2023-12-05
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-05
+ER
+
+PT J
+AU Devries, K
+   Watts, C
+   Yoshihama, M
+   Kiss, L
+   Schraiber, LB
+   Deyessa, N
+   Heise, L
+   Durand, J
+   Mbwambo, J
+   Jansen, H
+   Berhane, Y
+   Ellsberg, M
+   Garcia-Moreno, C
+AF Devries, Karen
+   Watts, Charlotte
+   Yoshihama, Mieko
+   Kiss, Ligia
+   Schraiber, Lilia Blima
+   Deyessa, Negussie
+   Heise, Lori
+   Durand, Julia
+   Mbwambo, Jessie
+   Jansen, Henrica
+   Berhane, Yemane
+   Ellsberg, Mary
+   Garcia-Moreno, Claudia
+CA WHO Multicountry Study Team
+TI Violence against women is strongly associated with suicide attempts:
+   Evidence from the WHO multi-country study on women's health and domestic
+   violence against women
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Intimate partner violence; Sexual violence; Childhood sexual abuse;
+   Suicidal behaviour; Women; Gender; Developing countries
+ID INTIMATE-PARTNER VIOLENCE; MENTAL-HEALTH; RISK-FACTORS; PREVALENCE;
+   IDEATION; ABUSE; PREVENTION; COMMUNITY; OUTCOMES; COHORT
+AB Suicidal behaviours are one of the most important contributors to the global burden of disease among women, but little is known about prevalence and modifiable risk factors in low and middle income countries. We use data from the WHO multi-country study on women's health and domestic violence against women to examine the prevalence of suicidal thoughts and attempts, and relationships between suicide attempts and mental health status, child sexual abuse, partner violence and other variables. Population representative cross-sectional household surveys were conducted from 2000-2003 in 13 provincial (more rural) and city (urban) sites in Brazil, Ethiopia, japan, Namibia, Peru, Samoa, Serbia, Thailand and Tanzania. 20967 women aged 15-49 years participated. Prevalence of lifetime suicide attempts, lifetime suicidal thoughts, and suicidal thoughts in the past four weeks were calculated, and multivariate logistic regression models were fit to examine factors associated with suicide attempts in each site. Prevalence of lifetime suicide attempts ranged from 0.8% (Tanzania) to 12.0% (Peru city): lifetime thoughts of suicide from 7.2% (Tanzania province) to 29.0% (Peru province), and thoughts in the past four weeks from 1.9% (Serbia) to 13.6% (Peru province). 25-50% of women with suicidal thoughts in the past four weeks had also visited a health worker in that time. The most consistent risk factors for suicide attempts after adjusting for probable common mental health disorders were: intimate partner violence, non-partner physical violence, ever being divorced, separated or widowed, childhood sexual abuse and having a mother who had experienced intimate partner violence. Mental health policies and services must recognise the consistent relationship between violence and suicidality in women in low and middle income countries. Training health sector workers to recognize and respond to the consequences of violence may substantially reduce the health burden associated with suicidal behaviour. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Devries, Karen; Watts, Charlotte; Kiss, Ligia; Heise, Lori] London Sch Hyg & Trop Med, London WC1H 0DP, England.
+   [Yoshihama, Mieko] Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+   [Schraiber, Lilia Blima; Durand, Julia] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+   [Deyessa, Negussie; Berhane, Yemane] Addis Abbaba Univ, Addis Ababa, Ethiopia.
+   [Jansen, Henrica; Garcia-Moreno, Claudia] World Hlth Org, Geneva, Switzerland.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Michigan System; University of Michigan; Universidade de
+   Sao Paulo; Addis Ababa University; World Health Organization
+RP Devries, K (corresponding author), London Sch Hyg & Trop Med, 36 Gordon Sq, London WC1H 0DP, England.
+EM karen.devries@lshtm.ac.uk
+RI Heise, LORI/AAI-6251-2020; Berhane, Yemane/ABB-8154-2020; Schraiber,
+   Lilia B/B-5708-2014; Devries, Karen/K-1083-2016
+OI Devries, Karen/0000-0001-8935-2181; Jansen, Henrica
+   A.F.M./0009-0005-3691-049X; Berhane, Yemane/0000-0002-2527-1339; Kiss,
+   Ligia/0000-0002-3334-7110; Naved, Ruchira/0000-0002-0363-5648
+NR 61
+TC 343
+Z9 378
+U1 3
+U2 144
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2011
+VL 73
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.socscimed.2011.05.006
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 799DK
+UT WOS:000293263500010
+PM 21676510
+DA 2023-12-05
+ER
+
+PT J
+AU McDade, TW
+AF McDade, TW
+TI Lifestyle incongruity, social integration, and immune function in Samoan
+   adolescents
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE status inconsistency; westernization; psychoneuroimmunology;
+   adolescence; south Pacific
+ID ACUTE-PHASE PROTEINS; EPSTEIN-BARR-VIRUS; BLOOD-PRESSURE;
+   STATUS-INCONSISTENCY; URBAN SETTINGS; STRESS; SUICIDE; HEALTH;
+   COMMUNITY; CHILDREN
+AB The health consequences of rapid cultural and economic change have been explored for adults in a range of low-income countries, but comparable research in children and adolescents is currently lacking. Concurrently, the immunosuppressive effects of psychosocial stress have been documented in Western populations, but have yet to be considered in cross-cultural contexts. This study uses lifestyle incongruity (inconsistency between a household's material style of life and its socioeconomic status) as a model of culture change and stress, and considers its impact on immune function in a sample of 230 10-20 year-olds from (Western) Samoa. Anthropometric, lifestyle, and psychosocial data were collected, as well as finger prick blood spot samples for analysis of C-reactive protein (marker of infection) and antibodies against the Epstein-Barr virus (marker of cell-mediated immune function). Controlling for potential confounders, adolescents from households with a material style of life that exceeds its socioeconomic status have reduced cell-mediated immune function, indicating an increased burden of psychosocial stress. Social relationships moderate this effect: lifestyle incongruity stress is pronounced among adolescents with a high degree of social integration, and absent in adolescents with low social integration. This finding is counter to the buffering role of social support reported in previous applications of lifestyle incongruity to adults, and suggests that the moderating role of social integration may be unique to adolescents. The potential utility of the lifestyle incongruity model for future crosscultural studies of child and adolescent stress is discussed. (C) 2001 Elsevier Science Ltd. All rights reserved.
+C1 Northwestern Univ, Dept Anthropol, Evanston, IL 60208 USA.
+C3 Northwestern University
+RP McDade, TW (corresponding author), Northwestern Univ, Dept Anthropol, 1810 Hinman Ave, Evanston, IL 60208 USA.
+EM t-mcdade@northwestern.edu
+NR 72
+TC 57
+Z9 81
+U1 0
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD NOV
+PY 2001
+VL 53
+IS 10
+BP 1351
+EP 1362
+DI 10.1016/S0277-9536(00)00414-7
+PG 12
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 479QN
+UT WOS:000171415200007
+PM 11676405
+DA 2023-12-05
+ER
+
+PT J
+AU Lin, TCW
+AF Lin, Tom C. W.
+TI Americans, Almost and Forgotten
+SO CALIFORNIA LAW REVIEW
+LA English
+DT Article
+ID UNITED-STATES; GUAM; INSTITUTIONS; COLONIALISM; MILITARY; SUICIDE;
+   THREATS; EMPIRE; POLICY; CHINA
+AB There are millions of Americans who are systematically forgotten and mistreated by our government. They have been described by the Supreme Court as "alien races" and "utterly unfit for American citizenship," but they continue to fight and die defending our Constitution. They survive catastrophic storms, but do not receive the assistance that is freely given to other Americans. They are subject to federal laws and regulations, but have no meaningful voice or vote in Washington. They are the millions of Americans in Puerto Rico, Guam, American Samoa, the US Virgin Islands, and the Northern Mariana Islands-the unincorporated territories of the United States.
+   This Article is about these forgotten Americans, their longstanding political plight, and the pragmatic legal policies that could improve their lives and make them fully and equally American. It begins by providing a brief overview of each territory. Next, it investigates the plight of the territories, focusing on how interconnected factors relating to political powerlessness, economic dependence, military presence, and geographic isolation have created heavy burdens for people in the territories. Moving from problems to solutions, this Article examines past efforts to aid the territories. In particular, it analyzes past pursuits of litigation, statehood, and independence. It explains why these prior paths did not lead to progress, and discloses critical obstacles that continue to obstruct these routes. Finally, this Article proposes three workable ways for the federal government to assist the territories in the near term. Specifically, it argues that the territories and their supporters should focus on working with the federal government to obtain: (1) an extended temporary waiver of the costly maritime law known as the Jones Act, (2) most-favored state status in federal veterans and disaster relief appropriations, and (3) special economic empowerment zone designations. Ultimately, this Article aspires to offer a new, workable roadmap for policymakers to think and act with greater urgency about the forgotten Americans of our territories.
+C1 [Lin, Tom C. W.] Temple Univ, Beasley Sch Law, Philadelphia, PA 19122 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); Temple
+   University
+RP Lin, TCW (corresponding author), Temple Univ, Beasley Sch Law, Philadelphia, PA 19122 USA.
+NR 243
+TC 12
+Z9 12
+U1 1
+U2 7
+PU UNIV CALIFORNIA  BERKELEY SCH LAW
+PI BERKELEY
+PA BOAT HALL, 588 SIMON HALL, BERKELEY, CA 94720-7200 USA
+SN 0008-1221
+EI 1942-6542
+J9 CALIF LAW REV
+JI Calif. Law Rev.
+PD AUG
+PY 2019
+VL 107
+IS 4
+BP 1249
+EP 1302
+DI 10.15779/Z38513TW58
+PG 54
+WC Law
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA JQ8JC
+UT WOS:000499183800003
+DA 2023-12-05
+ER
+
+EF

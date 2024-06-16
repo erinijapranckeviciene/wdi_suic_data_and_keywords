@@ -1,0 +1,532 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vignolo, J
+   Alegretti, M
+   Vacarezza, M
+   Alvarez, C
+   Retamoso, E
+AF Vignolo, J.
+   Alegretti, M.
+   Vacarezza, M.
+   Alvarez, C.
+   Retamoso, E.
+TI STUDY OF 130 YEARS OF SUICIDE DEATHS IN URUGUAY. 1887 - 2017
+SO REVISTA DE SALUD PUBLICA-CORDOBA
+LA Spanish
+DT Article
+DE Suicide rate; Historical evolution; Public Health; masculinities
+ID ENGLAND; WALES
+AB Suicide is a type of self-inflicted violence which causes great impact and damage in the family, the community and the society. Worldwide, about 800.000 people commit suicide each year and Uruguay is one of the countries with the highest suicide rate. The objective of this study is to determine the tendency of suicide deaths in Uruguay in the period between 1887 and 2017. It is a descriptive study of people who committed suicide in Uruguay during the period studied. A joinpoint regression model was used to analyze trends; mobile averages and polynomial tendencies were also calculated. It was observed that in these 130 years there remains a significant rate increase (p< 0.05). Males continue presenting the highest values, and keeping the significant rate increase (p<0.05) through the whole period. Uruguay still presents a standardized rate placed within the first third of countries with the highest rates in the world and America. It is advisable to analyze, intensify and do an ongoing follow up of the National Suicide Prevention Plan approved by the Health Authority.
+C1 [Vignolo, J.] UdelaR, Fac Med, Med Familiar & Comunitaria, Montevideo, Uruguay.
+   [Alegretti, M.] UdelaR, Fac Med, Med Prevent & Social, Montevideo, Uruguay.
+   [Vacarezza, M.] UdelaR, Med Interna & Infectol, Montevideo, Uruguay.
+   [Alvarez, C.] UdelaR, Fac Med, Med Prevent Social & Salud, Montevideo, Uruguay.
+   [Retamoso, E.] UdelaR, Fac Med, Salud Med Familiar & Comunitaria, Montevideo, Uruguay.
+C3 Universidad de la Republica, Uruguay; Universidad de la Republica,
+   Uruguay; Universidad de la Republica, Uruguay; Universidad de la
+   Republica, Uruguay; Universidad de la Republica, Uruguay
+RP Vignolo, J (corresponding author), UdelaR, Fac Med, Med Familiar & Comunitaria, Montevideo, Uruguay.
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV NAC CORDOBA, ESCUELA SALUD PUBLICA
+PI CORDOBA
+PA ENRIQUE BARROSESQQ ENFERMERA GORDILLO GOMEZ, CIUDAD UNIV, CORDOBA, 5000,
+   ARGENTINA
+SN 1853-1180
+EI 1852-9429
+J9 REV SALUD PUBLICA-CO
+JI Rev. Salud Publica-Cordoba
+PY 2019
+VL 23
+IS 3
+BP 32
+EP 41
+PG 10
+WC Public, Environmental & Occupational Health
+WE Emerging Sources Citation Index (ESCI)
+SC Public, Environmental & Occupational Health
+GA JT3YB
+UT WOS:000500927600003
+DA 2023-12-06
+ER
+
+PT J
+AU Fachola, MCH
+   Lucero, R
+   Porto, V
+   Díaz, E
+   Paris, MD
+AF Heuguerot Fachola, Maria Cristina
+   Lucero, Rossana
+   Porto, Viviana
+   Diaz, Elizabeth
+   de los Angeles Paris, Maria
+TI Suicide attempts and suicide ideation among the elderly in Uruguay
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Suicide attempts; Elderly; Uruguay
+ID LIFE
+AB An investigation is presented into Suicide Attempts (SA) among the Elderly in Uruguay conducted in 2014 in a Public Health institution in Montevideo linked to a Claves/Fiocruz project. Starting with an initial project, semi-structured interviews were conducted with institutionalized individuals with a history of suicide attempts, as well as a review of the literature and research into preventive norms and actions by public health authorities in the country. The results reveal difficulties of individuals in talking about SA as well as shame associated with aging. There was also a major difficulty talking about family ties, confirming gender differences in the method of SA and greater suicide ideation among women, although the possibility of SA repetition does not appear to be a concern. The study elicits reflection on the importance of attention, care, quality of life and the effects of institutionalized life upon the elderly.
+C1 [Heuguerot Fachola, Maria Cristina; Lucero, Rossana; Porto, Viviana; Diaz, Elizabeth; de los Angeles Paris, Maria] Univ Republ, Fac Humanidades & Ciencias Educ, Magallanes 157711200, Uruguay.
+C3 Universidad de la Republica, Uruguay
+RP Fachola, MCH (corresponding author), Univ Republ, Fac Humanidades & Ciencias Educ, Magallanes 157711200, Uruguay.
+EM mheuguer@gmail.com
+NR 20
+TC 2
+Z9 3
+U1 1
+U2 10
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUN
+PY 2015
+VL 20
+IS 6
+BP 1693
+EP 1702
+DI 10.1590/1413-81232015206.02252015
+PG 10
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CM0ZS
+UT WOS:000357409900005
+PM 26060947
+OA Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Julesz, M
+AF Julesz, Mate
+TI Euthanasia outside Europe
+SO ORVOSI HETILAP
+LA Hungarian
+DT Article
+DE euthanasia; assisted suicide; criminal law; euthanasia in Europe;
+   euthanasia outside Europe; rule of law
+AB The passive form of euthanasia is legalized almost in every civilized country. Its active form is not a generally accepted legal institution. In Europe, active euthanasia is legalized only in The Netherlands, Belgium, Luxembourg and Switzerland. In Australia, the Act on the Rights of the Terminally Ill of 1995 legalized the institution of assisted suicide, which is not identical to active euthanasia. The difference lies in the fact that legalized active euthanasia means that the author of a murder is not punishable (under certain circumstances), whilst assisted suicide is not about murder, rather about suicide. In the first case, the patient is killed on his or her request by someone else. In the second case, the patient himself or herself executes the act of self-killing (by the assistance of a healthcare worker). In Australia, the institution of assisted suicide was repealed in 1997. Assisted suicide is legal in four USA member states: in Vermont, Washington, Montana and Oregon. In Uruguay, the active form of euthanasia has been legal since 1932.
+C1 [Julesz, Mate] Szegedi Tudomanyegyet, Szeged, Hungary.
+C3 Szeged University
+RP Julesz, M (corresponding author), Szentharomsag U 20, H-6722 Szeged, Hungary.
+EM mate.julesz@freemail.hu
+OI Julesz, Mate/0000-0003-0148-1857
+NR 15
+TC 1
+Z9 1
+U1 4
+U2 42
+PU AKADEMIAI KIADO RT
+PI BUDAPEST
+PA PRIELLE K U 19, PO BOX 245,, H-1117 BUDAPEST, HUNGARY
+SN 0030-6002
+EI 1788-6120
+J9 ORVOSI HETILAP
+JI Orvosi Hetilap
+PD AUG
+PY 2014
+VL 155
+IS 32
+BP 1259
+EP 1264
+DI 10.1556/OH.2014.29978
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AW6KJ
+UT WOS:000346378100002
+PM 25087217
+DA 2023-12-06
+ER
+
+PT J
+AU Julesz, M
+AF Julesz Mate
+TI Active euthanasia in Colombia and assisted suicide in California
+SO ORVOSI HETILAP
+LA Hungarian
+DT Article
+DE active euthanasia in Colombia; assisted suicide in California; passive
+   euthanasia in Hungary; human rights; right to die
+AB The institution of active euthanasia has been legal in Colombia since 2015. In California, the regulation on physician-assisted suicide will come into effect on January 1, 2016. The legal institution of active euthanasia is not accepted under the law of the United States of America, however, physician-assisted suicide is accepted in an increasing number of member states. The related regulation in Oregon is imitated in other member states. In South America, -Colombia is not the first country to legalize active euthanasia: active euthanasia has been legal in Uruguay since 1932. The North American legal tradition markedly differs from the South American one and both are incompatible with the Central European rule of law. In Hungary and in most European Union countries, solely the passive form of euthanasia is legal. In the Benelux countries, the active form of euthanasia is legal because the supranational law of the European Union does not prohibit it. Notwithstanding, European Union law does not prescribe legalization of either the active form of euthanasia, or the physician-assisted suicide.
+C1 [Julesz Mate] Szegedi Tudomanyegyet, Altalanos Orvostudomanyi Kar, Igazsagugyi Orvostani Intezet, Szeged, Hungary.
+C3 Szeged University
+RP Julesz, M (corresponding author), Szegedi Tudomanyegyet, Altalanos Orvostudomanyi Kar, Igazsagugyi Orvostani Intezet, Szeged, Hungary.
+EM mate.julesz@freemail.hu
+OI Julesz, Mate/0000-0003-0148-1857
+NR 10
+TC 2
+Z9 2
+U1 6
+U2 38
+PU AKADEMIAI KIADO ZRT
+PI BUDAPEST
+PA BUDAFOKI UT 187-189-A-3, H-1117 BUDAPEST, HUNGARY
+SN 0030-6002
+EI 1788-6120
+J9 ORVOSI HETILAP
+JI Orvosi Hetilap
+PD JAN
+PY 2016
+VL 157
+IS 5
+BP 174
+EP 179
+DI 10.1556/650.2016.30358
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA DD5IX
+UT WOS:000369957900002
+PM 26801362
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Pascale, A
+   Negrin, A
+   Laborde, A
+AF Pascale, Antonio
+   Negrin, Alba
+   Laborde, Amalia
+TI Cocaine base paste: experience from the Montevideo Poison Control Center
+SO ADICCIONES
+LA Spanish
+DT Article
+DE cocaine base poste; clinical features; suicide attempts
+AB Background: In Uruguay, cocaine base paste (CBP, pasta base) is a widely used form of cocaine The aim of our study is to determine the main clinical characteristics of CBP abusers
+   Methods: Retrospective, single-center study of consultations at the Montevideo Poison Control Center between January 1, 2004 and December 31, 2005
+   Results: One hundred and thirteen consultations were included, with an average age of 22 years (+ - 05 years) and a female-male sex ratio of 1 4 3 The consultations were related to drug overdose (77%), suicide attempt (168%), and wanting to give up CBP use (6 2%) In 48 1% the time elapsed since inhalation of CBP was less than 6 hours Doses varied between 05 gr and 25 gr Use of other drugs at the same time, such as alcohol, marijuana or benzodiazepines, was common (51 cases) The symptoms most frequently observed were neuropsychiatric and cardiovascular, followed by respiratory symptoms In 16 8% of patients, reason for the consultation was intentional acute ingestion of drugs, considered as a suicide attempt, occurring within a few hours of drug consumption
+   Discussion: CBP users are mostly young males Although clinical findings are compatible with those for cocaine abuse, euphoria is a major clinical feature in CBP abusers The presence of respiratory symptoms reflects the complications associated with the ingestion route Suicide attempts occurring within a few hours of CBP confirm the high prevalence of suicidal ideation reported by other authors
+C1 [Pascale, Antonio; Negrin, Alba; Laborde, Amalia] Hosp Clin Montevideo, Dept Toxicol, CIAT, Fac Med, Montevideo, Uruguay.
+C3 Alliance; International Center for Tropical Agriculture - CIAT;
+   Universidad de la Republica, Uruguay
+RP Pascale, A (corresponding author), Hosp Clin Montevideo, Dept Toxicol, CIAT, Fac Med, Piso 7 Sala,1 Avda Italia S-N,CP 11600, Montevideo, Uruguay.
+NR 12
+TC 3
+Z9 6
+U1 0
+U2 3
+PU SOCIDROGALCOHOL
+PI PALMA DE MALLORCA
+PA RAMBLA 15, 2A, 3A,, PALMA DE MALLORCA, BALEARES 07003, SPAIN
+SN 0214-4840
+J9 ADICCIONES
+JI Adicciones
+PY 2010
+VL 22
+IS 3
+BP 227
+EP 231
+DI 10.20882/adicciones.183
+PG 5
+WC Substance Abuse
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 635ZO
+UT WOS:000280697200006
+PM 20802985
+OA Green Submitted, Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Pandolfo, S
+   Vazqueza, M
+   Más, M
+   Vomero, A
+   Aguilar, A
+   Bello, O
+AF Pandolfo, Soledad
+   Vazqueza, Martin
+   Mas, Mariana
+   Vomero, Alejandra
+   Aguilar, Alicia
+   Bello, Osvaldo
+TI Suicide attempt in under 15's: An experience in a Pediatric Emergency
+   Departament
+SO ARCHIVOS ARGENTINOS DE PEDIATRIA
+LA Spanish
+DT Article
+DE suicide; children; adolescents; emergencies; hospital
+AB Introduction. Suicide attempt (SA) in under 15's is one of the most frequent reasons for psychiatric consultation faced by paediatricians working in urgency services. Uruguay is the country with the highest suicide rate in South America. Suicide is currently the fifth cause of death in 10 to 14 year olds (1.8/100,000) and ninth in the 5 to 9 age group (0.4/100,000).
+   Objectives. To know the incidence of SA consultations in under 15's, the characteristics of their environment and methods used.
+   Material and methods. Descriptive and prospective epidemiological study in a paediatric urgency service between 01/07/08 and 30/06/09.
+   Results. A total of 145 patients were included. Mean age was 12 yrs. 7 m. A 77% were female. The triggering factors were: interpersonal conflicts (57%), affective losses (17%) and battering or sexual-abuse (11%). A 78% took medication. An 18% planned the SA. A 77% occurred at home. The life of 10% was at risk. One third had at least one previous SA. A 49% had a family history of psychiatric disorders, 28% of SA and 7% of suicide. Of the total 123 SA with pills, 101 were women (n 112) and 22 males (n 33) (p < 0.05). Eight out of 15 under 10 year olds were male, and 25 out of 130 had more than 10 years of age (p < 0.05). Among under 10's, 50% used a non-pharmacological method and this figure rose to 19% (p < 0.05) in those with more than 10 years. An 88% rectified or regretted their action. Median length of hospital stay was 6 days. At the time of discharge, 99.5% did not present sequelae.
+   Conclusions. SA incidence in under 15's is 2/1,000 consultations per year. The main profile is a female between 12 and 14 years of age that attempts suicide at home using medication, preferably benzodiacepines, following a discussion or affective loss, without life risk. Among those under 10 years, there is a significant predominance of males using non pharmacological methods. Verification of these behavioural patterns will enable the design of prevention strategies in the age group studied.
+C1 [Pandolfo, Soledad; Vazqueza, Martin; Mas, Mariana; Vomero, Alejandra; Aguilar, Alicia; Bello, Osvaldo] Ctr Hosp Pereira Rossell, Dept Emergencia Pediat, Montevideo, Uruguay.
+RP Bello, O (corresponding author), Ctr Hosp Pereira Rossell, Dept Emergencia Pediat, Montevideo, Uruguay.
+EM depchpr@mednet.org.uy
+NR 23
+TC 3
+Z9 7
+U1 0
+U2 10
+PU SOC ARGENTINA PEDIATRIA
+PI CAP FED BUENO AIRES
+PA AV COLONEL DIAZ 1971-75-C1425DQF, CAP FED BUENO AIRES, 00000, ARGENTINA
+SN 0325-0075
+EI 1668-3501
+J9 ARCH ARGENT PEDIATR
+JI Arch. Argent. Pediatr.
+PD FEB
+PY 2011
+VL 109
+IS 1
+BP 18
+EP 23
+PG 6
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pediatrics
+GA 760GN
+UT WOS:000290312900010
+PM 21283939
+DA 2023-12-06
+ER
+
+PT J
+AU Cavalcante, FG
+   Minayo, MCD
+   Gutierrez, DMD
+   de Sousa, GS
+   da Silva, RM
+   Moura, R
+   Meneghel, SN
+   Grubits, S
+   Conte, M
+   Cavalcante, AC
+   Figueiredo, AEB
+   Mangas, RMD
+   Fachola, MCH
+   Izquierdo, GM
+AF Cavalcante, Fatima Goncalves
+   de Souza Minayo, Maria Cecilia
+   Duran Gutierrez, Denise Machado
+   de Sousa, Girliani Silva
+   da Silva, Raimunda Magalhaes
+   Moura, Rosylaine
+   Meneghel, Stela Nazareth
+   Grubits, Sonia
+   Conte, Marta
+   Sousa Cavalcante, Ana Celia
+   Bastos Figueiredo, Ana Elisa
+   do Nascimento Mangas, Raimunda Matilde
+   Heuguerot Fachola, Maria Cristina
+   Izquierdo, Giovane Mendieta
+TI Tools, strategies and qualitative approach in relation to suicidal
+   attempts and ideation in the elderly
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Suicide attempts among the elderly; Suicidal ideation in old age;
+   Semi-structured interview; Quality and precision of research tools
+AB The article analyses the quality and consistency of a comprehensive interview guide, adapted to study attempted suicide and its ideation among the elderly, and imparts the method followed in applying this tool. The objective is to show how the use of a semi-structured interview and the organization and data analysis set-up were tested and perfected by a network of researchers from twelve universities or research centers in Brazil, Uruguay and Colombia. The method involved application and evaluation of the tool and joint production of an instruction manual on data collection, systematization and analysis. The methodology was followed in 67 interviews with elderly people of 60 or older and in 34 interviews with health professionals in thirteen Brazilian municipalities and in Montevideo and Bogota, allowing the consistency of the tool and the applicability of the method to be checked, during the process and at the end. The enhanced guide and the instructions for reproducing it are presented herein. The results indicate the suitability and credibility of this methodological approach, tested and certified in interdisciplinary and interinstitutional terms.
+C1 [Cavalcante, Fatima Goncalves; de Souza Minayo, Maria Cecilia; Sousa Cavalcante, Ana Celia; Bastos Figueiredo, Ana Elisa] Fundacao Oswaldo Cruz, Escola Nacl Saude Publ, Ctr Latinoamer Estudos Violencia & Saude Jorge Ca, BR-21040361 Rio De Janeiro, RJ, Brazil.
+   [Duran Gutierrez, Denise Machado] Univ Fed Amazonas, Psicol, Fac Psicol, Manaus, Amazonas, Brazil.
+   [de Sousa, Girliani Silva] Univ Fed Pernambuco, Caruaru, PE, Brazil.
+   [da Silva, Raimunda Magalhaes] Univ Fortaleza, Programa Posgrad Saude Colet, Fortaleza, Ceara, Brazil.
+   [Moura, Rosylaine; Meneghel, Stela Nazareth; Sousa Cavalcante, Ana Celia] Univ Fed Rio Grande do Sul, Programa Pos Grad Enfermagem, BR-90046900 Porto Alegre, RS, Brazil.
+   [Grubits, Sonia] Univ Catolica Dom Bosco, Programa Mestrado & Grad Psicol, Campo Grande, MS, Brazil.
+   [Conte, Marta] Secretaria Estado Saude Rio Grande Sul, Centro, RS, Brazil.
+   [Sousa Cavalcante, Ana Celia] Univ Estadual Piaui, Curso Psicol, Oeiras, Brazil.
+   [Heuguerot Fachola, Maria Cristina] Univ Republ Uruguay, Fac Humanidades & Ciencias Educ, Montevideo, Uruguay.
+   [Izquierdo, Giovane Mendieta] Fdn Univ Area Andina, Salud Publ & Desarrollo Social, Bogota, Colombia.
+C3 Fundacao Oswaldo Cruz; Universidade Federal de Amazonas; Universidade
+   Federal de Pernambuco; Universidade Fortaleza; Universidade Federal do
+   Rio Grande do Sul; Universidade Catolica Dom Bosco (UCDB); Universidade
+   Estadual do Piaui (UESPI); Universidad de la Republica, Uruguay;
+   Fundacion Universitaria del Area Andina
+RP Cavalcante, FG (corresponding author), Fundacao Oswaldo Cruz, Escola Nacl Saude Publ, Ctr Latinoamer Estudos Violencia & Saude Jorge Ca, Ave Brasil 4036-700, BR-21040361 Rio De Janeiro, RJ, Brazil.
+EM fatimagold7x7@yahoo.com.br
+RI Mendieta-Izquierdo, Giovane/AAO-2885-2020; da Silva, Renan
+   Antônio/AGG-9367-2022; Grubits, Sonia/F-5043-2019
+OI Mendieta-Izquierdo, Giovane/0000-0002-5085-3242; da Silva, Renan
+   Antônio/0000-0003-1171-217X; Grubits, Sonia/0000-0002-5033-4848;
+   Magalhaes da Silva, Raimunda/0000-0001-5353-7520; Mangas, Raimunda
+   Matilde do Nascimento/0000-0002-7284-7740; Minayo, Maria Cecilia de
+   Souza/0000-0001-6187-9301
+NR 25
+TC 5
+Z9 7
+U1 1
+U2 13
+PU ABRASCO -  Brazilian Association of Collective Health
+PI RIO DE JANEIRO
+PA Ave Brasil 4365, Campus da Fundacao Oswaldo Cruz (Fiocruz)  Predio do
+   CEPI  DSS  Manguinhos, RIO DE JANEIRO, Rio de Janeiro, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JUN
+PY 2015
+VL 20
+IS 6
+BP 1667
+EP 1680
+DI 10.1590/1413-81232015206.03022015
+PG 14
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CM0ZS
+UT WOS:000357409900003
+PM 26060945
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Romo, ML
+   Kelvin, EA
+AF Romo, Matthew L.
+   Kelvin, Elizabeth A.
+TI Impact of bullying victimization on suicide and negative health
+   behaviors among adolescents in Latin America
+SO REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC
+   HEALTH
+LA English
+DT Article
+DE Bullying; adolescent; suicide; tobacco; alcohol drinking; aggression;
+   sexual behavior; school health; Latin America
+ID MIDDLE-SCHOOL STUDENTS; SUBSTANCE USE; DEPRESSION; RISK; ASSOCIATION;
+   CHILDHOOD; IDEATION; MEXICO
+AB Objective. To compare the prevalence of bullying victimization, suicidal ideation, suicidal attempts, and negative health behaviors (current tobacco use, recent heavy alcohol use, truancy, involvement in physical fighting, and unprotected sexual intercourse) in five different Latin American countries and determine the association of bullying victimization with these outcomes, exploring both bullying type and frequency.
+   Methods. Study data were from Global School-based Student Health Surveys from Bolivia, Costa Rica, Honduras, Peru, and Uruguay, which covered nationally representative samples of school-going adolescents. The surveys used a two-stage clustered sample design, sampling schools and then classrooms. Logistic regression models were run to determine the statistical significance of associations with bullying.
+   Results. Among the 14 560 school-going adolescents included in this study, the prevalence of any bullying victimization in the past 30 days was 37.8%. Bullying victimization was associated with greater odds of suicidal ideation with planning (adjusted odds ratio (AOR): 3.12; P < 0.0001) and at least one suicide attempt (AOR: 3.07; P < 0.0001). An increasing exposure-response effect of increasing days of bullying victimization on suicide outcomes was also observed. Bullying victimization was associated with higher odds of current tobacco use (AOR: 2.14; P < 0.0001); truancy (AOR: 1.76; P < 0.0001); physical fighting (AOR: 2.40; P < 0.0001); and unprotected sexual intercourse (AOR: 1.77; P < 0.0001).
+   Conclusions. Although the prevalence of bullying victimization varied by country, its association with suicidal ideation and behavior and negative health behaviors remained relatively consistent. Addressing bullying needs to be made a priority in Latin America, and an integrated approach that also includes mental and physical health promotion is needed.
+C1 [Romo, Matthew L.; Kelvin, Elizabeth A.] CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System
+RP Kelvin, EA (corresponding author), CUNY, Grad Sch Publ Hlth & Hlth Policy, Dept Epidemiol & Biostat, New York, NY 10021 USA.
+EM elizabeth.kelvin@sph.cuny.edu
+RI Romo, Matthew/HTQ-1799-2023
+OI Romo, PharmD, PhD, MPH, Matthew/0000-0002-3038-0644; Kelvin,
+   Elizabeth/0000-0002-0566-8697
+NR 28
+TC 36
+Z9 44
+U1 1
+U2 17
+PU PAN AMER HEALTH ORGANIZATION
+PI WASHINGTON
+PA 525 23RD ST NW, WASHINGTON, DC 20037 USA
+SN 1020-4989
+J9 REV PANAM SALUD PUBL
+JI Rev. Panam. Salud Publica
+PD NOV
+PY 2016
+VL 40
+IS 5
+BP 347
+EP 355
+PG 9
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EJ4UT
+UT WOS:000393213100009
+PM 28076584
+DA 2023-12-06
+ER
+
+PT J
+AU Martínez, SL
+   Wasser, AC
+AF Llosa Martinez, Sebastian
+   Canetti Wasser, Alicia
+TI Depression and suicide ideation in women victims of intimate partner
+   violence
+SO PSICOLOGIA CONOCIMIENTO Y SOCIEDAD
+LA Spanish
+DT Article
+DE Depression; suicidal ideation; suicide; intimate partner violence
+AB Domestic violence against women is a human rights and public health problem that affects between 15 and 71% of women in the world (World Health Organization, 2005). Uruguay has a prevalence of 27.7% of domestic violence against women, predominantly intimate partner violence, but its effects on mental health have not been studied with a clinical method. Objective: to quantify the frequency of depression and suicidal ideation (SI) in women victims of intimate partner violence and to estimate the association with sociodemographic variables, moment of violence and pregnancy, excluding other causes of depressive symptoms. Method: case-control study with users from the Centro de Salud Jardines del Hipodromo in Montevideo, 30 cases and 28 controls. We applied short WAST, clinical interview, Depression Inventory and Beck Suicidal Ideation Scale. Results: 56.7% of cases present depression vs 14.3% of controls. The Odds ratio for depression in cases vs controls is 7,846. The frequency of IS is 20% of the cases and 3.6% in the controls and that of depression + suicidal ideation is 17% of the cases. The presence of depression and IS is independent of the rest of the variables except marital status (x2 = 19,408a, p < 0,001). Single, separated and / or divorced women have more cases of depression compared to married or in free union: 81% vs 19%. Conclusions: intimate partner violence is a high risk factor for depression and suicidal behaviors.
+C1 [Llosa Martinez, Sebastian; Canetti Wasser, Alicia] Univ Republica, Montevideo, Uruguay.
+C3 Universidad de la Republica, Uruguay
+RP Martínez, SL (corresponding author), Univ Republica, Montevideo, Uruguay.
+EM seballosam@gmail.com
+NR 26
+TC 6
+Z9 7
+U1 2
+U2 15
+PU UNIV REPUBLICA, FAC PSICOLOGIA
+PI MONTEVIDEO
+PA TRISTAN NARVAJA, 1654, MONTEVIDEO, 11200, URUGUAY
+SN 1688-7026
+J9 PSICOL CONOC SOC
+JI Psicol. Conoc. Soc.
+PD MAY-OCT
+PY 2019
+VL 9
+IS 1
+BP 178
+EP 204
+DI 10.26864/PCS.v9.n1.1
+PG 27
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA IB1XO
+UT WOS:000470059400009
+OA gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT C
+AU Srinivasan, TN
+AF Srinivasan, T. N.
+BE Dutta, B
+   Ray, T
+   Somanathan, E
+TI DEVELOPMENT STRATEGY: THE STATE AND AGRICULTURE SINCE INDEPENDENCE
+SO NEW AND ENDURING THEMES IN DEVELOPMENT ECONOMICS
+SE Statistical Science and Interdisciplinary Research
+LA English
+DT Proceedings Paper
+CT International Conference on Comparative Development
+CY DEC 18-20, 2007
+CL Indian Stat Inst, New Delhi, INDIA
+HO Indian Stat Inst
+AB There is a widespread belief that India is currently in an agrarian crisis, with the spate of Suicides by farmers several states since the 1990s seen as a tragic symptom of the crisis. In the large and growing literature on the crisis some common themes emerge: the role of systemic economic reforms since 1991, the opening of the Indian economy to external competition and investment after decades of insulation; the impact on India of implementing the Agreement on Agriculture of the Uruguay Round of Multilateral Trade Negotiations; the alleged neglect of agriculture in the planning process since the mid-eighties; the decline of public investment in agriculture in response to rising fiscal deficits at the Centre and the States and above all, the slowing of the growth of agricultural output (particularly food grains) as well as a stagnation in yields per hectare of land since the nineties.
+   This paper argues that the fundamental factor that is at the root Of file Current state of agriculture is India's pursuit, until the 1991 reforms, of a state-directed, state-controlled and state-dominated development strategy of import substituting industrialization with emphasis on heavy industry and insulation from the world economy. This strategy completely ignored the lessons of economic history: successful development lies in the transformation of economic structure by shifting a substantial part of the large initial share of labour force in agriculture and other low productivity activities in the informal sector to more productive off-farm activities through rural and urban industrialization with emphasis on labour-intensive manufactures to supply growing domestic and world markets and raising agricultural productivity. Leap-frogging the labour-intensive manufacturing stage of development altogether and focusing on information technology intensive services sector to bring about the transformation is not simply not feasible. This paper elaborates this main point by looking at major policy interventions in agriculture since independence It argues that there was no coherence, and little coordination among the centre, states and other policy making institutions in the decisions on the myriad interventions and their effectiveness in achieving their intended objectives was limited.
+C1 [Srinivasan, T. N.] Stanford Univ, Yale Univ, Stanford Ctr Int Dev, Stanford, CA 94305 USA.
+C3 Stanford University; Yale University
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 5
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA PO BOX 128 FARRER RD, SINGAPORE 9128, SINGAPORE
+BN 978-981-283-941-1
+J9 STAT SCI INT RES
+PY 2009
+VL 5
+BP 267
+EP 302
+PG 36
+WC Economics; Social Sciences, Interdisciplinary; Statistics & Probability
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; Social Sciences - Other Topics; Mathematics
+GA BMY19
+UT WOS:000273874600013
+DA 2023-12-06
+ER
+
+EF

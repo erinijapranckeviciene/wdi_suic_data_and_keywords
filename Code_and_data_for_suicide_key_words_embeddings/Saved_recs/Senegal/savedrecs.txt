@@ -1,0 +1,94 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pison, G
+   Masquelier, B
+   Kante, AM
+   Ndiaye, CT
+   Douillot, L
+   Duthé, G
+   Sokhna, C
+   Delaunay, V
+   Helleringer, S
+AF Pison, Gilles
+   Masquelier, Bruno
+   Kante, Almamy Malick
+   Ndiaye, Cheikh Tidiane
+   Douillot, Laetitia
+   Duthe, Geraldine
+   Sokhna, Cheikh
+   Delaunay, Valerie
+   Helleringer, Stephane
+TI Estimating mortality from external causes using data from retrospective
+   surveys: A validation study in Niakhar (Senegal)
+SO DEMOGRAPHIC RESEARCH
+LA English
+DT Article
+ID VERBAL AUTOPSIES; ADULT MORTALITY; KERSA HEALTH; DEATHS; COUNTRIES;
+   PROFILE; TRENDS; HDSS
+AB BACKGROUND
+   In low- and middle-income countries (LMICs), data on causes of death is often inaccurate or incomplete. In this paper, we test whether adding a few questions about injuries and accidents to mortality questionnaires used in representative household surveys would yield accurate estimates of the extent of mortality due to external causes ( accidents, homicides, or suicides).
+   METHODS
+   We conduct a validation study in Niakhar (Senegal), during which we compare reported survey data to high-quality prospective records of deaths collected by a health and demographic surveillance system (HDSS).
+   RESULTS
+   Survey respondents more frequently list the deaths of their adult siblings who die of external causes than the deaths of those who die from other causes. The specificity of survey data is high, but sensitivity is low. Among reported deaths, less than 60% of the deaths classified as due to external causes by the HDSS are also classified as such by survey respondents. Survey respondents better report deaths due to road-traffic accidents than deaths from suicides and homicides.
+   CONCLUSIONS
+   Asking questions about deaths resulting from injuries and accidents during surveys might help measure mortality from external causes in LMICs, but the resulting data displays systematic bias in a rural population of Senegal. Future studies should 1) investigate whether similar biases also apply in other settings and 2) test new methods to further improve the accuracy of survey data on mortality from external causes.
+   CONTRIBUTION
+   This study helps strengthen the monitoring of sustainable development targets in LMICs by validating a simple approach for the measurement of mortality from external causes.
+C1 [Pison, Gilles] French Museum Nat Hist, Lab Ecoanthropol & Ethnobiol, CNRS Paris Diderot, UMR MNHN 7206, Paris, France.
+   [Pison, Gilles; Masquelier, Bruno; Duthe, Geraldine] French Inst Demog Studies, Paris, France.
+   [Masquelier, Bruno] Louvain Univ, Ctr Demog Res, Louvain, Belgium.
+   [Kante, Almamy Malick; Helleringer, Stephane] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Baltimore, MD 21218 USA.
+   [Ndiaye, Cheikh Tidiane] United Nations Populat Fund, Moroni, Comoros.
+   [Douillot, Laetitia; Delaunay, Valerie] Inst Rech Dev, Unite Mixte Rech Lped, Marseille, France.
+   [Sokhna, Cheikh] Inst Rech Dev, Unite Mixte Rech Urmite, Dakar, Senegal.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite Paris
+   Cite; Museum National d'Histoire Naturelle (MNHN); Universite Catholique
+   Louvain; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health; Institut de Recherche pour le Developpement (IRD);
+   Aix-Marseille Universite; Institut de Recherche pour le Developpement
+   (IRD)
+RP Pison, G (corresponding author), French Museum Nat Hist, Lab Ecoanthropol & Ethnobiol, CNRS Paris Diderot, UMR MNHN 7206, Paris, France.; Pison, G (corresponding author), French Inst Demog Studies, Paris, France.
+EM gilles.pison@mnhn.fr
+RI ; Delaunay, Valerie/A-4173-2011
+OI Duthe, Geraldine/0000-0002-0843-8715; Masquelier,
+   Bruno/0000-0002-9585-891X; Delaunay, Valerie/0000-0003-2073-7176; Pison,
+   Gilles/0000-0001-5916-2360
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   Development [R03-HD071117]; French Agence Nationale de la Recherche
+   [ANR-11-BSH1-0007]
+FX This work was supported by the Eunice Kennedy Shriver National Institute
+   of Child Health and Human Development [R03-HD071117] and the French
+   Agence Nationale de la Recherche [ANR-11-BSH1-0007]. The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript. The authors declare that no competing
+   interests exist.
+NR 33
+TC 1
+Z9 1
+U1 0
+U2 2
+PU MAX PLANCK INST DEMOGRAPHIC RESEARCH
+PI ROSTOCK
+PA KONRAD-ZUSE-STR1, ROSTOCK, 18057, GERMANY
+SN 1435-9871
+J9 DEMOGR RES
+JI Demogr. Res.
+PD MAR 7
+PY 2018
+VL 38
+BP 879
+EP 895
+DI 10.4054/DemRes.2018.38.32
+PG 17
+WC Demography
+WE Social Science Citation Index (SSCI)
+SC Demography
+GA FZ2VS
+UT WOS:000427442200001
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+EF

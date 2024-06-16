@@ -1,0 +1,351 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Stewart, PJ
+   Strathern, A
+AF Stewart, PJ
+   Strathern, A
+TI Cosmology, resources, and landscape: Agencies of the dead and the living
+   in Duna, Papua New Guinea
+SO ETHNOLOGY
+LA English
+DT Article
+AB Among the Duna people of Papua New Guinea, ideas about the dead and the living are intertwined through cosmological perceptions of, and ritual interactions with, the landscape. These ideas change to accommodate and deal with new issues that arise. Malu (narratives of origins) link kin with land and to spirit figures. In the context of colonial and post-colonial mining for minerals and drilling for oil, malu have been reformulated as a way of claiming compensation from mining companies. Central to the Duna perspective is the notion that the agencies and substances of the dead and the living are interlinked. An act of suicide may lead to demands for compensation as a result of the suicide being caused by "shaming": the agency of the dead person therefore lives on. In images of this sort, the connection between the living and the dead is vividly portrayed.
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh
+RP Stewart, PJ (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+NR 11
+TC 9
+Z9 9
+U1 0
+U2 5
+PU UNIV PITTSBURGH
+PI PITTSBURGH
+PA DEPT ANTHROPOLOGY, PITTSBURGH, PA 15260 USA
+SN 0014-1828
+EI 2160-3510
+J9 ETHNOLOGY
+JI Ethnology
+PD WIN
+PY 2005
+VL 44
+IS 1
+BP 35
+EP 47
+DI 10.2307/3773958
+PG 13
+WC Anthropology
+WE Social Science Citation Index (SSCI)
+SC Anthropology
+GA 956JU
+UT WOS:000231296800003
+DA 2023-12-03
+ER
+
+PT J
+AU Laloë, V
+AF Laloë, V
+TI Patterns of deliberate self-burning in various parts of the world -: A
+   review
+SO BURNS
+LA English
+DT Review
+DE self-inflicted burns; suicide; self-harm; self-immolation; self-burning
+ID INFLICTED BURNS; ATTEMPTED-SUICIDE; IMMOLATION DEATHS; SRI-LANKA; FIRE;
+   INJURIES; INDIA; EPIDEMIOLOGY; INCINERATION; ADOLESCENCE
+AB This paper reviews the literature on deliberate self-burning (DSB) and compares patterns in various countries. Fifty-five studies of deliberate self-harm or suicide by fire published in the last 20 years were reviewed. They reported on 3351 cases of DSB, including 2296 deaths. India had the highest absolute number of cases, the highest fatality rate, and the highest contribution of self-harm to burns admissions. The highest reported incidence was from Sri Lanka. Male victims generally predominated in Western countries, and females in the Middle East and the Indian sub-continent. Patients were grossly 10 years older in Europe than in Asia. The use and nature of fire accelerants, the possible roles of ethnicity, religion/faith and imitation are discussed. Three broad groups of victims were identified: psychiatric patients (Western and Middle-Eastern countries); those committing DSB for personal reasons (India, Sri Lanka, Papua-New Guinea, Zimbabwe); and those who are politically motivated (India, South Korea). Self-mutilators and self-immolators seem to be fairly distinct groups of people. (C) 2003 Elsevier Ltd and ISBI. All rights reserved.
+C1 Med Sans Frontieres, F-75544 Paris 11, France.
+C3 Doctors Without Borders
+RP Point Pedro Base Hosp, Point Pedro, Sri Lanka.
+EM veronique.laloe@bigfoot.com
+NR 65
+TC 109
+Z9 124
+U1 0
+U2 13
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0305-4179
+EI 1879-1409
+J9 BURNS
+JI Burns
+PD MAY
+PY 2004
+VL 30
+IS 3
+BP 207
+EP 215
+DI 10.1016/j.burns.2003.10.018
+PG 9
+WC Critical Care Medicine; Dermatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine; Dermatology; Surgery
+GA 814JA
+UT WOS:000220969800001
+PM 15082345
+DA 2023-12-03
+ER
+
+PT J
+AU Charlier, P
+   Coppens, Y
+   Malaurie, J
+   Brun, L
+   Kepanga, M
+   Hoang-Opermann, V
+   Calfin, JAC
+   Nuku, G
+   Ushiga, M
+   Schor, XE
+   Deo, S
+   Hassin, J
+   Hervé, C
+AF Charlier, P.
+   Coppens, Y.
+   Malaurie, J.
+   Brun, L.
+   Kepanga, M.
+   Hoang-Opermann, V.
+   Correa Calfin, J. A.
+   Nuku, G.
+   Ushiga, M.
+   Schor, X. E.
+   Deo, S.
+   Hassin, J.
+   Herve, C.
+TI A new definition of health? An open letter of autochthonous peoples and
+   medical anthropologists to the WHO
+SO EUROPEAN JOURNAL OF INTERNAL MEDICINE
+LA English
+DT Article
+DE Public health; Wellbeing; Ecology; Medical anthropology; Suicide
+AB Currently, formany practitioners (hospital and liberals) and researchers (including public health), the WHO definition of health is outdated: first it seems more utopian than pragmatic; then, it proves unsuitable for a large part of the world population. There is clearly a need to refine this definition or propose additional criteria to be more relevant or discriminating. In this perspective, what can indigenous people offer in the elaboration of a new definition of health?
+   In this article, leaders or representatives of autochthonous peoples, anthropologists and physicians from many cultural origins (Amazonia, Patagonia, Papua New-Guinea, Inuit, North-American Indian, sub-Saharan Africa, India, China, Melanesia and Polynesia) have tried to identify and explain several key concepts that WHO should reintegrate into its new definition of health: human equilibrium in nature, accepted spirituality and adaptation. On the sidelines of the application of COP21 decisions that should give back to man his place into the environment, autochthonous people leaders, anthropologists and MDs explain why these three concepts are fundamental and universal health determinants, and need to be included in a new WHO definition of health. (C) 2016 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved.
+C1 [Charlier, P.; Brun, L.; Hoang-Opermann, V.; Schor, X. E.] UVSQ, EA Paris Descartes 4569, UFR Hlth Sci, Sect Med & Forens Anthropol, 2 Ave Source Bievre, F-78180 Montigny Le Bretonneux, France.
+   [Charlier, P.; Hassin, J.; Herve, C.] Max Fourestier Hosp, CASH, Nanterre, France.
+   [Coppens, Y.] Coll France, Pl Marcelin Berthelot, F-75005 Paris, France.
+   [Malaurie, J.] EHESS, Ctr Arct Studies, F-75013 Paris, France.
+   [Brun, L.] Univ Hosp, Dept Pathol, Parakou, Benin.
+   [Kepanga, M.] Huli Commun, Highlands, Papua N Guinea.
+   [Hoang-Opermann, V.] Univ Hosp, Emergency Dept, Papeete, Tahiti, France.
+   [Correa Calfin, J. A.] Desarrollo Intercultural Chile, Mapuche Nation, Chile.
+   [Nuku, G.] Museum Nat Hist, Rouen, France.
+   [Ushiga, M.] Zapara Community, Zapara, Ecuador.
+   [Hassin, J.; Herve, C.] CASH, IPES, Nanterre, France.
+   [Hassin, J.; Herve, C.] Paris X Univ, Nanterre, France.
+   [Herve, C.] EA 4569 Paris Descartes, Lab Med Eth, 45 Rue Saints Peres, F-75006 Paris, France.
+C3 Universite Paris Cite; Universite Paris Saclay; Universite PSL; College
+   de France; Museum National d'Histoire Naturelle (MNHN); Universite Paris
+   Cite
+RP Charlier, P (corresponding author), UVSQ, EA Paris Descartes 4569, UFR Hlth Sci, Sect Med & Forens Anthropol, 2 Ave Source Bievre, F-78180 Montigny Le Bretonneux, France.
+EM philippe.charlier@uvsq.fr; yves.coppens@collegedefrance.fr;
+   jean.malaurie@ehess.fr; lbrun2013@gmail.com; marcdozier@free.fr;
+   van.hoangoppermann@gmail.com; contacto@desarrollointerculturalchile.org;
+   georgenuku@hotmail.com; luciaruelvilla@gmail.com;
+   saudaminideo01@gmail.com; jacques.hassin@ch-nanterre.fr;
+   christian.herve@parisdescartes.fr
+OI Brun, luc Valere C./0000-0002-6024-3982
+NR 18
+TC 19
+Z9 22
+U1 0
+U2 21
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0953-6205
+EI 1879-0828
+J9 EUR J INTERN MED
+JI Eur. J. Intern. Med.
+PD JAN
+PY 2017
+VL 37
+BP 33
+EP 37
+DI 10.1016/j.ejim.2016.06.027
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA EK5LG
+UT WOS:000393967300031
+PM 27394926
+DA 2023-12-03
+ER
+
+PT J
+AU Whitehouse, H
+AF Whitehouse, Harvey
+TI Dying for the group: Towards a general theory of extreme self-sacrifice
+SO BEHAVIORAL AND BRAIN SCIENCES
+LA English
+DT Article
+DE Identity fusion; imagistic practices; memory; rites of terror;
+   self-sacrifice; suicide terrorism; warfare
+ID SOCIAL-DOMINANCE ORIENTATION; PERCEIVED COLLECTIVE CONTINUITY; IDENTITY
+   FUSION; IN-GROUP; GROUP IDENTIFICATION; ULTIMATE SACRIFICE; INDIVIDUAL
+   SELF; SACRED VALUES; MOTIVATIONAL PRIMACY; DESTRUCTIVE KILLERS
+AB Whether upheld as heroic or reviled as terrorism, people have been willing to lay down their lives for the sake of their groups throughout history. Why? Previous theories of extreme self-sacrifice have highlighted a range of seemingly disparate factors, such as collective identity, outgroup hostility, and kin psychology. In this paper, I attempt to integrate many of these factors into a single overarching theory based on several decades of collaborative research with a range of special populations, from tribes in Papua New Guinea to Libyan insurgents and from Muslim fundamentalists in Indonesia to Brazilian football hooligans. These studies suggest that extreme self-sacrifice is motivated by identity fusion, a visceral sense of oneness with the group, resulting from intense collective experiences (e.g., painful rituals or the horrors of frontline combat) or from perceptions of shared biology. In ancient foraging societies, fusion would have enabled warlike bands to stand united despite strong temptations to scatter and flee. The fusion mechanism has often been exploited in cultural rituals, not only by tribal societies but also in specialized cells embedded in armies, cults, and terrorist organizations. With the rise of social complexity and the spread of states and empires, fusion has also been extended to much larger groups, including doctrinal religions, ethnicities, and ideological movements. Explaining extreme self-sacrifice is not only a scientific priority but also a practical challenge as we seek a collective response to suicide, terrorism, and other extreme expressions of outgroup hostility that continue to bedevil humanity today.
+C1 [Whitehouse, Harvey] Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+C3 University of Oxford
+RP Whitehouse, H (corresponding author), Univ Oxford, Sch Anthropol & Museum Ethnog, Oxford OX2 6PE, England.
+EM harvey.whitehouse@anthro.ox.ac.uk
+OI Whitehouse, Harvey/0000-0001-6935-6724
+FU Large Grant from the UK's Economic and Social Research Council [REF
+   RES-060-25-467 0085]; European Research Council (ERC) under the European
+   Union [694986]; Templeton World Charity Foundation [TWCF0164]; ESRC
+   [ES/I005455/1] Funding Source: UKRI
+FX Thanks to Michael Buhrmester, Sergey Gavrilets, Rohan Kapitany,
+   Christopher Kavanagh, Jonathan Lanman, and the BBS reviewers for
+   comments and suggestions. This work was supported by a Large Grant from
+   the UK's Economic and Social Research Council (REF RES-060-25-467 0085),
+   an Advanced Grant from the European Research Council (ERC) under the
+   European Union's Horizon 2020 Research and Innovation Programme (Grant
+   Agreement 694986), and an award from the Templeton World Charity
+   Foundation entitled "Cognitive and Cultural Foundations of Religion and
+   Morality" (TWCF0164).
+NR 559
+TC 85
+Z9 90
+U1 1
+U2 65
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0140-525X
+EI 1469-1825
+J9 BEHAV BRAIN SCI
+JI Behav. Brain Sci.
+PY 2018
+VL 41
+AR e192
+DI 10.1017/S0140525X18000249
+PG 23
+WC Psychology, Biological; Behavioral Sciences; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Behavioral Sciences; Neurosciences & Neurology
+GA HL5SP
+UT WOS:000458790700073
+PM 29409552
+OA Green Submitted
+DA 2023-12-03
+ER
+
+PT J
+AU Karger, B
+   Bratzke, H
+   Grass, H
+   Lasczkowski, G
+   Lessig, R
+   Monticelli, F
+   Wiese, J
+   Zweihoff, RF
+AF Karger, B
+   Bratzke, H
+   Grass, H
+   Lasczkowski, G
+   Lessig, R
+   Monticelli, F
+   Wiese, J
+   Zweihoff, RF
+TI Crossbow homicides
+SO INTERNATIONAL JOURNAL OF LEGAL MEDICINE
+LA English
+DT Article
+DE crossbow; injury pattern; homicide; arrowhead
+ID PAPUA-NEW-GUINEA; ARROW WOUNDS; INJURY; EXPERIENCE; MENINGITIS; SUICIDE;
+   BOLT; HEAD
+AB A total of eight cases of homicide by crossbow are reported, including six intentional, assault-like killings and one hired killer. The bolts showed a high penetration capacity despite the rather low kinetic energy (< 100 J): a field-tip traversed one upper arm and the thorax ( 36 cm) and two broadheads caused perforating injuries of the thorax ( 25 - 26 cm). This was due to the high sectional density and the split-like penetration mechanism. Wound morphology was especially important if the perpetrator had extracted the bolt, which occurred in half of the cases. The shape of the entrance wound depended on the type of arrowhead: broadheads produced star-shaped to triangular wounds, field-tips caused circular, oval or slit-like injuries. Foreign material from the arrowhead was found inside two injuries. In assaults, the crossbow was used to hunt the victim down from a short distance which does not require practice but still has the advantage of a distance weapon. However, immediate incapacitation occurred rarely so that additional violence was frequently applied. The noiseless character of the weapon explains why many victims were taken by surprise and why the corpses initially remained unnoticed. Crossbows can therefore be considered ideal weapons for man hunting and some were bought for the very purpose of the killing.
+C1 Univ Munster, Inst Legal Med, D-48149 Munster, Germany.
+   Univ Frankfurt, Inst Legal Med, D-6000 Frankfurt, Germany.
+   Univ Cologne, Inst Legal Med, D-5000 Cologne, Germany.
+   Univ Giessen, Inst Legal Med, D-35390 Giessen, Germany.
+   Univ Leipzig, Inst Legal Med, Leipzig, Germany.
+   Univ Munich, Inst Legal Med, D-80539 Munich, Germany.
+   State Inst Legal & Social Med, Berlin, Germany.
+   Inst Legal Med, Dortmund, Germany.
+C3 University of Munster; Goethe University Frankfurt; University of
+   Cologne; Justus Liebig University Giessen; Leipzig University;
+   University of Munich
+RP Karger, B (corresponding author), Univ Munster, Inst Legal Med, Rontgenstr 23, D-48149 Munster, Germany.
+EM karger@uni-muenster.de
+NR 33
+TC 23
+Z9 25
+U1 0
+U2 4
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0937-9827
+J9 INT J LEGAL MED
+JI Int. J. Legal Med.
+PD DEC
+PY 2004
+VL 118
+IS 6
+BP 332
+EP 336
+DI 10.1007/s00414-004-0474-z
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 868BU
+UT WOS:000224888200004
+PM 15351888
+DA 2023-12-03
+ER
+
+PT S
+AU Leckie, J
+   Hughes, F
+AF Leckie, Jacqueline
+   Hughes, Frances
+BE Minas, H
+   Lewis, M
+TI Mental Health in the Smaller Pacific States
+SO MENTAL HEALTH IN ASIA AND THE PACIFIC: HISTORICAL AND CULTURAL
+   PERSPECTIVES
+SE International and Cultural Psychology
+LA English
+DT Article; Book Chapter
+ID COMMUNITY PSYCHIATRY; SOUTH-PACIFIC; MICRONESIA; EXPERIENCE; SPEAKING;
+   SUICIDE; TRENDS; TONGA; SAMOA; VAVAU
+AB This chapter traces changing patterns of mental health and its provision within the smaller Pacific Islands. Although small and distant from Europe, some people living within precolonial Pacific cultures suffered from stress and mental illness. This chapter emphasizes indigenous conceptions of Pacific minds and mental health and the entanglement with Western biomedicine, psychiatry and global mental health structures. The smaller nations in the Pacific are covered-American Samoa, Cook Islands, Federated States of Micronesia, French Polynesia, Kiribati, Marshall Islands, Nauru, NewHawai Caledonia, Niue, Northern Mariana Islands, Palau, Tokelau, Tonga Tuvalu, Samoa, Solomon Islands, Vanuatu, Wallis and Futuna-but not Fiji, Papua New Guinea and Hawai`i. This chapter begins with the discussion of indigenous conceptions and treatment of mental illness within the Pacific Islands. We then examine the introduction of mental health infrastructure and biomedicine into the region. The Islands also attracted researchers who offered divergent interpretations of mental health epidemiology among Pacific cultures. The second half of this chapter focuses on contemporary health provision in the Pacific. Global mental health structures have been directed through the Pacific Islands Mental Health Network (PIMHnet), launched in 2007. Despite this, mental health within the small islands of the Pacific region continues to receive low priority, competes for scarce resources, faces problems of isolation and struggles to be recognized at all levels of government and society. Indigenous communities still rely heavily upon traditional treatments and support-offering some resilience but also presenting challenges for contemporary health initiatives.
+C1 [Leckie, Jacqueline] Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+   [Hughes, Frances] Int Council Nurses, Geneva, Switzerland.
+C3 University of Otago
+RP Leckie, J (corresponding author), Univ Otago, Dept Anthropol & Archaeol, Dunedin, New Zealand.
+EM jacqui.leckie@otago.ac.nz; frances@hughes.org.nz
+NR 79
+TC 10
+Z9 10
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 1574-0455
+EI 2197-7984
+BN 978-1-4899-7999-5; 978-1-4899-7997-1
+J9 INT CULT PSYCHOL
+PY 2017
+BP 253
+EP 272
+DI 10.1007/978-1-4899-7999-5_17
+D2 10.1007/978-1-4899-7999-5
+PG 20
+WC Area Studies; Health Care Sciences & Services; Health Policy & Services;
+   Psychiatry; Psychology; Psychology, Multidisciplinary; Psychology,
+   Social
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Area Studies; Health Care Sciences & Services; Psychiatry; Psychology
+GA BI2UR
+UT WOS:000410420000017
+DA 2023-12-03
+ER
+
+EF

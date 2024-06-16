@@ -1,0 +1,182 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Markovic, V
+AF Markovic, Vesna
+TI Suicide squad: Boko Haram's use of the female suicide bomber
+SO WOMEN & CRIMINAL JUSTICE
+LA English
+DT Article
+DE suicide bombing; terrorism; Boko Haram; Nigeria
+ID TERRORISM
+AB Boko Haram first began using the tactic of suicide bombings in 2011 and in 2014 started using female suicide bombers. This research focuses on gender differences in the use of suicide bombers. The data were collected using open sources from June 16, 2011 to June 15, 2018. Using this longitudinal data, trends are described over that 7-year period, focusing on the use of females. A majority of the suicide bombings target civilians in Nigeria, Cameroon, Chad, and Niger. More than half of the bombers were women and girls, some as young as 7 years old, whereas there were more than 60 incidents where the bomber was below the age of 15. More female bombers were used to targets civilians, whereas men were used more often to target government, police, and military targets. Female suicide bombers were used in Cameroon, whereas males were used in Nigeria more often. Additionally, females used suicide belts or vests more often, whereas men comprised the overwhelming majority of vehicle-borne suicide bombings. There were coercive aspects in many cases in the use of the women as bombers. The unprecedented use of female suicide bombers, particularly young girls, needs to be a focal point of any policy moving forward.
+C1 [Markovic, Vesna] Lewis Univ, Justice Law & Publ Safety Studies, One Univ Pkwy,Unit 1048, Romeoville, IL 60446 USA.
+C3 Lewis University
+RP Markovic, V (corresponding author), Lewis Univ, Justice Law & Publ Safety Studies, One Univ Pkwy,Unit 1048, Romeoville, IL 60446 USA.
+EM vmarkovic@lewisu.edu
+RI Markovic, Vesna/AAJ-8749-2020
+OI , Vesna/0000-0001-6873-317X
+NR 41
+TC 13
+Z9 14
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0897-4454
+EI 1541-0323
+J9 WOMEN CRIM JUSTICE
+JI Women Crim. Justice
+PD SEP 3
+PY 2019
+VL 29
+IS 4-5
+SI SI
+BP 283
+EP 302
+DI 10.1080/08974454.2019.1629153
+EA JUL 2019
+PG 20
+WC Criminology & Penology; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology; Women's Studies
+GA JC1LQ
+UT WOS:000476506400001
+DA 2023-12-06
+ER
+
+PT J
+AU Tehrani, HS
+   Moosavi-Movahedi, AA
+AF Tehrani, Hessam Sepasi
+   Moosavi-Movahedi, Ali Akbar
+TI Catalase and its mysteries
+SO PROGRESS IN BIOPHYSICS & MOLECULAR BIOLOGY
+LA English
+DT Review
+DE Catalase; Kinetics; Thermodynamics; Structure; Activity; Mysteries;
+   Biophysical chemistry
+ID ISOTHERMAL TITRATION CALORIMETRY; ASPERGILLUS-NIGER CATALASE; CLARK
+   OXYGEN-ELECTRODE; BOVINE LIVER CATALASE; HYDROGEN-PEROXIDE;
+   SUPEROXIDE-DISMUTASE; GLUTATHIONE-PEROXIDASE; LIFE-SPAN; SUICIDE
+   INACTIVATION; ACCESS CHANNEL
+AB Catalase is one of the firsts in every realm of biological sciences. At the same time it also has a number of unusual features. It has one of the highest turnover numbers of all enzymes. It is essential for neutralizing the noxious hydrogen peroxide both in the nature and the various industries such as dairy, textile and pharmaceutics. It also has the merit of being one of the first protein crystals to be isolated. Ironically its three-dimensional structure was discerned some forty years later. However through the times this senile enzyme has continued to intrigue the scientists by surprising facts and phenomena, such as peculiar interweaving of subunits and remarkable thermal stability. It is also known for suicide inactivation by its own substrate. Catalase is known to be implicated in various medical scenarios and its levels have served as a marker in that capacity. It has even been incorporated into several pharmaceuticals. This review strives to clarify these perspectives. It also draws attention to the biophysical contributions offered by thermodynamics and kinetics in these discoveries. The ultimate aim of this review, however, is to state that the venerable catalase will continue to bewilder us with its mysteries well into the twenty-first century. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Tehrani, Hessam Sepasi] Islamic Azad Univ, Dept Biol, Sci & Res Branch, Tehran, Iran.
+   [Moosavi-Movahedi, Ali Akbar] Univ Tehran, Inst Biochem & Biophys, Tehran, Iran.
+C3 Islamic Azad University; University of Tehran
+RP Tehrani, HS (corresponding author), Islamic Azad Univ, Dept Biol, Sci & Res Branch, Tehran, Iran.
+EM sepasi@srbiau.ac.ir
+OI Sepasi Tehrani, Hessam/0000-0003-3021-0001; Moosavi-Movahedi, Ali
+   Akbar/0000-0002-1707-8432
+FU University of Tehran; Iran National Science Foundation (INSF); Islamic
+   Azad University, Science and Research Branch (SRBIAU)
+FX The support from University of Tehran, Iran National Science Foundation
+   (INSF), Islamic Azad University, Science and Research Branch (SRBIAU)
+   are acknowledged. Hessam Sepasi Tehrani also wishes to thank Professor
+   Tom Blundell (The University of Cambridge) for insightful discussions.
+NR 139
+TC 142
+Z9 153
+U1 11
+U2 112
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0079-6107
+EI 1873-1732
+J9 PROG BIOPHYS MOL BIO
+JI Prog. Biophys. Mol. Biol.
+PD DEC
+PY 2018
+VL 140
+BP 5
+EP 12
+DI 10.1016/j.pbiomolbio.2018.03.001
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biophysics
+GA HG4RO
+UT WOS:000454962900002
+PM 29530789
+DA 2023-12-06
+ER
+
+PT J
+AU El-Batal, AI
+   El-Sayyad, GS
+   El-Ghamry, A
+   Agaypi, KM
+   Elsayed, MA
+   Gobara, M
+AF El-Batal, Ahmed I.
+   El-Sayyad, Gharieb S.
+   El-Ghamry, Abbas
+   Agaypi, Kerolos M.
+   Elsayed, Mohamed A.
+   Gobara, Mohamed
+TI Melanin-gamma rays assistants for bismuth oxide nanoparticles synthesis
+   at room temperature for enhancing antimicrobial, and photocatalytic
+   activity
+SO JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY B-BIOLOGY
+LA English
+DT Article
+DE Penicillium chrysogenium; Tyrosinase Bismuth oxide nanoparticles;
+   Candida albicans; Tartrazine dye
+ID ASPERGILLUS-NIGER; SUICIDE-INACTIVATION; ELECTRON SCAVENGERS; TARTRAZINE
+   FD; METAL-IONS; STREPTOMYCES; OXIDATION; ACID; RADIOLYSIS; TYROSINASE
+AB Melanin pigment has been deemed as a natural photoprotector with strong hydrophobicity. It allured considerable compatibility with many applications in medicine, food, and nanotechnology. Penicillium chrysogenium has been devoted to the green synthesis of melanin whereby optimizing its culture and environmental conditions. The impacts of alternative economic L-tyrosine natural sources (unprecedented alternate origins) and gamma radiation were pledged for the potential growing of the pigment. Herein, notable increases in melanin yield (6.4 mg/ml; much higher than nonoptimized one by 40 folds) was obtained by optimizing the culture, and environmental requirements [potato starch (3.0%), yeast extract (5.0%), copper sulfate (0.2 mM), 0.25% L-tyrosine, 0.1% L-glycine, and 0.1% Tween 20 at pH 5.0, and 30 degrees C for 7.0 days using 180.0 rpm shaking speed]. The addition of banana's peel (2.0%) has been led to increase the melanin production up to (8.3 mg/ml; much higher than nonoptimized one by 1.29 folds). It stimulated the induced enzymes, (i.e., tyrosinase) because it contained significant amounts of L-tyrosine, dopamine, and L-DOPA as resources for melanin biosynthesis. Then irradiated P. chrysogenium (2.5 kGy) induced the pigment yield to 10.3 mg/ml.; much higher than nonoptimized one by (1.61 folds). On the other hand, we tailored a methodology involved the product of melanin and gamma rays (25.0 kGy) to an eco-friendly synthesis of Bismuth oxide nanoparticles (BiONPs) at the room temperature. Melanin under such alkaline condition functioning as simultaneously hydrolyzes, photo protection of the Bi seeds, and stabilizer against the uncontrolled growth and the free radicals attack. Whereas the gamma irradiation induced the room temperature condensation reaction to occur, a novel mechanism proposal was discussed. BiONPs were characterized by UV-Vis., DLS, XRD, SEM, EDX, and FTIR. DLS and XRD calculations with TEM analysis exhibited the mean diameter of BiONPs was 29.82 nm. Moreover, the as prepared BiONPs presented a unique antimicrobial activity against some oral, standard ATCC, and multidrug resistant microbes with ultralow concentrations (0.8 mu g/m1). Also, the photocatalytic degradation of Tartrazine dye (TZ), under the UV-Light irradiation, reached 85.0% in 140.0 min. Thereby, owing to its unique characteristics such as cost-effective and scalability method with long-term stabilization, nontoxic nature, excellent chemical inertness, biocompatibility and active properties of BiONPs can find possible purposes in the medical, dental, and cosmetic approaches.
+C1 [El-Batal, Ahmed I.; El-Sayyad, Gharieb S.] Atom Energy Author, NCRRT, Drug Radiat Res Dept, Cairo, Egypt.
+   [El-Ghamry, Abbas] Al Azhar Univ, Fac Sci Boys, Bot & Microbiol Dept, Cairo, Egypt.
+   [Agaypi, Kerolos M.] Misr Univ Sci & Technol, Coll Biotechnol, Giza, Egypt.
+   [Elsayed, Mohamed A.; Gobara, Mohamed] Egyptian Armed Forces, Mil Tech Coll, Chem Engn Dept, Cairo, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Egyptian Atomic Energy Authority (EAEA);
+   Egyptian Knowledge Bank (EKB); Al Azhar University; Egyptian Knowledge
+   Bank (EKB); Misr University for Science & Technology; Military Technical
+   College
+RP El-Batal, AI (corresponding author), Atom Energy Author, NCRRT, Drug Radiat Res Dept, Cairo, Egypt.
+EM Ahmed.Elbatal@eaea.org.eg
+RI Elsayed, Mohamed Abouelfotoh/AAR-9952-2021; El-Sayyad, Gharieb
+   S./ABH-9053-2020; Gobara, Mohamed/T-5338-2019
+OI Elsayed, Mohamed Abouelfotoh/0000-0002-6136-6765; El-Sayyad, Gharieb
+   S./0000-0001-5410-7936; Gobara, Mohamed/0000-0001-5283-2165; Elsayed,
+   Mohamed/0000-0002-5299-6343
+FU Nanotechnology Research Unit; Drug Microbiology Lab.; Drug Radiation
+   Research Department, NCRRT, Egypt
+FX The authors would like to thank the Nanotechnology Research Unit (P.I.
+   Prof. Dr. Ahmed I. El-Batal), Drug Microbiology Lab., Drug Radiation
+   Research Department, NCRRT, Egypt, for financing and supporting this
+   study under the project "Nutraceuticals and Functional Foods Production
+   by using Nano/Biotechnological and Irradiation Processes". Also, the
+   authors would like to thank Dr. Ahmed Abdel Zaher Askar, Dr. Ahmed M.
+   El-Khawaga, and Zeiss microscope in Cairo for their invaluable advice
+   during this study.
+NR 96
+TC 62
+Z9 63
+U1 1
+U2 54
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 1011-1344
+J9 J PHOTOCH PHOTOBIO B
+JI J. Photochem. Photobiol. B-Biol.
+PD AUG
+PY 2017
+VL 173
+BP 120
+EP 139
+DI 10.1016/j.jphotobiol.2017.05.030
+PG 20
+WC Biochemistry & Molecular Biology; Biophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Biophysics
+GA FE1NI
+UT WOS:000407984500012
+PM 28570907
+DA 2023-12-06
+ER
+
+EF

@@ -1,0 +1,349 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rubanzana, W
+   Hedt-Gauthier, BL
+   Ntaganira, J
+   Freeman, MD
+AF Rubanzana, Wilson
+   Hedt-Gauthier, Bethany L.
+   Ntaganira, Joseph
+   Freeman, Michael D.
+TI Exposure to genocide and risk of suicide in Rwanda: a population-based
+   case-control study
+SO JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH
+LA English
+DT Article
+ID PSYCHOLOGICAL AUTOPSY
+AB Background In Rwanda, an estimated one million people were killed during the 1994 genocide, leaving the country shattered and social fabric destroyed. Large-scale traumatic events such as wars and genocides have been linked to endemic post-traumatic stress disorder, depression and suicidality. The study objective was to investigate whether the 1994 genocide exposure is associated with suicide in Rwanda.
+   Methods We conducted a population-based case-control study. Suicide victims were matched to three living controls for sex, age and residential location. Exposure was defined as being a genocide survivor, having suffered physical/sexual abuse in the genocide, losing a first-degree relative in the genocide, having been convicted for genocide crimes or having a first-degree relative convicted for genocide. From May 2011 to May 2013, 162 cases and 486 controls were enrolled countrywide. Information was collected from the police, local village administrators and family members.
+   Results After adjusting for potential confounders, having been convicted for genocide crimes was a significant predictor for suicide (OR=17.3, 95% CI 3.4 to 88.1). Being a survivor, having been physically or sexually abused during the genocide, and having lost a first-degree family member to genocide were not significantly associated with suicide.
+   Conclusions These findings demonstrate that individuals convicted for genocide crimes are experiencing continued psychological disturbances that affect their social reintegration into the community even 20 years after the event. Given the large number of genocide perpetrators reintegrated after criminal courts and Gacaca traditional reconciling trials, suicide could become a serious public health burden if preventive remedial action is not identified.
+C1 [Rubanzana, Wilson; Hedt-Gauthier, Bethany L.; Ntaganira, Joseph] Univ Rwanda, Coll Med & Hlth Sci, Sch Publ Hlth, Dept Epidemiol & Biostat, Kigali, Rwanda.
+   [Rubanzana, Wilson] Directorate Med Serv, Rwanda Natl Police, Kigali, Rwanda.
+   [Hedt-Gauthier, Bethany L.] Harvard Univ, Sch Med, Dept Global Hlth & Social Med, Boston, MA USA.
+   [Freeman, Michael D.] Oregon Hlth & Sci Univ, Sch Med, Portland, OR 97201 USA.
+   [Freeman, Michael D.] Umea Univ, Fac Med, Sect Forens Med, Umea, Sweden.
+   [Freeman, Michael D.] Aarhus Univ, Fac Hlth Sci, Dept Forens Med, Aarhus, Denmark.
+C3 University of Rwanda; Harvard University; Harvard Medical School; Oregon
+   Health & Science University; Umea University; Aarhus University
+RP Rubanzana, W (corresponding author), Rwanda Univ, Sch Publ Hlth, Coll Med & Hlth Sci, POB 5229, Kigali, Rwanda.
+EM wrubanzana@nursph.org
+FU World Health Organization; Department of Global Health and Social
+   Medicine Research Core at Harvard Medical School;  [AFRWA 1005685]; 
+   [53975]
+FX This study was funded by the World Health Organization. Project No:
+   AFRWA 1005685, AWARD No: 53975. BLH-G received support from the
+   Department of Global Health and Social Medicine Research Core at Harvard
+   Medical School.
+NR 28
+TC 7
+Z9 9
+U1 0
+U2 9
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0143-005X
+EI 1470-2738
+J9 J EPIDEMIOL COMMUN H
+JI J. Epidemiol. Community Health
+PD FEB
+PY 2015
+VL 69
+IS 2
+BP 117
+EP 122
+DI 10.1136/jech-2014-204307
+PG 6
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AZ0YE
+UT WOS:000347967000005
+PM 25488977
+OA Green Published, hybrid
+DA 2023-12-06
+ER
+
+PT J
+AU Umubyeyi, A
+   Mogren, I
+   Ntaganira, J
+   Krantz, G
+AF Umubyeyi, Aline
+   Mogren, Ingrid
+   Ntaganira, Joseph
+   Krantz, Gunilla
+TI Intimate partner violence and its contribution to mental disorders in
+   men and women in the post genocide Rwanda: findings from a population
+   based study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Intimate partner violence; Mental disorder; Men; Women; Genocide; Rwanda
+ID HEALTH CONSEQUENCES; DOMESTIC VIOLENCE; MULTICOUNTRY; PREVALENCE;
+   SYMPTOMS; EXPOSURE
+AB Background: In low income countries, mental disorders are a neglected health problem. Mental disorders are influenced by a number of factors in people's everyday life of which intimate partner violence (IPV) commonly form an important part. The aim of this study was to investigate the prevalence of mental disorders in young men and women in Rwanda and their risk factors with main emphasis on IPV and its contribution to mental disorders, taking into account the genocide context.
+   Methods: This population-based study included a representative sample of 917 men and women aged 20-35 years. The prevalence of mental disorders was investigated using of a diagnostic tool, the "MINI: Mini International Neuropsychiatric Interview". Risk factor patterns were analysed with bi- and multivariate logistic regression. To find the proportion of mental disorders attributed to IPV, the population attributable fraction was computed.
+   Results: The prevalence rates of current depression, suicide risk and PTSD were more than two times higher in women than in men while for generalized anxiety disorder, the prevalence was about the same. Physical, sexual and psychological intimate partner violence exposure was highly associated with all forms of mental disorders for women. For physical violence, after adjusting for socio-demographic factors and exposure to traumatic episodes during the Rwandan genocide, the risk of current depression for women was elevated four times. Even though few men reported partner violence exposure, physical violence in the past year was found to be a statistically significant risk factor for current depression and for generalized anxiety disorder. However, having an experience of traumatic episodes during the genocide contributed to the risk of most of mental disorders investigated for men.
+   Conclusion: In Rwanda, IPV contributed considerably to mental disorders investigated. Thus, prevention of IPV should be considered as a public health priority, as its prevention would considerably reduce the prevalence of mental disorders.
+C1 [Umubyeyi, Aline; Ntaganira, Joseph] Univ Rwanda, Sch Publ Hlth, Dept Epidemiol & Biostat, Coll Med & Hlth Sci, Kigali, Rwanda.
+   [Umubyeyi, Aline; Krantz, Gunilla] Gothenburg Univ, Sahlgrenska Acad, Dept Publ Hlth & Community Med, Gothenburg, Sweden.
+   [Mogren, Ingrid] Umea Univ, Dept Clin Sci Obstet & Gynecol, Umea, Sweden.
+C3 University of Rwanda; University of Gothenburg; Umea University
+RP Umubyeyi, A (corresponding author), Univ Rwanda, Sch Publ Hlth, Dept Epidemiol & Biostat, Coll Med & Hlth Sci, Kigali, Rwanda.
+EM aumubyey@nursph.org
+RI ; Umubyeyi, Aline/G-9485-2019
+OI Mogren, Ingrid/0000-0003-2985-1135; Umubyeyi, Aline/0000-0002-0960-5220
+FU Swedish International Development Cooperation Agency, SIDA
+FX This study forms part of the Rwanda Violence, Mental Health and Barriers
+   to Care project (RwVMHBC), a collaborative project between University of
+   Rwanda, School of Public Health and Department of Public Health and
+   Community Medicine, University of Gothenburg, Sweden and supported by a
+   grant from The Swedish International Development Cooperation Agency,
+   SIDA.
+NR 42
+TC 29
+Z9 33
+U1 0
+U2 19
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD NOV 18
+PY 2014
+VL 14
+AR 315
+DI 10.1186/s12888-014-0315-7
+PG 12
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AW1EH
+UT WOS:000346032800001
+PM 25406929
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT C
+AU Mukashema, I
+AF Mukashema, Immaculee
+BE Maree, K
+TI Facing domestic violence for mental health in Rwanda: opportunities and
+   Challenges
+SO 2ND WORLD CONFERENCE ON PSYCHOLOGY AND SOCIOLOGY (PSYSOC 2013)
+SE Procedia Social and Behavioral Sciences
+LA English
+DT Proceedings Paper
+CT 2nd World Conference on Psychology and Sociology (PSYSOC)
+CY NOV 27-29, 2013
+CL Brussels, BELGIUM
+DE Domestic violence; mental health; Rwanda
+AB Three Focus Group Discussion of participants from the population and ten individual interviews with key Informants were conducted in the Southern and in the Western Provinces of Rwanda. The research presented here was to investigate the opportunities and challenges in facing domestic violence. The opportunities, as they were identified by the participants, include listening to the victims, providing counselling and orienting them depending on the specificity of the case to be managed. For reported cases, victims receive medical treatment and HIV/AIDS test in case of sexual abuse. Mediation leading to eradication of violence by perpetrators is sometimes used. Other cases are legally dealt with using criminal code. Educative action to people in the community and sensitization sessions makes the victims aware of the interest of reporting. There exists collaboration of institutions dealing with domestic violence. Challenges perceived by participants include the magnitude of domestic violence in its level and in its negative consequences on children, suicide, murder and traumatism. Failure to report domestic violence is influenced by culture, type of domestic violence under question, psycho-social issues, fear of shame, and economic dependency of women. Failure to report is also influenced by the category of domestic violence and gender. The existing laws on domestic violence are not known or understood by the citizens. There is a lack of care givers in quality and in quantity. Domestic violence needs more assessment to know why it is continuously increasing so that it can be efficiently managed. (C) 2014 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/). Selection and Peer-review under responsibility of the Organizing Committee of PSYSOC 2013
+C1 [Mukashema, Immaculee] Natl Univ Rwanda, Butare, Rwanda.
+C3 University of Rwanda
+EM imukashema@nur.ac.rw
+OI Mukashema, Immaculee/0000-0002-0858-6646
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1877-0428
+J9 PROCD SOC BEHV
+PY 2013
+VL 140
+BP 591
+EP 598
+DI 10.1016/j.sbspro.2014.04.476
+PG 8
+WC Psychology, Clinical; Sociology
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Psychology; Sociology
+GA BB7EY
+UT WOS:000345439900098
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Rurangirwa, AA
+   Mogren, I
+   Ntaganira, J
+   Govender, K
+   Krantz, G
+AF Rurangirwa, Akashi Andrew
+   Mogren, Ingrid
+   Ntaganira, Joseph
+   Govender, Kaymarlin
+   Krantz, Gunilla
+TI Intimate partner violence during pregnancy in relation to non-psychotic
+   mental health disorders in Rwanda: a cross-sectional population-based
+   study
+SO BMJ OPEN
+LA English
+DT Article
+DE mental health; intimate partner violence; intimate partner violence;
+   pregnancy; non-psychotic mental health disorders
+ID WOMENS HEALTH; PREVALENCE; DEPRESSION; ANXIETY; RISK; PREDICTORS;
+   COUNTRIES; SYMPTOMS; STRESS; HIV
+AB Objectives To investigate the prevalence of non-psychotic mental health disorders (MHDs) and the association between exposure to all forms of intimate partner violence (IPV) during pregnancy and MHDs.
+   Design Cross-sectional population-based study conducted in the Northern Province of Rwanda and Kigali city.
+   Participants and settings Totally, 921 women who gave birth <= 13 months before being interviewed were included. Simple random sampling was done to select villages, households and participants. Community health workers helped to identify eligible participants and clinical psychologists, nurses or midwives conducted face-to-face interviews. The collected data were analysed using descriptive statistics and bivariable and multivariable logistic regression modelling
+   Results The prevalence rates of generalised anxiety disorder, suicide ideation and post-traumatic stress disorder (PTSD) were 19.7%, 10.8% and 8.0%, respectively. Exposure to the four forms of IPV during pregnancy was highly associated with the likelihood of meeting diagnostic criteria for each of the non-psychotic MHDs investigated. Physical, psychological and sexual violence, showed the strongest association with PTSD, with adjusted ORs (aORs) of 4.5, 6.2 and 6.3, respectively.
+   Controlling behaviour had the strongest association with major depressive episode in earlier periods with an aOR of 9.2. Conclusion IPV and MHDs should be integrated into guidelines for perinatal care. Moreover, community-based services aimed at increasing awareness and early identification of violence and MHDs should be instituted in all villages and health centres in Rwanda. Finally, healthcare providers need to be educated and trained in a consistent manner to manage the most challenging cases quickly, discreetly and efficiently.
+C1 [Rurangirwa, Akashi Andrew; Ntaganira, Joseph] Univ Rwanda, Sch Publ Hlth, Dept Epidemiol & Biostat, Kigali, Rwanda.
+   [Rurangirwa, Akashi Andrew; Krantz, Gunilla] Univ Gothenburg, Sahlgrenska Acad, Dept Publ Hlth & Community Med, Sect Epidemiol & Social Med EPSO, Gothenburg, Sweden.
+   [Mogren, Ingrid] Umea Univ, Dept Clin Sci Obstet & Gynecol, Umea, Sweden.
+   [Mogren, Ingrid] La Trobe Univ, Judith Lumley Ctr, Melbourne, Vic, Australia.
+   [Govender, Kaymarlin] Univ KwaZulu Natal, Hlth Econ & HIV AIDS Res Div HEARD, Durban, South Africa.
+C3 University of Rwanda; University of Gothenburg; Umea University; La
+   Trobe University; University of Kwazulu Natal
+RP Rurangirwa, AA (corresponding author), Univ Rwanda, Sch Publ Hlth, Dept Epidemiol & Biostat, Kigali, Rwanda.; Rurangirwa, AA (corresponding author), Univ Gothenburg, Sahlgrenska Acad, Dept Publ Hlth & Community Med, Sect Epidemiol & Social Med EPSO, Gothenburg, Sweden.
+EM rakashi@nursph.org
+RI Govender, Kaymarlin/M-1660-2019
+OI Rurangirwa, Akashi Andrew/0000-0002-1366-8216; govender,
+   kaymarlin/0000-0002-9586-1510
+FU Swedish International Development Cooperation Agency (SIDA)
+FX This study forms part of the Maternal Health Research Programme (MaTHeR)
+   undertaken by the University of Rwanda in collaboration with the
+   University of Gothenburg and Umea University in Sweden. The Study was
+   made possible by financial support from The Swedish International
+   Development Cooperation Agency (SIDA).
+NR 46
+TC 12
+Z9 13
+U1 1
+U2 8
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PD SEP
+PY 2018
+VL 8
+IS 7
+AR e021807
+DI 10.1136/bmjopen-2018-021807
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA GV5YI
+UT WOS:000446181900164
+PM 29997142
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Bell, SA
+   Lori, J
+   Redman, R
+   Seng, J
+AF Bell, Sue Anne
+   Lori, Jody
+   Redman, Richard
+   Seng, Julia
+TI Development of a brief screening tool for women's mental health
+   assessment in refugee settings: A psychometric evaluation
+SO INTERNATIONAL JOURNAL OF NURSING STUDIES
+LA English
+DT Article
+DE Mental health; Refugees; Psychometrics; Women's health services;
+   Sensitivity and specificity
+ID REPORTING QUESTIONNAIRE SRQ-20; 4 DEVELOPING-COUNTRIES; THAI-BURMA
+   BORDER; SEXUAL VIOLENCE; CARE; WAR; DISORDERS; PROVINCE; TRAUMA
+AB Background and purpose: The detection of common mental disorders in humanitarian crisis settings requires a screening tool that is feasible to use as well as sensitive and specific. The Self-Report Questionnaire, developed by the World Health Organization in 1994 to detect presence or absence of common mental health disorders, has frequently been used among conflict-affected and refugee populations. Our goal was to identify a highly predictive and reliable subset of items to serve as a screening tool that can be used in busy, over-crowded, and low-resource primary health care settings to identify women who need mental health attention.
+   Methods: We analyzed the responses on a version of the Self-Report Questionnaire expanded to include two suicidality items from 810 displaced women living in refugee camps in Rwanda. Screening items were selected and evaluated for predictive ability using logistic regression in a cross-validation process, sensitivity and specificity using receiver operating characteristic curve analysis, and internal consistency analysis.
+   Results: A five-item screening tool resulted. Those items are "Do you feel unhappy?", Do you feel easily nervous, tense, or worried?", "Have you lost interest in things?", "Do you have trouble thinking clearly?" and "Has the thought of ending your life been on your mind?".
+   Conclusion: The Self-Report Questionnaire-5 may be an important tool for identifying common mental disorders as well as suicide ideation and behaviors when assessing mental health among women in crisis situations. Further evaluation of this tool is warranted. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Bell, Sue Anne; Lori, Jody; Redman, Richard] Univ Michigan, Sch Nursing, Ann Arbor, MI 48109 USA.
+   [Seng, Julia] Univ Michigan, Sch Nursing, Dept Obstet & Gynecol, Ann Arbor, MI 48109 USA.
+   [Seng, Julia] Inst Res Women & Gender, Cambridge, MA USA.
+C3 University of Michigan System; University of Michigan; University of
+   Michigan System; University of Michigan
+RP Bell, SA (corresponding author), 400 North Ingalls,Rm 3340, Ann Arbor, MI 48109 USA.
+EM sabell@umich.edu
+RI Seng, Julia S/M-9922-2013
+OI Bell, Sue Anne/0000-0002-6890-2006
+FU National Institutes of Health [NIH 5T32NR007073-17/5T32NR007073-18]
+FX Funding. This work was funded in part by a T32 pre-doctoral training
+   grant from the National Institutes of Health (NIH
+   5T32NR007073-17/5T32NR007073-18).
+NR 33
+TC 5
+Z9 5
+U1 1
+U2 35
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0020-7489
+EI 1873-491X
+J9 INT J NURS STUD
+JI Int. J. Nurs. Stud.
+PD JUL
+PY 2015
+VL 52
+IS 7
+BP 1202
+EP 1208
+DI 10.1016/j.ijnurstu.2015.04.003
+PG 7
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA CL0LN
+UT WOS:000356634300007
+PM 25892280
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT B
+AU Ray, SL
+AF Ray, Susan L.
+BE Evans, MT
+   Walker, ED
+TI BEING IN THE WORLD OF PEACEKEEPING: LIVING THE UNPRESENTABLE
+SO RELIGION AND PSYCHOLOGY
+LA English
+DT Article; Book Chapter
+AB This research study was a philosophical interpretive inquiry into the experience of contemporary peacekeepers. What is the experience of contemporary peacekeeping and how does it lead to trauma? This study reflected a commitment to understanding the nature of contemporary peacekeeping deployments. An interpretative phenomenological approach was appropriated from various texts to uncover the experience of contemporary peacekeepers who had received treatment a minimum of two years for psychological trauma resulting from recent deployments. Data was collected via one tape recorded interview, lasting between 1(1)/(2) to 3 hours, with ten contemporary peacekeepers who had been deployed to Somalia, Rwanda, or the former Yugoslavia. The participants included six soldiers, two chaplains, one medic and one female nurse. Narratives from the transcribed interviews were reviewed with four of the participants and reflective journaling by the researcher provided further clarification of the data to understand the experience. Data analysis was undertaken throughout the research study by utilizing a thematic analysis of text in which themes emerged to document and understand the experience of contemporary peacekeeping. This chapter endeavors to reveal the situatedness of contemporary peacekeeping and contemporary peacekeepers being in the world. The peacekeepers' descriptions of the situatedness of their bodies in time, space and relation provided a fresh way into understanding the experience of contemporary peacekeeping. Glimpses of the life world described by the peacekeepers reveal some of the ineffable unpresentable experiences of peacekeeping that lead to trauma. Like Alice falling Down the Rabbit Hole, contemporary peacekeepers are separated from their families and thrown suddenly down the rabbit hole of peacekeeping. They are taken on a journey of the unknown, with limited preparation for what they would experience and where they would live. They, like Alice, have to adapt to rapidly changing rules and situations. For peacekeepers there are changes from the known to the unknown and back to the known. Like Alice, contemporary peacekeepers tried to make sense out of the senselessness of the situations that they encountered. As well, their return home was also quick with limited transition. Deployments required many transitions in terms of time, space and relations. The peacekeepers revealed that the military became their family, with the bonds of brotherhood tightening over time. The profound losses of brother soldiers such as by suicide and the callous response by the military left many with a sense of betrayal of what's right by the military leaders who held their trust. Their sense of betrayal was further deepened when the Band of Brothers that was the Airborne Regiment who served in Somalia were disbanded by their military family and the government. The rules of engagement restricted them from responding to human suffering all around them. The sheer stamina and self discipline of standing aside, in the face of the brutalities and cruelties inflicted upon their fellow human beings, makes one wonder how this erodes at the peacekeepers. Being in the world of peacekeeping left many of the peacekeepers with existential questions about life, death, being and the searching for meaning.
+C1 Univ Western Ontario, Fac Hlth Sci, London, ON N6A 5C1, Canada.
+C3 Western University (University of Western Ontario)
+RP Ray, SL (corresponding author), Univ Western Ontario, Fac Hlth Sci, HSA 32, London, ON N6A 5C1, Canada.
+EM slray@uwo.ca
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 2
+PU NOVA SCIENCE PUBLISHERS, INC
+PI HAUPPAUGE
+PA 400 OSER AVE, STE 1600, HAUPPAUGE, NY 11788-3635 USA
+BN 978-1-60741-066-9
+PY 2009
+BP 17
+EP 61
+PG 45
+WC Psychology, Multidisciplinary
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC Psychology
+GA BPB15
+UT WOS:000278418400003
+DA 2023-12-06
+ER
+
+EF

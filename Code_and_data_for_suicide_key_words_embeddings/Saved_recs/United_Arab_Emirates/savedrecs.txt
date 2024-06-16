@@ -1,0 +1,400 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Benomran, F
+AF Benomran, Fawzi
+BE Ubelaker, DH
+TI Forensic medicine in the United Arab Emirates
+SO GLOBAL PRACTICE OF FORENSIC SCIENCE
+SE Forensic Science in Focus
+LA English
+DT Article; Book Chapter
+ID SUICIDE
+C1 Dubai Police Gen Headquarters, Dept Forens Med, Dubai, U Arab Emirates.
+RP Benomran, F (corresponding author), Dubai Police Gen Headquarters, Dept Forens Med, Dubai, U Arab Emirates.
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 2
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, WEST SUSSEX, ENGLAND
+BN 978-1-118-72424-8; 978-1-118-72416-3
+J9 FORENSIC SCI FOC
+PY 2015
+BP 289
+EP 300
+PG 12
+WC Medicine, Legal
+WE Book Citation Index – Science (BKCI-S)
+SC Legal Medicine
+GA BD3OP
+UT WOS:000359985900029
+DA 2023-12-06
+ER
+
+PT J
+AU Amiri, L
+   Voracek, M
+   Yousef, S
+   Galadari, A
+   Yammahi, S
+   Sadeghi, MR
+   Eskin, M
+   Dervic, K
+AF Amiri, Leena
+   Voracek, Martin
+   Yousef, Said
+   Galadari, Alaa
+   Yammahi, Salem
+   Sadeghi, Mohammad-Reza
+   Eskin, Mehmet
+   Dervic, Kanita
+TI Suicidal Behavior and Attitudes Among Medical Students in the United
+   Arab Emirates
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE students; medical; suicide; attitudes; UAE
+ID IDEATION; PREVALENCE; ADOLESCENTS; DEPRESSION; EDUCATION; RELIGION;
+   CHILD
+AB Background: Few studies have investigated suicidal behavior and attitudes of medical students. We are not aware of any previous reports emerging from the Arab world. Aims: To investigate suicidal behavior and attitudes among medical students in the United Arab Emirates (UAE). Method: The prevalence of suicidal ideation and attempts as well as attitudes toward suicide and reactions to a hypothetical suicidal friend were assessed using a self-report survey. Furthermore, the survey included the self-assessment of the current mood and religiosity, and socio-demographic information. Results: A group of 115 medical students (mean age 20.7 years, 59.1% female) participated in the survey. The prevalence of lifetime suicidal ideation was 17.5% and of suicide attempts 1.8%. In general, students showed very low acceptability of suicide, strong beliefs in the punishment after death, and highly endorsed communicating problems with parents. Moreover, high acceptance of and support for a suicidal friend were found. Sadness was associated with higher acceptability of suicide and fewer beliefs in punishment after death. Religiosity was associated with less acceptability of suicide, seeing suicide in context of mental illness, communicating problems with parents, and greater support for a suicidal friend. Conclusions: The prevalence of suicidal ideation and attempts among medical students in the UAE was in the lower range in international comparison. Negative attitudes toward suicide were accompanied by a strong support for a suicidal friend, and both were related to religiosity.
+C1 [Amiri, Leena; Yousef, Said; Galadari, Alaa; Yammahi, Salem; Sadeghi, Mohammad-Reza; Dervic, Kanita] United Arab Emirates Univ, Dept Psychiat & Behav Sci, Fac Med & Hlth Sci, Al Ain, U Arab Emirates.
+   [Voracek, Martin] Univ Vienna, Dept Basic Psychol Res, Sch Psychol, A-1010 Vienna, Austria.
+   [Eskin, Mehmet] Adnan Menderes Univ, Dept Psychiat, Fac Med, Aydin, Turkey.
+C3 United Arab Emirates University; University of Vienna; Adnan Menderes
+   University
+RP Dervic, K (corresponding author), United Arab Emirates Univ, Dept Psychiat & Behav Sci, Fac Med & Hlth Sci, POB 17666, Al Ain, U Arab Emirates.
+EM kanitadervic@uaeu.ac.ae
+RI Voracek, Martin/S-5865-2016; Amiri, Leena/HKN-1631-2023; Abdelrazeq,
+   Said Yousef/JEP-3943-2023; Eskin, Mehmet/AAG-9269-2020
+OI Voracek, Martin/0000-0001-6109-6155; Abdelrazeq, Said
+   Yousef/0000-0002-4968-6918; Eskin, Mehmet/0000-0001-9916-9268; Sadeghi,
+   Mohamad Reza/0000-0003-0401-3493
+NR 37
+TC 20
+Z9 25
+U1 0
+U2 23
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2013
+VL 34
+IS 2
+BP 116
+EP 123
+DI 10.1027/0227-5910/a000170
+PG 8
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 104JS
+UT WOS:000315989400005
+PM 23195458
+DA 2023-12-06
+ER
+
+PT J
+AU Shahrour, TM
+   Mohan, S
+   Siddiq, M
+   El Hammasi, K
+   Alsaadi, T
+AF Shahrour, Tarek M.
+   Mohan, Sona
+   Siddiq, Muez
+   El Hammasi, Khadija
+   Alsaadi, Taoufik
+TI Suicide attempters in Abu Dhabi: Is criminal prosecution associated with
+   patients' guardedness?
+SO DEATH STUDIES
+LA English
+DT Article
+ID EAST-ASIAN IMMIGRANTS; DECRIMINALIZATION; RATES
+AB The objective of this study was to examine the relationship between legal status and guardedness in patients who attempted suicide in Abu Dhabi, United Arab Emirates. The consultation-liaison team assessed 355 patients admitted for suicidal/self-injurious behavior, recording their guardedness before knowing whether they were legally charged. Patients who were legally charged for the suicidal act (n=139) were 1.6 times (p=.03) more guarded in volunteering information than patients who were not legally charged. Legally charging suicide attempters might have a negative impact on risk assessment and psychiatric care.
+C1 [Shahrour, Tarek M.] Shiekh Khalifa Med City, Dept Psychiat, POB 51900, Abu Dhabi, U Arab Emirates.
+   [Mohan, Sona; Siddiq, Muez; El Hammasi, Khadija] Shiekh Khalifa Med City, Dept Psychiat, Abu Dhabi, U Arab Emirates.
+   [Alsaadi, Taoufik] Amer Ctr Neurol & Psychiat, Abu Dhabi, U Arab Emirates.
+RP Shahrour, TM (corresponding author), Shiekh Khalifa Med City, Dept Psychiat, POB 51900, Abu Dhabi, U Arab Emirates.
+EM tshahrour@seha.ae
+NR 17
+TC 3
+Z9 3
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2018
+VL 42
+IS 10
+BP 636
+EP 639
+DI 10.1080/07481187.2017.1421280
+PG 4
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA GE9FQ
+UT WOS:000431535800004
+PM 29364778
+DA 2023-12-06
+ER
+
+PT J
+AU Al-Maskari, F
+   Shah, SM
+   Al-Sharhan, R
+   Al-Haj, E
+   Al-Kaabi, K
+   Khonji, D
+   Schneider, JD
+   Nagelkerke, NJ
+   Bernsen, RM
+AF Al-Maskari, F.
+   Shah, S. M.
+   Al-Sharhan, R.
+   Al-Haj, E.
+   Al-Kaabi, K.
+   Khonji, D.
+   Schneider, J. D.
+   Nagelkerke, N. J.
+   Bernsen, R. M.
+TI Prevalence of Depression and Suicidal Behaviors Among Male Migrant
+   Workers in United Arab Emirates
+SO JOURNAL OF IMMIGRANT AND MINORITY HEALTH
+LA English
+DT Article
+DE Migrant workers; Depression; Suicide
+ID DISORDERS; PAKISTAN; BRITAIN
+AB Migrant workers comprise 80% of the population of the United Arab Emirates, but there is little research on their mental health. To determine the prevalence and correlates of depression among workers living in labor camps, we conducted a cross-sectional survey in labor camps in Al Ain city. The Depression Anxiety and Stress Scale (DASS-42) was used to assess depression and suicidal ideation among the study participants. Off the 319 contacted workers agreed to participate, however 239 fully completed the DASS-42. The prevalence of a score >=10 ("depression") was 25.1% (60/239). Depression was correlated with physical illness (97/301), (adjusted odds ratio-AOR = 2.9; 95% CI 2.26-5.18), working in construction industry (prevalence 124/304), AOR = 2.2; 95%CI 1.56-3.83), earning less than 1,000 UAE Dirham per month (prevalence 203/314), (AOR = 1.8; 95%CI 1.33-3.16), and working more than 8 h a day (prevalence 213/315), (AOR = 2.7; 95%CI 1.19-6.27). 20/261 (6.3%) of the study participants reported thoughts of suicide and 8/265 (2.5%) had attempted suicide. People with suicidal ideation were more likely to have a physical illness (AOR = 8.1, 95%CI 2.49-26.67), earn less than 1,000 UAE Dirham per month (AOR = 5.98, 95%CI 1.26-28.45), and work for more than 8 h a day (AOR = 8.35, 95%CI 1.03-67.23). The study identified self reported indicators of a substantial burden of depression, and thoughts of self-harm among laborers surveyed. Policy level intervention and implementation, is needed to improve working conditions, including minimum wages and regulation of working hours is recommended.
+C1 [Al-Maskari, F.; Shah, S. M.; Al-Sharhan, R.; Al-Haj, E.; Al-Kaabi, K.; Khonji, D.; Schneider, J. D.; Nagelkerke, N. J.; Bernsen, R. M.] United Arab Emirates Univ, Dept Community Med, Fac Med & Hlth Sci, Al Ain, U Arab Emirates.
+C3 United Arab Emirates University
+RP Al-Maskari, F (corresponding author), United Arab Emirates Univ, Dept Community Med, Fac Med & Hlth Sci, POB 17666, Al Ain, U Arab Emirates.
+EM fatma.am@uaeu.ac.ae
+OI Al-Maskari, Fatma/0000-0001-6598-4942
+NR 18
+TC 66
+Z9 72
+U1 0
+U2 24
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1557-1912
+EI 1557-1920
+J9 J IMMIGR MINOR HEALT
+JI J. Immigr. Minor. Health
+PD DEC
+PY 2011
+VL 13
+IS 6
+BP 1027
+EP 1032
+DI 10.1007/s10903-011-9470-9
+PG 6
+WC Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 839JO
+UT WOS:000296361700008
+PM 21503739
+DA 2023-12-06
+ER
+
+PT J
+AU Dervic, K
+   Amiri, L
+   Niederkrotenthaler, T
+   Yousef, S
+   Salem, MO
+   Voracek, M
+   Sonneck, G
+AF Dervic, Kanita
+   Amiri, Leena
+   Niederkrotenthaler, Thomas
+   Yousef, Said
+   Salem, Mohamed O.
+   Voracek, Martin
+   Sonneck, Gernot
+TI Suicide rates in the national and expatriate population in Dubai, United
+   Arab Emirates
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE suicide; nationals; expatriates; Dubai; UAE
+AB Background: Reports on suicide from the Gulf region are scarce. Dubai is a city with a large expatriate population. However, total and gender-specific suicide rates for the national and expatriate populations are not known.
+   Aims: To investigate total and gender-specific suicide rates in the national and expatriate population in Dubai and to elicit socio-demographic characteristics of suicide victims.
+   Methods: Registered suicides in Dubai from 2003 to 2009, and aggregated socio-demographic data of suicide victims were analysed. Suicide rates per 100,000 population were calculated.
+   Results: Suicide rate among expatriates (6.3/100,000) was seven times higher than the rate among the nationals (0.9/100,000). In both groups, male suicide rate was more than three times higher than the female rate. Approximately three out of four expatriate suicides were committed by Indians. The majority of suicide victims were male, older than 30 years, expatriate, single and employed, with an education of secondary school level and below.
+   Conclusion: Further research on risk factors for and protective factors against suicide, particularly among the expatriate population, is needed. Epidemiological monitoring of suicide trends at the national level and improvement of UAE suicide statistics would provide useful information for developing suicide prevention strategies.
+C1 [Dervic, Kanita; Amiri, Leena; Yousef, Said; Salem, Mohamed O.] United Arab Emirates Univ, Fac Med & Hlth Sci, Dept Psychiat & Behav Sci, Al Ain, U Arab Emirates.
+   [Niederkrotenthaler, Thomas] Med Univ Vienna, Ctr Publ Hlth, Dept Gen Practice & Family Med, Vienna, Austria.
+   [Voracek, Martin] Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+   [Sonneck, Gernot] Crisis Intervent Ctr, Vienna, Austria.
+   [Sonneck, Gernot] Ludwig Boltzmann Inst, Vienna, Austria.
+C3 United Arab Emirates University; Medical University of Vienna;
+   University of Vienna; Ludwig Boltzmann Institute
+RP Dervic, K (corresponding author), United Arab Emirates Univ, Fac Med & Hlth Sci, Dept Psychiat & Behav Sci, POB 17666, Al Ain, U Arab Emirates.
+EM kanitadervic@uaeu.ac.ae
+RI Voracek, Martin/S-5865-2016; Abdelrazeq, Said Yousef/JEP-3943-2023;
+   Amiri, Leena/HKN-1631-2023
+OI Voracek, Martin/0000-0001-6109-6155; Abdelrazeq, Said
+   Yousef/0000-0002-4968-6918; Niederkrotenthaler,
+   Thomas/0000-0001-9550-628X
+NR 27
+TC 19
+Z9 19
+U1 0
+U2 4
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD NOV
+PY 2012
+VL 58
+IS 6
+BP 652
+EP 656
+DI 10.1177/0020764011430038
+PG 5
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 026OG
+UT WOS:000310288900014
+PM 22169999
+DA 2023-12-06
+ER
+
+PT C
+AU Al Hosani, H
+   Yousef, M
+   Al Shouq, S
+   Iqbal, F
+   Mouheb, D
+AF Al Hosani, Haifa
+   Yousef, Maryam
+   Al Shouq, Shaima
+   Iqbal, Farkhund
+   Mouheb, Djedjiga
+GP IEEE
+TI A COMPARATIVE ANALYSIS OF CYBERBULLYING AND CYBERSTALKING LAWS IN THE
+   UAE, US, UK AND CANADA
+SO 2019 IEEE/ACS 16TH INTERNATIONAL CONFERENCE ON COMPUTER SYSTEMS AND
+   APPLICATIONS (AICCSA 2019)
+SE International Conference on Computer Systems and Applications
+LA English
+DT Proceedings Paper
+CT 16th IEEE/ACS International Conference on Computer Systems and
+   Applications (AICCSA)
+CY NOV 03-07, 2019
+CL Abu Dhabi, U ARAB EMIRATES
+SP IEEE, ACS, Al Ain Univ
+DE Cyberbullying; Cyberstalking; Cybercrime; Laws; Legal Analysis; UAE; US;
+   England; Canada
+AB Bullying and stalking through cyberspace have become serious phenomena in the Internet era, impacting mainly young users and teenagers. Many tragic incidents have occurred, especially in the West, including self-harm and suicide due to these problems. To protect the victims many countries such as the United Arab Emirates (UAE), the United States (US), the United Kingdom (UK) and Canada have codified laws dealing with cyber-crimes, including cyber-harassment. To determine the adequacy of such laws in addressing these issues, we present in this paper a legal analysis of the existing anti-bullying and stalking laws in the UAE, US, UK, and Canada. The purpose is to gain perspective on the characteristics of the laws and their ability to protect society from various forms of crimes associated with cyberbullying and cyberstalking. The paper also presents recommendations to help combat cyberbullying and cyberstalking and protect our youth from these issues.
+C1 [Al Hosani, Haifa; Yousef, Maryam; Al Shouq, Shaima; Iqbal, Farkhund] Zayed Univ, Coll Technol Innovat, Dubai, U Arab Emirates.
+   [Mouheb, Djedjiga] Univ Sharjah, Dept Comp Sci, Sharjah, U Arab Emirates.
+C3 Zayed University; University of Sharjah
+RP Al Hosani, H (corresponding author), Zayed Univ, Coll Technol Innovat, Dubai, U Arab Emirates.
+EM M80007823@zu.ac.ae; M80007809@zu.ac.ae; M80007780@zu.ac.ae;
+   farkhund.iqbal@zu.ac.ae; d_mouheb@sharjah.ac.ae
+NR 49
+TC 0
+Z9 0
+U1 1
+U2 11
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2161-5322
+BN 978-1-7281-5052-9
+J9 I C COMP SYST APPLIC
+PY 2019
+PG 7
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BP7XY
+UT WOS:000563487400139
+DA 2023-12-06
+ER
+
+PT J
+AU Abbas, AK
+   Mirghani, H
+   Eid, HO
+   Abu-Zidan, FM
+AF Abbas, Alaa K.
+   Mirghani, Hisham
+   Eid, Hani O.
+   Abu-Zidan, Fikri M.
+TI Trauma in women of child-bearing age in a high-income developing country
+SO ULUSAL TRAVMA VE ACIL CERRAHI DERGISI-TURKISH JOURNAL OF TRAUMA &
+   EMERGENCY SURGERY
+LA English
+DT Article
+DE Women; child-bearing age; trauma
+ID PELVIC FLOOR DYSFUNCTION; RISK-FACTORS; INJURY; SUICIDE
+AB BACKGROUND
+   We aimed to study the distribution and causes of trauma in women of child-bearing age.
+   METHODS
+   Data were collected from Al-Ain Hospital (United Arab Emirates-UAE) Trauma Registry. Females aged 16 to 45 years (child-bearing age) who were admitted with trauma between March 2003 and March 2006 were included in the study.
+   RESULTS
+   Females represented 9% (n=171) of all trauma patients (n=1809) of the same age group, of which 29% were UAE nationals. The mean age for females was 30.5 years. Road traffic collision (RTC) was the main mechanism of injury (n=78, 46%). Burns were significantly higher in females than males (p=0.001). Cervical fractures were significantly higher in females (p=0.04), while lumbar fractures were significantly higher in males (p=0.03). In females, pelvic fractures were diagnosed in 6.4%, spinal fractures in 7%, and both injuries in 1.2%. Three females died (1.7%), and all were due to RTC.
+   CONCLUSION
+   The majority of females involved in trauma were aged 20-34 years. RTC is the main mechanism of injury and fatality. Female trauma is associated with a high incidence of pelvic fractures. A higher rate of cervical injuries was observed in females in contrast to lumbar injuries in males.
+C1 [Abbas, Alaa K.; Abu-Zidan, Fikri M.] United Arab Emirates UAE Univ, Fac Med & Hlth Sci, Dept Surg, Abu Dhabi, U Arab Emirates.
+   [Mirghani, Hisham] United Arab Emirates UAE Univ, Fac Med & Hlth Sci, Dept Obstet & Gynecol, Abu Dhabi, U Arab Emirates.
+   [Eid, Hani O.] Tawam Hosp, Dept Emergency Med, Al Ain, U Arab Emirates.
+RP Mirghani, H (corresponding author), UAE Univ, Fac Med & Hlth Sci, Dept Obstet & Gynecol, Al Ain, U Arab Emirates.
+EM hmirghani@uaeu.ac.ae
+RI Abu-Zidan, Fikri/GWE-2835-2022
+NR 25
+TC 1
+Z9 1
+U1 0
+U2 3
+PU TURKISH ASSOC TRAUMA EMERGENCY SURGERY
+PI ISTANBUL
+PA KOPRULU MEHMET PASA SOC, DENIZ ABDAL MAH, DADASOGLU AP, 25-1 SEHREMINI,
+   ISTANBUL, 00000, TURKEY
+SN 1306-696X
+J9 ULUS TRAVMA ACIL CER
+JI Ulus. Travma Acil Cerrahi Derg.
+PD MAY
+PY 2012
+VL 18
+IS 3
+BP 239
+EP 242
+DI 10.5505/tjtes.2012.45578
+PG 4
+WC Emergency Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Emergency Medicine
+GA 958VM
+UT WOS:000305269000008
+PM 22864716
+OA Bronze
+DA 2023-12-06
+ER
+
+EF

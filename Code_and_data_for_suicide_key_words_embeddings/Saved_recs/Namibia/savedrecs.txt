@@ -1,0 +1,296 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Peltzer, K
+   Pengpid, S
+AF Peltzer, Karl
+   Pengpid, Supa
+TI Lifestyle and mental health among school-going adolescents in Namibia
+SO JOURNAL OF PSYCHOLOGY IN AFRICA
+LA English
+DT Article
+DE lifestyle; anxiety; suicide attempt; loneliness; school-going
+   adolescents; Namibia
+ID RISK BEHAVIORS; WORLDWIDE; CHILDREN
+AB This study examined the association between lifestyle behaviours and psychological distress indicators among school going adolescents. The analysis included 4 531 school children, 11-18 years of age, who completed the Namibia Global School-based Student Health Survey (GSHS) in 2013. Multivariable logistic regression analysis found that engaging in a greater number of harmful consumptive, sedentary and sexual risk behaviours carried an elevated risk for anxiety, suicide attempt and loneliness. Adolescents with co-occurring health risk behaviours have poorer mental health outcomes with socio-economic vulnerability.
+C1 [Peltzer, Karl; Pengpid, Supa] Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhonpathom, Thailand.
+   [Peltzer, Karl; Pengpid, Supa] Univ Limpopo, Dept Res Innovat & Dev, Turfloop Campus, Sovenga, South Africa.
+   [Peltzer, Karl] Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+C3 Mahidol University; University of Limpopo; Human Sciences Research
+   Council-South Africa
+RP Peltzer, K (corresponding author), Mahidol Univ, ASEAN Inst Hlth Dev, Phutthamonthon, Nakhonpathom, Thailand.; Peltzer, K (corresponding author), Univ Limpopo, Dept Res Innovat & Dev, Turfloop Campus, Sovenga, South Africa.; Peltzer, K (corresponding author), Human Sci Res Council, HIV AIDS STIs & TB HAST, Pretoria, South Africa.
+EM karl.pel@mahidol.ac.th
+RI Peltzer, Karl/Q-7334-2019; Peltzer, Karl/D-1518-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 20
+TC 10
+Z9 10
+U1 0
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1433-0237
+EI 1815-5626
+J9 J PSYCHOL AFR
+JI J. Psychol. Afr.
+PD FEB
+PY 2017
+VL 27
+IS 1
+BP 69
+EP 73
+DI 10.1080/14330237.2016.1268293
+PG 5
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA ER2VW
+UT WOS:000398652900010
+DA 2023-12-05
+ER
+
+PT J
+AU Devries, K
+   Watts, C
+   Yoshihama, M
+   Kiss, L
+   Schraiber, LB
+   Deyessa, N
+   Heise, L
+   Durand, J
+   Mbwambo, J
+   Jansen, H
+   Berhane, Y
+   Ellsberg, M
+   Garcia-Moreno, C
+AF Devries, Karen
+   Watts, Charlotte
+   Yoshihama, Mieko
+   Kiss, Ligia
+   Schraiber, Lilia Blima
+   Deyessa, Negussie
+   Heise, Lori
+   Durand, Julia
+   Mbwambo, Jessie
+   Jansen, Henrica
+   Berhane, Yemane
+   Ellsberg, Mary
+   Garcia-Moreno, Claudia
+CA WHO Multicountry Study Team
+TI Violence against women is strongly associated with suicide attempts:
+   Evidence from the WHO multi-country study on women's health and domestic
+   violence against women
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Intimate partner violence; Sexual violence; Childhood sexual abuse;
+   Suicidal behaviour; Women; Gender; Developing countries
+ID INTIMATE-PARTNER VIOLENCE; MENTAL-HEALTH; RISK-FACTORS; PREVALENCE;
+   IDEATION; ABUSE; PREVENTION; COMMUNITY; OUTCOMES; COHORT
+AB Suicidal behaviours are one of the most important contributors to the global burden of disease among women, but little is known about prevalence and modifiable risk factors in low and middle income countries. We use data from the WHO multi-country study on women's health and domestic violence against women to examine the prevalence of suicidal thoughts and attempts, and relationships between suicide attempts and mental health status, child sexual abuse, partner violence and other variables. Population representative cross-sectional household surveys were conducted from 2000-2003 in 13 provincial (more rural) and city (urban) sites in Brazil, Ethiopia, japan, Namibia, Peru, Samoa, Serbia, Thailand and Tanzania. 20967 women aged 15-49 years participated. Prevalence of lifetime suicide attempts, lifetime suicidal thoughts, and suicidal thoughts in the past four weeks were calculated, and multivariate logistic regression models were fit to examine factors associated with suicide attempts in each site. Prevalence of lifetime suicide attempts ranged from 0.8% (Tanzania) to 12.0% (Peru city): lifetime thoughts of suicide from 7.2% (Tanzania province) to 29.0% (Peru province), and thoughts in the past four weeks from 1.9% (Serbia) to 13.6% (Peru province). 25-50% of women with suicidal thoughts in the past four weeks had also visited a health worker in that time. The most consistent risk factors for suicide attempts after adjusting for probable common mental health disorders were: intimate partner violence, non-partner physical violence, ever being divorced, separated or widowed, childhood sexual abuse and having a mother who had experienced intimate partner violence. Mental health policies and services must recognise the consistent relationship between violence and suicidality in women in low and middle income countries. Training health sector workers to recognize and respond to the consequences of violence may substantially reduce the health burden associated with suicidal behaviour. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Devries, Karen; Watts, Charlotte; Kiss, Ligia; Heise, Lori] London Sch Hyg & Trop Med, London WC1H 0DP, England.
+   [Yoshihama, Mieko] Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+   [Schraiber, Lilia Blima; Durand, Julia] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+   [Deyessa, Negussie; Berhane, Yemane] Addis Abbaba Univ, Addis Ababa, Ethiopia.
+   [Jansen, Henrica; Garcia-Moreno, Claudia] World Hlth Org, Geneva, Switzerland.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Michigan System; University of Michigan; Universidade de
+   Sao Paulo; Addis Ababa University; World Health Organization
+RP Devries, K (corresponding author), London Sch Hyg & Trop Med, 36 Gordon Sq, London WC1H 0DP, England.
+EM karen.devries@lshtm.ac.uk
+RI Heise, LORI/AAI-6251-2020; Berhane, Yemane/ABB-8154-2020; Schraiber,
+   Lilia B/B-5708-2014; Devries, Karen/K-1083-2016
+OI Devries, Karen/0000-0001-8935-2181; Jansen, Henrica
+   A.F.M./0009-0005-3691-049X; Berhane, Yemane/0000-0002-2527-1339; Kiss,
+   Ligia/0000-0002-3334-7110; Naved, Ruchira/0000-0002-0363-5648
+NR 61
+TC 343
+Z9 378
+U1 3
+U2 144
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2011
+VL 73
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.socscimed.2011.05.006
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 799DK
+UT WOS:000293263500010
+PM 21676510
+DA 2023-12-05
+ER
+
+PT J
+AU Page, RM
+   Dennis, M
+   Lindsay, GB
+   Merrill, RM
+AF Page, Randy M.
+   Dennis, Megan
+   Lindsay, Gordon B.
+   Merrill, Ray M.
+TI Psychosocial Distress and Substance Use Among Adolescents in Four
+   Countries: Philippines, China, Chile, and Namibia
+SO YOUTH & SOCIETY
+LA English
+DT Article
+DE psychosocial distress; drug use; adolescent health; tobacco use; alcohol
+   use
+ID HEALTH-COMPROMISING BEHAVIORS; CIGARETTE-SMOKING; DRUG-USE;
+   PSYCHOLOGICAL DISTRESS; PEER INFLUENCE; RISK-FACTORS; DEPRESSION;
+   ASSOCIATION; DRINKING; ANXIETY
+AB The purpose of the current study was to examine the relationship between adolescent substance use and psychosocial distress indicators among 30,851 adolescents aged 11 to 16 in four countries (Philippines, China, Chile, and Namibia). Global School-Based Student Health Survey data from these countries provided information about frequency and lifetime use of alcohol, tobacco, and other drugs as well as items about early adolescents' feelings of loneliness, worry, hopelessness, suicide, and number of close friends. Overall, there were significant relationships between adolescent substance-use behaviors and a measure of "global" psychosocial distress for both boys and girls in all four countries and for four of the five items of psychosocial distress (often lonely, often worry, sad/hopeless, and having a suicide plan). The association between substance use and psychosocial distress was also consistent in both genders and across the four countries. These results have important implications for professionals who work with adolescent populations.
+C1 [Page, Randy M.] Brigham Young Univ, Dept Hlth Sci, Provo, UT 84602 USA.
+   [Dennis, Megan] Intermt Hlth Care, Provo, UT USA.
+C3 Brigham Young University; Intermountain Healthcare
+RP Page, RM (corresponding author), Brigham Young Univ, Dept Hlth Sci, 221 Richards Bldg, Provo, UT 84602 USA.
+EM randy_page@byu.edu
+NR 62
+TC 39
+Z9 45
+U1 0
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0044-118X
+EI 1552-8499
+J9 YOUTH SOC
+JI Youth Soc.
+PD SEP
+PY 2011
+VL 43
+IS 3
+BP 900
+EP 930
+DI 10.1177/0044118X10368932
+PG 31
+WC Social Issues; Social Sciences, Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Social Issues; Social Sciences - Other Topics; Sociology
+GA 804GF
+UT WOS:000293641600005
+DA 2023-12-05
+ER
+
+PT J
+AU Peltzer, K
+AF Peltzer, Karl
+TI Prevalence and correlates of substance use among school children in six
+   African countries
+SO INTERNATIONAL JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE African countries; Mental distress; Protective factors; School children;
+   Substance use
+ID ILLICIT DRUG-USE; ALCOHOL-USE; ADOLESCENTS; SMOKING; HEALTH; ONSET;
+   RISK; DEPENDENCE; BEHAVIORS; TOBACCO
+AB An increasing trend of noncommunicable diseases is a worldwide phenomenon, also including the developing countries. Few studies focus on adolescents' substance use in relation to mental distress and protective factors in African countries. The purpose of this study was to assess the prevalence and correlates (mental distress and protective factors) of substance use among school-going adolescents in six African countries. The sample included 20,765 students aged from 13 to 15 years from six African countries (Kenya, Namibia, Swaziland, Uganda, Zambia, Zimbabwe), chosen by a two-stage cluster sample design to represent all students in grades 6, 7, 8, 9, and 10 in each country. The measure used was part of the Global School-Based Health Survey (GSHS) questionnaire, including various domains of health behaviour. Results indicate a prevalence of 12.6% tobacco use (past month), 6.6% risky alcohol use (two or more per day for at least 20 days or more in the past month), and 10.5% of illicit drug use (three or more times ever) in school-going adolescents in six African countries. School truancy, loneliness, sleeping problems, sadness, suicidal ideation, suicide plans, and poverty were associated with substance use (tobacco, alcohol, illicit drugs), while school attendance and parental supervision and connectedness were protective factors for substance use, and peer support protective for tobacco use. It is concluded that tobacco use, risky drinking and illicit drug use were common, clustered together and were associated with school truancy, mental distress, and lack of parental and peer support among adolescent African school children. These findings stress the need for early and integrated prevention programmes.
+C1 [Peltzer, Karl] Human Sci Res Council, Social Aspects HIV AIDS & Hlth, ZA-0001 Pretoria, South Africa.
+   [Peltzer, Karl] Univ Free State, Bloemfontein, South Africa.
+C3 Human Sciences Research Council-South Africa; University of the Free
+   State
+RP Peltzer, K (corresponding author), Human Sci Res Council, Social Aspects HIV AIDS & Hlth, Private Bag X41, ZA-0001 Pretoria, South Africa.
+EM KPeltzer@hsrc.ac.za
+RI Peltzer, Karl/D-1518-2019; Peltzer, Karl/Q-7334-2019
+OI Peltzer, Karl/0000-0002-5980-0876; Peltzer, Karl/0000-0002-5980-0876
+NR 23
+TC 61
+Z9 64
+U1 0
+U2 21
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0020-7594
+J9 INT J PSYCHOL
+JI Int. J. Psychol.
+PY 2009
+VL 44
+IS 5
+BP 378
+EP 386
+DI 10.1080/00207590802511742
+PG 9
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 503UT
+UT WOS:000270567000007
+PM 22029616
+DA 2023-12-05
+ER
+
+PT J
+AU Müller, A
+   Spencer, S
+   Meer, T
+   Daskilewicz, K
+AF Muller, Alex
+   Spencer, Sarah
+   Meer, Talia
+   Daskilewicz, Kristen
+TI The no-go zone: a qualitative study of access to sexual and reproductive
+   health services for sexual and gender minority adolescents in Southern
+   Africa
+SO REPRODUCTIVE HEALTH
+LA English
+DT Article
+DE Adolescents; Sexual and reproductive health and rights; Sexual and
+   gender minorities; HIV; Service provision; Heteronormativity;
+   Criminalisation; Stigma; Southern Africa; LGBT
+ID RISK; CARE; ORIENTATION; POPULATION; MORTALITY; SUICIDE; YOUTH; STEP;
+   MEN; GAY
+AB Background: Adolescents have significant sexual and reproductive health needs. However, complex legal frameworks, and social attitudes about adolescent sexuality, including the values of healthcare providers, govern adolescent access to sexual and reproductive health services. These laws and social attitudes are often antipathetic to sexual and gender minorities. Existing literature assumes that adolescents identify as heterosexual, and exclusively engage in (heteronormative) sexual activity with partners of the opposite sex/gender, so little is known about if and how the needs of sexual and gender minority adolescents are met.
+   Methods: In this article, we have analysed data from fifty in-depth qualitative interviews with representatives of organisations working with adolescents, sexual and gender minorities, and/or sexual and reproductive health and rights in Malawi, Mozambique, Namibia, Zambia and Zimbabwe.
+   Results: Sexual and gender minority adolescents in these countries experience double-marginalisation in pursuit of sexual and reproductive health services: as adolescents, they experience barriers to accessing LGBT organisations, who fear being painted as "homosexuality recruiters," whilst they are simultaneously excluded from heteronormative adolescent sexual and reproductive health services. Such barriers to services are equally attributable to the real and perceived criminalisation of consensual sexual behaviours between partners of the same sex/gender, regardless of their age.
+   Discussion/conclusion: The combination of laws which criminalise consensual same sex/gender activity and the social stigma towards sexual and gender minorities work to negate legal sexual and reproductive health services that may be provided. This is further compounded by age-related stigma regarding sexual activity amongst adolescents, effectively leaving sexual and gender minority adolescents without access to necessary information about their sexuality and sexual and reproductive health, and sexual and reproductive health services.
+C1 [Muller, Alex; Spencer, Sarah; Meer, Talia; Daskilewicz, Kristen] Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+C3 University of Cape Town
+RP Müller, A (corresponding author), Univ Cape Town, Gender Hlth & Justice Res Unit, Cape Town, South Africa.
+EM alex.muller@uct.ac.za
+RI Spencer, Sarah/ABH-3813-2020; Spencer, Sarah/IAN-6514-2023
+OI Spencer, Sarah/0000-0002-7034-6387; Muller, Alex/0000-0002-3254-7591
+FU Ford Foundation
+FX This study was funded by Ford Foundation.
+NR 45
+TC 28
+Z9 28
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1742-4755
+J9 REPROD HEALTH
+JI Reprod. Health
+PD JAN 25
+PY 2018
+VL 15
+AR 12
+DI 10.1186/s12978-018-0462-2
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FT7SX
+UT WOS:000423354300001
+PM 29370809
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+EF

@@ -1,0 +1,1995 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gordana, DJ
+   Milivoje, P
+AF Gordana, Dedic J.
+   Milivoje, Panic
+TI Suicide Prevention Program in the Army of Serbia and Montenegro
+SO MILITARY MEDICINE
+LA English
+DT Article
+ID MILITARY
+AB Suicide, as one of the greatest problems of maladjustment to the military environment, has been a subject of investigation in the Army of Serbia and Montenegro (former Yugoslav Army) for more than six decades. The Suicide Prevention Program was implemented in December 2003. The aim of the study was to follow-up the application of the Suicide Prevention Program in the Army of Serbia and Montenegro and its effect on the suicide rate and to compare its incidence in civilians. Results of the program application showed that the number of suicides in the Army of Serbia and Montenegro was constantly reducing over the period 2004 to 2005. For soldiers, it was even four times less than in the civilian male population, particularly in the period of adaptation to the military environment. Since the Suicide Prevention Program in the Army of Serbia and Montenegro proved to be successful in decreasing the suicide number, it should be further improved and routinely applied.
+C1 Mil Med Acad, Dept Mental Hlth, Belgrade 17, Serbia.
+RP Gordana, DJ (corresponding author), Mil Med Acad, Dept Mental Hlth, Crnotravska 17, Belgrade 17, Serbia.
+NR 16
+TC 20
+Z9 20
+U1 0
+U2 5
+PU ASSOC MILITARY SURG US
+PI BETHESDA
+PA 9320 OLD GEORGETOWN RD, BETHESDA, MD 20814 USA
+SN 0026-4075
+EI 1930-613X
+J9 MIL MED
+JI Milit. Med.
+PD MAY
+PY 2007
+VL 172
+IS 5
+BP 551
+EP 555
+DI 10.7205/MILMED.172.5.551
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 167XC
+UT WOS:000246484800024
+PM 17521110
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, GJ
+   Dedic, S
+AF Dedic, Gordana J.
+   Dedic, Srdjan
+TI Gender differences in suicide in Serbia within the period 2011-2015
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE suicide; gender identity; risk factors; serbia
+ID COUNTRIES
+AB Background/Aim. The World Health Organisation (WHO) estrimates that approximately 1,000,000 people die by suicide every year. The aim of this study was to examine the gender differences in cases of committed suicides, including suicide rates, socio-demographic factors and methods of suicide in Serbia within the period 2011-2015. This investigation is continuing the previous investigation from the period 2006-2010. Methods. Data were obtained from the Statistical Office of the Republic of Serbia. Their classification related to the suicide method was carried out on the basis of International Classification of Diseases-Tenth Revions-Clinical Modification (ICD-X-CM) (WHO 1992). Statistical analysis was done by using the crude number of committed suicide. Results. Within the period 2011-2015, the total number of suicides in Serbia was 5,897, of which 74.56% were males and 25.44% females (male to female suicide ratio was 2.93). Annual suicide rate (per 100,000) showed constantly decreased from 2011 to 2015, and in 2015 it was 15. Male/female suicide ratio was the highest among adolescents and decreased with age. The suicide was the most often committed by married males (47.6%) and widowed females (38.86%) with completed high school, retired, Serbs. About a quarter (23.38%) suicide committers were older than 75 years, and 39.39% were older than 65 years. The most common suicide method males (64.63%) and females (59.00%) used was hanging, strangulation and suffocation. The second most common method males used was by firearm (18.96%) and females by poisoning (16.73%). Conclusions. Suicide Prevention Programme in Serbia should be primarily oriented towards two age groups at highest risk to commit suicide, towards the adolescents whose suicide was on the rise and towards the elderly male population, less ready to refer to the doctors for help because of problems related to their mental health. With the aim to suicide prevention, doctors should become familiar with community, state and national resources that are concerned with youth and elderly populations, including mental health institutions, family and crisis intervention centers.
+C1 [Dedic, Gordana J.] Mil Med Acad, Psychiat Clin, Crnotravska 17, Belgrade 11000, Serbia.
+   [Dedic, Gordana J.] Univ Def, Fac Med, Mil Med Acad, Belgrade, Serbia.
+   [Dedic, Srdjan] Clin Ctr Serbia, Clin Cardiol, Belgrade, Serbia.
+C3 University of Belgrade; Clinical Centre of Serbia
+RP Dedic, GJ (corresponding author), Mil Med Acad, Psychiat Clin, Crnotravska 17, Belgrade 11000, Serbia.
+EM sdedic@sezampro.rs
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 5
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PD DEC
+PY 2018
+VL 75
+IS 12
+BP 1165
+EP 1171
+DI 10.2298/VSP161127051D
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HH9XA
+UT WOS:000456093200002
+OA gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, G
+AF Dedic, Gordana
+TI Gender differences in suicide in Serbia within the period 2006-2010
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE suicide; serbia; gender identity; risk factors
+ID RISK-FACTORS; RATES; ARMY
+AB Background/Aim. The complex multifactorial etiology of suicide suggests the need to consider gender differences when developing effective strategies for suicide prevention. The aim of this study was to examine the suicide rates and/or trends obtained for population as a whole, including gender differences in cases of committed suicide and to consider factors (age groups, education, employment, marital status, nationality and methods) associated with it in Serbia within the period 2006-2010. Methods. Data were obtained from the Statistical Office of the Republic of Serbia. Their classification related to the suicide method was carried out on the basis of ICD-X Code, WHO 1992 (International Statistical Classification of Diseases and Related Health Problems 10th revision, World Health Organization). Statistical analysis was done by using the crude specific suicide rate. Results. Within the period 2006-2010 the total number of suicides in Serbia was 6,673, of which 71.9% were males and 28.1% females (male to female suicide ratio 2.56: 1). Their average rate was 18.15 per 100,000 persons, namely, 26.85 per 100,000 for males and 9.92 per 100,000 for females. Suicide was most often committed by married males and females with high school education, retired, by the Serbs. The suicide rate in Serbia increased paralelly with the age of suicide committers and it was the highest in subjects of both genders aged over 75 years. The most common suicide method in males (62.78%) and in females (58.38%) was hanging and strangling. The second most common method in males was by firearm (18.65%) and in females poisoning (19.26%). Conclusions. Suicide prevention Programme should be primarily oriented toward the male population because it is more exposed to stress in the period of social transition, but males are still less ready to ask for doctor's help when having some problems with mental health.
+C1 Mil Med Acad, Psychiat Clin, Belgrade 11000, Serbia.
+RP Dedic, G (corresponding author), Mil Med Acad, Psychiat Clin, Crnotravska 17, Belgrade 11000, Serbia.
+EM sdedic@sezampro.rs
+NR 24
+TC 12
+Z9 12
+U1 0
+U2 5
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PD MAR
+PY 2014
+VL 71
+IS 3
+BP 265
+EP 270
+DI 10.2298/VSP1403265D
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AU7TF
+UT WOS:000345801900006
+PM 24697013
+OA gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, G
+   Panic, M
+AF Dedic, Gordana
+   Panic, Milivoje
+TI Suicide risk factors in the professional military personnel in the Army
+   of Serbia
+SO VOJNOSANITETSKI PREGLED
+LA Serbian
+DT Article
+DE suicide; risk factors; military personnel; preventive health services;
+   serbia
+ID PEACEKEEPERS; IDEATION; FORCES; DEPRESSION; OCCUPATION; BEHAVIOR;
+   DENMARK; FAMILY
+AB Background/Aim. Recognition of suicide risk factors is important in taking adequate suicide preventive measures, Suicide Prevention Program for Professional Military Personnel (PMP) implemented in the Army of Serbia in 2003. The aim of our study was to establish suicide risk factors in PMP of the Army of Serbia. Methods. Analysis of suicide risk factors in PMP was carried out on the basis of data obtained by psychological suicide autopsy. The controls were demographically similar psychiatric outpatients with no history of suicidal behaviour. A descriptive statistics method was used for risk factors analysis. The t-test was used for testing statistical hypotheses. Results. A total of 30 PMP, aged 22-49 years (30.53 +/- 6.24 on average) committed suicide within the period 1998-2007. Distal suicide risk factors in PMP were considered to be not being married, psychiatric heredity, having no outpatient psychiatric treatment, gambling, regular physical practice (bodybuilding), less transfer to a different post, low motivation for military service (p < 0.001), not having children, parental loss in early childhood, alcohol abuse (P < 0.005), low salary (p < 0.01) uncompleted military school, debts in the family (p < 0.05). The commonest proximal suicide risk factors were: actual family problems (36.6%), actual mental problems (13.3%), burnout (13.3%), negative balance of accounts (13.3%), professional problems (6.7%), behavioral model while for 10.0% PMP suicide risk factors could not be established. Conclusion. According to the presence of multiple suicide risk factors, Suicide Prevention Program for PMP in the Army of Serbia is directed to the prevention of both proximal and distal suicide risk factors.
+C1 [Dedic, Gordana; Panic, Milivoje] Vojnomed Akad, Klin Psihijatriju Odeljenje Mentalno Zdravlje & V, Beograd, Serbia.
+RP Dedic, G (corresponding author), Gandijeva 100-44, Novi Beograd 11070, Serbia.
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 9
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PD APR
+PY 2010
+VL 67
+IS 4
+BP 303
+EP 312
+DI 10.2298/VSP1004303D
+PG 10
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 590EL
+UT WOS:000277207100007
+PM 20465159
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ilic, M
+   Ilic, I
+AF Ilic, M.
+   Ilic, I.
+TI Suicide in Serbia
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Epidemiology; Mortality trend; Joinpoint analysis
+ID ECONOMIC RECESSION; MORTALITY; IMPACT; TIME; REGRESSION; CRISIS; RATES
+AB Background: Suicide remains a significant public health problem worldwide. The aim of this study was to assess the mortality trend of suicide in Serbia for the years 1991-2014.
+   Methods: Data on persons who died of suicide and self-inflicted injury (site codes E950 -E959 revision 9 and X60 -X84 revision 10 of the International Classification of Diseases to classify death, injury and cause of death) were obtained from the Statistical Office of the Republic of Serbia. The age standardized rate was calculated by direct method (per 100,000 persons, using Segi's World population as standard population). Average annual percentage change (AAPC) with the corresponding 95% confidence interval (CI) was computed for trend using the joinpoint regression analysis.
+   Results: Total 33,930 (24,016 men and 9914 women) suicide deaths occurred in Serbia during the observed period, with the average annual age -standardized mortality rate being 12.7 per 100,000 inhabitants (19.5 per 100,000 in men and 6.7 per 100,000 in women). Suicide mortality in all age groups was higher among men than women. In both genders, suicide rates were highest in the oldest age group. Significantly decreased trend in suicide mortality was recorded continuously from 1991 to 2014 (AAPC=-1.9%, 95%CI -2.2 to -1.6). The most frequently used suicide method in both genders was hanging, strangulation or suffocation with 61.2% off all suicides. Changes in mortality rates were significant both for suicide by firearms, air guns and explosives (AAPC=-1.5% (AAPC=-1.5% in men and -3.1%-3.1% in women) and for suicide by hanging, strangulation, and suffocation (AAPC= - 1.2% (AAPC= -1.2% in men and -3.0%-3.0% in women). In men, nonsignificant increase in suicide by firearms, air guns and explosives observed during the period 1991-1997 (by + 6.1% per year) was followed by a significant decrease until 2014 (by -3.1% per year). The significantly increased mortality in suicide by firearms, air guns, and explosives was observed in older men (aged 40-69 years and 80 years and over).
+   Limitations: The low rate of autopsies in Serbia, as well as the accuracy, reliability and comparability of the suicide mortality data is always a question.
+   Conclusions: Downward trend in suicide mortality occurred in Serbia in last two decades. However, suicide rates are still very high in Serbia compared with the rates of suicides in developed countries. Particularly worrisome is the increase in mortality in older men, especially due to firearm suicides, air rifles, and explosives. Thus, additional efforts in the prevention of suicide are very important. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Ilic, M.] Univ Kragujevac, Dept Epidemiol, Fac Med Sci, S Markovica 69, Kragujevac 34000, Serbia.
+   [Ilic, I.] Univ Kragujevac, Fac Med Sci, Kragujevac, Serbia.
+C3 University of Kragujevac; University of Kragujevac
+RP Ilic, M (corresponding author), Univ Kragujevac, Dept Epidemiol, Fac Med Sci, S Markovica 69, Kragujevac 34000, Serbia.
+EM drmilenailic@yahoo.com
+RI Ilic, Milena/W-1498-2019; Ilic, Irena/T-8121-2019
+OI Ilic, Irena/0000-0001-5347-3264; Ilic, Milena/0000-0003-3229-4990
+FU Ministry of Education and Science of Republic of Serbia [175042]
+FX This work was supported by the Ministry of Education and Science of
+   Republic of Serbia, through Contract no. 175042.
+NR 38
+TC 12
+Z9 12
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD MAR 15
+PY 2016
+VL 193
+BP 187
+EP 193
+DI 10.1016/j.jad.2015.12.063
+PG 7
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA DD0BT
+UT WOS:000369586000028
+PM 26773920
+DA 2023-12-06
+ER
+
+PT J
+AU Banovic, B
+   Turanjanin, V
+   Corovic, E
+AF Banovic, Bozidar
+   Turanjanin, Veljko
+   Corovic, Emir
+TI Physician-assisted Suicide in Serbia
+SO IRANIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Physician-assisted suicide; Assisted suicide; Serbia; Legalization
+ID EUTHANASIA
+AB Background: Physician-assisted suicide is one of the features with very different legal solutions in the world. In Serbia, physician-assisted suicide is a crime, within a crime of the assisted suicide. The possibility of the legislation of the voluntary active euthanasia may open the door to the decriminalization of the physician-assisted suicide.
+   Methods: Data were obtained from the Clinical Hospital Center in Kragujevac, Republic of Serbia collected during 2015. The research included 88 physicians: 57 male physicians (representing 64.77% of the sample) and 31 female physicians (35.23% of the sample). Due to the nature, subject, and hypothesis of the research, the authors used descriptive method and the method of the theoretical content analysis.
+   Results: We have raised numerous questions. A slight majority of the physicians (58%) believes that physician-assisted suicide should be legalized, while 42% is for another solution. 90.9% took a viewpoint that it is completely unacceptable legalization of the physician-assisted suicide for all age groups, while the remaining 9.1% is to such legislative move. From the other side, 40.7% of respondents would prescribe a lethal dose of the medicament to the patient, who is in the terminal stage of the incurable disease, but, 59.3% would not do it. Interesting is that 13.8% of the physician had a patient who asked for the information how to commit suicide, and 12.5% gave them such information.
+   Conclusion: Physicians in Serbia are divided on this issue. The majority of them are for the legalization of medical assistance to suicide, but there is a strong division among them on various issues.
+C1 [Banovic, Bozidar] Univ Belgrade, Dept Criminal Law, Fac Secur Studies, Belgrade, Serbia.
+   [Turanjanin, Veljko] Univ Kragujevac, Dept Criminal Law, Fac Law, Kragujevac, Serbia.
+   [Corovic, Emir] State Univ Novi Pazar, Dept Criminal Law, Fac Law, Novi Pazar, Serbia.
+C3 University of Belgrade; University of Kragujevac
+RP Turanjanin, V (corresponding author), Univ Kragujevac, Dept Criminal Law, Fac Law, Kragujevac, Serbia.
+EM vturanjanin@jura.kg.ac.rs
+RI Banovic, Bozidar/R-6119-2019; Turanjanin, Veljko/AGR-0001-2022
+OI Banovic, Bozidar/0000-0001-9291-7091; Turanjanin,
+   Veljko/0000-0001-9029-0037
+FU Faculty of Law, University of Kragujevac; Clinical Hospital Center in
+   Kragujevac
+FX This work was supported by Faculty of Law, University of Kragujevac and
+   Clinical Hospital Center in Kragujevac.
+NR 26
+TC 2
+Z9 2
+U1 1
+U2 2
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 2251-6085
+EI 2251-6093
+J9 IRAN J PUBLIC HEALTH
+JI Iran J. Public Health
+PD APR
+PY 2018
+VL 47
+IS 4
+BP 538
+EP 545
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GE4MD
+UT WOS:000431189100009
+PM 29900138
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, G
+AF Dedic, Gordana
+TI World suicide prevention day
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Editorial Material
+ID RISK-FACTORS; SERBIA; ARMY
+C1 [Dedic, Gordana] Mil Med Acad, Psychiat Clin, Crnotrayska 17, Belgrade 11000, Serbia.
+   [Dedic, Gordana] Univ Def, Mil Med Acad, Fac Med, Belgrade, Serbia.
+C3 University of Belgrade
+RP Dedic, G (corresponding author), Mil Med Acad, Psychiat Clin, Crnotrayska 17, Belgrade 11000, Serbia.
+EM sdedic@sezampro.rs
+RI Rezaeian, Mohsen/C-6513-2008
+OI Rezaeian, Mohsen/0000-0003-3070-0166
+NR 15
+TC 1
+Z9 1
+U1 0
+U2 2
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PD SEP
+PY 2016
+VL 73
+IS 9
+BP 799
+EP 802
+DI 10.2298/VSP160701216D
+PG 4
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA DX9IA
+UT WOS:000384705600001
+PM 29320142
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ljusic, D
+   Ravanic, D
+   Tasic, MS
+   Danic, SF
+   Cvetkovic, J
+   Soldatovic, I
+AF Ljusic, Dragana
+   Ravanic, Dragan
+   Tasic, Mirjana Stojanovic
+   Danic, Snezana Filipovic
+   Cvetkovic, Jovana
+   Soldatovic, Ivan
+TI Characteristics of suicide in the city of Nis within the period
+   2000-2010
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE suicide; risk factors; comorbidity; mental disorders; psychophysiologic
+   disorders; serbia
+ID MENTAL-DISORDERS; RISK-FACTORS; PSYCHOLOGICAL AUTOPSY; BIPOLAR DISORDER;
+   CANCER-PATIENTS; TRENDS; DEPRESSION; MORTALITY; IDEATION; SERBIA
+AB Background/Aim. Suicide is a significant public health problem worldwide. Numerous factors contribute to suicide. The aim of this study was to investigate the characteristics of suicide in the city of Nis in the period 2001-2010. Methods. The retrospective study consisted of 608 persons divided into three groups: suicide committers with mental disorders, somatic disorders or without registered disorders. Data on socio-demographic characteristics, previous suicide attempts, methods of suicide and presuicidal syndrome were obtained from the Police Directorate for the city of Nis, Ministry of Internal Affairs, Republic of Serbia and from the Statistical Office of the Republic of Serbia. Results. Persons with mental disorders were the most prevalent group of people who committed suicide (54.3%), followed by persons without registered disorders (31.9%) and with somatic disorders (13.8%). Persons with mental disorders who committed suicide were most often divorced, with high school education, monthly salary and with at least one previous suicide attempt. The hanging was the most frequent method of committing suicide in all investigated groups, followed by self-poisoning using drugs or liquid substances. The presuicidal syndrome was significantly more frequent among persons with mental disorders compared to persons with somatic disorders or without registered disorders others (45.8% vs. 16.7%, and 45.8% vs. 28.4% respectively p < 0.001). Conclusion. Although the persons with mental disorders are in the greatest risk of suicide, they are under medical care. In this regard, the prevention programs should be directed towards persons with severe somatic disorders and to old persons without registered disorders.
+C1 [Ljusic, Dragana] Clin Hosp Ctr Gracanica, Clin Psychiat, Gracanica, Serbia.
+   [Ravanic, Dragan] Univ Kragujevac, Fac Med Sci, Chatedra Psychiat, Kragujevac, Serbia.
+   [Tasic, Mirjana Stojanovic; Danic, Snezana Filipovic; Cvetkovic, Jovana] Univ Pristina Kosovska Mitrovica, Fac Med, Chatedra Neuropsychiat, Kosovska Mitrovica, Serbia.
+   [Soldatovic, Ivan] Univ Belgrade, Fac Med, Inst Med Stat & Informat, Belgrade, Serbia.
+C3 University of Kragujevac; Universiteti i Prishtines; University of
+   Belgrade
+RP Ljusic, D (corresponding author), Clin Hosp Ctr Pristina Gracanica, Clin Psychiat, Gracanica 38205, Kosovo I Metohi, Serbia.
+EM drljusic@gmail.com
+RI Cvetkovic, Jovana Lj/AAL-2062-2020
+OI Cvetkovic, Jovana Lj/0000-0001-8223-9477; Soldatovic,
+   Ivan/0000-0003-4893-1683
+NR 45
+TC 1
+Z9 1
+U1 0
+U2 0
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PY 2018
+VL 75
+IS 8
+BP 749
+EP 755
+DI 10.2298/VSP160704371L
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HE7CN
+UT WOS:000453583000001
+OA gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, G
+AF Dedic, G.
+TI Gender differences in suicide in Serbia within the period 2006-2015
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Dedic, G.] Mil Med Acad, Psychiat Clin, New Belgrade, Serbia.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2018
+VL 48
+SU S
+MA EV0660
+BP S493
+EP S493
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HO9BQ
+UT WOS:000461256106186
+DA 2023-12-06
+ER
+
+PT J
+AU Il'in, MV
+AF Il'in, MV
+TI The war in Yugoslavia - From the victimization of Serbia to the suicide
+   of the west?
+SO RUSSIAN POLITICS AND LAW
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU M E SHARPE INC
+PI ARMONK
+PA 80 BUSINESS PARK DR, ARMONK, NY 10504 USA
+SN 1061-1940
+J9 RUSS POLIT LAW
+JI Russ. Polit. Law
+PD JAN-FEB
+PY 2000
+VL 38
+IS 1
+BP 69
+EP 73
+DI 10.2753/RUP1061-1940380169
+PG 5
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA 307DX
+UT WOS:000086638900007
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolic, S
+   Zivkovic, V
+AF Nikolic, Slobodan
+   Zivkovic, Vladimir
+TI Suicide - the monograph and suicide of Professor Milovan Milovanovic
+SO SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO
+LA Serbian
+DT Article
+DE suicide; forensic pathology; history of medicine; Serbia
+AB The Institute of Forensic Medicine, as part of the University School of Medicine in Belgrade, Serbia, was founded in 1923 by Professor Milovan Milovanovk (1884-1948). In addition to several medical textbooks in modern Serbian for medical students, as well as 37 original papers published in Serbian, German, and French medical journals, Professor Milovanovk also published a famous monograph entitled "Suicide" in 1929. In 1948, Professor Milovanovk himself committed suicide under obscure circumstances. The reason he committed suicide remains unknown. In this paper we tried to reconstruct the way he wrote his monograph using data from his hand-writing manuscripts preserved at the Institute of Forensic Medicine. Also, some new data about his suicide have been exposed. Since 2008, the Institute of Forensic Medicine in Belgrade has been named after Professor Milovan Milovanovk.
+C1 [Nikolic, Slobodan; Zivkovic, Vladimir] Univ Belgrade, Sch Med, Inst Forens Med, Belgrade, Serbia.
+C3 University of Belgrade
+RP Zivkovic, V (corresponding author), Inst Sudsku Med, Med Fak, Deligradska 31a, Belgrade 11000, Serbia.
+EM vladinmejl@yahoo.com
+RI Nikolić, Slobodan/AAT-1278-2021; Zivkovic, Vladimir/AAP-6213-2020
+OI Zivkovic, Vladimir/0000-0002-8242-9163; Nikolic,
+   Slobodan/0000-0001-5501-423X
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SRPSKO LEKARSKO DRUSTVO
+PI BEOGRAD
+PA UREDNISTVO CASOPISA SRPSKI ARHIV, UL DZORDZA VASINGTONA 19, BEOGRAD,
+   11000, SERBIA
+SN 0370-8179
+J9 SRP ARK CELOK LEK
+JI Srp. Ark. Celok. Lek.
+PD NOV-DEC
+PY 2018
+VL 146
+IS 11-12
+BP 700
+EP 706
+DI 10.2298/SARH180130029N
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HH9ZP
+UT WOS:000456102100016
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolic-Balkoski, G
+   Pavlicevic, V
+   Leposavic, LJ
+   Milovanovic, S
+   Laskovic, N
+   Barisic-Rojnic, J
+AF Nikolic-Balkoski, G.
+   Pavlicevic, V.
+   Leposavic, L. J.
+   Milovanovic, S.
+   Laskovic, N.
+   Barisic-Rojnic, J.
+TI Profile of males who have committed suicide in the capital of Serbia in
+   period 1997-2005
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 Inst Psychiat, CCS, Belgrade, Serbia.
+   Belgrade City Dept, Belgrade, Serbia.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD MAR
+PY 2007
+VL 22
+SU 1
+BP S329
+EP S329
+DI 10.1016/j.eurpsy.2007.01.1096
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 153YC
+UT WOS:000245473001151
+DA 2023-12-06
+ER
+
+PT J
+AU Simic, A
+   Misic, SM
+   Stojancov, SS
+   Ilic, G
+   Milosavljevic, B
+   Vujovic, M
+   Flaten, TP
+AF Simic, A.
+   Misic, S. Milicevic
+   Stojancov, S. Seskar
+   Ilic, G.
+   Milosavljevic, B.
+   Vujovic, M.
+   Flaten, T. P.
+TI Fatal pesticides-related self-poisonings in the southeastern region of
+   Serbia-Alarming increase in suicides calls for restrictions
+SO TOXICOLOGY LETTERS
+LA English
+DT Meeting Abstract
+CT 47th Congress of the European-Societies-of-Toxicology
+CY AUG 28-31, 2011
+CL Paris, FRANCE
+SP European Soc Toxicol
+C1 [Simic, A.; Flaten, T. P.] NTNU, Dept Chem, Trondheim, Norway.
+   [Misic, S. Milicevic; Stojancov, S. Seskar] Univ Clin Ctr, Dept Toxicol, Clin Endocrinol, Nish, Serbia.
+   [Ilic, G.; Milosavljevic, B.; Vujovic, M.] Inst Forens Med, Nish, Serbia.
+C3 Norwegian University of Science & Technology (NTNU)
+RI Flaten, Trond Peder/I-3756-2013
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0378-4274
+J9 TOXICOL LETT
+JI Toxicol. Lett.
+PD AUG 28
+PY 2011
+VL 205
+SU 1
+BP S234
+EP S234
+DI 10.1016/j.toxlet.2011.05.800
+PG 1
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Toxicology
+GA 806NI
+UT WOS:000293814500748
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolic-Balkoski, G
+   Leposavic, L
+AF Nikolic-Balkoski, Gordana
+   Leposavic, Ljubica
+TI Sociodemographic characteristics as suicide risk factors in Belgrade,
+   the capital of Serbia
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE suicide; serbia; socioeconomic factors; demography; risk factors
+ID COUNTRIES; EUROPE
+AB Background/Aim. Suicide and self-inflicted injuries are one of the leading causes of injury-related deaths worldwide. The aim of this work was to investigate sociodemographic characteristics as a risk factor for suicide. The investigation covered the period from 1997 to 2011 on the territory of the capital of Serbia, the city of Belgrade. Methods. The data was taken from the index books of suicides committed in the city of Belgrade, held at the Institute of Informatics and Statistics. Statistical analysis was done by using the crude specific rate. The variability of the rate was estimated by computing a confidence interval. Results. The average suicide rate in the observed period was 9.88. The suicide rate has shown a regular decline until 2005, and since then, a mild growth was observed (the highest in 2000, the lowest in 2004). The results of our study pointed out the following sociodemographic profile as a risk factor for suicide: male with uncompleted elementary school who lives in a suburban community, aged 66 and over. Suicides were usually realized in the area of residence during the day, in late spring, and hanging was the most frequent method of suicide. Conclusion. Preventive public health measures should be implemented focusing on typical socio-demographic profile. Prospective studies should include more variables in order to identify more risk factors for suicide and suicidal behavior. To achieve this goal, a serious national strategy for recording suicide and suicide prevention would have to be developed.
+C1 [Nikolic-Balkoski, Gordana; Leposavic, Ljubica] Univ Belgrade, Fac Med, Belgrade, Serbia.
+   [Nikolic-Balkoski, Gordana; Leposavic, Ljubica] Clin Ctr Serbia, Psychiat Clin, Belgrade, Serbia.
+C3 University of Belgrade; Clinical Centre of Serbia
+RP Nikolic-Balkoski, G (corresponding author), Clin Ctr Serbia, Pasterova 2, Belgrade 11000, Serbia.
+EM balkoski@sbb.rs
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PY 2017
+VL 74
+IS 12
+BP 1112
+EP 1116
+DI 10.2298/VSP150924304N
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA FP0DR
+UT WOS:000417270100002
+OA Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Petkovic, S
+   Maletin, M
+   Draskovic, D
+AF Petkovic, Stojan
+   Maletin, Miljen
+   Draskovic, Dragan
+TI Nonterrorist suicides using hand grenades on the territory of the
+   Autonomous Province of Vojvodina, Serbia, from 1990 to 2009
+SO INTERNATIONAL JOURNAL OF LEGAL MEDICINE
+LA English
+DT Article
+DE Suicide; Hand grenades; War; Posttraumatic stress disorder; Explosive
+   wounds; Vojvodina
+ID DEATHS
+AB Suicides using hand grenades are very rare. The aim of this retrospective study was to evaluate the cases of nonterrorist suicides using hand grenades according to the number of cases per year, sex, age categories, season of the year, day of the week, ethanol blood level, type of hand grenade, pattern of injuries, risk factors, and suicide place over a 20-year period, from 1990 to 2009 in Vojvodina, Serbia. The total number of the cases in this period was 81, with the highest number of cases in 1997 and 2002. Twelwe victims were part of six double suicides, where one grenade was used to commit suicide to both victims. The results highlighted male predominance of the victims, sober state, the use of military hand grenades (M75 and M52 type), posttraumatic stress disorder due to participation in military clashes as the main risk factor, and countryside as the place of suicide.
+C1 [Petkovic, Stojan; Maletin, Miljen; Draskovic, Dragan] Univ Novi Sad, Dept Forens Med, Fac Med, Novi Sad 21000, Serbia.
+C3 University of Novi Sad
+RP Petkovic, S (corresponding author), Univ Novi Sad, Dept Forens Med, Fac Med, Hajduk Veljkova 7-9, Novi Sad 21000, Serbia.
+EM pstojan@eunet.rs
+OI Maletin, Miljen/0000-0002-4135-0758
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0937-9827
+EI 1437-1596
+J9 INT J LEGAL MED
+JI Int. J. Legal Med.
+PD JAN
+PY 2013
+VL 127
+IS 1
+BP 225
+EP 229
+DI 10.1007/s00414-012-0689-3
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 065QR
+UT WOS:000313164100030
+PM 22395922
+DA 2023-12-06
+ER
+
+PT J
+AU Dokmanovic, M
+AF Dokmanovic, Mirjana
+TI Invisible Victims of Non-ethical Reporting on Suicide in Serbia
+SO TEMIDA
+LA Unspecified
+DT Article
+DE Code of Ethics of Serbian Journalists; invisible victims; responsible
+   media reporting; suicide prevention; suicide in Serbia; Serbia
+AB The subject of this paper is the analysis of the way the daily printing in Serbia is engaged in the reporting on suicide and the level of respect of the Code of Ethics of Serbian Journalists. The aim of thee paper is to present and analyse the findings of the research on the manner of reporting on cases of suicide in electronic editions of eight daily newspapers in the period from 1st January to 30th September 2018. Both quantitative and qualitative analysis of the media content, including photographs and video footage was performed. The research findings showed that only two dailies out of eight fully followed the professional and ethical conduct for journalists. In total, 223 articles have been published about cases of suicide. Out of this number, the Code of Ethics has been violated in 147 articles (65.9%). In 40 articles media un-ethically reported on cases of suicide of children and minors. The most frequent methods of the Code of Ethics' violations include: disrespect of dignity, privacy and grief of people who have experienced the death from suicide of a loved one, publishing photographs of the scene of a given suicide, and pictures of an individual who has died by suicide and of his/her family members, and using language which sensationalises suicide.
+   Due to unethical reporting, members of the family of the persons who committed suicide have been exposed to additional trauma and stigmatization, thus becoming invisible victims of irresponsible media reporting. The analysis of the legal and institutional framework has shown that mechanisms for the protection of their right to privacy and dignity are in place. Beside court protection, the victims of non-ethical reporting may seek protection from the Press Council, an independent self-regulatory body that has been established for monitoring the observance of the Code of Ethics and solving complaints made by individuals and institutions related to media content. However, it has been found that the traumatised and stigmatised family members very rarely use these opportunities provided. The analysis of the complaint proceedings before the Press Complaints Commission from the beginning of its work in September 2011 to 2019 showed that only three persons filed complaints against media seeking protection of their right to privacy and dignity.
+C1 [Dokmanovic, Mirjana] Inst Social Sci, Ctr Legal Res, Belgrade, Serbia.
+RP Dokmanovic, M (corresponding author), Inst Social Sci, Ctr Legal Res, Belgrade, Serbia.
+EM mdokmanovic@idn.org.rs
+RI Dokmanovic, Mirjana/R-8246-2019
+OI Dokmanovic, Mirjana/0000-0002-1070-3514
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 2
+PU VICTIMOLOGY SOC SERBIA EUROPEAN MOVEMENT SERBIA
+PI BELGRADE
+PA DOSITEJEVA 1A-IV, BELGRADE, 11000, SERBIA
+SN 1450-6637
+J9 TEMIDA
+JI Temida
+PY 2019
+VL 22
+IS 3
+BP 263
+EP 288
+DI 10.2298/TEM1903263D
+PG 26
+WC Criminology & Penology
+WE Emerging Sources Citation Index (ESCI)
+SC Criminology & Penology
+GA KF9BV
+UT WOS:000509532500002
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Petrovich, B
+   Tiodorovich, B
+   Kocich, B
+   Cvetkovich, M
+   Blagojevich, L
+AF Petrovich, B
+   Tiodorovich, B
+   Kocich, B
+   Cvetkovich, M
+   Blagojevich, L
+TI Influence of socio-economic crisis on epidemiological characteristic of
+   suicide in the region of Nis (southeastern part of Serbia, Yugoslavia)
+SO EUROPEAN JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE epidemiology; socio-economic crisis; suicide
+ID SEASONAL-VARIATION; BEHAVIOR
+AB It is well known that gross social crises greatly influence the change in epidemiological features of suicide. The aim of this study is to determine whether the social-economic crisis in Yugoslavia influenced the change in epidemiological features of suicide in the region of Nis (southeastern Serbia). The material included death certificates for 1987-1999. The rates were calculated per 100,000 inhabitants (1991 Census) and standardization was performed by direct method (Segi's world population was used as standard population). Generally, trends for suicide rates in the region of Nis from 1987 to 1999 have decreasing tendency among both sexes. The average annual suicide rate in the region during the period 1987/1989 (relatively economically and politically stable) was 14.8 among males, and 6.8 among females. In 1999 (maximum influence of socio-economical and political crisis) suicide rate among males was 13.8 and among females it was 3.7. The decrease in suicide rate in females can be observed in all age groups, and in males in the age groups 15-29 and 50-64. During 1999, compared to 1987/1989, the increase in the number of suicides is perceived in the summer months (1999 - 41.5%; 95% CI: 30.8-52.2%; 1987/1989 - 23.8%; 95% CI: 18.9-28.7%), as well as the decrease of suicide on Monday (1987/1989 - 21.2%; 95% CI: 16.2-26.1%; 1999 - 9.8%; 95% CI: 3.4-16.2%). During 1999 the rate of suicides committed by fire arms increased (from 8.1 to 14.5%), while there was a decrease in poisoning, in both males (from 26.3 to 9.7%; p < 0.05) and females (from 39.1 to 10.0%; p < 0.05). During 1999 significant changes in epidemiological features of suicide were registered, compared to 1987/1989. These changes were probably enhanced by changed socio-economic factors (primarily war action and the bombing of Serbia, as well as the decline of standard of living and other aspects of economic and political crisis), which requires additional, more complete and thorough research.
+C1 Inst Hlth Protect, Nish, Yugoslavia.
+RP Petrovich, B (corresponding author), Inst Zastitu Zdravlja, B Taskovic 50, YU-18000 Nish, Serbia, Yugoslavia.
+NR 20
+TC 12
+Z9 13
+U1 0
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0393-2990
+EI 1573-7284
+J9 EUR J EPIDEMIOL
+JI Eur. J. Epidemiol.
+PY 2001
+VL 17
+IS 2
+BP 183
+EP 187
+DI 10.1023/A:1017909904769
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 471XG
+UT WOS:000170953500013
+PM 11599694
+DA 2023-12-06
+ER
+
+PT J
+AU Labas, SD
+AF Labas, Sladana Dragisic
+TI Suicidal Behavior in Prison
+SO SOCIOLOGIJA
+LA Croatian
+DT Article
+DE suicidal behavior; convicts; prison environment; prevention
+AB This paper considers suicidal behavior (presence of suicidal thoughts, self-harm, attempted and executed suicide) among prison inmates in Serbia, investigating the causes of such behavior conditioned by incarceration and the specific conditions of the prison environment. It draws upon secondary literature while analyzing "The Report on Prisons in Serbia" issued by the Directorate for the Execution of Criminal Sanctions. It has been found that the insufficiently developed and dysfunctional formal system significantly affects the prison community and the mental health of inmates. Therefore, formal support, which implies a more agreeable prison atmosphere and culture, good communication and cooperation between staff and convicts and various suicide prevention programs, could reduce the high rates of suicidal behavior.
+C1 [Labas, Sladana Dragisic] Univ Beogradu, Filozofski Fak, Belgrade, Serbia.
+C3 University of Belgrade
+RP Labas, SD (corresponding author), Univ Beogradu, Filozofski Fak, Belgrade, Serbia.
+EM sladjadl@yahoo.com
+NR 25
+TC 0
+Z9 0
+U1 5
+U2 11
+PU UNIV BELGRADE, FAC PHILOSOPHY
+PI BELGRADE
+PA CIKA LJUBINA 18-20, BELGRADE, 11000, SERBIA
+SN 0038-0318
+J9 SOCIOLOGIJA
+JI Sociologija
+PY 2018
+VL 60
+IS 4
+BP 786
+EP 798
+DI 10.2298/SOC1804788D
+PG 13
+WC Sociology
+WE Emerging Sources Citation Index (ESCI)
+SC Sociology
+GA HJ5FP
+UT WOS:000457204200004
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Miletic, V
+   Lukovic, JA
+   Ratkovic, N
+   Aleksic, D
+   Grgurevic, A
+AF Miletic, Vladimir
+   Lukovic, Jasminka Adzic
+   Ratkovic, Nevena
+   Aleksic, Danijela
+   Grgurevic, Anita
+TI Demographic risk factors for suicide and depression among Serbian
+   medical school students
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Suicide prevalence; College students; Risk factors; Depression
+ID RELIGION; BEHAVIOR
+AB The purpose of the study was to identify demographic risk factors associated with depression and suicidality among medical school students in Serbia, as well as to determine the prevalence of symptoms of depression and suicide attempts in the student population.
+   This was a cross-sectional study conducted on the sample of 1,296 students recruited from the School of Medicine, University of Belgrade. Following questionnaires were assigned to participating subjects: PHQ-9, Suicide Behaviors Questionnaire, and Social-demographic survey.
+   PHQ-9 scores in our sample ranged from 0 to 27, averaging at 6.21 (SD = 4.96). Symptoms of depression were associated with grade point average, age, relationship status, and gender. Reported history of suicide attempts was associated with PHQ-9 scores, grade point average, relationship status, gender, history of mental illness and drug use.
+   Our findings suggest that medical school students in Serbia may be considered an "at-risk" population. Preventative programs in the future should target symptoms of depression and should provide students with adequate mechanisms to cope successfully with school-related pressure. Alternative stress management strategies may also be useful, especially for younger students who seem to be at greater risk for depression and suicide.
+C1 [Miletic, Vladimir] Assoc Mental Hlth Promot, Belgrade, Serbia.
+   [Lukovic, Jasminka Adzic] Univ Belgrade, Sch Med, Belgrade 11129 102, Serbia.
+   [Ratkovic, Nevena; Aleksic, Danijela; Grgurevic, Anita] Clin Ctr Serbia, Belgrade, Serbia.
+   [Grgurevic, Anita] Univ Belgrade, Inst Epidemiol, Sch Med, Belgrade 11129 102, Serbia.
+C3 University of Belgrade; Clinical Centre of Serbia; University of
+   Belgrade
+RP Miletic, V (corresponding author), Assoc Mental Hlth Promot, Belgrade, Serbia.
+EM vdmiletic@gmail.com; anita.grgurevic@gmail.com
+FU Ministry of Science and Technology Development [175087]
+FX Supported by the Ministry of Science and Technology Development through
+   contract No. 175087.
+NR 25
+TC 33
+Z9 35
+U1 1
+U2 20
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD APR
+PY 2015
+VL 50
+IS 4
+BP 633
+EP 638
+DI 10.1007/s00127-014-0950-9
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA CD9RU
+UT WOS:000351436700014
+PM 25205334
+DA 2023-12-06
+ER
+
+PT J
+AU Radovanovic, S
+   Vasiljevic, D
+   Milosavljevic, M
+   Simic-Vukomanovic, I
+   Radevic, S
+   Mihailovic, N
+   Kocic, S
+AF Radovanovic, Snezana
+   Vasiljevic, Dragan
+   Milosavljevic, Mirjana
+   Simic-Vukomanovic, Ivana
+   Radevic, Svetlana
+   Mihailovic, Natasa
+   Kocic, Sanja
+TI EPIDEMIOLOGY OF SUICIDAL BEHAVIOUR IN SHUMADIA DISTRICT, SERBIA: A
+   FIFTEEN-YEAR RETROSPECTIVE STUDY
+SO CENTRAL EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE suicide; epidemiology; risk factors
+ID RISK; PREVENTION
+AB Objectives: The purpose of this study is to analyze epidemiological characteristics of suicide, as well as to emphasize possible risk factors.
+   Methods: This is a retrospective study, covering the period of fifteen years (1996-2010), which aims at discovering the relevant factors which have an influence on suicidal behaviour. This research uses the data from the documentation of the Ministry of Internal Affairs of Serbia and Police Department in Kragujevac, hospitalization reports of patients treated at Psychiatric Clinic of the Clinical Centre Kragujevac, as well as the medical records of patients treated at the Health Centre Kragujevac. X-2 test was applied to examine the influence of all selected factors on incidence of suicide and for this purpose SPSS statistical software package was used.
+   Results: The analysis has shown that during the given period average suicide rate reached 11.8 per population of 100,000. The male to female suicide ratio of 3.6:1 obtained through this study suggests that men (78.4%) are more prone to suicide than women (21.6%). The highest number of suicides has been found within the age group of 65-year-olds (31.2%), while for the youngest age group (15-24 years) the lowest prevalence of 8.8% has been determined. In other words, the youngest subjects are 3.5 times less likely to commit suicide than the participants of the oldest age group. During the given period suicide was most often committed by married males and females with primary school education than by employed and retired people. The research has also revealed that most suicides came from urban areas (52.0%) and that the most common method of suicide is hanging (60.8%), followed by suicide by firearms, jumping from height, poisoning, and drowning.
+   Conclusion: In order to prevent suicide, it is essential to collect and analyze all information concerning suicide victims.
+C1 [Radovanovic, Snezana; Vasiljevic, Dragan; Milosavljevic, Mirjana; Simic-Vukomanovic, Ivana; Mihailovic, Natasa; Kocic, Sanja] Inst Publ Hlth, Nikole Pasica 1, Kragujevac 34000, Serbia.
+   [Radevic, Svetlana] Univ Kragujevac, Fac Med, Dept Social Med, Kragujevac, Serbia.
+C3 University of Kragujevac
+RP Radovanovic, S (corresponding author), Inst Publ Hlth, Nikole Pasica 1, Kragujevac 34000, Serbia.
+EM jovanarad@yahoo.com
+RI Radevic, Svetlana/ABC-2710-2020
+OI Simic Vukomanovic, Ivana/0000-0003-0753-6740; Radovanovic,
+   Snezana/0000-0002-9301-6946; Radevic, Svetlana/0000-0001-7329-1310;
+   Radovanovic, Snezana/0000-0002-3085-5021; Vasiljevic,
+   Dragan/0000-0003-3841-9002; Mihailovic, Natasa/0000-0001-5014-3171
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 1
+PU NATL INST PUBLIC HEALTH
+PI PRAGUE 10
+PA DEPT SCIENTIFIC INFORMATION, SROBAROVA 48, PRAGUE 10, 100 42, CZECH
+   REPUBLIC
+SN 1210-7778
+EI 1803-1048
+J9 CENT EUR J PUBL HEAL
+JI Cent. Eur. J. Public Health
+PD MAR
+PY 2017
+VL 25
+IS 1
+BP 41
+EP 45
+DI 10.21101/cejph.a4306
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EU3TH
+UT WOS:000400953400007
+PM 28399354
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Mihailovic, Z
+   Savic, S
+   Damjanjuk, I
+   Jovanovic, A
+   Vukovic, S
+AF Mihailovic, Zoran
+   Savic, Slobodan
+   Damjanjuk, Irina
+   Jovanovic, Aleksandar
+   Vukovic, Simo
+TI Suicides among Serbian War Veterans - An Autopsy Study
+SO SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO
+LA English
+DT Article
+DE veterans; suicide; autopsy; Serbia
+ID POSTTRAUMATIC-STRESS-DISORDER; VIETNAM VETERANS; RISK; SUICIDALITY;
+   MORTALITY; PTSD
+AB Introduction The risk of suicide among war veterans is a controversial issue, where findings so far have been contradictory.
+   Objective This study focusses on suicide in Serbian veterans from the wars in former Yugoslavia in the 1990s in order to create appropriate preventive measures and reduce the number of these fatal cases.
+   Methods The autopsy protocols of all 44 suicides committed by war veterans in the Belgrade District population over a period between 1992 and 2000 were investigated. Data were obtained from autopsy records, results of toxicological investigations and psychological autopsy protocols.
+   Results Symptoms of posttraumatic stress disorder were present in 27.3%, major depression in 9.1% and schizophrenia in 6.8% of veterans. The majority of suicides (84.1%) were committed by recruits in the Yugoslav National Army, spending between three and eight months in the zone of war operations. Six committed suicide during the first 30 days after their war activities, while the majority of suicides occurred between five and six years after combat. The most frequent manner of suicide was the use of handguns (56.8%) and bombs (18.2%).
+   Conclusion The results of this research may give useful information about the individuals with the highest suicidal risk in order to alleviate the consequences of war psychotraumas in veterans and prevent their growth into a permanent handicap or suicide.
+C1 [Mihailovic, Zoran; Savic, Slobodan; Damjanjuk, Irina] Univ Belgrade, Sch Med, Inst Forens Med Milovan Milovanovic, Belgrade, Serbia.
+   [Jovanovic, Aleksandar] Clin Ctr Serbia, Inst Psychiat, Dept Forens Psychiat, Belgrade, Serbia.
+   [Jovanovic, Aleksandar] Univ Belgrade, Sch Med, Belgrade, Serbia.
+   [Vukovic, Simo] Univ Peace United Nations, European Ctr Peace & Dev ECPD, Belgrade, Serbia.
+C3 University of Belgrade; Clinical Centre of Serbia; University of
+   Belgrade
+RP Mihailovic, Z (corresponding author), Inst Forens Med, Deligradska 31a, Belgrade 11000, Serbia.
+EM mihailovic@med.bg.ac.rs
+RI Mihailovic, Zoran/P-5867-2016
+OI Banjanin, Irina/0009-0007-9292-7346
+FU Ministry of Education, Science and Technological Development (OI) of the
+   Republic of Serbia [175093]
+FX The work of Zoran Mihailovic and Slobodan Savic was partly supported by
+   the Ministry of Education, Science and Technological Development (OI No
+   175093) of the Republic of Serbia.
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 3
+PU SRPSKO LEKARSKO DRUSTVO
+PI BEOGRAD
+PA UREDNISTVO CASOPISA SRPSKI ARHIV, UL DZORDZA VASINGTONA 19, BEOGRAD,
+   11000, SERBIA
+SN 0370-8179
+J9 SRP ARK CELOK LEK
+JI Srp. Ark. Celok. Lek.
+PD SEP-OCT
+PY 2015
+VL 143
+IS 9-10
+BP 590
+EP 594
+DI 10.2298/SARH1510590M
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA DD1ZN
+UT WOS:000369722100012
+PM 26727868
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Devries, K
+   Watts, C
+   Yoshihama, M
+   Kiss, L
+   Schraiber, LB
+   Deyessa, N
+   Heise, L
+   Durand, J
+   Mbwambo, J
+   Jansen, H
+   Berhane, Y
+   Ellsberg, M
+   Garcia-Moreno, C
+AF Devries, Karen
+   Watts, Charlotte
+   Yoshihama, Mieko
+   Kiss, Ligia
+   Schraiber, Lilia Blima
+   Deyessa, Negussie
+   Heise, Lori
+   Durand, Julia
+   Mbwambo, Jessie
+   Jansen, Henrica
+   Berhane, Yemane
+   Ellsberg, Mary
+   Garcia-Moreno, Claudia
+CA WHO Multicountry Study Team
+TI Violence against women is strongly associated with suicide attempts:
+   Evidence from the WHO multi-country study on women's health and domestic
+   violence against women
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Intimate partner violence; Sexual violence; Childhood sexual abuse;
+   Suicidal behaviour; Women; Gender; Developing countries
+ID INTIMATE-PARTNER VIOLENCE; MENTAL-HEALTH; RISK-FACTORS; PREVALENCE;
+   IDEATION; ABUSE; PREVENTION; COMMUNITY; OUTCOMES; COHORT
+AB Suicidal behaviours are one of the most important contributors to the global burden of disease among women, but little is known about prevalence and modifiable risk factors in low and middle income countries. We use data from the WHO multi-country study on women's health and domestic violence against women to examine the prevalence of suicidal thoughts and attempts, and relationships between suicide attempts and mental health status, child sexual abuse, partner violence and other variables. Population representative cross-sectional household surveys were conducted from 2000-2003 in 13 provincial (more rural) and city (urban) sites in Brazil, Ethiopia, japan, Namibia, Peru, Samoa, Serbia, Thailand and Tanzania. 20967 women aged 15-49 years participated. Prevalence of lifetime suicide attempts, lifetime suicidal thoughts, and suicidal thoughts in the past four weeks were calculated, and multivariate logistic regression models were fit to examine factors associated with suicide attempts in each site. Prevalence of lifetime suicide attempts ranged from 0.8% (Tanzania) to 12.0% (Peru city): lifetime thoughts of suicide from 7.2% (Tanzania province) to 29.0% (Peru province), and thoughts in the past four weeks from 1.9% (Serbia) to 13.6% (Peru province). 25-50% of women with suicidal thoughts in the past four weeks had also visited a health worker in that time. The most consistent risk factors for suicide attempts after adjusting for probable common mental health disorders were: intimate partner violence, non-partner physical violence, ever being divorced, separated or widowed, childhood sexual abuse and having a mother who had experienced intimate partner violence. Mental health policies and services must recognise the consistent relationship between violence and suicidality in women in low and middle income countries. Training health sector workers to recognize and respond to the consequences of violence may substantially reduce the health burden associated with suicidal behaviour. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Devries, Karen; Watts, Charlotte; Kiss, Ligia; Heise, Lori] London Sch Hyg & Trop Med, London WC1H 0DP, England.
+   [Yoshihama, Mieko] Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+   [Schraiber, Lilia Blima; Durand, Julia] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+   [Deyessa, Negussie; Berhane, Yemane] Addis Abbaba Univ, Addis Ababa, Ethiopia.
+   [Jansen, Henrica; Garcia-Moreno, Claudia] World Hlth Org, Geneva, Switzerland.
+C3 University of London; London School of Hygiene & Tropical Medicine;
+   University of Michigan System; University of Michigan; Universidade de
+   Sao Paulo; Addis Ababa University; World Health Organization
+RP Devries, K (corresponding author), London Sch Hyg & Trop Med, 36 Gordon Sq, London WC1H 0DP, England.
+EM karen.devries@lshtm.ac.uk
+RI Schraiber, Lilia B/B-5708-2014; Berhane, Yemane/ABB-8154-2020; Heise,
+   LORI/AAI-6251-2020; Devries, Karen/K-1083-2016
+OI Devries, Karen/0000-0001-8935-2181; Berhane, Yemane/0000-0002-2527-1339;
+   Jansen, Henrica A.F.M./0009-0005-3691-049X; Kiss,
+   Ligia/0000-0002-3334-7110; Naved, Ruchira/0000-0002-0363-5648
+NR 61
+TC 343
+Z9 378
+U1 3
+U2 144
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+EI 1873-5347
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD JUL
+PY 2011
+VL 73
+IS 1
+BP 79
+EP 86
+DI 10.1016/j.socscimed.2011.05.006
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA 799DK
+UT WOS:000293263500010
+PM 21676510
+DA 2023-12-06
+ER
+
+PT J
+AU Giltay, EJ
+   Zitman, FG
+   Menotti, A
+   Nissinen, A
+   Jacobs, DR
+   Adachi, H
+   Kafatos, A
+   Kromhout, D
+AF Giltay, Erik J.
+   Zitman, Frans G.
+   Menotti, Alessandro
+   Nissinen, Aulikki
+   Jacobs, David R., Jr.
+   Adachi, Hisashi
+   Kafatos, Antony
+   Kromhout, Daan
+CA Seven Countries Study Grp
+TI Respiratory function and other biological risk factors for completed
+   suicide: 40 years of follow-up of European cohorts of the Seven
+   Countries Study
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Violence; Respiratory function; Risk factors; Middle-aged men;
+   Socio-economic status; Forced vital capacity
+ID BODY-MASS INDEX; SERUM-CHOLESTEROL; UNITED-STATES; LUNG-FUNCTION; MEN;
+   ASSOCIATION; MORTALITY; HEIGHT; DEATH; IDEATION
+AB Background: Prospective cohort studies on biological risk factors of completed suicide are scarce. We aimed to test which biological risk factors independently identify subjects at increased risk of suicidal death.
+   Methods: In the prospective cohort of the Seven Countries Study, 5,321 middle-aged men from Finland, Serbia, Italy, and Greece were included. Completed suicide (ICD-8 codes E950-959) was assessed during 40 years of follow-up. Biological cardiovascular risk factors (including forced vital capacity [FVC] and height) were tested for their role as predictors in multivariable Cox models stratified by country.
+   Results: There were 4518 deaths during follow-up, with 64 from suicide (1.4%). In univariable models, only FVC and height were strongly inversely related with suicide. Socio-economic status and being unmarried were potential confounders. In multivariable models taking these confounders into account, both a low FVC (0.30 for top vs. lowest quartile: 95% CI: 0.12-0.76: P=0.006 for trend) and a low FVC/height ratio (0.37 for top vs. lowest quartile; 95% CI: 0.17-0.82; P=0.004 for trend) were strongly inversely related with completed suicide.
+   Limitations: Information oil proximal causes, such as prior Suicidal ideation, emotional distress and depression, was lacking at baseline.
+   Conclusions: Poor respiratory function in middle-aged men was an independent risk factor for completed suicide. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Giltay, Erik J.; Zitman, Frans G.] Leiden Univ, Med Ctr, Dept Psychiat, NL-2300 RC Leiden, Netherlands.
+   [Menotti, Alessandro] Assoc Cardiac Res, Rome, Italy.
+   [Nissinen, Aulikki] Natl Publ Hlth Inst, Dept Epidemiol & Hlth Promot, Helsinki, Finland.
+   [Jacobs, David R., Jr.; Kromhout, Daan] Univ Minnesota, Sch Publ Hlth, Div Epidemiol & Community Hlth, Minneapolis, MN USA.
+   [Adachi, Hisashi] Kurume Univ, Sch Med, Div Cardiovasc Med, Dept Internal Med, Kurume, Fukuoka 830, Japan.
+   [Kafatos, Antony] Univ Crete, Sch Med, Dept Prevent Med, Iraklion, Crete, Greece.
+   [Kafatos, Antony] Univ Crete, Sch Med, Nutr Clin, Iraklion, Crete, Greece.
+   [Kromhout, Daan] Wageningen Univ, Div Human Nutr, Wageningen, Netherlands.
+C3 Leiden University - Excl LUMC; Leiden University; Leiden University
+   Medical Center (LUMC); Finland National Institute for Health & Welfare;
+   University of Minnesota System; University of Minnesota Twin Cities;
+   Kurume University; University of Crete; University of Crete; Wageningen
+   University & Research
+RP Giltay, EJ (corresponding author), Leiden Univ, Med Ctr, Dept Psychiat, POB 9600, NL-2300 RC Leiden, Netherlands.
+EM giltay@dds.nl
+RI Kromhout, Daan/A-8566-2014; Giltay, Erik J./AAL-9948-2021; Zitman, Frans
+   G./E-7705-2010
+OI Giltay, Erik/0000-0001-8874-2292; Jacobs, David/0000-0002-7232-0543
+FU National Heart, Lung, and Blood Institute, Bethesda, Md, US [HE 04697,
+   HE 6090, HE 00278]
+FX The authors acknowledge the late Professor Ancel Keys, who was founder
+   and leader of the Seven Countries Study for many years. Appreciation is
+   also expressed to the first and second generation of principal
+   investigators in each country participating in the Seven Countries
+   Study.; The Seven Countries Study was funded by grants HE 04697, HE
+   6090, and HE 00278 from the National Heart, Lung, and Blood Institute,
+   Bethesda, Md, US. The funding source had no role in the design, data
+   collection, interpretation and writing of the manuscript.
+NR 30
+TC 20
+Z9 20
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD JAN
+PY 2010
+VL 120
+IS 1-3
+BP 249
+EP 253
+DI 10.1016/j.jad.2009.03.022
+PG 5
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA 547RP
+UT WOS:000273907100037
+PM 19410295
+DA 2023-12-06
+ER
+
+PT J
+AU Gajic, V
+   Milojevic, D
+   Smailagic, J
+   Donovic, N
+   Matejic, S
+   Gajic, S
+AF Gajic, Vladimir
+   Milojevic, Dragan
+   Smailagic, Jasminka
+   Donovic, Nela
+   Matejic, Suzana
+   Gajic, Sanja
+TI Influence of biometeorological phases on incidence of suicides
+SO MEDICINSKI GLASNIK
+LA Serbo-Croatian
+DT Article
+DE suicide incidence; biometeorological phases; weather conditions
+ID SEASONAL-VARIATION; UNITED-STATES; WEATHER; ADOLESCENTS; DISORDERS;
+   MORTALITY; BEHAVIOR; CHILDREN; RISK
+AB Aim To establish an influence of biometeorological phases on suicide incidence according to age, gender, settlement, week days, months in a year, ways of suicide execution, influence of biometeorologic phases on suicide execution.
+   Methods Comparative analysis of the data about suicides (by years, months, week days, settlements, age, gender) obtained by the Police Department in Kragujevac for the 2004-2008 period and everyday biometeorological phases (phase 1 CWD: cyclone, warm, dry; phase 2 CWW: cyclone, warm, wet; phase 3 CWF: cyclone, warm front; phase 4 CCF: cyclone cold front; phase 5 CCW: cyclone, cold, wet; phase 6 CCD: cyclone, cold, dry; phase 7 ACD: anticyclone, cold, dry; phase 8 ACW: anticyclone, cold, wet; phase 9 AWD: anticyclone, warm, dry; phase 10 AWW: anticyclone, warm, wet) in Kragujevac determinated by the Republic Hydrometeorology Institute of Serbia.
+   Results In the observed period there were 144 suicides resulting in the incidence rate of 14/100 000/year. The highest number of suicides was noted in 2005 (36), and lowest one in 2007 (24). The most suicide cases happened in January and June (18 in each), and the fewest in August (7). Three quarters occurred in urban areas. Three quarters of victims were males mostly in the age groups 41-45 and 51-55 (11 in each). Females made one quarter of victims and most of them were in the age group 61-65 years (7). Total mean age was 54,66 years. Two thirds of all suicides were executed by hanging (93) (two thirds were among males), one sixth by firearms, with nine tenths of men. The most incidents with significant correlation were in biometheorological phases 4 and 9 (stable sunny weather and sudden impact of weather fronts, with sudden weather changes) (38 in each), which makes over a half of all suicides.
+   Conclusion According to the results of this study, it is strongly recommended to monitor everyday biometeorological forecast, and special attention must be paid to all persons with suicide tendencies.
+C1 [Gajic, Vladimir; Milojevic, Dragan] Zavod Hitnu Med Pomoc Kragujevac, Kragujevac 34000, Serbia.
+   [Smailagic, Jasminka] Repub Hidrometeoroloski Zavod Srbije, Kragujevac, Serbia.
+   [Donovic, Nela] Inst Javno Zdravlje Kragujevcu, Kragujevac, Serbia.
+   [Matejic, Suzana] Univ Kragujevcu, Fak Med, Kragujevac, Serbia.
+   [Gajic, Sanja] Dom Zdravlja Kragujevac, Kragujevac, Serbia.
+C3 University of Kragujevac
+RP Gajic, V (corresponding author), Zavod Hitnu Med Pomoc Kragujevac, Lole Ribara 19, Kragujevac 34000, Serbia.
+EM drgaja@sbb.rs
+OI Matejic, Suzana/0000-0001-6422-5354
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 4
+PU MEDICAL ASSOC ZENICADOBOJ CANTON
+PI ZENICA
+PA BULEVAR KRALJA TVRTKA I 4, ZENICA, 72000, BOSNIA & HERCEG
+SN 1840-0132
+J9 MED GLAS
+JI Med. Glas.
+PD FEB
+PY 2011
+VL 8
+IS 1
+BP 24
+EP 30
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 730UU
+UT WOS:000288061100005
+PM 21263391
+DA 2023-12-06
+ER
+
+PT J
+AU Pilija, V
+   Djurendic-Brenesel, M
+   Miletic, S
+AF Pilija, Vladimir
+   Djurendic-Brenesel, Maja
+   Miletic, Stevan
+TI Fatal poisoning by ingestion of <i>Taxus Baccata </i>leaves
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Article
+DE Taxus baccata; Yew leaves; 3,5-Dimethoxyphenol; Fatal poisoning; GC-MS
+ID PLANT TOXINS; BODY-FLUIDS; PACLITAXEL; 3,5-DIMETHOXYPHENOL;
+   CHROMATOGRAPHY
+AB In this report we describe a first suicide case in Serbia related to ingestion of Taxus baccata leaves. A 30-year old woman was found dead, and the green plant material in a plastic bag was found near her bed. Autopsy revealed dark green needle-like leaves in the stomach, similar to that contained in the plastic bag, and both were botanically identified as Taxus baccata, also known as yew. Using gas chromatography-mass spectrometry (GC-MS), 3,5-dimethoxyphenol (3,5-DMP) as toxicological evidence for the ingestion of yew leaves, was detected in biological samples. As the autopsy showed unspecific findings, and also the routine toxicological examination, based upon 3,5-DMP identification, the cause of death was determined to be suicide, caused by yew poisoning. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Pilija, Vladimir] Univ Novi Sad, Dept Forens Med, Fac Med, Hajduk Veljkova 3, Novi Sad 21000, Serbia.
+   [Djurendic-Brenesel, Maja; Miletic, Stevan] Clin Ctr Vojvodina, Ctr Forens Med Toxicol & Mol Genet, Hajduk Veljkova 7-9, Novi Sad 21000, Serbia.
+C3 University of Novi Sad
+RP Djurendic-Brenesel, M (corresponding author), Iva Andrica 3, Novi Sad 21000, Serbia.
+EM maja.brenesel@gmail.com
+NR 25
+TC 3
+Z9 3
+U1 3
+U2 15
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0379-0738
+EI 1872-6283
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD SEP
+PY 2018
+VL 290
+BP E1
+EP E4
+DI 10.1016/j.forsciint.2018.07.017
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA GS2EX
+UT WOS:000443355600001
+PM 30064830
+DA 2023-12-06
+ER
+
+PT J
+AU Dedic, G
+   Djordjevic, B
+   Dedic, S
+AF Dedic, Gordana
+   Djordjevic, Barbara
+   Dedic, Srdjan
+TI Victimization in childhood as a suicide risk factor in adults
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE crime victims; child; suicide; attempted; adults; psychotherapy
+ID BULLYING VICTIMIZATION; SEXUAL-ABUSE; POLYVICTIMIZATION; MALTREATMENT;
+   SAMPLE; WOMEN; PSYCHOPATHOLOGY; ASSOCIATION; BEHAVIORS; IDEATION
+AB Background/Aim. There is a burgeoning literature on the association between childhood victimization and the risk of suicidal behavior in early adolescence, while there is significantly less research showing this association in adults. The aim of our study was to examine whether victimization in childhood increased the likelihood of suicide attempt in adults. Methods. The sample consisted of 90 patients, 71 females and 19 males, aged 37.92 +/- 11.04 years on average, hospitalized in the Day Hospital of the Clinic of Psychiatry Military Medical Academy, Belgrade, Serbia. The Juvenile Victimization Questionnaire (JVQ), Defense Style Questionnaire (DSQ-40) and Beck Depression Inventory were used for 50 patients following suicide attempt and in 40 patients who were on psychotherapeutic treatment due to various life crises not resulting in suicide attempt. According to the indications, we excluded the patients with psychosis (F20-F29, F30-31 and F 32.3), substances abuse (F10-F19) and dementia (F00-F09), satisfying International Classification of Diseases-10 version (ICD-10) (the World Health Organization criteria). The examinees of both groups were matched by age, education and marital status. Comparison of the patient groups was done by the Students' t-test for the parametric features and Mann-Whitney U test for nonparametric data. Results. The suicide attempters had moderate depression (19.76 +/- 10.52) and used immature defense mechanisms (p < 0.001). The JVQ established statistical differences in the Total score (p < 0.005) and in two modules: Peer and Sibling Victimization (p < 0.005) and Sexual victimization (p < 0.005). Conclusion. The adults who were more likely to attempt suicide during their lifetime were more often victims of peer and sexual abuse in their childhood. Data on victimization in early childhood provide opportunities for early detection of persons with suicide risk that could help in the psychotherapeutic work with these patients, but also in the suicide prevention in a wider population.
+C1 [Dedic, Gordana] Univ Def, Fac Med, Mil Med Acad, Belgrade, Serbia.
+   [Dedic, Gordana] Mil Med Acad, Clin Psychiat, Belgrade 11000, Serbia.
+   [Djordjevic, Barbara] Minist Def & Army Serbia, Belgrade, Serbia.
+   [Dedic, Srdjan] Univ Belgrade, Fac Med, Clin Cardiol, Belgrade, Serbia.
+C3 University of Belgrade; University of Belgrade
+RP Dedic, G (corresponding author), Mil Med Acad, Clin Psychiat, Belgrade 11000, Serbia.
+EM gdedic146@gmail.com
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 14
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PY 2019
+VL 76
+IS 7
+BP 667
+EP 674
+DI 10.2298/VSP170826142D
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA JY5DQ
+UT WOS:000504436000001
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Jovanovic, A
+   Jasovic-Gasic, M
+   Lecic-Tosevski, D
+AF Jovanovic, Aleksandar
+   Jasovic-Gasic, Miroslava
+   Lecic-Tosevski, Dusica
+TI Medicolegal Aspects of Hospital Treatment of Violent Mentally III
+   Persons
+SO SRPSKI ARHIV ZA CELOKUPNO LEKARSTVO
+LA Serbian
+DT Article
+DE violence; mental disorders; hospitalization
+ID RISK-ASSESSMENT; PSYCHIATRIC EMERGENCY; AFFECTIVE-DISORDERS; SUICIDE;
+   BEHAVIOR; AGGRESSION; OFFENDERS; SCHIZOPHRENIA; DEPRIVATION; PREVENTION
+AB Introduction This paper deals with medicolegal aspects of the hospital treatment of patients suffering from severe mental disorders and who are prone to violent behaviour, dangerous to self and others. Violent acts in this study were defined as deliberate and nonconsensual acts of actual, attempted or threatened harm to a person or persons, and classified into categories of any type of violence, physical violence and non-physical violence, which is in accordance with approaches used in other risk assessment researches.
+   Outline of Cases The authors present four cases of mentally ill inpatients whose violent behaviour toward self or other persons resulted in self-destruction and physical aggression against other persons. The presented cases involved: 1) self-injury in a patient with acute organic mental disorder after jumping through a hospital window, 2) suicide by drowning of a patient with acute mental disorder after escaping from intensive care unit, 3) suicide in a depressive patient after escaping from a low-security psychiatry unit, 4) physical violence against body and life of other persons in a patient with chronic mental disorder.
+   Conclusion The presented cases are considered to be rare in clinical practice and risk of violent behaviour and the consequent danger of mentally ill inpatients may be efficiently predicted and prevented with appropriate hospital management based on 1) repeated escalation of violent behaviour and 2) protection of the patient and others. Hence, if the physician, in order to prevent harmful consequences, does not apply all the necessary measures, including appropriate diagnostic and therapeutic procedures, as well as treatment in an adequate setting, such act is against the Criminal Law of the Republic of Serbia which sanctions physician's negligence. Also, according to the Law on Obligations of the Republic of Serbia this presents a legal ground for damage claim and the requirement of liability for nonmaterial damage within a civil procedure.
+C1 [Jovanovic, Aleksandar] Clin Ctr Serbia, Inst Psychiat, Belgrade, Serbia.
+   [Lecic-Tosevski, Dusica] Inst Mental Hlth, Belgrade, Serbia.
+C3 Clinical Centre of Serbia
+RP Jovanovic, A (corresponding author), Klin Ctr Srbije, Inst Psihijatriju, Paterova 2, Beograd 11000, Serbia.
+EM shrinks@eunet.rs
+RI Lorente, Rosa/AAL-5850-2021
+NR 58
+TC 0
+Z9 0
+U1 0
+U2 6
+PU SRPSKO LEKARSKO DRUSTVO
+PI BEOGRAD
+PA UREDNISTVO CASOPISA SRPSKI ARHIV, UL DZORDZA VASINGTONA 19, BEOGRAD,
+   11000, SERBIA
+SN 0370-8179
+J9 SRP ARK CELOK LEK
+JI Srp. Ark. Celok. Lek.
+PD MAY-JUN
+PY 2009
+VL 137
+IS 5-6
+BP 292
+EP 297
+DI 10.2298/SARH0906292J
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 466PL
+UT WOS:000267674400014
+PM 19594075
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Banovic, B
+   Turanjanin, V
+   Miloradovic, A
+AF Banovic, Bozidar
+   Turanjanin, Veljko
+   Miloradovic, Andela
+TI An Ethical Review of Euthanasia and Physician-assisted Suicide
+SO IRANIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Active euthanasia; Passive euthanasia; Physician-assisted suicide;
+   Ethics; Morality
+AB Background: In the majority of countries, active direct euthanasia is a forbidden way of the deprivation of the patients' life, while its passive form is commonly accepted. This distinction between active and passive euthanasia has no justification, viewed through the prism of morality and ethics. Therefore, we focused on attention on the moral and ethical implications of the aforementioned medical procedures.
+   Methods: Data were obtained from the Clinical Hospital Center in Kragujevac, collected during the first half of the 2015. The research included 88 physicians: 57 male physicians (representing 77% of the sample) and 31 female physicians (23% of the sample). Due to the nature, subject and hypothesis of the research, the authors used descriptive method and the method of the theoretical content analysis.
+   Results: A slight majority of the physicians (56, 8%) believe that active euthanasia is ethically unacceptable, while 43, 2% is for another solution (35, 2% took a viewpoint that it is completely ethically acceptable, while the remaining 8% considered it ethically acceptable in certain cases). From the other side, 56, 8% of respondents answered negatively on the ethical acceptability of the physician-assisted suicide, while 33% of them opted for a completely ethic viewpoint of this procedure. Out of the remaining 10, 2% opted for the ethical acceptability in certain cases.
+   Conclusion: Physicians in Serbia are divided on this issue, but a group that considers active euthanasia and physician-assisted suicide as ethically unacceptable is a bit more numerous.
+C1 [Banovic, Bozidar] Univ Belgrade, Fac Secur Studies, Belgrade, Serbia.
+   [Turanjanin, Veljko] Univ Kragujevac, Fac Law, Kragujevac, Serbia.
+   [Miloradovic, Andela] Seniorenzentrum Roweland, Hamburg, Germany.
+C3 University of Belgrade; University of Kragujevac
+RP Turanjanin, V (corresponding author), Univ Kragujevac, Fac Law, Kragujevac, Serbia.
+EM vturanjanin@jura.kg.ac.rs
+RI Turanjanin, Veljko/AGR-0001-2022; Banovic, Bozidar/R-6119-2019
+OI Turanjanin, Veljko/0000-0001-9029-0037; Banovic,
+   Bozidar/0000-0001-9291-7091
+FU Faculty of Law, University of Kragujevac
+FX This work was supported by Faculty of Law, University of Kragujevac. The
+   authors declare that there is no conflict of interest.
+NR 36
+TC 6
+Z9 7
+U1 2
+U2 41
+PU IRANIAN SCIENTIFIC SOCIETY MEDICAL ENTOMOLOGY
+PI TEHRAN
+PA SCHOOL PUBLIC HEALTH & INST HEALTH RESEARCH, TEHRAN UNIV MEDICAL
+   SCIENCES, P O BOX  6446-14155, TEHRAN, 00000, IRAN
+SN 2251-6085
+EI 2251-6093
+J9 IRAN J PUBLIC HEALTH
+JI Iran J. Public Health
+PY 2017
+VL 46
+IS 2
+BP 173
+EP 179
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EM8ME
+UT WOS:000395564600003
+PM 28451551
+DA 2023-12-06
+ER
+
+PT J
+AU Santric-Milicevic, M
+   Rosic, N
+   Babic, U
+   Supic-Terzic, Z
+   Jankovic, J
+   Todorovic, J
+   Trajkovic, G
+AF Santric-Milicevic, Milena
+   Rosic, Natasa
+   Babic, Uros
+   Supic-Terzic, Zorica
+   Jankovic, Janko
+   Todorovic, Jovana
+   Trajkovic, Goran
+TI AN APPROACH TO DETERMINE THE PREVALENCE OF POOR MENTAL HEALTH AMONG
+   URBAN AND RURAL POPULATION IN SERBIA USING PROPENSITY SCORE MATCHING
+SO CENTRAL EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE chronic anxiety; depression; mental health inventory; propensity score
+   matching; rural health; social conditions
+ID INEQUALITIES; BENEFITS; WOMEN
+AB Objective: Studies about mental health among urban and rural residents are scarce. A limited number of studies report somewhat better mental health in rural settings, despite higher rates of suicides. The main objective of this study was to describe social conditions of the population of Serbia in rural and urban settlements and to assess the differences in the prevalence of mental health disorders.
+   Methods: Propensity score matching of urban and rural persons (2 x 3,569 persons) has eliminated confounding effects from social variables (age, gender, wealth index, education level, employment, family status) and self-rated health. Thus, any statistical differences concerning mental health variables (five-item Mental Health Inventory and clinically diagnosed chronic anxiety or depression) between the two populations were not a result of differences in the matching variables.
+   Results: After matching all variables, the estimated prevalence rate of poor mental health was significantly higher among residents of urban (52.2%) than rural (49.1%) settlements (p = 0.012).
+   Conclusions: Almost half of the Serbian population suffers from poor mental health, therefore, there is a need to increase efforts on mental health promotion, prevention and treatment. Our study findings also support the importance of promoting benefits of rural settings for people with mental distress.
+C1 [Santric-Milicevic, Milena; Supic-Terzic, Zorica; Jankovic, Janko; Todorovic, Jovana] Univ Belgrade, Inst Social Med, Fac Med, Dr Subotica St 15, Belgrade 11000, Serbia.
+   [Rosic, Natasa] Inst Publ Hlth City Belgrade, Belgrade, Serbia.
+   [Babic, Uros] Univ Belgrade, Clin Ctr Serbia, Fac Med, Belgrade, Serbia.
+   [Trajkovic, Goran] Univ Belgrade, Inst Med Stat & Informat, Fac Med, Belgrade, Serbia.
+C3 University of Belgrade; Clinical Centre of Serbia; University of
+   Belgrade; University of Belgrade
+RP Santric-Milicevic, M (corresponding author), Univ Belgrade, Inst Social Med, Fac Med, Dr Subotica St 15, Belgrade 11000, Serbia.
+EM msantric@med.bg.ac.rs
+RI Milicevic, Milena Santric/H-6423-2018
+OI Milicevic, Milena Santric/0000-0002-0684-359X; Todorovic,
+   Jovana/0000-0001-9741-6317; Terzic Supic, Zorica/0000-0002-9878-8021;
+   Jankovic, Janko/0000-0002-2387-6596
+FU Ministry of Education, Science and Technology of the Republic of Serbia
+   [175087, 41004, 175042]
+FX The study was supported by the Ministry of Education, Science and
+   Technology of the Republic of Serbia (Grant No. 175087, Grant No. 41004,
+   Grant No. 175042).
+NR 44
+TC 1
+Z9 1
+U1 0
+U2 6
+PU NATL INST PUBLIC HEALTH
+PI PRAGUE 10
+PA DEPT SCIENTIFIC INFORMATION, SROBAROVA 48, PRAGUE 10, 100 42, CZECH
+   REPUBLIC
+SN 1210-7778
+EI 1803-1048
+J9 CENT EUR J PUBL HEAL
+JI Cent. Eur. J. Public Health
+PD JUN
+PY 2017
+VL 25
+IS 2
+BP 106
+EP 112
+DI 10.21101/cejph.a4160
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FA0TB
+UT WOS:000405147400003
+PM 28662320
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Klanjsek, R
+   Vazsonyi, AT
+   Trejos-Castillo, E
+AF Klanjsek, Rudi
+   Vazsonyi, Alexander T.
+   Trejos-Castillo, Elizabeth
+TI Religious orientation, low self-control, and deviance: Muslims,
+   Catholics, Eastern Orthodox-, and "Bible Belt" Christians
+SO JOURNAL OF ADOLESCENCE
+LA English
+DT Article
+DE Problem behaviors; Delinquency; Cross-cultural; Cross-national; Religion
+ID GENERAL-THEORY; MENTAL-HEALTH; ALCOHOL-USE; CRIME; DELINQUENCY;
+   HELLFIRE; METAANALYSIS; ADOLESCENCE; COMMITMENT; SUICIDE
+AB Using adolescent samples from four cultures, the current study tested whether effects by religiosity on deviance varied by the nature of religiosity (intrinsic versus extrinsic) and by the cultural context (Bosnia & Herzegovina, Serbia, Slovenia, and the U.S.). Results indicated: a) that not every type of religiosity has a buffering effect on deviance - if one's religiousness is predominately instrumental (i.e. extrinsic), then its inhibiting effect is weak or does not exist; b) that the effect of intrinsic religiosity seemed more pronounced in the two surroundings that expressed the highest mean religiosity (U.S., Bosnia & Herzegovina) although results from follow-up analysis (Z-tests) largely supported a cultural invariance hypothesis. In addition, the intrinsic religiosity-deviance link was moderated by low self-control in each sample, except the Slovenian one. Finally, results indicated that low self-control only partially mediated the religiosity-deviance link. (C) 2011 The Foundation for Professionals in Services for Adolescents. Published by Elsevier Ltd. All rights reserved.
+C1 [Klanjsek, Rudi] Univ Maribor, SLO-2000 Maribor, Slovenia.
+   [Vazsonyi, Alexander T.] Univ Kentucky, Lexington, KY 40506 USA.
+   [Trejos-Castillo, Elizabeth] Texas Tech Univ, Lubbock, TX 79409 USA.
+C3 University of Maribor; University of Kentucky; Texas Tech University
+   System; Texas Tech University
+RP Klanjsek, R (corresponding author), Univ Maribor, Koroska Cesta 160, SLO-2000 Maribor, Slovenia.
+EM rudi.klanjsek@uni-mb.si; vazsonyi@uky.edu
+RI Klanjšek, Rudi/D-1649-2009; Vazsonyi, Alexander T/B-1229-2008
+OI Vazsonyi, Alexander/0000-0001-7163-1705
+FU Direct For Social, Behav & Economic Scie; Divn Of Social and Economic
+   Sciences [GRANTS:13874965] Funding Source: National Science Foundation;
+   Direct For Social, Behav & Economic Scie; Divn Of Social and Economic
+   Sciences [0925068] Funding Source: National Science Foundation
+NR 87
+TC 30
+Z9 38
+U1 0
+U2 48
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0140-1971
+EI 1095-9254
+J9 J ADOLESCENCE
+JI J. Adolesc.
+PD JUN
+PY 2012
+VL 35
+IS 3
+BP 671
+EP 682
+DI 10.1016/j.adolescence.2011.09.003
+PG 12
+WC Psychology, Developmental
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Psychology
+GA 966EN
+UT WOS:000305820500018
+PM 21993144
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Bjelajac, Z
+   Pocuca, M
+   Mijatovic, MD
+AF Bjelajac, Z.
+   Pocuca, M.
+   Mijatovic, M. D.
+TI INDUSTRIAL ACCIDENT AS A SOURCE OF JEOPARDISING THE SAFETY OF PEOPLE AND
+   ENVIRONMENT WITH A SPECIAL REVIEW OF THE CASE STUDY 'ACCIDENT IN THE
+   MIDDLE SECTION OF THE DANUBE RIVER'
+SO JOURNAL OF ENVIRONMENTAL PROTECTION AND ECOLOGY
+LA English
+DT Review
+DE environment; industrial accidents; safety; the Danube river
+AB After almost two centuries of industrial development, which took place in the sign of general scientific and technological progress, reconsiderations of essential effects and sense of such progress are becoming increasingly frequent. The risks as to the safety and health of people are increasingly observable. Jeopardising and degradation of environment due to human negligence and increasingly present industrial accidents, have reached a critical level. The mankind has actually, by improving high technologies, come into possession of a perfect weapon to commit suicide. The contemporary society is therefore increasingly being shaped and described as a society of risk, hi this paper the authors analysed the synergism in theoretical sense and practical application of legislation and current condition in the field of industrial accidents on the basis of exact parameters, and particularly on the basis of the case study 'Accident on the middle section of the Danube river', and pointed at the possibility of protection of people and assets, offered by legal solutions in Serbia, with a review of current solution on the global level.
+C1 [Bjelajac, Z.; Pocuca, M.; Mijatovic, M. D.] Univ Business Acad, Law Fac Econ & Justice, Novi Sad, Serbia.
+RP Mijatovic, MD (corresponding author), Univ Business Acad, Law Fac Econ & Justice, Novi Sad, Serbia.
+EM advdrzb@eunet.rs; pocucabmilan@gmail.com;
+   marijana.dukic.mijatovic@gmail.com
+RI Dukić Mijatović, Marijana/GZK-6753-2022; Pocuca, Milan/AAE-9365-2020;
+   Bjelajac, Zeljko/AAJ-3467-2020
+OI Dukić Mijatović, Marijana/0000-0003-1327-0889; Bjelajac,
+   Zeljko/0000-0003-4953-8779; Pocuca, Milan/0000-0002-5433-1134
+NR 10
+TC 6
+Z9 6
+U1 0
+U2 1
+PU SCIBULCOM LTD
+PI SOFIA
+PA PO BOX 249, 1113 SOFIA, BULGARIA
+SN 1311-5065
+J9 J ENVIRON PROT ECOL
+JI J. Environ. Prot. Ecol.
+PY 2013
+VL 14
+IS 1
+BP 35
+EP 48
+PG 14
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 124AY
+UT WOS:000317437400005
+DA 2023-12-06
+ER
+
+PT J
+AU Duric, P
+   Harhaji, S
+   O'May, F
+   Boderscova, L
+   Chihai, J
+   Como, A
+   Hranov, GL
+   Mihai, A
+   Sotiri, E
+AF Duric, Predrag
+   Harhaji, Sanja
+   O'May, Fiona
+   Boderscova, Larisa
+   Chihai, Jana
+   Como, Ariel
+   Hranov, Georgi L.
+   Mihai, Adriana
+   Sotiri, Eugjen
+TI General practitioners' views towards diagnosing and treating depression
+   in five southeastern European countries
+SO EARLY INTERVENTION IN PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH-CARE; PHYSICIANS; PATHWAYS; OBSTACLES; ATTITUDES;
+   BARRIERS; SUICIDE; RISK
+AB Aim To assess and compare general practitioners' (GPs') views of diagnosing and treating depression in five southeastern European countries. Methods A cross-sectional study was conducted in Albania, Bulgaria, Moldova, Romania, and Serbia. The sample included 467 GPs who completed a hard-copy self-administered questionnaire, consisting of self-assessment questions related to diagnosing and treating depression. Results The most common barriers to managing depression in general practice reported by GPs were: patients' unwillingness to discuss depressive symptoms (92.3%); appointment time too short to take an adequate history (91.9%), barriers for prescribing appropriate treatment (90.6%); and patients' reluctance to be referred to a psychiatrist (89.1%). Most GPs (78.4%) agreed that recognizing depression was their responsibility, 71.7% were confident in diagnosing depression, but less than one-third (29.6%) considered that they should treat it. Conclusions Improvements to the organization of mental healthcare in all five countries should consider better training for GPs in depression diagnosis and treatment; the availability of mental healthcare specialists at primary care level, with ensured equal and easy access for all patients; and the removal of potential legal barriers for diagnosis and treatment of depression.
+C1 [Duric, Predrag; O'May, Fiona] Queen Margaret Univ Edinburgh, Inst Global Hlth & Dev, Musselburgh, Scotland.
+   [Duric, Predrag; Harhaji, Sanja] Univ Novi Sad, Fac Med, Inst Publ Hlth Vojvodina, Novi Sad, Vojvodina, Serbia.
+   [Boderscova, Larisa] WHO Country Off, Kishinev, Moldova.
+   [Chihai, Jana] State Med & Pharmaceut Univ Nicolae Testemitanu, Med Psychol & Narcol Dept, Kishinev, Moldova.
+   [Como, Ariel; Sotiri, Eugjen] Tirana Univ Hosp Ctr, Tirana, Albania.
+   [Hranov, Georgi L.] Univ Multiprofile Hosp Act Treatment Neurol & Psy, Psychiat Clin 2, Sofia, Bulgaria.
+   [Mihai, Adriana] Univ Med & Pharm, Dept Psychiat, Targul Mures, Romania.
+C3 Queen Margaret University; University of Novi Sad; Nicolae Testemitanu
+   State University of Medicine & Pharmacy; Medical University Sofia
+RP Duric, P (corresponding author), Queen Margaret Univ Edinburgh, Queen Margaret Univ Dr, Musselburgh EH21 6UU, Scotland.
+EM pduric@qmu.ac.uk
+RI Duric, Predrag/L-9002-2019; Chihai, Jana/GLQ-7102-2022
+OI Duric, Predrag/0000-0001-5770-7224; Chihai, Jana/0000-0002-7720-5544
+FU National Institute of Health Fogarty International Center
+   [ID43TW009122-01]
+FX National Institute of Health Fogarty International Center, Grant/Award
+   Number: ID43TW009122-01
+NR 36
+TC 5
+Z9 6
+U1 1
+U2 9
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1751-7885
+EI 1751-7893
+J9 EARLY INTERV PSYCHIA
+JI Early Interv. Psychiatry
+PD OCT
+PY 2019
+VL 13
+IS 5
+BP 1155
+EP 1164
+DI 10.1111/eip.12747
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA IX8YC
+UT WOS:000485973000016
+PM 30277313
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Nikolaidis, G
+   Petroulaki, K
+   Zarokosta, F
+   Tsirigoti, A
+   Hazizaj, A
+   Cenko, E
+   Brkic-Smigoc, J
+   Vajzovic, E
+   Stancheva, V
+   Chincheva, S
+   Ajdukovic, M
+   Rajter, M
+   Raleva, M
+   Trpcevska, L
+   Roth, M
+   Antal, I
+   Ispanovic, V
+   Hanak, N
+   Olmezoglu-Sofuoglu, Z
+   Umit-Bal, I
+   Bianchi, D
+   Meinck, F
+   Browne, K
+AF Nikolaidis, George
+   Petroulaki, Kiki
+   Zarokosta, Foteini
+   Tsirigoti, Antonia
+   Hazizaj, Altin
+   Cenko, Enila
+   Brkic-Smigoc, Jelena
+   Vajzovic, Emir
+   Stancheva, Vaska
+   Chincheva, Stefka
+   Ajdukovic, Marina
+   Rajter, Miro
+   Raleva, Marija
+   Trpcevska, Liljana
+   Roth, Maria
+   Antal, Imola
+   Ispanovic, Veronika
+   Hanak, Natasha
+   Olmezoglu-Sofuoglu, Zeynep
+   Umit-Bal, Ismail
+   Bianchi, Donata
+   Meinck, Franziska
+   Browne, Kevin
+TI Lifetime and past-year prevalence of children's exposure to violence in
+   9 Balkan countries: the BECAN study
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Violence against children; Child abuse and neglect; Child maltreatment;
+   Violence; Epidemiology; Balkans
+ID ADVERSE CHILDHOOD EXPERIENCES; PHYSICAL ABUSE; SEXUAL-ABUSE; ICAST-CH;
+   NEGLECT; MALTREATMENT; CONSEQUENCES; ASSOCIATIONS; METAANALYSIS; SUICIDE
+AB Background: Children's exposure to violence is a major public health issue. The Balkan epidemiological study on Child Abuse and Neglect project aimed to collect internationally comparable data on violence exposures in childhood.
+   Methods: A three stage stratified random sample of 42,194 school-attending children (response rate: 66.7%) in three grades (aged 11, 13 and 16 years) was drawn from schools in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Former Yugoslavian Republic of Macedonia (FYROM), Greece, Romania, Serbia and Turkey. Children completed the ICAST-C questionnaire, which measures children's exposure to violence by any perpetrator.
+   Results: Exposure rates for psychological violence were between 64.6% (FYROM) and 83.2% (Greece) for lifetime and 59.62% (Serbia) and 70.0% (Greece) for past-year prevalence. Physical violence exposure varied between 50.6% (FYROM) and 76.3% (Greece) for lifetime and 42.5% (FYROM) and 51.0% (Bosnia) for past-year prevalence. Sexual violence figures were highest for lifetime prevalence in Bosnia (18.6%) and lowest in FYROM (7.6%). Lifetime contact sexual violence was highest in Bosnia (9.8%) and lowest in Romania (3.6%). Past-year sexual violence and contact sexual violence prevalence was lowest in Romania (5.0 and 2.1%) and highest in Bosnia (13.6 and 7.7% respectively). Self-reported neglect was highest for both past-year and lifetime prevalence in Bosnia (48.0 and 20.3%) and lowest in Romania (22.6 and 16.7%). Experiences of positive parental practices were reported by most participating children in all countries.
+   Conclusions: Where significant differences in violence exposure by sex were observed, males reported higher exposure to past-year and lifetime sexual violence and females higher exposure to neglect. Children in Balkan countries experience a high burden of violence victimization and national-level programming and child protection policy making is urgently needed to address this.
+C1 [Nikolaidis, George; Petroulaki, Kiki; Zarokosta, Foteini; Tsirigoti, Antonia] Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+   [Hazizaj, Altin; Cenko, Enila] Childrens Human Rights Ctr Albania, Tirana, Albania.
+   [Brkic-Smigoc, Jelena; Vajzovic, Emir] Univ Sarajevo, Fac Polit Sci, Sarajevo, Bosnia & Herceg.
+   [Stancheva, Vaska; Chincheva, Stefka] South West Univ N Rilski, Dept Med Social Sci, Blagoevgrad, Bulgaria.
+   [Ajdukovic, Marina; Rajter, Miro] Univ Zagreb, Fac Law, Dept Social Work, Zagreb, Croatia.
+   [Raleva, Marija; Trpcevska, Liljana] Univ Skopje, Univ Clin Psychiat, Skopje, Macedonia.
+   [Roth, Maria; Antal, Imola] Babes Bolyai Univ, Social Work Dept, Fac Sociol & Social Work, Cluj Napoca, Romania.
+   [Ispanovic, Veronika; Hanak, Natasha] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Olmezoglu-Sofuoglu, Zeynep; Umit-Bal, Ismail] Assoc Emergency Ambulance Phys, Izmir, Turkey.
+   [Bianchi, Donata] Inst Innocenti, Florence, Italy.
+   [Meinck, Franziska] Univ Oxford, Ctr Evidence Based Intervent, Oxford, England.
+   [Meinck, Franziska] North West Univ, Sch Behav Sci, Vanderbeijlpark, South Africa.
+   [Browne, Kevin] Univ Nottingham, Sch Med, Ctr Forens & Family Psychol, Div Psychiat & Appl Psychol, Nottingham, England.
+   [Zarokosta, Foteini] Tech Univ Denmark, Dept Appl Math & Comp Sci, Copenhagen, Denmark.
+   [Tsirigoti, Antonia] The Smile Child, Athens, Greece.
+   [Cenko, Enila] Univ New York Tirana, Humanities & Social Sci Dept, Tirana, Albania.
+   [Hanak, Natasha] AWO Clearinghaus Unaccompanied Minor Refugees, Dortmund, North Rhine Wes, Germany.
+C3 University of Sarajevo; South-West University - Bulgaria; University of
+   Zagreb; Saints Cyril & Methodius University of Skopje; Babes Bolyai
+   University from Cluj; University of Belgrade; Istituto degli Innocenti;
+   University of Oxford; North West University - South Africa; University
+   of Nottingham; Technical University of Denmark; University of New York
+   in Tirana
+RP Nikolaidis, G (corresponding author), Inst Child Hlth, Ctr Study & Prevent Child Abuse & Neglect, Dept Mental Hlth & Social Welf, 7 Fokidos Str, Athens 11526, Greece.
+EM gnikolaidis@ich-mhsw.gr
+RI Stancheva-Popkostadinova, Vaska Sl/N-5753-2014; Roth, Maria/H-6760-2019;
+   Antal, Imola/IAM-0424-2023; Brkić Šmigoc, Jelena/GNN-1106-2022;
+   Sofuoglu, Zeynep/AAA-9584-2021; Vajzović, Emir/AAR-1233-2021; Meinck,
+   Franziska/C-7694-2014; Rajter, Miroslav/A-3619-2016
+OI Roth, Maria/0000-0002-8284-8798; Brkić Šmigoc,
+   Jelena/0000-0002-8632-1520; Meinck, Franziska/0000-0002-5234-3799;
+   Rajter, Miroslav/0000-0002-2608-3196; Nikolaidis,
+   George/0000-0001-7017-0660; Vajzovic, Emir/0000-0003-4189-0946;
+   Stancheva-Popkostadinova, Vaska/0000-0002-9302-7282
+FU European Research Council under the EU's 7th Framework Programme for
+   Research and Innovation [223478/HEALTH/CALL 2007-B]; Economic and Social
+   Research Council in the UK [ES/N017447/1]; ESRC [ES/N017447/1] Funding
+   Source: UKRI; Economic and Social Research Council [ES/N017447/1]
+   Funding Source: researchfish
+FX The research leading to this manuscript was funded by the European
+   Research Council under the EU's 7th Framework Programme for Research and
+   Innovation (ID: 223478/HEALTH/CALL 2007-B). FM received writing support
+   from the Economic and Social Research Council in the UK (ES/N017447/1).
+NR 49
+TC 40
+Z9 40
+U1 0
+U2 21
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD JAN 2
+PY 2018
+VL 12
+AR 1
+DI 10.1186/s13034-017-0208-x
+PG 15
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR8KC
+UT WOS:000419322600001
+PM 29308086
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Baralic, I
+   Savic, S
+   Alempijevic, DM
+   Jecmenica, DS
+   Sbutega-Milosevic, G
+   Obradovic, M
+AF Baralic, Ivanka
+   Savic, Slobodan
+   Alempijevic, Djordje M.
+   Jecmenica, Dragan S.
+   Sbutega-Milosevic, Gorica
+   Obradovic, Miroljub
+TI Child homicide on the territory of Belgrade
+SO CHILD ABUSE & NEGLECT
+LA English
+DT Article
+DE Children; Homicide; Neonaticide; Fatal child abuse; Forensic pathology
+ID INFANTICIDE; WALES; FILICIDE; ENGLAND; DEATHS
+AB Objective: This study examines the incidence and other epidemiological and medico-legal characteristics of child homicide in the territory of Belgrade, Republic of Serbia.
+   Methods: We performed a retrospective analysis of all autopsies carried out at the Institute of Forensic Medicine in Belgrade during a 15 year period between 1991 and 2005, focusing on homicide cases of victims aged 0-14 years. These were then analyzed in terms of number of deaths, mortality rates, age, and sex of the victim, relation to the perpetrator, and cause of death and injury.
+   Results: Forty-six homicides were identified where the victims were aged 0-14 years. These included 24 girls and 22 boys. In 32 cases (69.6%) the perpetrator was one of the child's birth parents, more frequently the mother. Blunt head trauma was the most frequent cause of death, followed by exsanguination. In 9 cases (19.5%) there was evidence of physical abuse; 16 children died in the setting of multiple homicide and/or murder/suicide. In 4 cases (8.7%) there was evidence of neglect which contributed to the fatal outcome. There were 10 cases of neonaticide within the 46 homicides. There were, however, 49 further cases where bodies of newborn infants were discovered after having been disposed of in suspicious circumstances.
+   Conclusions: Proportionally, the largest number of victims fell within the 1-4 years age group, with a slight preponderance of females, most of them killed at home by a close family member, usually the mother. Blunt head trauma was the single most frequent cause of death. Injury patterns consistent with child abuse were identified among 20% of the study group. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Baralic, Ivanka; Savic, Slobodan; Alempijevic, Djordje M.; Jecmenica, Dragan S.; Obradovic, Miroljub] Univ Belgrade, Inst Forens Med, Sch Med, Belgrade 11000, Serbia.
+   [Sbutega-Milosevic, Gorica] Univ Belgrade, Inst Hyg & Med Ecol, Sch Med, Belgrade 11000, Serbia.
+C3 University of Belgrade; University of Belgrade
+RP Alempijevic, DM (corresponding author), Univ Belgrade, Inst Forens Med, Sch Med, Deligradska 31A, Belgrade 11000, Serbia.
+RI Alempijevic, Djordje M/H-1128-2014
+OI Alempijevic, Djordje M/0000-0002-0810-9559
+NR 35
+TC 19
+Z9 19
+U1 0
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0145-2134
+J9 CHILD ABUSE NEGLECT
+JI Child Abuse Negl.
+PD DEC
+PY 2010
+VL 34
+IS 12
+BP 935
+EP 942
+DI 10.1016/j.chiabu.2010.06.003
+PG 8
+WC Family Studies; Psychology, Social; Social Work
+WE Social Science Citation Index (SSCI)
+SC Family Studies; Psychology; Social Work
+GA 704FX
+UT WOS:000286037600005
+PM 21030080
+DA 2023-12-06
+ER
+
+PT J
+AU Sarajlija, M
+   Jugovic, A
+   Zivaljevic, D
+   Merdovic, B
+   Sarajlija, A
+AF Sarajlija, Marija
+   Jugovic, Aleksandar
+   Zivaljevic, Dragan
+   Merdovic, Boro
+   Sarajlija, Adrijan
+TI Assessment of health status and quality of life of homeless persons in
+   Belgrade, Serbia
+SO VOJNOSANITETSKI PREGLED
+LA English
+DT Article
+DE homeless perons; health status; quality of life; serbia
+ID RISK-FACTORS; PSYCHIATRIC-DISORDERS; DEPRESSIVE SYMPTOMS;
+   GENDER-DIFFERENCES; SUICIDAL IDEATION; MENTAL-DISORDERS; CHRONIC
+   DISEASE; PREVALENCE; ILLNESS; PEOPLE
+AB Background/Aim. Homelessness is a problem with social, medical, economic, political and other implications. Despite a large number of studies, reports about health-related quality of life (HRQoL) of homeless persons remain sparse. There is a summary of consistent evidence that homeless people have higher prevalence of chronic disease (mental and somatic) than general population. The aim of this study was to assess HRQoL and depression in homeless persons in Belgrade, to describe their sociodemographic factors and health status (the presence of chronic mental and somatic diseases and addiction disorders) and analyse impact of sociodemographic factors and health status to HRQoL and depression of homeless persons. Methods. The study was conducted in the Shelter for Adult and Elderly Persons in Belgrade, from January 1 to January 31, 2012. A set of questionnaires used in survey included Serbian translation of SF-36 questionnaire, Serbian translation of Beck Depression Inventory-II (BDI-II) and sociodemographic questionnaire. Statistical analysis was performed by descriptive and analytic methods. Results. Our study sample consisted of 104 adult participants. The majority of them were male (74%) and the mean age in the sample was 48.2 +/- 13.0 years. We have found that 35.6% participants had lifetime diagnosis of psychiatric disorder, most frequently depression (lifetime prevalence of 15.4% in the study group). The history of suicide attempts was registered in 28 (26.9%) participants. Lifetime illicit drugs use was reported by 12.5%, daily smoking by 82.7% and daily alcohol consumption by 8.7% of the participants. Most common somatic chronic diseases were cardiovascular while chronic lung diseases were the second most frequent. Single chronic disaese was present in 33 (31.7%) of the participants and comorbidity of 2 chronic diseases was present in 20 of them. A statistically significant difference between participants' HRQoL SF-36 domain scores and norms of general population was found only for role physical domain (lower in homeless, p < 0.001). ANOVA showed no statistically significant difference in SF-36 HRQoL domain and composite scores between different age groups, not did marital status, education level, length of homelessness, alcohol use or smoking significantly affect the HRQoL. The mean BDI-II score in the studied population was 19.1 +/- 11.6. Severe depression was registered in 20.2% of the participants, moderate in 23.1%, mild in 19.2% and minimal in 37.5%. A highly significant negative correlation was verified between BDI-II and all domains and composite scores of SF-36 < 0.001). Conclusion. Measures for prevention of homelessness should include: foundation of national registry of homeless persons, development of systemic multisectorial cooperation and special psychosocial intervention strategies. In homeless population, health care measures should be focused on prevention and treatment of mental health disorders and chronic somatic diseases.
+C1 [Sarajlija, Marija] Special Hosp Addict Dis, Belgrade 11000, Serbia.
+   [Jugovic, Aleksandar] Univ Belgrade, Fac Special Educ & Rehabil, Belgrade, Serbia.
+   [Zivaljevic, Dragan] Shelter Adult & Elderly Persons, Belgrade, Serbia.
+   [Merdovic, Boro] Minist Interior Republ Serbia, Police Dept Belgrade, Belgrade, Serbia.
+   [Sarajlija, Adrijan] Mother & Child Hlth Care Inst Serbia Dr Vukan Cup, Belgrade, Serbia.
+C3 University of Belgrade
+RP Sarajlija, M (corresponding author), Special Hosp Addict Dis, Belgrade 11000, Serbia.
+EM marijasarajlija@yahoo.com
+RI Sarajlija, Adrijan/IQR-8960-2023; Merdovic, Boro/GMX-2045-2022
+OI Merdovic, Boro/0000-0002-6619-5934
+NR 48
+TC 11
+Z9 11
+U1 1
+U2 24
+PU MILITARY MEDICAL ACAD-INI
+PI BELGRADE
+PA CRNOTRAVSKA 17, PO BOX 33-35, BELGRADE, 11040, SERBIA
+SN 0042-8450
+EI 2406-0720
+J9 VOJNOSANIT PREGL
+JI Vojnosanit. Pregl.
+PD FEB
+PY 2014
+VL 71
+IS 2
+BP 167
+EP 174
+DI 10.2298/VSP1402167S
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA AB9VH
+UT WOS:000332143300007
+PM 24665575
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+EF

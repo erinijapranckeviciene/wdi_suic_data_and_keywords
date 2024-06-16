@@ -1,0 +1,3683 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gailiene, D
+AF Gailiene, Danute
+TI Why Are Suicides So Widespread in Catholic Lithuania?
+SO RELIGIONS
+LA English
+DT Review
+DE religion; suicide rates; Lithuania
+ID RELIGION; ATTITUDES
+AB Religion as a protective factor against suicide was introduced in Durkheim's theory of suicide and analysed from various perspectives in multiple studies. The Lithuanian case is intriguing because before WWII, along with Catholic Poland, it showed much lower suicide rates than its Protestant neighbours Latvia and Estonia. However, today Lithuania is among the leading countries in terms of the prevalence of suicide. Interestingly, not much has changed in Lithuania in terms of religious denomination-about 80% of population call themselves Catholic. The aim of this article was to explore which factors might have affected religions' protective function against suicide during radical historical processes. The method of study consists of an analysis of historical sources, and of recent studies in suicidology and sociology of religion about suicide and religion in Lithuania. The results of this analysis show that two factors seem to be most important-heroicizing resistance suicides and experiencing long-term politics of atheisation.
+C1 [Gailiene, Danute] Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+C3 Vilnius University
+RP Gailiene, D (corresponding author), Univ Vilnius, Dept Clin Psychol, Univ 9-1, LT-01513 Vilnius, Lithuania.
+EM gailiened@gmail.com
+NR 32
+TC 7
+Z9 7
+U1 0
+U2 3
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2077-1444
+J9 RELIGIONS
+JI Religions
+PD MAR
+PY 2018
+VL 9
+IS 3
+AR 71
+DI 10.3390/rel9030071
+PG 8
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA GA7KH
+UT WOS:000428514500007
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Kalediene, R
+   Starkuviene, S
+   Petrauskiene, J
+AF Kalediene, R
+   Starkuviene, S
+   Petrauskiene, J
+TI Seasonal patterns of suicides over the period of socio-economic
+   transition in Lithuania
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID VIOLENT SUICIDE; MORTALITY; TIME; DISORDER
+AB Background: In Lithuania, suicides are a grave public health problem, requiring more extensive investigation. The aim of the study was to assess the seasonal variations of suicides in Lithuania throughout the years 1993-2002, describing patterns by gender, age and method of suicide.
+   Methods: The study material consisted of all registered suicides (n = 16,147) committed throughout 1993-2002 in Lithuania. Smoothed trends were inspected. The seasonal effect was explored using monthly ratio statistics and spectral analysis.
+   Results: Suicides in Lithuania have a distinct annual rhythm with peaks in summer and troughs in December. The December frequencies fell by more than 23% in men and 30% in women, while June peak reached nearly 23% in men and July peak exceeded 29% in women, compare with the average levels, (p < 0.05). Hanging was the most common method of suicide both in men and women comprising up to 90% among all suicides in 1998-2002. Among different methods, only hanging suicides showed significant seasonal variations, especially in men. The seasonal amplitude has decreased over time.
+   Conclusion: Substantial seasonal variations in suicides were associated with a high proportion of hanging. Extremely high suicide rates in Lithuania require further extensive studies and urgent preventive programs, taking into account the suggestions of this survey.
+C1 Kaunas Univ Med, Dept Social Med, LT-44307 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Kalediene, R (corresponding author), Kaunas Univ Med, Dept Social Med, A Mickeviciaus St 9, LT-44307 Kaunas, Lithuania.
+EM kaleda@kaunas.omnitel.net; smante@centras.lt; socmed@kmu.lt
+RI Lawson, David/A-7422-2012
+NR 40
+TC 30
+Z9 30
+U1 0
+U2 14
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD FEB 22
+PY 2006
+VL 6
+AR 40
+DI 10.1186/1471-2458-6-40
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 020BO
+UT WOS:000235883100001
+PM 16504069
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Zukauskas, G
+AF Zukauskas, G
+TI Suicide among police officers and military in Lithuania
+SO FORENSIC SCIENCE INTERNATIONAL
+LA English
+DT Meeting Abstract
+CT 3rd European-Academy-of-Forensic-Science Meeting
+CY SEP 22-27, 2003
+CL ISTANBUL, TURKEY
+SP European Acad Forens Sci, Istanbul Univ, Inst Forens Sci
+DE suicide; police officers; military
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ELSEVIER SCI IRELAND LTD
+PI CLARE
+PA CUSTOMER RELATIONS MANAGER, BAY 15, SHANNON INDUSTRIAL ESTATE CO, CLARE,
+   IRELAND
+SN 0379-0738
+J9 FORENSIC SCI INT
+JI Forensic Sci.Int.
+PD SEP
+PY 2003
+VL 136
+SU 1
+BP 298
+EP 298
+PG 1
+WC Medicine, Legal
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA 725HM
+UT WOS:000185538200663
+DA 2023-12-05
+ER
+
+PT J
+AU Liaugaudaite, V
+   Naginiene, R
+   Raskauskiene, N
+   Mickuviene, N
+   Bunevicius, A
+   Sher, L
+AF Liaugaudaite, Vilma
+   Naginiene, Rima
+   Raskauskiene, Nijole
+   Mickuviene, Narseta
+   Bunevicius, Adomas
+   Sher, Leo
+TI Relationship between Lithium Levels in Drinking Water and Suicide Rates:
+   A Nationwide Study in Lithuania
+SO ARCHIVES OF SUICIDE RESEARCH
+LA English
+DT Article
+DE lithium; suicide; drinking water
+ID MOOD DISORDERS; TRACE LITHIUM; RISK; MORTALITY; PREVENTION; EXPOSURE
+AB Objective: To investigate an association of lithium levels in the drinking water with suicide mortality rates in Lithuania. Methods: Samples from public drinking water systems were taken in all districts of Lithuania. Lithium levels were determined using the ion chromatography method. For the statistical calculations, lithium levels were averaged per district municipality and plotted against suicide standardized mortality rates (SMR) per 100,000 populations, within the 5-year period from 2012 to 2016. Results: We found that lithium concentrations in drinking water were significantly negatively associated with total suicide rates in a nonlinear way. Conclusion: Lithium intake with drinking water may affect suicide rates in some geographical areas.
+C1 [Liaugaudaite, Vilma; Naginiene, Rima; Raskauskiene, Nijole; Mickuviene, Narseta; Bunevicius, Adomas] Lithuanian Univ Hlth Sci, Neurosci Inst, Eiveniu 4, LT-44307 Kaunas, Lithuania.
+   [Sher, Leo] James J Peters Vet Adm Med Ctr, Bronx, NY USA.
+   [Sher, Leo] Icahn Sch Med Mt Sinai, New York, NY 10029 USA.
+C3 Lithuanian University of Health Sciences; US Department of Veterans
+   Affairs; Veterans Health Administration (VHA); James J. Peters VA
+   Medical Center; Icahn School of Medicine at Mount Sinai
+RP Liaugaudaite, V (corresponding author), Lithuanian Univ Hlth Sci, Neurosci Inst, Eiveniu 4, LT-44307 Kaunas, Lithuania.
+EM vilma.liaugaudaite@lsmuni.lt
+RI Sher, Leo/G-4276-2012; Bunevicius, Adomas/I-3394-2019
+OI Bunevicius, Adomas/0000-0003-0446-6898; Liaugaudaite,
+   Vilma/0000-0002-3361-5074
+FU Research Foundation of the Lithuanian University of Health Sciences
+FX This research was, in part, financed by the Research Foundation of the
+   Lithuanian University of Health Sciences. The authors are grateful to
+   the Laboratory UAB Vandens tyrimai for analysis of lithium concentration
+   and valuable contribution to this research.
+NR 46
+TC 7
+Z9 7
+U1 2
+U2 14
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1381-1118
+EI 1543-6136
+J9 ARCH SUICIDE RES
+JI Arch. Suicide Res.
+PD APR 3
+PY 2021
+VL 25
+IS 2
+BP 340
+EP 352
+DI 10.1080/13811118.2019.1674226
+EA OCT 2019
+PG 13
+WC Psychiatry; Psychology; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA SA2CD
+UT WOS:000490271100001
+PM 31596179
+DA 2023-12-05
+ER
+
+PT J
+AU Aranauskas, R
+AF Aranauskas, R
+TI Suicides in Lithuania
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 State Mental Hlth Ctr, Vilnius, Lithuania.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS CEDEX 15
+PA 23 RUE LINOIS, 75724 PARIS CEDEX 15, FRANCE
+SN 0924-9338
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PD OCT
+PY 2000
+VL 15
+SU 2
+BP 302S
+EP 302S
+DI 10.1016/S0924-9338(00)94321-9
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 380YG
+UT WOS:000165731700290
+DA 2023-12-05
+ER
+
+PT J
+AU Stricka, M
+   Jakubauskiene, M
+AF Stricka, M.
+   Jakubauskiene, M.
+TI Suicide prevention: a case of Lithuania
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [Stricka, M.] Lithuanian Univ Hlth Sci, Dept Prevent Med, Kaunas, Lithuania.
+   [Stricka, M.] Suicide Prevent Bur, State Mental Hlth Ctr, Vilnius, Lithuania.
+   [Jakubauskiene, M.] Vilnius Univ, Fac Med, Inst Publ Hlth, Vilnius, Lithuania.
+C3 Lithuanian University of Health Sciences; Vilnius University
+EM stricka.marius@gmail.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2016
+VL 26
+SU 1
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA ER2CA
+UT WOS:000398600402032
+DA 2023-12-05
+ER
+
+PT J
+AU Stricka, M
+   Jakubauskiene, M
+AF Stricka, M.
+   Jakubauskiene, M.
+TI Suicide prevention: a case of Lithuania
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [Stricka, M.] Lithuanian Univ Hlth Sci, Dept Prevent Med, Kaunas, Lithuania.
+   [Stricka, M.] Suicide Prevent Bur, State Mental Hlth Ctr, Vilnius, Lithuania.
+   [Jakubauskiene, M.] Vilnius Univ, Inst Publ Hlth, Fac Med, Vilnius, Lithuania.
+C3 Lithuanian University of Health Sciences; Vilnius University
+EM marius.stricka@gmail.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD NOV
+PY 2016
+VL 26
+SU 1
+BP 400
+EP 400
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA ER2CA
+UT WOS:000398600404243
+DA 2023-12-05
+ER
+
+PT J
+AU Skokauskas, N
+AF Skokauskas, Norbert
+TI Adolescent suicide statistics and prevention in Lithuania
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Skokauskas, Norbert] Trinity Coll Dublin, Dept Psychiat, Dublin, Ireland.
+C3 Trinity College Dublin
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1018-8827
+EI 1435-165X
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD JUN
+PY 2011
+VL 20
+IS 1
+SU S
+MA S5-03-4
+BP S27
+EP S27
+PG 1
+WC Psychology, Developmental; Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics; Psychiatry
+GA V47CB
+UT WOS:000209928800068
+DA 2023-12-05
+ER
+
+PT J
+AU Kaceniene, A
+   Danila, E
+   Cicenas, S
+   Smailyte, G
+AF Kaceniene, Auguste
+   Danila, Edvardas
+   Cicenas, Saulius
+   Smailyte, Giedre
+TI Suicide risk among lung cancer patients in Lithuania
+SO CLINICAL RESPIRATORY JOURNAL
+LA English
+DT Letter
+C1 [Kaceniene, Auguste; Smailyte, Giedre] Natl Canc Inst, Lab Canc Epidemiol, LT-08406 Vilnius, Lithuania.
+   [Danila, Edvardas] Vilnius Univ Hosp Santaros Klin, Ctr Pulmonol & Allergol, LT-08661 Vilnius, Lithuania.
+   [Danila, Edvardas] Vilnius Univ, Fac Med, Clin Infect & Chest Dis, Dermatovenereol & Allergol, LT-03101 Vilnius, Lithuania.
+   [Cicenas, Saulius] Natl Canc Inst, Dept Thorac Surg & Oncol, LT-08660 Vilnius, Lithuania.
+   [Cicenas, Saulius] Vilnius Univ, Fac Med, Clin Internal Dis Family Med & Oncol, LT-03101 Vilnius, Lithuania.
+   [Smailyte, Giedre] Vilnius Univ, Fac Med, Inst Publ Hlth, LT-03101 Vilnius, Lithuania.
+C3 National Cancer Institute - Lithuania; Vilnius University; National
+   Cancer Institute - Lithuania; Vilnius University; Vilnius University
+RP Kaceniene, A (corresponding author), Natl Canc Inst, Lab Canc Epidemiol, LT-08406 Vilnius, Lithuania.
+RI Danila, Edvardas/ITV-9362-2023; Smailyte, Giedre/D-7316-2019
+OI Smailyte, Giedre/0000-0001-8365-543X
+NR 7
+TC 4
+Z9 4
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1752-6981
+EI 1752-699X
+J9 CLIN RESPIR J
+JI Clin. Respir. J.
+PD SEP
+PY 2018
+VL 12
+IS 9
+BP 2455
+EP 2456
+DI 10.1111/crj.12916
+PG 2
+WC Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Respiratory System
+GA GV0HW
+UT WOS:000445741200009
+PM 30073786
+DA 2023-12-05
+ER
+
+PT J
+AU Starkuviene, S
+   Kalediene, R
+   Petrauskiene, J
+AF Starkuviene, S.
+   Kalediene, R.
+   Petrauskiene, J.
+TI Epidemic of suicide by hanging in Lithuania: Does socio-demographic
+   status matter?
+SO PUBLIC HEALTH
+LA English
+DT Article
+DE hanging; suicide; method; Lithuania
+ID MORTALITY
+AB Objective: To analyse suicide by hanging, compared with other methods, by demographic and selected social factors in Lithuania, and to evaluate changes during 1993-1997, and 1998-2002.
+   Methods: Data on committed suicides were compiled from the Lithuanian Department of Statistics. Suicides were identified by the International Classification of Diseases (ICD): codes in ICD-9 E950-E959 and codes in ICD-10 X60-X84. These were categorized into seven groups by method of suicide. Particular attention was paid to suicide and self-inflicted injury by hanging, strangulation and suffocation (ICD-9: E953; ICD-10: X70). These data were analysed by gender, age, place of residence, education, and marital status.
+   Results: A total of 8324 suicides (6864 men and 1460 women) were committed during 1993-1997, and 7823 suicides (6455 men and 1368 women) during 1998-2002. Of all registered suicides in Lithuania during 1993-2002, hanging was the most common method. Over the period under investigation, hanging, in proportion to all other methods used to commit suicide, increased statistically significantly from 89.4% among men and 77.3% among women between 1993 and 1997 to 91.7% among men and 82.6% among women between 1998 and 2002. The most noticeable rise occurred among girls aged 10-19 years. The next most common methods among men were firearms and poisoning; among women, poisoning and jumping from high places were common methods. Hanging predominated in men, older people, rural residents and people with low levels of education. A logistic regression analysis showed that gender (odds ratio [OR] = 2.4; 95% confidence interval [CI] 2.2-2.7), place of residence (OR = 2.0; 95% CI 1.8-2.2) and education (OR = 1.2; 95% CI 1.1-1.3), independently of other factors, had the strongest influence on the choice of hanging as the method of suicide between 1993 and 2002. Age had only a minor effect, and marital status had no significant effect on choosing hanging to commit suicide.
+   Conclusions: Hanging is the most common method of suicide in Lithuania. The popularity of this highly lethal method may be one of the underlying causes for the high rate of committed suicides. Universal approaches to suicide prevention deserve serious consideration, especially challenging the social acceptability of hanging among men, older people, rural residents, and tow educated groups of the population in Lithuania. (c) 2006 The Royal Institute of Public Health. Published by Elsevier Ltd. All rights reserved.
+C1 Kuanas Univ Med, Fac Publ Hlth, Dept Social Med, LT-44307 Kaunas, Lithuania.
+RP Starkuviene, S (corresponding author), Kuanas Univ Med, Fac Publ Hlth, Dept Social Med, A Mickevicius St 9, LT-44307 Kaunas, Lithuania.
+EM smante@centras.lt
+NR 21
+TC 25
+Z9 26
+U1 0
+U2 4
+PU W B SAUNDERS CO LTD
+PI LONDON
+PA 32 JAMESTOWN RD, LONDON NW1 7BY, ENGLAND
+SN 0033-3506
+EI 1476-5616
+J9 PUBLIC HEALTH
+JI Public Health
+PD AUG
+PY 2006
+VL 120
+IS 8
+BP 769
+EP 775
+DI 10.1016/j.puhe.2006.04.009
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 083SS
+UT WOS:000240479100011
+PM 16828493
+DA 2023-12-05
+ER
+
+PT J
+AU Lesinskiene, S
+   Milieskaite, M
+   Karaliene, V
+   Stankeviciute, V
+AF Lesinskiene, S.
+   Milieskaite, M.
+   Karaliene, V.
+   Stankeviciute, V.
+TI Bullying, self-harming behaviour and attempted suicide among adolescents
+   in Lithuania
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Lesinskiene, S.; Milieskaite, M.; Karaliene, V.; Stankeviciute, V.] Vilnius Univ, Vilnius, Lithuania.
+C3 Vilnius University
+RI Lesinskiene, Sigita/JNE-2450-2023
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 6
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1018-8827
+EI 1435-165X
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD JUN
+PY 2015
+VL 24
+SU 1
+MA PT-019
+BP S236
+EP S236
+PG 1
+WC Psychology, Developmental; Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Pediatrics; Psychiatry
+GA DA5DY
+UT WOS:000367823900621
+DA 2023-12-05
+ER
+
+PT J
+AU Kalediene, R
+   Petrauskiene, J
+   Starkuviene, S
+AF Kalediene, R.
+   Petrauskiene, J.
+   Starkuviene, S.
+TI Suicide mortality and socio-economic transition in Lithuania: critical
+   points in time and place
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Meeting Abstract
+C1 [Kalediene, R.; Petrauskiene, J.; Starkuviene, S.] Kaunas Univ Med, Dept Hlth Management, Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+EM kaleda@kaunas.omnitel.net
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 4
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PY 2007
+VL 17
+SU 2
+BP 221
+EP 221
+PG 1
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 239UR
+UT WOS:000251544100584
+DA 2023-12-05
+ER
+
+PT J
+AU Dadasev, S
+   Skruibis, P
+   Gailiene, D
+   Latakiene, J
+   Grizas, A
+AF Dadasev, Said
+   Skruibis, Paulius
+   Gailiene, Danute
+   Latakiene, Jolanta
+   Grizas, Antanas
+TI Too strong? Barriers from getting support before a suicide attempt in
+   Lithuania
+SO DEATH STUDIES
+LA English
+DT Article
+ID HELP-SEEKING BEHAVIOR; SELF-HARM; POPULATION
+AB The study aimed to understand the tendencies of help seeking before a suicide attempt in Lithuania. An analysis of interviews with 21 Lithuanian adults demonstrated strong avoidance of seeking help. The main reasons for avoidance included a lack of trust in other people, thinking that one must solve problems independently without sharing them, avoiding troubling others, and a belief that showing genuine emotions is a sign of weakness. These findings may contribute to suicide prevention by more deeply understanding the barriers to help seeking among high suicide risk groups, particularly in countries with a traumatic historical experience.
+C1 [Dadasev, Said; Skruibis, Paulius; Gailiene, Danute; Latakiene, Jolanta; Grizas, Antanas] Vilnius Univ, Fac Philosophy, Dept Clin & Org Psychol, Univ Str 9-1-202, Vilnius, Lithuania.
+C3 Vilnius University
+RP Dadasev, S (corresponding author), Vilnius Univ, Fac Philosophy, Dept Clin & Org Psychol, Univ Str 9-1-202, Vilnius, Lithuania.
+EM said.dadasev@fsf.vu.lt
+RI Skruibis, Paulius/AAF-2297-2019
+OI Skruibis, Paulius/0000-0001-9960-0193; Latakiene,
+   Jolanta/0000-0002-7983-9866
+NR 28
+TC 6
+Z9 6
+U1 0
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PY 2016
+VL 40
+IS 8
+BP 507
+EP 512
+DI 10.1080/07481187.2016.1184725
+PG 6
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA DZ9OW
+UT WOS:000386207900005
+PM 27260844
+DA 2023-12-05
+ER
+
+PT J
+AU Liaugaudaite, V
+   Mickuviene, N
+   Raskauskiene, N
+   Naginiene, R
+   Sher, L
+AF Liaugaudaite, Vilma
+   Mickuviene, Narseta
+   Raskauskiene, Nijole
+   Naginiene, Rima
+   Sher, Leo
+TI Lithium levels in the public drinking water supply and risk of suicide:
+   A pilot study
+SO JOURNAL OF TRACE ELEMENTS IN MEDICINE AND BIOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 6th International FESTEM Symposium on New Horizons on Trace Elements and
+   Minerals Role in Human and Animal Health
+CY MAY 26-28, 2016
+CL Catania, ITALY
+SP FESTEM
+DE Lithium; Suicide; Drinking water
+ID MORTALITY; VIOLENCE; MEN; AGGRESSION; COMPLETERS; PREVENTION;
+   DEPRESSION; DIFFERENCE; ATTEMPTERS; DISORDERS
+AB Suicide is a major public health concern affecting both the society and family life. There are data indicating that higher level lithium intake with drinking water is associated with lower suicide rate. This pilot study examined the relationship between lithium levels in drinking water and suicide rates in Lithuania. Twenty-two samples from public drinking water systems were taken in 9 cities of Lithuania. The lithium concentration in these samples was determined by inductively coupled plasma mass spectrometry (ICP-MS). The suicide data were obtained from the Lithuania Database of Health Indicators, and comprised all registered suicides across all ages and gender within the 5-year period from 2009 to 2013. The study demonstrated an inverse correlation between levels of lithium (log natural transformed), number of women for 1000 men and standardized mortality rate for suicide among total study population. After adjusting for confounder (the number of women for 1000 men), the lithium level remained statistically significant in men, but not in women. Our study suggested that higher levels of lithium in public drinking water are associated with lower suicide rates in men. It might have a protective effect on the risk of suicide in men. (C) 2017 The Authors. Published by Elsevier GmbH.
+C1 [Liaugaudaite, Vilma; Mickuviene, Narseta; Raskauskiene, Nijole] Lithuanian Univ Hlth Sci, Behav Med Inst, Vyduno 4, LT-400135 Palanga, Lithuania.
+   [Naginiene, Rima] Lithuanian Univ Hlth Sci, Neurosci Inst, Kaunas, Lithuania.
+   [Sher, Leo] James J Peters Vet Adm Med Ctr, Bronx, NY USA.
+   [Sher, Leo] Icahn Sch Med Mt Sinai, New York, NY 10029 USA.
+C3 Lithuanian University of Health Sciences; Lithuanian University of
+   Health Sciences; US Department of Veterans Affairs; Veterans Health
+   Administration (VHA); James J. Peters VA Medical Center; Icahn School of
+   Medicine at Mount Sinai
+RP Liaugaudaite, V (corresponding author), Lithuanian Univ Hlth Sci, Behav Med Inst, Vyduno 4, LT-400135 Palanga, Lithuania.
+EM vilma.liaugaudaite@lsmuni.lt
+RI Sher, Leo/G-4276-2012
+OI Liaugaudaite, Vilma/0000-0002-3361-5074
+NR 55
+TC 49
+Z9 52
+U1 0
+U2 7
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 0946-672X
+J9 J TRACE ELEM MED BIO
+JI J. Trace Elem. Med. Biol.
+PY 2017
+VL 43
+SI SI
+BP 197
+EP 201
+DI 10.1016/j.jtemb.2017.03.009
+PG 5
+WC Biochemistry & Molecular Biology; Endocrinology & Metabolism
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Biochemistry & Molecular Biology; Endocrinology & Metabolism
+GA FD4XY
+UT WOS:000407536700029
+PM 28385387
+OA hybrid
+DA 2023-12-05
+ER
+
+PT J
+AU Strukcinskiene, B
+   Andersson, R
+   Janson, S
+AF Strukcinskiene, B.
+   Andersson, R.
+   Janson, S.
+TI Suicide mortality trends in young people aged 15 to 19 years in
+   Lithuania
+SO ACTA PAEDIATRICA
+LA English
+DT Article
+DE Mortality; Suicide; Trend; Young people
+ID INJURY MORTALITY; ALCOHOL-CONSUMPTION; ADOLESCENTS; CHILDREN; DEATH
+AB Aim: This paper considers the suicide mortality trends from 1990-2009 in young people aged 15 to 19 years in Lithuania.
+   Methods: Suicide and injury mortality data, plus mortality data from all causes, were used to compare the trend lines.
+   Results: Suicide mortality rate in young people aged 15-19 years and in all population showed a rising trend from 1990, and then a decreasing trend from 2002 year. This trend was significant exclusively in boys. When comparing suicide deaths as a percentage of injury deaths and of all deaths in the age group 15-19 years, rising trends for boys were evident, whilst in girls, there was no evidence of change.
+   Conclusions: In Lithuania, from early 1990s, the frequency of suicide increased amongst adults and young people aged 15-19 years. After 2002, a decrease in deaths by suicide was observed both for the whole population and for young people aged 15-19 years. The rise and fall was obvious for boys. The reasons for different trends may have been influenced by the political and socioeconomic instability in the 1990-2002 period, and the socioeconomic stability, together with active preventive measures, from 2002. Although the consumption of modern Selective serotonin reuptake inhibitors (SSRIs) increased during the same time, suicide mortality was again high during the economic crisis in 2008-2009.
+C1 [Strukcinskiene, B.] Klaipeda Univ, Fac Hlth Sci, LT-92294 Klaipeda, Lithuania.
+   [Andersson, R.; Janson, S.] Karlstad Univ, Div Publ Hlth Sci, Karlstad, Sweden.
+C3 Klaipeda University; Karlstad University
+RP Strukcinskiene, B (corresponding author), Klaipeda Univ, Fac Hlth Sci, Manto Str 84, LT-92294 Klaipeda, Lithuania.
+EM birutedoctor@hotmail.com
+RI Strukcinskiene, Birute/AAK-7568-2020
+NR 21
+TC 4
+Z9 4
+U1 0
+U2 10
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0803-5253
+EI 1651-2227
+J9 ACTA PAEDIATR
+JI Acta Paediatr.
+PD NOV
+PY 2011
+VL 100
+IS 11
+BP 1476
+EP 1480
+DI 10.1111/j.1651-2227.2011.02347.x
+PG 5
+WC Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics
+GA 840EO
+UT WOS:000296421300024
+PM 21554387
+DA 2023-12-05
+ER
+
+PT J
+AU Zaborskis, A
+   Sirvyte, D
+   Zemaitiene, N
+AF Zaborskis, Apolinaras
+   Sirvyte, Dainora
+   Zemaitiene, Nida
+TI Prevalence and familial predictors of suicidal behaviour among
+   adolescents in Lithuania: a cross-sectional survey 2014
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Suicide; Suicidal behaviour; Adolescents; Family; Parent-child
+   relationships; Parenting
+ID RISK-FACTORS; CHILD COMMUNICATION; PARENTING STYLE; YOUTH SUICIDE;
+   ALCOHOL-USE; HONG-KONG; IDEATION; EUROPE; TRENDS; PEER
+AB Background: In the past decades Lithuania has been experiencing a very high suicide rate among young people and there are scarce data on the role of the family in shaping these people suicidal behaviour. This study investigated the prevalence of suicidal ideation and attempts, as well as their association with a range of familial factors in a representative sample of Lithuanian adolescents.
+   Methods: Study subjects (N = 3572) were adolescents aged 13- and 15-years from the schools in Lithuania who were surveyed in Spring 2014 according to the methodology of the cross-national Health Behaviour in School-aged Children (HBSC). A standard HBSC international questionnaire was translated into Lithuanian and used anonymously to obtain information about suicidal behaviour (stopped doing activities, considered suicide, planned suicide, and suicide attempts) and family life (family structure, quality of communication in family, parental monitoring and bonding, parenting style, family time, etc.). Logistic regression was used to assess association between suicidal behaviours and familial variables.
+   Results: Forty three percents of surveyed adolescents reported presence of emotions that stopped doing activities during the last 12 months, 23.8 % seriously considered attempting suicide, 13.7 % made a suicide plan, 13.2 % attempted suicide, and 4.1 % needed treatment because of suicide attempt in the previous year. Adolescents from non-intact families reported more suicidal ideation (OR ranged from 1.32 to 1.35, P < 0.05) and more suicide attempts (OR = 1.70, 95 % CI 1.38-2.09, P < 0.001). Among adolescents from intact families, some manisfestations of suicidal behaviour were significantly associated with low satisfaction in family relationships, low father's and mother's emotional support, low mother's monitoring, low school-related parental support, authoritarian-repressive father's parenting style and permissive-neglectful mother's parenting style, but rare family time together and rare electronic media communication with parents were inversely associated with suicidal behaviour. The boys, 15-yearolds and adolescents who indicated often activities together with their families were more likely than their counterparts to report suicide attempts treated by a doctor or nurse.
+   Conclusion: The young people of Lithuania are at particular risk for suicides. A non-intact family structure and weak family functioning are significant predictors of suicidal ideation and attempts among adolescents of Lithuania. It is essential to consider family life practices in planning intervention programs for prevention of suicides among adolescents.
+C1 [Zaborskis, Apolinaras; Sirvyte, Dainora; Zemaitiene, Nida] Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, Inst Hlth Res, A Mickeviciaus Str 9, LT-44307 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Zaborskis, A (corresponding author), Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, Inst Hlth Res, A Mickeviciaus Str 9, LT-44307 Kaunas, Lithuania.
+EM apolinaras.zaborskis@lsmuni.lt
+FU Lithuanian University of Health Sciences
+FX This study was funded by the Lithuanian University of Health Sciences.
+NR 75
+TC 34
+Z9 36
+U1 3
+U2 33
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 12
+PY 2016
+VL 16
+AR 554
+DI 10.1186/s12889-016-3211-x
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA DR2BX
+UT WOS:000379711100002
+PM 27405357
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Tamosiunas, A
+   Reklaitiene, R
+   Virviciute, D
+   Sopagiene, D
+AF Tamosiunas, Abdonas
+   Reklaitiene, Regina
+   Virviciute, Dalia
+   Sopagiene, Diana
+TI Trends in suicide in a Lithuanian urban population over the period
+   1984-2003
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID RISK-FACTORS; RATES; MORTALITY; INEQUALITIES; FINLAND
+AB Background: Throughout the last decade of the twentieth century, Lithuania had the highest suicide rates in Europe among both men and women aged 25 - 64 years. The rates increased from 1986 until 1995, but later there was a slight decrease. This paper describes the trends in suicide deaths in urban population in Lithuania by gender, dates and suicide method over the period 1984 2003.
+   Methods: Data from the regional mortality register were used to analyze suicide deaths among all men and women aged 25 - 64 years in Kaunas city, Lithuania over the period 1984 - 2003. Age-standardized death rates per 100,000 persons ( using European standard population) were calculated by gender, suicide method and dates. A joinpoint regression method was used to estimate annual percentage changes (EPACs) and to detect points where the trends changed significantly.
+   Results: The frequency of death by suicide among males was 48% higher in 1994 - 2003 than in 1984 - 1993. The corresponding increase among females was 28%. The most common methods of suicide among men were hanging, strangulation and suffocation ( 87.4% among all suicide deaths). The proportions of hanging, strangulation and suffocation in males increased by 6.9% - from 83.9% to 89.7% - compared to a 24.2% increase in deaths from handgun, rifle and shotgun firearm discharges and a 216.7% increase in deaths from poisoning with solvents, gases, pesticides and vapors. Among females, the most common methods of suicide were hanging, strangulation and suffocation ( 68.3% of all suicide deaths). The proportion of hanging deaths among females increased during the time period examined, whereas the proportion of poisonings with solid or liquid substances decreased.
+   Conclusion: Suicide rates increased significantly among urban men aged 25 - 64 years in Lithuania throughout the period 1984 - 2003, whereas among women an increasing but statistically insignificant trend was observed. There were changes in the suicide methods used by both men and women. Changes in the choice of method may have contributed to the changes in suicide rates.
+C1 Kaunas Univ Med, Inst Cardiol, Dept Populat Studies, Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Tamosiunas, A (corresponding author), Kaunas Univ Med, Inst Cardiol, Dept Populat Studies, Kaunas, Lithuania.
+EM atamos@kmu.lt; regina@kmu.lt; dalivirv@itc.kmu.lt; diana@kmu.lt
+RI Tamosiunas, Abdonas/AAD-4274-2021
+NR 20
+TC 20
+Z9 20
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 13
+PY 2006
+VL 6
+AR 184
+DI 10.1186/1471-2458-6-184
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 074HX
+UT WOS:000239804400001
+PM 16836765
+OA gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Smailyte, G
+   Jasilionis, D
+   Kaceniene, A
+   Krilaviciute, A
+   Ambrozaitiene, D
+   Stankuniene, V
+AF Smailyte, Giedre
+   Jasilionis, Domantas
+   Kaceniene, Auguste
+   Krilaviciute, Agne
+   Ambrozaitiene, Dalia
+   Stankuniene, Vladislava
+TI Suicides among cancer patients in Lithuania: A population-based
+   census-linked study
+SO CANCER EPIDEMIOLOGY
+LA English
+DT Article
+DE Cancer patients; Suicide; Standardized mortality ratio; Record linkage
+ID RECORD LINKAGE; UNITED-STATES; RISK; MORTALITY; RATES; DEATH; AUSTRALIA;
+   REGISTER; SWEDEN; KOREA
+AB Background: This study aims to estimate suicide risk and its socio-demographic determinants among cancer patients in the country showing the highest suicide rates among developed countries. Methods: The study is based on a unique census-linked dataset based on the linkages between the records from death and cancer registers and the 2001 population census records. Standardized mortality ratios for suicide (SMRs) were calculated for patients diagnosed with cancer in Lithuania between April 6, 2001 and December 31, 2009, relative to suicide rates in the general population. Results: We found that the relative suicide risk was elevated for both males and females, with SMRs of 1.43 (95% CI 1.23-1.66) and 1.32 (95% CI 0.95-1.80), respectively. This relationship for females became statistically significant and stronger after excluding skin cancers. The highest suicide risks were observed at older ages and during the period shortly after the diagnosis. The groups showing an increased suicide risk include lower educated, non-married, and rural male patients. Conclusion: The results of our study point to inadequacies of the health care system in dealing with mental health problems of cancer patients. Interventions allowing early detection of depression or suicidal ideation may help to prevent suicide among cancer patients in Lithuania. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Smailyte, Giedre; Kaceniene, Auguste; Krilaviciute, Agne] Vilnius State Univ, Inst Oncol, Lithuanian Canc Registry, LT-08406 Vilnius, Lithuania.
+   [Smailyte, Giedre; Jasilionis, Domantas; Ambrozaitiene, Dalia; Stankuniene, Vladislava] Lithuanian Social Res Ctr, Inst Demog Res, LT-01108 Vilnius, Lithuania.
+   [Jasilionis, Domantas] Max Planck Inst Demog Res, Lab Demog Data, D-18057 Rostock, Germany.
+   [Ambrozaitiene, Dalia] Stat Lithuania, LT-01500 Vilnius, Lithuania.
+C3 National Cancer Institute - Lithuania; Vilnius University; Max Planck
+   Society
+RP Smailyte, G (corresponding author), Vilnius State Univ, Inst Oncol, Lithuanian Canc Registry, P Baublio G 3B, LT-08406 Vilnius, Lithuania.
+EM giedre.smailyte@vuoi.lt
+RI Krilaviciute, Agne/AAJ-4764-2020; Jasilionis, Domantas/CAG-7654-2022;
+   Smailyte, Giedre/D-7316-2019
+OI Jasilionis, Domantas/0000-0001-9959-9292; Smailyte,
+   Giedre/0000-0001-8365-543X
+FU Research Council of Lithuania [VP1-3.1-SMM-07-K-02-067]
+FX This study was funded by a grant (No. VP1-3.1-SMM-07-K-02-067) from the
+   Research Council of Lithuania. The research was performed by the
+   Institute for Demographic Research (Lithuanian Social Research Centre)
+   in cooperation with the Lithuanian Cancer Registry (Institute of
+   Oncology), Statistics Lithuania, and the Max Planck Institute for
+   Demographic Research (Germany).
+NR 36
+TC 29
+Z9 30
+U1 0
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1877-7821
+J9 CANCER EPIDEMIOL
+JI Cancer Epidemiol.
+PD OCT
+PY 2013
+VL 37
+IS 5
+BP 714
+EP 718
+DI 10.1016/j.canep.2013.05.009
+PG 5
+WC Oncology; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology; Public, Environmental & Occupational Health
+GA 230UY
+UT WOS:000325369800032
+PM 23809215
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+AF Vaernik, Peeter
+TI Suicide in the World
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+LA English
+DT Article
+DE suicide; mortality; WHO
+ID RATES; CHINA
+AB Introduction: Over the past 20 years the WHO has considerably improved world mortality data. There are still shortcomings but more countries now report data and world-wide estimates are regularly made. Methods: Data about mortality have been retrieved from the WHO world database. Worldwide injury mortality estimates for 2008 as well as trends of the suicide rate from 1950 to 2009 were analysed. Results: Suicides in the world amount to 782 thousand in 2008 according to the WHO estimate, which is 1.4% of total mortality and 15% of injury mortality. The suicide rate for the world as a whole is estimated at 11.6 per 100,000 inhabitants. The male-female rate ratio of suicide is estimated to be highest in the European Region (4.0) and the lowest in the Eastern Mediterranean region (1.1). Among males the highest suicide rate in the 15-29 age group is in the SE Asian region, in the 45-59 age group in European males and for ages above 60 in the Western Pacific region. Females from SE Asia have a remarkably high suicide rate among 15-29-year-olds and from age 45 in the Western Pacific region. The leading country is currently Lithuania, with a suicide rate of 34.1 per 100,000 inhabitants. Also among males the suicide rate is the highest in Lithuania at 61.2. Among females South Korea with 22.1 is at the top of world suicide rates. Conclusions: During the past six decades, according to the WHO Japan, Hungary, and Lithuania have topped the list of world countries by suicide rate, but if the current trends continue South Korea will overtake all others in a few years. The heart of the problem of suicide mortality has shifted from Western Europe to Eastern Europe and now seems to be shifting to Asia. China and India are the biggest contributors to the absolute number of suicides in the world.
+C1 [Vaernik, Peeter] Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Vaernik, Peeter] Tallinn Univ, Estonian Inst Populat Studies, EE-10120 Tallinn, Estonia.
+C3 Tallinn University
+RP Värnik, P (corresponding author), Estonian Swedish Mental Hlth & Suicidol Inst, Oic 39, EE-11615 Tallinn, Estonia.
+EM peeterv@suicidology.ee
+NR 19
+TC 319
+Z9 367
+U1 0
+U2 58
+PU MDPI AG
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1660-4601
+J9 INT J ENV RES PUB HE
+JI Int. J. Environ. Res. Public Health
+PD MAR
+PY 2012
+VL 9
+IS 3
+BP 760
+EP 771
+DI 10.3390/ijerph9030760
+PG 12
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 917KV
+UT WOS:000302175400008
+PM 22690161
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Skruibis, P
+   Astrauskas, K
+   Mazulyte-Rasytine, E
+AF Skruibis, Paulius
+   Astrauskas, Kasparas
+   Mazulyte-Rasytine, Egle
+TI Changes in prospective helpline volunteers' suicide intervention skills
+   throughout the initial training
+SO DEATH STUDIES
+LA English
+DT Article
+ID PREVENTION; IMPACT
+AB The objective of this study was to evaluate the changes in prospective helpline volunteers' suicide intervention skills throughout the training in Lithuania. In total, 90 participants of the Youth Line volunteer initial training course completed the Suicide Intervention Response Inventory (SIRI-2) before any training, before and after the suicide intervention module, and after all training. There was a steady and significant increase in the trainees? suicide intervention competencies during the training. Younger and less skilled trainees benefited more from the training. These results indicate that helpline volunteers can be trained in suicide intervention skills in a relatively short time.
+C1 [Skruibis, Paulius; Mazulyte-Rasytine, Egle] Vilnius Univ, Inst Psychol, Suicide Res Ctr, Vilnius, Lithuania.
+   [Astrauskas, Kasparas] Vilnius Univ, Inst Psychol, Vilnius, Lithuania.
+C3 Vilnius University; Vilnius University
+RP Skruibis, P (corresponding author), Vilnius Univ, Fac Philosophy, Suicide Res Ctr, Inst Psychol, Univ 9, LT-01513 Vilnius, Lithuania.
+EM paulius.skruibis@fsf.vu.lt
+RI Skruibis, Paulius/AAF-2297-2019
+OI Skruibis, Paulius/0000-0001-9960-0193; Mazulyte-Rasytine,
+   Egle/0000-0002-8770-4945
+NR 16
+TC 5
+Z9 5
+U1 0
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0748-1187
+EI 1091-7683
+J9 DEATH STUD
+JI Death Stud.
+PD AUG 9
+PY 2021
+VL 45
+IS 7
+BP 578
+EP 582
+DI 10.1080/07481187.2019.1671538
+EA OCT 2019
+PG 5
+WC Psychology, Multidisciplinary; Social Issues; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI)
+SC Psychology; Social Issues; Biomedical Social Sciences
+GA TF2BJ
+UT WOS:000488677900001
+PM 31578941
+DA 2023-12-05
+ER
+
+PT J
+AU Dulskas, A
+   Patasius, A
+   Kaceniene, A
+   Urbonas, V
+   Smailyte, G
+AF Dulskas, Audrius
+   Patasius, Ausvydas
+   Kaceniene, Auguste
+   Urbonas, Vincas
+   Smailyte, Giedre
+TI Suicide risk among colorectal cancer patients in Lithuania
+SO INTERNATIONAL JOURNAL OF COLORECTAL DISEASE
+LA English
+DT Article
+DE Colorectal cancer; Suicide; Predictors; Population-based study
+ID SURGERY
+AB Purpose: We aimed to estimate suicide risk among colorectal cancer patients in the country showing the highest suicide rates among developed countries.
+   Methods: Patients with colorectal cancer diagnosed between 1998 and 2012 were identified from the Lithuanian Cancer Registry. Standardised mortality ratios (SMRs) for suicide were calculated for patients diagnosed with cancer in Lithuania, relative to suicide rates in the general population.
+   Results: Twenty thousand seven hundred sixty-five primary colorectal cancer cases diagnosed between 1998 and 2012 were extracted from the database. Among 19,409 first primary colorectal cancer patients, we identified 67 suicides and the expected number of suicides calculated from general population was 41.4 in this cohort, resulting in an SMR of 1.62 for both sexes (95% CI, 1.27-2.06). A higher suicide risk was found for women (SMR 2.15; 95% CI 1.35-3.41), than for men (SMR 1.48; 95% CI 1.12-1.96). The suicide risk was almost twice higher in patients 60 and older, with highest increase in the oldest patients (SMR 2.12, 95% CI 1.01-4.46). The risk of suicide was not significantly elevated in colorectal cancer patients with localised tumours, but there was a fourfold increase in risk in patients with stage IV tumours. Compared with the general population, the risk of suicide among colorectal cancer patients was four times higher during the first 3 months after diagnosis and decreased thereafter.
+   Conclusions: The patients with colorectal cancer have a higher rate of suicide compared with the general Lithuanian population. Sex, age, advanced rectal cancer and distant spread of disease were the main predictors of suicide among colorectal cancer patients.
+C1 [Dulskas, Audrius] Natl Canc Inst, Dept Abdominal & Gen Surg & Oncol, 1 Santariskiu Str, LT-08406 Vilnius, Lithuania.
+   [Dulskas, Audrius] Univ Appl Sci, Fac Hlth Care, 45 Didlaukio Str, LT-08303 Vilnius, Lithuania.
+   [Dulskas, Audrius] Vilnius Univ, Fac Med, Clin Internal Family Med & Oncol, Dept Surg,Natl Canc Inst, 1 Santariskiu Str, LT-08406 Vilnius, Lithuania.
+   [Patasius, Ausvydas; Kaceniene, Auguste; Smailyte, Giedre] Natl Canc Inst, Lab Canc Epidemiol, LT-08406 Vilnius, Lithuania.
+   [Patasius, Ausvydas; Urbonas, Vincas] Natl Canc Inst, Dept Med Oncol, Lab Clin Oncol, Vilnius, Lithuania.
+   [Smailyte, Giedre] Vilnius Univ, Inst Publ Hlth, Fac Med, LT-03101 Vilnius, Lithuania.
+C3 National Cancer Institute - Lithuania; National Cancer Institute -
+   Lithuania; Vilnius University; National Cancer Institute - Lithuania;
+   National Cancer Institute - Lithuania; Vilnius University
+RP Dulskas, A (corresponding author), Natl Canc Inst, Dept Abdominal & Gen Surg & Oncol, 1 Santariskiu Str, LT-08406 Vilnius, Lithuania.; Dulskas, A (corresponding author), Univ Appl Sci, Fac Hlth Care, 45 Didlaukio Str, LT-08303 Vilnius, Lithuania.; Dulskas, A (corresponding author), Vilnius Univ, Fac Med, Clin Internal Family Med & Oncol, Dept Surg,Natl Canc Inst, 1 Santariskiu Str, LT-08406 Vilnius, Lithuania.
+EM audrius.dulskas@gmail.com
+RI Dulskas, Audrius/ADO-8185-2022; Dulskas, Audrius/AAR-3403-2020; Urbonas,
+   Vincas/AAX-1201-2021; Urbonas, Vincas/O-8071-2019; Smailyte,
+   Giedre/D-7316-2019
+OI Dulskas, Audrius/0000-0003-3692-8962; Urbonas,
+   Vincas/0000-0002-8070-6163; Smailyte, Giedre/0000-0001-8365-543X
+NR 10
+TC 9
+Z9 10
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0179-1958
+EI 1432-1262
+J9 INT J COLORECTAL DIS
+JI Int. J. Colorectal Dis.
+PD MAR
+PY 2019
+VL 34
+IS 3
+BP 555
+EP 558
+DI 10.1007/s00384-018-03228-4
+PG 4
+WC Gastroenterology & Hepatology; Surgery
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Gastroenterology & Hepatology; Surgery
+GA HS3DH
+UT WOS:000463742500023
+PM 30617411
+DA 2023-12-05
+ER
+
+PT J
+AU Kalediene, R
+   Starkuviene, S
+   Petrauskiene, J
+AF Kalediene, R
+   Starkuviene, S
+   Petrauskiene, J
+TI Mortality from external causes in Lithuania: looking for critical points
+   in time and place
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE external causes; inequalities; jointpoint; Lithuania mortality
+ID ALCOHOL-CONSUMPTION; ECONOMIC-FACTORS; FORMER USSR; SUICIDE; RATES;
+   CANCER; DEATH
+AB Aim: A study was undertaken to analyse trends in mortality from major external causes of death, and to detect urban/rural differences by cut points over the period of socioeconomic transition. Methods: Information on deaths from major external causes (traffic accidents, suicides, and homicides) for the 1990-2000 period was obtained from Lithuanian Department of Statistics. Mortality rates were age standardized, using the European standard, and analysed, according to (urban/rural) residence and sex. The Jointpoint analysis was used to identify the best-fitting points, wherever a statistically significant change in mortality occurred. Results: The most critical point for external causes of mortality during the period of transition was the year 1994, when an increasing mortality trend reversed to a decreasing one. Mortality from suicides primarily caused these positive changes. Changes in mortality from traffic accidents were not significantly associated with the period under analysis. Numerous less favourable trends in rural areas, including suicide rates, traffic accidents, and homicides, are likely to stratify urban/rural health outcomes in the future. Conclusion: Despite a recent decline, mortality from external causes remains at an extremely high level in Lithuania. Future progress requires sustained improvements in prevention, and serious attention to external causes of death in health policy development.
+C1 Kaunas Univ Med, Dept Social Med, LT-3000 Kaunas, Lithuania.
+   Kaunas Univ Med, Fac Publ Hlth, LT-3000 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences; Lithuanian University of
+   Health Sciences
+RP Kalediene, R (corresponding author), Kaunas Univ Med, Dept Social Med, Mickevicius St 9, LT-3000 Kaunas, Lithuania.
+EM kaleda@kaunas.omnitel.net
+NR 27
+TC 12
+Z9 13
+U1 0
+U2 4
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD OCT
+PY 2004
+VL 32
+IS 5
+BP 374
+EP 380
+DI 10.1080/14034940410024211
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 858SX
+UT WOS:000224213200009
+PM 15513671
+DA 2023-12-05
+ER
+
+PT J
+AU Kaceniene, A
+   Krilaviciute, A
+   Kazlauskiene, J
+   Bulotiene, G
+   Smailyte, G
+AF Kaceniene, Auguste
+   Krilaviciute, Agne
+   Kazlauskiene, Jurgita
+   Bulotiene, Giedre
+   Smailyte, Giedre
+TI Increasing suicide risk among cancer patients in Lithuania from 1993 to
+   2012: a cancer registry-based study
+SO EUROPEAN JOURNAL OF CANCER PREVENTION
+LA English
+DT Article
+DE cancer; population-based; standardized mortality ratio; suicide risk
+ID POPULATION; CARCINOMA; DIAGNOSIS; MORTALITY; WOMEN
+AB Certain groups of individuals seem to have an increased risk of committing suicide, and a number of studies have reported an increased risk of suicide among cancer patients. In this study, we aim to estimate the risk of suicide among cancer patients in Lithuania over the period 1993-2012. The records of patients diagnosed with primary cancer were extracted from the population-based Lithuanian Cancer Registry and 273 511 cases of first cancer were included in the analysis. Sex, age and calendar period-standardized mortality ratios (SMRs) were calculated by dividing the observed numbers of suicides among cancer patients by the expected number using national rates. An increased suicide risk was found for both sexes combined [SMR = 1.31, 95% confidence interval (CI): 1.21-1.41] compared with the general population. For all cancer sites except melanoma and skin, and breast and thyroid cancers, the relative suicide risk was elevated. The suicide risk was almost three-fold higher for advanced-stage patients compared with the general population (SMR = 2.89, 95% CI: 2.24-3.73). The highest suicide risk observed in our study was during the first 3 months following cancer diagnosis (SMR = 2.43, 95% CI: 1.96 - 3.01), indicating a critical period shortly after diagnosis. Despite ongoing increases in survival among cancer patients and decreases in suicide mortality in the general Lithuanian population during our study period, the increasing risk for suicide indicates that cancer patients' clinical and psychosocial needs remain unsatisfied. The major clinical implication of these data suggests the importance of multidisciplinary preventive interventions. Copyright (c) 2017 Wolters Kluwer Health, Inc. All rights reserved.
+C1 [Kaceniene, Auguste; Krilaviciute, Agne; Smailyte, Giedre] Natl Canc Inst, Lithuanian Canc Registry, P Baublio St 3B, LT-08406 Vilnius, Lithuania.
+   [Kazlauskiene, Jurgita] Univ Appl Sci, Fac Hlth Care, Vilnius, Lithuania.
+   [Bulotiene, Giedre] Natl Canc Inst, Dept Phys Med & Rehabil, Vilnius, Lithuania.
+   [Smailyte, Giedre] Vilnius Univ, Fac Med, Inst Publ Hlth, Vilnius, Lithuania.
+C3 National Cancer Institute - Lithuania; National Cancer Institute -
+   Lithuania; Vilnius University
+RP Smailyte, G (corresponding author), Natl Canc Inst, Lithuanian Canc Registry, P Baublio St 3B, LT-08406 Vilnius, Lithuania.
+EM giedre.smailyte@nvi.lt
+RI Krilaviciute, Agne/AAJ-4764-2020; Bulotiene, Giedre/GPX-5152-2022;
+   Smailyte, Giedre/D-7316-2019
+OI Bulotiene, Giedre/0000-0002-4536-6669; Smailyte,
+   Giedre/0000-0001-8365-543X
+NR 44
+TC 14
+Z9 14
+U1 0
+U2 14
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0959-8278
+EI 1473-5709
+J9 EUR J CANCER PREV
+JI Eur. J. Cancer Prev.
+PD SEP
+PY 2017
+VL 26
+SU 2
+BP S197
+EP S203
+DI 10.1097/CEJ.0000000000000375
+PG 7
+WC Oncology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology
+GA FP7ZM
+UT WOS:000417858800012
+PM 28914692
+DA 2023-12-05
+ER
+
+PT J
+AU Kalediene, R
+   Petrauskiene, J
+AF Kalediene, R
+   Petrauskiene, J
+TI Inequalities in daily variations of deaths from suicide in Lithuania:
+   Identification of possible risk factors
+SO SUICIDE AND LIFE-THREATENING BEHAVIOR
+LA English
+DT Article
+ID ALCOHOL-CONSUMPTION; FORMER USSR; MORTALITY; RATES; DEPRESSION
+AB The aim of this study was to analyze daily variations in mortality from suicides of Lithuanian urban and rural populations in two different periods of economic and political development of the country (1988-1990 and 1998-2000). The highest proportion of suicides occurred on Mondays and during the first days after the major public holidays, especially in men. Suicide mortality in rural areas was significantly higher in comparison to urban; nevertheless, daily variation was more marked in urban areas. Developing market economy and rising unemployment did not increase daily variation in suicides.
+C1 Kaunas Univ Med, Dept Social Med, LT-3000 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Kalediene, R (corresponding author), Kaunas Univ Med, Dept Social Med, Mickevicius Str 9, LT-3000 Kaunas, Lithuania.
+EM kaleda@kaunas.omnitel.net
+NR 32
+TC 20
+Z9 21
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-0234
+EI 1943-278X
+J9 SUICIDE LIFE-THREAT
+JI Suicide Life-Threat. Behav.
+PD SUM
+PY 2004
+VL 34
+IS 2
+BP 138
+EP 146
+DI 10.1521/suli.34.2.138.32786
+PG 9
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 824ZE
+UT WOS:000221725000005
+PM 15191270
+DA 2023-12-05
+ER
+
+PT J
+AU Kalediene, R
+   Starkuviene, S
+   Petrauskiene, J
+AF Kalediene, Ramune
+   Starkuviene, Skirmante
+   Petrauskiene, Jadvyga
+TI Social dimensions of mortality from external causes in Lithuania: do
+   education and place of residence matter?
+SO SOZIAL-UND PRAVENTIVMEDIZIN
+LA English
+DT Article
+DE external causes; mortality; education; urban/rural; Lithuania
+ID INEQUALITIES; SUICIDE
+AB Objectives: To assess inequalities in mortality from external causes by the level of education and the place of residence during the period of socio-economic transition in Lithuania.
+   Methods: Information on deaths, place of residence, and the level of education of persons aged 25 and older was derived from the National Database of Lithuania and censuses for 1989 (n = 3 537) and 2001 (n = 4 790).
+   Results: Mortality from external causes of Lithuanian urban and rural populations was strongly associated with the level of education. Educational inequalities increased throughout the period of socio-economic transition. In urban areas, mortality among the least educated population was 3.20 times higher in 1989 and 3.37 times higher in 2001, compared to those with university-level education. In rural areas the educational mortality rate ratios reached 3.47 and 4.33, respectively. The greatest educational inequalities were observed in suicide mortality, especially among males.
+   Conclusions: The results of this study disclosed increasing inequalities in mortality from external causes. Less educated populations, especially in rural areas, should receive particular attention in the development of strategies for the prevention of mortality from external causes.
+C1 Kaunas Univ Med, Dept Social Med, LT-44307 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Starkuviene, S (corresponding author), Kaunas Univ Med, Dept Social Med, A Mickievicius Str 9, LT-44307 Kaunas, Lithuania.
+EM smante@centras.It
+NR 27
+TC 12
+Z9 13
+U1 0
+U2 3
+PU BIRKHAUSER VERLAG AG
+PI BASEL
+PA VIADUKSTRASSE 40-44, PO BOX 133, CH-4010 BASEL, SWITZERLAND
+SN 0303-8408
+J9 SOZ PRAVENTIV MED
+JI Sozial-und Pravent.
+PY 2006
+VL 51
+IS 4
+BP 232
+EP 239
+DI 10.1007/s00038-006-4069-y
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 075EL
+UT WOS:000239866400008
+PM 17193785
+DA 2023-12-05
+ER
+
+PT J
+AU Zukauskas, G
+   Dapsys, K
+   Jasmontaite, E
+   Susinskas, J
+AF Zukauskas, G
+   Dapsys, K
+   Jasmontaite, E
+   Susinskas, J
+TI Some psychosocial problems of police officers in Lithuania
+SO POLICING-AN INTERNATIONAL JOURNAL OF POLICE STRATEGIES & MANAGEMENT
+LA English
+DT Article
+DE police; stress; suicide; rehabilitation
+AB Stress plays an important role in human fife. Under normal conditions it has a favorable influence. However. constant pathological stress can be harmful. The results can be depression, leading sometimes to alcohol and/or drug abuse, or suicide. Some specific groups of society are affected by stress more frequently and more severely. One of these groups is the police. This article aims to identify key psychosocial problem which police officers of Lithuania are encountering in an independent post-communist state. The common social situation in Lithuania is briefly reviewed and the main stress factors which influence police officers are evaluated using a specially developed Lithuanian University of Law Questionnaire (LULQ). The stress factors having the greatest negative effect are the administrative problem of police work, family problems, and an ineffective criminal justice system. The results are compared with similar studies carried out in the USA. Tlx necessity of amendments in LULQ and survey design, as well as the development of a program of police officer psychophysiological "abilitation" and rehabilitation, are discussed.
+C1 Lithuanian Univ Law, Vilnius, Lithuania.
+   Republican Vilnius Psychiat Hosp, Vilnius, Lithuania.
+   Lithuan Acad Sci, Inst Math, Vilnius, Lithuania.
+RP Zukauskas, G (corresponding author), Lithuanian Univ Law, Vilnius, Lithuania.
+NR 5
+TC 7
+Z9 7
+U1 0
+U2 3
+PU MCB U P LIMITED
+PI BRADFORD
+PA 60/62 TOLLER LANE, BRADFORD BD8 9BY, W YORKSHIRE, ENGLAND
+SN 1363-951X
+J9 POLICING
+JI Policing-An Int J Police Strategies & Manag.
+PY 2001
+VL 24
+IS 3
+BP 301
+EP 309
+DI 10.1108/EUM0000000005856
+PG 9
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 489RX
+UT WOS:000172006400003
+DA 2023-12-05
+ER
+
+PT J
+AU Mark, L
+   Samm, A
+   Tooding, LM
+   Sisask, M
+   Aasvee, K
+   Zaborskis, A
+   Zemaitiene, N
+   Värnik, A
+AF Mark, Lauraliisa
+   Samm, Algi
+   Tooding, Liina-Mai
+   Sisask, Merike
+   Aasvee, Katrin
+   Zaborskis, Apolinaras
+   Zemaitiene, Nida
+   Vaernik, Airi
+TI Suicidal Ideation, Risk Factors, and Communication With Parents An HBSC
+   Study on School Children in Estonia, Lithuania, and Luxembourg
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicidal ideation; parent-child communication; smoking; alcohol use;
+   physical fighting; bullying
+ID YOUTH SUICIDE; BEHAVIOR; ADOLESCENTS; CHILDHOOD; STUDENTS
+AB Background: Suicide is a leading cause of death among youth. In the year 2002, Lithuania had the 2nd, Luxembourg the 5th, and Estonia the 9th highest suicide rates among 15- to 19-year-olds across 90 countries worldwide. Suicidal ideation is a significant precursor to suicide. Aims: To report on the prevalence of and associations between suicidal ideation, smoking, alcohol consumption, physical fighting, bullying, and communication with parents among 15-year-old schoolchildren. Methods: The survey analyzes data from the 2005/2006 HBSC study from Estonia, Lithuania, and Luxembourg (N = 4,954). The risk factors were calculated through multinomial logistic regression analyses. Results: The overall prevalence of suicidal ideation in the preceding year was 17%. Suicidal thoughts were associated with communication difficulties with parents (OR from 2.0 to 4.6) and other risk factors, especially multiple risks (OR for 4-5 concurrent risk factors from 4.5 to 13.6). Parent-child communication had a significant mediating effect by decreasing the odds for suicidality and multiple risks. Limitations: The prevalence estimates were obtained by self-reports. The causal relationships need further investigation. Conclusion: The risk factors studied, particularly multiple risks, were associated with higher odds for suicidal ideation. Good parent-child communication is a significant resource for decreasing suicidal ideation among adolescents.
+C1 [Mark, Lauraliisa; Samm, Algi; Sisask, Merike; Vaernik, Airi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, EE-11615 Tallinn, Estonia.
+   [Mark, Lauraliisa; Sisask, Merike; Vaernik, Airi] Tallinn Univ, Inst Social Work, Tallinn, Estonia.
+   [Samm, Algi; Tooding, Liina-Mai; Vaernik, Airi] Univ Tartu, Tartu, Estonia.
+   [Aasvee, Katrin] Natl Inst Hlth Dev, Tallinn, Estonia.
+   [Zaborskis, Apolinaras; Zemaitiene, Nida] Lithuanian Univ Hlth Sci, Kaunas, Lithuania.
+C3 Tallinn University; University of Tartu; National Institute for Health
+   Development - Estonia; Lithuanian University of Health Sciences
+RP Mark, L (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Oie 39, EE-11615 Tallinn, Estonia.
+EM lauraliisa.mark@gmail.com
+OI Sisask, Merike/0000-0001-6821-6367
+NR 40
+TC 17
+Z9 22
+U1 1
+U2 31
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2013
+VL 34
+IS 1
+BP 3
+EP 12
+DI 10.1027/0227-5910/a000153
+PG 10
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 082AQ
+UT WOS:000314364500002
+PM 22846444
+DA 2023-12-05
+ER
+
+PT J
+AU Laskite, A
+   Laskene, S
+AF Laskite, A.
+   Laskene, S.
+TI Adolescents' Intentional Self-Mutilation
+SO RUSSIAN EDUCATION AND SOCIETY
+LA English
+DT Article
+ID SUICIDE
+AB In Lithuania, suicide is among the top three causes of death; between twenty and thirty-three school-age children take their own lives every year, and the overwhelming majority of adolescents do not seek help in connection with situations that prompt them to engage in self-mutilation. Research indicates adolescents think that if more attention is paid to their social and psychological state, the problem of self-mutilation can be confronted more successfully.
+C1 [Laskite, A.; Laskene, S.] Lithuanian Acad Phys Culture, Kaunas, Lithuania.
+C3 Lithuanian Sports University
+RP Laskite, A (corresponding author), Lithuanian Acad Phys Culture, Kaunas, Lithuania.
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 6
+PU M E SHARPE INC
+PI ARMONK
+PA 80 BUSINESS PARK DR, ARMONK, NY 10504 USA
+SN 1060-9393
+J9 RUSS EDUC SOC
+JI Russ. Educ. Soc.
+PD SEP
+PY 2011
+VL 53
+IS 9
+BP 83
+EP 88
+DI 10.2753/RES1060-9393530907
+PG 6
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA 829JJ
+UT WOS:000295574800007
+DA 2023-12-05
+ER
+
+PT J
+AU Lapinske, L
+AF Lapinske, Laura
+TI LIVING IN PRECARITY: ETHNOGRAPHY OF EVERYDAY STRUGGLES OF SINGLE MOTHERS
+   IN LITHUANIA
+SO SOCIOLOGIJA
+LA English
+DT Article
+DE ethnography; single motherhood; reproductive labour; precarity;
+   Lithuania
+AB This paper presents challenges and life strategies of highly educated single mothers in Lithuania. My ethnography traces the impact on strategies of remaining in a country where exit strategies - alcoholism, suicide, emigration prevail and seem as an "easier" option. It is a study concerned with the relationship between precarity, single motherhood, social reproduction and everyday living. I focus on precarious living conditions, social isolation and stigmatization, unappreciated and highly gendered care-work. Based on collaborative ethnographic fieldwork material, the paper presents the micro-level attempts to negotiate what it means to be a lone care-taker, to revalorize and challenge the hegemonic narratives of individual strength and success.
+C1 [Lapinske, Laura] Sodertorn Univ, Huddinge, Sweden.
+C3 Sodertorn University
+RP Lapinske, L (corresponding author), Sodertorn Univ, Huddinge, Sweden.
+EM laura.lapinske@sh.se
+NR 53
+TC 1
+Z9 2
+U1 0
+U2 1
+PU UNIV BELGRADE, FAC PHILOSOPHY
+PI BELGRADE
+PA CIKA LJUBINA 18-20, BELGRADE, 11000, SERBIA
+SN 0038-0318
+J9 SOCIOLOGIJA
+JI Sociologija
+PY 2018
+VL 60
+IS 1
+BP 64
+EP 83
+DI 10.2298/SOC1801064L
+PG 20
+WC Sociology
+WE Emerging Sources Citation Index (ESCI)
+SC Sociology
+GA GG2MJ
+UT WOS:000432526700005
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Zaborskis, A
+   Ilionsky, G
+   Tester, R
+   Heinz, A
+AF Zaborskis, Apolinaras
+   Ilionsky, Gabrieta
+   Tester, Riki
+   Heinz, Andreas
+TI The Association Between Cyberbullying, School Bullying, and Suicidality
+   Among Adolescents
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE adolescents; bullying; cyberbullying; suicidality; associations
+ID RISK-BEHAVIORS; VICTIMIZATION; IDEATION; METAANALYSIS; PREVALENCE;
+   CHILDREN; VICTIMS; EUROPE; HEALTH; CYBER
+AB Background: Bullying and suicidality are serious worldwide problems with negative effects on the young population and therefore international comparisons in this field are of paramount importance.Aims: To analyze the prevalence of bullying and cyberbullying and their association with suicidal behavior among school-aged children in Israel, Lithuania, and Luxembourg. Method: In total, 3,814 15-year-olds from schools in Israel, Lithuania, and Luxembourg were surveyed in the Health Behavior in School-Aged Children (HBSC) cross-national survey in 2013/2014 using standardized anonymous questionnaires. Data analysis employed logistic regression and structural equation modeling (SEM). Results: In all, 6.5% of the adolescents reported being cyberbullied, 15.6% reported being bullied at school. In the previous 12 months, 38.6% reported experiencing emotions that stopped them from doing their usual activities, 17.8% considered attempting suicide, 12.0% made a suicide plan, and 9.5% attempted suicide. Victims of cyberbullying and school bullying had a significantly higher risk of suicidal ideations, plans, and attempts.The SEM analysis confirmed a significant overall effect of bullying on adolescent suicidality.The strongest effect was seen among Israeli students. Limitations: The prevalence estimates were obtained by self-report. Conclusion: The prevalence of adolescent cyberbullying, school bullying, and suicidal behavior is relatively high in Israel, Lithuania, and Luxembourg. Cyberbullying is a strong predictor of adolescent suicidality.
+C1 [Zaborskis, Apolinaras; Ilionsky, Gabrieta] Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, 18 Tilzes St, LT-47181 Kaunas, Lithuania.
+   [Tester, Riki] Ariel Univ, Fac Hlth Sci, Dept Hlth Syst Management, Ariel, Israel.
+   [Heinz, Andreas] Univ Luxembourg, Luxembourg, Luxembourg.
+C3 Lithuanian University of Health Sciences; Ariel University; University
+   of Luxembourg
+RP Zaborskis, A (corresponding author), Lithuanian Univ Hlth Sci, Med Acad, Fac Publ Hlth, 18 Tilzes St, LT-47181 Kaunas, Lithuania.
+EM apolinaras.zaborskis@lsmuni.lt
+RI Heinz, Andreas/ABB-7736-2020
+OI Heinz, Andreas/0000-0001-5405-9065; Heinz, Andreas/0000-0002-2362-417X;
+   Tesler, Riki/0000-0001-6070-6193
+NR 48
+TC 36
+Z9 43
+U1 5
+U2 74
+PU HOGREFE PUBLISHING CORP
+PI BOSTON
+PA 361 NEWBURY ST, 5 FL, BOSTON, MA, UNITED STATES
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PD MAR
+PY 2019
+VL 40
+IS 2
+BP 100
+EP 114
+DI 10.1027/0227-5910/a000536
+PG 15
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA HP6KG
+UT WOS:000461792200004
+PM 30109963
+DA 2023-12-05
+ER
+
+PT J
+AU Lygnugaryte-Griksiene, A
+   Leskauskas, D
+   Jasinskas, N
+   Masiukiene, A
+AF Lygnugaryte-Griksiene, Aidana
+   Leskauskas, Darius
+   Jasinskas, Nedas
+   Masiukiene, Agne
+TI Factors influencing the suicide intervention skills of emergency medical
+   services providers
+SO MEDICAL EDUCATION ONLINE
+LA English
+DT Article
+DE Training; prevention; intervention; suicides; emergency medicine; mental
+   health; healthcare professionals
+ID LINE HEALTH-PROFESSIONALS; EDUCATIONAL INTERVENTION; YOUNG PHYSICIANS;
+   MENTAL-HEALTH; PREVENTION; CARE; PROGRAM; DOCTORS; DEPRESSION; ATTITUDES
+AB Background: Lithuania currently has the highest suicide rate in Europe and the fifth highest worldwide.
+   Aims: To identify the factors that influence the suicide intervention skills of emergency medical services (EMS) providers (doctors, nurses, paramedics).
+   Method: Two hundred and sixty-eight EMS providers participated in the research. The EMS providers were surveyed both prior to their training in suicide intervention and six months later. The questionnaire used for the survey assessed their socio-demographic characteristics, suicide intervention skills, attitudes towards suicide prevention, general mental health, strategies for coping with stress, and likelihood of burnout.
+   Results: Better suicide intervention skills were more prevalent among EMS providers with a higher level of education, heavier workload, more positive attitudes towards suicide prevention, better methods of coping with stress, and those of a younger age. Six months after the non-continuous training in suicide intervention, the providers' ability to assess suicide risk factors had improved, although there was no change in their suicide intervention skills.
+   Conclusions: In order to improve the suicide intervention skills of EMS providers, particular attention should be paid to attitudes towards suicide prevention, skills for coping with stress, and continuous training in suicide intervention.
+   Abbreviations: EMS: Emergency medical services; SIRI: Suicide intervention response inventory
+C1 [Lygnugaryte-Griksiene, Aidana; Leskauskas, Darius] Hosp Lithuanian Univ Hlth Sci, Kaunas Clin, Dept Psychiat, Eiveniu Str 2, LT-50161 Kaunas, Lithuania.
+   [Jasinskas, Nedas] Hosp Lithuanian Univ Hlth Sci, Kaunas Clin, Emergency Med Dept, Kaunas, Lithuania.
+   [Masiukiene, Agne] Kaunas St Kazimieras Lower Secondary Sch, Kaunas, Lithuania.
+C3 Hospital of Lithuanian University of Health Sciences Kauno Klinikos;
+   Hospital of Lithuanian University of Health Sciences Kauno Klinikos
+RP Lygnugaryte-Griksiene, A (corresponding author), Hosp Lithuanian Univ Hlth Sci, Kaunas Clin, Dept Psychiat, Eiveniu Str 2, LT-50161 Kaunas, Lithuania.
+EM aidana.lygnugaryte@gmail.com
+RI Leskauskas, Darius/AAA-1172-2021
+OI Leskauskas, Darius/0000-0002-7187-7577
+NR 53
+TC 11
+Z9 11
+U1 1
+U2 17
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1087-2981
+J9 MED EDUC ONLINE
+JI Med. Educ. Online
+PY 2017
+VL 22
+DI 10.1080/10872981.2017.1291869
+PG 9
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA EN3TJ
+UT WOS:000395930500001
+PM 28235388
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Asirdizer, M
+   Yavuz, MS
+   Aydin, SD
+   Dizdar, MG
+AF Asirdizer, Mahmut
+   Yavuz, M. Sunay
+   Aydin, Serpil Demirag
+   Dizdar, M. Gokhan
+TI Suicides in Turkey Between 1996 and 2005 <i>General Perspective</i>
+SO AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY
+LA English
+DT Article
+DE suicide; genders; ages; risk factor for suicides; suicide methods
+ID RISK-FACTORS; MORTALITY; TIME; UNEMPLOYMENT; LITHUANIA; BEHAVIOR;
+   ILLNESS; PEOPLE; SAMPLE; GENDER
+AB Suicide is a significant problem in the world. Sharing the information about the national suicide rates in the international scientific area is an important issue for not only the solution of the problem, but also improving the efforts for decreasing the suicidal deaths. We aimed to add the statistical information about the rates, the risk factors, and the methods of suicides in Turkey to the literature. The suicide rates in Turkey increased in the period between 1996 and 2005 years; it was 3.8 per 100,000 populations in 2005. The average ratio of male to female was 1.58/1 between 1996 and 2005 years. The suicidal deaths increased above the age of 75, especially in male population. In females, the most dangerous period was 15 to 24 age group. The major risk factor for suicides was found to be illness (29.6%) for both genders and especially for above middle ages. Hanging was the most preferred method for both genders and for most of the age groups in Turkey. Suicides increased in the spring and summer.
+C1 [Asirdizer, Mahmut] Celal Bayar Univ, Sch Med, Dept Forens Med, TR-45030 Manisa, Turkey.
+   Adnan Menderes Univ, Dept Family Med, Sch Med, Aydin, Turkey.
+C3 Celal Bayar University; Adnan Menderes University
+RP Asirdizer, M (corresponding author), Celal Bayar Univ, Sch Med, Dept Forens Med, TR-45030 Manisa, Turkey.
+EM masirdizer@yahoo.com
+RI Asirdizer, Mahmut/AAA-2897-2020
+OI Asirdizer, Mahmut/0000-0001-7596-5892
+NR 29
+TC 23
+Z9 25
+U1 0
+U2 4
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0195-7910
+J9 AM J FOREN MED PATH
+JI Am. J. Forensic Med. Pathol.
+PD JUN
+PY 2010
+VL 31
+IS 2
+BP 138
+EP 145
+DI 10.1097/PAF.0b013e3181cfc658
+PG 8
+WC Medicine, Legal; Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine; Pathology
+GA 603KI
+UT WOS:000278207100009
+PM 20110803
+DA 2023-12-05
+ER
+
+PT J
+AU Stoupel, E
+   Kalëdienë, R
+   Petrauskiene, J
+   Starkuviene, S
+   Abramson, E
+   Israelevich, P
+   Sulkes, J
+AF Stoupel, E
+   Kalëdienë, R
+   Petrauskiene, J
+   Starkuviene, S
+   Abramson, E
+   Israelevich, P
+   Sulkes, J
+TI Suicide-homicide temporal interrelationship, links with bother
+   fatalities, and environmental physical activity
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; homicide; solar; geomagnetic; cosmic-ray activity
+ID COSMIC-RADIATION; DEPRESSION; BEHAVIOR; EXPOSURE; RISK; LONG
+AB Homicide and suicide are extremes in human behavior. The aim of this study is to investigate the connection by time between suicide and homicide, between them and other fatalities, and their links with the level of cosmophysical activity. Methods: Using the national database of Lithuania (1990-2002) we found that 547,875 deaths, 4,638 homicides (3,374 male) and 19,527 (16,019 male) suicides were registered in that period. Their temporal distribution over 156 months was compared with solar and cosmic-ray activity. Pearson correlation coefficients and their probabilities were established. Results: There was a correlation between monthly rates of homicide and male groups. Female suicide rates correlated with male and total homicide numbers. Both homicide and suicide rates were inversely correlated with solar and cosmic-ray activity. Suicide numbers, but not homicides, were inversely related to geomagnetic activity. Suicide rates were inversely correlated with total, cardiovascular, traffic accident, and sudden deaths; homicide with total, traffic accident, and sudden deaths. Conclusion: Temporal distribution of homicide and suicide is significantly interrelated. Both are linked to parameters of cosmophysical activity. The influence of cosmic rays deserves special attention.
+C1 Tel Aviv Univ, Dept Geophys & Cosm Sci, IL-69978 Tel Aviv, Israel.
+   Med Univ, Dept Social Med, Kaunas, Lithuania.
+C3 Tel Aviv University; Lithuanian University of Health Sciences
+RP Stoupel, E (corresponding author), Rabin Med Ctr, Div Cardiol, Beilinson Campus, IL-49100 Petah Tiqwa, Israel.
+EM stoupel@inter.net.il
+NR 37
+TC 16
+Z9 23
+U1 0
+U2 4
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2005
+VL 26
+IS 2
+BP 85
+EP 89
+DI 10.1027/0227-5910.26.2.83
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 970GD
+UT WOS:000232292400006
+PM 16138745
+DA 2023-12-05
+ER
+
+PT J
+AU Strukcinskiene, B
+   Rauckiene-Michaelsson, A
+   Strukcinskaite, V
+AF Strukcinskiene, Birute
+   Rauckiene-Michaelsson, Alona
+   Strukcinskaite, Vaiva
+TI THE LINKS BETWEEN SUICIDAL BEHAVIOUR AND ENDORSEMENT OF MYTHS ABOUT
+   SUICIDE IN YOUNG PEOPLE
+SO SOCIAL WELFARE INTERDISCIPLINARY APPROACH
+LA English
+DT Article
+DE suicide; behaviour; myths; students; young people
+ID SELF-HARM; RISK; TEMPERAMENT
+AB For many years in Lithuania the rate of suicide mortality has been remarkable in magnitude, especially in the young population. Social and public health determinants, risk behaviour issues, prevention and control of suicide in teenagers and young people needs urgent attention.
+   The aim of the study was to investigate the self-reported perception of young people - the university students - concerning suicide, the myths and reality of this phenomenon, and the links between suicidal behaviour and endorsement of myths about suicide. The self-reported survey was conducted in the university settings. The results of the survey showed that young people lack knowledge about the phenomenon of suicide and suicidal behaviour, and they still believe myths about suicide. The study revealed that one-fifth of young people had suicidal thoughts, and boys along with urban residents and suicidal family were at higher risk. Half of the students surveyed self-reported suicidal peers in their environment. Young people lack knowledge on suicide prevention and preventive events. The study revealed that raising awareness, obtaining knowledge, and providing information to young people on the phenomenon of suicide, suicidal behaviour, and warning signs of possible attempt and suicide risk are the priority issues. Suicide prevention activities on individual, community, local, and national levels need to be addressed.
+C1 [Strukcinskiene, Birute; Rauckiene-Michaelsson, Alona] Klaipeda Univ, Klaipeda, Lithuania.
+   [Strukcinskaite, Vaiva] Vilnius Univ, Vilnius, Lithuania.
+C3 Klaipeda University; Vilnius University
+RP Strukcinskiene, B (corresponding author), Klaipeda Univ, Klaipeda, Lithuania.
+EM birutedoctor@hotmail.com
+RI Strukcinskiene, Birute/AAK-7568-2020
+NR 29
+TC 1
+Z9 2
+U1 5
+U2 15
+PU VILNIUS UNIV PRESS
+PI VILNIUS
+PA 9 SAULETEKIS AV, VILNIUS, LITHUANIA
+SN 2029-7424
+EI 2424-3876
+J9 SOC WELF INTERDISCIP
+JI Soc. Welf. Interdiscip. Approach
+PY 2019
+VL 9
+IS 1
+BP 57
+EP 68
+DI 10.21277/sw.v1i9.448
+PG 12
+WC Social Work
+WE Emerging Sources Citation Index (ESCI)
+SC Social Work
+GA JU9MC
+UT WOS:000501990800006
+OA gold
+DA 2023-12-05
+ER
+
+PT J
+AU Voracek, M
+AF Voracek, Martin
+TI Ancestry, genes, and suicide: A test of the Finno-Ugrian Suicide
+   Hypothesis in the United States
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID RISK-FACTORS; TRYPTOPHAN-HYDROXYLASE; TPH GENE; BEHAVIOR; RATES;
+   METAANALYSIS; LONGITUDE; LATITUDE
+AB There is now convergent evidence from classic quantitative genetics (family, twin, and adoption studies) and molecular genetic studies for specific genetic risk factors for suicidal behavior. This emerging research field has recently been supplemented by geographical studies concerned with the Finno-Ugrian Suicide Hypothesis (FUSH), which states that population differences in genetic risk factors may partially account for conspicuous geographical patterns seen in suicide prevalence. In particular, the European high-suicide-rate nations constitute a contiguous, J-shaped belt, spanning from Finland to Austria. This area maps onto the second principal component identified for European gene distribution, most likely reflecting a major migration event of the past (i.e., the ancestral adaptation to cold climates and the Uralic language dispersion) still detectable in modern European populations. The present research tested the hypothesis in the United States. Consistent with the hypothesis, available historical (1913-1924 and 1928-1932) U.S. state suicide rates were uniformly positively associated with available state proportions of reported American ancestries from European high-suicide-rate countries (Hungary, Lithuania, Poland, Russia, Slovakia, and the Ukraine). However, contrary to the hypothesis, available contemporary (1990-1994) suicide rates were uniformly negatively associated with these ancestry proportions. The findings of this first test outside Europe are therefore conflicting. A proposal based on the geographical study approach is offered to further the progress of investigations into the genetics of suicide.
+C1 Univ Vienna, Sch Psychol, Dept Basic Psychol Res, A-1010 Vienna, Austria.
+C3 University of Vienna
+RP Voracek, M (corresponding author), Univ Vienna, Sch Psychol, Dept Basic Psychol Res, Liebiggasse 5,Rm 03-42, A-1010 Vienna, Austria.
+EM martin.voracek@univie.ac.at
+RI Voracek, Martin/S-5865-2016
+OI Voracek, Martin/0000-0001-6109-6155
+NR 27
+TC 18
+Z9 18
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD OCT
+PY 2006
+VL 103
+IS 2
+BP 543
+EP 550
+DI 10.2466/PMS.103.2.543-550
+PG 8
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA 110XT
+UT WOS:000242415300027
+PM 17165419
+DA 2023-12-05
+ER
+
+PT J
+AU Chmieliauskas, S
+   Laima, S
+   Fomin, D
+   Jurolaic, E
+   Jasulaitis, A
+   Stasiuniene, J
+   Characiejus, D
+   Utkus, A
+AF Chmieliauskas, Sigitas
+   Laima, Sigitas
+   Fomin, Dmitrij
+   Jurolaic, Eleonora
+   Jasulaitis, Algimantas
+   Stasiuniene, Jurgita
+   Characiejus, Dainius
+   Utkus, Algirdas
+TI Homicide victims and mechanisms in Lithuania from 2004 to 2016
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Forensic medicine; Homicide mechanism; Homicide; Victim; Weapon;
+   Injuries
+ID SUICIDE; ALCOHOL; CRIME; AUTOPSY; RATES
+AB A retrospective analysis of 2000 intentional homicide cases from the State Forensic Medicine Service (Vilnius, Lithuania) was carried out in order to evaluate the portrait of homicide victims and mechanisms of death between 2004 and 2016. The definition of intentional homicide appears to be quite straightforward, as a homicide occurs when one person's cause of death can be attributed to another one. Moreover, homicide is accomplished by conscious, active, intentional, or unintentional activities or inaction. All included cases of homicide were qualified as intentional murder. Children rarely become victims of intentional homicide. The group of child intentional murder made only 4.2% of all homicide cases. Seventy-three percent of homicide victims were male. The female victims were older than male and were murdered using a larger variety of objects (p < 0.001). Heavily alcohol-intoxicated victims were murdered using more traumatic affliction by sharp, stabbing-cutting objects (p < 0.001). The largest number of traumatic afflictions was associated with using a blunt object (p < 0.001). Lithuania differs from other European countries in terms of death by shooting: while 13% of homicides resulted from gunshot wounds in Europe, in Lithuania, only 5.6% of homicides did. This fact can be attributed to a relatively lower firearm ownership in Lithuania. This research is the first study that evaluates homicide in Lithuania based on autopsy findings. This study is highly important for homicide investigation tactics, as it emphasizes the portrait of the victim, providing valuable information about the most common mechanism of death, used weapons and traumatic afflictions for the law enforcement agencies.
+C1 [Chmieliauskas, Sigitas; Laima, Sigitas; Fomin, Dmitrij; Jurolaic, Eleonora; Jasulaitis, Algimantas; Stasiuniene, Jurgita; Characiejus, Dainius; Utkus, Algirdas] Vilnius Univ, Fac Med, Dept Pathol Forens Med & Pharmacol, MK Ciurlionio Str 21-27, Vilnius, Lithuania.
+   [Chmieliauskas, Sigitas; Laima, Sigitas; Fomin, Dmitrij] State Forens Med Serv, Didlaukio Str 86E, Vilnius, Lithuania.
+C3 Vilnius University
+RP Chmieliauskas, S (corresponding author), Vilnius Univ, Fac Med, Inst Biomed Sci, Dept Pathol Forens Med & Pharmacol, MK Ciurlionio Str 21-27, Vilnius, Lithuania.
+EM sigitas.chmieliauskas@mf.vu.lt
+RI Characiejus, Dainius/A-2713-2008; Chmieliauskas, Sigitas/I-8900-2017;
+   Kasiulevicius, Vytautas/P-6819-2014
+OI Characiejus, Dainius/0000-0003-1060-5217; Chmieliauskas,
+   Sigitas/0000-0001-9104-9835; Stasiuniene, Jurgita/0000-0003-2501-7602;
+   Utkus, Algirdas/0000-0001-5766-6653; Kasiulevicius,
+   Vytautas/0000-0001-9967-8257
+NR 38
+TC 4
+Z9 4
+U1 0
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JUL
+PY 2019
+VL 65
+BP 27
+EP 31
+DI 10.1016/j.jflm.2019.04.010
+PG 5
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA IC7DZ
+UT WOS:000471134100006
+PM 31039538
+DA 2023-12-05
+ER
+
+PT J
+AU Tamosiunas, A
+   Reklaitiene, R
+   Radisauskas, R
+   Jureniene, K
+AF Tamosiunas, A
+   Reklaitiene, R
+   Radisauskas, R
+   Jureniene, K
+TI Prognosis of risk factors and trends in mortality from external causes
+   among middle-aged men in Lithuania
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE age-period-cohort effects; external causes; hazards ratio; trends
+ID SERUM-CHOLESTEROL; UNITED-STATES; VIOLENT DEATH; ALL-CAUSE; SUICIDE;
+   ALCOHOL; DISEASE; PERSONALITY; STATISTICS; SMOKING
+AB Aims: The aims of this study were to investigate the risk of death and time trends from external causes, and to evaluate the significance of the effects of age, period and birth cohort on suicide mortality among middle-aged men during the period 1971 - 2000 in Lithuania. Methods: Random samples of men aged 45 - 59 years from the Kaunas Rotterdam Intervention Study ( conducted in 1972 - 74) and Study of Multifactorial Prevention of CHD ( conducted in 1977 - 80) were examined ( n = 6,480). The participants of the two surveys were observed until 1 January 2001. Over this time 2,841 men had died, 230 of these from external causes. The Cox proportional hazards model was used to evaluate the risk of death from external causes. Trends in mortality from external causes and average annual changes were based on logarithmic regression analysis. For assessment of the effects of age, period, and birth cohort the Poisson regression model was applied. Results: The risk of mortality from external causes among men was positively related to smoking habits and arterial hypertension and negatively related to education level and total serum cholesterol concentration but there was no association with consumption of alcohol. The risk of suicide mortality was associated with family status and occupation only. Trends in mortality from all external causes showed no significant changes during the period 1971 - 2000. After adjusting for age and cohort effects, the period effect was statistically significant. Conclusion: Prognosis of risk factors for mortality from external causes and period effect on suicide mortality rates will form important parts of future research agendas.
+C1 Kaunas Univ Med, Inst Cardiol, Dept Populat Studies, LT-50009 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Tamosiunas, A (corresponding author), Kaunas Univ Med, Inst Cardiol, Dept Populat Studies, St Sukileliu 17, LT-50009 Kaunas, Lithuania.
+EM atamos@kmu.lt
+RI Tamosiunas, Abdonas/AAD-4274-2021; Radišauskas, Ričardas/AAT-8920-2021
+OI Radišauskas, Ričardas/0000-0002-1227-2674
+NR 33
+TC 10
+Z9 10
+U1 0
+U2 1
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2005
+VL 33
+IS 3
+BP 190
+EP 196
+DI 10.1080/14034940510005707
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 932IG
+UT WOS:000229546800007
+PM 16040459
+DA 2023-12-05
+ER
+
+PT J
+AU Markeviciûté, A
+   Kalkytè, R
+   Adomaitienê, V
+   Gudienê, D
+   Velavicienê, D
+AF Markeviciute, Aurelija
+   Kalkyte, Rueta
+   Adomaitiene, Virginija
+   Gudiene, Devika
+   Velaviciene, Dalia
+TI Correlation between adolescents psychical disorders and their
+   difficulties of psychosocial adaptation
+SO MEDICINA-LITHUANIA
+LA Lithuanian
+DT Article
+DE adolescents; psychical disorders; psychosocial adaptation
+ID ADJUSTMENT DISORDER; CLINICAL CHARACTERISTICS; SUICIDAL-BEHAVIOR;
+   RISK-FACTORS
+AB Objective. To study the correlation between adolescents' psychical disorders and their difficulties of psychosocial adaptation.
+   Methods and materials. There were 63 adolescent participants in our study (47 girls and 16 boys) who were hospitalized in Department of Children and Adolescent Psychiatry, Kaunas University of Medicine Hospital (Lithuania) during the period from September to December, 2005. Twenty-seven adolescents (19 girls and 8 boys) had suicidal and self-harming behavior. Psychical disorders were diagnosed according to ICD-10 diagnostic criterions. We used Strengths and Difficulties Questionnaire SDQ-lit adapted for Lithuania.
+   Results. While comparing the mean scores in both sexes of adolescents with diagnoses of depressive, behavioral and adaptation disturbances, we found a statistically significant difference only in emotionally disturbance scale results (P=0.016). Analyzing groups of girls and boys separately, girls showed to be worse psychosocially adapted and had more emotional problems. Girls who tried to commit suicide had more emotional (P=0.006) and psychosocial problems (P<0.001). Girls who were diagnosed with affective disorders had more expressed emotional (P<0.001) and general adaptation (P=0.031) difficulties. Parents noted that those who committed a suicide and had behavior disturbances had more expressed emotional (P=0.007) and general adaptation (P=0.053) problems.
+   Conclusions. 1. Adolescent girls who were diagnosed depressive illnesses had more emotional and general adaptation problems than girls who were diagnosed behavior or adaptation disorders. 2. Adolescent girls who tried to commit suicide had more expressed behavior problems and difficulties of emotional, general adaptation. 3. Most expressed difficulties of emotional and general adaptation were typical to girls who were diagnosed with depression and who tried to commit a suicide.
+C1 [Markeviciute, Aurelija; Kalkyte, Rueta; Adomaitiene, Virginija; Gudiene, Devika; Velaviciene, Dalia] KMUK, Psichiat Klin, LT-50009 Kaunas, Lithuania.
+RP Markeviciûté, A (corresponding author), KMUK, Psichiat Klin, Eiveniu 2, LT-50009 Kaunas, Lithuania.
+EM aurelijamark@yahoo.com
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1010-660X
+EI 1648-9144
+J9 MEDICINA-LITHUANIA
+JI Med. Lith.
+PY 2007
+VL 43
+IS 8
+BP 647
+EP 656
+DI 10.3390/medicina43080083
+PG 10
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 280AY
+UT WOS:000254398500008
+PM 17895641
+OA gold, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Dudeck, M
+   Drenkhahn, K
+   Spitzer, C
+   Barnow, S
+   Kopp, D
+   Kuwert, P
+   Freyberger, HJ
+   Dünkel, F
+AF Dudeck, Manuela
+   Drenkhahn, Kirstin
+   Spitzer, Carsten
+   Barnow, Sven
+   Kopp, Daniel
+   Kuwert, Philipp
+   Freyberger, Harald J.
+   Duenkel, Frieder
+TI Traumatization and mental distress in long-term prisoners in Europe
+SO PUNISHMENT & SOCIETY-INTERNATIONAL JOURNAL OF PENOLOGY
+LA English
+DT Article
+DE long-term imprisonment; mental health; psychopathology; PTSD; suicide
+ID POSTTRAUMATIC-STRESS-DISORDER; PSYCHIATRIC MORBIDITY; JAIL DETAINEES;
+   SEXUAL-ABUSE; PREVALENCE; TRAUMA; HEALTH; RISK; METAANALYSIS;
+   PSYCHOPATHY
+AB This article investigates the prevalence of traumatization and mental distress in a sample of 1055 male European long-term prisoners as part of a wider study of the living conditions of prisoners serving sentences of at least five years in Belgium, Croatia, Denmark, England, Finland, France, Germany, Lithuania, Poland, Spain and Sweden. Data were collected in a written survey using the Posttraumatic Diagnostic Scale (PDS), the Brief Symptom Inventory (BSI) as well as questions on attempted suicide and auto-aggressive behaviour. Participants experienced a mean of three traumatic events, with 14 per cent developing a Posttraumatic Stress Disorder (PTSD) subsequently. In each national sample, more than 50 per cent of the participants were in need of treatment because of psychological symptoms and nearly one-third had attempted suicide.
+C1 [Dudeck, Manuela] Ernst Moritz Arndt Univ Greifswald, Klin & Poliklin Psychiat & Psychotherapie, Hanseklinikum Stralsund, D-18435 Stralsund, Germany.
+   [Drenkhahn, Kirstin] Free Univ Berlin, Sch Law, D-1000 Berlin, Germany.
+   [Spitzer, Carsten] Univ Med Ctr Hamburg Eppendorf, Dept Psychosomat Med & Psychotherapy, Hamburg, Germany.
+   [Barnow, Sven] Heidelberg Univ, Head Sect Clin Psychol, D-6900 Heidelberg, Germany.
+   [Kopp, Daniel; Freyberger, Harald J.] Ernst Moritz Arndt Univ Greifswald, Clin Psychiat & Psychotherapy, D-18435 Stralsund, Germany.
+   [Kuwert, Philipp] Ernst Moritz Arndt Univ Greifswald, Dept Psychiat, D-18435 Stralsund, Germany.
+C3 Universitat Greifswald; Free University of Berlin; University of
+   Hamburg; University Medical Center Hamburg-Eppendorf; Ruprecht Karls
+   University Heidelberg; Universitat Greifswald; Universitat Greifswald
+RP Dudeck, M (corresponding author), Ernst Moritz Arndt Univ Greifswald, Klin & Poliklin Psychiat & Psychotherapie, Hanseklinikum Stralsund, Rostocker Chaussee 70, D-18435 Stralsund, Germany.
+EM manuela.dudeck@uni-greifswald.de
+RI Duenkel, Frieder/AAI-1222-2019
+NR 65
+TC 34
+Z9 44
+U1 1
+U2 36
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1462-4745
+EI 1741-3095
+J9 PUNISHM SOC
+JI Punishm. Soc.
+PD OCT
+PY 2011
+VL 13
+IS 4
+BP 403
+EP 423
+DI 10.1177/1462474511414782
+PG 21
+WC Criminology & Penology
+WE Social Science Citation Index (SSCI)
+SC Criminology & Penology
+GA 839US
+UT WOS:000296395500002
+OA Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Law, CK
+   Leung, CMC
+AF Law, Chi-kin
+   Leung, Candi M. C.
+TI Temporal patterns of charcoal burning suicides among the working age
+   population in Hong Kong SAR: the influence of economic activity status
+   and sex
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Temporal variation; charcoal burning; suicide prevention; time pattern;
+   seasonal risk
+ID EMPLOYMENT STATUS INFLUENCES; SEASONAL-VARIATION; VIOLENT SUICIDE;
+   NONVIOLENT SUICIDE; MENTAL-DISORDERS; RISK-FACTORS; ASSOCIATIONS;
+   DIFFERENCE; LITHUANIA; EPIDEMIC
+AB Background: Charcoal burning in a sealed room has recently emerged as the second most common suicide means in Hong Kong, causing approximately 200 deaths each year. As charcoal burning suicide victims have a unique sociodemographic profile (i.e., predominantly economically active men), they may commit suicide at specific times. However, little is known about the temporal patterns of charcoal burning suicides.
+   Methods: Suicide data from 2001 to 2008 on victims of usual working age (20-59) were obtained from the registered death files of the Census and Statistics Department of Hong Kong. A total of 1649 cases of charcoal burning suicide were analyzed using a two-step procedure, which first examined the temporal asymmetries in the incidence of suicide, and second investigated whether these asymmetries were influenced by sex and/or economic activity status. Poisson regression analyses were employed to model the monthly and daily patterns of suicide by economic activity status and sex.
+   Results: Our findings revealed pronounced monthly and daily temporal variations in the pattern of charcoal burning suicides in Hong Kong. Consistent with previous findings on overall suicide deaths, there was an overall spring peak in April, and Monday was the common high risk day for all groups. Although sex determined the pattern of variation in charcoal burning suicides, the magnitude of the variation was influenced by the economic activity status of the victims.
+   Conclusion: The traditional classification of suicide methods as either violent or nonviolent tends to elide the temporal variations of specific methods. The interaction between sex and economic activity status observed in the present study indicates that sex should be taken into consideration when investigating the influence of economic activity status on temporal variations of suicide. This finding also suggests that suicide prevention efforts should be both time- and subgroup-specific.
+C1 [Law, Chi-kin] Chinese Univ Hong Kong, Hong Kong Inst Asia Pacific Studies, Shatin, Hong Kong, Peoples R China.
+   [Law, Chi-kin] Griffith Univ, Australian Inst Suicide Res & Prevent, Griffith, NSW, Australia.
+   [Leung, Candi M. C.] Univ Hong Kong, Dept Psychol, Pokfulam, Hong Kong, Peoples R China.
+C3 Chinese University of Hong Kong; Griffith University; University of Hong
+   Kong
+RP Law, CK (corresponding author), Chinese Univ Hong Kong, Hong Kong Inst Asia Pacific Studies, Shatin, Hong Kong, Peoples R China.
+EM lawckin1@gmail.com
+OI Leung, Candi/0000-0002-3505-4653
+FU Social Science Panel of the Chinese University of Hong Kong [2021019]
+FX Funding for this study was provided by the Social Science Panel of the
+   Chinese University of Hong Kong (Direct Grant -2021019). The Social
+   Science Panel played no further role in the design of the study, the
+   collection, analysis and interpretation of data, the writing of the
+   report, or the decision to submit the paper for publication.
+NR 45
+TC 7
+Z9 9
+U1 1
+U2 10
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 6
+PY 2012
+VL 12
+AR 505
+DI 10.1186/1471-2458-12-505
+PG 7
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 007YQ
+UT WOS:000308924700001
+PM 22770504
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Lunevicius, R
+   Stevens, KA
+   Puvanachandra, P
+   Hyder, AA
+AF Lunevicius, Raimundas
+   Stevens, Kent A.
+   Puvanachandra, Prasanthi
+   Hyder, Adnan A.
+TI The epidemiology of injury in the Republic of Lithuania
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE External causes; incidence; injury; Lithuania; mortality
+ID EXTERNAL CAUSES; MORTALITY; EDUCATION; TRENDS; PLACE
+AB Aims: The overall goal of this paper is to highlight the epidemiology of injury in Lithuania between 1998 and 2006. Such a situation analysis will inform the important dialogue happening in Lithuania with respect to renewal of the trauma programme and help to profile the burden of injury in the country. Methods: Review of the literature, and secondary analysis of data from the Lithuanian Health Information Center and the European Detailed Mortality database. Results: Sixteen articles were identified as population-based studies; only incidence of burn injuries was reported as 240 per 100,000 per year. According to our analysis, the overall incidence of injury increased from 76 cases per 1,000 individuals in 1998 to 121 cases per 1,000 individuals in 2006. The total number of deaths from external causes remained similar with an average of 5,301 per year, as did the age-standardized mortality rates of 152 in 1998 and 150 per 100,000 in 2006. The mortality rate in men was four times higher than in women. Suicide was the most frequent cause of death (34% in 2006); while road traffic injuries were the second most frequent accounting for 17-19% of deaths. There were 429 deaths due to exposure to natural cold in 2006, which constituted 8% of all deaths due to injury. Conclusions: Injury incidence and mortality from external causes in Lithuania has not declined over an eight year time frame. New efforts should be launched in the health sector to address this major cause of deaths.
+C1 [Lunevicius, Raimundas; Stevens, Kent A.; Puvanachandra, Prasanthi; Hyder, Adnan A.] Johns Hopkins Univ, Int Injury Res Unit, Dept Int Hlth, Bloomberg Sch Publ Hlth, Baltimore, MD 21205 USA.
+C3 Johns Hopkins University; Johns Hopkins Bloomberg School of Public
+   Health
+RP Lunevicius, R (corresponding author), Vilnius Univ Emergency Hosp, Dept Surg 2, Siltnamiu 29, LT-04130 Vilnius, Lithuania.
+EM rlunevichus@yahoo.com
+RI Lunevicius, Raimundas/B-2528-2018; Hyder, Adnan/AAT-9503-2021
+OI Lunevicius, Raimundas/0000-0003-3295-0142; Hyder,
+   Adnan/0000-0002-7292-577X; Attwood, Prasanthi/0000-0003-3606-704X
+NR 30
+TC 4
+Z9 4
+U1 0
+U2 2
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2010
+VL 38
+IS 4
+BP 386
+EP 394
+DI 10.1177/1403494809352102
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 602PW
+UT WOS:000278152300007
+PM 19880662
+DA 2023-12-05
+ER
+
+PT J
+AU Laskyte, A
+   Zemaitiene, N
+AF Laskyte, Agne
+   Zemaitiene, Nida
+TI The types of deliberate self-harm and its prevalence among Lithuanian
+   teenagers
+SO MEDICINA-LITHUANIA
+LA Lithuanian
+DT Article
+DE teenagers; school students; deliberate self-harm; suicide
+ID SUICIDE; ADOLESCENTS; ATTITUDES; CHILDREN; TRENDS; DEATH
+AB The aim of this study is to identify how widely deliberate self-harm is spread and the types of deliberate self-harm among 15-17-year-old teenagers in Lithuania.
+   Material and methods. The anonymous Lifestyle and Coping Questionnaire was used for the study carried out in 2006. This countrywide study involved 3848 respondents (2200 girls (57.2%) and 1648 boys (42.8%)) aged 15-17 years from all 10 regions of Lithuania.
+   Results. According to the findings of this study, 7.3% of 15-17-year-old Lithuanian teenagers (9.9% girls and 3.8% boys) stated that they had deliberately overdosed drugs or tried to inflict self-injury in other ways. Less than half of them (43.4%) reported that they were thinking to repeat such behavior. Half of the adolescents who inflicted self-injury were living in a two-parent family, 27.4% - with one of the parents, 7% - with other member of the family, and 9% - with other people. One-third of adolescents (34.2%) choose internal ways of self-harm, 26% - external self-injury, 11% - tried to harm themselves in mixed way, and 28.8% - did not indicate the way. In case of a self-injury mentioned above, 13.5% of adolescents were admitted to hospital.
+   Conclusions. In Lithuania, adolescent self-harm is relatively frequent: 7.3% of 15-17-year-old Lithuanian adolescents deliberately self-harmed during their life. The most frequent way to self-harm is to overdose. This study confirms the need for preventive activities and necessity of further studies in this field.
+C1 [Laskyte, Agne; Zemaitiene, Nida] Kaunas Univ Med, Fac Publ Hlth, LT-50009 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Laskyte, A (corresponding author), Kaunas Univ Med, Fac Publ Hlth, Eiveniu 4, LT-50009 Kaunas, Lithuania.
+EM alaskyte@yahoo.com
+NR 42
+TC 6
+Z9 6
+U1 0
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1010-660X
+EI 1648-9144
+J9 MEDICINA-LITHUANIA
+JI Med. Lith.
+PY 2009
+VL 45
+IS 2
+BP 132
+EP 139
+DI 10.3390/medicina45020017
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 426EP
+UT WOS:000264691100006
+PM 19289903
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Lygnugaryte-Griksiene, A
+   Leskauskas, D
+AF Lygnugaryte-Griksiene, Aidana
+   Leskauskas, Darius
+TI Assessing suicide management skills of emergency medical services
+   providers before and after suicide intervention/prevention training with
+   Lithuanian version of suicide intervention response inventory
+SO NEUROPSYCHIATRIC DISEASE AND TREATMENT
+LA English
+DT Article
+DE emergency medical service; suicide intervention response inventory;
+   suicide; training
+ID HEALTH-CARE; PROFESSIONALS; COMMUNITY; ATTITUDES; CONTACTS
+AB Background: Effective suicide management skills of emergency medical services (EMS) providers are crucially important in Lithuania, which has the highest suicide rates in Europe.
+   Methods: Respondents were 268 EMS providers, doctors (n=78) and nurses (n=190), who agreed to participate in suicide prevention/intervention training and completed the survey twice. Study was conducted in five steps: adaptation of Lithuanian version of Suicide Intervention Response Inventory (SI RI-LT); initial assessment of suicide counseling skills of the EMS providers using SI RI-LT; suicide prevention/intervention training; second assessment of suicide counseling skills using SIRI-LT 6 months after training; data analysis evaluating the skills and effectiveness of the training among different groups of EMS providers (doctors vs nurses, age groups).
+   Results: SI RI-LT showed good internal consistency: Cronbach's alpha score of 0.85 (pretest) and 0.73 (posttest). The value of Kaiser-Meyer-Olkin measure of sampling adequacy was 0.849. A four-factor solution was forced and accounted for 40.8% of the variance. The SIRI-LT mean total scores before suicide prevention/intervention training were significantly higher for doctors than for nurses (13.01 +/- 5.24 vs 11.36 +/- 5.14, respectively; P=0.031). Younger respondents with a shorter period of employment and heavier workload were significantly more effective at suicide management than older respondents with a longer period of employment and lower workload. After suicide prevention/intervention training, SI RI-LT mean total scores decreased for doctors (13.0 +/- 5.24 vs 11.02 +/- 4.76; P=0.031) and significantly increased in older (55 age) respondents (11.85 +/- 3.82 vs 9.28 +/- 4.44; P=0.022).
+   Conclusion: SIRI-LT has good internal consistency and can be considered a good instrument for assessing suicide management skills of EMS providers. Our results suggest that ability to find appropriate responses to suicide situations may be multidimensional, related to cultural setting and influenced by age, education, motivation, engagement, and emotional distraction. Particular attention should be paid to active listening and empathic communication skills when developing suicide prevention/intervention training for EMS providers.
+C1 [Lygnugaryte-Griksiene, Aidana; Leskauskas, Darius] Lithuanian Univ Hlth Sci, Dept Psychiat, Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Lygnugaryte-Griksiene, A (corresponding author), Lithuanian Univ Hlth Sci, Psychiat Clin, Mickeviciaus Str 9, LT-44307 Kaunas, Lithuania.
+EM aidana.lygnugaryte@gmail.com
+RI Leskauskas, Darius/AAA-1172-2021
+OI Leskauskas, Darius/0000-0002-7187-7577
+NR 26
+TC 2
+Z9 2
+U1 1
+U2 4
+PU DOVE MEDICAL PRESS LTD
+PI ALBANY
+PA PO BOX 300-008, ALBANY, AUCKLAND 0752, NEW ZEALAND
+SN 1178-2021
+J9 NEUROPSYCH DIS TREAT
+JI Neuropsychiatr. Dis. Treat.
+PY 2018
+VL 14
+BP 3405
+EP 3412
+DI 10.2147/NDT.S186253
+PG 8
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA HE6KY
+UT WOS:000453517000002
+PM 30587992
+OA Green Submitted, Green Published, gold
+DA 2023-12-05
+ER
+
+PT C
+AU Grigutyte, N
+   Ruksaite, G
+AF Grigutyte, Neringa
+   Ruksaite, Goda
+BE Cruz, S
+TI Lithuanian Historical Heritage: Relation with Authority and
+   Psychological Well-being
+SO 2ND INTERNATIONAL CONFERENCE ON HEALTH AND HEALTH PSYCHOLOGY (ICH&HPSY)
+SE European Proceedings of Social and Behavioural Sciences
+LA English
+DT Proceedings Paper
+CT 2nd International Conference on Health and Health Psychology (icH and
+   Hpsy)
+CY JUL 06-09, 2016
+CL Univ Porto, Fac Med, Porto, PORTUGAL
+SP Nursing Sch Porto
+HO Univ Porto, Fac Med
+DE Relation with authority; psychological well-being; independent Lithuania
+AB Relation with authority has been a relevant problem in times of change characteristic of the post-Soviet countries. A number of studies have stressed the importance of relation with authority in interpersonal relationships, psychosocial adjustment and well-being. The purpose of the current study is to explore the links between psychological well-being and relation with authority in three Lithuanian generations: young adults, who were born in independent Lithuania (aged 19-26); the middle generation, who have lived both under the Soviet occupation and in independent Lithuania (aged 27-49), and elderly persons, who have lived longer under the Soviet occupation (aged 50-70), 405 participants in total. The study used the Relation with Authority Scale (Grigutyte & Gudaite, 2015), the Well-Being Index (WHO, 1998) and the subjective ratings of how often the participants a) consumed alcohol, b) used antidepressants, c) had thoughts of suicide, d) turned to family members and friends or e) turned to mental health professionals for help. Results show that different aspects of internal and external relation with authority are important for higher psychological well-being in groups which vary in age and historical heritage. Psychological well-being is affected by self-esteem and is higher if: a) elderly persons, who have lived longer under the Soviet occupation, have more authorities; b) the middle generation, who have lived under the Soviet occupation and in independent Lithuania, have a less resistant relation with authority; c) young adults, who were born in independent Lithuania, rely more on transpersonal powers and have a less troubled relation with authority. (C) 2016 Published by Future Academy www.FutureAcademy.org.uk
+C1 [Grigutyte, Neringa; Ruksaite, Goda] Vilnius Univ, Univ St 9-1, LT-01513 Vilnius, Lithuania.
+C3 Vilnius University
+RP Grigutyte, N (corresponding author), Vilnius Univ, Univ St 9-1, LT-01513 Vilnius, Lithuania.
+EM neringa.grigutyte@fsf.vu.lt; gruksait@gmail.com
+RI Grigutyte, Neringa/K-8678-2017
+NR 21
+TC 1
+Z9 1
+U1 3
+U2 6
+PU FUTURE ACAD
+PI NICOSIA
+PA PO BOX 24333, NICOSIA, 1703, CYPRUS
+SN 2357-1330
+J9 EUR PROC SOC BEHAV
+PY 2016
+VL 13
+BP 274
+EP 284
+DI 10.15405/epsbs.2016.07.02.27
+PG 11
+WC Behavioral Sciences; Psychology, Developmental; Psychology; Psychology,
+   Social
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Behavioral Sciences; Psychology
+GA BG7AU
+UT WOS:000391144000027
+OA Bronze
+DA 2023-12-05
+ER
+
+PT C
+AU Andreeva, E
+   Ermakov, S
+   Brenner, H
+AF Andreeva, Elena
+   Ermakov, Sergey
+   Brenner, Harvey
+BE Filho, WL
+   Dzemydiene, D
+   Sakalauskas, L
+   Zavadskas, EK
+TI The socioeconomic aetiology of suicide mortality
+SO 4TH INTERNATIONAL CONFERENCE CITIZENS AND GOVERNANCE FOR SUSTAINABLE
+   DEVELOPMENT
+LA English
+DT Proceedings Paper
+CT 4th International Conference on Citizens and Governance for Sustainable
+   Development
+CY SEP 28-30, 2006
+CL Mykolas Romeris Univ, Vilnius, LITHUANIA
+SP Vilnius Gediminas Tech Univ, Inst Math & Informat, Balt Ecol Informat Disseminat Syst, Natl Commiss Sustainable Dev Lithuania, UN Dept Econ & Social Affairs, UNESCO, UN Dev Program, Inst Environm & Sustainabil, European Commiss, European Assoc Operat Res Soc, European Working Grp Human Centered Processes, ICSC World Lab Lithuanian Branch, Baltic 21, Balt Univ Programme, Agcy Int Sci & Technol Dev Programmes Lithuania
+HO Mykolas Romeris Univ
+DE suicide; stress; socioeconomic transition; heavy binge drinking;
+   ecological study; panel data analysis; Russian Federation
+AB Large-scale socioeconomic changes are often associated with an increase of suicide rates. During the turbulent period of the socioeconomic transition, an epidemic outbreak of suicide mortality has been recorded in the post-Soviet Baltic countries - particularly, in Lithuania - and in Russia.
+   The given study analyses the socioeconomic aetiology of suicide. The analytical approach is based on the main hypotheses suggested in the research literature for the explanation of suicide mortality epidemics: (1) the detrimental impact of psychosocial stress and (2) heavy binge drinking of alcohol. This approach involves an extrapolation of Selye's psycho-physiological stress model to the population level. Nonimpulsive suicide is understood as emanating from the Exhaustion phase of stress, when hopelessness and fatigue ensue, and the behaviour is characterised by passivity and "escape".
+   The study included annual data (1990-2001) on suicide mortality (SDR) and its explanatory variables for 77 administrative areas of the Russian Federation. The data were mostly derived from official statistical sources (GOSKOMSTAT). Considerable efforts have been devoted to the identification of measurable mortality predictors, which include three main groups: (1) the core transition-related stressors, (2) coping strategies used by the population to overcome economic hardship and (3) aggregate-level stress moderators. A pooled cross-sectional time series analysis has been carried out. The "best fitting" model explains about 75 percent of the variation in mortality level across regions. Deficiency of coping resources (lacking economic activities) turned out to be the strongest predictor of suicide mortality. Suicide rates were statistically accounted for by the factors related to transition-related stressors hyperinflation, severe economic depression, etc. Heavy binge drinking was a significant, but not the leading mortality predictor.
+   In conclusion, the study results support the idea that sustainable development is crucial for the prevention of stress-related mortality. Socioeconomic instability is detrimental for the demographic situation in Russia.
+C1 [Andreeva, Elena] Berlin Univ Technol, Inst Hlth Sci, Epidemiol Unit, Sekr TEL 11-1, Ernst Reuter Pl 7, D-10587 Berlin, Germany.
+   [Ermakov, Sergey] MRMOIF, Moscow 107078, Russia.
+C3 Technical University of Berlin
+RP Andreeva, E (corresponding author), Berlin Univ Technol, Inst Hlth Sci, Epidemiol Unit, Sekr TEL 11-1, Ernst Reuter Pl 7, D-10587 Berlin, Germany.
+EM elan@ifg.tu-berlin.de; spe@mofoms.ru
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 5
+PU VILNIUS GEDIMINAS TECHNICAL UNIV PRESS, TECHNIKA
+PI VILNIUS-40
+PA SAULETEKIO A1. 11, VILNIUS-40, LT-10233, LITHUANIA
+PY 2006
+BP 140
+EP +
+PG 3
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Economics; Urban Studies
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Computer Science; Business & Economics; Urban Studies
+GA BFP65
+UT WOS:000243634400027
+DA 2023-12-05
+ER
+
+PT J
+AU Swain, A
+AF Swain, Amanda
+TI COMMEMORATING THE "LIVING TORCH OF FREEDOM": Searching for a Usable Past
+   in Romas Kalanta's 1972 Self-Immolation
+SO AB IMPERIO-STUDIES OF NEW IMPERIAL HISTORY AND NATIONALISM IN THE
+   POST-SOVIET SPACE
+LA English
+DT Editorial Material
+ID LITHUANIA; PARTIES; MEMORY
+AB In 1972, nineteen-year-old Romas Kalanta set himself on fire in Soviet Lithuania leaving a note saying, ''only the system is responsible for my death." Kalanta's "dead body" was employed by the Lithuanian popular front Sajudis in 1989 as a powerful symbol of the nation's oppression and suffering under Soviet rule. Just over a decade later, however, Kalanta was no longer useful as a national symbol, primarily due to the manner of his death. By 2002, Kalanta's act of suicide discouraged rather than encouraged identification with him, and the issue of mental illness continued to taint his potential as a national hero. Instead, emphasis shifted to the street demonstrations by young people that followed his funeral. In this case, the live bodies of young people engaged in popular protest became a more powerful symbol than Kalanta, as Lithuanians claimed the moral value of civil resistance and a "Sixties" youth culture with the West.
+C1 [Swain, Amanda] Univ Calif Irvine, Hist, Irvine, CA 92717 USA.
+C3 University of California System; University of California Irvine
+RP Swain, A (corresponding author), Univ Calif Irvine, Hist, Irvine, CA 92717 USA.
+EM ajswain@uw.edu
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 2
+PU REDAKTSIYA ZHURNALA AB IMPERIO
+PI KAZAN
+PA PO BOX 157, KAZAN, 420015, RUSSIA
+SN 2166-4072
+EI 2164-9731
+J9 AB IMP
+JI Ab Imp.
+PY 2015
+IS 2
+BP 162
+EP 182
+DI 10.1353/imp.2015.0043
+PG 21
+WC History
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA V8S1X
+UT WOS:000421918400007
+DA 2023-12-05
+ER
+
+PT J
+AU Sakalauskas, L
+AF Sakalauskas, Leonidas
+TI On the Empirical Bayesian Approach for the Poisson-Gaussian Model
+SO METHODOLOGY AND COMPUTING IN APPLIED PROBABILITY
+LA English
+DT Article; Proceedings Paper
+CT 12th International Symposium on Applied Stochastic Models and Data
+   Analysis
+CY MAY 29-JUN 01, 2007
+CL Chania, GREECE
+DE Empirical Bayesian; Maximal likelihood; Clustering; Poisson-Gaussian
+   model
+ID RELATIVE RISKS; RATES
+AB The paper considers numerical issues of the empirical Bayesian approach model, applied to estimation of small rates. The condition for non-singularity of Bayesian estimates is given and the convenient iterative algorithm for estimation is described. The clustering algorithm is also developed, using the property of Poisson-Gaussian model to treat probabilities of events in populations being the same, if the variance of probabilities is small. The approach considered is illustrated by an application to the analysis of homicides and suicides data in Lithuania, 2003-2004.
+C1 Inst Math & Informat, LT-08663 Vilnius, Lithuania.
+C3 Vilnius University
+RP Sakalauskas, L (corresponding author), Inst Math & Informat, Akademijos St 4, LT-08663 Vilnius, Lithuania.
+EM sakal@ktl.mii.lt
+NR 13
+TC 7
+Z9 7
+U1 0
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1387-5841
+J9 METHODOL COMPUT APPL
+JI Methodol. Comput. Appl. Probab.
+PD JUN
+PY 2010
+VL 12
+IS 2
+SI SI
+BP 247
+EP 259
+DI 10.1007/s11009-009-9146-2
+PG 13
+WC Statistics & Probability
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Mathematics
+GA 581DR
+UT WOS:000276502200005
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, P
+   Sisask, M
+   Värnik, A
+   Yur'yev, A
+   Kolves, K
+   Leppik, L
+   Nemtsov, A
+   Wasserman, D
+AF Varnik, Peeter
+   Sisask, Merike
+   Varnik, Airi
+   Yur'yev, Andriy
+   Kolves, Kairi
+   Leppik, Lauri
+   Nemtsov, Aleksander
+   Wasserman, Danuta
+TI Massive increase in injury deaths of undetermined intent in ex-USSR
+   Baltic and Slavic countries: Hidden suicides?
+SO SCANDINAVIAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Accidents; Baltic States; Belarus; homicides; injury deaths;
+   registration; Russia; suicides; Ukraine; undetermined intent
+ID VITAL-STATISTICS; MORTALITY; CLASSIFICATION; QUALITY; ALCOHOL; TRENDS;
+   UNION
+AB Aims: Observed changes in subcategories of injury death were used to test the hypothesis that a sizeable proportion of "injury deaths of undetermined intent" (Y10-Y34 in ICD 10) in the Baltic and Slavic countries after the USSR dissolved in 1991 were hidden suicides. Methods: Using male age-adjusted suicide rates for two distinctly different periods, 1981-90 and 1992-2005, changes, ratios and correlations were calculated. The data were compared with the EU average. Results: After the USSR broke up, the obligation to make a definitive diagnosis became less strict. A massive increase in "injury deaths of undetermined intent" resulted. The mean rate for the second period reached 52.8 per 100,000 males in Russia (the highest rate) and 12.9 in Lithuania (the lowest), against 3.2 in EU-15. The rise from the first to the second period was highest in Belarus (56%) and Russia (44%). The number of injury deaths of undetermined intent was almost equal to that of suicides in Russia in 2005 (ratio 1.0) and Ukraine in 2002 (1.1). In all the countries, especially the Slavic ones, prevalence trends of injury-death subcategories were uniform, i.e. strongly correlated over time. No direct substitution of one diagnosis for another was evident. Conclusions: There is no evidence that the category of "injury deaths of undetermined intent" in the Baltic and Slavic countries hides suicides alone. Aggregate level analysis indicates that accidents and homicides could sometimes be diagnosed as undetermined.
+C1 [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Kolves, Kairi] Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+   [Varnik, Peeter; Sisask, Merike; Varnik, Airi; Yur'yev, Andriy; Leppik, Lauri] Tallinn Univ, Tallinn, Estonia.
+   [Kolves, Kairi] Griffith Univ, Australian Inst Suicide Res & Prevent, Nathan, Qld 4111, Australia.
+   [Nemtsov, Aleksander] Moscow Res Inst Psychiat, Moscow, Russia.
+   [Wasserman, Danuta] Karolinska Inst, Natl Prevent Suicide & Mental Ill Hlth NASP, Stockholm, Sweden.
+C3 Tallinn University; Griffith University; Karolinska Institutet
+RP Värnik, P (corresponding author), Estonian Ctr Behav & Hlth Sci, Estonian Swedish Mental Hlth & Suicidol Inst, Tallinn, Estonia.
+EM peeterv@uninet.ee
+RI Kolves, Kairi/ABE-7564-2020; Yuryeva, Lyudmyla/AAF-9051-2020; Nemtsov,
+   Alexander V/J-4160-2012
+OI Kolves, Kairi/0000-0002-1638-8981; Yuryeva,
+   Lyudmyla/0000-0002-1713-1037; Sisask, Merike/0000-0001-6821-6367
+FU European Community [FP/2007-2013, 223138]; Estonian Scientific
+   Foundation [7132]
+FX The research leading to these results has received funding from the
+   European Community's Seventh Framework Programme (FP/2007-2013)
+   OSPI-Europe under grant agreement No. 223138. The current study was
+   funded by the Estonian Scientific Foundation project number 7132. Thanks
+   are due to Clare James for her thorough linguistic and stylistic
+   revision of the manuscript.
+NR 31
+TC 33
+Z9 35
+U1 2
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1403-4948
+EI 1651-1905
+J9 SCAND J PUBLIC HEALT
+JI Scand. J. Public Health
+PD JUN
+PY 2010
+VL 38
+IS 4
+BP 395
+EP 403
+DI 10.1177/1403494809354360
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 602PW
+UT WOS:000278152300008
+PM 19933222
+DA 2023-12-05
+ER
+
+PT J
+AU Leskauskas, D
+   Adomaitiene, V
+   Seskeviciene, G
+   Cesnaite, E
+   Smigelskas, K
+AF Leskauskas, Darius
+   Adomaitiene, Virginija
+   Seskeviciene, Giedre
+   Cesnaite, Egle
+   Smigelskas, Kastytis
+TI Self-Reported Emotional and Behavioral Problems of Left-behind Children
+   in Lithuania
+SO CHILD INDICATORS RESEARCH
+LA English
+DT Article
+DE Emotional problems; Behavioral problems; Left-behind children;
+   Adolescents; Economic migration; Lithuania
+ID PARENTAL MIGRATION; DIFFICULTIES QUESTIONNAIRE; PSYCHOSOCIAL HEALTH;
+   STRENGTHS; CHINA; MOLDOVA
+AB The migration makes an influence on children's mental health and behaviors. However, the majority of studies investigate the families and people in migration rather than left-behind groups in their home countries. OBJECTIVE: to assess the possible impact of parents' migration on emotional and behavioral problems of their left-behind children. The study comprised 10-19-year-old adolescents from five urban secondary schools (n = 1292). The cross-sectional study was conducted in Kaunas city (Lithuania). Main measures were self-reported scales - Strengths and Difficulties Questionnaire (SDQ) and Child Behavior Checklist (CBCL) as well as items on subjective perceptions and feelings towards the change of relationship with a missing parent due to migration or divorce. Findings show that left-behind children report more risky behaviors and emotional problems, they tend more to feel unloved (OR = 2.34, p < 0.05), longing for missing parent (OR = 4.72, p < 0.05), contemplating suicide or self-injuring behavior (OR = 3.92, p < 0.05). Emotional and behavioral problems are more prevalent among 15-19-year-old male adolescents (OR = 1.71, p < 0.05). The left-behind children report more emotional and behavioral problems compared to the children from divorced families. The findings suggest that parental migration has specific negative effects on left-behind children's emotional state and behaviors.
+C1 [Leskauskas, Darius; Adomaitiene, Virginija] Lithuanian Univ Hlth Sci, Dept Psychiat, Eiveniu G 2, LT-50161 Kaunas, Lithuania.
+   [Seskeviciene, Giedre] Univ Sjukhuset, Linkoping Univ Hosp, Dept Child & Adolescent Psychiat, S-58185 Linkoping, Sweden.
+   [Cesnaite, Egle] Alytus Mental Hlth Care Ctr, Naujoji G 48, LT-62381 Alytus, Lithuania.
+   [Smigelskas, Kastytis] Lithuanian Univ Hlth Sci, Hlth Res Inst, Dept Hlth Psychol, Tilzes G 18, LT-47181 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences; Linkoping University;
+   Lithuanian University of Health Sciences
+RP Smigelskas, K (corresponding author), Lithuanian Univ Hlth Sci, Hlth Res Inst, Dept Hlth Psychol, Tilzes G 18, LT-47181 Kaunas, Lithuania.
+EM darius.leskauskas@lsmuni.lt; virginija.adomaitiene@lsmuni.lt;
+   giedre.sesk@gmail.com; ecesnaite@yahoo.com;
+   kastytis.smigelskas@lsmuni.lt
+RI Leskauskas, Darius/AAA-1172-2021
+NR 36
+TC 7
+Z9 7
+U1 7
+U2 31
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1874-897X
+EI 1874-8988
+J9 CHILD INDIC RES
+JI Child Indic. Res.
+PD AUG
+PY 2020
+VL 13
+IS 4
+BP 1203
+EP 1216
+DI 10.1007/s12187-019-09689-5
+EA NOV 2019
+PG 14
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA MH0CB
+UT WOS:000495976000001
+DA 2023-12-05
+ER
+
+PT J
+AU Zemaitiene, N
+   Zaborskis, A
+AF Zemaitiene, N
+   Zaborskis, A
+TI Suicidal tendencies and attitude towards freedom to choose suicide among
+   Lithuanian schoolchildren: results from three cross-sectional studies in
+   1994, 1998, and 2002
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID ADOLESCENTS; IDEATION; DEATH; CHILDREN; YOUNG
+AB Background: Suicidal behaviour is increasingly becoming a phenomenon associated with young people and an important public health issue in Lithuania. However, there are very few studies evaluating impact of young peoples' attitudes towards suicide to their suicidal behaviour. A better understanding of the relations among the variables associated with suicidal ideation and threats in the normal population of adolescents may eventually result in a better understanding of the more serious forms of adolescent suicidal behaviour. The aim of the present study was to evaluate prevalence of suicidal tendencies among Lithuanian schoolchildren and to estimate its association with an attitude towards suicide in 1994 - 2002.
+   Methods: Three country representative samples of schoolchildren, aged 11, 13 and 15, were surveyed in 1994 ( n = 5428), 1998 ( n = 4513), and 2002 ( n = 5645) anonymously in conformity with the methodology of the World Health Organization Cross - National study on Health Behaviour in School-aged Children (HBSC).
+   Results: About one third of respondents reported about suicidal ideation, plans or attempts to commit suicide. In the study period of eight years, the percentage of adolescents who reported sometime suicidal ideation decreased but the percentage of adolescents who declared serious suicidal behaviour remained on the same high level (8.1%, 9.8% and 8.4% correspondingly in 1994, 1998 and 2002). Moreover, the number of suicidal attempts changed from 1.0% in 1994 to 1.8% in the year 1998 and to 1,7% in the year 2002. The schoolchildren's attitude towards suicide became more agreeable: 36.6%, 41.9% and 62.5% of respondents, correspondingly in 1994, 1998 and 2002, answered that they agree with a person's freedom to make a choice between life and suicide. A multiple logistic regression analysis with low level of suicidality and high level of suicidality versus non suicidal behaviour as dependent variables for gender, age, year of the survey and attitude towards freedom to choose suicide as independent variables approved a significant association between studied covariates over the entire study period.
+   Conclusion: Suicidal tendencies are quite frequent among Lithuanian adolescents. An increasing number of schoolchildren are expressing an agreeable attitude towards suicide. The approving attitude towards suicide among adolescents correlates with suicidal ideation and behaviour.
+C1 Kaunas Univ Med, Inst Biomed Res, LT-50009 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Zemaitiene, N (corresponding author), Kaunas Univ Med, Inst Biomed Res, 4 Eiveniu Str, LT-50009 Kaunas, Lithuania.
+EM nida@med.kmu.lt; socped@kmu.lt
+NR 33
+TC 31
+Z9 31
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD AUG 11
+PY 2005
+VL 5
+AR 83
+DI 10.1186/1471-2458-5-83
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 962UD
+UT WOS:000231757600001
+PM 16092973
+OA gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Puras, D
+   Germanavicius, A
+   Povilaitis, R
+   Veniute, M
+   Jasilionis, D
+AF Puras, D
+   Germanavicius, A
+   Povilaitis, R
+   Veniute, M
+   Jasilionis, D
+TI Lithuania mental health country profile
+SO INTERNATIONAL REVIEW OF PSYCHIATRY
+LA English
+DT Article
+AB As a part of international mental health policy, programmes and services project, the 'country profile' instrument was used for assessment of mental health policy and services in the Republic of Lithuania. Analysis of contextual factors revealed high levels of social pathology (including violence, suicide and other self-destructive behaviour) with stigmatizing approaches by the general population to mentally disturbed persons and other vulnerable groups. Analysis of existing data about resources invested in the mental health care system raises questions for policymakers about the effectiveness of this traditional way of investment. The largest proportion of physical and human capital is concentrated in psychiatric institutions, with large numbers of beds, psychiatrists and increasing funding for medications, while other components of care-such as housing, psychosocial and vocational rehabilitation, community-based child mental health services-are not being developed. Statistical accounts keep the tradition of presenting processes as outcomes, while modern assessment of outcomes of services, programmes and policies are lacking. The findings from this country profile may be very useful in the development of modern mental health policies in the countries of Eastern and Central Europe, which have been deprived for decades from the opportunity to introduce evidence-based mental health policies and services.
+C1 Vilnius State Univ, Dept Psychiat, Vilnius, Lithuania.
+   Vilnius State Univ, Inst Publ Hlth, Vilnius, Lithuania.
+   Vilnius State Univ, Inst Social Res, Vilnius, Lithuania.
+C3 Vilnius University; Vilnius University; Lithuanian Social Research
+   Center; Vilnius University
+RP Puras, D (corresponding author), Vilnius State Univ, Dept Psychiat, Vilnius, Lithuania.
+EM dainius.puras@mf.vu.lt_liberalparty-yeh
+RI Jasilionis, Domantas/CAG-7654-2022; Germanavicius, Arunas/A-6149-2016;
+   Germanavicius, Arunas/A-5084-2017
+OI Germanavicius, Arunas/0000-0002-1226-1449; Jasilionis,
+   Domantas/0000-0001-9959-9292; Jakubauskiene, Marija/0000-0002-2394-1693
+NR 17
+TC 15
+Z9 15
+U1 0
+U2 8
+PU CARFAX PUBLISHING
+PI BASINGSTOKE
+PA RANKINE RD, BASINGSTOKE RG24 8PR, HANTS, ENGLAND
+SN 0954-0261
+J9 INT REV PSYCHIATR
+JI Int. Rev. Psych.
+PD FEB-MAY
+PY 2004
+VL 16
+IS 1-2
+BP 117
+EP 125
+DI 10.1080/09540260310001635168
+PG 9
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA 804KB
+UT WOS:000220296500012
+PM 15276944
+DA 2023-12-05
+ER
+
+PT J
+AU Stankunas, M
+   Kalediene, R
+   Starkuviene, S
+   Kapustinskiene, V
+AF Stankunas, Mindaugas
+   Kalediene, Ramune
+   Starkuviene, Skirmante
+   Kapustinskiene, Violeta
+TI Duration of unemployment and depression: a cross-sectional survey in
+   Lithuania
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID PSYCHOLOGICAL DISTRESS; HEALTH; SUICIDE; INEQUALITIES; ADJUSTMENT;
+   INVENTORY; RATES; MEN
+AB Background: In spite of a growing economy, unemployment is still a severe socio-economic problem in Lithuania. Nonetheless, no studies have been performed about the associations between unemployment and mental health in Lithuania. The aim of this study was to evaluate the associations between unemployment duration and depression in Lithuania.
+   Methods: The data was collected in a cross-sectional study in 2005. There were 429 filled-in questionnaires received (53.6% response rate) from unemployed persons registered with the Kaunas Labour Market Office. The severity of depression symptoms was evaluated using the Beck Depression Inventory (BDI). Logistic regression was used to estimate the risk factors for occurrence of depression. Sex, age, place of residence, marital status, education, income and practiced religion were the independent variables. Long-term unemployment was defined as lasting a duration of 12 months or more.
+   Results: The findings showed that long-term unemployed persons had more episodes of a depressive mood in the past 12 months in comparison with the group of the short-term unemployed. In addition, the BDI score mean was higher among the long-term unemployed compared with the short-term unemployed (10.1 +/- 8.8 and 14.2 +/- 9.5 respectively, p<0.001). It was estimated that the duration of unemployment and BDI score had a positive correlation (r=0.1968, p<0.001). Among the short-term unemployed, the risk of depression increased significantly when the person was female, had an older age and had experienced more episodes of unemployment. Among the long-term unemployed, an older age was the risk factor for development of depression. However, higher education and income were the factors that significantly decreased the risk of developing depression for-short term as well as for long-term unemployed.
+   Conclusion: The results indicated that depression is a severe problem in the unemployed population. Depression is more elevated among the long-term unemployed. This leads to arguing for common efforts in providing needed social support and health care to reduce the effects of unemployment on mental health.
+C1 Kaunas Univ Med, Dept Social Med, LT-44307 Kaunas, Lithuania.
+   Kaunas Univ Med, Fac Publ Hlth, LT-44037 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences; Lithuanian University of
+   Health Sciences
+RP Stankunas, M (corresponding author), Kaunas Univ Med, Dept Social Med, A Mickeviciaus St, LT-44307 Kaunas, Lithuania.
+EM m.stankunas@one.lt; socmed@kmu.lt; smante@centras.lt; socmed@kmu.lt
+RI Stankunas, Mindaugas/B-1770-2019
+NR 45
+TC 89
+Z9 102
+U1 0
+U2 25
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 5
+PY 2006
+VL 6
+AR 174
+DI 10.1186/1471-2458-6-174
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 074HQ
+UT WOS:000239803700001
+PM 16822310
+OA Green Published, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Sauliune, S
+   Petrauskiene, J
+   Kalediene, R
+AF Sauliune, Skirmante
+   Petrauskiene, Jadvyga
+   Kalediene, Ramune
+TI Alcohol-Related Injuries and Alcohol Control Policy in Lithuania: Effect
+   of the Year of Sobriety, 2008
+SO ALCOHOL AND ALCOHOLISM
+LA English
+DT Article
+ID EUROPEAN COUNTRIES; GLOBAL BURDEN; SUICIDE; CONSUMPTION; MORTALITY;
+   DISEASE
+AB Aims: To evaluate the changes in mortality and the years of potential life lost (YPLL) due to alcohol-related injuries, as well as the impact of alcohol-related injuries on life expectancy during the period of the implementation of comprehensive alcohol control policy in Lithuania. Methods: Data on deaths from injuries (ICD-10 codes V01-Y98) of the able-bodied population (aged 15-64 years) during 2006-2009 were obtained from the Lithuanian Department of Statistics. Age-standardized rates of alcohol-related mortality and YPLL per 100, 000 population due to injuries and the impact of alcohol-related injuries on life expectancy were calculated. The results of forensic autopsies were the basis for the alcohol-attributable fraction. Results: The age-standardized YPLL/100,000 of the able-bodied population due to alcohol-related injuries was 2285.6 (4067.5 for males and 573.6 for females) in 2009. In 2009, YPLL/100,000 due to alcohol-related injuries declined by 16.3%, while due to alcohol-related traffic accidents by 51.2% when compared with 2006. However, YPLL/100, 000 due to alcohol-related suicides increased among males. A 15 to 64-year-old decedent lost an average of 21.2 years of life due to alcohol-related injuries (21.6 years on average per male and 19.1 per female). The impact of alcohol-related injuries on life expectancy decreased from 1.14 years (1.86 for males and 0.34 for females) in 2006 to 0.97 years (1.62 for males and 0.26 for females) in 2009. Conclusion: The positive changes in YPLL due to alcohol-related injuries and the impact of alcohol-related injuries on life expectancy indicate successful implementation of evidence-based alcohol control measures.
+C1 [Sauliune, Skirmante; Petrauskiene, Jadvyga; Kalediene, Ramune] Lithuanian Univ Hlth Sci, Fac Publ Hlth, Dept Hlth Management, LT-44307 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Sauliune, S (corresponding author), Lithuanian Univ Hlth Sci, Fac Publ Hlth, Dept Hlth Management, A Mickeviciaus Str 9, LT-44307 Kaunas, Lithuania.
+EM smante@centras.lt
+NR 24
+TC 14
+Z9 14
+U1 0
+U2 11
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0735-0414
+EI 1464-3502
+J9 ALCOHOL ALCOHOLISM
+JI Alcohol Alcohol.
+PD JUL-AUG
+PY 2012
+VL 47
+IS 4
+BP 458
+EP 463
+DI 10.1093/alcalc/ags033
+PG 6
+WC Substance Abuse
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Substance Abuse
+GA 963NX
+UT WOS:000305629400016
+PM 22454304
+DA 2023-12-05
+ER
+
+PT J
+AU Stoupel, E
+   Kalediene, R
+   Petrauskiene, J
+   Domarkiene, S
+   Radishauskas, R
+   Abramson, E
+   Israelevich, P
+   Sulkes, J
+AF Stoupel, E
+   Kalediene, R
+   Petrauskiene, J
+   Domarkiene, S
+   Radishauskas, R
+   Abramson, E
+   Israelevich, P
+   Sulkes, J
+TI Three kinds of cosmophysical activity: links to temporal distribution of
+   deaths and occurrence of acute myocardial infarction
+SO MEDICAL SCIENCE MONITOR
+LA English
+DT Article
+DE solar activity; geomagnetic activity; cosmic ray; ischemic heart
+   disease; stroke; oncology deaths; myocardial infarction; suicide
+ID SOLAR-ACTIVITY
+AB Background: The purpose of this study was to check for possible links between mortality statistics in a given month, generally from all causes and specifically from selected causes, and three kinds of cosmophysical activity: solar (SA), geomagnetic (GMA), and cosmic ray (CR). We also compared the results obtained for correlation by gender.
+   Material/Methods: 504,243 deaths were analyzed from the National Database of Lithuania (1990-2001); 102,604 OP deaths (1988-2000) were also included in this study and compared with data obtained from neutron monitoring data and other physical sources for the same time period.
+   Results: The total monthly number of deaths for 144 consecutive months was significantly and inversely correlated with SA and positively with CR activity, but not with GMA. The number of deaths from cancer, suicide, motor vehicle accidents, and acute myocardial infarction correlated with all three physical factors. SA and GMA show inverse effects as compared to CR. Ischemci heart disease deaths correlated only with GMA, cardiovascular accidents with SA and CR. Non-cardiovascular and suicide deaths were most strongly correlated to CR activity.
+   Conclusions: The number of deaths is significantly related to physical activity in the space environment. These relationships show differences between kinds of deaths and significant correlation for the number of acute myocardial infarctions. Gender differences in links with physical activity in space were found in some of the compared groups.
+C1 Rabin Med Ctr, Div Cardiol, Tel Aviv, Israel.
+   Med Univ, Dept Social Med, Kaunas, Lithuania.
+   Med Univ, Inst Cardiol, Kaunas, Lithuania.
+   Rabin Med Ctr, Epidemiol Unit, Tel Aviv, Israel.
+   Tel Aviv Univ, Dept Geophys & Cosm Sci, IL-69978 Tel Aviv, Israel.
+C3 Lithuanian University of Health Sciences; Lithuanian University of
+   Health Sciences; Tel Aviv University
+RP Stoupel, E (corresponding author), Rabin Med Ctr, Div Cardiol, Beilinson Campus, IL-49100 Petah Tiqwa, Israel.
+EM stoupel@inter.net.il
+NR 40
+TC 16
+Z9 21
+U1 0
+U2 1
+PU INT SCIENTIFIC INFORMATION, INC
+PI MELVILLE
+PA 150 BROADHOLLOW RD, STE 114, MELVILLE, NY 11747 USA
+EI 1643-3750
+J9 MED SCI MONITOR
+JI Med. Sci. Monitor
+PD FEB
+PY 2004
+VL 10
+IS 2
+BP CR80
+EP CR84
+PG 5
+WC Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Research & Experimental Medicine
+GA 867GV
+UT WOS:000224831400014
+PM 14737048
+DA 2023-12-05
+ER
+
+PT J
+AU Baranova, J
+AF Baranova, Jurate
+TI A double capture of body and life: Deleuzian reading of Sauka's pictures
+SO COGENT ARTS & HUMANITIES
+LA English
+DT Article
+DE Sauka; Bacon; Deleuze; body; life
+AB This article deals with the surrealist paintings of Sarunas Sauka (b.1958), an artist totally unknown in the West and not even broadly investigated in Lithuania. Following Deleuze, the argument for this paper concentrates on the question: can Deleuzian concepts engaged for the experimental reading of Francis Bacon's paintings also apply to the works of other artists? The author of the article proposes reading visual stories created by Sauka using the strategies Gilles Deleuze employed when reflecting on Francis Bacon's paintings. Some similarities between "dark" topics (e.g. suicide, inferno) and particularly the theme of the body and the dismantling of the organism are possible points of meeting between the two painters. "Life is frightening" is the starting point for both painters. Bacon paints the sharpness of a real scream, whereas Sauka escapes the dreadfulness of life by choosing a strategy of indirect communication and abstract humour.
+C1 [Baranova, Jurate] Vilnius Univ, Inst Philosophy, Univ St 9-1, LT-01513 Vilnius, Lithuania.
+C3 Vilnius University
+RP Baranova, J (corresponding author), Vilnius Univ, Philosophy Inst, Dept Continental Philosophy & Religious Studies, Univ St 9-1, LT-01513 Vilnius, Lithuania.
+EM jurabara@gmail.corn
+OI Baranova, Jurate/0000-0003-4085-2737
+FU Research Council of Lithuania [MIP 17-37]
+FX This work was supported by the Research Council of Lithuania under Grant
+   No. MIP 17-37. The author also wants to express her appreciation to the
+   Vilnius University Faculty of Philosophy.
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 4
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN 2331-1983
+J9 COGENT ARTS HUMANITE
+JI Cogent Art Humanities
+PD DEC 25
+PY 2018
+VL 5
+IS 1
+AR 1560615
+DI 10.1080/23311983.2018.1560615
+PG 18
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA HH3TG
+UT WOS:000455641700001
+OA gold
+DA 2023-12-05
+ER
+
+PT C
+AU Ciuladiene, G
+   Raudeliunaite, R
+AF Ciuladiene, Grazina
+   Raudeliunaite, Rita
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI PEER MEDIATION AS TOOL TO RESOLVE SCHOOL BASED CONFLITCS: THE OPINION OF
+   AN SCHOOL STAFF (CASE STUDY)
+SO EDULEARN16: 8TH INTERNATIONAL CONFERENCE ON EDUCATION AND NEW LEARNING
+   TECHNOLOGIES
+SE EDULEARN Proceedings
+LA English
+DT Proceedings Paper
+CT 8th International Conference on Education and New Learning Technologies
+   (EDULEARN)
+CY JUL 04-06, 2016
+CL Barcelona, SPAIN
+DE conflicts; mediation; Lithuania; case study
+ID RESOLUTION; IMPLEMENTATION; PROGRAM
+AB Mediation is determined as a structured process in which a neutral and impartial third party (mediator) assists two or more people to negotiate resolution to their conflict. Schools implement peer mediation programs in order to fulfill the need for better conflict management among school students. Empirical evidence shows that students involved in conflict management programs gain many benefits from their participation, such as student behavior improvement, peer status increase, academic improvement, leadership skills enhance, higher self-esteem, and better resolution of problems at school and at home. It has been revealed that teaching students to be peacemakers is a very valuable competence benefiting them throughout their lives (Johnson and Johnson, 2004).
+   School violence is an issue of grave and ongoing concern in Lithuania. The country is characterized by the highest level of teenage bullying, and suicide in Europe (Eurostat, Unicef). Nevertheless, in present-day Lithuania relatively little is known about school conflicts. Mediation is not used and even known conflict resolution strategy in Lithuania's schools. Most of the attention which is paid to conflicts has so far been limited to episodic initiatives such as issuing recommendations, setting up projects and organizing conflict management workshops. Taking into account the lack of research on school based conflicts, this research sets as its object conflict education.
+   The purpose of the research was to investigate the school staff'`s opinion about peer mediation. There was a main question related to mediation such as what is your opinion about the implementation of peer mediation program at the school. Other two questions were related to conflict resolution experience. The last question asked to remember and recall one concrete conflict. Content analysis technique was applied for the qualitative data. Answers were interpreted in a way tabulating them in terms of codes, sub-codes, examples. We conducted our research in one secondary school located in Vilnius, the capital of country. Deputy director, four teachers and social educator were interviewed. Participants experience range from 1 to 26 and they all were women.
+   Qualitative data analysis enabled to understand the position of school staff on mediation. In relation with conflict experience the codes of frequency, variety, framework were originated. In relation of peer mediation, the codes of impossibility and no needed were originated. It seems as well that school staff implements forcing strategy, resulting in adult-imposed solution. Based on the data of the survey it is revealed insufficient competency to manage conflicts. In order to achieve more effective interactions in educational setting, it would be appropriate to pay more attention to conflict management.
+C1 [Ciuladiene, Grazina; Raudeliunaite, Rita] Mykolas Romeris Univ, Vilnius, Lithuania.
+C3 Mykolas Romeris University
+RP Ciuladiene, G (corresponding author), Mykolas Romeris Univ, Vilnius, Lithuania.
+RI Raudeliunaite, Rita/HII-7249-2022
+NR 21
+TC 1
+Z9 1
+U1 0
+U2 8
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION A& DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1117
+BN 978-84-608-8860-4
+J9 EDULEARN PROC
+PY 2016
+BP 8915
+EP 8923
+PG 9
+WC Education & Educational Research; Education, Scientific Disciplines
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research
+GA BH7TE
+UT WOS:000402955908129
+DA 2023-12-05
+ER
+
+PT J
+AU Ambade, VN
+   Kolpe, D
+   Tumram, N
+   Meshram, S
+   Pawar, M
+   Kukde, H
+AF Ambade, Vipul Namdeorao
+   Kolpe, Dayanand
+   Tumram, Nilesh
+   Meshram, Satin
+   Pawar, Mohan
+   Kukde, Hemant
+TI Characteristic Features of Hanging: A Study in Rural District of Central
+   India
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; asphyxial deaths; hanging; characteristic features;
+   hanging mark; ligature material
+ID NECK STRUCTURES; SAUDI-ARABIA; SUICIDE; FRACTURES; DEATHS; EPIDEMIOLOGY;
+   LITHUANIA; INJURIES; HUNGARY; TRENDS
+AB The ligature mark is the most relevant feature of hanging. This study was undertaken with a view to determine the characteristic features of hanging and its association with ligature material or mode of suspension. Of a total medicolegal deaths reported at an Apex Medical Centre, hanging was noted in 4.1% cases, all suicidal with mortality rate of 1.5 per 100,000 population per year. The hanging was complete in 67.7% with nylon rope as the commonest type of ligature material used for ligation. The hanging mark was usually single, situated above thyroid cartilage, incomplete, prominent, and directed toward nape of neck. The mark of dribbling of saliva was seen in 11.8% cases. Facial congestion, petechial hemorrhage, and cyanosis were significantly seen in partial hanging. Though occasionally reported, the argent line was noted in 78.7% hanging deaths with neck muscle hemorrhage in 23.6% cases. Fracture of neck structure was predominant in complete hanging.
+C1 [Ambade, Vipul Namdeorao; Meshram, Satin] Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+   [Kolpe, Dayanand; Pawar, Mohan; Kukde, Hemant] Vasantrao Naik Govt Med Coll, Dept Forens Med, Yeotmal 445001, Maharashtra, India.
+   [Tumram, Nilesh] Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+RP Ambade, VN (corresponding author), Govt Med Coll, Dept Forens Med, Nagpur 440003, Maharashtra, India.
+EM vipulambade@rediffmail.com
+RI PAWAR, MOHAN/AAH-9625-2021; Pawar, Mohan/AAZ-8953-2020
+OI PAWAR, MOHAN/0000-0001-8760-5683; 
+NR 63
+TC 13
+Z9 14
+U1 0
+U2 7
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD SEP
+PY 2015
+VL 60
+IS 5
+BP 1216
+EP 1223
+DI 10.1111/1556-4029.12772
+PG 8
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA CR0CE
+UT WOS:000360985000014
+PM 25899291
+DA 2023-12-05
+ER
+
+PT J
+AU Bellis, MA
+   Hughes, K
+   Leckenby, N
+   Jones, L
+   Baban, A
+   Kachaeva, M
+   Povilaitis, R
+   Pudule, I
+   Qirjako, G
+   Ulukol, B
+   Raleva, M
+   Terzic, N
+AF Bellis, Mark A.
+   Hughes, Karen
+   Leckenby, Nicola
+   Jones, Lisa
+   Baban, Adriana
+   Kachaeva, Margarita
+   Povilaitis, Robertas
+   Pudule, Iveta
+   Qirjako, Gentiana
+   Ulukol, Betul
+   Raleva, Marija
+   Terzic, Natasa
+TI Adverse childhood experiences and associations with health-harming
+   behaviours in young adults: surveys in eight eastern European countries
+SO BULLETIN OF THE WORLD HEALTH ORGANIZATION
+LA English
+DT Article
+ID FOLLOW-UP; ABUSE; DISEASE; MALTREATMENT; METAANALYSIS; PREVALENCE;
+   NEGLECT; BURDEN
+AB Objective To evaluate the association between adverse childhood experiences e.g. abuse, neglect, domestic violence and parental separation, substance use, mental illness or incarceration and the health of young adults in eight eastern European countries.
+   Methods Between 2010 and 2013, adverse childhood experience surveys were undertaken in Albania, Latvia, Lithuania, Montenegro, Romania, the Russian Federation, The former Yugoslav Republic of Macedonia and Turkey. There were 10 696 respondents 59.7% female - aged 18-25 years. Multivariate modelling was used to investigate the relationships between adverse childhood experiences and health-harming behaviours in early adulthood including substance use, physical inactivity and attempted suicide.
+   Findings Over half of the respondents reported at least one adverse childhdod experience. Having one adverse childhood experience increased the probability of having other adverse childhood experiences. The number of adverse childhood experiences was positively correlated with subsequent reports of health-harming behaviours. Compared with those Who reported no adverse experiences, respondents who reported at least four adverse childhood experiences were at significantly increased risk of many health-harming behaviours, with odds ratios varying from 1.68 (95% confidence interval, Cl: 1.32-2.15) - for physical inactivity - to 48.53 (95% CI: 31.98-76.65) - for attempted suicide. Modelling indicated that prevention of adverse childhood experiences would substantially reduce the occurrence of many health-harming behaviours within the study population.
+   Conclusion Our results indicate that individuals who do not develop health-harming behaviours are more likely to have experienced safe, nurturing childhoods. Evidence-based programmes to improve parenting and support child development need large-scale deployment in eastern European.
+C1 [Bellis, Mark A.; Hughes, Karen; Leckenby, Nicola; Jones, Lisa] Liverpool John Moores Univ, Ctr Publ Hlth, Liverpool L3 2ET, Merseyside, England.
+   [Baban, Adriana] Univ Babes Bolyai, Dept Psychol, R-3400 Cluj Napoca, Romania.
+   [Kachaeva, Margarita] Serbsky Natl Res Ctr Social & Forens Psychiat, Moscow, Russia.
+   [Povilaitis, Robertas] Vilnius State Univ, Fac Philosophy, Dept Clin & Org Psychol, Vilnius, Lithuania.
+   [Pudule, Iveta] Ctr Dis Prevent & Control, Riga, Latvia.
+   [Qirjako, Gentiana] Univ Med, Fac Publ Hlth, Tirana, Albania.
+   [Ulukol, Betul] Ankara Univ Sch Med, Dept Social Paediat, Ankara, Turkey.
+   [Raleva, Marija] Univ St Cyril & Methudius, Univ Clin Psychiat, Skopje 91000, North Macedonia.
+   [Terzic, Natasa] Inst Publ Hlth, Podgorica, Montenegro.
+C3 Liverpool John Moores University; Babes Bolyai University from Cluj;
+   Vilnius University; Ankara University; Saints Cyril & Methodius
+   University of Skopje
+RP Bellis, MA (corresponding author), Liverpool John Moores Univ, Ctr Publ Hlth, 15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM m.a.bellis@ljmu.ac.uk
+RI Wilson, Gregory/AAA-9035-2021; Bellis, Mark A./HGA-2019-2022; Jones,
+   Lisa/C-2678-2013; Hughes, Karen/JOK-1499-2023
+OI Jones, Lisa/0000-0001-5136-5614; Ulukol, Betul/0000-0001-8058-0911;
+   Bellis, Mark/0000-0001-6980-1963; Hughes, Karen/0000-0001-8097-3395
+FU violence prevention research programme at Liverpool John Moores
+   University
+FX This analysis was funded as part of the violence prevention research
+   programme at Liverpool John Moores University.
+NR 37
+TC 177
+Z9 190
+U1 7
+U2 83
+PU WORLD HEALTH ORGANIZATION
+PI GENEVA 27
+PA MARKETING AND DISSEMINATION, CH-1211 GENEVA 27, SWITZERLAND
+SN 0042-9686
+EI 1564-0604
+J9 B WORLD HEALTH ORGAN
+JI Bull. World Health Organ.
+PD SEP
+PY 2014
+VL 92
+IS 9
+BP 641
+EP 655
+DI 10.2471/BLT.13.129247
+PG 15
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA AQ3UM
+UT WOS:000342719000008
+PM 25378755
+OA Green Published, Bronze
+HC Y
+HP N
+DA 2023-12-05
+ER
+
+PT J
+AU Raoult, D
+   Dutour, O
+   Houhamdi, L
+   Jankauskas, R
+   Fournier, PE
+   Ardagna, Y
+   Drancourt, M
+   Signoli, M
+   La, VD
+   Macia, Y
+   Aboudharam, R
+AF Raoult, D
+   Dutour, O
+   Houhamdi, L
+   Jankauskas, R
+   Fournier, PE
+   Ardagna, Y
+   Drancourt, M
+   Signoli, M
+   La, VD
+   Macia, Y
+   Aboudharam, R
+TI Evidence for louse-transmitted diseases in soldiers of Napoleon's Grand
+   Army in Vilnius
+SO JOURNAL OF INFECTIOUS DISEASES
+LA English
+DT Article
+ID YERSINIA-PESTIS; MOLECULAR-DETECTION; DENTAL-PULP; BODY LOUSE; SUICIDE
+   PCR; LICE; DNA; DIAGNOSIS; QUINTANA
+AB Background. Many soldiers in Napoleon's Grand Army died of infectious diseases during its retreat from Russia. Because soldiers were commonly infested with body lice, it has been speculated that louse-borne infectious diseases, such as epidemic typhus (caused by Rickettsia prowazekii), were common.
+   Methods. We investigated this possibility during recent excavations of a mass grave of Napoleon's soldiers in Vilnius, Lithuania. Segments of 5 body lice, identified morphologically and by polymerase chain reaction (PCR) amplification and sequencing, were found in earth from the grave that also contained fragments of soldiers' uniforms.
+   Results. DNA of Bartonella quintana (the agent of trench fever) was identified by PCR and sequencing in 3 of the lice. Similarly, PCR and sequencing of dental pulp from the remains of 35 soldiers revealed DNA of B. quintana in 7 soldiers and DNA of R. prowazekii in 3 other soldiers.
+   Conclusions. Our results show that louse-borne infectious diseases affected nearly one-third of Napoleon's soldiers buried in Vilnius and indicate that these diseases might have been a major factor in the French retreat from Russia.
+C1 Univ Mediterranee, Fac Med, CNRS UMR 6020, Unite Rickettsies, F-13005 Marseille, France.
+   Univ Mediterranee, Fac Med, CNRS UMR 6578, Unite Anthropol, F-13005 Marseille, France.
+   Vilnius State Univ, Fac Med, Dept Anthropol, LT-232009 Vilnius, Lithuania.
+C3 Centre National de la Recherche Scientifique (CNRS); Aix-Marseille
+   Universite; Aix-Marseille Universite; Vilnius University
+RP Raoult, D (corresponding author), Univ Mediterranee, Fac Med, CNRS UMR 6020, Unite Rickettsies, 27 Blvd Jean Moulin, F-13005 Marseille, France.
+EM Didier.Raoult@medecine.univ-mrs.fr
+RI RAOULT, Didier/A-8434-2008; Dutour, Olivier/AAG-2237-2020; Jankauskas,
+   Rimantas/Q-7689-2017; HOUHAMDI, Linda/ABE-3496-2021; Fournier,
+   Pierre-Edouard/AAC-6155-2021
+OI RAOULT, Didier/0000-0002-0633-5974; Jankauskas,
+   Rimantas/0000-0001-7611-2576; HOUHAMDI, Linda/0000-0002-5910-1645;
+   Fournier, Pierre-Edouard/0000-0001-8463-8885; DUTOUR,
+   Olivier/0000-0001-8134-788X
+NR 27
+TC 116
+Z9 136
+U1 0
+U2 23
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-1899
+EI 1537-6613
+J9 J INFECT DIS
+JI J. Infect. Dis.
+PD JAN 1
+PY 2006
+VL 193
+IS 1
+BP 112
+EP 120
+DI 10.1086/498534
+PG 9
+WC Immunology; Infectious Diseases; Microbiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Immunology; Infectious Diseases; Microbiology
+GA 996OF
+UT WOS:000234182800017
+PM 16323139
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Stoupel, E
+   Kalediene, R
+   Petrauskiene, J
+   Starkuviene, S
+   Abramson, E
+   Israelevich, P
+   Sulkes, J
+AF Stoupel, Elyiahu
+   Kalediene, Ramune
+   Petrauskiene, Jadvyga
+   Starkuviene, Skirmante
+   Abramson, Evgeny
+   Israelevich, Peter
+   Sulkes, Jaqueline
+TI Clinical cosmobiology: distribution of deaths during 180 months and
+   cosmophysical activity. The Lithuanian study, 1990-2004 The role of
+   cosmic rays
+SO MEDICINA-LITHUANIA
+LA English
+DT Article
+DE solar and geomagnetic activities; cosmic rays; neutrons; death number
+ID PHYSICAL-ACTIVITY; SOLAR
+AB The aim of this study is a next step of our previous, initial, publications - to explore the links between monthly death number (total, and for the major death causes and each gender) with levels of monthly cosmophysical activity in a long-term, big cohort observation.
+   Methods. Death number during 180 consecutive months from the National Registry of Lithuania for years 1990-2004 were studied. A total of 630 205 deaths were analyzed (333 035 males). For comparison, monthly indices of solar activity, geomagnetic activity, and cosmic ray activity and year and month (1-12) of the study were used. The cosmophysical data were obtained from space research centers in the USA, Russia, and Finland.
+   Statistics. Pearson correlation coefficients (r) and their probabilities (P) between compared parameters were calculated. A multivariate model of prediction was designed.
+   Results. It was a significant correlation between total monthly death number and indices of cosmic ray activity and, inverse, of solar activity; in men stronger than in women. Monthly geomagnetic activity was significantly correlated with traffic accidents, ischemic heart disease/stroke ratio, suicide victim number Deaths from stroke, noncardiovascular causes, suicide, traffic accidents were related with cosmic ray activity and, inverse, with solar activity.
+   Relationship of ischemic heart disease/stroke ratio to year of observation showed additional evidence for the growing role of stroke in cardiovascular mortality.
+   Conclusions. Monthly death number is linked to cosmic ray activity, and inverse, to solar activity. Central place of stroke-related deaths in cardiovascular mortality is emerging. Geomagnetic activity, in monthly account, plays a relatively minor role.
+   We presume that forces antagonistic to cosmic ray activity, like solar activity and geomagnetic activity, can prevent some negative biologic effects of cosmic ray.
+C1 [Stoupel, Elyiahu] Tel Aviv Univ, Rabin Med Ctr, Div Cardiol, IL-49100 Petah Tiqwa, Israel.
+   [Stoupel, Elyiahu] Tel Aviv Univ, Sackler Fac Med, Tel Aviv, Israel.
+   [Kalediene, Ramune; Petrauskiene, Jadvyga; Starkuviene, Skirmante] Kaunas Univ Med, Dept Hlth Management, Kaunas, Lithuania.
+   [Abramson, Evgeny; Sulkes, Jaqueline] Rabin Med Ctr, Epidemiol & Informat Unit, Petah Tiqwa, Israel.
+   [Israelevich, Peter] Tel Aviv Univ, Dept Geophys & Cosm Sci, Tel Aviv, Israel.
+C3 Rabin Medical Center; Tel Aviv University; Tel Aviv University; Sackler
+   Faculty of Medicine; Lithuanian University of Health Sciences; Rabin
+   Medical Center; Tel Aviv University
+RP Stoupel, E (corresponding author), Tel Aviv Univ, Rabin Med Ctr, Div Cardiol, IL-49100 Petah Tiqwa, Israel.
+EM stoupel@inter.net.il
+NR 50
+TC 10
+Z9 13
+U1 0
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1010-660X
+EI 1648-9144
+J9 MEDICINA-LITHUANIA
+JI Med. Lith.
+PY 2007
+VL 43
+IS 10
+BP 824
+EP 831
+DI 10.3390/medicina43100106
+PG 8
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 280BD
+UT WOS:000254399000010
+PM 17998801
+OA Green Submitted, gold
+DA 2023-12-05
+ER
+
+PT J
+AU Lookene, M
+   Kisuro, A
+   Maciulis, V
+   Banaitis, V
+   Ungvari, GS
+   Gazdag, G
+AF Lookene, Margus
+   Kisuro, Aigars
+   Maciulis, Valentinas
+   Banaitis, Valdas
+   Ungvari, Gabor S.
+   Gazdag, Gabor
+TI Use of electroconvulsive therapy in the Baltic states
+SO WORLD JOURNAL OF BIOLOGICAL PSYCHIATRY
+LA English
+DT Article
+DE electroconvulsive therapy practice; Baltic states; schizophrenia;
+   affective disorders; suicide
+ID ECT
+AB Objectives. While the use of electroconvulsive therapy (ECT) has been investigated worldwide, nothing is known about its use in the Baltic states. The purpose of this study was thus to explore ECT practice in the three Baltic countries. Methods. A 21-item, semi-structured questionnaire was sent out to all psychiatric inpatient settings that provided ECT in 2010. Results. In Lithuania, four services provided ECT in 2010. Only modified ECT with anaesthesia and muscle relaxation is performed in the country. In 2010, approximately 120 patients received ECT, i.e., 0.375 patients/10,000 population. Only two centres offer ECT in Latvia. The first centre treated only three patients with ECT in 2010, while the second centre six patients. In both centres outdated Soviet machines are used. The main indication for ECT was severe, malignant catatonia. ECT is practiced in five psychiatric facilities in Estonia. In 2010, it was used in the treatment of 362 patients (17% women) nationwide, i.e., 2.78 patients/10,000 population. Only a senior psychiatrist may indicate ECT in Estonia and pregnancy is no contraindication. In 2010, the main indication for ECT was schizophrenia (47.8%). Conclusions. This 2010 survey revealed significant differences in the use and availability of ECT between the Baltic countries.
+C1 [Lookene, Margus] North Estonia Med Ctr, Dept Psychiat, Tallinn, Estonia.
+   [Kisuro, Aigars] Riga Ctr Psychiat & Addict Disorders, Riga, Latvia.
+   [Maciulis, Valentinas; Banaitis, Valdas] Vilnius Republican Psychiat Hosp, Vilnius, Lithuania.
+   [Ungvari, Gabor S.] Univ Notre Dame, Marian Ctr, Wembley, WA, Australia.
+   [Ungvari, Gabor S.] Univ Western Australia, Sch Psychiat & Clin Neurosci, Crawley, WA, Australia.
+   [Gazdag, Gabor] Szent Istvan Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Szent Laszlo Hosp, Ctr Psychiat & Addict Med, Budapest, Hungary.
+   [Gazdag, Gabor] Semmelweis Univ, Fac Med, Dept Psychiat & Psychotherapy, H-1085 Budapest, Hungary.
+C3 The University of Notre Dame Australia; University of Western Australia;
+   Szent Laszlo Hospital; Semmelweis University
+RP Gazdag, G (corresponding author), Szt Istvan Hosp, Ctr Psychiat & Addict Med, Gyali Ut 17-19, H-1097 Budapest, Hungary.
+EM gazdag@lamb.hu
+RI Gazdag, Gábor/S-2158-2018; Gazdag, Gábor/ISU-9358-2023
+OI Gazdag, Gábor/0000-0002-6914-8041; Gazdag, Gábor/0000-0002-6914-8041
+NR 32
+TC 11
+Z9 11
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1562-2975
+EI 1814-1412
+J9 WORLD J BIOL PSYCHIA
+JI World J. Biol. Psychiatry
+PD JUL
+PY 2014
+VL 15
+IS 5
+BP 419
+EP 424
+DI 10.3109/15622975.2013.866692
+PG 6
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AM8HM
+UT WOS:000340113700009
+PM 24329398
+DA 2023-12-05
+ER
+
+PT J
+AU Tamosiunas, A
+   Domarkiene, S
+   Reklaitiene, R
+   Kazlauskaite, M
+   Buivydaite, K
+   Radisauskas, R
+   Bernotiene, G
+AF Tamosiunas, A
+   Domarkiene, S
+   Reklaitiene, R
+   Kazlauskaite, M
+   Buivydaite, K
+   Radisauskas, R
+   Bernotiene, G
+TI Alcohol consumption and mortality among Kaunas population aged 35-64
+   years from 1983 to 2002
+SO TERAPEVTICHESKII ARKHIV
+LA Russian
+DT Article
+DE alcohol; mortality; external causes of death; trends
+ID DRINKING; DISEASE; RISK
+AB Aim. To evaluate time trends in alcohol consumption habits and alcohol-related mortality among Kaunas (Lithuania) population aged 35-64 years from 1983 to 2002.
+   Material and methods. The WHO MONICA study was carried out in Kaunas from 1983 to 2002. Alcohol consumption habits were determined using the data of four surveys among random samples of population aged 35-64 years (overall 3292 men and 3548 women, the response rate 65.1%). The source of mortality data is official mortality statistics of all permanent residents of Kaunas aged 35-64 years in 1983-2002. Age-standardized rates were calculated by the direct method and using World population as a standard. The trends were analyzed using the method of linear regression on logarithms of the age-standardized annual rates.
+   Results. Over the 20 years, the prevalence of regular alcohol consumption significantly increased among both men and women. At the same time, there was an increase in the study population of a mean level of consumed alcohol and the proportion of drinkers consuming alcohol frequently. During 1983 to 2002 mortality rates from external causes and suicides were increasing significantly among men (by 2.1%/yr., p=0.039 and by 3.45%/yr., p = 0.0002, respectively) and have not changed among women.
+   Conclusion. Negative trends in alcohol consumption habits and alcohol-related mortality among urban Lithuanian population aged 35-64 years during the past 20 years were determined.
+C1 Kaunas Med Univ, Inst Cardiol, Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Tamosiunas, A (corresponding author), Kaunas Med Univ, Inst Cardiol, Kaunas, Lithuania.
+RI Tamosiunas, Abdonas/AAD-4274-2021; Radišauskas, Ričardas/AAT-8920-2021
+OI Radišauskas, Ričardas/0000-0002-1227-2674
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 0
+PU CJSC CONSILIUM MEDICUM
+PI MOSCOW
+PA NOVIY ZIKOVSKIY PROEZD, D 3, 40, MOSCOW, 125167, RUSSIA
+SN 0040-3660
+EI 2309-5342
+J9 TERAPEVT ARKH
+JI Ter. Arkhiv
+PY 2005
+VL 77
+IS 1
+BP 37
+EP 41
+PG 5
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA 912RE
+UT WOS:000228096300011
+PM 15759452
+DA 2023-12-05
+ER
+
+PT J
+AU Kovess-Masfety, V
+   Pilowsky, DJ
+   Goelitz, D
+   Kuijpers, R
+   Otten, R
+   Moro, MF
+   Bitfoi, A
+   Koç, C
+   Lesinskiene, S
+   Mihova, Z
+   Hanson, G
+   Fermanian, C
+   Pez, O
+   Carta, MG
+AF Kovess-Masfety, Viviane
+   Pilowsky, Daniel J.
+   Goelitz, Dietmar
+   Kuijpers, Rowella
+   Otten, Roy
+   Moro, Maria Francesca
+   Bitfoi, Adina
+   Koc, Ceren
+   Lesinskiene, Sigita
+   Mihova, Zlatka
+   Hanson, Greg
+   Fermanian, Christophe
+   Pez, Ondine
+   Carta, Mauro Giovanni
+TI Suicidal ideation and mental health disorders in young school children
+   across Europe
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Suicide; Children; Suicidal ideation; ADHD; Mental health
+ID SELF-HARM BEHAVIOR; PSYCHOMETRIC PROPERTIES; COMMUNITY SAMPLE;
+   ADOLESCENTS; DEATH; YOUTH; PREVALENCE; DEPRESSION; RISK; PSYCHOPATHOLOGY
+AB Introduction: The aim of this study is to measure the prevalence of suicidal ideation and thoughts of death in elementary school children in a European survey and to determine the associated socio-demographic and clinical factors.
+   Methods: Data refer to children aged 6-12 (N=7062) from Italy, Turkey, Romania, Bulgaria, Lithuania, Germany, and the Netherlands randomly selected in primary schools. Suicidal thoughts and death ideation were measured using a computerized pictorial diagnostic tool from the Dominic Interactive (DI) completed by the children. The Strengths and Difficulties Questionnaire (SDQ) was administrated to teachers and parents along with a socio-demographic questionnaire.
+   Results: Suicidal ideation was present in 16.96% of the sample (from 9.9 in Italy to 26.84 in Germany), death thoughts by 21.93% (from 7.71% in Italy to 32.78 in Germany). Sl and DT were more frequent in single-parent families and large families. Externalizing disorders were strongly correlated with Sl and DT after controlling for other factors and this was true for internalizing disorders only when reported by the children.
+   Conclusion: Recognizing suicidal ideation in young children may be recommended as part of preventive strategies such as screening in the context of the presence of any mental health problems whether externalizing or internalizing. (C) 2015 Elsevier By. All rights reserved.
+C1 [Kovess-Masfety, Viviane; Moro, Maria Francesca; Hanson, Greg; Fermanian, Christophe; Pez, Ondine] Paris Descartes Univ, EA 4057, Sorbonne Paris Cite, EHESP Rennes, Paris, France.
+   [Carta, Mauro Giovanni] Azienda Osped Univ Cagliari, Ctr Psichiatria Consulenza & Psicosomat, Cagliari, Italy.
+   [Bitfoi, Adina] Romanian League Mental Hlth, Bucharest, Romania.
+   [Koc, Ceren] Yeniden Hlth & Educ Soc, Istanbul, Turkey.
+   [Goelitz, Dietmar] Univ Koblenz Landau, Inst Psychol, Koblenz, Germany.
+   [Kuijpers, Rowella; Otten, Roy] Radboud Univ Nijmegen, Inst Behav Sci, NL-6525 ED Nijmegen, Netherlands.
+   [Lesinskiene, Sigita] Vilnius State Univ, Fac Med, Psychiat Clin, Vilnius, Lithuania.
+   [Mihova, Zlatka] New Bulgarian Univ, Sofia, Bulgaria.
+   [Pilowsky, Daniel J.] Columbia Univ, Dept Epidemiol, New York State Psychiat Inst, Mailman Sch Publ Hlth, New York, NY USA.
+C3 Universite Paris Cite; University of Cagliari; Azienda
+   Ospedaliero-Universitaria di Cagliari; University of Florence; Azienda
+   Ospedaliero Universitaria Careggi; University of Koblenz & Landau;
+   Radboud University Nijmegen; Vilnius University; New Bulgarian
+   University; New York State Psychiatry Institute; Columbia University
+RP Kovess-Masfety, V (corresponding author), Paris Descartes Univ, EA 4057, Sorbonne Paris Cite, EHESP Rennes, Paris, France.
+EM viviane.kovess-masfety@ext.parisdescartes.fr
+RI Lesinskiene, Sigita/JNE-2450-2023
+OI Goelitz, Dietmar/0000-0002-1329-4023; Lesinskiene,
+   Sigita/0000-0003-2922-8626; Moro, Maria Francesca/0000-0003-4426-8044;
+   kovess-masfety, viviane/0000-0001-7045-6175
+FU European Union [2006336]
+FX This project had been financed by the European Union, Grant no. 2006336.
+   The funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 35
+TC 34
+Z9 41
+U1 2
+U2 42
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD MAY 15
+PY 2015
+VL 177
+BP 28
+EP 35
+DI 10.1016/j.jad.2015.02.008
+PG 8
+WC Clinical Neurology; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry
+GA CF0NM
+UT WOS:000352240900006
+PM 25745832
+DA 2023-12-05
+ER
+
+PT C
+AU Garskaite, R
+   Jakusovaite, I
+AF Garskaite, Rita
+   Jakusovaite, Irayda
+BE Atkociuniene, V
+TI Expression of the Principle of Social Justice in Health Care System in
+   Rural Areas
+SO RURAL DEVELOPMENT 2013: PROCEEDINGS, VOL6, BOOK 1
+SE Rural Development
+LA English
+DT Proceedings Paper
+CT 6th International Scientific Conference on Rural Development -
+   Innovations and Sustainability
+CY NOV 28-29, 2013
+CL Akademija, LITHUANIA
+SP Aleksandras Stulginskis Univ, Lithuanian Acad Sci, Minist Agr Republic Lithuania, Minist Environm Republic Lithuania, Nordic Assoc Agr Scientists, Assoc Agrarian Economists Lithuania, Assoc Nemunas Valley
+DE social justice; health of rural population; accessibility of health
+   care; health indicators
+ID SERVICES; URBAN
+AB Social justice in the field of health policy is expressed as equal rights to all, attention to particularly vulnerable risk groups, and accessibility of medical and health care services. Due to the relatively low Lithuania's economic development in the EU context and much slower-going change of values, problem of the realization of human rights to health care and social justice in our country, as in many other post-communist countries, is more relevant than in the democratic Western countries. The broader scope of this type of problem exists in rural areas which still composes one third of the country's population and where socio-economic transformation, which began after 1990 happened and is still happening more painfully and controversially. Health indicators of rural population are significantly worse than of the urban population. Research results showed that main health indicators of the population - life expectancy, morbidity, mortality and others, are worse in rural than in urban areas. This is due to many factors, among which are deep socio-psychological problems of particular part of rural population and social depression, which was caused by major social-economic changes in rural areas, caused by the emerging free market and the resulting social differentiation. Failure to adapt to the market economy stimulated the spread of alcoholism and suicide in rural areas. Worse health among rural population is caused by insufficient accessibility of health care services.
+   Goal of the article: to reveal the expression of the principle of social justice in health care system in rural areas.
+   Research method: comparative analysis, comparison and generalization of scientific literature, health law documents, and statistical and sociological data.
+C1 [Garskaite, Rita] Aleksandras Stulginskis Univ, LT-53361 Akademija, Kaunas Distr, Lithuania.
+   [Jakusovaite, Irayda] Lithuanian Univ Hlth Sci, LT-44307 Kaunas, Lithuania.
+C3 Vytautas Magnus University; Lithuanian University of Health Sciences
+RP Garskaite, R (corresponding author), Aleksandras Stulginskis Univ, Studentu Str 11, LT-53361 Akademija, Kaunas Distr, Lithuania.
+EM Rita.Garskaite@asu.lt; jakusovaite@gmail.com
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 3
+PU ALEKSANDRAS STULGINSKIS UNIVERSITY
+PI AKADEMIJA
+PA CENTRE RURAL SOCIAL RESEARCH, FAC ECONOMICS & MANAGEMENT, UNIVERSITETO
+   STR 10-406, AKADEMIJA, KAUNAS DISTR 53361, LITHUANIA
+SN 1822-3230
+J9 RURAL DEVELOPMENT
+PY 2013
+VL 6
+IS 1
+BP 146
+EP 152
+PG 7
+WC Geography; Regional & Urban Planning
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Geography; Public Administration
+GA BD0SQ
+UT WOS:000357668200025
+DA 2023-12-05
+ER
+
+PT J
+AU Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+AF Värnik, A
+   Wasserman, D
+   Palo, E
+   Tooding, LM
+TI Registration of external causes of death in the Baltic States 1970-1997
+SO EUROPEAN JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Baltic States; epidemiology; external causes of deaths; trends;
+   1970-1997
+ID ALCOHOL-CONSUMPTION; FORMER USSR; MORTALITY; PERESTROIKA; SUICIDES;
+   TRENDS
+AB Background: Trends in external causes of deaths in the Baltic States - Estonia, Latvia and Lithuania - were analysed against the background of turbulent political, social and economic changes. The reliability of mortality statistics concerning external causes of death in these countries is considered to be good. Method: This study is based on data published by the statistical offices of the three Baltic States and on data obtained through interviews with personnel employed at the national statistical offices. The study period was divided, by socio-political and economic factors, into a period of stagnation (1970-1984) and a period of reforms (1985-1997). Results: During 1970-1984 a stable slightly upward trend of external causes of death rates was observed. The curve became S-shaped in the reform period: between 1984 and 1988 a marked decrease occurred followed by a rapid increase of rates until 1994, and then by 1997 a fall to the approximate level of 1984. The male to female ratio of external causes of death was between 3.4:1 and 4.2:1. External deaths accounted for 10% to 14% of all deaths before 1984. During the period 1984-1988 the proportion of external deaths was under 10% and peaked in 1994 at 16%, Fluctuations in the trends of external death were more pronounced among males than females in all Baltic countries. Conclusion: Trends in external causes of death were similar in Baltic States. High proportions of violent death decreased life-expectancy for both sexes, but markedly for males. Social stresses and alcohol consumption could be considered as factors influencing the mortality rates and specific fluctuations in trends of external death, especially among males.
+C1 Estonian Swedish Inst Suicidol, Tallinn, Estonia.
+   Univ Tartu, Fac Social Sci, Tartu, Estonia.
+   Karolinska Inst, Natl Swedish & Stockholm Cty Ctr Suicide Res & Pr, Natl Inst Psychosocial Med, Div Publ Hlth Sci, Stockholm, Sweden.
+   Estonian Minist Social Affairs, Med Stat Bur, Tallinn, Estonia.
+C3 University of Tartu; Karolinska Institutet
+EM airiv@online.ee
+NR 31
+TC 29
+Z9 29
+U1 0
+U2 6
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1101-1262
+EI 1464-360X
+J9 EUR J PUBLIC HEALTH
+JI Eur. J. Public Health
+PD MAR
+PY 2001
+VL 11
+IS 1
+BP 84
+EP 88
+DI 10.1093/eurpub/11.1.84
+PG 5
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 418DZ
+UT WOS:000167876800015
+PM 11276577
+OA Bronze
+DA 2023-12-05
+ER
+
+PT J
+AU Stankunas, M
+   Kalediene, R
+   Starkuviene, S
+AF Stankunas, Mindaugas
+   Kalediene, Ramune
+   Starkuviene, Skirmante
+TI Sense of coherence and its associations with psychosocial health:
+   results of survey of the unemployed in Kaunas
+SO MEDICINA-LITHUANIA
+LA Lithuanian
+DT Article
+DE unemployment; psychosocial health; sense of coherence; salutogenesis
+ID DEPRESSION; DISEASE; MEN
+AB Objective. To evaluate the associations between sense of coherence and psychosocial health among unemployed adult population.
+   Material and methods. The data were collected during a cross-sectional Study in 2005. There were 429 filled-in questionnaires received (response rate, 53.6%) from Unemployed persons registered at the Kaunas Labor Market Office (Lithuania). For the assessment of the sense of coherence, a short 13-item version of the Orientation to Life Questionnaire was used. Long-term unemployment was defined as lasting 12 months or longer Logistic regression was used to estimate the risk factors having Influence on sense of coherence. The risk was evaluated using odds ratio (OR).
+   Results. The mean score for sense of coherence was 56.6+/-11.2 (min, 13; max, 9 1). Significantly higher sense of coherence was found among the short-term unemployed as compare to the long-term ones. Analysis showed that sense of coherence was significantly higher in males, more educated and less materially deprived groups. The Findings indicated that persons with depression, Suicide Intentions, more intensive alcohol consumption (after the job loss), poor self-reported health, feelings of loneliness and shame, and poor relations with family reported lower sense of coherence. The risk of low sense of coherence was significantly higher for females (OR=2.97) and the long-term unemployed (OR=1.81). Nevertheless, higher education (OR=0.73) and income (OR=0.83) were the factors that significantly improved sense of coherence.
+   Conclusions. Sense of coherence was low among the unemployed in Kaunas. Sense of coherence was lower among the unemployed with negative psychosocial health characteristics in comparison to the Unemployed with positive characteristics.
+C1 [Stankunas, Mindaugas; Kalediene, Ramune; Starkuviene, Skirmante] Kaunas Univ Med, Dept Hlth Management, LT-44307 Kaunas, Lithuania.
+C3 Lithuanian University of Health Sciences
+RP Stankunas, M (corresponding author), Kaunas Univ Med, Dept Hlth Management, Mickeviciaus 9, LT-44307 Kaunas, Lithuania.
+EM stankunas@med.kmu.lt
+RI Stankunas, Mindaugas/B-1770-2019
+NR 18
+TC 12
+Z9 14
+U1 0
+U2 7
+PU KAUNAS UNIV MEDICINE & VILNIUS UNIV
+PI KAUNAS
+PA KAUNAS UNIV MEDICINE, A MICKEVICIAUS 9, KAUNAS, LT-44307, LITHUANIA
+SN 1010-660X
+J9 MED LITH
+JI Med. Lith.
+PY 2009
+VL 45
+IS 10
+BP 807
+EP 813
+DI 10.3390/medicina45100105
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 534QY
+UT WOS:000272913500008
+PM 19996668
+OA gold, Green Submitted
+DA 2023-12-05
+ER
+
+PT J
+AU Tanaka, H
+   Nusselder, WJ
+   Bopp, M
+   Bronnum-Hansen, H
+   Kalediene, R
+   Lee, JS
+   Leinsalu, M
+   Martikainen, P
+   Menvielle, G
+   Kobayashi, Y
+   Mackenbach, JP
+AF Tanaka, Hirokazu
+   Nusselder, Wilma J.
+   Bopp, Matthias
+   Bronnum-Hansen, Henrik
+   Kalediene, Ramune
+   Lee, Jung Su
+   Leinsalu, Mall
+   Martikainen, Pekka
+   Menvielle, Gwenn
+   Kobayashi, Yasuki
+   Mackenbach, Johan P.
+TI Mortality inequalities by occupational class among men in Japan, South
+   Korea and eight European countries: a national register-based study,
+   1990-2015
+SO JOURNAL OF EPIDEMIOLOGY AND COMMUNITY HEALTH
+LA English
+DT Article
+DE epidemiology; cause of death; trends; socioeconomic factors; middle
+   aged; registries
+ID BIOLOGICAL RISK-FACTORS; LONG WORKING HOURS; SOCIOECONOMIC INEQUALITIES;
+   HEALTH INEQUALITIES; MOBILITY; KAROSHI; DETERMINANTS; DISPARITIES;
+   POPULATION; MAGNITUDE
+AB Background We compared mortality inequalities by occupational class in Japan and South Korea with those in European countries, in order to determine whether patterns are similar. Methods National register-based data from Japan, South Korea and eight European countries (Finland, Denmark, England/Wales, France, Switzerland, Italy (Turin), Estonia, Lithuania) covering the period between 1990 and 2015 were collected and harmonised. We calculated age-standardised all-cause and cause-specific mortality among men aged 35-64 by occupational class and measured the magnitude of inequality with rate differences, rate ratios and the average inter-group difference. Results Clear gradients in mortality were found in all European countries throughout the study period: manual workers had 1.6-2.5 times higher mortality than upper non-manual workers. However, in the most recent time-period, upper non-manual workers had higher mortality than manual workers in Japan and South Korea. This pattern emerged as a result of a rise in mortality among the upper non-manual group in Japan during the late 1990s, and in South Korea during the late 2000s, due to rising mortality from cancer and external causes (including suicide), in addition to strong mortality declines among lower non-manual and manual workers. Conclusion Patterns of mortality by occupational class are remarkably different between European countries and Japan and South Korea. The recently observed patterns in the latter two countries may be related to a larger impact on the higher occupational classes of the economic crisis of the late 1990s and the late 2000s, respectively, and show that a high socioeconomic position does not guarantee better health.
+C1 [Tanaka, Hirokazu; Nusselder, Wilma J.; Mackenbach, Johan P.] Erasmus MC, Dept Publ Hlth, POB 2040, NL-3000 CA Rotterdam, Netherlands.
+   [Tanaka, Hirokazu; Lee, Jung Su; Kobayashi, Yasuki] Univ Tokyo, Grad Sch Med, Dept Publ Hlth, Tokyo, Japan.
+   [Bopp, Matthias] Univ Zurich, Epidemiol Biostat & Prevent Inst, Zurich, Switzerland.
+   [Bronnum-Hansen, Henrik] Univ Copenhagen, Dept Publ Hlth, Copenhagen, Denmark.
+   [Kalediene, Ramune] Lithuanian Univ Hlth Sci, Dept Hlth Management, Kaunas, Lithuania.
+   [Leinsalu, Mall] Sodertorn Univ, Stockholm Ctr Hlth & Social Change, Huddinge, Sweden.
+   [Leinsalu, Mall] Natl Inst Hlth Dev, Dept Epidemiol & Biostat, Tallinn, Estonia.
+   [Martikainen, Pekka] Univ Helsinki, Dept Social Reseach, Populat Res Unit, Helsinki, Finland.
+   [Menvielle, Gwenn] Sorbonne Univ, INSERM, Inst Pierre Louis Epidemiol & Sante Publ, Paris, France.
+C3 Erasmus University Rotterdam; Erasmus MC; University of Tokyo;
+   University of Zurich; University of Copenhagen; Lithuanian University of
+   Health Sciences; Sodertorn University; National Institute for Health
+   Development - Estonia; University of Helsinki; Sorbonne Universite;
+   Institut National de la Sante et de la Recherche Medicale (Inserm)
+RP Mackenbach, JP (corresponding author), Erasmus MC, Dept Publ Hlth, POB 2040, NL-3000 CA Rotterdam, Netherlands.
+EM j.mackenbach@erasmusmc.nl
+RI Tanaka, Hirokazu/K-4646-2015; Leinsalu, Mall/I-3768-2018
+OI Tanaka, Hirokazu/0000-0002-3153-8802; Leinsalu,
+   Mall/0000-0003-4453-4760; Bronnum-Hansen, Henrik/0000-0003-3513-7245;
+   Bopp, Matthias/0000-0003-0766-3723; Martikainen,
+   Pekka/0000-0001-9374-1438
+FU Erasmus MC [S171N126010017]; European Commission [FP7-CP-FP 278511,
+   633666]
+FX This work was supported by the following funding. HT received the Japan
+   Public-Private Partnership Student Study Abroad Program (Tobitate! Study
+   Abroad Initiative) funding [S171N126010017] to study at Erasmus MC. This
+   study was conducted as part of the LIFEPATH project, which has received
+   financial support from European Commission Horizon 2020 Grant [633666].
+   Data were partly collected as part of the Developing Methodologies to
+   Reduce Inequalities in the Determinants of Health (DEMETRIQ) project,
+   which received support from European Commission Grant [FP7-CP-FP
+   278511]. The funder had no role in the design and conduct of the study;
+   collection, management, analysis and interpretation of the data;
+   preparation, review or approval of the manuscript; and decision to
+   submit the manuscript for publication.
+NR 50
+TC 31
+Z9 31
+U1 0
+U2 8
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0143-005X
+EI 1470-2738
+J9 J EPIDEMIOL COMMUN H
+JI J. Epidemiol. Community Health
+PD AUG
+PY 2019
+VL 73
+IS 8
+BP 750
+EP 758
+DI 10.1136/jech-2018-211715
+PG 9
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA IN8HJ
+UT WOS:000478920900011
+PM 31142611
+OA hybrid, Green Published
+DA 2023-12-05
+ER
+
+EF

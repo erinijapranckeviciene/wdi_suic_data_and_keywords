@@ -1,0 +1,719 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Paxton, J
+AF Paxton, J
+TI Bitter memories
+SO WORLD TODAY
+LA English
+DT Article
+AB Arriving in Yemen on the morning of the suicide attack on the USS Cole in Aden, and the day before an explosion in the British Embassy compound in Sana'a, could hardly be an auspicious start to a three week tour of the country. It brought back bitter memories of the loss of life and mayhem caused by similar terror attacks in the final days of Aden as a British colony with its hinterland administered as protectorate territory.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROYAL INST INT AFFAIRS
+PI LONDON
+PA CHATHAM HOUSE 10 ST JAMES'S SQUARE, LONDON SW1Y 4LE, ENGLAND
+SN 0043-9134
+J9 WORLD TODAY
+JI World Today
+PD DEC
+PY 2000
+VL 56
+IS 12
+BP 23
+EP 24
+PG 2
+WC International Relations
+WE Social Science Citation Index (SSCI)
+SC International Relations
+GA 381UM
+UT WOS:000165781900009
+DA 2023-12-06
+ER
+
+PT J
+AU Bamatraf, FF
+AF Bamatraf, Fauzia Faraj
+TI Prevalence and Risk Factors of Childhood Abuse among Hadhramout
+   University Students in Yemen
+SO WORLD FAMILY MEDICINE
+LA English
+DT Article
+DE Child abuse; risk factors; outcomes; Hadhramout university students;
+   Yemen
+ID SEXUAL-ABUSE; MALTREATMENT; VIOLENCE; CONSEQUENCES; EXPERIENCES;
+   COUNTRIES; CHILDREN
+AB Background: Violence against children has long been recognized as a social problem throughout the world, and Yemen is no exception. This study aimed to determine the prevalence of various forms of child abuse, as well as identifying its risk factors and outcomes among Hadhramout university students in Al- Mukalla city, Hadhramout Governorate, Yemen
+   Methods: A cross-sectional analytical study was conducted in five colleges at Hadhramout university in the educational year 2015-2016. A multistage sampling method was used for the selection of students. Data was collected by using Standardized Arabic Version of Child Abuse Screening Tool for Young Adults aged 18-24 years
+   Results: Overall, 395 students, (57.5%) were males. Of the students (88.4%) reported exposure to some form of child abuse in the form of emotional (79.2%), physical (75.7%) or sexual abuse (35.2%) of which 12.7% were reported to have been forced into sexual assault. Parents were the main perpetrators of physical and emotional abuse, while persons outside the home were the main perpetrator of sexual abuse. The results showed significant association between child abuse, sex of students and the family environment. Male students were significantly more likely to be physically, emotionally and sexually abused. Child abuse was also significantly more prevalent among students coming from homes with domestic violence and psychological problems among parents. The main outcomes of exposure to child abuse were poor educational performance. anxiety or nightmares, depression, becoming prone to suicide, violent behavior, fear of the other sex and want revenge on the abusers.
+   Conclusion and Recommendations: Child abuse is a common phenomenon, with long-term adverse effects among Hadhramout university students. Early diagnosis and preventive educational interventions can play a critical role in reducing the prevalence of child abuse and its harmful consequences.
+C1 [Bamatraf, Fauzia Faraj] Hadhramout Univ, Community Hlth, Dept Community Med, Coll Med & Hlth Sci, Al Mukalla, Yemen.
+RP Bamatraf, FF (corresponding author), Hadhramout Univ, Community Hlth, Dept Community Med, Coll Med & Hlth Sci, Al Mukalla, Yemen.
+EM ffbamatraf2008@yahoo.com
+NR 68
+TC 2
+Z9 2
+U1 4
+U2 17
+PU MEDI+WORLD INT
+PI RADCLIFFE NORTH
+PA 3 DAVIS ST, RADCLIFFE NORTH, 4020, AUSTRALIA
+SN 1839-0188
+EI 1839-0196
+J9 WORLD FAM MED
+JI World Fam. Med.
+PD MAY
+PY 2019
+VL 17
+IS 5
+BP 42
+EP 54
+DI 10.5742/MEWFM.2019.93645
+PG 13
+WC Medicine, General & Internal
+WE Emerging Sources Citation Index (ESCI)
+SC General & Internal Medicine
+GA HU8KA
+UT WOS:000465535400007
+DA 2023-12-06
+ER
+
+PT J
+AU Mokdad, AH
+   Moradi-Lakeh, M
+   Charara, R
+   El Bcheraoui, C
+   Khalil, I
+   Afshin, A
+   Kassebaum, NJ
+   Collison, M
+   Chew, A
+   Krohn, KJ
+   Daoud, F
+   Colombara, D
+   Graetz, N
+   Kutz, M
+   Wang, HD
+   Abd-Allah, F
+   Abu-Raddad, LJ
+   Kiadaliri, AA
+   Ahmed, MB
+   Alam, K
+   Alghnam, S
+   Alizadeh-Navaei, R
+   Al-Raddadi, R
+   Altirkawi, KA
+   Anber, N
+   Anwari, P
+   Avila-Burgos, L
+   Awasthi, A
+   Barac, A
+   Barker-Collo, SL
+   Bedi, N
+   Bhutta, ZA
+   Borschmann, R
+   Boufous, S
+   Butt, ZA
+   Castañeda-Orjuela, CA
+   Dalal, K
+   Danawi, H
+   De Leo, D
+   Dharmaratne, SD
+   Djalalinia, S
+   Doyle, KE
+   Esteghamati, A
+   Faro, A
+   Farvid, MS
+   Fereshtehnejad, SM
+   Fischer, F
+   Gebrehiwot, TT
+   Gutiérrez, RA
+   Hafezi-Nejad, N
+   Hamadeh, RR
+   Hamidi, S
+   Haro, JM
+   Hendrie, D
+   Hu, GQ
+   Jonas, JB
+   Kasaeian, A
+   Keiyoro, PN
+   Khader, YS
+   Khan, EA
+   Khubchandani, J
+   Kopec, JA
+   Larson, HJ
+   Latif, AA
+   Leshargie, CT
+   Lunevicius, R
+   Abd El Razek, MM
+   Majeed, A
+   Malekzadeh, R
+   Memish, ZA
+   Meretoja, TJ
+   Miller, TR
+   Mohammed, S
+   Obermeyer, CM
+   Ogbo, FA
+   Phillips, MR
+   Pourmalek, F
+   Qorbani, M
+   Radfar, A
+   Rafay, A
+   Rahimi-Movaghar, A
+   Rahimi-Movaghar, V
+   Rai, RK
+   Rawaf, DL
+   Rawaf, S
+   Rezaei, S
+   Rezai, MS
+   Roshandel, G
+   Safdarian, M
+   Safiri, S
+   Salamati, P
+   Samy, AM
+   Sartorius, B
+   Seedat, S
+   Sepanlou, SG
+   Shaikh, MA
+   Sobaih, BHA
+   Tabb, KM
+   Tehrani-Banihashemi, A
+   Temsah, MH
+   Terkawi, AS
+   RomanTopor-Madry
+   Ukwaja, KN
+   Uthman, OA
+   Yaseri, M
+   NaohiroYonemoto
+   Younis, MZ
+   Jumaan, AO
+   Vos, T
+   Hay, SI
+   Naghavi, M
+   Murray, CJL
+AF Mokdad, Ali H.
+   Moradi-Lakeh, Maziar
+   Charara, Raghid
+   El Bcheraoui, Charbel
+   Khalil, Ibrahim
+   Afshin, Ashkan
+   Kassebaum, Nicholas J.
+   Collison, Michael
+   Chew, Adrienne
+   Krohn, Kristopher J.
+   Daoud, Farah
+   Colombara, Danny
+   Graetz, Nicholas
+   Kutz, Michael
+   Wang, Haidong
+   Abd-Allah, Foad
+   Abu-Raddad, Laith J.
+   Kiadaliri, Aliasghar Ahmad
+   Ahmed, Muktar Beshir
+   Alam, Khurshid
+   Alghnam, Suliman
+   Alizadeh-Navaei, Reza
+   Al-Raddadi, Rajaa
+   Altirkawi, Khalid A.
+   Anber, Nahla
+   Anwari, Palwasha
+   Avila-Burgos, Leticia
+   Awasthi, Ashish
+   Barac, Aleksandra
+   Barker-Collo, Suzanne L.
+   Bedi, Neeraj
+   Bhutta, Zulfiqar A.
+   Borschmann, Rohan
+   Boufous, Soufiane
+   Butt, Zahid A.
+   Castaneda-Orjuela, Carlos A.
+   Dalal, Koustuv
+   Danawi, Hadi
+   De Leo, Diego
+   Dharmaratne, Samath D.
+   Djalalinia, Shirin
+   Doyle, Kerrie E.
+   Esteghamati, Alireza
+   Faro, Andre
+   Farvid, Maryam S.
+   Fereshtehnejad, Seyed-Mohammad
+   Fischer, Florian
+   Gebrehiwot, Tsegaye Tewelde
+   Gutierrez, Reyna A.
+   Hafezi-Nejad, Nima
+   Hamadeh, Randah Ribhi
+   Hamidi, Samer
+   Haro, Josep Maria
+   Hendrie, Delia
+   Hu, Guoqing
+   Jonas, Jost B.
+   Kasaeian, Amir
+   Keiyoro, Peter Njenga
+   Khader, Yousef Saleh
+   Khan, Ejaz Ahmad
+   Khubchandani, Jagdish
+   Kopec, Jacek A.
+   Larson, Heidi J.
+   Latif, Asma Abdul
+   Leshargie, Cheru Tesema
+   Lunevicius, Raimundas
+   Abd El Razek, Mohammed Magdy
+   Majeed, Azeem
+   Malekzadeh, Reza
+   Memish, Ziad A.
+   Meretoja, Tuomo J.
+   Miller, Ted R.
+   Mohammed, Shafiu
+   Obermeyer, Carla Makhlouf
+   Ogbo, Felix Akpojene
+   Phillips, Michael Robert
+   Pourmalek, Farshad
+   Qorbani, Mostafa
+   Radfar, Amir
+   Rafay, Anwar
+   Rahimi-Movaghar, Afarin
+   Rahimi-Movaghar, Vafa
+   Rai, Rajesh Kumar
+   Rawaf, David Laith
+   Rawaf, Salman
+   Rezaei, Satar
+   Rezai, Mohammad Sadegh
+   Roshandel, Gholamreza
+   Safdarian, Mahdi
+   Safiri, Saeid
+   Salamati, Payman
+   Samy, Abdallah M.
+   Sartorius, Benn
+   Seedat, Soraya
+   Sepanlou, Sadaf G.
+   Shaikh, Masood Ali
+   Sobaih, Badr H. A.
+   Tabb, Karen M.
+   Tehrani-Banihashemi, Arash
+   Temsah, Mohamad-Hani
+   Terkawi, Abdullah Sulieman
+   RomanTopor-Madry
+   Ukwaja, Kingsley Nnanna
+   Uthman, Olalekan A.
+   Yaseri, Mehdi
+   NaohiroYonemoto
+   Younis, Mustafa Z.
+   Jumaan, Aisha O.
+   Vos, Theo
+   Hay, Simon I.
+   Naghavi, Mohsen
+   Murray, Christopher J. L.
+CA GBD 2015 Eastern Mediterranean Reg
+TI Intentional injuries in the Eastern Mediterranean Region, 1990-2015:
+   findings from the Global Burden of Disease 2015 study
+SO INTERNATIONAL JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE Intentional injuries; Eastern mediterranean region; Burden of disease
+ID SYSTEMATIC ANALYSIS; HEALTH; DISABILITY; MORTALITY; CONFLICT; SUICIDE
+AB We used GBD 2015 findings to measure the burden of intentional injuries in the Eastern Mediterranean Region (EMR) between 1990 and 2015.
+   The Global Burden of Disease (GBD) study defines intentional injuries as a combination of self-harm (including suicide), interpersonal violence, collective violence (war), and legal intervention. We estimated number of deaths, years of life lost (YLLs), years lived with disability (YLDs), and disability-adjusted life years (DALYs) for each type of intentional injuries.
+   In 2015, 28,695 individuals (95% UI: 25,474-37,832) died from self-harm, 35,626 (95% UI: 20,947-41,857) from interpersonal violence, and 143,858 (95% UI: 63,554-223,092) from collective violence and legal interventions. In 2015, collective violence and legal intervention was the fifth-leading cause of DALYs in the EMR and the leading cause in Syria, Yemen, Iraq, Afghanistan, and Libya; they account for 49.7% of total DALYs in Syria.
+   Our findings call for increased efforts to stabilize the region and assist in rebuilding the health systems, as well as increasing transparency and employing preventive strategies to reduce self-harm and interpersonal injuries.
+C1 [GBD 2015 Eastern Mediterranean Reg] Inst Hlth Metr & Evaluat, 2301 5th Ave,Suite 600, Seattle, WA 98121 USA.
+   [Mokdad, Ali H.; El Bcheraoui, Charbel; Khalil, Ibrahim; Afshin, Ashkan; Kassebaum, Nicholas J.; Collison, Michael; Chew, Adrienne; Krohn, Kristopher J.; Daoud, Farah; Colombara, Danny; Graetz, Nicholas; Kutz, Michael; Wang, Haidong; Kopec, Jacek A.; Vos, Theo; Hay, Simon I.; Naghavi, Mohsen; Murray, Christopher J. L.] Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+   [Moradi-Lakeh, Maziar] Iran Univ Med Sci, Dept Community Med, Preventat Med & Publ Hlth Res Ctr, Gastrointestinal & Liver Dis Res Ctr GILDRC, Tehran, Iran.
+   [Charara, Raghid] Amer Univ Beirut, Beirut, Lebanon.
+   [Kassebaum, Nicholas J.] Seattle Childrens Hosp, Dept Anesthesiol & Pain Med, Seattle, WA USA.
+   [Abd-Allah, Foad] Cairo Univ, Dept Neurol, Cairo, Egypt.
+   [Abu-Raddad, Laith J.] Weill Cornell Med Coll Qatar, Infect Dis Epidemiol Grp, Doha, Qatar.
+   [Kiadaliri, Aliasghar Ahmad] Lund Univ, Dept Clin Sci Lund, Clin Epidemiol Unit, Orthoped, Lund, Sweden.
+   [Ahmed, Muktar Beshir] Jimma Univ, Dept Epidemiol, Coll Hlth Sci, Jimma, Ethiopia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Murdoch Childrens Res Inst, Victoria, Parkville, Vic, Australia.
+   [Alam, Khurshid; Borschmann, Rohan] Univ Melbourne, Melbourne, Vic, Australia.
+   [Alam, Khurshid] Univ Sydney, Sydney, NSW, Australia.
+   [Alghnam, Suliman] King Abdulah Int Med Res Ctr, Riyadh, Saudi Arabia.
+   [Alghnam, Suliman] Johns Hopkins Univ, Bloomberg Sch Publ Hlth, Ctr Injury Res & Policy, Baltimore, MD USA.
+   [Alizadeh-Navaei, Reza] Mazandaran Univ Med Sci, Gastrointestinal Canc Res Ctr, Mazandaran, Iran.
+   [Al-Raddadi, Rajaa] Joint Program Family & Community Med, Jeddah, Saudi Arabia.
+   [Altirkawi, Khalid A.; Sobaih, Badr H. A.; Temsah, Mohamad-Hani] King Saud Univ, Riyadh, Saudi Arabia.
+   [Anber, Nahla] Mansoura Univ, Mansoura, Egypt.
+   [Avila-Burgos, Leticia] Natl Inst Publ Hlth, Cuernavaca, Morelos, Mexico.
+   [Awasthi, Ashish] Sanjay Gandhi Postgrad Inst Med Sci, Lucknow, Uttar Pradesh, India.
+   [Barac, Aleksandra] Univ Belgrade, Fac Med, Belgrade, Serbia.
+   [Barker-Collo, Suzanne L.] Univ Auckland, Sch Psychol, Auckland, New Zealand.
+   [Bedi, Neeraj] Coll Publ Hlth & Trop Med, Jazan, Saudi Arabia.
+   [Bhutta, Zulfiqar A.] Aga Khan Univ, Ctr Excellence Women & Child Hlth, Ctr Global Child Hlth, Hosp Sick Children, Karachi, Pakistan.
+   [Boufous, Soufiane] Univ New South Wales, Transport & Rd Safety TARS Res, Sydney, NSW, Australia.
+   [Butt, Zahid A.] Al Shifa Trust Eye Hosp, Rawalpindi, Punjab, Pakistan.
+   [Castaneda-Orjuela, Carlos A.] Colombian Natl Hlth Observ, Inst Nacl Salud, Bogota, Colombia.
+   [Castaneda-Orjuela, Carlos A.] Univ Nacl Colombia, Publ Hlth Dept, Epidemiol & Publ Hlth Evaluat Grp, Bogota, Colombia.
+   [Dalal, Koustuv] Univ Orebro, Ctr Injury Prevent & Safety Promot, Sch Hlth & Med Sci, Orebro, Sweden.
+   [Danawi, Hadi] Walden Univ, Minneapolis, MN USA.
+   [De Leo, Diego] Griffith Univ, Brisbane, Qld, Australia.
+   [Dharmaratne, Samath D.] Univ Peradeniya, Dept Community Med, Fac Med, Peradeniya, Sri Lanka.
+   [Djalalinia, Shirin] Minist Hlth & Med Educ, Undersecretary Res & Technol, Tehran, Iran.
+   [Doyle, Kerrie E.] RMIT Univ, Bundoora, Vic, Australia.
+   [Doyle, Kerrie E.] Australian Natl Univ, Canberra, ACT, Australia.
+   [Esteghamati, Alireza; Hafezi-Nejad, Nima; Kasaeian, Amir] Univ Tehran Med Sci, Endocrinol & Metab Res Ctr, Tehran, Iran.
+   [Faro, Andre] Univ Fed Sergipe, Aracaju, Sergipe, Brazil.
+   [Farvid, Maryam S.] Harvard Univ, Harvard TH Chan Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   [Farvid, Maryam S.] Massachusetts Gen Hosp, Mongan Inst Hlth Policy, Harvard MGH Ctr Gen Vulnerable Populat & Hlth Dis, Boston, MA 02114 USA.
+   [Fereshtehnejad, Seyed-Mohammad] Karolinska Inst, Dept Neurobiol, Care Sci & Soc NVS, Stockholm, Sweden.
+   [Fischer, Florian] Univ Bielefeld, Sch Publ Hlth, Bielefeld, Germany.
+   [Gebrehiwot, Tsegaye Tewelde] Jimma Univ, Jimma, Ethiopia.
+   [Gutierrez, Reyna A.] Natl Inst Psychiat Ramon de la Fuente, Mexico City, DF, Mexico.
+   [Hamadeh, Randah Ribhi] Arabian Gulf Univ, Manama, Bahrain.
+   [Hamidi, Samer] Hamdan Bin Mohammed Smart Univ, Dubai, U Arab Emirates.
+   [Haro, Josep Maria] CIBERSAM, Parc Sanitari St Joan Deu, St Boi De Llobregat, Barcelona, Spain.
+   [Hendrie, Delia] Curtin Univ, Ctr Populat Hlth Res, Bentley, WA, Australia.
+   [Hu, Guoqing] Cent South Univ, Sch Publ Hlth, Dept Epidemiol & Hlth Stat, Changsha, Peoples R China.
+   [Jonas, Jost B.] Heidelberg Univ, Dept Ophthalmol, Fac Med Mannheim, Mannheim, Germany.
+   [Kasaeian, Amir] Univ Tehran Med Sci, Hematol Oncol & Stem Cell Transplantat Res Ctr, Tehran, Iran.
+   [Keiyoro, Peter Njenga] Inst Trop & Infect Dis, Nairobi, Kenya.
+   [Keiyoro, Peter Njenga] Sch Continuing & Distance Educ, Nairobi, Kenya.
+   [Khader, Yousef Saleh] Jordan Univ Sci & Technol, Dept Community Med Publ Hlth & Family Med, Irbid, Jordan.
+   [Khan, Ejaz Ahmad] Hlth Serv Acad, Islamabad, Pakistan.
+   [Khubchandani, Jagdish] Ball State Univ, Dept Nutr & Hlth Sci, Muncie, IN 47306 USA.
+   [Kopec, Jacek A.] Univ British Columbia, Vancouver, BC, Canada.
+   [Larson, Heidi J.] London Sch Hyg & Trop Med, Dept Infect Dis Epidemiol, London, England.
+   [Latif, Asma Abdul] Lahore Coll Women Univ, Dept Zool, Lahore, Pakistan.
+   [Leshargie, Cheru Tesema] Debre Markos Univ, Debre Markos, Ethiopia.
+   [Lunevicius, Raimundas] Aintree Univ Hosp NHS Fdn Trust, Natl Hlth Serv Fdn Trust, Liverpool, Merseyside, England.
+   [Lunevicius, Raimundas] Univ Liverpool, Sch Med, Liverpool, Merseyside, England.
+   [Abd El Razek, Mohammed Magdy] Aswan Univ Hosp, Aswan Fac Med, Aswan, Egypt.
+   [Majeed, Azeem] Dept Primary Care Publ Hlth, Imperial Coll London, London, England.
+   [Malekzadeh, Reza; Roshandel, Gholamreza; Sepanlou, Sadaf G.] Univ Tehran Med Sci, Digest Dis Res Inst, Tehran, Iran.
+   [Memish, Ziad A.] Saudi Minist Hlth, Riyadh, Saudi Arabia.
+   [Memish, Ziad A.] Alfaisal Univ, Coll Med, Riyadh, Saudi Arabia.
+   [Meretoja, Tuomo J.] Helsinki Univ Hosp, Breast Surg Unit, Comprehens Canc Ctr, Helsinki, Finland.
+   [Meretoja, Tuomo J.] Univ Helsinki, Helsinki, Finland.
+   [Miller, Ted R.] Pacific Inst Res & Evaluat, Calverton, MD USA.
+   [Miller, Ted R.] Curtin Univ, Ctr Populat Hlth, Perth, WA, Australia.
+   [Mohammed, Shafiu] Ahmadu Bello Univ, Hlth Syst & Policy Res Unit, Zaria, Kaduna, Nigeria.
+   [Mohammed, Shafiu] Heidelberg Univ, Inst Publ Hlth, Heidelberg, Germany.
+   [Obermeyer, Carla Makhlouf] Amer Univ Beirut, Ctr Res Populat & Hlth, Fac Hlth Sci, Beirut, Lebanon.
+   [Ogbo, Felix Akpojene] Western Sydney Univ, Ctr Hlth Res, Sydney, NSW, Australia.
+   [Phillips, Michael Robert] Shanghai Jiao Tong Univ, Sch Med, Shanghai, Peoples R China.
+   [Phillips, Michael Robert] Emory Univ, Atlanta, GA 30322 USA.
+   [Pourmalek, Farshad] Univ British Columbia, Vancouver, BC, Canada.
+   [Qorbani, Mostafa] Alborz Univ Med Sci, Noncommunicable Dis Res Ctr, Karaj, Iran.
+   [Radfar, Amir] AT Still Univ, Kirksville, MO USA.
+   [Rafay, Anwar] Contech Int Hlth Consultants, Lahore, Pakistan.
+   [Rafay, Anwar] Contech Sch Publ Hlth, Lahore, Pakistan.
+   [Rahimi-Movaghar, Afarin] Univ Tehran Med Sci, INCAS, Tehran, Iran.
+   [Rahimi-Movaghar, Vafa; Salamati, Payman] Univ Tehran Med Sci, Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Rai, Rajesh Kumar] Soc Hlth & Demog Surveillance, Suri, W Bengal, India.
+   [Rawaf, David Laith] WHO Collaborating Ctr, Imperial Coll London, London, England.
+   [Rawaf, David Laith] North Hampshire Hosp, Basingstroke, England.
+   [Rawaf, David Laith] Univ Coll London Hosp, London, England.
+   [Rawaf, Salman] Imperial Coll London, London, England.
+   [Rezaei, Satar] Kermanshah Univ Med Sci, Sch Publ Hlth, Kermanshah, Iran.
+   [Rezai, Mohammad Sadegh] Mazandaran Univ Med Sci, Sari, Iran.
+   [Roshandel, Gholamreza] Golestan Univ Med Sci, Golestan Res Ctr Gastroenterol & Hepatol, Gorgan, Iran.
+   [Safdarian, Mahdi] Sina Trauma & Surg Res Ctr, Tehran, Iran.
+   [Safiri, Saeid] Maragheh Univ Med Sci, Sch Nursing & Mid wifery, Dept Publ Hlth, Managerial Epidemiol Res Ctr, Maragheh, Iran.
+   [Samy, Abdallah M.] Ain Shams Univ, Cairo, Egypt.
+   [Sartorius, Benn] Univ KwaZulu Natal, Sch Nursing & Publ Hlth, Publ Hlth Med, Durban, South Africa.
+   [Sartorius, Benn] SAMRC, UKZN Gastrointestinal Canc Res Ctr, Durban, South Africa.
+   [Seedat, Soraya] Stellenbosch Univ, Cape Town, South Africa.
+   [Tabb, Karen M.] Univ Illinois, Sch Social Work, Champaign, IL USA.
+   [Tehrani-Banihashemi, Arash] Iran Univ Med Sci, Prevent Med & Publ Hlth Res Ctr, Tehran, Iran.
+   [Temsah, Mohamad-Hani] King Faisal Specialist Hosp & Res Ctr, Riyadh, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Univ Virginia, Dept Anesthesiol, Charlottesville, VA USA.
+   [Terkawi, Abdullah Sulieman] King Fahad Med City, Dept Anesthesiol, King, WI, Saudi Arabia.
+   [Terkawi, Abdullah Sulieman] Cleveland Clin, Outcomes Res Consortium, Cleveland, OH 44106 USA.
+   [RomanTopor-Madry] Jagiellonian Univ Med Coll, Inst Publ Hlth, Fac Hlth Sci, Krakow, Poland.
+   [RomanTopor-Madry] Wroclaw Med Univ, Fac Hlth Sci, Wroclaw, Poland.
+   [Ukwaja, Kingsley Nnanna] Fed Teaching Hosp, Dept Internal Med, Ebonyi State, Nigeria.
+   [Uthman, Olalekan A.] Univ Warwick, Warwick Med Sch, Coventry, W Midlands, England.
+   [Yaseri, Mehdi] Univ Tehran Med Sci, Tehran, Iran.
+   [Yaseri, Mehdi] Shahid Beheshti Univ Med Sci, Ophthalm Res Ctr, Tehran, Iran.
+   [NaohiroYonemoto] Kyoto Univ, Sch Publ Hlth, Dept Biostat, Kyoto, Japan.
+   [Younis, Mustafa Z.] Jackson State Univ, Jackson, MS USA.
+   [Hay, Simon I.] Univ Oxford, Li Ka Shing Ctr Hlth Informat & Discovery, Oxford Big Data Inst, Oxford, England.
+C3 Institute for Health Metrics & Evaluation; University of Washington;
+   University of Washington Seattle; Institute for Health Metrics &
+   Evaluation; Iran University of Medical Sciences; American University of
+   Beirut; Seattle Children's Hospital; Egyptian Knowledge Bank (EKB);
+   Cairo University; Qatar Foundation (QF); Weill Cornell Medical College
+   Qatar; Lund University; Jimma University; Murdoch Children's Research
+   Institute; University of Melbourne; University of Melbourne; University
+   of Sydney; Johns Hopkins University; Johns Hopkins Bloomberg School of
+   Public Health; Mazandaran University Medical Sciences; King Saud
+   University; Egyptian Knowledge Bank (EKB); Mansoura University;
+   Instituto Nacional de Salud Publica; Sanjay Gandhi Postgraduate
+   Institute of Medical Sciences; University of Belgrade; University of
+   Auckland; Aga Khan University; University of New South Wales Sydney;
+   Instituto Nacional de Salud (Colombia); Universidad Nacional de
+   Colombia; Orebro University; Walden University; Griffith University;
+   University of Peradeniya; Ministry of Health & Medical Education
+   (MOHME); Royal Melbourne Institute of Technology (RMIT); Australian
+   National University; Tehran University of Medical Sciences; Universidade
+   Federal de Sergipe; Harvard University; Harvard T.H. Chan School of
+   Public Health; Harvard University; Massachusetts General Hospital;
+   Karolinska Institutet; University of Bielefeld; Jimma University;
+   Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz; Arabian Gulf
+   University; CIBER - Centro de Investigacion Biomedica en Red; CIBERSAM;
+   Curtin University; Central South University; Ruprecht Karls University
+   Heidelberg; Tehran University of Medical Sciences; Jordan University of
+   Science & Technology; Health Services Academy; Ball State University;
+   University of British Columbia; University of London; London School of
+   Hygiene & Tropical Medicine; Aintree University Hospitals NHS Foundation
+   Trust; University of Liverpool; Egyptian Knowledge Bank (EKB); Aswan
+   University; Imperial College London; Tehran University of Medical
+   Sciences; Alfaisal University; University of Helsinki; Helsinki
+   University Central Hospital; University of Helsinki; Pacific Institute
+   for Research & Evaluation (PIRE); Curtin University; Ahmadu Bello
+   University; Ruprecht Karls University Heidelberg; American University of
+   Beirut; Western Sydney University; Shanghai Jiao Tong University; Emory
+   University; University of British Columbia; A.T. Still University of
+   Health Sciences; Tehran University of Medical Sciences; Tehran
+   University of Medical Sciences; World Health Organization; Imperial
+   College London; University of London; University College London;
+   University College London Hospitals NHS Foundation Trust; Imperial
+   College London; Kermanshah University of Medical Sciences; Mazandaran
+   University Medical Sciences; Golestan University of Medical Sciences;
+   Egyptian Knowledge Bank (EKB); Ain Shams University; University of
+   Kwazulu Natal; Stellenbosch University; University of Illinois System;
+   University of Illinois Urbana-Champaign; Iran University of Medical
+   Sciences; King Faisal Specialist Hospital & Research Center; University
+   of Virginia; King Fahad Medical City; Cleveland Clinic Foundation;
+   Jagiellonian University; Collegium Medicum Jagiellonian University;
+   Wroclaw Medical University; University of Warwick; Tehran University of
+   Medical Sciences; Shahid Beheshti University Medical Sciences; Kyoto
+   University; Jackson State University; University of Oxford
+RP Mokdad, AH (corresponding author), Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA 98195 USA.
+EM mokdaa@uw.edu
+RI Altirkawi, Khalid A/D-7302-2017; Borschmann, Rohan/A-7954-2011; Faro,
+   Andre/J-1696-2014; Barac, Aleksandra/W-9785-2019; Rezai, Mohammad
+   Sadegh/F-6274-2017; Anber, Nahla/AAM-9830-2021; Khubchandani,
+   Jagdish/D-1831-2014; Safiri, Saeid/A-1678-2017; Memish, Ziad
+   Ahmed/AEJ-9424-2022; Vos, Theo/HLH-2955-2023; Bedi, Neeraj/H-2838-2019;
+   Ahmed, Muktar/AAY-6783-2020; Majeed, Abdul/JHT-0587-2023; Khader, Yousef
+   Saleh/AAE-9620-2019; Bedi, Neeraj/AGR-0606-2022; Khan, Prof Dr
+   Ejaz/GNP-1245-2022; Rahimi-Movaghar, Afarin/E-9505-2011;
+   Castañeda-Orjuela, Carlos/N-2601-2017; Uthman, Olalekan/N-5584-2019;
+   Al-Raddadi, Rajaa/F-8337-2010; Ukwaja, Kingsley N./A-7794-2013;
+   Lunevicius, Raimundas/B-2528-2018; Abu-Raddad, Laith J/AAY-1441-2020;
+   Butt, Zahid Ahmad/W-4292-2017; Rubino, Salvatore/AAC-5848-2022; Haro,
+   Josep Maria/D-1423-2011; Fereshtehnejad, Seyed-Mohammad/ABF-6020-2020;
+   Ahmed, Muktar B/G-6184-2019; Mohammed, Shafiu/P-2016-2014; Radfar,
+   Amir/I-8057-2019; Rahimi-Movaghar, Vafa/L-6339-2019; Pourmalek,
+   Farshad/A-8188-2010; Roshandel, Gholamreza/AAJ-9562-2021; Awasthi,
+   Ashish/Y-5915-2019; Phillips, Michael R/AAE-7585-2021; Hamadeh, Randah
+   R./AAE-9720-2020; Tehrani-Banihashemi, Arash/L-5964-2018; Moradi-Lakeh,
+   Maziar/ABC-9793-2021; Hay, Simon Iain/F-8967-2015; Mokdad, Ali
+   H./AAD-1232-2022; Yaseri, Mehdi/I-1645-2018; Khalil,
+   Ibrahim/M-1520-2016; Terkawi, Abdullah Suleiman/AAC-1113-2019; Kasaeian,
+   Amir/C-8290-2017; Altirkawi, Khalid/AAW-5947-2021; Salamati,
+   Payman/AAK-7086-2020; Sepanlou, Sadaf G/H-9343-2016; Samy, Abdallah
+   M./B-4375-2010; Temsah, Mohamad-Hani/AAJ-9703-2020; Fischer,
+   Florian/F-9003-2016; Khan, Ejaz A/B-9340-2016; Qorbani,
+   Mostafa/M-8171-2017; f, m/AAM-2063-2021; Alizadeh-Navaei,
+   Reza/B-2207-2017; Larson, Heidi J./N-1018-2017; Dalal,
+   Koustuv/O-6737-2017; Bhutta, Zulfiqar/L-7822-2015; Rahimi-Movaghar,
+   Vafa/T-7816-2017; Colombara, Danny/H-7202-2015
+OI Altirkawi, Khalid A/0000-0002-7331-4196; Faro,
+   Andre/0000-0002-7348-6297; Rezai, Mohammad Sadegh/0000-0003-4585-9954;
+   Anber, Nahla/0000-0001-5684-9298; Khubchandani,
+   Jagdish/0000-0002-9058-4278; Safiri, Saeid/0000-0001-7986-9072; Memish,
+   Ziad Ahmed/0000-0002-5099-0714; Bedi, Neeraj/0000-0003-4709-8423; Ahmed,
+   Muktar/0000-0002-9524-7027; Khader, Yousef Saleh/0000-0002-7830-6857;
+   Bedi, Neeraj/0000-0003-4709-8423; Khan, Prof Dr
+   Ejaz/0000-0002-7072-8035; Rahimi-Movaghar, Afarin/0000-0002-5761-1668;
+   Castañeda-Orjuela, Carlos/0000-0002-8735-6223; Uthman,
+   Olalekan/0000-0002-8567-3081; Al-Raddadi, Rajaa/0000-0002-8921-9628;
+   Ukwaja, Kingsley N./0000-0002-1974-8735; Lunevicius,
+   Raimundas/0000-0003-3295-0142; Abu-Raddad, Laith J/0000-0003-0790-0506;
+   Butt, Zahid Ahmad/0000-0002-2486-4781; Haro, Josep
+   Maria/0000-0002-3984-277X; Fereshtehnejad,
+   Seyed-Mohammad/0000-0001-9255-9351; Ahmed, Muktar B/0000-0002-9524-7027;
+   Mohammed, Shafiu/0000-0001-5715-966X; Radfar, Amir/0000-0001-6177-3048;
+   Pourmalek, Farshad/0000-0002-2134-0771; Roshandel,
+   Gholamreza/0000-0002-5494-0722; Awasthi, Ashish/0000-0002-9308-9782;
+   Phillips, Michael R/0000-0002-5973-2439; Hamadeh, Randah
+   R./0000-0002-4205-1354; Moradi-Lakeh, Maziar/0000-0001-7381-5305; Hay,
+   Simon Iain/0000-0002-0611-7272; Mokdad, Ali H./0000-0002-4994-3339;
+   Yaseri, Mehdi/0000-0002-4066-873X; Khalil, Ibrahim/0000-0002-1868-5437;
+   Terkawi, Abdullah Suleiman/0000-0001-8734-2748; Kasaeian,
+   Amir/0000-0003-2018-9368; Altirkawi, Khalid/0000-0002-7331-4196;
+   Salamati, Payman/0000-0001-9313-3977; Sepanlou, Sadaf
+   G/0000-0002-3669-5129; Samy, Abdallah M./0000-0003-3978-1134; Fischer,
+   Florian/0000-0002-4388-1245; Khan, Ejaz A/0000-0002-7072-8035;
+   Alizadeh-Navaei, Reza/0000-0003-0580-000X; Wasif,
+   Muhammad/0009-0004-1374-302X; Farvid, Maryam/0000-0003-1783-4186;
+   Majeed, Azeem/0000-0002-2357-9858; , bennsartorius/0000-0001-6761-2325;
+   Rawaf, Salman/0000-0001-7191-2355; Miller, Ted/0000-0002-0958-2639;
+   Larson, Heidi J./0000-0002-8477-7583; Temsah,
+   Mohamad-Hani/0000-0002-4389-9322; Hamidi, Samer/0000-0002-6766-3728;
+   Tehrani Banihashemi, Seyed Arash/0000-0001-6911-9817; Alghnam,
+   Suliman/0000-0001-5817-0481; Hu, Guoqing/0000-0002-5002-8015; Dalal,
+   Koustuv/0000-0001-7393-796X; Kiadaliri, Ali/0000-0002-4254-9099; Seedat,
+   Soraya/0000-0002-5118-786X; Younis, Mustafa/0000-0001-8448-808X; Rezaei,
+   Satar/0000-0002-6194-6057; Bhutta, Zulfiqar/0000-0003-0637-599X;
+   Abd-Allah, Foad/0000-0001-8308-5756; Tabb Dina,
+   Karen/0000-0002-4722-9502; Esteghamati, Alireza/0000-0001-5114-3982;
+   Rahimi-Movaghar, Vafa/0000-0001-7347-8767; Alam,
+   Khurshid/0000-0002-7402-7519; Barac, Aleksandra/0000-0002-0132-2277;
+   Colombara, Danny/0000-0002-5237-1300; Borschmann,
+   Rohan/0000-0002-0365-7775
+FU Bill & Melinda Gates Foundation
+FX This research was funded by the Bill & Melinda Gates Foundation.
+NR 18
+TC 20
+Z9 20
+U1 1
+U2 15
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1661-8556
+EI 1661-8564
+J9 INT J PUBLIC HEALTH
+JI Int. J. Public Health
+PD MAY
+PY 2018
+VL 63
+SU 1
+BP 39
+EP 46
+DI 10.1007/s00038-017-1005-2
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA GH6AA
+UT WOS:000433519400007
+PM 28776251
+OA Green Published, Green Accepted, hybrid, Green Submitted
+DA 2023-12-06
+ER
+
+PT B
+AU Jenkins, S
+AF Jenkins, Simon
+BA Jenkins, S
+BF Jenkins, S
+TI Springtime in Libya
+SO MISSION ACCOMPLISHED?: THE CRISIS OF INTERNATIONAL INTERVENTION
+LA English
+DT Article; Book Chapter
+AB With Iraq "over" and Afghanistan on the wane, it was if the age of intervention had run out of steam. It needed some new cause to espouse. It soon found one. On 17 December 2010, a young Tunisian street trader committed suicide in public in protest of harassment by local officials. His action sparked the first revolution of the so-called Arab Spring. It was followed by street riots in Algeria, Oman, Yemen, Syria and Morocco. Then on 25 January the occupation of Tahrir Square in Cairo began. Egypt was bigger than all the others put together. The Arab Spring, through still winter, had come of age.
+   The international community greeted these protests with unashamed enthusiasm, but was unsure how to proceed. The uprisings seemed autonomous, mimicking each other but essentially local outpourings of domestic dissent. How might liberal interventionism respond to changes that appeared to be moving in the right direction but without external stimulus? In particular might intervention find a way to help events in Egypt, ruled by a regime so far regarded as friendly to the West yet sitting on a powder keg of 82 million Arabs?
+   02.02.2011
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU I B TAURIS & CO LTD
+PI LONDON
+PA 6 SALEM RD, LONDON W2 4BU, ENGLAND
+BN 978-0-85772-553-0; 978-1-78453-132-4
+PY 2015
+BP 151
+EP 159
+PG 9
+WC International Relations; Political Science
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH)
+SC International Relations; Government & Law
+GA BN6LF
+UT WOS:000485863900015
+DA 2023-12-06
+ER
+
+PT J
+AU Flaherty, MG
+   Roberts, LF
+AF Flaherty, Mary Grace
+   Roberts, Leslie F.
+TI Internet searching produces misleading findings regarding violent deaths
+   in crisis settings: short report
+SO CONFLICT AND HEALTH
+LA English
+DT Letter
+DE Violent death rate; Internet searching; Humanitarian injustice
+AB Donor and agency priorities are influenced by a variety of political, social, and media-related forces that can have a profound impact on response and resource provision. We have attempted to assess how well internet searches articulate the span of violent death rates for five current crisis settings. In three graduate classes (2 public health, 1 information science) at US universities, during a four month period in 2017-2018, we asked approximately 60 graduate students to conduct an internet search to determine which of five countries had the highest and lowest violence specific mortality rate: Venezuela, Syria, Yemen, Central African Republic (CAR), or Mali. Students were divided into groups of three, and within each group explored this question by three approaches. Many graduate students in all groups could not determine the relative rates, especially which country had the lowest violence specific mortality rate. Of the 34 searches that identified a highest violent death rate country, 27.5 (81%) concluded it was Venezuela, followed by Syria (4.5; 13%), Mali (1; 3%) and CAR (1; 3%). Of the 26 searches that identified a least violent death rate 21.5 (83%) reported either CAR or Mali, followed by Yemen (2.5; 10%) and Syria (2; 8%). Aside from lack of data on CAR and Mali, students were perplexed about whether to include suicides or executions in the measure. This resulted in almost half of all inquiries unable to estimate a highest and lowest rate among these five countries. Where conclusions were drawn, it is likely the internet drew students to the opposite conclusion from reality. There are several reasons for this discordance, such as differing categories of violent deaths as defined by the World Health Organization, and search engine algorithms. It is probable, however, that larger issues of connectivity of individual societies with each other and the outside world are playing a profound role in the deceptive results found in this exercise. This insight emphasizes the internet's under-reporting in the world's most poor and remote locations, and highlights the importance of primary data collection and reporting in such settings.
+C1 [Flaherty, Mary Grace] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+   [Roberts, Leslie F.] Columbia Univ, Mailman Sch Publ Hlth, Populat & Family Hlth, New York, NY 10023 USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   Columbia University
+RP Flaherty, MG (corresponding author), Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27599 USA.
+EM mgflaher@email.unc.edu
+OI Flaherty, Mary Grace/0000-0002-8623-4259
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 3
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1752-1505
+J9 CONFL HEALTH
+JI Confl. Health
+PD FEB 15
+PY 2019
+VL 13
+AR 4
+DI 10.1186/s13031-019-0187-z
+PG 4
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA HL9CG
+UT WOS:000459039400001
+PM 30815029
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Musawar
+   Sahid, MM
+   Jihadi, AN
+   Gunardi, S
+AF Musawar
+   Sahid, Mualimin Mochammad
+   Jihadi, Ahmad Nur
+   Gunardi, Setiyawan
+TI MODERATE ISLAM AS A SOLUTION TO PLURALISM IN THE ISLAMIC WORLD: THE
+   EXPERIENCE OF INDONESIA
+SO AL-SHAJARAH
+LA English
+DT Article
+DE Moderate Islam; Moderate Muslims; Pluralism; Nahdlatul Ulama
+AB This study examines the phenomenon occuring in the Islamic world in particular, where religion is experiencing serious self-destructive divisions caused by uncontrolled interests in theology, socio-political and economic matters. This can be seen in several Middle Eastern countries such as Iraq, Syria, Yemen and Afghanistan where there are numerous suicide bombings and mass killings among groups who are all Muslims. Indonesia as the world's largest Muslim country is trying to protect itself from these undesirable threats, especially those of disunity and separation. This is more so due to the very nature of Indonesia that uniquely has a variety of religions, cultures, languages, customs, ethnic groups and tribes. Based on facts derived from observation and documentation this paper attempts to analyse the phenomenon. The results of the analysis show that Indonesia through the two most dominant religious organizations, namely Nahdlatul Ulama and Muhammadiyah, has developed moderate Islam as a response to its multicultural and multireligious diversity. Moderate Islam is based on the teachings of Ahl al-Sunnah wa al-Jama 'ah in the fields of law, theology and mysticism which are characterized by tolerance, moderation and acceptance of the existence of others. The moderate Islam model followed by these two religious organizations has been accepted globally through the opening of their branches in several Western countries and the Middle East, thus proving that it can be a solution for creating peace and harmony in the world.
+C1 [Sahid, Mualimin Mochammad] USIM, Fac Syariah & Law, Nilai, Negeri Sembilan, Malaysia.
+   [Jihadi, Ahmad Nur] State Islamic Univ UIN Mataram, Dept Islamic Family Law, Lombok, Indonesia.
+   [Gunardi, Setiyawan] USIM, Nilai, Negeri Sembilan, Malaysia.
+C3 Universiti Sains Islam Malaysia; Universiti Sains Islam Malaysia
+RP Sahid, MM (corresponding author), USIM, Fac Syariah & Law, Nilai, Negeri Sembilan, Malaysia.
+EM musawwar_1@yahoo.com; mualimin.sahid@usim.edu.my;
+   ahmadnurjihadi@uinmataram.ac.id; setiyawan@usim.edu.my
+RI Sahid, Mualimin Mochammad/R-5624-2016
+OI Sahid, Mualimin Mochammad/0000-0001-6100-2809
+NR 67
+TC 1
+Z9 1
+U1 0
+U2 2
+PU INT ISLAMIC UNIV MALAYSIA
+PI KUALA LUMPUR
+PA NO 24 PERSIARAN DUTA, TAMAN DUTA, KUALA LUMPUR, 50480, MALAYSIA
+SN 1394-6870
+J9 AL-SHAJARAH
+JI Al-Shajarah
+PY 2019
+SI 1
+BP 1
+EP 24
+PG 24
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA KA5PX
+UT WOS:000505851600002
+DA 2023-12-06
+ER
+
+EF

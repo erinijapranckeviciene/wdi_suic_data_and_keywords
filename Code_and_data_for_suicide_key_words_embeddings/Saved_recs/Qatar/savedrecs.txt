@@ -1,0 +1,268 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ghuloum, S
+   Al-Amin, H
+   Avades, T
+   Singh, R
+   Abdelrazzak, M
+   Zaraa, A
+AF Ghuloum, S.
+   Al-Amin, H.
+   Avades, T.
+   Singh, R.
+   Abdelrazzak, M.
+   Zaraa, A.
+TI CHARACTERISTICS OF THE PATIENTS WHO CAME TO EMERGENCY DEPARTMENT IN
+   DOHA, QATAR WITH ACCIDENTAL SELF-HARM, SUICIDAL ATTEMPTS, AND COMPLETED
+   SUICIDE: A RETROSPECTIVE STUDY 2011-2012
+SO EUROPEAN PSYCHIATRY
+LA English
+DT Meeting Abstract
+C1 [Ghuloum, S.; Avades, T.; Zaraa, A.] Hamad Med Corp, Psychiat, Doha, Qatar.
+   [Al-Amin, H.] Weill Cornell Med Coll Qatar, Doha, Qatar.
+   [Singh, R.] Hamad Med Corp, Cardiol, Doha, Qatar.
+   [Abdelrazzak, M.] Hamad Med Corp, Lab Med & Pathol, Doha, Qatar.
+C3 Hamad Medical Corporation; Qatar Foundation (QF); Weill Cornell Medical
+   College Qatar; Hamad Medical Corporation; Hamad Medical Corporation
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 0924-9338
+EI 1778-3585
+J9 EUR PSYCHIAT
+JI Eur. Psychiat.
+PY 2014
+VL 29
+SU 1
+MA EPA-0543
+PG 1
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AY0IO
+UT WOS:000347280700407
+DA 2023-12-06
+ER
+
+PT J
+AU Hammoudeh, S
+   Ghuloum, S
+   Mahfoud, Z
+   Opler, M
+   Khan, A
+   Yehya, A
+   Abdulhakam, A
+   Al-Mujalli, A
+   Hani, Y
+   Elsherbiny, R
+   Al-Amin, H
+AF Hammoudeh, Samer
+   Ghuloum, Suhaila
+   Mahfoud, Ziyad
+   Opler, Mark
+   Khan, Anzalee
+   Yehya, Arij
+   Abdulhakam, Abdulmoneim
+   Al-Mujalli, Azza
+   Hani, Yahya
+   Elsherbiny, Reem
+   Al-Amin, Hassen
+TI Reliability, validity and factorial structure of the Arabic version of
+   the international suicide prevention trial (InterSePT) scale for
+   suicidal thinking in schizophrenia patients in Doha, Qatar
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicidality; Suicide scales; Schizophrenia; Arabs
+ID RISK; MORTALITY; RATES
+AB Background: Patients with schizophrenia are known to have higher rates of mortality and morbidity when compared to the general population. Suicidality is a major contributor to increased mortality. The International Suicide Prevention Trial (InterSePT) Scale for Suicidal Thinking (ISST) is a validated tool to assess current suicidal ideation in patients with schizophrenia. The aims of the study were to culturally adapt the Arabic translation of ISST and to examine the psychometric characteristics of the Arabic version of the ISST among patients with schizophrenia in Qatar.
+   Methods: ISST was translated and adapted into formal Arabic using the back translation method. Patients diagnosed with schizophrenia were randomly recruited from the department of Psychiatry, Rumailah Hospital, Doha, Qatar. Healthy controls were randomly recruited from two primary health care centers in Doha, Qatar. The Arabic version of Module B for suicidality in Mini International Neuropsychiatric Interview was used as the gold standard to which the Arabic ISST was compared.
+   Results: The study sample (n = 199) was composed of 100 patients diagnosed with schizophrenia (age 35.30 +/- 10. 04 years; M/F is 2/1) and 99 controls (age 33.98 +/- 8.33 years; M/F is 2/3). The mean score on the ISST was 3.03 +/- 4.75 vs. 0.47 +/- 1.44 for the schizophrenia and control groups, respectively. Inter-rater reliability coefficient was 0.95, p > 0.001. The overall Cronbach's alpha was 0.92. Principal Component Analysis produced 3 factors explaining a total of 73.8% of variance.
+   Conclusions: This is the first study in the Arab countries to validate the Arabic version of the ISST. The psychometric properties indicate that the Arabic ISST is a valid tool to assess the severity of suicidal ideation in Arabic patients with schizophrenia.
+C1 [Hammoudeh, Samer; Yehya, Arij] Weill Cornell Med Qatar, Dept Res, Doha, Qatar.
+   [Ghuloum, Suhaila; Abdulhakam, Abdulmoneim; Hani, Yahya] Hamad Med Corp, Rumailah Hosp, Dept Psychiat, Doha, Qatar.
+   [Mahfoud, Ziyad] Weill Cornell Med Qatar, Dept Hlth Policy & Res, Doha, Qatar.
+   [Opler, Mark; Khan, Anzalee] CSO Prophase LLC, New York, NY USA.
+   [Al-Mujalli, Azza] Primary Hlth Care Corp, Doha, Qatar.
+   [Al-Amin, Hassen] Weill Cornell Med Qatar, Dept Psychiat, POB 24144, Doha, Qatar.
+C3 Qatar Foundation (QF); Weill Cornell Medical College Qatar; Hamad
+   Medical Corporation; Qatar Foundation (QF); Weill Cornell Medical
+   College Qatar; Hamad Medical Corporation; Primary Health Care
+   Corporation (PHCC); Qatar Foundation (QF); Weill Cornell Medical College
+   Qatar
+RP Al-Amin, H (corresponding author), Weill Cornell Med Qatar, Dept Psychiat, POB 24144, Doha, Qatar.
+EM haa2019@qatar-med.cornell.edu
+RI Hani, Yahya/JBX-9896-2023; Al-Amin, Hassen/ABC-3650-2020; Opler,
+   Mark/U-7075-2019; Hani, Yahya Mohamed/JBX-9856-2023
+OI Al-Amin, Hassen/0000-0001-6358-1541; Yehya, Arij/0000-0001-6669-8470;
+   Mahfoud, Ziyad/0000-0003-4098-6401; Hani, Yahya/0000-0002-6617-8675;
+   Hammoudeh, Samer/0000-0003-0805-8111
+FU Qatar National Research Fund (QNRF) [NPRP 4-268-3-086]
+FX This study was part of a larger project funded solely by Qatar National
+   Research Fund (QNRF) www.qnrf.org <http://www.qnrf.org> granted to Dr.
+   Hassen Al-Amin (NPRP 4-268-3-086). QNRF did not have any additional role
+   in the study design, data collection and analysis, interpretation of
+   data, decision to publish, or preparation of the manuscript.
+NR 38
+TC 5
+Z9 5
+U1 0
+U2 5
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD DEC 7
+PY 2016
+VL 16
+AR 437
+DI 10.1186/s12888-016-1155-4
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA EE0VM
+UT WOS:000389297500001
+PM 27927173
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Murphy, MM
+   Verjee, MA
+   Bener, A
+   Gerber, LM
+AF Murphy, M. M.
+   Verjee, M. A.
+   Bener, A.
+   Gerber, L. M.
+TI The hopeless age? A qualitative exploration of the experience of
+   menopause in Arab women in Qatar
+SO CLIMACTERIC
+LA English
+DT Article
+DE MENOPAUSE; QATARI WOMEN; ARABIC WOMEN; FOCUS GROUPS; CULTURAL
+   DIFFERENCES
+ID FOCUS GROUPS; LIFE-STYLE; HEALTH; SYMPTOMS; MIDLIFE; INCONTINENCE;
+   DETERMINANTS; POPULATION; PREVALENCE; COMMUNITY
+AB Objective The aim of this study was qualitatively to describe and examine the expectations and experiences of the midlife transition in Arab women living in Qatar.
+   Method Six focus groups were conducted with Arab women living in Qatar: three groups of local Qatari women, and three groups of non-Qatari Arab women originating from neighboring countries. A purposive sample of 41 pre-, peri-, and postmenopausal women aged 40-60 years participated. The semi-structured group format encouraged discussion around knowledge about menopause; physical, emotional and social experiences related to menopause; and cultural differences that may exist related to menopause.
+   Results The majority of women considered menopause as a maturing experience, although the term 'menopause' was considered to have negative connotations. Postmenopausal women described menopausal symptoms consistent with general knowledge, but many premenopausal women were unaware of symptoms, even if they knew someone who had experienced menopause. Postmenopausal women were more socially active than before and were able to participate in religious activities that they previously could not attend during menses. How a woman experienced menopause depended on the husband's level of support, and some women believed that Western women did not have the appropriate support from husbands and families that Arab women have; they felt this lack of support could lead to negative outcomes such as being at an increased risk for suicide caused by depression during menopause.
+   Conclusion Qatari and non-Qatari women had many similarities in how they perceived and experienced menopause, although they collectively believed that the experiences of Western women are different.
+C1 [Murphy, M. M.; Gerber, L. M.] Weill Cornell Med Coll, Dept Publ Hlth, New York, NY 10065 USA.
+   [Verjee, M. A.] Qatar Fdn Educ City, Weill Cornell Med Coll Qatar, Doha, Qatar.
+C3 Cornell University; Weill Cornell Medicine; Qatar Foundation (QF); Weill
+   Cornell Medical College Qatar
+RP Gerber, LM (corresponding author), Weill Cornell Med Coll, Dept Publ Hlth, 402 East 67th St, New York, NY 10065 USA.
+RI VERJEE, Mohamud/K-7823-2019; BENER, ABDULBARİ/AAC-4436-2020
+OI VERJEE, Mohamud/0000-0002-6710-079X; Murphy,
+   Madhuvanti/0000-0002-9346-5450
+FU Qatar National Research Fund, National Priorities Research Program
+FX This study was funded by the Qatar National Research Fund, National
+   Priorities Research Program.
+NR 22
+TC 14
+Z9 15
+U1 1
+U2 4
+PU INFORMA HEALTHCARE
+PI LONDON
+PA TELEPHONE HOUSE, 69-77 PAUL STREET, LONDON EC2A 4LQ, ENGLAND
+SN 1369-7137
+J9 CLIMACTERIC
+JI Climacteric
+PD OCT
+PY 2013
+VL 16
+IS 5
+BP 550
+EP 554
+DI 10.3109/13697137.2013.771330
+PG 5
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Obstetrics & Gynecology
+GA 220JD
+UT WOS:000324578200007
+PM 23374139
+DA 2023-12-06
+ER
+
+PT J
+AU Yousfi, N
+   Rekik, RN
+   Eirale, C
+   Whiteley, R
+   Farooq, A
+   Tabben, M
+   Gillogly, S
+   Bahr, R
+   Chamari, K
+AF Yousfi, Narimen
+   Rekik, Raouf Nader
+   Eirale, Cristiano
+   Whiteley, Rodney
+   Farooq, Abdulaziz
+   Tabben, Montassar
+   Gillogly, Scott
+   Bahr, Roald
+   Chamari, Karim
+TI Lunacy revisited - the myth of the full moon: are football injuries
+   related to the lunar cycle?
+SO CHRONOBIOLOGY INTERNATIONAL
+LA English
+DT Article
+DE Geomagnetic fields; apogee; perigee; performance; melatonin; sleep loss
+ID PROFESSIONAL FOOTBALL; CONSENSUS STATEMENT; NOCTURNAL ACTIVITY; SLEEP;
+   PHASES; ASSOCIATION; SUICIDE; BITES; LEVEL; FIELD
+AB Previous literature suggests that human behaviour and physiology are somehow altered by the moon-cycle, with particular emphasis on poorer sleep quality and increased aggressive behaviour during full moon. The latter variables can negatively impact athletes' recovery and increase the likelihood of injury resulting from collision with another athlete. Therefore, the current study aimed to investigate the association between the lunar cycle and injury risk in professional football players (soccer). We monitored injuries and player exposure in the premier professional league in Qatar during four consecutive seasons (2013-2014 through 2016-2017). Acute (sudden-onset traumatic) injuries (n = 1184; 587 from contact with another player and 597 without player contact) recorded during matches and training were classified according to the lunar cycle characteristics on the date of injury: (i) moon illumination, (ii) lunar distance from earth and (iii) tidal coefficient, acquired from the lunar calendar and tide tables. We used a Poisson regression model to examine the relationship between injury risk and lunar cycle characteristics. We did not detect any association between injury risk and moon illumination, earth-to-moon distance or tidal coefficient, not for all acute injuries, nor for contact and non-contact injuries when examined separately. The findings suggest that the full moon or new moon or the gravitational pull have no effect on football injuries. Thus, organisers need not consult moon or tide tables when planning future event schedules.
+C1 [Yousfi, Narimen] Natl Ctr Med & Sci Sport, Tunisian Res Lab Sport Performance Optimisat, Tunis, Tunisia.
+   [Rekik, Raouf Nader; Eirale, Cristiano; Whiteley, Rodney; Farooq, Abdulaziz; Tabben, Montassar; Gillogly, Scott; Bahr, Roald; Chamari, Karim] Qatar Orthopaed & Sports Med Hosp, ASPETAR, Doha, Qatar.
+C3 Centre National de la Medecine Sciences des Sports; Aspetar Orthopaedic
+   & Sports Medicine Hospital
+RP Yousfi, N (corresponding author), Ctr Natl Med & Sci Sport, Lab Rech Optimisat Performance Sport, Bp263,Ave Med Ali Akid, Tunis 1004, Tunisia.
+EM yousfinarimen@gmail.com
+RI Rekik, Raouf Nader/EVV-5192-2022; Yousfi, Narimen/Y-1067-2019; Whiteley,
+   Rod/AAU-7348-2020; Farooq, Abdulaziz/D-8061-2015; CHAMARI,
+   Karim/AAJ-7938-2021
+OI Rekik, Raouf Nader/0000-0003-2112-6238; Yousfi,
+   Narimen/0000-0002-2507-0553; Whiteley, Rod/0000-0002-1452-6228; Farooq,
+   Abdulaziz/0000-0002-9162-4948; CHAMARI, Karim/0000-0001-9178-7678
+NR 40
+TC 6
+Z9 6
+U1 0
+U2 4
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0742-0528
+EI 1525-6073
+J9 CHRONOBIOL INT
+JI Chronobiol. Int.
+PY 2018
+VL 35
+IS 10
+BP 1385
+EP 1390
+DI 10.1080/07420528.2018.1483943
+PG 6
+WC Biology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Life Sciences & Biomedicine - Other Topics; Physiology
+GA HA7DN
+UT WOS:000450441500006
+PM 29873530
+DA 2023-12-06
+ER
+
+EF

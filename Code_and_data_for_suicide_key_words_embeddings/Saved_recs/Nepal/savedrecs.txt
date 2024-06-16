@@ -1,0 +1,2581 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hagaman, AK
+   Khadka, S
+   Lohani, S
+   Kohrt, B
+AF Hagaman, Ashley K.
+   Khadka, S.
+   Lohani, S.
+   Kohrt, B.
+TI Suicide in Nepal: a modified psychological autopsy investigation from
+   randomly selected police cases between 2013 and 2015
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Article
+DE Suicide; Low-income; Psychological autopsy; Depression; Nepal
+ID MIDDLE-INCOME COUNTRIES; DOMESTIC VIOLENCE; MENTAL-HEALTH; RISK-FACTORS;
+   PREVENTION STRATEGIES; FARMERS SUICIDES; WOMEN; DEPRESSION; ALCOHOL;
+   INDIA
+AB Yearly, 600,000 people complete suicide in low- and middle-income countries, accounting for 75% of the world's burden of suicide mortality. The highest regional rates are in South and East Asia. Nepal has one of the highest suicide rates in the world; however, few investigations exploring patterns surrounding both male and female suicides exist. This study used psychological autopsies to identify common factors, precipitating events, and warning signs in a diverse sample.
+   Randomly sampled from 302 police case reports over 24 months, psychological autopsies were conducted for 39 completed suicide cases in one urban and one rural region of Nepal.
+   In the total police sample (n = 302), 57.0% of deaths were male. Over 40% of deaths were 25 years or younger, including 65% of rural and 50.8% of female suicide deaths. We estimate the crude urban and rural suicide rates to be 16.1 and 22.8 per 100,000, respectively. Within our psychological autopsy sample, 38.5% met criteria for depression and only 23.1% informants believed that the deceased had thoughts of self-harm or suicide before death. Important warning signs include recent geographic migration, alcohol abuse, and family history of suicide.
+   Suicide prevention strategies in Nepal should account for the lack of awareness about suicide risk among family members and early age of suicide completion, especially in rural and female populations. Given the low rates of ideation disclosure to friends and family, educating the general public about other signs of suicide may help prevention efforts in Nepal.
+C1 [Hagaman, Ashley K.] Univ N Carolina, Carolina Populat Ctr, Chapel Hill, NC 27599 USA.
+   [Khadka, S.] Transcultural Psychosocial Org Nepal, Res Dept, Kathmandu, Nepal.
+   [Lohani, S.] Pokhara Univ, Nobel Coll, Kathmandu, Nepal.
+   [Kohrt, B.] George Washington Univ, Dept Psychiat, Washington, DC USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   George Washington University
+RP Hagaman, AK (corresponding author), Univ N Carolina, Carolina Populat Ctr, Chapel Hill, NC 27599 USA.
+EM hagamana@gmail.com
+OI Hagaman, Ashley/0000-0002-8016-1036; Khadka, Seema/0000-0002-3189-5957
+FU US Fulbright Student Research Program; National Science Foundation
+   [1459811]; U.S. National Institute of Mental Health [K01MH104310];
+   Direct For Social, Behav & Economic Scie; Division Of Behavioral and
+   Cognitive Sci [1459811] Funding Source: National Science Foundation
+FX AH was supported by US Fulbright Student Research Program and the
+   National Science Foundation Cultural Anthropology Doctoral Dissertation
+   Research Improvement Grant (Award 1459811). BAK was supported by the
+   U.S. National Institute of Mental Health (K01MH104310).
+NR 74
+TC 25
+Z9 31
+U1 0
+U2 8
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD DEC
+PY 2017
+VL 52
+IS 12
+BP 1483
+EP 1494
+DI 10.1007/s00127-017-1433-6
+PG 12
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FN7YL
+UT WOS:000416234900004
+PM 28856382
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Cousins, S
+AF Cousins, Sophie
+TI Nepal's silent epidemic of suicide
+SO LANCET
+LA English
+DT Editorial Material
+AB Even before last year's earthquakes, Nepal had one of the world's highest rates of suicide. Reporting from Kathmandu, Sophie Cousins, explores the reasons behind the trend.
+NR 0
+TC 17
+Z9 19
+U1 0
+U2 11
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD JAN 2
+PY 2016
+VL 387
+IS 10013
+BP 16
+EP 17
+DI 10.1016/S0140-6736(15)01352-5
+PG 2
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA CZ9ZU
+UT WOS:000367457300012
+PM 26766336
+DA 2023-12-06
+ER
+
+PT J
+AU Pandit, A
+AF Pandit, A
+TI Circadian rhythm variation in attempted suicide by deliberate
+   self-poisoning, and in completed suicide, in central Nepal
+SO BIOLOGICAL RHYTHM RESEARCH
+LA English
+DT Article
+DE daily rhythm; circadian rhythm; suicide; attempted suicide; cosinor
+   analysis; completed suicide; Nepal
+AB Daily rhythms are described in almost every variable that can be measured, including suicide rate. The present study aims to find if circadian rhythm exist in suicidal poisoning and completed suicide due to poisoning in central Nepal. The study included all the attempted suicide cases admitted in Patan Hospital and all the completed suicide cases by poisoning reported to Kathmandu District Police during March 2002 to April 2003. The time was grouped into 24 increments of I hour. The data were analysed by Kolmogorov-Smirnov test and cosinor analysis. The circadian rhythm of attempted suicide by deliberate self poisoning exhibits a peak at 18:00 h, whereas no circadian rhythm is seen in completed suicides by poisoning although it is bimodal in distribution (6:00-12:00 and 15:00-20:00) with peaks at 7:00 and 18:00 h.
+C1 Patan Hosp, Lalitpur, Nepal.
+RP Pandit, A (corresponding author), Patan Hosp, Dept Med, GPO252, Kathmandu, Nepal.
+EM suresh@ntc.net.np
+NR 8
+TC 1
+Z9 1
+U1 1
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0929-1016
+EI 1744-4179
+J9 BIOL RHYTHM RES
+JI Biol. Rhythm Res.
+PD JUL
+PY 2004
+VL 35
+IS 3
+BP 229
+EP 233
+DI 10.1080/09291010412331335779
+PG 5
+WC Biology; Physiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics; Physiology
+GA 886DO
+UT WOS:000226207300006
+DA 2023-12-06
+ER
+
+PT J
+AU Thapaliya, S
+   Sharma, P
+   Upadhyaya, K
+AF Thapaliya, Suresh
+   Sharma, Pawan
+   Upadhyaya, Kapil
+TI Suicide and self harm in Nepal: A scoping review
+SO ASIAN JOURNAL OF PSYCHIATRY
+LA English
+DT Review
+DE Mental Health Nepal; Suicide; Self harm; Asia; Nepal; Suicide
+   prevention; Suicide research; Prevention strategies
+AB Background: Suicide and self harm behavior has become a major public health issue in recent years in Nepal. This small south Asian country was ranked 7th by suicide rate globally by the 2014 World Health Organization report with an estimated 6,840 suicides annually, or 24.9 suicides per 100,000 people. We decided to explore the epidemiology of suicidal behaviour and self harm, modes of attempt, associated risk factors and trends in specific population.
+   Methodology: Two researchers independently reviewed 47 studies published in the US National Library of Medicine's PubMed electronic Database and Google Scholar till December 2016. Finally, twenty articles meeting the objective were included. This article summarizes findings on epidemiology of suicidal behavior, associated patterns, risk factors and trend in specific population in Nepal.
+   Results: Most of the data available till date are hospital based and either cross-sectional or retrospective. Some of the studies have relied on mortality statistics whereas few have done community based screening. Some of the key findings include higher rate among women and younger age group, a rising trend among specific groups such as marginalized, migrant workers and disaster affected population. The studies also show role of mental illness, predominantly mood disorders and psycho-social factors such as interpersonal or marital conflicts and socio-economic issues in triggering suicide and self harm behavior.
+   Conclusion: Overall, the studies provide satisfactory information about the burden of suicide in Nepal. Some of the limitations include discrepancy in suicide reporting, lack of longitudinal follow up and qualitative studies and absence of studies on preventive aspects. Further, more research is warranted in this area not only at the assessment level but also at an intervention level. Several challenges such as poor distribution of mental health resources, social attitude towards mental illness and suicide in particular need to be addressed.
+C1 [Thapaliya, Suresh] Natl Med Coll, Parsa, Nepal.
+   [Sharma, Pawan] Patan Acad Hlth Sci Kathmandu, Dept Psychiat, Kathmandu, Nepal.
+   [Upadhyaya, Kapil] Ctr Mental Hlth & Counselling CMC, Kathmandu, Nepal.
+   [Upadhyaya, Kapil] Kathmandu Model Hosp, Kathmandu, Nepal.
+RP Thapaliya, S (corresponding author), Natl Med Coll, Parsa, Nepal.
+RI Sharma, Pawan/K-7519-2019
+OI Sharma, Pawan/0000-0003-4983-7568
+NR 40
+TC 22
+Z9 22
+U1 2
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1876-2018
+EI 1876-2026
+J9 ASIAN J PSYCHIATR
+JI Asian J. Psychiatr.
+PD FEB
+PY 2018
+VL 32
+BP 20
+EP 26
+DI 10.1016/j.ajp.2017.11.018
+PG 7
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA FV0RY
+UT WOS:000424265400005
+PM 29202423
+DA 2023-12-06
+ER
+
+PT J
+AU Pandit, A
+AF Pandit, A
+TI Suicide in Nepal: facts and figures
+SO TROPICAL DOCTOR
+LA English
+DT Letter
+C1 Patan Hosp, Lalitpur, Nepal.
+RP Pandit, A (corresponding author), Patan Hosp, Lalitpur, Nepal.
+EM anilpanditrules@hotmail.com
+RI Pandit, Abhay/B-6187-2008
+OI Pandit, Abhay/0000-0002-6292-4933
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ROYAL SOC MEDICINE PRESS LTD
+PI LONDON
+PA 1 WIMPOLE STREET, LONDON W1G 0AE, ENGLAND
+SN 0049-4755
+J9 TROP DOCT
+JI Trop. Dr.
+PD APR
+PY 2004
+VL 34
+IS 2
+BP 125
+EP 125
+DI 10.1177/004947550403400233
+PG 1
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 813JH
+UT WOS:000220902900034
+PM 15117157
+DA 2023-12-06
+ER
+
+PT J
+AU Thapa, B
+   Carlough, MC
+AF Thapa, B
+   Carlough, MC
+TI Suicide incidence in the Lalitpur district of Central Nepal
+SO TROPICAL DOCTOR
+LA English
+DT Article
+C1 United Mission Nepal, Community Dev & Hlth Project, Kathmandu, Nepal.
+RP Carlough, MC (corresponding author), United Mission Nepal, Community Dev & Hlth Project, POB 126, Kathmandu, Nepal.
+NR 8
+TC 4
+Z9 4
+U1 0
+U2 3
+PU ROYAL SOC MEDICINE PRESS LTD
+PI LONDON
+PA 1 WIMPOLE STREET, LONDON W1M 8AE, ENGLAND
+SN 0049-4755
+J9 TROP DOCT
+JI Trop. Dr.
+PD OCT
+PY 2000
+VL 30
+IS 4
+BP 200
+EP 203
+DI 10.1177/004947550003000406
+PG 4
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 361KY
+UT WOS:000089723300005
+PM 11075649
+DA 2023-12-06
+ER
+
+PT J
+AU Ghimire, R
+   Basnyat, D
+   Pradhan, PMS
+   Pokharel, A
+   Bajracharya, SR
+AF Ghimire, Rakesh
+   Basnyat, Dhiru
+   Pradhan, Pranil Man Singh
+   Pokharel, Akritee
+   Bajracharya, Sangha Ratna
+TI Trends and methods of suicide in Nepal: a retrospective data analysis
+SO CLINICAL TOXICOLOGY
+LA English
+DT Meeting Abstract
+C1 [Ghimire, Rakesh; Pokharel, Akritee; Bajracharya, Sangha Ratna] Tribhuvan Univ, Inst Med, Dept Clin Pharmacol, Kathmandu, Nepal.
+   [Basnyat, Dhiru] Police Headquarters, Dept Crime Invest, Kathmandu, Nepal.
+   [Pradhan, Pranil Man Singh] Tribhuvan Univ, Inst Med, Dept Community Med & Publ Hlth, Kathmandu, Nepal.
+C3 Tribhuvan University; Institute of Medicine (IoM) - Nepal; Tribhuvan
+   University; Institute of Medicine (IoM) - Nepal
+RI Ghimire, Rakesh/HLH-4923-2023
+OI Ghimire, Rakesh/0000-0003-0775-262X
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1556-3650
+EI 1556-9519
+J9 CLIN TOXICOL
+JI Clin. Toxicol.
+PD DEC 2
+PY 2019
+VL 57
+IS 12
+MA MO-13
+BP 1185
+EP 1185
+PG 1
+WC Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Toxicology
+GA JT2MV
+UT WOS:000500830800062
+DA 2023-12-06
+ER
+
+PT J
+AU Hagaman, AK
+   Maharjan, U
+   Kohrt, BA
+AF Hagaman, Ashley K.
+   Maharjan, Uden
+   Kohrt, Brandon A.
+TI Suicide surveillance and health systems in Nepal: a qualitative and
+   social network analysis
+SO INTERNATIONAL JOURNAL OF MENTAL HEALTH SYSTEMS
+LA English
+DT Article
+DE Suicide; Vital surveillance; Health systems; Suicide detection; Nepal;
+   Developing countries; Law enforcement; Policy
+ID DEATH REPORTING SYSTEM; MENTAL-HEALTH; GLOBAL HEALTH;
+   DEVELOPING-COUNTRIES; TUBERCULOSIS-CONTROL; MORTALITY; VALIDITY;
+   PREVENTION; STIGMA; ETHNOPSYCHOLOGY
+AB Background: Despite increasing recognition of the high burden of suicide deaths in low-and middle-income countries, there is wide variability in the type and quality of data collected and reported for suspected suicide deaths. Suicide data are filtered through reporting systems shaped by social, cultural, legal, and medical institutions. Lack of systematic reporting may underestimate public health needs or contribute to misallocation of resources to groups most at risk.
+   Methods: The goal of this study was to explore how institutional structures, cultural perspectives on suicide, and perceived criminality of self-harm influence the type and quality of suicide statistics, using Nepal as an example because of its purported high rate of suicide in the public health literature. Official documentation and reporting networks drawn by police, policy makers, and health officials were analyzed. Thirty-six stakeholders involved in various levels of the death reporting systems in Nepal participated in in-depth interviews and an innovative drawn surveillance system elicitation task.
+   Results: Content analysis and social network analysis revealed large variation across the participants perceived networks, where some networks were linear pathways dominated by a single institution (police or community) with few nodes involved in data transmission, while others were complex and communicative. Network analysis demonstrated that police institutions controlled the majority of suicide information collection and reporting, whereas health and community institutions were only peripherally involved. Both health workers and policy makers reported that legal codes criminalizing suicide impaired documentation, reporting, and care provision. However, legal professionals and law review revealed that attempting suicide is not a crime punishable by incarceration. Another limitation of current reporting was the lack of attention to male suicide.
+   Conclusions: Establishment and implementation of national suicide prevention strategies will not be possible without reliable statistics and comprehensive standardized reporting practices. The case of Nepal points to the need for collaborative reporting and accountability shared between law enforcement, administrative, and health sectors. Awareness of legal codes among health workers, in particular dispelling myths of suicide's illegality, is crucial to improve mental health services and reporting practices.
+C1 [Hagaman, Ashley K.] Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ USA.
+   [Maharjan, Uden] Hlth Res & Social Dev Forum, Kathmandu, Nepal.
+   [Kohrt, Brandon A.] Duke Univ, Duke Global Hlth Inst, Durham, NC USA.
+   [Kohrt, Brandon A.] Duke Univ, Dept Psychiat & Behav Sci, Durham, NC USA.
+C3 Arizona State University; Arizona State University-Tempe; Duke
+   University; Duke University
+RP Hagaman, AK (corresponding author), Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ USA.
+EM hagamana@gmail.com
+OI Hagaman, Ashley/0000-0002-8016-1036
+FU U.S. National Science Foundation [1459811]; National Institute of Mental
+   Health [K01 MH104310]; Division Of Behavioral and Cognitive Sci; Direct
+   For Social, Behav & Economic Scie [1459811] Funding Source: National
+   Science Foundation
+FX The following research was supported by the U.S. National Science
+   Foundation Doctoral Dissertation Improvement Grant #1459811 to AKH. In
+   addition, BAK was supported by the National Institute of Mental Health
+   (K01 MH104310).
+NR 105
+TC 34
+Z9 36
+U1 0
+U2 21
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1752-4458
+J9 INT J MENT HEALTH SY
+JI Int. J. Ment. Health Syst.
+PD JUN 6
+PY 2016
+VL 10
+AR 46
+DI 10.1186/s13033-016-0073-7
+PG 19
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA DO2CK
+UT WOS:000377587000001
+PM 27274355
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Amiya, RM
+   Poudel, KC
+   Poudel-Tandukar, K
+   Kobayashi, J
+   Jimba, M
+AF Amiya, R. M.
+   Poudel, K. C.
+   Poudel-Tandukar, K.
+   Kobayashi, J.
+   Jimba, M.
+TI ANTIRETROVIRAL THERAPY AS A RISK FACTOR FOR DEPRESSION, SUICIDAL
+   IDEATION, AND SUICIDE ATTEMPTS AMONG PEOPLE LIVING WITH HIV/AIDS IN THE
+   KATHMANDU VALLEY, NEPAL
+SO SEXUALLY TRANSMITTED INFECTIONS
+LA English
+DT Meeting Abstract
+C1 [Amiya, R. M.; Jimba, M.] Univ Tokyo, Tokyo, Japan.
+   [Poudel, K. C.] Univ Massachusetts, Amherst, MA 01003 USA.
+   [Poudel-Tandukar, K.] Waseda Univ, Tokyo, Japan.
+   [Kobayashi, J.] Natl Ctr Global Hlth & Med, Tokyo, Japan.
+C3 University of Tokyo; University of Massachusetts System; University of
+   Massachusetts Amherst; Waseda University; National Center for Global
+   Health & Medicine - Japan
+RI Poudel, Krishna C./AFL-3641-2022; Jimba, Masamine/AAF-5630-2020
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 3
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1368-4973
+EI 1472-3263
+J9 SEX TRANSM INFECT
+JI Sex. Transm. Infect.
+PD JUL
+PY 2013
+VL 89
+SU 1
+MA P4.149
+BP A333
+EP A334
+DI 10.1136/sextrans-2013-051184.1044
+PG 2
+WC Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Infectious Diseases
+GA V40VR
+UT WOS:000209506600436
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Atreya, A
+   Kanchan, T
+AF Atreya, Alok
+   Kanchan, Tanuj
+TI Clinico-epidemiological study of near-hanging cases - An investigation
+   from Nepal
+SO JOURNAL OF FORENSIC AND LEGAL MEDICINE
+LA English
+DT Article
+DE Hanging; Near-hanging; Suicide; Nepal
+ID SELF-HARM; SUICIDE
+AB Hanging is one of the commonest methods of suicide. Epidemiological data of near-hanging patients from Nepal is limited. The present research from Nepal attempts to review the clinico-epidemiological profile of near-hanging patients. A retrospective review of case records was done for the near hanging patients admitted to a tertiary care teaching hospital in Nepal, between August 2012 and August 2014. Details regarding socio-demographic profile, circumstances of hanging, clinical details, and outcome etc. were obtained and examined. During the study period, 10 near hanging patients were admitted to the hospital. The majority of the patients were below 30 years. Mean age of the study group was 28.8 years. The GCS on arrival ranged between 5/15 and 15/15 with the mean GCS being 9.5/15. Hypoxic encephalopathy and cerebral edema were the only noted complications. None of the patient had a cervical spinal injury. All the patients survived the near hanging episode. The mean ICU and hospital stay were 3.9 days and 6.2 days respectively. Prompt resuscitation, active interventions and intensive care support favors a good prognosis. Psychiatric evaluation and support to the patients and their relatives is the key to preventing such attempts in future. (C) 2015 Elsevier Ltd and Faculty of Forensic and Legal Medicine. All rights reserved.
+C1 [Atreya, Alok] Manipal Teaching Hosp, Dept Forens Med, Pokhara, Nepal.
+   [Kanchan, Tanuj] Kasturba Med Coll & Hosp, Dept Forens Med, Mangalore, India.
+C3 Manipal Academy of Higher Education (MAHE); Kasturba Medical College,
+   Mangalore
+RP Kanchan, T (corresponding author), Kasturba Med Coll & Hosp, Dept Forens Med, Mangalore, India.
+EM tanujkanchan@yahoo.co.in
+RI KANCHAN, TANUJ/L-8547-2015; Atreya, Alok/ABD-4785-2020
+OI KANCHAN, TANUJ/0000-0003-0346-1075; Atreya, Alok/0000-0001-6657-7871
+NR 28
+TC 6
+Z9 6
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1752-928X
+EI 1532-2009
+J9 J FORENSIC LEG MED
+JI J. Forensic Leg. Med.
+PD JUL
+PY 2015
+VL 33
+BP 35
+EP 38
+DI 10.1016/j.jflm.2015.04.001
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Legal Medicine
+GA CJ7NF
+UT WOS:000355681900008
+PM 26048494
+DA 2023-12-06
+ER
+
+PT J
+AU Hagaman, AK
+   Khadka, S
+   Wutich, A
+   Lohani, S
+   Kohrt, BA
+AF Hagaman, Ashley K.
+   Khadka, Seema
+   Wutich, Amber
+   Lohani, Shyam
+   Kohrt, Brandon A.
+TI Suicide in Nepal: Qualitative Findings from a Modified Case-Series
+   Psychological Autopsy Investigation of Suicide Deaths
+SO CULTURE MEDICINE AND PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Low-income; Psychological Autopsy; Depression; Nepal
+ID RISK-FACTORS; PREVENTION STRATEGIES; ADOLESCENT SUICIDE; FARMERS
+   SUICIDES; MENTAL-ILLNESS; BEHAVIOR; GENDER; HEALTH; INTERVIEWS; ALCOHOL
+AB South Asia accounts for the majority of the world's suicide deaths, but typical psychiatric or surveillance-based research approaches are limited due to incomplete vital surveillance. Despite rich anthropological scholarship in the region, such work has not been used to address public health gaps in surveillance and nor inform prevention programs designed based on surveillance data. Our goal was to leverage useful strategies from both public health and anthropological approaches to provide rich narrative reconstructions of suicide events, told by family members or loved ones of the deceased, to further contextualize the circumstances of suicide. Specifically, we sought to untangle socio-cultural and structural patterns in suicide cases to better inform systems-level surveillance strategies and salient community-level suicide prevention opportunities. Using a mixed-methods psychological autopsy approach for cross-cultural research (MPAC) in both urban and rural Nepal, 39 suicide deaths were examined. MPAC was used to document antecedent events, characteristics of persons completing suicide, and perceived drivers of each suicide. Patterns across suicide cases include (1) lack of education (72% of cases); (2) life stressors such as poverty (54%), violence (61.1%), migrant labor (33% of men), and family disputes often resulting in isolation or shame (56.4%); (3) family histories of suicidal behavior (62%), with the majority involving an immediate family member; (4) gender differences: female suicides were attributed to hopeless situations, such as spousal abuse, with high degrees of social stigma. In contrast, male suicides were most commonly associated with drinking and resulted from internalized stigma, such as financial failure or an inability to provide for their family; (5) justifications for suicide were attributions to 'fate' and personality characteristics such as 'stubbornness' and 'egoism'; (5) power dynamics and available agency precluded some families from disputing the death as a suicide and also had implications for the condemnation or justification of particular suicides. Importantly, only 1 out of 3 men and 1 out of 6 women had any communication to family members about suicidal ideation prior to completion. Findings illustrate the importance of MPAC methods for capturing cultural narratives evoked after completed suicides, recognizing culturally salient warning signs, and identifying potential barriers to disclosure and justice seeking by families. These findings elucidate how suicide narratives are structured by family members and reveal public health opportunities for creating or supplementing mortality surveillance, intervening in higher risk populations such as survivors of suicide, and encouraging disclosure.
+C1 [Hagaman, Ashley K.] Univ North Carolina Chapel Hill, Carolina Populat Ctr, 123 W Franklin St, Chapel Hill, NC 27516 USA.
+   [Khadka, Seema] Transcultural Psychosocial Org Nepal, Res Dept, Kathmandu, Nepal.
+   [Wutich, Amber] Arizona State Univ, Sch Human Evolut & Social Change, Tempe, AZ USA.
+   [Lohani, Shyam] Pokhara Univ, Nobel Coll, Kathmandu, Nepal.
+   [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat, Washington, DC USA.
+C3 University of North Carolina; University of North Carolina Chapel Hill;
+   University of North Carolina School of Medicine; Arizona State
+   University; Arizona State University-Tempe; George Washington University
+RP Hagaman, AK (corresponding author), Univ North Carolina Chapel Hill, Carolina Populat Ctr, 123 W Franklin St, Chapel Hill, NC 27516 USA.
+EM hagamana@gmail.com
+OI Hagaman, Ashley/0000-0002-8016-1036; Khadka, Seema/0000-0002-3189-5957
+FU Nepal Health Research Council; US Fulbright Student Research Program
+   [1459811]; National Science Foundation Cultural Anthropology Doctoral
+   Dissertation Research Improvement Grant [1459811]; Carolina Population
+   Center [T32 HD007168, P2C HD050924]; U.S. National Institute of Mental
+   Health [K01MH104310]; NIH/NICHD [T32 HD007168, P2C HD050924]; Direct For
+   Social, Behav & Economic Scie; Division Of Behavioral and Cognitive Sci
+   [1459811] Funding Source: National Science Foundation
+FX The authors are deeply grateful for the valuable support and mentorship
+   of Transcultural Psychosocial Organization (TPO) Nepal, particularly Mr.
+   Nanda Raj Acharya, Mr. Safar Bikram Adhikari, Mr. Nagendra Luitel, and
+   Mr. Suraj Koirala. We are also gracious for the assistance of Jumla
+   District and Kathmandu District police officers as well as Action Works
+   Nepal staff and community leaders. We appreciate the support of the
+   Nepal Health Research Council. AH was supported by US Fulbright Student
+   Research Program and the National Science Foundation Cultural
+   Anthropology Doctoral Dissertation Research Improvement Grant [Award
+   1459811]. We are grateful to the Carolina Population Center and
+   NIH/NICHD for training support (T32 HD007168) and for general support
+   (P2C HD050924). BAK receives salary support from the U.S. National
+   Institute of Mental Health [K01MH104310].
+NR 111
+TC 9
+Z9 9
+U1 0
+U2 33
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0165-005X
+EI 1573-076X
+J9 CULT MED PSYCHIAT
+JI Cult. Med. Psychiatr.
+PD SEP
+PY 2018
+VL 42
+IS 3
+BP 704
+EP 734
+DI 10.1007/s11013-018-9585-8
+PG 31
+WC Anthropology; Psychiatry; Social Sciences, Biomedical
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry; Biomedical Social Sciences
+GA GR2VU
+UT WOS:000442444100012
+PM 29881930
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Bhardwaj, A
+   Bourey, C
+   Rai, S
+   Adhikari, RP
+   Worthman, CM
+   Kohrt, BA
+AF Bhardwaj, Anvita
+   Bourey, Christine
+   Rai, Sauharda
+   Adhikari, Ramesh Prasad
+   Worthman, Carol M.
+   Kohrt, Brandon A.
+TI Interpersonal violence and suicidality among former child soldiers and
+   war-exposed civilian children in Nepal
+SO GLOBAL MENTAL HEALTH
+LA English
+DT Article
+DE Armed conflict; child soldiers; interpersonal violence; sexual violence;
+   suicide
+ID INTIMATE PARTNER VIOLENCE; POSTTRAUMATIC-STRESS-DISORDER; MENTAL-HEALTH;
+   SOCIAL ECOLOGY; RISK-FACTORS; PSYCHOLOGICAL DISTRESS; DATING VIOLENCE;
+   WOMENS HEALTH; SYMPTOMS; BEHAVIOR
+AB Background. Suicide risk reduction is crucial for 15-29-year-old youth, who account for 46% of suicide deaths in low-and middle-income countries. Suicide predictors in high-resource settings, specifically depression, do not adequately predict suicidality in these settings. We explored if interpersonal violence (IPV) was associated with suicidality, independent of depression, in Nepal.
+   Methods. A longitudinal cohort of child soldiers and matched civilian children, enrolled in 2007 after the People's War in Nepal, were re-interviewed in 2012. The Depression Self-Rating Scale and Composite International Diagnostic Interview assessed depression and suicidality, respectively. Non-verbal response cards were used to capture experiences of sexual and physical IPV.
+   Results. One of five participants (19%) reported any lifetime suicidal ideation, which was associated with sexual IPV, female gender, former child soldier status and lack of support from teachers. Among young men, the relationship between sexual IPV and suicidality was explained by depression, and teacher support reduced suicidality. Among young women, sexual IPV was associated with suicidality, independent of depression; child soldier status increased suicidality, and teacher support decreased suicidality. Suicide plans were associated with sexual IPV but not with depression. One of 11 female former child soldiers (9%) had attempted suicide.
+   Conclusion. Sexual IPV is associated with suicidal ideation and plans among conflict-affected young women, independent of depression. Reducing suicide risk among women should include screening, care, and prevention programs for sexual IPV. Programs involving teachers may be particularly impactful for reducing suicidality among IPV survivors.
+C1 [Bhardwaj, Anvita; Rai, Sauharda; Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, 2120 L St NW,Suite 600, Washington, DC 20037 USA.
+   [Bourey, Christine] Legacy Hlth, Psychiat Consultat Liaison Serv, Portland, OR USA.
+   [Rai, Sauharda; Adhikari, Ramesh Prasad; Kohrt, Brandon A.] TPO Nepal, Kathmandu, Nepal.
+   [Worthman, Carol M.] Emory Univ, Dept Anthropol, Atlanta, GA 30322 USA.
+C3 George Washington University; Legacy Health; Emory University
+RP Kohrt, BA (corresponding author), George Washington Univ, Sch Med, Dept Psychiat, 2120 L St NW,Suite 600, Washington, DC 20037 USA.
+EM bkohrt@gwu.edu
+RI Rai, Sauharda/JOZ-3313-2023
+OI Rai, Sauharda/0000-0002-9393-1466; Adhikari, Ramesh
+   Prasad/0000-0002-0896-2074; Worthman, Carol M/0000-0002-5397-2298
+FU Hope Lab; Emory University Center for Ethics Noether Fellowship; U.S.
+   National Institutes of Health [F31 MH075584]; UNICEF Nepal
+FX The research was funded by Hope Lab (http://www.hopelab.org, Redwood
+   City, California; Principal Investigators: Carol Worthman and Brandon
+   Kohrt), and the Emory University Center for Ethics Noether Fellowship
+   (Fellow: Christine Bourey). Participants in the study were originally
+   enrolled through research supported by the U.S. National Institutes of
+   Health (F31 MH075584) and UNICEF Nepal.
+NR 62
+TC 15
+Z9 15
+U1 0
+U2 14
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 2054-4251
+J9 GLOB MENT HEALTH
+JI Glob. Ment. Health
+PD FEB 22
+PY 2018
+VL 5
+AR e9
+DI 10.1017/gmh.2017.31
+PG 14
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Psychiatry
+GA FX5PB
+UT WOS:000426131000001
+PM 29507745
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Kohlbrenner, V
+   Deuba, K
+   Karki, DK
+   Marrone, G
+AF Kohlbrenner, Verena
+   Deuba, Keshab
+   Karki, Deepak Kumar
+   Marrone, Gaetano
+TI Perceived Discrimination Is an Independent Risk Factor for Suicidal
+   Ideation among Sexual and Gender Minorities in Nepal
+SO PLOS ONE
+LA English
+DT Article
+ID MENTAL-HEALTH; GAY; ORIENTATION; EXPERIENCES; PREVALENCE; STIGMA; RACISM
+AB Sexual and gender minorities experience an elevated burden of suicidality compared with the general population. Still, little is known about that burden and the factors generating it in the context of low-and middle-income countries. The present study assessed the prevalence of suicidal ideation, planned suicide, and attempted suicide among men who have sex with men (MSM) and transgender people (TG) in Nepal, and examined the association of perceived discrimination on the basis of sexual orientation with suicidal ideation and with attempted suicide. Data were obtained from a surveillance survey among MSM and TG in Nepal in 2012. A sample of 400 MSM and TG, recruited using respondent-driven sampling, completed a structured face-to-face interview. Throughout their lifetime, 26.8% of the participants had experienced suicidal ideation, 12.0% had made a suicide plan, and 9.0% had attempted suicide. In particular, more TG than MSM had experienced suicidal ideation (39.8% vs. 21.3%), had made a suicide plan (19.5% vs. 8.9%), and had attempted suicide (15.3% vs. 6.4%). Overall, the odds of having experienced suicidal ideation was significantly higher among the 38.3% of participants who had perceived discrimination based on their sexual orientation (AOR: 3.17; 95% CI: 1.83-5.48). Moreover, the odds of suicidal ideation was significantly higher as the extent of perceived discrimination increased (AOR: 1.35; 95% CI: 1.15-1.60). However, the odds of attempted suicide was not significantly associated with perceived discrimination (AOR: 1.40; 95% CI: 0.62-3.15). The findings highlight perceived discrimination as an independent risk factor for suicidal ideation. Future suicide prevention programs should target sexual and gender minorities and include elements focusing on discrimination.
+C1 [Kohlbrenner, Verena] Karolinska Inst, Stockholm, Sweden.
+   [Deuba, Keshab] Publ Hlth & Environm Res Ctr, Kathmandu, Nepal.
+   [Deuba, Keshab; Marrone, Gaetano] Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+   [Karki, Deepak Kumar] Pokhara Univ, Dept Hlth Sci, Nobel Coll, Kathmandu, Nepal.
+   [Marrone, Gaetano] Karolinska Hosp, Dept Infect Dis, Stockholm, Sweden.
+C3 Karolinska Institutet; Karolinska Institutet; Karolinska Institutet;
+   Karolinska University Hospital
+RP Deuba, K (corresponding author), Publ Hlth & Environm Res Ctr, Kathmandu, Nepal.; Deuba, K (corresponding author), Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+EM deuba4k@gmail.com
+OI Karki, Deepak Kumar/0000-0002-0392-6592; Marrone,
+   Gaetano/0000-0002-2991-1663; Deuba, Keshab/0000-0002-9933-2210
+FU Global Fund to Fight AIDS, Tuberculosis and Malaria (GFATM)
+FX All the IBBS survey related activities were funded by The Global Fund to
+   Fight AIDS, Tuberculosis and Malaria (GFATM). The funder had no role in
+   study design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 44
+TC 21
+Z9 23
+U1 0
+U2 19
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 20
+PY 2016
+VL 11
+IS 7
+AR e0159359
+DI 10.1371/journal.pone.0159359
+PG 15
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA DR8TL
+UT WOS:000380170100037
+PM 27437996
+OA Green Published, gold, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Pyakurel, R
+   Sharma, N
+   Paudel, D
+   Coghill, A
+   Sinden, L
+   Bost, L
+   Larkin, M
+   Burrus, CJ
+   Roy, K
+AF Pyakurel, Ram
+   Sharma, Nirmala
+   Paudel, Deepak
+   Coghill, Anna
+   Sinden, Laura
+   Bost, Liberty
+   Larkin, Melissa
+   Burrus, Carla Jean
+   Roy, Khrist
+TI Cause of Death in Women of Reproductive Age in Rural Nepal Obtained
+   Through Community-Based Surveillance: Is Reducing Maternal Mortality the
+   Right Priority for Women's Health Programs?
+SO HEALTH CARE FOR WOMEN INTERNATIONAL
+LA English
+DT Article
+ID COUNTRIES; SUICIDES; PAKISTAN; CONTEXT; IMPACT; INDIA
+AB We used a community surveillance system to gather information regarding pregnancy outcomes and the cause of death for women of reproductive age (WRA) in Kanchanpur, Nepal. A total of 784 mother groups participated in the collection of pregnancy outcomes and mortality data. Of the 273 deaths among WRA, the leading causes of death reported were chronic diseases (94, 34.4%) poisoning, snake bites, and suicide (grouped together; 55, 20.1%), and accidents (29, 10.6%), while maternal mortality accounted for 7%. Nevertheless, the calculated maternal mortality ratio was quite high (259.3 per 100,000 live births).
+C1 [Pyakurel, Ram; Sharma, Nirmala; Paudel, Deepak] CARE Nepal, Kanchanpur, Nepal.
+   [Coghill, Anna; Sinden, Laura; Bost, Liberty; Larkin, Melissa; Burrus, Carla Jean; Roy, Khrist] CARE USA, Atlanta, GA 30303 USA.
+RP Roy, K (corresponding author), CARE USA, 151 Ellis St NE, Atlanta, GA 30303 USA.
+EM kroy@care.org
+NR 15
+TC 9
+Z9 9
+U1 0
+U2 15
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0739-9332
+EI 1096-4665
+J9 HEALTH CARE WOMEN IN
+JI Health Care Women Int.
+PD JUN 3
+PY 2015
+VL 36
+IS 6
+BP 655
+EP 662
+DI 10.1080/07399332.2014.908193
+PG 8
+WC Public, Environmental & Occupational Health; Women's Studies
+WE Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health; Women's Studies
+GA CI2XO
+UT WOS:000354611600003
+PM 24690028
+DA 2023-12-06
+ER
+
+PT J
+AU Subba, SH
+   Binu, VS
+   Menezes, RG
+   Kanchan, T
+   Arun, M
+   Patil, R
+   Pant, S
+   Saha, A
+   De, A
+   Rana, MS
+AF Subba, Sonu H.
+   Binu, Valsalakumari S.
+   Menezes, Ritesh G.
+   Kanchan, Tanuj
+   Arun, Mohanram
+   Patil, Rajkumar
+   Pant, Sadip
+   Saha, Archana
+   De, Asis
+   Rana, Manu S.
+TI Pattern and Trend of Deliberate Self-Harm in Western Nepal
+SO JOURNAL OF FORENSIC SCIENCES
+LA English
+DT Article
+DE forensic science; deliberate self-harm; attempted suicide; Nepal;
+   poisoning; hanging; pesticides; organophosphates
+ID SUICIDE ATTEMPTS; INFLICTED BURNS; PESTICIDES; GENDER; AGE
+AB Acts of deliberate self-harm (DSH) not only affect the people directly involved, but also have grave psychological and social impact on the family and community. In the present study, a cohort of 173 cases of DSH reported from April 2002 to March 2005 was retrospectively analyzed, by perusing the medicolegal register maintained by the Emergency Department at the Western Regional Hospital, Pokhara in the Western Development Region of Nepal. The data were entered and analyzed using SPSS Version 10.1. More than two-thirds of total cases were females. About 60% of cases were observed in the age group of 15-24 years. Poisoning (89.6%) was the most preferred method of deliberate self-harm. Organophosphate pesticides were consumed in nearly two-thirds of the poisoning cases. The majority of cases were reported during the months of May to July and had occurred during the last quarter of the day. More than a twofold increase was observed in the frequency of cases during the 3-year study period. The said observations were compared and contrasted with the available literature across the globe. The presentation is concluded by highlighting the limitations encountered in Nepal and the scope to overcome the same.
+C1 [Menezes, Ritesh G.; Kanchan, Tanuj] Kasturba Med Coll & Hosp, Dept Forens Med & Toxicol, Mangalore, India.
+   [Binu, Valsalakumari S.] Manipal Univ, Dept Stat, Manipal, India.
+   [Subba, Sonu H.; Patil, Rajkumar] Aarupadai Veeru Med Coll, Dept Community Med, Pondicherry, India.
+   [Arun, Mohanram] Kasturba Med Coll & Hosp, Dept Forens Med & Toxicol, Manipal, Karnataka, India.
+   [Saha, Archana] Manipal Coll Med Sci, Dept Pharmacol, Pokhara, Nepal.
+   [De, Asis; Rana, Manu S.] Manipal Coll Med Sci, Dept Community Med, Pokhara, Nepal.
+C3 Manipal Academy of Higher Education (MAHE); Kasturba Medical College,
+   Mangalore; Manipal Academy of Higher Education (MAHE); Vinayaka
+   Mission's Research Foundation; Manipal Academy of Higher Education
+   (MAHE); Kasturba Medical College, Manipal
+RP Menezes, RG (corresponding author), Kasturba Med Coll & Hosp, Dept Forens Med & Toxicol, Mangalore, India.
+EM mangalore971@yahoo.co.in
+RI KANCHAN, TANUJ/L-8547-2015; S, BINU V/H-5723-2019; Patil,
+   Rajkumar/JDN-0217-2023; Menezes, Ritesh G/A-7480-2015
+OI KANCHAN, TANUJ/0000-0003-0346-1075; S, BINU V/0000-0002-1159-6933;
+   Menezes, Ritesh G/0000-0002-2135-4161; M, Arun/0000-0002-9571-692X
+NR 28
+TC 15
+Z9 17
+U1 1
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1198
+EI 1556-4029
+J9 J FORENSIC SCI
+JI J. Forensic Sci.
+PD MAY
+PY 2009
+VL 54
+IS 3
+BP 704
+EP 707
+DI 10.1111/j.1556-4029.2009.01040.x
+PG 4
+WC Medicine, Legal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine
+GA 436JJ
+UT WOS:000265410100036
+PM 19368624
+DA 2023-12-06
+ER
+
+PT J
+AU Gyenwali, D
+   Vaidya, A
+   Tiwari, S
+   Khatiwada, P
+   Lamsal, DR
+   Giri, S
+AF Gyenwali, Deepak
+   Vaidya, Abhinav
+   Tiwari, Sundar
+   Khatiwada, Prakash
+   Lamsal, Daya Ram
+   Giri, Shrikrishana
+TI Pesticide poisoning in Chitwan, Nepal: a descriptive epidemiological
+   study
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+DE Organophosphates; Pesticides exposure; Pesticides; Poisoning; Suicides
+ID RISK-FACTORS; SUICIDE; EXPOSURE; FARMERS
+AB Background: Globally, there is a growing concern over pesticides use, which has been linked to self-harm and suicide. However, there is paucity of research on the epidemiology of pesticides poisoning in Nepal. This study is aimed at assessing epidemiological features of pesticides poisoning among hospital-admitted cases in selected hospitals of Chitwan District of Nepal.
+   Methods: A hospital-based quantitative study was carried out in four major hospitals of Chitwan District. Information on all pesticides poisoning cases between April 1 and December 31, 2015, was recorded by using a Pesticides Exposure Record (PER) form.
+   Results: A total of 439 acute pesticides poisoning cases from 12 districts including Chitwan and adjoining districts attended the hospitals during the 9-month-long study period. A majority of the poisoned subjects deliberately used pesticides (89.5%) for attempted suicide. The total incidence rate was 62.67/100000 population per year. Higher annual incidence rates were found among young adults (111.66/100000 population), women (77.53/100000 population) and individuals from Dalit ethnic groups (98.22/100000 population). Pesticides responsible for poisoning were mostly insecticides (58.0%) and rodenticides (20.8%). The most used chemicals were organophosphates (37.3%) and pyrethroids (36.7%). Of the total cases, 98.6% were hospitalized, with intensive care required for 41.3%. The case fatality rate among admitted cases was 3.8%.
+   Conclusions: This study has indicated that young adults, females and socially disadvantaged ethnic groups are at a higher risk of pesticides poisoning. Pesticides are mostly misused intentionally as an easy means for committing suicide. It is recommended that the supply of pesticides be properly regulated to prevent easy accessibility and misuse. A population-based study is warranted to reveal the actual problem of pesticides exposure and intoxication in the community.
+C1 [Gyenwali, Deepak] Nepal Publ Hlth Fdn, Farming Hlth & Environm Nepal Project, Kathmandu, Nepal.
+   [Vaidya, Abhinav] Kathmandu Med Coll, Dept Community Med, Kathmandu, Nepal.
+   [Tiwari, Sundar] Agr & Forestry Univ, Dept Entomol, Rampur, Chitwan, Nepal.
+   [Khatiwada, Prakash] Bharatpur Hosp, Bharatpur, Chitwan, Nepal.
+   [Lamsal, Daya Ram] Teaching Hosp, Chitwan Med Coll, Chitwan, Nepal.
+   [Giri, Shrikrishana] Natl Acad Med Sci, Bir Hosp, Kathmandu, Nepal.
+RP Gyenwali, D (corresponding author), Nepal Publ Hlth Fdn, Farming Hlth & Environm Nepal Project, Kathmandu, Nepal.
+EM deepaknu@gmail.com
+RI Tiwari, Sundar/Q-8516-2019
+OI Tiwari, Sundar/0000-0002-6946-9814; Gyenwali, Deepak/0000-0001-7322-461X
+FU Civil Society in Development (CISU), Denmark
+FX This research was a component of Farming, Health and Environment
+   Nepal-2013/15 project which was funded by Civil Society in Development
+   (CISU), Denmark. This manuscript was written through individual
+   contributions of the authors.
+NR 37
+TC 19
+Z9 20
+U1 1
+U2 6
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JUL 3
+PY 2017
+VL 17
+AR 619
+DI 10.1186/s12889-017-4542-y
+PG 8
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA FB0YP
+UT WOS:000405871200005
+PM 28673345
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ramaiya, MK
+   Fiorillo, D
+   Regmi, U
+   Robins, CJ
+   Kohrt, BA
+AF Ramaiya, Megan K.
+   Fiorillo, Devika
+   Regmi, Upasana
+   Robins, Clive J.
+   Kohrt, Brandon A.
+TI A Cultural Adaptation of Dialectical Behavior Therapy in Nepal
+SO COGNITIVE AND BEHAVIORAL PRACTICE
+LA English
+DT Article
+DE Dialectical behavior therapy; suicide; cultural adaptation; Nepal;
+   global mental health
+ID RANDOMIZED CONTROLLED-TRIAL; BORDERLINE PERSONALITY-DISORDER;
+   MIDDLE-INCOME COUNTRIES; MENTAL-HEALTH; ANXIETY DISORDERS;
+   ASIAN-AMERICANS; RURAL UGANDA; PSYCHOTHERAPY; INTERVENTION; DEPRESSION
+AB Growing evidence exists on the potential for adapting evidence-based interventions for low- and-middle-income countries (LMIC). One opportunity that has received limited attention is the adaptation of psychotherapies developed in high-income countries (HIC) based on principles from LMIC cultural groups. Dialectical behavior therapy (DBT) is one such treatment with significant potential for acceptability in South Asian settings with high suicide rates. We describe a tri-phasic approach to adapt DBT in Nepal that consists of qualitative interviews with major Nepali mental health stakeholders (Study 1), an adaptation workshop with 15 Nepali counselors (Study 2), and a small-scale treatment pilot with eligible clients in one rural district (Study 3). Due to low literacy levels, distinct conceptualizations of mind and body, and program adherence barriers, numerous adaptations were required. DBT concepts attributable to Asian belief systems were least comprehensible to clients. However, the 82% program completion rate suggests utility of a structured, skills-based treatment. This adaptation process informs future research regarding the effectiveness of culturally adapted DBT in South Asia.
+C1 [Ramaiya, Megan K.; Kohrt, Brandon A.] Duke Global Hlth Inst, Durham, NC USA.
+   [Ramaiya, Megan K.] Univ Washington, Seattle, WA 98195 USA.
+   [Fiorillo, Devika] Emory Univ, Atlanta, GA 30322 USA.
+   [Regmi, Upasana] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Robins, Clive J.; Kohrt, Brandon A.] Duke Univ, Durham, NC 27706 USA.
+C3 Duke University; University of Washington; University of Washington
+   Seattle; Emory University; Duke University
+RP Ramaiya, MK (corresponding author), Univ Washington, Dept Psychol, Box 351525, Seattle, WA 98195 USA.
+EM mramaiya@uw.edu
+FU Duke Global Health Institute and Duke University Center for
+   International Studies; National Institute of Mental Health [K01MH104310]
+FX This research was supported by grants from Duke Global Health Institute
+   and Duke University Center for International Studies (to MKR). The
+   senior author (BAK) receives salary support from the National Institute
+   of Mental Health (K01MH104310).
+NR 52
+TC 31
+Z9 34
+U1 3
+U2 17
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1077-7229
+EI 1878-187X
+J9 COGN BEHAV PRACT
+JI Cogn. Behav. Pract.
+PD NOV
+PY 2017
+VL 24
+IS 4
+BP 428
+EP 444
+DI 10.1016/j.cbpra.2016.12.005
+PG 17
+WC Psychology, Clinical
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA FK6LE
+UT WOS:000413614400006
+PM 29056846
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Regmi, PR
+   van Teijlingen, E
+AF Regmi, Pramod R.
+   van Teijlingen, Edwin
+TI Importance of Health and Social Care Research into Gender and Sexual
+   Minority Populations in Nepal
+SO ASIA-PACIFIC JOURNAL OF PUBLIC HEALTH
+LA English
+DT Editorial Material
+DE gender and sexual minority; stigma; LGBT; culture; South Asia
+ID EXPERIENCES; WOMEN; MEN; GAY
+AB Despite progressive legislative developments and increased visibility of sexual and gender minority populations in the general population, mass media often report that this population face a wide range of discrimination and inequalities. LGBT (lesbian, gay, and bisexual, and transgender) populations have not been considered as priority research populations in Nepal. Research in other geographical settings has shown an increased risk of poor mental health, violence, and suicide and higher rates of smoking, as well as alcohol and drugs use among LGBT populations. They are also risk for lifestyle-related illness such as cancer, diabetes, and heart diseases. Currently, in Nepal, there is a lack of understanding of health and well-being, social exclusion, stigma, and discrimination as experienced by these populations. Good-quality public health research can help design and implement targeted interventions to the sexual and gender minority populations of Nepal.
+C1 [Regmi, Pramod R.; van Teijlingen, Edwin] Bournemouth Univ, Bournemouth BH1 3LT, Dorset, England.
+C3 Bournemouth University
+RP Regmi, PR (corresponding author), Bournemouth Univ, Fac Hlth & Social Sci, 19 Christchurch Rd, Bournemouth BH1 3LT, Dorset, England.
+EM pregmi@bournemouth.ac.uk
+RI van Teijlingen, Edwin R/A-3727-2010
+OI van Teijlingen, Edwin R/0000-0001-5523-8583; Regmi, Pramod
+   Raj/0000-0003-0226-3894
+NR 22
+TC 10
+Z9 10
+U1 0
+U2 25
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1010-5395
+EI 1941-2479
+J9 ASIA-PAC J PUBLIC HE
+JI Asia-Pac. J. Public Health
+PD NOV
+PY 2015
+VL 27
+IS 8
+BP 806
+EP 808
+DI 10.1177/1010539515613413
+PG 3
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA CW1HU
+UT WOS:000364741200002
+PM 26543163
+OA Bronze, Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Jordans, MJD
+   Kaufman, A
+   Brenman, NF
+   Adhikari, RP
+   Luitel, NP
+   Tol, WA
+   Komproe, I
+AF Jordans, Mark J. D.
+   Kaufman, Anne
+   Brenman, Natassia F.
+   Adhikari, Ramesh P.
+   Luitel, Nagendra P.
+   Tol, Wietse A.
+   Komproe, Ivan
+TI Suicide in South Asia: a scoping review
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Suicide; Review; South Asia; Scoping
+ID KANIYAMBADI BLOCK; TAMIL-NADU; SELF-HARM; RATES; INDIA; EPIDEMIOLOGY;
+   MORTALITY; DEATH; BANGLADESH; INJURY
+AB Background: Globally, suicide is an important cause of mortality. In low- and middle income settings, it is difficult to find unequivocal data to establish suicide rates. The objective of this review is to synthesize the reporting of suicide incidence in six south Asian countries.
+   Methods: We conducted a scoping review combining peer-reviewed studies (PubMed, PsycINFO, EMBASE) with in-country searches for grey literature in Afghanistan, Pakistan, Sri Lanka, India, Nepal and Bangladesh. The review included mapping reported suicide rates, quality appraisals of the studies, use of definitions of suicide and means of committing suicide.
+   Results: In total, 114 studies and reports were included in the review, including 50 peer-reviewed publications. Reported suicide rates varied widely from 0.43/100,000 to 331.0/100,000. The average suicide rate across studies was found to be high compared to the world average, however many studies were of poor quality or not representative. The majority of studies failed to explicitly define suicide (84% of the published articles and 92% of the grey literature documents). Poisoning and hanging were consistently the most common methods of committing suicide on the sub-continent.
+   Conclusions: The reported suicide rates in South Asia are high compared to the global average, but there is a paucity of reliable data on suicide rates in South Asia. Reports are likely to diminish rather than exaggerate the magnitude of suicide rates. There is an urgent need to establish new, or evaluate existing, national suicide surveillance systems in the South Asian countries.
+RP Adhikari, RP (corresponding author), Transcultural Psychosocial Org TPO Nepal, Res Dept, GPO Box 8974-CPC Box 612, Kathmandu, Nepal.
+EM radhikari@tponepal.org.np
+RI Komproe, Ivan/AAJ-8699-2021; Tol, Wietse A/G-8587-2013
+OI Tol, Wietse A/0000-0003-2216-0526; Adhikari, Ramesh
+   Prasad/0000-0002-0896-2074; Jordans, Mark/0000-0001-5925-8039; Komproe,
+   Ivan/0000-0001-8084-8519; Brenman, Natassia/0000-0002-6567-2129
+FU DFID's South Asia Research Hub
+FX We would like to thank the members of our Research Advisory Group, Dr.
+   Arzu Deuba, Dr. Murad Khan, Professor Atif Rahman and Dr. Athula
+   Sumathipala, as well as the external reviewers, Daniela Fuhr (London
+   School of Hygiene and Tropical Medicine), and Joanna Teuton (NHS
+   Scotland), for their support and review of the search protocol. We also
+   want to thank the consultants for in-country data-collection, Dr.
+   Hamdard Naqibullah (Afghanistan), Dr. Nafisa Huq (Bangladesh), Ms. Mona
+   Sharma (India), Dr. Jamil Ahmed (Pakistan), and Dr. Tom Widger (Sri
+   Lanka). This research was done with financial support from DFID's South
+   Asia Research Hub, for which we are thankful. The funding agency had no
+   role in the collection, analysis and interpretation of the data; in the
+   writing of the manuscript and the decision to submit the manuscript for
+   publication.
+NR 65
+TC 48
+Z9 53
+U1 1
+U2 14
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD DEC 24
+PY 2014
+VL 14
+AR 358
+DI 10.1186/s12888-014-0358-9
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA AZ3WT
+UT WOS:000348155300001
+PM 25539951
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Vijayakumar, L
+   John, S
+AF Vijayakumar, Lakshmi
+   John, Sujit
+TI Is Hinduism ambivalent about suicide?
+SO INTERNATIONAL JOURNAL OF SOCIAL PSYCHIATRY
+LA English
+DT Article
+DE Hinduism; suicide; religion; India
+AB Background: Hinduism is one of the oldest religions in the world and has over 1.1billion adherents comprising about 16% of the global population living mainly in India and Nepal. The stand of Hinduism on suicide has been ambiguous through the ages, on one hand, condemning general suicides, while condoning religious suicides on the other. This ambiguity is reflected in contemporary India and among the Indian diaspora.
+   Aims: To examine the stand of Hinduism as a religion in the context of suicide.
+   Method: A selected review of literature covering the major Hindu religious texts, cultural practices and suicide.
+   Results: People who follow Hinduism have a suicide rate of about 21 per 100,000 population compared to the global average of 11.4. Hindu countries have higher rates of suicide compared to Islamic and Christian countries, but these rates are lower when compared to Atheist and Buddhist countries. This is reflected in the Indian diaspora as well with reports from Fiji, the Caribbean, Malaysia and the United Kingdom, indicating that suicide was disproportionately high among those of Indian origin. However, a strong faith in Hinduism acts as protective factor. The Hindu belief in karma fosters a sense of acceptance of the vicissitudes of life with equanimity, and the belief in the cycle of births and deaths renders suicide meaningless, as one's soul continues after death. Their religious beliefs makes the Hindus tolerate and accept hardships and calamities stoically.
+   Conclusion: In certain situations, the Hindu religion acts as a protective factor, whereas at other times, it may increase the risk of suicide. It is important to understand these different nuances in the Hindu religion in formulating a culturally appropriate suicide prevention strategy.
+C1 [Vijayakumar, Lakshmi] Voluntary Hlth Serv Chennai, Madras, Tamil Nadu, India.
+   [Vijayakumar, Lakshmi] Sneha Suicide Prevent Ctr, 11 Pk View Rd, Madras 600028, Tamil Nadu, India.
+   [Vijayakumar, Lakshmi] Univ Melbourne, Melbourne, Vic, Australia.
+   [Vijayakumar, Lakshmi] Griffith Univ, Nathan, Qld, Australia.
+   [John, Sujit] Schizophrenia Res Fdn, Madras, Tamil Nadu, India.
+C3 University of Melbourne; Griffith University
+RP Vijayakumar, L (corresponding author), Sneha Suicide Prevent Ctr, 11 Pk View Rd, Madras 600028, Tamil Nadu, India.
+EM lakshmi@vijayakumars.com
+OI John, Sujit/0000-0001-7157-3533
+NR 22
+TC 4
+Z9 4
+U1 0
+U2 9
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0020-7640
+EI 1741-2854
+J9 INT J SOC PSYCHIATR
+JI Int. J. Soc. Psychiatr.
+PD AUG
+PY 2018
+VL 64
+IS 5
+BP 443
+EP 449
+DI 10.1177/0020764018777523
+PG 7
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GO5DU
+UT WOS:000440039300005
+PM 29783869
+DA 2023-12-06
+ER
+
+PT J
+AU Pandey, AR
+   Bista, B
+   Dhungana, RR
+   Aryal, KK
+   Chalise, B
+   Dhimal, M
+AF Pandey, Achyut Raj
+   Bista, Bihungum
+   Dhungana, Raja Ram
+   Aryal, Krishna Kumar
+   Chalise, Binaya
+   Dhimal, Meghnath
+TI Factors associated with suicidal ideation and suicidal attempts among
+   adolescent students in Nepal: Findings from Global School-based Students
+   Health Survey
+SO PLOS ONE
+LA English
+DT Article
+ID CIGARETTE-SMOKING; SELF-HARM; DEPRESSION; COLLEGE
+AB Introduction
+   Suicide has been recognized as a major public health problem with high burden in low and middle income countries. Suicide has long lasting psychological trauma on friends and relatives in addition to loss of economic productivity. Although the need of high quality evidence is essential for designing suicide prevention program, Nepal lacks reliable evidence from nationally representative data. This study aimed to estimate the prevalence of suicidal ideation and attempt among adolescent students and identify the factors associated with them.
+   Materials and methods
+   Total of 6,531 students of grade 7 to 11 from 74 schools representing all three ecological belts and five development regions participated in this cross sectional study. To select the representative sample from study population, two stage cluster sampling method was used. Standardized self-administered questionnaire were completed by participants. Multivariable logistic regression was done to identify the factors associated with suicidal ideation and attempt.
+   Results
+   Nearly 13.59% of the participants had considered suicide while 10.33% had attempted it. Food insecurity (OR = 2.32, CI = 1.62-3.32), anxiety (OR = 2.54, CI = 1.49-4.30), loneliness (OR = 2.51, CI = 1.44-4.36) and gender (OR = 1.39, CI = 1.03-1.89) were identified as risk factors of suicidal ideation. Anxiety (OR = 3.02, CI = 1.18-7.74), loneliness (OR = 2.19, CI = 1.28-3.73) truancy (OR = 1.99, CI = 1.40-2.82), cigarette use (OR = 3.13, CI = 1.36-7.23) and gender (OR = 1.60, CI = 1.07-2.39) were identified as risk factors of suicidal attempt. Having 3 or more close friends was found to have protective effect (OR = 0.35, CI = 0.16-0.75) against suicidal attempt.
+   Conclusion
+   Study reveals relatively high prevalence of suicidal ideation and suicidal attempt among school-going adolescents in Nepal. Appropriate coping strategies for factors like anxiety, loneliness seem could be useful for preventing both suicidal ideation and attempt.
+C1 [Pandey, Achyut Raj; Bista, Bihungum; Aryal, Krishna Kumar; Chalise, Binaya; Dhimal, Meghnath] Nepal Hlth Res Council, Kathmandu, Nepal.
+   [Dhungana, Raja Ram] Victoria Univ, Coll Hlth & Biomed, Melbourne, Vic, Australia.
+   [Aryal, Krishna Kumar] Abt Associates Inc, MEOR, NHSP3, DFID, Lalitpur, Nepal.
+C3 Victoria University
+RP Pandey, AR (corresponding author), Nepal Hlth Res Council, Kathmandu, Nepal.
+EM achyutrajpandey2014@gmail.com
+RI Aryal, Krishna Kumar/AFN-8677-2022; Dhimal, Meghnath/AAD-7261-2021;
+   Dhungana, Raja Ram/B-3673-2016
+OI Dhimal, Meghnath/0000-0001-7176-7821; Pandey, Achyut
+   Raj/0000-0002-1037-1273; Dhungana, Raja Ram/0000-0002-9610-6306;
+   Chalise, Binaya/0000-0001-7292-1229; Bista, Bihungum/0000-0002-3586-3610
+FU World Health Organization (WHO)
+FX This research was funded by World Health Organization (WHO). The funders
+   had no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 38
+TC 52
+Z9 56
+U1 0
+U2 11
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD APR 19
+PY 2019
+VL 14
+IS 4
+AR e0210383
+DI 10.1371/journal.pone.0210383
+PG 13
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA HU1GG
+UT WOS:000465019900001
+PM 31002715
+OA Green Submitted, Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Rai, S
+   Adhikari, SB
+   Acharya, NR
+   Kaiser, BN
+   Kohrt, BA
+AF Rai, Sauharda
+   Adhikari, Safar Bikram
+   Acharya, Nanda Raj
+   Kaiser, Bonnie N.
+   Kohrt, Brandon A.
+TI Elucidating adolescent aspirational models for the design of public
+   mental health interventions: a mixed-method study in rural Nepal
+SO CHILD AND ADOLESCENT PSYCHIATRY AND MENTAL HEALTH
+LA English
+DT Article
+DE Children; Adolescents; Interpersonal violence; Low-income countries;
+   Stigma; Idioms of distress; Cultural models; Substance abuse; Suicide;
+   Nepal
+ID MIDDLE-INCOME COUNTRIES; FORMER CHILD SOLDIERS; SOCIAL SUPPORT;
+   POSTTRAUMATIC-STRESS; QUALITATIVE-ANALYSIS; YOUTH; DEPRESSION; SUICIDE;
+   PILOT; PARTICIPATION
+AB Background: Adolescent aspirational models are sets of preferences for an idealized self. Aspirational models influence behavior and exposure to risk factors that shape adult mental and physical health. Cross-cultural understandings of adolescent aspirational models are crucial for successful global mental health programs. The study objective was elucidating adolescent aspirational models to inform interventions in Nepal.
+   Methods: Twenty qualitative life trajectory interviews were conducted among adolescents, teachers, and parents. Card sorting (rating and ranking activities) were administered to 72 adolescents aged 15-19 years, stratified by caste/ethnicity: upper caste Brahman and Chhetri, occupational caste Dalit, and ethnic minority Janajati.
+   Results: Themes included qualities of an ideal person; life goals, barriers, and resources; emotions and coping; and causes of interpersonal violence, harmful alcohol use, and suicide. Education was the highest valued attribute of ideal persons. Educational attainment received higher prioritization by marginalized social groups (Dalit and Janajati). Poverty was the greatest barrier to achieving life goals. The most common distressing emotion was 'tension', which girls endorsed more frequently than boys. Sharing emotions and self-consoling were common responses to distress. Tension was the most common reason for alcohol use, especially among girls. Domestic violence, romantic break-ups, and academic pressure were reasons for suicidality.
+   Conclusion: Inability to achieve aspirational models due to a range of barriers was associated with negative emotions-notably tension-and dysfunctional coping that exacerbates barriers, which ultimately results in the triad of interpersonal violence, substance abuse, and suicidality. Interventions should be framed as reducing the locally salient idiom of distress tension and target this triad of threats. Regarding intervention content, youth-endorsed coping mechanisms should be fortified to counter this distress pathway.
+C1 [Rai, Sauharda; Adhikari, Safar Bikram; Acharya, Nanda Raj; Kohrt, Brandon A.] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Kaiser, Bonnie N.; Kohrt, Brandon A.] Duke Univ, Duke Global Hlth Inst, Durham, NC USA.
+   [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, Washington, DC USA.
+   [Kohrt, Brandon A.] Duke Univ, Dept Psychiat, Durham, NC USA.
+C3 Duke University; George Washington University; Duke University
+RP Rai, S (corresponding author), Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+EM sauharda.rai@gmail.com
+RI Rai, Sauharda/JOZ-3313-2023
+OI Rai, Sauharda/0000-0002-9393-1466; Kaiser, Bonnie/0000-0003-0742-1302
+FU HopeLab, Redwood, California
+FX This study was funded by HopeLab, http://www.hopelab.org, Redwood,
+   California. The funder had no role in conducting the study, analyzing
+   the data, or preparing the manuscript.
+NR 64
+TC 8
+Z9 11
+U1 0
+U2 19
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1753-2000
+J9 CHILD ADOL PSYCH MEN
+JI Child Adolesc. Psychiatry Ment. Health
+PD DEC 21
+PY 2017
+VL 11
+AR 65
+DI 10.1186/s13034-017-0198-8
+PG 13
+WC Pediatrics; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Pediatrics; Psychiatry
+GA FR0GZ
+UT WOS:000418740700001
+PM 29299056
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ho-Yen, SD
+   Bondevik, GT
+   Eberhard-Gran, M
+   Bjorvatn, B
+AF Ho-Yen, Signe Dorheim
+   Bondevik, Gunnar Tschudi
+   Eberhard-Gran, Malin
+   Bjorvatn, Bjorn
+TI The prevalence of depressive symptoms in the postnatal period in
+   Lalitpur district, Nepal
+SO ACTA OBSTETRICIA ET GYNECOLOGICA SCANDINAVICA
+LA English
+DT Article
+DE postnatal depression; prevalence; Edinburgh Postnatal Depression Scale;
+   Self Report Questionnaire-20; Nepal
+ID POSTPARTUM DEPRESSION; MENTAL-DISORDERS; HEALTH; MOTHERS; WOMEN; CARE
+AB Background. Mental disorders are highly prevalent across different cultures and are often associated with serious role impairment. In developing countries, more than three-quarters of people with serious mental disease do not receive any treatment. Identifying and treating maternal depression is important also in Nepal, where suicide is the second largest cause of deaths among women of reproductive age. The emotional, cognitive, and physical development of the infant is also negatively influenced by maternal depression. Objectives. The aim of this study was to estimate the prevalence of depressive symptoms among mothers 5-10 weeks after delivery in a clinical, a rural, and an urban population in Lalitpur district, Nepal. Methods. A total of 426 postnatal women were included in a cross-sectional structured interview study of mental health. Depressive symptoms were measured by the Edinburgh Postnatal Depression Scale (EPDS), and mental distress by the Self Report Questionnaire-20 (SRQ-20). Results. The overall prevalence of depressive symptoms in the postnatal period (defined as EPDS > 12) was 4.9% (95% CI 2.9-7.0). The prevalence of mental distress (defined as SRQ-20 > 10) was 3.1% (95% Cl 1.4-4.7). There were no significant differences in prevalences among the three populations studied. Conclusions. The prevalence of depressive symptoms in the postnatal period was lower than previously reported from Nepal. The value of possible protective and precipitating factors needs to be explored.
+C1 Stavanger Univ Hosp, Div Psychiat, N-4095 Stavanger, Norway.
+   Univ Bergen, Dept Publ Hlth & Primary Hlth Care, Sect Gen Practice, N-5020 Bergen, Norway.
+   Norwegian Inst Publ Hlth, Div Epidemiol, Oslo, Norway.
+C3 Stavanger University Hospital; University of Bergen; Norwegian Institute
+   of Public Health (NIPH)
+RP Ho-Yen, SD (corresponding author), Stavanger Univ Hosp, Div Psychiat, Postbox 1163 Hillevag, N-4095 Stavanger, Norway.
+EM sdhy@sir.no
+RI Bondevik, Gunnar Tschudi/AAS-1565-2020
+NR 24
+TC 27
+Z9 29
+U1 0
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0001-6349
+EI 1600-0412
+J9 ACTA OBSTET GYN SCAN
+JI Acta Obstet. Gynecol. Scand.
+PY 2006
+VL 85
+IS 10
+BP 1186
+EP 1192
+DI 10.1080/00016340600753158
+PG 7
+WC Obstetrics & Gynecology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Obstetrics & Gynecology
+GA 096FE
+UT WOS:000241362200006
+PM 17068677
+OA Bronze
+DA 2023-12-06
+ER
+
+PT J
+AU Adhikari, A
+   Dutta, A
+   Sapkota, S
+   Chapagain, A
+   Aryal, A
+   Pradhan, A
+AF Adhikari, Arjab
+   Dutta, Aman
+   Sapkota, Supriya
+   Chapagain, Abina
+   Aryal, Anurag
+   Pradhan, Amita
+TI Prevalence of poor mental health among medical students in Nepal: a
+   cross-sectional study
+SO BMC MEDICAL EDUCATION
+LA English
+DT Article
+DE Mental health; Medical students; Nepal; Depression; Anxiety; Eating
+   disorder; Somatic symptoms; Suicidal ideation; Dropping out; Marijuana
+ID SUICIDAL IDEATION; UNDERGRADUATE STUDENTS; DEPRESSION; ANXIETY; SCHOOL;
+   METAANALYSIS; PHYSICIANS; NATIONWIDE; SEVERITY; SYMPTOMS
+AB Background: Poor mental health among medical students is widely acknowledged. Studies on mental health among medical students of Nepal are lacking. Therefore, we conducted a study to determine the prevalence of mental disorders.
+   Methods: A cross-sectional study was conducted among medical students at KIST Medical College and Teaching Hospital, Nepal from December 2016 to February 2017. Our survey instrument consisted of the Patient Health Questionnaire (PHQ) and questions about socio-demographic factors, smoking, marijuana use, suicidal ideation and thoughts of dropping out of medical school.
+   Results: The prevalence rates were 29.2% (95% CI, 24.4% -34.3%) depression, 22.4% (95% CI, 18.0% - 26.9%) medium to highly severe somatic symptoms, 4.1% (95% CI, 2.0% - 6.2%) panic syndrome, 5.8% (95% CI, 3.4% - 8.3%) other anxiety syndrome, 5% (95% CI, 2.7% - 7.3%) binge eating disorder and 1.2% (95% CI, 0.0% - 2.3%) bulimia nervosa. Sixteen students [4.7% (95% CI, 2.4% - 6.9%)] seriously considered committing suicide while in medical school. Thirty-four students [9.9% (95% CI, 6.8% - 13.1%)] considered dropping out of medical school within the past month. About 15% (95% CI, 11.1% - 18.6%) of the students reported use of marijuana during medical school.
+   Conclusions: We found high prevalence of poor mental health among medical students of Nepal. Future studies are required to identify the factors associated with poor mental health.
+C1 [Adhikari, Arjab; Dutta, Aman; Sapkota, Supriya; Chapagain, Abina; Pradhan, Amita] KIST Med Coll & Teaching Hosp, Lalitpur, Nepal.
+   [Aryal, Anurag] Kathmandu Med Coll & Teaching Hosp, Kathmandu, Nepal.
+RP Adhikari, A (corresponding author), KIST Med Coll & Teaching Hosp, Lalitpur, Nepal.
+EM docarjab@gmail.com
+NR 39
+TC 38
+Z9 39
+U1 1
+U2 16
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6920
+J9 BMC MED EDUC
+JI BMC Med. Educ.
+PD NOV 28
+PY 2017
+VL 17
+AR 232
+DI 10.1186/s12909-017-1083-0
+PG 7
+WC Education & Educational Research; Education, Scientific Disciplines
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA FO0UB
+UT WOS:000416463900001
+PM 29183315
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Chase, L
+   Sapkota, RP
+AF Chase, Liana
+   Sapkota, Ram P.
+TI "In our community, a friend is a psychologist": An ethnographic study of
+   informal care in two Bhutanese refugee communities
+SO TRANSCULTURAL PSYCHIATRY
+LA English
+DT Article
+DE Bhutanese refugees; informal care; mental health resources; Nepal;
+   resettlement; suicide prevention
+ID MENTAL-HEALTH; TORTURE SURVIVORS; CHILD SOLDIERS; SOCIAL ECOLOGY;
+   ILLNESS; TRAUMA; ETHNOPSYCHOLOGY; PSYCHOTHERAPY; DETERMINANTS; DISORDERS
+AB The recent rise in suicide among Bhutanese refugees has been linked to the erosion of social networks and community supports in the ongoing resettlement process. This paper presents ethnographic findings on the role of informal care practiced by relatives, friends, and neighbors in the prevention and alleviation of mental distress in two Bhutanese refugee communities: the refugee camps of eastern Nepal and the resettled community of Burlington, Vermont, US. Data gathered through interviews (n=40, camp community; n=22, resettled community), focus groups (four, camp community), and participant observation (both sites) suggest that family members, friends, and neighbors were intimately involved in the recognition and management of individual distress, often responding proactively to perceived vulnerability rather than reactively to help-seeking. They engaged practices of care that attended to the root causes of distress, including pragmatic, social, and spiritual interventions, alongside those which targeted feelings in the heart-mind and behavior. In line with other studies, we found that the possibilities for care in this domain had been substantially constrained by resettlement. Initiatives that create opportunities for strengthening or extending social networks or provide direct support in meeting perceived needs may represent fruitful starting points for suicide prevention and mental health promotion in this population. We close by offering some reflections on how to better understand and account for informal care systems in the growing area of research concerned with identifying and addressing disparities in mental health resources across diverse contexts.
+C1 [Chase, Liana] Univ London, SOAS, Anthropol, London, England.
+   [Sapkota, Ram P.] McGill Univ, Div Social & Transcultural Psychiat, PhD Program, Montreal, PQ, Canada.
+C3 University of London; University of London School Oriental & African
+   Studies (SOAS); McGill University
+RP Chase, L (corresponding author), Univ London, SOAS, Dept Anthropol, 10 Thornhaugh St,Russell Sq, London WC1H 0XG, England.
+EM Liana.e.chase@gmail.com
+RI Sapkota, Ram/I-8340-2019; Sapkota, Ram/IAQ-2332-2023
+OI Sapkota, Ram/0000-0002-3547-3188; Chase, Liana/0000-0003-0622-3101
+FU Dartmouth College; U.S. Fulbright Scholarship program
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was supported by funding from Dartmouth College and the U.S.
+   Fulbright Scholarship program.
+NR 55
+TC 28
+Z9 33
+U1 0
+U2 19
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1363-4615
+EI 1461-7471
+J9 TRANSCULT PSYCHIATRY
+JI Transcult. Psychiatry
+PD JUN
+PY 2017
+VL 54
+IS 3
+BP 400
+EP 422
+DI 10.1177/1363461517703023
+PG 23
+WC Anthropology; Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Psychiatry
+GA EW0LJ
+UT WOS:000402182000006
+PM 28475482
+DA 2023-12-06
+ER
+
+PT J
+AU Mahato, PK
+   van Teijlingen, E
+   Simkhada, P
+   Angell, C
+   Ireland, J
+AF Mahato, Preeti K.
+   van Teijlingen, Edwin
+   Simkhada, Padam
+   Angell, Catherine
+   Ireland, Jillian
+CA THET Team
+TI Qualitative evaluation of mental health training of auxiliary nurse
+   midwives in rural Nepal
+SO NURSE EDUCATION TODAY
+LA English
+DT Article
+DE Maternal mental health; Auxiliary nurse midwives; Training; Stigma;
+   Education
+ID SERVICES; SUICIDE; INCOME
+AB Bacicground and Objectives: Mental illness is increasingly recognized as a global health problem. However, in many countries, including Nepal, it is difficult to talk about mental health problems due to the stigma associated with it. Hence a training programme was developed to train auxiliary nurse midwives, who otherwise are not trained in mental health as part of their pre-registration training in rural Nepal, on issues related to maternal mental health. After the training programme a selection of auxiliary nurse midwives were interviewed to establish their views on the training, its usefulness and ways to improve it.
+   Methods: This qualitative study reports on the analysis of interviews conducted with auxiliary nurse midwives who participated in the training programme. The interviews addressed issues associated with the training programme as well as perceptions around mental health in rural Nepal. Transcripts were thematically analysed.
+   Results: Three themes emerged from analysis: (1) issues related to training; (2) societal attitudes; and (3) support for women. The 'training' theme describes the benefits and limitations of training sessions. 'Societal attitudes' describes society's attitude towards mental health which is largely negative. 'Support' describes the positive behaviour and attitude towards pregnant women and new mothers.
+   Conclusion: The study supports the need for continued training for auxiliary nurse midwives who are based in the community. This gives them the opportunity to reach the whole community group and potentially have influence over reduction of stigma; offer support and diagnosis of mental ill-health. There is still stigma around giving birth to a female child which can lead to mental health problems. It is imperative to increase awareness and educate the general public regarding mental health illnesses especially involving family members of those who are affected.
+C1 [Mahato, Preeti K.; van Teijlingen, Edwin; Angell, Catherine; Ireland, Jillian] Bournemouth Univ, Fac Hlth & Social Sci, Bournemouth, Dorset, England.
+   [Simkhada, Padam] Liverpool John Moores Univ, Inst Publ Hlth, Liverpool, Merseyside, England.
+   [Ireland, Jillian] Poole Hosp NHS Fdn Trust, Poole, Dorset, England.
+C3 Bournemouth University; Liverpool John Moores University
+RP Mahato, PK (corresponding author), Bournemouth Univ, Fac Hlth & Social Sci, Bournemouth, Dorset, England.
+EM pmahato@bournemouth.ac.uk
+RI Ireland, Jillian/AAN-1618-2020; Douglas, Flora/K-6747-2019; van
+   Teijlingen, Edwin R/A-3727-2010
+OI Ireland, Jillian/0000-0002-4142-1739; Douglas,
+   Flora/0000-0002-0333-6605; van Teijlingen, Edwin R/0000-0001-5523-8583;
+   Simkhada, Padam/0000-0002-5706-6479; Simkhada, Bibha/0000-0002-8676-0718
+FU Health Partnership Scheme
+FX We like to thank all ANMs who took part in the interviews. All UK
+   volunteers who contributed to the training and Green Tara Nepal for the
+   logistical support during the fieldwork and the Health Partnership
+   Scheme for funding the project. Last but not the least, we would like to
+   thank the rest of the THET team Shyam K Maharjan, Bhimsen Devkota,
+   Padmaclharini Fanning, Bibha Simkhada, Lokendra Sherchan, Ram Chandra
+   Silwal, Ram K Maharjan, and Flora Douglas for their support.
+NR 32
+TC 4
+Z9 7
+U1 0
+U2 7
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0260-6917
+EI 1532-2793
+J9 NURS EDUC TODAY
+JI Nurse Educ. Today
+PD JUL
+PY 2018
+VL 66
+BP 44
+EP 50
+DI 10.1016/j.nedt.2018.03.025
+PG 7
+WC Education, Scientific Disciplines; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research; Nursing
+GA GH7PF
+UT WOS:000433645200009
+PM 29665504
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Ghimire, S
+   Devkota, S
+   Budhathoki, R
+   Thakur, A
+   Sapkota, N
+AF Ghimire, Subash
+   Devkota, Sagar
+   Budhathoki, Rasmita
+   Thakur, Akhilesh
+   Sapkota, Nidesh
+TI Psychiatric Comorbidities in Patients with Deliberate Self-Harm in a
+   Tertiary Care Center
+SO JOURNAL OF NEPAL MEDICAL ASSOCIATION
+LA English
+DT Article
+DE deliberate self-harm; organophosphorous; para suicide; psychiatric
+   co-morbidities
+ID MENTAL-DISORDERS; SUICIDE ATTEMPTERS; PARASUICIDE; POPULATION
+AB Introduction: Deliberate self-harm (DSH) is one of the common psychiatric emergencies in medical practice. It has become a global health problem with rates increasing over time. Very few studies have been conducted on this important health issue in Nepal. We conducted a hospital based study to evaluate the cause, mode and psychiatric comorbidities present in patients of DSH. Methods: This cross sectional study was performed on 200 cases of deliberate self-harm in a tertiary referral centre in Eastern Nepal from April 2012 to July 2012 by the data collected from the medical records of these patients. Various sociodemographic data and psychiatric comorbidities prevalent in them were studied. Results: Most of the patients (77%) were below the age of 35. The female-to-male ratio was 1.35: 1. 76% of the patients had received formal education. Majority (73.5%) were married. By occupation, 38% were housewives and 25.5% were students. 72.5% of cases had consumed organophosphates/-chlorides. Interpersonal conflict (72%) was the major cause for DSH. Psychiatric disorders according to ICD-10 criteria were found in 37% of cases and premorbid personality problems were found in 20% of cases. The most prevalent psychiatric disorder was adjustment disorder (13.5%) followed by mood disorder (11%). Conclusion: Majority of DSH cases were of younger generation. Psychiatric disorders and comorbid personality problems were commonly seen in DSH patients. This has significance for proper evaluation and management.
+C1 [Ghimire, Subash; Devkota, Sagar; Budhathoki, Rasmita; Thakur, Akhilesh; Sapkota, Nidesh] BP Koirala Inst Hlth Sci, Dharan, Nepal.
+C3 B.P. Koirala Institute of Health Sciences
+RP Ghimire, S (corresponding author), BP Koirala Inst Hlth Sci, Dharan, Nepal.
+RI Devkota, Sagar/IUN-6054-2023
+OI Devkota, Sagar/0000-0002-0803-2782
+NR 31
+TC 6
+Z9 6
+U1 0
+U2 2
+PU NEPAL MEDICAL ASSOC
+PI KATHMANDU
+PA NMA BUILDING, SIDDIHI SADAN, PO BOX 189, EXHIBITION RD, KATHMANDU,
+   00000, NEPAL
+SN 0028-2715
+EI 1815-672X
+J9 J NEPAL MED ASSOC
+JI J. Nepal Med. Assoc.
+PD JAN-MAR
+PY 2014
+VL 52
+IS 9
+BP 697
+EP 701
+DI 10.31729/jnma.2215
+PG 5
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA CK6QG
+UT WOS:000356352100007
+PM 26905551
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Shrestha, G
+   Yadav, DK
+   Sapkota, N
+   Baral, D
+   Yadav, BK
+   Chakravartty, A
+   Pokharel, PK
+AF Shrestha, Gambhir
+   Yadav, Deepak Kumar
+   Sapkota, Nidesh
+   Baral, Dharanidhar
+   Yadav, Birendra Kumar
+   Chakravartty, Avaniendra
+   Pokharel, Paras Kumar
+TI Depression among inmates in a regional prison of eastern Nepal: a
+   cross-sectional study
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Depression; Inmates; Regional prison; Suicide
+ID MENTAL-HEALTH; RISK-FACTORS; PSYCHIATRIC-DISORDERS; SENTENCED PRISONERS;
+   SUICIDAL-BEHAVIOR; PREVALENCE; POPULATION; PREDICTION; SYMPTOMS; ILLNESS
+AB Background: Depression is the most common form of mental disorder among inmates, with a prevalence much higher than in the general population. This study aims to estimate the prevalence of depression among inmates and identify factors associated with it.
+   Methods: This cross-sectional study was conducted in Jhumka Regional Prison, the largest prison in eastern Nepal, from September 2014 to August 2015. A total of 434 randomly selected inmates were interviewed using a semi-structured questionnaire examining socio-demographic characteristics, detention status, self-reported health problems, substance use status, and suicidal ideation. Depression was screened using the Center for Epidemiologic Studies Depression scale. Chi-square tests and multiple logistic regression analysis were applied to determine the association between depression and related variables.
+   Results: The mean age of the participants was 35.7 years (SD 13.3). The prevalence of depression among the inmates was 35.3%. Approximately 2.3% reported suicidal ideation during imprisonment and 0.9% had attempted suicide inside the prison. In bivariate analysis, depression was significantly associated with previous incarceration (OR = 1.91, 95% CI = 1.05-3.47, p = 0.033), poor self-rated health (OR = 1.75, 95% CI = 1.16-2.64, p = 0.007), frequent appointments when encountering health problems (OR = 1.66, 95% CI = 1.06-2.61, p = 0.028), suicidal ideation (OR = 4.44, 95% CI = 1.13-17.44, p = 0.038) and loss of weight (OR = 1.49, 95% CI = 1.00-2.23, p = 0.049). However, only previous incarceration (AOR = 1.97, 95% CI = 1.04-3.74, p = 0.037) and frequent appointments when encountering health problems (AOR = 1. 61, 95% CI = 1.01-2.57, p = 0.046) remained significant in a multivariate model.
+   Conclusions: This study showed a high rate of depression among inmates in Nepal. The results suggest a need for psychiatric and rehabilitative care in correctional settings to improve the health status of the inmates.
+C1 [Shrestha, Gambhir; Yadav, Deepak Kumar; Baral, Dharanidhar; Yadav, Birendra Kumar; Chakravartty, Avaniendra; Pokharel, Paras Kumar] BP Koirala Inst Hlth Sci, Sch Publ Hlth & Community Med, Sunsari, Dharan, Nepal.
+   [Sapkota, Nidesh] BP Koirala Inst Hlth Sci, Dept Psychiat, Sunsari, Dharan, Nepal.
+C3 B.P. Koirala Institute of Health Sciences; B.P. Koirala Institute of
+   Health Sciences
+RP Shrestha, G (corresponding author), BP Koirala Inst Hlth Sci, Sch Publ Hlth & Community Med, Sunsari, Dharan, Nepal.
+EM gamvir.stha@gmail.com
+RI Baral, Dharani Dhar/ABF-7526-2020
+OI Chakravartty, Avaniendra/0000-0002-5097-2217; Shrestha,
+   Gambhir/0000-0002-9975-9804; Yadav, Deepak Kumar/0000-0003-3435-984X
+NR 53
+TC 22
+Z9 25
+U1 1
+U2 10
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD OCT 23
+PY 2017
+VL 17
+AR 348
+DI 10.1186/s12888-017-1514-9
+PG 9
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA FK4UR
+UT WOS:000413492800001
+PM 29061132
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Deuba, K
+   Ekström, AM
+   Shrestha, R
+   Ionita, G
+   Bhatta, L
+   Karki, DK
+AF Deuba, Keshab
+   Ekstrom, Anna Mia
+   Shrestha, Rachana
+   Ionita, George
+   Bhatta, Laxmi
+   Karki, Deepak Kumar
+TI Psychosocial Health Problems Associated with Increased HIV Risk Behavior
+   among Men Who Have Sex with Men in Nepal: A Cross-Sectional Survey
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL SUPPORT; BISEXUAL ADULTS; SUBSTANCE USE; URBAN MEN; GAY;
+   DISCRIMINATION; DISORDERS; INFECTION; VIOLENCE; CHENNAI
+AB Background: Men who have sex with men (MSM) are marginalized, hidden, underserved and at high risk for HIV in Nepal. We examined the association between MSM sub-populations, psychosocial health problems and support, access to prevention and non-use of condoms.
+   Methods: Between September-November of 2010, a cross-sectional survey on HIV-related risk behavior was performed across Nepal through snowball sampling facilitated by non-governmental organizations, recruiting 339 MSM, age 15 or older. The primary outcomes were: (a) non-use of condoms at least once in last three anal sex encounters with men and (b) non-use of condoms with women in the last encounter. The secondary outcome was participation in HIV prevention interventions in the past year.
+   Results: Among the 339 MSM interviewed, 78% did not use condoms at their last anal sex with another man, 35% did not use condoms in their last sex with a woman, 70% had experienced violence in the last 12 months, 61% were experiencing depression and 47% had thought of committing suicide. After adjustment for age, religion, marital status, and MSM subpopulations (bisexual, ta, meti, gay), non-use of condoms at last anal sex with a man was significantly associated with non-participation in HIV interventions, experience of physical and sexual violence, depression, repeated suicidal thoughts, small social support network and being dissatisfied with social support. Depression was marginally associated with non-use of condoms with women. The findings suggest that among MSM who reported non-use of condoms at last anal sex, the ta subgroup and those lacking family acceptance were the least likely to have participated in any preventive interventions.
+   Conclusions: MSM in Nepal have a prevalence of psychosocial health problems in turn associated with high risk behavior for HIV. Future HIV prevention efforts targeting MSM in Nepal should cover all MSM subpopulations and prioritize psychosocial health interventions.
+C1 [Deuba, Keshab] Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+   [Ekstrom, Anna Mia] Karolinska Inst, Dept Publ Hlth Sci, Div Global Hlth IHCAR, Stockholm, Sweden.
+   [Ekstrom, Anna Mia] Karolinska Univ Hosp, Dept Infect Dis, Stockholm, Sweden.
+   [Shrestha, Rachana; Bhatta, Laxmi] Pokhara Univ, Nobel Coll, Kathmandu, Nepal.
+   [Ionita, George] UNDP, Kathmandu, Nepal.
+   [Karki, Deepak Kumar] Natl Ctr AIDS & STD Control, Kathmandu, Nepal.
+C3 Karolinska Institutet; Karolinska Institutet; Karolinska Institutet;
+   Karolinska University Hospital
+RP Deuba, K (corresponding author), Karolinska Inst, Dept Publ Hlth Sci, Stockholm, Sweden.
+EM deuba4k@gmail.com
+RI Ekström, Anna Mia C/H-6901-2013; Shrestha, Rachana/IHM-5385-2023
+OI Karki, Deepak Kumar/0000-0002-0392-6592; Bhatta,
+   Laxmi/0000-0002-8166-1470; Deuba, Keshab/0000-0002-9933-2210
+FU Netherlands Development Organization (SNV) through the Social Inclusion
+   Research Fund (SIRF), Nepal
+FX The Netherlands Development Organization (SNV) provided financial
+   support through the Social Inclusion Research Fund (SIRF), Nepal for
+   this work. The SNV had no role in study design or protocol development,
+   data collection or analysis, report writing or the decision to publish
+   this research data in a peer-reviewed article.
+NR 49
+TC 45
+Z9 48
+U1 1
+U2 25
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 13
+PY 2013
+VL 8
+IS 3
+AR e58099
+DI 10.1371/journal.pone.0058099
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics
+GA 115YY
+UT WOS:000316849200032
+PM 23516434
+OA Green Published, Green Submitted, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Puri, M
+   Tamang, J
+   Shah, I
+AF Puri, Mahesh
+   Tamang, Jyotsna
+   Shah, Iqbal
+TI Suffering in silence: consequences of sexual violence within marriage
+   among young women in Nepal
+SO BMC PUBLIC HEALTH
+LA English
+DT Article
+ID INTIMATE PARTNER VIOLENCE; BANGLADESH; ABUSE; INDIA; RISK; HIV
+AB Background: Despite the grave consequences of sexual violence, and it's persistence both within and outside marriages, this subject has received relatively little attention from researchers, policy makers, and programme managers in Nepal. This paper explores the definition of sexual violence and its various forms and consequences as reported by young married women in Nepal. In addition, it describes the coping mechanisms used by young married women to avoid sexual violence perpetrated against them by their husbands.
+   Methods: This paper analyzes data collected during the qualitative study on "Sexual violence among young couples in Nepal", conducted amongst two major ethnic groups - Brahmin/Chhetri and Tharu - between 2006 and 2007. The data is comprised of 39 free-lists and 15 in-depth case histories with married women aged 15-24 years. The average rank and Smith's Salience were calculated from the free-listing data. The thematic analysis approach was used for the analysis of information from the case histories.
+   Results: Approximately three-quarters (74%) of the young women mentioned 'sex against one's wishes' as sexual violence within marriage (SVWM). Sixty-two percent of respondents described 'forced sex during illness' and 'forced sex after consumption of alcohol' as SVWM. About half of young women (48.7%) who participated in the free-listing exercise reported having experienced SVWM. The types of SVWM ranged from unwanted sexual touch to forced sex. Backache, headache, lower abdominal pain, vaginal bleeding and thoughts of suicide were the most commonly reported negative physical and psychological health consequences of SVWM. Women reported various coping strategies including 'trying to convince husbands', 'sleeping in a separate room', 'visiting maternal home', 'waking up the children', and 'using pretexts such as being ill or menstruating', to avoid SVWM. However, in most cases, women reported that these coping strategies were unsuccessful. Almost all women experiencing SVWM were socially isolated and did not turn to institutions, relatives or friends for advice and support.
+   Conclusions: Sexual violence within marriage is common in Nepal. Findings provide circumstantial evidence of links between sexual violence and negative general and reproductive health outcomes for women. Various actions are required to prevent SVWM and provide immediate support to the victims.
+C1 [Puri, Mahesh; Tamang, Jyotsna] CREHPA, Kathmandu, Nepal.
+   [Shah, Iqbal] WHO, Dept Reprod Hlth & Res, CH-1211 Geneva 27, Switzerland.
+C3 World Health Organization
+RP Puri, M (corresponding author), CREHPA, Kathmandu, Nepal.
+EM mahesh@crehpa.org.np
+FU Department of Reproductive Health and Research, World Health
+   Organization (WHO), Geneva
+FX The authors are grateful to the Department of Reproductive Health and
+   Research, World Health Organization (WHO), Geneva for providing
+   financial and technical support to this study. We would to extend our
+   heartfelt thanks to Nepal Health Research Council and WHO research
+   ethics review committees for the review and ethical approval to carry
+   out the study in Nepal. Finally, we pay special thanks to Ms. Catherine
+   Packer and Ms. Laura Seckel, John Hopkins University, USA for editing
+   the revised version of this article.
+NR 31
+TC 55
+Z9 61
+U1 1
+U2 18
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-2458
+J9 BMC PUBLIC HEALTH
+JI BMC Public Health
+PD JAN 12
+PY 2011
+VL 11
+AR 29
+DI 10.1186/1471-2458-11-29
+PG 10
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA 710NN
+UT WOS:000286518600001
+PM 21223603
+OA Green Published, gold
+DA 2023-12-06
+ER
+
+PT J
+AU Ramaiya, MK
+   McLean, C
+   Regmi, U
+   Fiorillo, D
+   Robins, CJ
+   Kohrt, BA
+AF Ramaiya, Megan K.
+   McLean, Caitlin
+   Regmi, Upasana
+   Fiorillo, Devika
+   Robins, Clive J.
+   Kohrt, Brandon A.
+TI A dialectical behavior therapy skills intervention for women with
+   suicidal behaviors in rural Nepal: A single-case experimental design
+   series
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE dialectical behavior therapy; emotion regulation; global mental health;
+   Nepal; single-case experimental design; suicidality
+ID BORDERLINE PERSONALITY-DISORDER; RANDOMIZED CONTROLLED-TRIAL;
+   MIDDLE-INCOME COUNTRIES; MENTAL-HEALTH; CLINICAL-TRIAL;
+   POSTTRAUMATIC-STRESS; FOLLOW-UP; CHILDREN; SCALE; DYSREGULATION
+AB BackgroundSuicide in low- and middle-income countries (LMICs) accounts for 75% of the world's burden of suicide mortality and is the leading single cause of death among Nepali reproductive age women. To advance treatment for suicidal behaviors in LMICs, a single-case experimental design (SCED) was conducted of a culturally adapted Dialectical Behavior Therapy skills intervention for Nepali populations (DBT-N).
+   MethodTen Nepali women with histories of suicidality participated in the 10-session intervention. Outcomes of emotion regulation, suicidal ideation, depression, anxiety, resilience, and coping skills use were measured at multiple time points pre-intervention, during, and at follow-up. Qualitative interviewing assessed DBT-N's feasibility and acceptability.
+   ResultsParticipants showed improvements in emotion regulation over the course of treatment, which were associated with increased skills use. Rapid, sustained reductions in suicidal ideation and improvements in resilience were observed after DBT-N initiation.
+   ConclusionThis SCED supports conducting further evaluation of DBT-N through controlled trials with emotion regulation as a target mechanism of action for reducing suicidal behaviors in LMICs.
+C1 [Ramaiya, Megan K.] Univ Washington, Dept Psychol, Box 351525, Seattle, WA 98195 USA.
+   [Ramaiya, Megan K.; Kohrt, Brandon A.] Duke Global Hlth Inst, 310 Trent Dr, Durham, NC USA.
+   [McLean, Caitlin] Univ Nevada, Dept Psychol, 1664 N Virginia St, Reno, NV 89557 USA.
+   [Regmi, Upasana; Kohrt, Brandon A.] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Fiorillo, Devika] Emory Univ, Dept Psychiat & Behav Sci, 12 Execut Park Dr NE, Atlanta, GA 30322 USA.
+   [Robins, Clive J.] Duke Univ, Dept Psychol & Neurosci, Box 90086,417 Chapel Dr, Durham, NC USA.
+   [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat, 2120 L St, Washington, DC 20037 USA.
+C3 University of Washington; University of Washington Seattle; Duke
+   University; Nevada System of Higher Education (NSHE); University of
+   Nevada Reno; Emory University; Duke University; George Washington
+   University
+RP Ramaiya, MK (corresponding author), Univ Washington, Dept Psychol, Box 351525, Seattle, WA 98195 USA.
+EM mramaiya@uw.edu
+FU Duke Global Health Institute; Duke University Center for International
+   Studies; National Institute of Mental Health [K01MH104310]
+FX This research was supported by grants from Duke Global Health Institute
+   and Duke University Center for International Studies (to MKR). BAK
+   receives salary support from the National Institute of Mental Health
+   (K01MH104310). The authors thank the participating clients and their
+   families, and especially acknowledge the research and clinical staff at
+   Transcultural Psychosocial Organization Nepal for their ongoing support.
+   Special thanks to Nandaraj Acharya for his clinical support in
+   delivering the intervention. The authors also thank the Nepal Health
+   Research Council for providing ethical approval for the study.
+NR 56
+TC 14
+Z9 19
+U1 2
+U2 26
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD JUL
+PY 2018
+VL 74
+IS 7
+BP 1071
+EP 1091
+DI 10.1002/jclp.22588
+PG 21
+WC Psychology, Clinical
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA GJ3ZE
+UT WOS:000435275800001
+PM 29457638
+OA Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Areepattamannil, S
+   Cairns, D
+AF Areepattamannil, Shaljan
+   Cairns, Dean
+TI Examining the Psychometric Properties of a Modified Students' Life
+   Satisfaction Scale: A Rasch Measurement Approach
+SO PSYCHOLOGICAL STUDIES
+LA English
+DT Article
+DE Students' Life Satisfaction Scale; Rasch measurement model; Psychometric
+   properties
+ID FOLLOW-UP; ADOLESCENTS; SELF; RELIABILITY; SUICIDE; FAMILY; ITEM
+AB Drawing on data from the second wave of the Children's Worlds: International Survey of Children's Well-Being, this study examined the psychometric properties of a modified Students' Life Satisfaction Scale (SLSS) using the Rasch measurement model in a sample of 1817 10- and 12-year-old children belonging to a highly collectivistic South Asian country, Nepal. Results of the study revealed that the modified SLSS data met the assumptions of the Rasch measurement model, and the internal structure of the modified SLSS represented a hierarchy of item difficulties. The modified SLSS items also exhibited adequate model-data fit, and they were found to be invariant across gender and age groups. Taken together, the modified SLSS is a psychometrically sound measure appropriate for assessing life satisfaction among Nepalese children.
+C1 [Areepattamannil, Shaljan; Cairns, Dean] Emirates Coll Adv Educ, Assessment & Sch Evaluat Div, POB 126662, Abu Dhabi, U Arab Emirates.
+RP Areepattamannil, S (corresponding author), Emirates Coll Adv Educ, Assessment & Sch Evaluat Div, POB 126662, Abu Dhabi, U Arab Emirates.
+EM sareepattamannil@ecae.ac.ae
+RI Areepattamannil, Shaljan/AAF-2171-2020
+OI Areepattamannil, Shaljan/0000-0003-3289-7804; Cairns,
+   Dean/0000-0002-5262-868X
+NR 64
+TC 1
+Z9 1
+U1 0
+U2 3
+PU SPRINGER INDIA
+PI NEW DELHI
+PA 7TH FLOOR, VIJAYA BUILDING, 17, BARAKHAMBA ROAD, NEW DELHI, 110 001,
+   INDIA
+SN 0033-2968
+EI 0974-9861
+J9 PSYCHOL STUD
+JI Psychol. Stud.
+PD DEC
+PY 2019
+VL 64
+IS 4
+BP 455
+EP 464
+DI 10.1007/s12646-019-00510-5
+PG 10
+WC Psychology, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Psychology
+GA LY4QX
+UT WOS:000540515300009
+DA 2023-12-06
+ER
+
+PT J
+AU Kohrt, BA
+   Mutamba, BB
+   Luitel, NP
+   Gwaikolo, W
+   Mangen, PO
+   Nakku, J
+   Rose, K
+   Cooper, J
+   Jordans, MJD
+   Baingana, F
+AF Kohrt, Brandon A.
+   Mutamba, Byamah B.
+   Luitel, Nagendra P.
+   Gwaikolo, Wilfred
+   Mangen, Patrick Onyango
+   Nakku, Juliet
+   Rose, Kisa
+   Cooper, Janice
+   Jordans, Mark J. D.
+   Baingana, Florence
+TI How competent are non-specialists trained to integrate mental health
+   services in primary care? Global health perspectives from Uganda,
+   Liberia, and Nepal
+SO INTERNATIONAL REVIEW OF PSYCHIATRY
+LA English
+DT Article
+DE Depression; developing countries; non-specialists; primary care;
+   psychosis; stigma; schizophrenia
+ID THERAPIST COMPETENCE; CLINICIAN ATTITUDES; TREATMENT GAP; DISORDERS;
+   INCOME; AVAILABILITY; STRATEGIES; PEOPLE; SCALE
+AB Evaluations to objectively assess minimum competency are not routinely implemented for training and supervision in global mental health. Addressing this gap in competency assessment is crucial for safe and effective mental health service integration in primary care. To explore competency, this study describes a training and supervision program for 206 health workers in Uganda, Liberia, and Nepal in humanitarian settings impacted by political violence, Ebola, and natural disasters. Health workers were trained in the World Health Organization's mental health Gap Action Programme (mhGAP). Health workers demonstrated changes in knowledge (mhGAP knowledge, effect size, d = 1.14), stigma (Mental Illness: Clinicians' Attitudes, d = -0.64; Social Distance Scale, d = -0.31), and competence (ENhancing Assessment of Common Therapeutic factors, ENACT, d = 1.68). However, health workers were only competent in 65% of skills. Although the majority were competent in communication skills and empathy, they were not competent in assessing physical and mental health, addressing confidentiality, involving family members in care, and assessing suicide risk. Higher competency was associated with lower stigma (social distance), but competency was not associated with knowledge. To promote competency, this study recommends (1) structured role-plays as a standard evaluation practice; (2) standardized reporting of competency, knowledge, attitudes, and clinical outcomes; and (3) shifting the field toward competency-based approaches to training and supervision.
+C1 [Kohrt, Brandon A.] George Washington Univ, Dept Psychiat & Behav Sci, Div Global Mental Hlth, Washington, DC 20052 USA.
+   [Kohrt, Brandon A.; Luitel, Nagendra P.; Jordans, Mark J. D.] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Mutamba, Byamah B.; Nakku, Juliet] Butabika Natl Referral Hosp, Kampala, Uganda.
+   [Gwaikolo, Wilfred; Cooper, Janice] Carter Ctr Mental Hlth Program, Monrovia, Liberia.
+   [Mangen, Patrick Onyango] Transcultural Psychosocial Org Uganda, Kampala, Uganda.
+   [Rose, Kisa; Baingana, Florence] Makerere Univ, Sch Publ Hlth, Kampala, Uganda.
+   [Jordans, Mark J. D.] Kings Coll London, Ctr Global Mental Hlth, Inst Psychiat Psychol & Neurosci, London, England.
+C3 George Washington University; Makerere University; University of London;
+   King's College London
+RP Kohrt, BA (corresponding author), George Washington Univ, Dept Psychiat & Behav Sci, Div Global Mental Hlth, Washington, DC 20052 USA.
+EM bkohrt@gwu.edu
+OI Cooper, Janice/0000-0002-5343-9485; Jordans, Mark/0000-0001-5925-8039;
+   Kohrt, Brandon/0000-0002-3829-4820; MUTAMBA, BYAMAH/0000-0002-9430-443X
+FU Grand Challenges Canada [GMH_0091-04]; U.S. National Institute of Mental
+   Health [K01MH104310]
+FX This project was funded by a grant from Grand Challenges Canada to
+   Makerere University School of Public Health (FB, Principal
+   Investigator), Grant #GMH_0091-04: mental health Beyond Facilities,
+   mhBeF. BAK receives funding from the U.S. National Institute of Mental
+   Health [K01MH104310].
+NR 48
+TC 39
+Z9 41
+U1 0
+U2 3
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0954-0261
+EI 1369-1627
+J9 INT REV PSYCHIATR
+JI Int. Rev. Psych.
+PD NOV 2
+PY 2018
+VL 30
+IS 6
+SI SI
+BP 182
+EP 198
+DI 10.1080/09540261.2019.1566116
+PG 17
+WC Psychiatry
+WE Social Science Citation Index (SSCI)
+SC Psychiatry
+GA HW7IT
+UT WOS:000466864100004
+PM 30810407
+OA Green Accepted, Green Submitted
+DA 2023-12-06
+ER
+
+PT J
+AU Kohrt, BA
+   Jordans, MJD
+   Rai, S
+   Shrestha, P
+   Luitel, NP
+   Ramaiya, MK
+   Singla, DR
+   Patel, V
+AF Kohrt, Brandon A.
+   Jordans, Mark J. D.
+   Rai, Sauharda
+   Shrestha, Pragya
+   Luitel, Nagendra P.
+   Ramaiya, Megan K.
+   Singla, Daisy R.
+   Patel, Vikram
+TI Therapist competence in global mental health: Development of the
+   ENhancing Assessment of Common Therapeutic factors (ENACT) rating scale
+SO BEHAVIOUR RESEARCH AND THERAPY
+LA English
+DT Article
+DE Competence; Culture; Global health; Measurement; Psychotherapy; Training
+ID PSYCHOLOGICAL TREATMENTS; PRIMARY-CARE; SUICIDE; ANXIETY; PSYCHOTHERAPY;
+   PREVENTION; QUALITY; NEPAL; HOPE; CBT
+AB Lack of reliable and valid measures of therapist competence is a barrier to dissemination and implementation of psychological treatments in global mental health. We developed the ENhancing Assessment of Common Therapeutic factors (ENACT) rating scale for training and supervision across settings varied by culture and access to mental health resources. We employed a four-step process in Nepal: (1) Item generation: We extracted 1081 items (grouped into 104 domains) from 56 existing tools; role-plays with Nepali therapists generated 11 additional domains. (2) Item relevance: From the 115 domains, Nepali therapists selected 49 domains of therapeutic importance and high comprehensibility. (3) Item utility: We piloted the ENACT scale through rating role-play videotapes, patient session transcripts, and live observations of primary care workers in trainings for psychological treatments and the Mental Health Gap Action Programme (mhGAP). (4) Inter-rater reliability was acceptable for experts (intraclass correlation coefficient, ICC(2,7) = 0.88 (95% confidence interval (CI) 0.81-0.93), N = 7) and non-specialists (ICC(1,3) 0.67 (95% CI 0.60-0.73), N = 34). In sum, the ENACT scale is an 18-item assessment for common factors in psychological treatments, including task-sharing initiatives with non-specialists across cultural settings. Further research is needed to evaluate applications for therapy quality and association with patient outcomes. 2015 The Authors. Published by Elsevier Ltd.
+C1 [Kohrt, Brandon A.; Jordans, Mark J. D.; Rai, Sauharda; Shrestha, Pragya; Luitel, Nagendra P.] Transcultural Psychosocial Org TPO Nepal, Kathmandu, Nepal.
+   [Kohrt, Brandon A.] George Washington Univ, Sch Med, Dept Psychiat & Behav Sci, Washington, DC USA.
+   [Kohrt, Brandon A.] Duke Univ, Sch Med, Dept Psychiat & Behav Sci, Durham, NC 27706 USA.
+   [Kohrt, Brandon A.; Rai, Sauharda; Ramaiya, Megan K.] Duke Univ, Duke Global Hlth Inst, Durham, NC 27706 USA.
+   [Jordans, Mark J. D.] Kings Coll London, Inst Psychiat Psychol & Neurosci, Ctr Global Mental Hlth, London WC2R 2LS, England.
+   [Jordans, Mark J. D.] HealthNet TPO, Res & Dev, Amsterdam, Netherlands.
+   [Singla, Daisy R.] McGill Univ, Dept Psychol, Montreal, PQ, Canada.
+   [Patel, Vikram] London Sch Hyg & Trop Med, Ctr Global Mental Hlth, London WC1, England.
+   [Patel, Vikram] Publ Hlth Fdn India, New Delhi, India.
+   [Patel, Vikram] Sangath Ctr, Alto Porvorim Goa, India.
+C3 George Washington University; Duke University; Duke University;
+   University of London; King's College London; McGill University;
+   University of London; London School of Hygiene & Tropical Medicine;
+   Public Health Foundation of India
+RP Kohrt, BA (corresponding author), Duke Global Hlth Inst, 213 Trent Hall,310 Trent Dr, Durham, NC 27708 USA.
+EM brandon.kohrt@duke.edu
+RI Rai, Sauharda/JOZ-3313-2023
+OI Rai, Sauharda/0000-0002-9393-1466; Jordans, Mark/0000-0001-5925-8039;
+   Patel, Vikram/0000-0003-1066-8584; Singla, Daisy/0000-0001-9865-7112;
+   Kohrt, Brandon/0000-0002-3829-4820
+FU NIMH [U19MH095687-01S1]; Programme to Improve Mental Health Care (PRIME)
+   - Department for International Development (DfID); Reducing Barriers to
+   Mental Health Task Sharing [K01MH104310-01]; UK aid from the UK
+   Government; Wellcome Trust [091834/Z/10/Z]; Department for International
+   Development (DFID) [201446] Funding Source: researchfish; Wellcome Trust
+   [091834/Z/10/Z] Funding Source: Wellcome Trust
+FX The research was conducted through the South Asia Hub for Advocacy,
+   Research, and Education for Mental Health (SHARE) funded by NIMH
+   (U19MH095687-01S1, PIs: Vikram Patel and Atif Rahman), the Programme to
+   Improve Mental Health Care (PRIME, PI: Crick Lund) funded by the
+   Department for International Development (DfID), and Reducing Barriers
+   to Mental Health Task Sharing (K01MH104310-01, PI: Brandon Kohrt). This
+   study is an output of the PRogramme for Improving Mental health carE
+   (PRIME). The material has been funded by UK aid from the UK Government
+   for the benefit of developing countries. The funders had no role in
+   study design, data collection and analysis, decision to publish or
+   preparation of the manuscript. The views expressed do not necessarily
+   reflect the UK Government's official policies. The authors had full
+   control of all primary data. Vikram Patel is funded by the Wellcome
+   Trust (Grant number: 091834/Z/10/Z) and the NIMH grant to SHARE. The
+   authors thank Matthew Burkey, Michael Compton, James Griffith, Revathi
+   Krishna, Crick Lund, and Lawrence Wissow for their valuable discussions
+   during the tool development process. Special thanks for Lawrence Wissow
+   and Matthew Burkey for their comments on earlier versions of the
+   manuscript.
+NR 44
+TC 155
+Z9 171
+U1 0
+U2 23
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7967
+EI 1873-622X
+J9 BEHAV RES THER
+JI Behav. Res. Ther.
+PD JUN
+PY 2015
+VL 69
+BP 11
+EP 21
+DI 10.1016/j.brat.2015.03.009
+PG 11
+WC Psychology, Clinical
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA CI8XH
+UT WOS:000355054500002
+PM 25847276
+OA hybrid, Green Accepted, Green Published
+DA 2023-12-06
+ER
+
+PT J
+AU Shakya, DR
+   Shyangwa, PM
+   Shakya, R
+AF Shakya, D. R.
+   Shyangwa, P. M.
+   Shakya, R.
+TI Psychiatric Emergencies in a Tertiary Care Hospital
+SO JOURNAL OF NEPAL MEDICAL ASSOCIATION
+LA English
+DT Article
+DE Behavioral problems; psychiatric emergency; psychiatric disorders;
+   substance abuse
+AB People with psychiatric problems often visit a general hospital. Many of them require emergency service. B P Koirala Institute of Health Sciences (BPKIHS) is one of the few health institutes in Nepal providing comprehensive 24-hour psychiatric emergency service. This study aims to document the pattern of psychiatric emergencies in a tertiary care hospital of Eastern Nepal.
+   All psychiatric emergencies referred from different departments in 30 random days during a six-month period were enrolled. This is a descriptive study with convenience sampling method where the diagnoses were made based on the 'International Classification of Disease and Infirmity' (ICD-10).
+   One hundred twenty-nine cases were referred in the study period. The M:F ratio was 1.3:1. The service users were predominantly young adults. The majority of cases were seen in the emergency department and medical ward. The most common causes for the consultation were behavioral problems (39%), altered consciousness (32%) and somatic complaints (17%). Approximately 83% received the diagnosis of Category F of the ICD-10. Mental and behavioral disorder due to substance use (F10-19) was the most common disorder (30%), followed by mood/affective disorders (23%) and neurotic, stress-related anxiety disorders (16%). Roughly 46% had co-morbid physical illnesses and 8% received only a physical diagnosis. About 20% had attempted suicide using different means, poisoning being the most common.
+   Emergency psychiatric consultation for mental problems is sought by almost all departments of a general hospital. These consultations are most commonly sought for substance use, mood or anxiety disorders.
+C1 [Shakya, D. R.; Shyangwa, P. M.; Shakya, R.] BP Koirala Inst Hlth Sci, Dept Psychiat, Dharan, Nepal.
+C3 B.P. Koirala Institute of Health Sciences
+RP Shakya, DR (corresponding author), BP Koirala Inst Hlth Sci, Dept Psychiat, Dharan, Nepal.
+EM drdhanashakya@yahoo.com
+RI Shakya, Dhana Ratna/HLH-2198-2023
+OI Shakya, Dhana Ratna/0000-0002-3796-5426
+NR 14
+TC 4
+Z9 4
+U1 0
+U2 1
+PU NEPAL MEDICAL ASSOC
+PI KATHMANDU
+PA NMA BUILDING, SIDDIHI SADAN, PO BOX 189, EXHIBITION RD, KATHMANDU,
+   00000, NEPAL
+SN 0028-2715
+J9 J NEPAL MED ASSOC
+JI J. Nepal Med. Assoc.
+PD JAN-MAR
+PY 2008
+VL 47
+IS 1
+BP 28
+EP 33
+PG 6
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA 383HX
+UT WOS:000261665800007
+PM 18552889
+DA 2023-12-06
+ER
+
+PT J
+AU Agrawaal, KK
+   Karki, P
+AF Agrawaal, Krishna Kumar
+   Karki, Prahalad
+TI Clinico-epidemiological Study on Pesticide Poisoning in a Tertiary Care
+   Hospital in Eastern Nepal
+SO JOURNAL OF NEPAL MEDICAL ASSOCIATION
+LA English
+DT Article
+DE pesticides; organophosphorous poisoning
+AB Introduction: Pesticide poisoning is a major health problem worldwide. In Nepal the most common cause is suicidal and pesticides account for more than fifty percent of cases. The objective of the study was to look in detail regarding the pesticide poisoning cases admitted at BPKIHS; their epidemiological profile, presentation, treatment and their outcome during the hospital stay. Drug therapy included specific antidotal drugs; atropine and pralidoxime (PAM) and some nonspecificdrugs: antimicrobials and sedatives.
+   Methods: It was a retrospective study which included 2621 patients with poisoning of which 1661 cases were related to pesticides.
+   Results: The mean age at presentation was 29 years. The mean duration of hospital stay was 6.7 days. The majority of patients 81.16% showed improvement whereas 6.6% of patients died within 24 hours of admission and 3.54% after 48 hours of admission. Among all the patients 0.5% patients were given ICU care and all others were managed in the different units of medicine ward. The total amount of atropine administered varied considerably from patient to patient, according to the need. Most of the cases were under the influence of alcohol. All the patients had a psychiatry evaluation before discharge.
+   Conclusions: Pesticide poisoning is increasing in incidence and it is one of the preventable public health problems and includes mainly the patients' age group 20-30 years. Due to easy availability of pesticides it is the most preferred method of suicide, the main reasons being impulsive act and increased indebtedness in the society.
+C1 [Agrawaal, Krishna Kumar; Karki, Prahalad] BP Koirala Inst Hlth Sci, Dept Internal Med, Dharan, Nepal.
+C3 B.P. Koirala Institute of Health Sciences
+RP Agrawaal, KK (corresponding author), BP Koirala Inst Hlth Sci, Dept Internal Med, Dharan, Nepal.
+EM agrawalkris@gmail.com
+NR 15
+TC 4
+Z9 4
+U1 0
+U2 1
+PU NEPAL MEDICAL ASSOC
+PI KATHMANDU
+PA NMA BUILDING, SIDDIHI SADAN, PO BOX 189, EXHIBITION RD, KATHMANDU,
+   00000, NEPAL
+SN 0028-2715
+EI 1815-672X
+J9 J NEPAL MED ASSOC
+JI J. Nepal Med. Assoc.
+PD OCT-DEC
+PY 2014
+VL 52
+IS 12
+BP 972
+EP 976
+DI 10.31729/jnma.2796
+PG 5
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA V43YI
+UT WOS:000209716300003
+PM 26982894
+OA gold
+DA 2023-12-06
+ER
+
+PT J
+AU Menezes, RG
+   Subba, SH
+   Sathian, B
+   Kharoshah, MA
+   Senthilkumaran, S
+   Pant, S
+   Arun, M
+   Kundapur, R
+   Jain, A
+   Lobo, SW
+   Shankar, PR
+AF Menezes, Ritesh G.
+   Subba, S. H.
+   Sathian, Brijesh
+   Kharoshah, Magdy A.
+   Senthilkumaran, Subramanian
+   Pant, Sadip
+   Arun, M.
+   Kundapur, Rashmi
+   Jain, Animesh
+   Lobo, Stany Wilfred
+   Shankar, P. Ravi
+TI Suicidal ideation among students of a medical college in Western Nepal:
+   A cross-sectional study
+SO LEGAL MEDICINE
+LA English
+DT Article
+DE Suicidal behavior; Suicidal ideation; Medical students; Risk factors;
+   Suicide intent
+ID DEPRESSIVE SYMPTOMS; PHYSICIANS; PREVALENCE
+AB Many studies have been conducted in the developed countries to know the magnitude and factors influencing suicidal ideation among medical students, but such data are sparse in developing countries. This cross-sectional study was therefore conducted to find out the prevalence of suicidal ideation and factors influencing such ideation among students of a medical college in Western Nepal. A total of 206 students were selected using random sampling and questioned about their socio-demographic factors, other risk factors and suicidal ideation using a preformed validated questionnaire. The data were analyzed using SPSS for Windows Version 16.0 and the EPI Info 3.5.1 Windows Version. Descriptive statistics and testing of hypothesis were applied for the statistical methodology. The univariate and multivariate logistic regression methods were used to examine the association between different variables. Suicidal ideation in the last one year was present in nearly one tenth of the study population and in almost one fifth of them life-time suicidal ideation was present. Factors that were associated with suicidal ideation were primarily dissatisfaction with academic performance, being in the clinical semesters, having history of drug abuse and feeling neglected by parents. Most common reason reported for suicidal ideation was family related followed by self-related. Recognition of suicidal ideation among students and their associated factors can help in detecting it on time, making the right interventions and controlling the problem. Understanding the magnitude of the problem and their epidemiology via scientific study like this would be the first step in this process. (C) 2012 Elsevier Ireland Ltd. All rights reserved.
+C1 [Menezes, Ritesh G.] Med Sci & Res Ctr, Srinivas Inst, Dept Forens Med, Mangalore, India.
+   [Subba, S. H.; Jain, Animesh] Manipal Univ, Kasturba Med Coll, Dept Community Med, Mangalore, India.
+   [Sathian, Brijesh] Manipal Coll Med Sci, Dept Community Med, Pokhara, Nepal.
+   [Senthilkumaran, Subramanian] Sri Gokulam Hosp Ea Res Inst, Dept Emergency & Crit Care Med, Salem, India.
+   [Pant, Sadip] Univ Arkansas Med Sci, Dept Internal Med, Little Rock, AR 72205 USA.
+   [Arun, M.] JSS Univ, JSS Med Coll, Dept Forens Med, Mysore, Karnataka, India.
+   [Kundapur, Rashmi] Nitte Univ, KS Hegde Med Acad, Dept Community Med, Mangalore, India.
+   [Lobo, Stany Wilfred] Saba Univ, Sch Med, Dept Human Anat & Embryol, Saba, Netherlands.
+   [Shankar, P. Ravi] KIST Med Coll, Dept Med Educ, Lalitpur, Nepal.
+   [Shankar, P. Ravi] KIST Med Coll, Dept Pharmacol, Lalitpur, Nepal.
+C3 Manipal Academy of Higher Education (MAHE); Kasturba Medical College,
+   Mangalore; University of Arkansas System; University of Arkansas Medical
+   Sciences; JSS Academy of Higher Education & Research; JSS Medical
+   College, Mysuru; NITTE (Deemed to be University); K.S. Hegde Medical
+   Academy
+RP Menezes, RG (corresponding author), Med Sci & Res Ctr, Srinivas Inst, Dept Forens Med, Mangalore, India.
+EM mangalore971@yahoo.co.in
+RI Jain, Animesh/A-9807-2012; Shankar, Ravi/HSF-1169-2023; Sathian,
+   Brijesh/B-1035-2015; Kharoshah, Magdy/ADR-5349-2022; Sathian,
+   Brijesh/G-7576-2014; Shankar, P Ravi/H-3117-2019; Menezes, Ritesh
+   G/A-7480-2015
+OI Jain, Animesh/0000-0003-0250-3608; Sathian, Brijesh/0000-0003-0851-4762;
+   Sathian, Brijesh/0000-0003-0851-4762; Shankar, P
+   Ravi/0000-0001-6105-5636; Menezes, Ritesh G/0000-0002-2135-4161; M,
+   Arun/0000-0002-9571-692X; Kundapur, Rashmi/0000-0003-1563-0948
+NR 17
+TC 34
+Z9 39
+U1 0
+U2 12
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1344-6223
+J9 LEGAL MED-TOKYO
+JI Leg. Med.
+PD JUL
+PY 2012
+VL 14
+IS 4
+BP 183
+EP 187
+DI 10.1016/j.legalmed.2012.02.004
+PG 5
+WC Medicine, Legal; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Legal Medicine; Biomedical Social Sciences
+GA 956PO
+UT WOS:000305101800004
+PM 22522041
+DA 2023-12-06
+ER
+
+PT J
+AU Karki, P
+   Hansdak, SG
+   Bhandari, S
+   Shukla, A
+   Koirala, S
+AF Karki, P
+   Hansdak, SG
+   Bhandari, S
+   Shukla, A
+   Koirala, S
+TI A clinico-epidemiological study of organophosphorus poisoning at a
+   rural-based teaching hospital in eastern Nepal
+SO TROPICAL DOCTOR
+LA English
+DT Article
+ID INTENSIVE-CARE MANAGEMENT; EXPERIENCE; PRALIDOXIME
+AB Thirty-seven patients with severe organophosphorus poisoning (OPP) presented to the emergency ward of BP Koirala Institute of Health Sciences between January 1995 and December 1996. The mean age of patients was 26.9 years. There were 17 (46%) males and 20 (54%) females, with male:female ratio being 1:1.2. Twenty-three (62%) patients were unmarried with 16 (46%) of them students. The most common reason for poisoning was suicide - 32 patients (86.5%). The most commonly involved compound was Metacid (methyl-parathion)- 23 (62%) patients. Ninety per cent of the patients presented within 2 h of ingestion. All patients were managed with intravenous atropine. Pralidoxime was given to patients with nicotinic symptoms and mechanical ventilation initiated in patients with respiratory distress. The mean dose of atropine used in the first 24 h and during the hospital stay was 30.6 mg and 136.7 mg, respectively. The mean duration of treatment was 5.5 days (range 2-20 days). Two patients developed intermediate syndrome and the overall mortality among hospitalized patients was 8%.
+C1 BPKIHS, Dept Med, Dharan, Nepal.
+C3 B.P. Koirala Institute of Health Sciences
+RP Hansdak, SG (corresponding author), BPKIHS, Dept Med, Dharan, Nepal.
+NR 14
+TC 18
+Z9 19
+U1 0
+U2 0
+PU ROYAL SOC MEDICINE PRESS LTD
+PI LONDON
+PA 1 WIMPOLE STREET, LONDON W1M 8AE, ENGLAND
+SN 0049-4755
+J9 TROP DOCT
+JI Trop. Dr.
+PD JAN
+PY 2001
+VL 31
+IS 1
+BP 32
+EP 34
+DI 10.1177/004947550103100112
+PG 3
+WC Public, Environmental & Occupational Health; Tropical Medicine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Public, Environmental & Occupational Health; Tropical Medicine
+GA 396MP
+UT WOS:000166640900012
+PM 11205599
+DA 2023-12-06
+ER
+
+PT J
+AU Jordans, M
+   Rathod, S
+   Fekadu, A
+   Medhin, G
+   Kigozi, F
+   Kohrt, B
+   Luitel, N
+   Petersen, I
+   Shidhaye, R
+   Ssebunnya, J
+   Patel, V
+   Lund, C
+AF Jordans, M.
+   Rathod, S.
+   Fekadu, A.
+   Medhin, G.
+   Kigozi, F.
+   Kohrt, B.
+   Luitel, N.
+   Petersen, I.
+   Shidhaye, R.
+   Ssebunnya, J.
+   Patel, V.
+   Lund, C.
+TI Suicidal ideation and behaviour among community and health care seeking
+   populations in five low- and middle-income countries: a cross-sectional
+   study
+SO EPIDEMIOLOGY AND PSYCHIATRIC SCIENCES
+LA English
+DT Article
+DE Low- and middle-income countries; suicidal behaviour; suicidal ideation
+ID INTEGRATING MENTAL-HEALTH; RISK-FACTORS; PREVALENCE; DISORDERS;
+   ASSOCIATION; SEVERITY; DISTRICT
+AB Aims Suicidal behaviour is an under-reported and hidden cause of death in most low- and middle-income countries (LMIC) due to lack of national systematic reporting for cause-specific mortality, high levels of stigma and religious or cultural sanctions. The lack of information on non-fatal suicidal behaviour (ideation, plans and attempts) in LMIC is a major barrier to design and implementation of prevention strategies. This study aims to determine the prevalence of non-fatal suicidal behaviour within community- and health facility-based populations in LMIC.
+   Methods Twelve-month prevalence of suicidal ideation, plans and attempts were established through community samples (n = 6689) and primary care attendees (n = 6470) from districts in Ethiopia, Uganda, South Africa, India and Nepal using the Composite International Diagnostic Interview suicidality module. Participants were also screened for depression and alcohol use disorder.
+   Results We found that one out of ten persons (10.3%) presenting at primary care facilities reported suicidal ideation within the past year, and 1 out of 45 (2.2%) reported attempting suicide in the same period. The range of suicidal ideation was 3.5-11.1% in community samples and 5.0-14.8% in health facility samples. A higher proportion of facility attendees reported suicidal ideation than community residents (10.3 and 8.1%, respectively). Adults in the South African facilities were most likely to endorse suicidal ideation (14.8%), planning (9.5%) and attempts (7.4%). Risk profiles associated with suicidal behaviour (i.e. being female, younger age, current mental disorders and lower educational and economic status) were highly consistent across countries.
+   Conclusion The high prevalence of suicidal ideation in primary care points towards important opportunities to implement suicide risk reduction initiatives. Evidence-supported strategies including screening and treatment of depression in primary care can be implemented through the World Health Organization's mental health Global Action Programme suicide prevention and depression treatment guidelines. Suicidal ideation and behaviours in the community sample will require detection strategies to identify at risks persons not presenting to health facilities.
+C1 [Jordans, M.] HealthNet TPO Amsterdam, Res & Dev Dept, Amsterdam, Netherlands.
+   [Jordans, M.; Fekadu, A.; Lund, C.] Kings Coll London, Inst Psychiat Psychol & Neurosci, Ctr Global Mental Hlth, London, England.
+   [Rathod, S.] London Sch Hyg & Trop Med, Dept Populat Hlth, London, England.
+   [Fekadu, A.] Addis Ababa Univ, Coll Hlth Sci, Sch Med, Dept Psychiat, Addis Ababa, Ethiopia.
+   [Medhin, G.] Addis Ababa Univ, Aklilu Lemma Inst Pathobiol, Addis Ababa, Ethiopia.
+   [Kigozi, F.; Ssebunnya, J.] Makerere Univ, Butabika Natl Referral & Teaching Mental Hosp, Kampala, Uganda.
+   [Kohrt, B.] Duke Univ, Duke Global Hlth Inst, Durham, NC 27706 USA.
+   [Kohrt, B.; Luitel, N.] TPO, Kathmandu, Nepal.
+   [Petersen, I.] Univ KwaZulu Natal, Sch Nursing & Publ Hlth, Ctr Rural Hlth, Durban, South Africa.
+   [Shidhaye, R.] Publ Hlth Fdn India, Ctr Control Chron Condit, New Delhi, India.
+   [Shidhaye, R.; Patel, V.] Sangath, Bardez, Goa, India.
+   [Shidhaye, R.] Maastricht Univ, CAPHRI Sch Publ Hlth & Primary Care, Maastricht, Netherlands.
+   [Patel, V.] London Sch Hyg & Trop Med, Ctr Global Mental Hlth, London, England.
+   [Lund, C.] Univ Cape Town, Alan J Flisher Ctr Publ Mental Hlth, Dept Psychiat & Mental Hlth, Cape Town, South Africa.
+C3 University of London; King's College London; University of London;
+   London School of Hygiene & Tropical Medicine; Addis Ababa University;
+   Addis Ababa University; Makerere University; Duke University; University
+   of Kwazulu Natal; Public Health Foundation of India; Maastricht
+   University; University of London; London School of Hygiene & Tropical
+   Medicine; University of Cape Town
+RP Jordans, M (corresponding author), Lizzy Ansinghstr 163, NL-1072 RG Amsterdam, Netherlands.
+EM mark.jordans@hntpo.org
+RI Shidhaye, Rahul/I-1329-2019; Lund, Crick/F-4405-2011; Petersen,
+   Inge/AFW-5663-2022; Rathod, Sujit D/M-9298-2014
+OI Shidhaye, Rahul/0000-0001-9365-7164; Petersen, Inge/0000-0002-3573-4229;
+   Medhin, Girmay/0000-0003-2146-4261; Rathod, Sujit D/0000-0001-8783-7724;
+   Lund, Crick/0000-0002-5159-8220; Wassie, Abebaw
+   Fekadu/0000-0003-2219-0952
+FU UK Department of International Development (DFID); National Institute of
+   Mental Health [K01MH104310]; Department for International Development
+   (DFID) [201446] Funding Source: researchfish
+FX This document is an output from the PRIME Research Programme Consortium,
+   funded by the UK Department of International Development (DFID) for the
+   benefit of developing countries. The author BK is supported by the
+   National Institute of Mental Health (grant no. K01MH104310).
+NR 40
+TC 66
+Z9 74
+U1 2
+U2 19
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 2045-7960
+EI 2045-7979
+J9 EPIDEMIOL PSYCH SCI
+JI Epidemiol. Psychiatr. Sci.
+PD AUG
+PY 2018
+VL 27
+IS 4
+BP 393
+EP 402
+DI 10.1017/S2045796017000038
+PG 10
+WC Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychiatry
+GA GN2VQ
+UT WOS:000438860300011
+PM 28202089
+OA Green Published, Green Accepted
+DA 2023-12-06
+ER
+
+PT J
+AU Poudyal, A
+   van Heerden, A
+   Hagaman, A
+   Maharjan, SM
+   Byanjankar, P
+   Subba, P
+   Kohrt, BA
+AF Poudyal, Anubhuti
+   van Heerden, Alastair
+   Hagaman, Ashley
+   Maharjan, Sujen Man
+   Byanjankar, Prabin
+   Subba, Prasansa
+   Kohrt, Brandon A.
+TI Wearable Digital Sensors to Identify Risks of Postpartum Depression and
+   Personalize Psychological Treatment for Adolescent Mothers: Protocol for
+   a Mixed Methods Exploratory Study in Rural Nepal
+SO JMIR RESEARCH PROTOCOLS
+LA English
+DT Article
+DE developing countries; feasibility studies; mobile health; mother-child
+   interaction; postpartum depression; psychotherapy
+ID THINKING HEALTHY PROGRAM; RANDOMIZED CONTROLLED-TRIAL; MENTAL-HEALTH;
+   PERINATAL DEPRESSION; PRIMARY-CARE; WOMEN; SYMPTOMS; SUICIDE; SLEEP;
+   ETHNOPSYCHOLOGY
+AB Background: There is a high prevalence of untreated postpartum depression among adolescent mothers with the greatest gap in services in low- and middle-income countries. Recent studies have demonstrated the potential of nonspecialists to provide mental health services for postpartum depression in these low-resource settings. However, there is inconsistency in short-term and long-term benefits from the interventions. Passive sensing data generated from wearable digital devices can be used to more accurately distinguish which mothers will benefit from psychological services. In addition, wearable digital sensors can be used to passively collect data to personalize care for mothers. Therefore, wearable passive sensing technology has the potential to improve outcomes from psychological treatments for postpartum depression.
+   Objective: This study will explore the use of wearable digital sensors for two objectives: First, we will pilot test using wearable sensors to generate passive sensing data that distinguish adolescent mothers with depression from those without depression. Second, we will explore how nonspecialists can integrate data from passive sensing technologies to better personalize psychological treatment.
+   Methods: This study will be conducted in rural Nepal with participatory involvement of adolescent mothers and health care stakeholders through a community advisory board. The first study objective will be addressed by comparing behavioral patterns of adolescent mothers without depression (n=20) and with depression (n=20). The behavioral patterns will be generated by wearable digital devices collecting data in 4 domains: (1) the physical activity of mothers using accelerometer data on mobile phones, (2) the geographic range and routine of mothers using GPS (Global Positioning System) data collected from mobile phones, (3) the time and routine of adolescent mothers with their infants using proximity data collected from Bluetooth beacons, and (4) the verbal stimulation and auditory environment for mothers and infants using episodic audio recordings on mobile phones. For the second objective, the same 4 domains of data will be collected and shared with nonspecialists who are delivering an evidence-based behavioral activation intervention to the depressed adolescent mothers. Over 5 weeks of the intervention, we will document how passive sensing data are used by nonspecialists to personalize the intervention. In addition, qualitative data on feasibility and acceptability of passive data collection will be collected for both objectives.
+   Results: To date, a community advisory board comprising young women and health workers engaged with adolescent mothers has been established. The study is open for recruitment, and data collection is anticipated to be completed in November 2019.
+   Conclusions: Integration of passive sensing data in public health and clinical programs for mothers at risk of perinatal mental health problems has the potential to more accurately identify who will benefit from services and increase the effectiveness by personalizing psychological interventions.
+C1 [Poudyal, Anubhuti; Kohrt, Brandon A.] George Washington Sch Med & Hlth Sci, Dept Psychiat & Behav Sci, Div Global Mental Hlth, 2120 L St,Suite 600, Washington, DC 20037 USA.
+   [van Heerden, Alastair] Human Sci Res Council, Human & Social Dev, Pietermaritzburg, South Africa.
+   [van Heerden, Alastair] Univ Witwatersrand, Fac Hlth Sci, Dept Paediat, MRC,Wits Dev Pathways Hlth Res Unit, Johannesburg, South Africa.
+   [Hagaman, Ashley] Yale Univ, Yale Sch Publ Hlth, Dept Social & Behav Sci, New Haven, CT USA.
+   [Hagaman, Ashley] Yale Univ, Ctr Methods Implementat & Prevent Sci, New Haven, CT USA.
+   [Maharjan, Sujen Man; Byanjankar, Prabin] Transcultural Psychosocial Org Nepal, Kathmandu, Nepal.
+   [Subba, Prasansa] United Mission Nepal, Kathmandu, Nepal.
+C3 George Washington University; University of Witwatersrand; Yale
+   University; Yale University
+RP Kohrt, BA (corresponding author), George Washington Sch Med & Hlth Sci, Dept Psychiat & Behav Sci, Div Global Mental Hlth, 2120 L St,Suite 600, Washington, DC 20037 USA.
+EM bkohrt@gwu.edu
+RI Van Heerden, Alastair/AAY-6262-2020
+OI Van Heerden, Alastair/0000-0003-2530-6885; Poudyal,
+   Anubhuti/0000-0002-6426-2646; Hagaman, Ashley/0000-0002-8016-1036;
+   Kohrt, Brandon/0000-0002-3829-4820; Byanjankar,
+   Prabin/0000-0001-9517-2881; Man Maharjan, Sujen/0000-0002-5220-4553
+FU Nepal Health Research Council; Bill and Melinda Gates Foundation
+   [OPP1189927]; Bill and Melinda Gates Foundation [OPP1189927] Funding
+   Source: Bill and Melinda Gates Foundation
+FX The authors are grateful to the members of the Chitwan StandStrong
+   Community Advisory Board for their contributions to the study design.
+   They thank Anvita Bhardwaj and Sauharda Rai for the contribution to the
+   development of the StandStrong study. Special thanks to the
+   collaborating staff of Transcultural Psychosocial Organization Nepal:
+   Anup Adhikari, Bindu Aryal, Kamal Gautam, Suraj Koirala, Sovita Lohani,
+   Nagendra Luitel, Aasha Mahato, and Bhagwati Sapkota Kendra Mahato and
+   Bibek KC. The authors would also like to thank Celia Islam for her
+   assistance in editing the paper. The authors acknowledge the support of
+   Nepal Health Research Council. The StandStrong project has been funded
+   by the Bill and Melinda Gates Foundation (grant number #OPP1189927).
+NR 94
+TC 14
+Z9 14
+U1 4
+U2 20
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 130 QUEENS QUAY E, STE 1102, TORONTO, ON M5A 0P6, CANADA
+SN 1929-0748
+J9 JMIR RES PROTOC
+JI JMIR RES. Protoc.
+PD SEP
+PY 2019
+VL 8
+IS 9
+AR e14734
+DI 10.2196/14734
+PG 22
+WC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+WE Emerging Sources Citation Index (ESCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA JB5QS
+UT WOS:000488621400009
+PM 31512581
+OA gold, Green Published
+DA 2023-12-06
+ER
+
+PT C
+AU Laurier, M
+   Bhattarai, Y
+AF Laurier, Michel
+   Bhattarai, Yogendra
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI IMPACT OF HIGH-STAKES TESTS IN THE EASTERN AND WESTERN WORLDS
+SO ICERI2016: 9TH INTERNATIONAL CONFERENCE OF EDUCATION, RESEARCH AND
+   INNOVATION
+SE ICERI Proceedings
+LA English
+DT Proceedings Paper
+CT 9th Annual International Conference of Education, Research and
+   Innovation (iCERi)
+CY NOV 14-16, 2016
+CL Seville, SPAIN
+DE High-stakes test; Consequential validity
+AB Many educational systems use official examinations in order to certify competencies that have been developed or knowledge that has been acquired at the end of a programme or course of study. These exams avec often considered as high-stakes tests because of the impact they may have on the future of the examinees. Results become factors of social promotion as they give access to some educational programmes or better jobs. At the individual level, the implementation of these tests may result in high anxiety and encourage strategies such as cramming. At the social level, they reflect relations between groups and reinforce particular values.
+   The concept of high-stakes test does not apply only to certification situations. In fact, different mode of learning assessment may have major consequences depending on the cultural environment in which they take place. We see, for example, that comparable tests have a different impact when they are administered in Asia rather than America. Some examples of high-stakes tests in the Eastern world and the Western world raise issues with regard of consequential validity - this concept being defined as the interaction between the stakeholders, the purpose, and the context.
+   High-stake tests are recent in Europe and America. However, in China, the Keju system used high-stakes tests as early as 606. Under the Ming dynasty, a Keju syndrome emerged with anxiety, depression or even suicide; it is still persistent in many countries of Asia. In Nepal, a strict national exam system has been set in place. In 2015, the Government decided to eliminate the passing note, thus reducing dramatically the negative consequences. Our research aims at clarifying the rationale for such a reform and analyse the impact of moving from a must pass exam to a no fail exam the stakeholders and the curriculum.
+   We observe that the negative consequences that are associated with a test are in fact related to its use and vary according to the cultural and social environment. It is important to envision the consequential validity from an ecological perspective.
+C1 [Laurier, Michel; Bhattarai, Yogendra] Univ Ottawa, Ottawa, ON, Canada.
+C3 University of Ottawa
+RP Laurier, M (corresponding author), Univ Ottawa, Ottawa, ON, Canada.
+NR 22
+TC 0
+Z9 0
+U1 1
+U2 4
+PU IATED-INT ASSOC TECHNOLOGY EDUCATION A& DEVELOPMENT
+PI VALENICA
+PA LAURI VOLPI 6, VALENICA, BURJASSOT 46100, SPAIN
+SN 2340-1095
+BN 978-84-617-5895-1
+J9 ICERI PROC
+PY 2016
+BP 7702
+EP 7707
+PG 6
+WC Education & Educational Research
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research
+GA BJ0ZM
+UT WOS:000417330207101
+DA 2023-12-06
+ER
+
+EF

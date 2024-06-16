@@ -1,0 +1,156 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Darré, T
+   Consuela, KAC
+   Saka, B
+   Djiwa, T
+   Ekouévi, KD
+   Napo-Koura, G
+AF Darre, Tchin
+   Consuela, Koffi Assaba Cinthia
+   Saka, Bayaki
+   Djiwa, Toukilnan
+   Ekouevi, Koumavi Didier
+   Napo-Koura, Gado
+TI Suicidal ideation and suicide attempts in subjects aged 15-19 in Lome
+   (Togo)
+SO BMC RESEARCH NOTES
+LA English
+DT Article
+AB Objectives: The purpose of this study was to study the epidemiological and clinical profile of adolescents with suicidal thoughts, with or without suicide attempts, and to identify associated factors.
+   Results: A total of 155 (16.5%) of the 941 adolescents interviewed had suicidal thoughts. The average age of the respondents was 18 +/- 2.1 years. The sex ratio (m/f) was 1.4. With regard to marital status, 70.2% were single and 29.8% were in a relationship with a cohabiting partner. Family history of suicide was reported in 40%. In their personal history, eight were infected with HIV, three were chronic ethylic and two were diabetics. Forty-six (29.7%) of the 155 adolescents who had suicidal ideation had ever had a suicide attempt. Teens affected by suicide lived in a boarding school in 25.8%, with one parent in 23.9% and 50.3% with both parents. Factors associated with suicide attempts were female sex (p= 0.0107), age over 18 years (p = 0.0177), living in a couple (p = 0.0316), underlying immunodepression (HIV infection, p= 0.0059, sickle cell disease, p= 0.0043) and having a family history of suicides (p= 0.0461).
+C1 [Darre, Tchin; Consuela, Koffi Assaba Cinthia; Djiwa, Toukilnan; Napo-Koura, Gado] Univ Lome, Dept Pathol, BP 1515, Lome, Togo.
+   [Saka, Bayaki] Univ Lome, Dept Dermatol, Lome, Togo.
+   [Ekouevi, Koumavi Didier] Univ Lome, Dept Hlth & Epidemiol, Lome, Togo.
+RP Darré, T (corresponding author), Univ Lome, Dept Pathol, BP 1515, Lome, Togo.
+EM paolodarre@yahoo.fr
+NR 0
+TC 5
+Z9 6
+U1 3
+U2 7
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+EI 1756-0500
+J9 BMC RES NOTES
+JI BMC Res. Notes
+PD MAR 29
+PY 2019
+VL 12
+AR 187
+DI 10.1186/s13104-019-4233-0
+PG 4
+WC Biology; Multidisciplinary Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Life Sciences & Biomedicine - Other Topics; Science & Technology - Other
+   Topics
+GA HQ9AP
+UT WOS:000462719100001
+PM 30925944
+OA gold, Green Published
+DA 2023-12-05
+ER
+
+PT J
+AU Kpanake, L
+   Dassa, KS
+   Sorum, PC
+   Mullet, E
+AF Kpanake, Lonzozou
+   Dassa, Kolou S.
+   Sorum, Paul Clay
+   Mullet, Etienne
+TI Togolese lay people's and health professionals' views about the
+   acceptability of physician-assisted suicide
+SO JOURNAL OF MEDICAL ETHICS
+LA English
+DT Article
+ID EUTHANASIA; AFRICA
+AB Aim To study the views on the acceptability of physician-assisted-suicide (PAS) of lay people and health professionals in an African country, Togo.
+   Method In February-June 2012, 312 lay people and 198 health professionals (75 physicians, 60 nurses and 63 health counsellors) in Togo judged the acceptability of PAS in 36 concrete scenarios composed of all combinations of four factors: (a) the patient's age, (b) the level of incurability of the illness, (c) the type of suffering and (d) the patient's request for PAS. In all scenarios, the patients were women receiving the best possible care. The ratings were subjected to cluster analysis and analyses of variance.
+   Results Most lay people (59%) were not systematically opposed to PAS, whereas most health professionals (80%) were systematically opposed to it. The most important factors in increasing acceptability among people not systematically opposed were advanced age of the patient and incurability of the illness. Additional acceptability was provided by the patient's request to have her life ended, although much less so than in studies in Western countries, and by suffering characterised by complete dependence rather than by extreme physical pain.
+   Conclusions These empirical findings-the first ones gathered in the African continent-suggest that most Togolese lay people are not categorically for or against PAS, but judge its degree of acceptability as a function of concrete circumstances.
+C1 [Kpanake, Lonzozou] Univ Quebec, Dept Psychol, TELUQ, Montreal, PQ H2S 3L5, Canada.
+   [Dassa, Kolou S.] Univ Lome Teaching Hosp, Dept Med Psychol & Psychiat, Lome, Togo.
+   [Sorum, Paul Clay] Albany Med Coll, Dept Internal Med, Albany, NY 12208 USA.
+   [Sorum, Paul Clay] Albany Med Coll, Dept Pediat, Albany, NY 12208 USA.
+   [Mullet, Etienne] Inst Adv Studies EPHE, Eth & Work Lab, Paris, France.
+C3 University of Quebec; University of Quebec Montreal; Universite TELUQ;
+   Albany Medical College; Albany Medical College; UDICE-French Research
+   Universities; Universite PSL; Ecole Pratique des Hautes Etudes (EPHE)
+RP Kpanake, L (corresponding author), Univ Quebec, Dept Psychol, TELUQ, 5800 Rue St Denis,Bur 1105, Montreal, PQ H2S 3L5, Canada.
+EM lonzozou.kpanake@teluq.ca
+FU TELUQ, Fonds Nouveaux Professeurs
+FX TELUQ, Fonds Nouveaux Professeurs.
+NR 18
+TC 10
+Z9 10
+U1 0
+U2 17
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 0306-6800
+EI 1473-4257
+J9 J MED ETHICS
+JI J. Med. Ethics
+PD SEP
+PY 2014
+VL 40
+IS 9
+BP 621
+EP 624
+DI 10.1136/medethics-2013-101424
+PG 4
+WC Ethics; Medical Ethics; Social Issues; Social Sciences, Biomedical
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics; Medical Ethics; Social Issues;
+   Biomedical Social Sciences
+GA AN0BI
+UT WOS:000340246100012
+PM 23903992
+OA Green Accepted
+DA 2023-12-05
+ER
+
+PT J
+AU Brittain, V
+AF Brittain, Victoria
+TI They had to die: assassination against liberation
+SO RACE & CLASS
+LA English
+DT Article
+DE Africa; ANC; anti-colonialism; CIA; Palestine; PLO; terrorism
+AB The use of political assassinations against key leaders of liberation movements has had a major impact on the course of history in Africa and the Middle East. Not only have some of the greatest of Third World leaders been killed but so, too, has the hope for political change they embodied. This survey of assassinations carried out by western states and their agents from the 1960s onwards reveals a bloody legacy of killings of leaders from Algeria, Cameroon, Congo, Ghana, Guinea-Bissau, Morocco, Mozambique, Palestine, South Africa, Togo and Zimbabwe - all of which were linked to the interests of western imperialism. Today's daily diet of suicide bombings and the targeting of civilians by both western militaries and jihadis is one consequence, it is suggested, of the brutalisation effected by the policy of political assassination.
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0306-3968
+J9 RACE CLASS
+JI Race Cl.
+PD JUL-SEP
+PY 2006
+VL 48
+IS 1
+BP 60
+EP 74
+DI 10.1177/0306396806066647
+PG 15
+WC Anthropology; Ethnic Studies; Social Issues; Social Sciences,
+   Interdisciplinary; Sociology
+WE Social Science Citation Index (SSCI)
+SC Anthropology; Ethnic Studies; Social Issues; Social Sciences - Other
+   Topics; Sociology
+GA 064WW
+UT WOS:000239122400004
+DA 2023-12-05
+ER
+
+EF

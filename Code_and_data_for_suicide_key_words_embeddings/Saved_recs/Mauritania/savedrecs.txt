@@ -1,0 +1,74 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bjegovic-Mikanovic, V
+   Abousbie, ZAS
+   Breckenkamp, J
+   Wenzel, H
+   Broniatowski, R
+   Nelson, C
+   Vukovic, D
+   Laaser, U
+AF Bjegovic-Mikanovic, Vesna
+   Abousbie, Zeyad Ali Salem
+   Breckenkamp, Juergen
+   Wenzel, Helmut
+   Broniatowski, Raphael
+   Nelson, Chase
+   Vukovic, Dejana
+   Laaser, Ulrich
+TI A gap analysis of SDG 3 and MDG 4/5mortality health targets in the six
+   Arabic countries of North Africa: Egypt, Libya, Tunisia, Algeria,
+   Morocco, and Mauritania
+SO LIBYAN JOURNAL OF MEDICINE
+LA English
+DT Article
+DE North Africa; Sustainable Development Goals; health development targets;
+   gap analysis; Maternal and Child Health; non-communicable diseases;
+   deadly traffic injuries
+ID MATERNAL MORTALITY
+AB Background: The United Nations Assembly adopted the Sustainable Development Goals to succeed the Millennium Development Goals in September 2015. From a European perspective, the development of health in the countries of North Africa are of special interest as a critical factor of overall social development in Europe's Mediterranean partners. In this paper, we address the mortality related SDG-3 targets, the likelihood to achieve them until 2030 and analyze how they are defined. Methods: We projected mortality trends from 2000-2015 to 2030, based on mortality estimates by inter-agency groups and the WHO in mother and child health, non-communicable diseases, and road traffic mortality. The gap analysis compares the time remaining until 2030 to the time needed to complete the target assuming a linear trend of the respective indicator. A delay of not more than 3.75 years is considered likely to achieve the target. Results: The SDG-3 targets of a Maternal Mortality Ratio below 70 per 100 000 live births and an U5MR below 25 per 1 000 live births have been achieved by Egypt, Libya, and Tunisia. Libya and Tunisia have also achieved the target for Newborn Mortality with Egypt close to achieving it as well. Algeria and Morocco are generally on track for most of the indicators, including deaths from non-communicable diseases and suicide rates; however, all of the countries are lagging when it comes to deadly Road Traffic Injuries for 2030. Mauritania is the only North African country which is not likely to reach the 2030 targets for any of the mortality indicators. Conclusions: Although mortality statistics may be incomplete there is an impressive gradient from East to West showing Mauritania and deadly road traffic injuries as the most problematic areas. Given the large differences between countries baselines, we consider it preferable to set realistic targets to be achieved until 2030.
+C1 [Bjegovic-Mikanovic, Vesna; Vukovic, Dejana] Univ Belgrade, Fac Med, Inst Social Med, Belgrade, Serbia.
+   [Abousbie, Zeyad Ali Salem] Univ Belgrade, Fac Med, Sch Publ Hlth & Management, Belgrade, Serbia.
+   [Breckenkamp, Juergen; Laaser, Ulrich] Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+   [Broniatowski, Raphael; Nelson, Chase] EPOS Consulting, Bad Homburg, Germany.
+C3 University of Belgrade; University of Belgrade; University of Bielefeld
+RP Breckenkamp, J (corresponding author), Bielefeld Univ, Bielefeld Sch Publ Hlth, Bielefeld, Germany.
+EM juergen.breckenkamp@uni-bielefeld.de
+RI Bjegovic-Mikanovic, Vesna/AAD-9847-2019; Laaser, Ulrich/ACH-6512-2022;
+   Laaser, Ulrich/AAE-9755-2022; Laaser, Ulrich/AAD-9790-2019
+OI Bjegovic-Mikanovic, Vesna/0000-0002-8299-6555; Laaser,
+   Ulrich/0000-0001-5889-4471; Vukovic, Dejana/0000-0002-3323-3711
+FU Open Access Publication Fund of Bielefeld University
+FX We acknowledge support for the Article Processing Charge by the Open
+   Access Publication Fund of Bielefeld University.
+NR 62
+TC 9
+Z9 10
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1993-2820
+EI 1819-6357
+J9 LIBYAN J MED
+JI Libyan J. Med.
+PD JAN 1
+PY 2019
+VL 14
+IS 1
+AR 1607698
+DI 10.1080/19932820.2019.1607698
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA HV6PD
+UT WOS:000466104400001
+PM 31032713
+OA gold, Green Published
+DA 2023-12-03
+ER
+
+EF

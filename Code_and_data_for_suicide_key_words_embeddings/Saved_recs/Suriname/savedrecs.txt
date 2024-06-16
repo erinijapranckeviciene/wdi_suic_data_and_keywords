@@ -1,0 +1,232 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU van Spijker, BAJ
+   Graafsma, T
+   Dullaart, HIA
+   Kerkhof, AJFM
+AF van Spijker, B. A. J.
+   Graafsma, T.
+   Dullaart, H. I. A.
+   Kerkhof, A. J. F. M.
+TI Impulsive but Fatal Self-Poisoning with Pesticides Among South Asians in
+   Nickerie, Suriname An Exploratory Autopsy Study
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; pesticides; South Asians; Suriname
+ID PSYCHOLOGICAL AUTOPSY; HIGH-RATES; SUICIDE
+AB Background: Intentional self-poisoning with pesticides is a serious problem in many developing countries. It is a commonly used method among South Asians all over the world. Aims: To describe the circumstances and characteristics of suicides in Nickerie, Suriname, in order to gain insight into why South Asians commonly use self-poisoning. Methods: An exploratory psychological autopsy study was conducted among 19 survivors of 13 suicides in the Nickerie district in Suriname. Results: Impulsivity plays an important role in self-poisonings, as well as aggression and easy accessibility of pesticides. Conclusions: Possible answers to the question why South Asians often use self-poisoning as a method for suicide may be found in culture, upbringing, styles of communication and genetics. However, more research is needed to further explore these hypotheses.
+C1 [van Spijker, B. A. J.; Kerkhof, A. J. F. M.] Vrije Univ Amsterdam, Dept Clin Psychol, Amsterdam, Netherlands.
+   [van Spijker, B. A. J.; Kerkhof, A. J. F. M.] Vrije Univ Amsterdam, EMGO Inst Hlth & Care Res, Fac Psychol & Educ, Amsterdam, Netherlands.
+   [Graafsma, T.] Gen Hosp, Dept Med Psychol, Nickerie, Suriname.
+   [Dullaart, H. I. A.] Vrije Univ Amsterdam, Dept Clin Psychol, Amsterdam, Netherlands.
+C3 Vrije Universiteit Amsterdam; Vrije Universiteit Amsterdam; Vrije
+   Universiteit Amsterdam
+RP Kerkhof, AJFM (corresponding author), Vrije Univ Amsterdam, Dept Clin Psychol, Boechorststr 1, NL-1081 BT Amsterdam, Netherlands.
+EM ajfm.kerkhof@psy.vu.nl
+NR 18
+TC 9
+Z9 9
+U1 0
+U2 9
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2009
+VL 30
+IS 2
+BP 102
+EP 105
+DI 10.1027/0227-5910.30.2.102
+PG 4
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 444YY
+UT WOS:000266018000010
+PM 19525171
+OA Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Graafsma, T
+   Kerkhof, A
+   Gibson, D
+   Badloe, R
+   de Beek, LMV
+AF Graafsma, T.
+   Kerkhof, A.
+   Gibson, D.
+   Badloe, R.
+   de Beek, L. M. van
+TI High rates of suicide and attempted suicide using pesticides in
+   Nickerie, Suriname, South America
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE suicide; attempted suicide; pesticides; Hindustan culture; prevention
+AB Suicide and attempted suicide are identified as a serious mental health problem in Suriname, especially in the district of Nickerie. An epidemiological study in the Nickerie catchment area revealed high rates of suicide (48 per 100,000) and attempted suicide (207 per 100,000) on average in the years 2000-2004. Particularly remarkable is the high number of attempted suicides among males (49%), and the use of pesticides in both fatal (55%) and nonfatal suicidal behavior (44%). Probably this high incidence of suicidal behavior reflects the very poor economic situation of the district, poverty of most of the population, high levels of alcohol misuse, domestic violence, the rigidity of Hindustani culture regarding family traditions, the accessibility of pesticides, and the lack of future perspectives. Health care alone will not be sufficient to tackle this problem. One of the most urgent measures to prevent suicides is to stow away pesticides in locked cabinets with the key held by the proprietor.
+C1 Gen Hosp, Dept Med Psychol, Nickerie, Suriname.
+   Vrije Univ Amsterdam, Amsterdam, Netherlands.
+   Welzijns Inst, Nickerie, Suriname.
+   Hogesch Inholland, Paramaribo, Suriname.
+C3 Vrije Universiteit Amsterdam
+RP Graafsma, T (corresponding author), Kolonistenweg 8, Paramaribo, Suriname.
+EM tobigraafsma@sr.net
+NR 16
+TC 26
+Z9 26
+U1 0
+U2 15
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+EI 2151-2396
+J9 CRISIS
+JI Crisis
+PY 2006
+VL 27
+IS 2
+BP 77
+EP 81
+DI 10.1027/0227-5910.27.2.77
+PG 5
+WC Psychiatry; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychiatry; Psychology
+GA 081GB
+UT WOS:000240304100005
+PM 16913329
+OA Green Published
+DA 2023-12-07
+ER
+
+PT J
+AU Quinlan-Davidson, M
+   Sanhueza, A
+   Espinosa, I
+   Escamilla-Cejudo, JA
+   Maddaleno, M
+AF Quinlan-Davidson, Meaghen
+   Sanhueza, Antonio
+   Espinosa, Isabel
+   Escamilla-Cejudo, Jose Antonio
+   Maddaleno, Matilde
+TI Suicide Among Young People in the Americas
+SO JOURNAL OF ADOLESCENT HEALTH
+LA English
+DT Article
+DE Adolescent and youth suicide mortality rates; Relative risks; Average
+   annual percent variation; Suicide in young people
+ID YOUTH SUICIDE; RISK-FACTORS; ADOLESCENTS; BEHAVIOR; GENDER; TRENDS;
+   LEGISLATION; MORTALITY; TEENAGERS; COUNTRIES
+AB Purpose: To examine suicide mortality trends among young people (10-24 years of age(1)) in selected countries and territories of the Americas.
+   Methods: An ecological study was conducted using a time series of suicide mortality data from 19 countries and one territory in the Region of the Americas from 2001 to 2008, comprising 90.3% of the regional population. The analyses included age-adjusted suicide mortality rates, average annual variation in suicide mortality rates, and relative risks for suicide, by age and sex.
+   Results: The mean suicide rate for the selected study period and countries/territory was 5.7/100,000 young people (10-24 years), with suicide rates higher among males (7.7/100,000) than females (2.4/100,000). Countries with the highest total suicide mortality rates among young people (10-24 years) were Guyana, Suriname, Nicaragua, El Salvador, Chile, and Ecuador; countries with the lowest total suicide mortality rates included Mexico, Venezuela, Cuba, and Brazil, and the U.S. territory of Puerto Rico. During this period, there was a significant increase in suicide mortality rates among young people in the following countries: Argentina, Chile, Ecuador, Mexico, and Suriname; countries with significant decreases in suicide mortality rates included Canada, Colombia, Cuba, El Salvador, and Venezuela. The three leading suicide methods in the Americas were hanging, firearms, and poisoning.
+   Conclusions: Some countries of the Americas have experienced a rise in adolescent and youth suicide during the study period, with males at a higher risk of committing suicide than females. Adolescent and youth suicide policies and programs are recommended, to curb this problem. Methodological limitations are discussed. (C) 2014 Society for Adolescent Health and Medicine. All rights reserved.
+C1 [Quinlan-Davidson, Meaghen; Espinosa, Isabel; Maddaleno, Matilde] WHO, Pan Amer Hlth Org, Reg Off, Dept Adolescent Hlth Area Family & Community Hlth, Washington, DC USA.
+   [Sanhueza, Antonio; Escamilla-Cejudo, Jose Antonio] WHO, Pan Amer Hlth Org, Reg Off, Dept Hlth Informat & Anal Area Hlth Surveillance, Washington, DC USA.
+C3 World Health Organization; Pan American Health Organization; World
+   Health Organization; Pan American Health Organization
+RP Maddaleno, M (corresponding author), Pan Amer Hlth Org, Dept Adolescent Hlth, 525 23rd St NW, Washington, DC 20037 USA.
+EM maddelem@paho.org
+FU World Health Organization [001] Funding Source: Medline
+NR 40
+TC 41
+Z9 53
+U1 1
+U2 54
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1054-139X
+EI 1879-1972
+J9 J ADOLESCENT HEALTH
+JI J. Adolesc. Health
+PD MAR
+PY 2014
+VL 54
+IS 3
+BP 262
+EP 268
+DI 10.1016/j.jadohealth.2013.07.012
+PG 7
+WC Psychology, Developmental; Public, Environmental & Occupational Health;
+   Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Public, Environmental & Occupational Health; Pediatrics
+GA AB3XF
+UT WOS:000331722800005
+PM 23992759
+DA 2023-12-07
+ER
+
+PT J
+AU Peplow, D
+   Augustine, S
+AF Peplow, Daniel
+   Augustine, Sarah
+TI Intervention mapping to address social and economic factors impacting
+   indigenous people's health in Suriname's interior region
+SO GLOBALIZATION AND HEALTH
+LA English
+DT Article
+DE Indigenous health; Economic policy; Global health governance;
+   Multi-lateral development banks
+ID MERCURY EXPOSURE; SYSTEMS THINKING
+AB Background: Previous studies found that while internationally financed economic development projects reduced poverty when measured in terms of per capita GDP, they also caused indigenous people to become disassociated, impoverished and alienated minorities whose health status has declined to unacceptable lows when measured in terms of mercury poisoning and the burgeoning rate of suicide. In this study, we developed a needs assessment and a policy-oriented causal diagram to determine whether the impaired health of the people in this region was at least partially due to the role the country has played within the global economy. Specifically, could the health and wellbeing of indigenous people in Suriname be understood in terms of the foreign investment programs and economic development policies traceable to the Inter-American Development Bank's Suriname Land Management Project.
+   Methods: Interviews took place from 2004 through 2015 involving stakeholders with an interest in public health and economic development. A policy-oriented causal diagram was created to model a complex community health system and weave together a wide range of ideas and views captured during the interview process.
+   Results: Converting land and resources held by indigenous people into private ownership has created an active market for land, increased investment and productivity, and reduced poverty when measured in terms of per capita GDP. However, it has also caused indigenous people to become disassociated, impoverished and alienated minorities whose health status has declined to unacceptable lows. While the effects of economic development programs on the health of vulnerable indigenous communities are clear, the governance response is not. The governance response appeared to be determined less by the urgency of the public health issue or by the compelling logic of an appropriate response, and more by competing economic interests and the exercise of power.
+   Conclusion: The health and well-being of the indigenous Wayana in Suriname's interior region is at least partially due to the role the country has played within the global economy. Specifically, the health and well-being of indigenous people in Suriname can be understood to be a result of foreign development bank-funded projects that drive the government of Suriname to trade land and natural resources on the global market to manage their country's balance of payments.
+C1 [Peplow, Daniel] Univ Washington, Dept Hlth Serv, White Swan, WA USA.
+   [Peplow, Daniel] Suriname Indigenous Hlth Fund, White Swan, WA USA.
+   [Augustine, Sarah] Heritage Univ, Dept Sociol, Toppenish, WA USA.
+C3 University of Washington
+RP Peplow, D (corresponding author), Univ Washington, Dept Hlth Serv, White Swan, WA USA.; Peplow, D (corresponding author), Suriname Indigenous Hlth Fund, White Swan, WA USA.
+EM dpeplow@uw.edu
+RI Peplow, Daniel/HKP-0611-2023
+FU Rathmann Foundation; Puget Sound Partners for Global Health [26145];
+   Wellcome Trust [089659/Z/09/A, 089659/Z/09/Z]; Alliance for Global
+   Justice; Wellcome Trust [089659/Z/09/A, 089659/Z/09/Z] Funding Source:
+   Wellcome Trust
+FX This paper is based on work supported in part by the Rathmann
+   Foundation; Puget Sound Partners for Global Health (26145); Wellcome
+   Trust (089659/Z/09/A, 089659/Z/09/Z); and the Alliance for Global
+   Justice. The funding bodies listed here had no role in the project
+   design or data collection, analysis, or interpretation or in the
+   preparation of the manuscript.
+NR 74
+TC 2
+Z9 2
+U1 0
+U2 8
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1744-8603
+J9 GLOBALIZATION HEALTH
+JI Global. Health
+PD MAR 1
+PY 2017
+VL 13
+AR 11
+DI 10.1186/s12992-017-0238-4
+PG 18
+WC Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Public, Environmental & Occupational Health
+GA EO8GX
+UT WOS:000396928300001
+PM 28249611
+OA Green Published, gold
+DA 2023-12-07
+ER
+
+EF
